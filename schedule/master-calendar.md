@@ -29,6 +29,14 @@
 | Feb 27 | Fri | AI | 3 | Re-Engage Ghosted Leads With AI | All | 8.0 |
 | Feb 28 | Sat | Tip | 3 | You hit top 1% and still feel like you're losing. (Garrett Maroon) | Burned Out Veteran | 9 |
 
+### Bonus Post
+
+| Date | Day | Series | # | Title | Avatar | Score |
+|------|-----|--------|---|-------|--------|-------|
+| Mar 01 | Sun | Tip | BONUS | Rates Below 6% — 3 Calls Every Agent Should Make Right Now (D.J. Paris) | All | — |
+
+*Timely market script — rates hit 5.98% (Freddie Mac, Feb 26). Posted outside regular schedule.*
+
 ## Week 2: Mar 02 - Mar 07, 2026
 
 | Date | Day | Series | # | Title | Avatar | Score |
