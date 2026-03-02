@@ -15,10 +15,14 @@ ai_tool: "Claude"
 
 The more available you are for everyone, the less present you are for the clients who actually deserve your best. You accidentally trained people to treat your time as free.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Here's the fix. Ask Claude: "Write a warm, professional one-page document that sets clear response time standards, defines what's a real emergency versus what can wait, and explains how I work best. Make it feel like a system -- not a boundary."
 
 Send it to every new client at the start. It's not a boundary. It's a system. And systems are how great agents protect the time that makes them great.
 
+
+See you next time.
 ---
 
 **Caption:** The Claude prompt that builds your client communication rules -- warm, professional, and protective of the time that makes you great.

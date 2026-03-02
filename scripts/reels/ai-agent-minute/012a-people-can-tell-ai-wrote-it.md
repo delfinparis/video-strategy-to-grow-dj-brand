@@ -15,11 +15,17 @@ ai_tool: "Claude"
 
 People can tell when AI wrote your content. And they trust it less when they can.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 You ask AI to "write a post about real estate" and wonder why it sounds like every other AI-generated post in the feed. Generic AI content doesn't just fail to help -- it signals that nobody cared enough to actually show up.
 
 Most agents use AI to replace their voice. Top producers use it to amplify it. There's a massive difference.
 
+Here's the fix: Paste five of your own emails or posts into Claude and say "Learn my voice, then write my next market update in that style." Night and day difference.
+
+
+See you next time.
 ---
 
 **Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
-**Hashtags:** #RealEstateAgent #ContentCreation #PersonalBrand #RealtorLife #AIContent
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation #PersonalBrand #RealtorLife #AIContent

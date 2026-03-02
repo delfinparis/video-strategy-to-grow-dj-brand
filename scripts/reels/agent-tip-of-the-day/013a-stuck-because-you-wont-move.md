@@ -14,8 +14,14 @@ target_duration: "27 seconds"
 
 You're not stuck because you don't know enough. You're stuck because you won't move.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Connie Mahan -- REALTOR of the Year, broker owner in Central Florida -- closed her first deal before she finished her first training module. Her best advice: "Get in and do, and the rest will figure itself out." She called her first expired listing with sweaty palms and a half-written script. She door-knocked a neighborhood where she mispronounced street names. Every single messy moment taught her more than any course ever could.
 
+Do this tomorrow: Call one expired listing. It doesn't matter if the script is perfect. Confidence comes after the call, not before.
+
+
+See you next time.
 ---
 
 **Caption:** Stop studying. Start doing. The rest figures itself out.

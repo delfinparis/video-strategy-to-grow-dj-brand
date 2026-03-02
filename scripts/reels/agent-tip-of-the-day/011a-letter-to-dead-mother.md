@@ -14,10 +14,16 @@ target_duration: "27 seconds"
 
 Your buyer just asked if they could write a letter to the seller's dead mother.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Marisa Kashino wrote a bestselling novel about a woman who goes unhinged trying to buy a house. The scary part? Agents told her these stories are real. Buyers offering to pay for the seller's divorce attorney. Promising to name their baby after the seller. One guy tried to buy the house next door just to be closer.
 
 You're not managing transactions. You're managing people at their absolute breaking point.
 
+Do this before your next offer: Sit with your buyer for 10 minutes and set boundaries on what you will and won't do to win.
+
+
+See you next time.
 ---
 
 **Caption:** Your buyer will do absolutely insane things for a house. The question is: where's your line?

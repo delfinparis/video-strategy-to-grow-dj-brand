@@ -15,12 +15,16 @@ ai_tool: "Claude"
 
 Your GCI number is a lie you tell yourself. What actually matters is what you keep.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Splits, taxes, marketing, software, mileage, staging, referral fees -- a two-hundred-thousand-dollar GCI year might net you sixty thousand. Maybe less.
 
 Here's the fix. Give Claude your last twelve months of income and expenses. Type: "Calculate my real net profit per deal and per year. What are my highest-cost line items? Where am I spending money that isn't generating a return?"
 
 Then make one decision based on what you find. Just one. Revenue is vanity. Profit is sanity.
 
+
+See you next time.
 ---
 
 **Caption:** The Claude prompt that shows you what you actually keep per deal. Most agents have never run this math. You can do it tonight.

@@ -14,8 +14,14 @@ target_duration: "27 seconds"
 
 Insurance is killing more deals than bad inspections right now.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Jeff Biebuyck moves luxury properties in Calabasas -- top 1% nationwide -- and he's watching it happen in real time. Buyers are pre-approved. Inspection's clean. Then they get the insurance quote and the numbers don't work. In fire-risk zones, premiums doubled or tripled. In flood zones, policies disappeared entirely. A $2 million home now costs $25K a year just to insure. That's $2,000 a month your buyer didn't budget for.
 
+Here's your move: Before your next showing, pull the insurance estimate. Send it to your buyer on day one. Never let it kill the deal at closing.
+
+
+See you next time.
 ---
 
 **Caption:** The hidden deal-killer no one's talking about. Insurance is destroying more deals than bad inspections.

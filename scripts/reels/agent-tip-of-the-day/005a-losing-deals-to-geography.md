@@ -14,10 +14,16 @@ target_duration: "25 seconds"
 
 You lost a $2.3M buyer last month because you couldn't pull comps from Denver.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Retirees comparing Phoenix, Boise, and Raleigh. Investors asking about cap rates in three states. And you're stuck saying "let me refer you out" because your MLS ends at the county line. You lose the client. Someone else closes the deal.
 
 Real estate tech analyst Chris Linsell says it's time for a national MLS. But smart agents aren't waiting. They're building their own.
 
+Here's your move: Find one agent in a market your buyers keep asking about. Send them a DM today. That's your referral network starting.
+
+
+See you next time.
 ---
 
 **Caption:** You're losing deals to geography. Here's why that's a decision problem, not a tech problem.

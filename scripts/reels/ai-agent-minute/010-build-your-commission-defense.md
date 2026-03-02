@@ -15,10 +15,14 @@ ai_tool: "Claude"
 
 If you can't explain your commission in sixty seconds without flinching -- you're going to lose it. Every time you stumble, the client hears one thing: even my agent doesn't believe they're worth it.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Here's the fix. Tell Claude: "Help me build a confident two-minute value story for why my commission is worth every dollar. My average sale price is X, my days on market is Y, my list-to-sale ratio is Z. Write it so I can deliver it naturally -- not like a script."
 
 Practice it until you own it. You don't have a commission problem. You have a value communication problem -- and that one is fixable.
 
+
+See you next time.
 ---
 
 **Caption:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
