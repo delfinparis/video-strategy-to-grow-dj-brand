@@ -1,0 +1,25 @@
+---
+series: "AI Agent Minute"
+original_script: "087"
+reel_number: 2 of 2
+title: "Build a Downsizer Client Guide With Claude"
+target_duration: "27 seconds"
+ai_tool: "Claude"
+---
+
+# Build a Downsizer Client Guide With Claude
+
+> **On-Screen Text:** Build me a Senior and Downsizer Client Guide
+
+## Script (Spoken)
+
+Here's how to become the go-to agent for downsizing clients. Ask Claude to build you a "Senior and Downsizer Client Guide."
+
+It should include: the emotional stages of leaving a long-term home, financial considerations unique to downsizing, resources for estate sale services and senior relocation specialists, and a full transition checklist from initial conversation to move-out day.
+
+Give this guide to every relevant client. The agent who guides a senior through this transition doesn't just get one deal -- they get the whole family. For years.
+
+---
+
+**Caption:** One Claude prompt. One guide. Clients for life. Build the resource no other agent in your market has.
+**Hashtags:** #ClaudeAI #SeniorRealEstate #AIforRealtors #DownsizingGuide #ClientExperience

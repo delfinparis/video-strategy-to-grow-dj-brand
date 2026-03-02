@@ -1,0 +1,25 @@
+---
+series: "AI Agent Minute"
+original_script: "055"
+reel_number: 2 of 2
+title: "Build Your Annual Business Plan in One Claude Session"
+target_duration: "28 seconds"
+ai_tool: "Claude"
+---
+
+# Build Your Annual Business Plan in One Claude Session
+
+> **On-Screen Text:** Last year's numbers -- goal -- lead sources -- marketing -- milestones
+
+## Script (Spoken)
+
+Spend one hour with Claude. Type: "Run me through a complete annual business planning session. Guide me through reviewing last year's numbers, setting this year's income goal and required deal volume, identifying my top three lead sources, planning my marketing calendar, naming my one skill gap, and building a monthly milestone schedule. Ask me for the data as you go."
+
+The "ask me as you go" part is the key. It turns Claude into a planning partner, not a template generator.
+
+Print it. Review monthly. Adjust quarterly.
+
+---
+
+**Caption:** One hour with Claude builds your entire annual business plan. The key: tell it to ask you questions as it goes.
+**Hashtags:** #RealEstateAI #BusinessPlan #AIAgentMinute #ClaudeAI #RealtorPlanning

@@ -1,0 +1,22 @@
+---
+series: "Agent Tip of the Day"
+original_script: "013"
+reel_number: 1 of 2
+title: "You're Not Stuck Because You Don't Know Enough"
+target_duration: "27 seconds"
+---
+
+# You're Not Stuck Because You Don't Know Enough
+
+> **On-Screen Text:** Action creates confidence. Not the other way around.
+
+## Script (Spoken)
+
+You're not stuck because you don't know enough. You're stuck because you won't move.
+
+Connie Mahan -- REALTOR of the Year, broker owner in Central Florida -- closed her first deal before she finished her first training module. Her best advice: "Get in and do, and the rest will figure itself out." She called her first expired listing with sweaty palms and a half-written script. She door-knocked a neighborhood where she mispronounced street names. Every single messy moment taught her more than any course ever could.
+
+---
+
+**Caption:** Stop studying. Start doing. The rest figures itself out.
+**Hashtags:** #RealEstateAgent #NewAgentTips #RealEstateAdvice #RealtorLife #JustStart

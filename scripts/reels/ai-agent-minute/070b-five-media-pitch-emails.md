@@ -1,0 +1,25 @@
+---
+series: "AI Agent Minute"
+original_script: "070"
+reel_number: 2 of 2
+title: "Send 5 Media Pitch Emails This Week With One Claude Prompt"
+target_duration: "28 seconds"
+ai_tool: "Claude"
+---
+
+# Send 5 Media Pitch Emails This Week With One Claude Prompt
+
+> **On-Screen Text:** 5 pitches: newspaper, podcast, blog, newsletter, radio
+
+## Script (Spoken)
+
+Ask Claude: "Draft five targeted media pitch emails positioning me as a local real estate expert source -- one for a newspaper real estate section, one for a housing podcast, one for a local lifestyle blog, one for a neighborhood newsletter, and one for a radio money segment."
+
+Each pitch should offer a specific, timely angle. Not "I'm a great agent" -- "here's the take I can give you on the rate environment right now."
+
+Send all five this week. One yes permanently elevates your profile.
+
+---
+
+**Caption:** Five media pitch emails. One Claude prompt. Send them all this week. One yes changes your brand permanently.
+**Hashtags:** #RealEstateAI #MediaPitching #AIAgentMinute #ClaudeAI #RealtorPR #LocalMedia

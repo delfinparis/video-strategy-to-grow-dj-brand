@@ -1,0 +1,25 @@
+---
+series: "AI Agent Minute"
+original_script: "035"
+reel_number: 2 of 2
+title: "Prep Every Showing in 60 Seconds With Claude"
+target_duration: "27 seconds"
+ai_tool: "Claude / Perplexity"
+---
+
+# Prep Every Showing in 60 Seconds With Claude
+
+> **On-Screen Text:** Comps + price trend + public records + 2 questions for listing agent
+
+## Script (Spoken)
+
+Before any showing, give Claude the property address and type: "Pull comparable sales within a quarter mile in the last ninety days with price per square foot, the price trend for this neighborhood over twelve months, any public records worth knowing, and two smart questions I should ask the listing agent."
+
+Sixty seconds. You walk in with context. Your buyer sees an expert who did their homework.
+
+The most prepared agent in the room wins the most loyal clients.
+
+---
+
+**Caption:** Sixty seconds with Claude before every showing. That's all it takes to be the most prepared agent in the room.
+**Hashtags:** #RealEstateAI #Claude #ShowingPrep #AIAgentMinute #BuyerAgent #AIPrompt

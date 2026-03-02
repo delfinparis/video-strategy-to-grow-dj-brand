@@ -1,0 +1,24 @@
+---
+series: "Agent Tip of the Day"
+original_script: "029"
+reel_number: 2 of 2
+title: "Send the Text You're Avoiding"
+target_duration: "24 seconds"
+---
+
+# Send the Text You're Avoiding
+
+> **On-Screen Text:** BEING HONEST IS RARE. THAT'S YOUR EDGE.
+
+## Script (Spoken)
+
+In a business full of shortcuts, being the agent who shows up consistently and tells the truth is actually rare. That's your edge.
+
+Right now, open your phone. Find the client conversation you've been avoiding -- the one with bad news or a dropped ball. Text them: "Can we talk tomorrow at 9am? I owe you an update."
+
+Send it before this video ends.
+
+---
+
+**Caption:** The conversation you're avoiding is the one that builds your reputation. Send the text.
+**Hashtags:** #RealEstateMindset #AccountabilityMatters #AgentLife #ClientRelationships #RealTalk
