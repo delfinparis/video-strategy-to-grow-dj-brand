@@ -14,11 +14,35 @@ target_duration: "23 seconds"
 
 Your last deal that died? The one where you thought "I should've seen that coming"?
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 You probably sent three emails that week that landed wrong.
 
 Tonight: open ChatGPT. Copy your last tense client email thread. Paste it in. Ask: "What's the frustration level here and what should I do differently?" See what you missed.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** One prompt. One email thread. Catch the frustration before it kills the deal.
+**Hashtags:** #RealEstateAgent #AIHacks #EmailNegotiation #RealtorTips #ChatGPTPrompt #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer #RealEstateCoaching
+
+### TikTok
+**Caption:** One prompt. One email thread.
+**Hashtags:** #RealEstateAgent #AIHacks #EmailNegotiation #RealtorTips
+
+### YouTube Shorts
+**Title:** The ChatGPT Email Frustration Check
+**Description:** One prompt. One email thread. Catch the frustration before it kills the deal.
 **Hashtags:** #RealEstateAgent #AIHacks #EmailNegotiation #RealtorTips #ChatGPTPrompt
+
+### Facebook
+**Caption:** One prompt. One email thread. Catch the frustration before it kills the deal.
+**Hashtags:** #RealEstateAgent #AIHacks #EmailNegotiation #RealtorTips #ChatGPTPrompt #AgentTipOfTheDay
+
+### LinkedIn
+**Caption:** One prompt. One email thread. Catch the frustration before it kills the deal.
+**Hashtags:** #RealEstateAgent #AIHacks #EmailNegotiation #RealEstate #ProfessionalDevelopment

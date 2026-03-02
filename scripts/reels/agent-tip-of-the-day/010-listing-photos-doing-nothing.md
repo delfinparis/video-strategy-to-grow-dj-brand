@@ -24,5 +24,25 @@ Tonight: find five photos from your last listing. Upload them to an AI video too
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Your listing photos are content gold. You just haven't turned them on yet.
+**Hashtags:** #RealEstateMarketing #AIForRealtors #ListingContent #RealtorTech #ContentStrategy #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Your listing photos are content gold. You just haven't turned them on yet.
+**Hashtags:** #RealEstateMarketing #AIForRealtors #ListingContent #RealtorTech
+
+### YouTube Shorts
+**Title:** 300 Listing Photos Doing Nothing
+**Description:** Your listing photos are content gold. You just haven't turned them on yet.
 **Hashtags:** #RealEstateMarketing #AIForRealtors #ListingContent #RealtorTech #ContentStrategy
+
+### Facebook
+**Caption:** Your listing photos are content gold. You just haven't turned them on yet.
+**Hashtags:** #RealEstateMarketing #AIForRealtors #ListingContent #RealtorTech #ContentStrategy #RealtorTips
+
+### LinkedIn
+**Caption:** Your listing photos are content gold. You just haven't turned them on yet.
+**Hashtags:** #RealEstateMarketing #AIForRealtors #ListingContent #RealEstate #ProfessionalDevelopment

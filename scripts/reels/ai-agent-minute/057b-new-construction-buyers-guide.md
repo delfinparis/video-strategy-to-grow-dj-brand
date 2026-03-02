@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Want to be the agent new construction buyers trust? Build the guide.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Ask Claude: "Build me a New Construction Buyer's Guide covering why the onsite agent isn't their advocate, what a buyer's agent negotiates in a new build, what to inspect at each construction milestone, questions to ask before signing the builder contract, and what warranty terms are negotiable."
 
 Give it to every buyer who mentions new construction. They'll call every other agent -- and send this to you.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** One Claude prompt builds a complete New Construction Buyer's Guide. Give it to every buyer considering a new build.
+**Hashtags:** #RealEstateAI #NewConstruction #AIAgentMinute #ClaudeAI #BuyerGuide #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** One Claude prompt builds a complete New Construction Buyer's Guide.
+**Hashtags:** #RealEstateAI #NewConstruction #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Build a New Construction Buyer's Guide With One Prompt
+**Description:** One Claude prompt builds a complete New Construction Buyer's Guide. Give it to every buyer considering a new build.
 **Hashtags:** #RealEstateAI #NewConstruction #AIAgentMinute #ClaudeAI #BuyerGuide
+
+### Facebook
+**Caption:** One Claude prompt builds a complete New Construction Buyer's Guide. Give it to every buyer considering a new build.
+**Hashtags:** #RealEstateAI #NewConstruction #AIAgentMinute #ClaudeAI #BuyerGuide #AIforRealtors
+
+### LinkedIn
+**Caption:** One Claude prompt builds a complete New Construction Buyer's Guide. Give it to every buyer considering a new build.
+**Hashtags:** #RealEstateAI #NewConstruction #AIAgentMinute #RealEstate #ProfessionalDevelopment

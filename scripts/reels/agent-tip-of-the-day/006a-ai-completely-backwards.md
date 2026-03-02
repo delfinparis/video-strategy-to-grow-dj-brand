@@ -24,5 +24,25 @@ Voice memo after a listing appointment -- messy, incomplete thoughts. Dump it in
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #ChatGPT #RealEstateAgent #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer #RealEstateCoaching
+
+### TikTok
+**Caption:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #ChatGPT
+
+### YouTube Shorts
+**Title:** You're Using AI Completely Backwards
+**Description:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
 **Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #ChatGPT #RealEstateAgent
+
+### Facebook
+**Caption:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #ChatGPT #RealEstateAgent #AgentTipOfTheDay
+
+### LinkedIn
+**Caption:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #RealEstate #ProfessionalDevelopment

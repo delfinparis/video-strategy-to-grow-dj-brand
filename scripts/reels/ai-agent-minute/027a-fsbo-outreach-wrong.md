@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 Every FSBO in your market is getting the same three calls from agents this week. Don't be the fourth.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Here's why FSBO outreach fails: you lead with the commission objection before they trust you. Their first concern isn't your fee -- it's whether they can pull this off alone.
 
 The agent who genuinely helps them try is the one who earns the listing when they give up.
 
+
+Try this: Open Claude and type "Write me a three-touch FSBO outreach sequence that leads with value, not a pitch."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Stop pitching FSBOs. Start helping them. The listing comes later -- and it comes to you.
+**Hashtags:** #FSBO #RealEstateAI #AIAgentMinute #ListingAgent #RealEstateTips #ProspectingTips #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent
+
+### TikTok
+**Caption:** Stop pitching FSBOs. Start helping them.
+**Hashtags:** #FSBO #RealEstateAI #AIAgentMinute #ListingAgent
+
+### YouTube Shorts
+**Title:** Why Your FSBO Outreach Keeps Failing
+**Description:** Stop pitching FSBOs. Start helping them. The listing comes later -- and it comes to you.
+**Hashtags:** #FSBO #RealEstateAI #AIAgentMinute #ListingAgent #RealEstateTips
+
+### Facebook
 **Caption:** Stop pitching FSBOs. Start helping them. The listing comes later -- and it comes to you.
 **Hashtags:** #FSBO #RealEstateAI #AIAgentMinute #ListingAgent #RealEstateTips #ProspectingTips
+
+### LinkedIn
+**Caption:** Stop pitching FSBOs. Start helping them. The listing comes later -- and it comes to you.
+**Hashtags:** #FSBO #RealEstateAI #AIAgentMinute #RealEstate #ProfessionalDevelopment

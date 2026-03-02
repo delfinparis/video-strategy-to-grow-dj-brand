@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Here's a ten-minute ritual that will change your mornings.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Each evening, tell Claude what you got done, what's still open, and what tomorrow needs. Then type: "Sort my open items by priority, tell me what can wait or be delegated, and write my top three tasks for tomorrow morning."
 
 Then close the laptop. The loops are closed. Your brain can actually rest. How you end today determines how you start tomorrow.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The exact AI shutdown ritual that closes open loops and gives you your evenings back. Ten minutes. Every night.
+**Hashtags:** #AIforRealtors #Claude #Productivity #RealtorTips #ShutdownRitual #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The exact AI shutdown ritual that closes open loops and gives you your evenings back.
+**Hashtags:** #AIforRealtors #Claude #Productivity #RealtorTips
+
+### YouTube Shorts
+**Title:** Build a 10-Minute AI Shutdown Ritual
+**Description:** The exact AI shutdown ritual that closes open loops and gives you your evenings back. Ten minutes. Every night.
+**Hashtags:** #AIforRealtors #Claude #Productivity #RealtorTips #ShutdownRitual
+
+### Facebook
 **Caption:** The exact AI shutdown ritual that closes open loops and gives you your evenings back. Ten minutes. Every night.
 **Hashtags:** #AIforRealtors #Claude #Productivity #RealtorTips #ShutdownRitual #AIAgent
+
+### LinkedIn
+**Caption:** The exact AI shutdown ritual that closes open loops and gives you your evenings back. Ten minutes. Every night.
+**Hashtags:** #AIforRealtors #Claude #Productivity #RealEstate #ProfessionalDevelopment

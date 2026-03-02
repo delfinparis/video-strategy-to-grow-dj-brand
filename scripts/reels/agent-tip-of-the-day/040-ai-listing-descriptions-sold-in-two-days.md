@@ -14,11 +14,35 @@ target_duration: "27 seconds"
 
 Your listing descriptions are costing you days on market.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 While you're copy-pasting "spacious kitchen" and "abundant natural light," agents using AI are selling faster. D.J. Paris fed his condo's details into an AI tool. Thirty seconds later he had copy that was emotionally resonant and specific. Result? Sold in two days.
 
 Every extra day your listing sits is another day a buyer questions the price. Take your weakest listing description right now. Run it through ChatGPT with: "Write this like you're selling a dream, not a house."
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Sold in 2 days using AI for the listing description. You're still winging it? Try this prompt tonight.
+**Hashtags:** #RealEstateAI #ListingMarketing #ChatGPTPrompt #DaysOnMarket #RealEstateTips #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Sold in 2 days using AI for the listing description. You're still winging it? Try this prompt tonight.
+**Hashtags:** #RealEstateAI #ListingMarketing #ChatGPTPrompt #DaysOnMarket
+
+### YouTube Shorts
+**Title:** AI Listing Descriptions: Sold in Two Days
+**Description:** Sold in 2 days using AI for the listing description. You're still winging it? Try this prompt tonight.
 **Hashtags:** #RealEstateAI #ListingMarketing #ChatGPTPrompt #DaysOnMarket #RealEstateTips
+
+### Facebook
+**Caption:** Sold in 2 days using AI for the listing description. You're still winging it? Try this prompt tonight.
+**Hashtags:** #RealEstateAI #ListingMarketing #ChatGPTPrompt #DaysOnMarket #RealEstateTips #RealtorTips
+
+### LinkedIn
+**Caption:** Sold in 2 days using AI for the listing description. You're still winging it? Try this prompt tonight.
+**Hashtags:** #RealEstateAI #ListingMarketing #ChatGPTPrompt #RealEstate #ProfessionalDevelopment

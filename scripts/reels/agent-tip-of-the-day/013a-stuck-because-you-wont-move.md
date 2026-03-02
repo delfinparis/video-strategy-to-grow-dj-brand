@@ -24,5 +24,25 @@ Do this tomorrow: Call one expired listing. It doesn't matter if the script is p
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Stop studying. Start doing. The rest figures itself out.
+**Hashtags:** #RealEstateAgent #NewAgentTips #RealEstateAdvice #RealtorLife #JustStart #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Stop studying. Start doing.
+**Hashtags:** #RealEstateAgent #NewAgentTips #RealEstateAdvice #RealtorLife
+
+### YouTube Shorts
+**Title:** You're Not Stuck Because You Don't Know Enough
+**Description:** Stop studying. Start doing. The rest figures itself out.
 **Hashtags:** #RealEstateAgent #NewAgentTips #RealEstateAdvice #RealtorLife #JustStart
+
+### Facebook
+**Caption:** Stop studying. Start doing. The rest figures itself out.
+**Hashtags:** #RealEstateAgent #NewAgentTips #RealEstateAdvice #RealtorLife #JustStart #RealtorTips
+
+### LinkedIn
+**Caption:** Stop studying. Start doing. The rest figures itself out.
+**Hashtags:** #RealEstateAgent #NewAgentTips #RealEstateAdvice #RealEstate #ProfessionalDevelopment

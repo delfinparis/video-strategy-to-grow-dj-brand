@@ -25,5 +25,25 @@ Then have Claude play a skeptical buyer and push back. Practice until it feels l
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The Claude prompt to nail your buyer rep agreement conversation. Clear. Confident. Plain English. Practice until it stops feeling like a pitch.
+**Hashtags:** #AIforRealtors #Claude #NARSettlement #BuyerAgent #RealEstateAgent #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The Claude prompt to nail your buyer rep agreement conversation.
+**Hashtags:** #AIforRealtors #Claude #NARSettlement #BuyerAgent
+
+### YouTube Shorts
+**Title:** The NAR Settlement Changed What Buyers Ask — Have Your Answer Ready
+**Description:** The Claude prompt to nail your buyer rep agreement conversation. Clear. Confident. Plain English. Practice until it stops feeling like a pitch.
+**Hashtags:** #AIforRealtors #Claude #NARSettlement #BuyerAgent #RealEstateAgent
+
+### Facebook
 **Caption:** The Claude prompt to nail your buyer rep agreement conversation. Clear. Confident. Plain English. Practice until it stops feeling like a pitch.
 **Hashtags:** #AIforRealtors #Claude #NARSettlement #BuyerAgent #RealEstateAgent #AIAgent
+
+### LinkedIn
+**Caption:** The Claude prompt to nail your buyer rep agreement conversation. Clear. Confident. Plain English. Practice until it stops feeling like a pitch.
+**Hashtags:** #AIforRealtors #Claude #NARSettlement #RealEstate #ProfessionalDevelopment

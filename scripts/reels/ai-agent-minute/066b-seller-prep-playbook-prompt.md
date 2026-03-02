@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Ask Claude to generate a Seller Prep Playbook for your market and price range.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Type: "Include the ten highest-ROI improvements before listing, a room-by-room decluttering checklist, what buyers in my market care most about right now, and the three most common mistakes sellers make that quietly reduce their final sale price."
 
 Turn it into a clean PDF. Give it to every seller at the listing appointment. A prepared home sells faster and for more money. A prepared seller trusts you more.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** One Claude prompt builds a seller prep playbook that makes your listing appointments instantly more professional.
+**Hashtags:** #RealEstateAI #SellerPlaybook #AIAgentMinute #ClaudeAI #ListingAgent #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** One Claude prompt builds a seller prep playbook that makes your listing appointments instantly more professional.
+**Hashtags:** #RealEstateAI #SellerPlaybook #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Build a Seller Prep Playbook With One Claude Prompt
+**Description:** One Claude prompt builds a seller prep playbook that makes your listing appointments instantly more professional.
 **Hashtags:** #RealEstateAI #SellerPlaybook #AIAgentMinute #ClaudeAI #ListingAgent
+
+### Facebook
+**Caption:** One Claude prompt builds a seller prep playbook that makes your listing appointments instantly more professional.
+**Hashtags:** #RealEstateAI #SellerPlaybook #AIAgentMinute #ClaudeAI #ListingAgent #AIforRealtors
+
+### LinkedIn
+**Caption:** One Claude prompt builds a seller prep playbook that makes your listing appointments instantly more professional.
+**Hashtags:** #RealEstateAI #SellerPlaybook #AIAgentMinute #RealEstate #ProfessionalDevelopment

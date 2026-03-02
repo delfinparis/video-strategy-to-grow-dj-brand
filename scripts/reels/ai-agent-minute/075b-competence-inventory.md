@@ -15,13 +15,37 @@ ai_tool: "Claude"
 
 Ask Claude to help you build a competence inventory -- a running document of everything you actually know.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Type: "Help me create a document that tracks my growing real estate expertise so I can reference it when I doubt myself." Include every transaction you've supported, every training completed, every question you've answered correctly. Update it weekly.
 
 Imposter syndrome thrives in the dark. When you can see in writing what you actually bring to the table -- the voice gets quieter.
 
 You don't need to know everything. You need to know more than your client. And you already do.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** A competence inventory built with Claude is the antidote to imposter syndrome. Evidence beats doubt every time.
+**Hashtags:** #RealEstateAI #ImposterSyndrome #AIAgentMinute #ClaudeAI #NewAgentTips #Confidence #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** A competence inventory built with Claude is the antidote to imposter syndrome.
+**Hashtags:** #RealEstateAI #ImposterSyndrome #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Build a Competence Inventory That Shuts Down the Doubt
+**Description:** A competence inventory built with Claude is the antidote to imposter syndrome. Evidence beats doubt every time.
+**Hashtags:** #RealEstateAI #ImposterSyndrome #AIAgentMinute #ClaudeAI #NewAgentTips
+
+### Facebook
 **Caption:** A competence inventory built with Claude is the antidote to imposter syndrome. Evidence beats doubt every time.
 **Hashtags:** #RealEstateAI #ImposterSyndrome #AIAgentMinute #ClaudeAI #NewAgentTips #Confidence
+
+### LinkedIn
+**Caption:** A competence inventory built with Claude is the antidote to imposter syndrome. Evidence beats doubt every time.
+**Hashtags:** #RealEstateAI #ImposterSyndrome #AIAgentMinute #RealEstate #ProfessionalDevelopment

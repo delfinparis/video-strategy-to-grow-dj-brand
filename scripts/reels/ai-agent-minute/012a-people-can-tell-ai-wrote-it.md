@@ -27,5 +27,25 @@ Here's the fix: Paste five of your own emails or posts into Claude and say "Lear
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
-**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation #PersonalBrand #RealtorLife #AIContent
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation #PersonalBrand #RealtorLife #AIContent #ClaudeAI #AIAgentMinute #RealEstateAI
+
+### TikTok
+**Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation
+
+### YouTube Shorts
+**Title:** People Can Tell When AI Wrote Your Content
+**Description:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation #PersonalBrand
+
+### Facebook
+**Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation #PersonalBrand #RealtorLife
+
+### LinkedIn
+**Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #RealEstate #ProfessionalDevelopment

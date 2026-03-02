@@ -14,11 +14,38 @@ target_duration: "27 seconds"
 
 Gen Z is making 50% more income than boomers were at their age -- and you're still not calling them back.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Amanda Pendleton at Zillow studied the data. Gen Z isn't broke. But they're researching on TikTok at 11pm, watching neighborhood tours on YouTube during lunch, and asking ChatGPT about mortgage rates.
 
 They don't need your market report email. They need an agent who answers DMs in under an hour.
 
+
+Do this today: Text one younger lead instead of calling. Meet them where they communicate -- not where you're comfortable.
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Gen Z has the money. They just don't buy the way you sell. Amanda Pendleton's Zillow data changes your prospecting strategy.
+**Hashtags:** #GenZBuyers #RealEstateAgent #FirstTimeHomeBuyer #ZillowData #RealEstateTrends #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Gen Z has the money. They just don't buy the way you sell.
+**Hashtags:** #GenZBuyers #RealEstateAgent #FirstTimeHomeBuyer #ZillowData
+
+### YouTube Shorts
+**Title:** Gen Z Earns More Than Boomers Did
+**Description:** Gen Z has the money. They just don't buy the way you sell. Amanda Pendleton's Zillow data changes your prospecting strategy.
 **Hashtags:** #GenZBuyers #RealEstateAgent #FirstTimeHomeBuyer #ZillowData #RealEstateTrends
+
+### Facebook
+**Caption:** Gen Z has the money. They just don't buy the way you sell. Amanda Pendleton's Zillow data changes your prospecting strategy.
+**Hashtags:** #GenZBuyers #RealEstateAgent #FirstTimeHomeBuyer #ZillowData #RealEstateTrends #RealtorTips
+
+### LinkedIn
+**Caption:** Gen Z has the money. They just don't buy the way you sell. Amanda Pendleton's Zillow data changes your prospecting strategy.
+**Hashtags:** #GenZBuyers #RealEstateAgent #FirstTimeHomeBuyer #RealEstate #ProfessionalDevelopment

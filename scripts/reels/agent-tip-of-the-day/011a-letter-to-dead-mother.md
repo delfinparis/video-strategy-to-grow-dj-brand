@@ -26,5 +26,25 @@ Do this before your next offer: Sit with your buyer for 10 minutes and set bound
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Your buyer will do absolutely insane things for a house. The question is: where's your line?
+**Hashtags:** #realestate #realtorlife #buyersagent #realestateagent #biddingwars #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Your buyer will do absolutely insane things for a house. The question is: where's your line?
+**Hashtags:** #realestate #realtorlife #buyersagent #realestateagent
+
+### YouTube Shorts
+**Title:** A Letter to the Seller's Dead Mother
+**Description:** Your buyer will do absolutely insane things for a house. The question is: where's your line?
 **Hashtags:** #realestate #realtorlife #buyersagent #realestateagent #biddingwars
+
+### Facebook
+**Caption:** Your buyer will do absolutely insane things for a house. The question is: where's your line?
+**Hashtags:** #realestate #realtorlife #buyersagent #realestateagent #biddingwars #RealtorTips
+
+### LinkedIn
+**Caption:** Your buyer will do absolutely insane things for a house. The question is: where's your line?
+**Hashtags:** #realestate #realtorlife #buyersagent #ProfessionalDevelopment #BusinessGrowth

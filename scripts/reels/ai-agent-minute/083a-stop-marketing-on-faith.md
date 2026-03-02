@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 Most agents spend money on marketing the same way people spend on gym memberships -- optimistically, and without ever tracking whether it's working.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Without a system for tracking ROI, you have no idea what's actually producing. You keep spending because you "feel like" it's working. That's thousands of dollars wasted every year on lead sources that never pay back.
 
 Most agents spend on instinct. Top producers spend on evidence. A dollar tracked is a dollar multiplied.
 
+
+Try this: Open Claude and type "Audit where my marketing dollars are going and tell me whether the ROI justifies every line item."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Faith doesn't scale. Track your marketing ROI or keep guessing with your own money.
+**Hashtags:** #MarketingROI #RealEstateBusiness #StopGuessing #RealtorTips #SmartSpending #AIforRealtors #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** Faith doesn't scale. Track your marketing ROI or keep guessing with your own money.
+**Hashtags:** #MarketingROI #RealEstateBusiness #StopGuessing #RealtorTips
+
+### YouTube Shorts
+**Title:** Stop Marketing on Faith
+**Description:** Faith doesn't scale. Track your marketing ROI or keep guessing with your own money.
 **Hashtags:** #MarketingROI #RealEstateBusiness #StopGuessing #RealtorTips #SmartSpending
+
+### Facebook
+**Caption:** Faith doesn't scale. Track your marketing ROI or keep guessing with your own money.
+**Hashtags:** #MarketingROI #RealEstateBusiness #StopGuessing #RealtorTips #SmartSpending #AIforRealtors
+
+### LinkedIn
+**Caption:** Faith doesn't scale. Track your marketing ROI or keep guessing with your own money.
+**Hashtags:** #MarketingROI #RealEstateBusiness #StopGuessing #RealEstate #ProfessionalDevelopment

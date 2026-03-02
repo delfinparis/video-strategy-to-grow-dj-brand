@@ -24,5 +24,25 @@ Here's your move: Before your next showing, pull the insurance estimate. Send it
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** The hidden deal-killer no one's talking about. Insurance is destroying more deals than bad inspections.
+**Hashtags:** #realestatetips #luxuryrealestate #insurancecrisis #realtorlife #marketshift #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** The hidden deal-killer no one's talking about. Insurance is destroying more deals than bad inspections.
+**Hashtags:** #realestatetips #luxuryrealestate #insurancecrisis #realtorlife
+
+### YouTube Shorts
+**Title:** Insurance Is Killing More Deals Than Bad Inspections
+**Description:** The hidden deal-killer no one's talking about. Insurance is destroying more deals than bad inspections.
 **Hashtags:** #realestatetips #luxuryrealestate #insurancecrisis #realtorlife #marketshift
+
+### Facebook
+**Caption:** The hidden deal-killer no one's talking about. Insurance is destroying more deals than bad inspections.
+**Hashtags:** #realestatetips #luxuryrealestate #insurancecrisis #realtorlife #marketshift #RealtorTips
+
+### LinkedIn
+**Caption:** The hidden deal-killer no one's talking about. Insurance is destroying more deals than bad inspections.
+**Hashtags:** #realestatetips #luxuryrealestate #insurancecrisis #RealEstate #ProfessionalDevelopment

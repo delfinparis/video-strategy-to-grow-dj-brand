@@ -14,9 +14,33 @@ target_duration: "24 seconds"
 
 If you're avoiding your CRM, if follow-up feels like pulling teeth -- you're not broken. You're normal. Even the guy doing 100 deals a year hates it. The difference is he does it anyway. He built the system so it happens whether he feels like it or not.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Open your CRM right now. Find three people you should've followed up with last month. Send them something. Anything. That's how fortunes get built. One uncomfortable text at a time.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** You're not broken for hating follow-up. You're normal. Now open your CRM and send three texts anyway.
+**Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #AgentTips #RealEstateSales #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** You're not broken for hating follow-up. You're normal.
+**Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #AgentTips
+
+### YouTube Shorts
+**Title:** Three People You Owe a Text
+**Description:** You're not broken for hating follow-up. You're normal. Now open your CRM and send three texts anyway.
 **Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #AgentTips #RealEstateSales
+
+### Facebook
+**Caption:** You're not broken for hating follow-up. You're normal. Now open your CRM and send three texts anyway.
+**Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #AgentTips #RealEstateSales #RealtorTips
+
+### LinkedIn
+**Caption:** You're not broken for hating follow-up. You're normal. Now open your CRM and send three texts anyway.
+**Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #RealEstate #ProfessionalDevelopment

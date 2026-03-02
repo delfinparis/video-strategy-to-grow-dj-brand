@@ -15,11 +15,35 @@ ai_tool: "Claude / Perplexity"
 
 Use Perplexity to pull data on discount versus full-service agents in your market -- list-to-sale price ratios, average days on market, buyer satisfaction scores.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Then tell Claude: "Write me a two-minute response to the Redfin objection that's entirely data-driven, never defensive, and always focused on the client's outcome -- not my commission."
 
 Practice it until you can deliver it without a single note. The agents who lose to discount brokers talk about price. The agents who win talk about results.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Perplexity for the data. Claude for the script. Practice until it's effortless. Win on results, not price.
-**Hashtags:** #RealEstateAI #Claude #Perplexity #DiscountBroker #AIAgentMinute #CommissionObjection #AIPrompt
+**Hashtags:** #RealEstateAI #Claude #Perplexity #DiscountBroker #AIAgentMinute #CommissionObjection #AIPrompt #AIforRealtors #ClaudeAI #TechInRealEstate
+
+### TikTok
+**Caption:** Perplexity for the data. Claude for the script.
+**Hashtags:** #RealEstateAI #Claude #Perplexity #DiscountBroker
+
+### YouTube Shorts
+**Title:** Build a Data-Driven Discount Broker Response With AI
+**Description:** Perplexity for the data. Claude for the script. Practice until it's effortless. Win on results, not price.
+**Hashtags:** #RealEstateAI #Claude #Perplexity #DiscountBroker #AIAgentMinute
+
+### Facebook
+**Caption:** Perplexity for the data. Claude for the script. Practice until it's effortless. Win on results, not price.
+**Hashtags:** #RealEstateAI #Claude #Perplexity #DiscountBroker #AIAgentMinute #CommissionObjection
+
+### LinkedIn
+**Caption:** Perplexity for the data. Claude for the script. Practice until it's effortless. Win on results, not price.
+**Hashtags:** #RealEstateAI #Claude #Perplexity #RealEstate #ProfessionalDevelopment

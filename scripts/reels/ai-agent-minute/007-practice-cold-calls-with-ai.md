@@ -25,5 +25,25 @@ Run it out loud. Ten times. Claude will throw objections you've never heard. Whe
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The Claude prompt that turns cold call panic into cold call confidence. Ten reps. Out loud. Unlimited practice, zero cost.
+**Hashtags:** #AIforRealtors #Claude #ColdCalling #RealEstateAgent #SalesTraining #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The Claude prompt that turns cold call panic into cold call confidence.
+**Hashtags:** #AIforRealtors #Claude #ColdCalling #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Practice Cold Calls With AI Until Nothing Surprises You
+**Description:** The Claude prompt that turns cold call panic into cold call confidence. Ten reps. Out loud. Unlimited practice, zero cost.
+**Hashtags:** #AIforRealtors #Claude #ColdCalling #RealEstateAgent #SalesTraining
+
+### Facebook
 **Caption:** The Claude prompt that turns cold call panic into cold call confidence. Ten reps. Out loud. Unlimited practice, zero cost.
 **Hashtags:** #AIforRealtors #Claude #ColdCalling #RealEstateAgent #SalesTraining #AIAgent
+
+### LinkedIn
+**Caption:** The Claude prompt that turns cold call panic into cold call confidence. Ten reps. Out loud. Unlimited practice, zero cost.
+**Hashtags:** #AIforRealtors #Claude #ColdCalling #RealEstate #ProfessionalDevelopment

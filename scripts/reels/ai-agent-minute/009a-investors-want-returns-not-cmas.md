@@ -27,5 +27,25 @@ Try this: Paste a property listing into Claude and say "Run the numbers -- cap r
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Investors don't want CMAs. They want return analyses. The agent who speaks in numbers wins the investor -- for life.
-**Hashtags:** #AIforRealtors #Claude #RealEstateInvesting #InvestorAgent #RealEstateAgent #CapRate #RealtorTips
+**Hashtags:** #AIforRealtors #Claude #RealEstateInvesting #InvestorAgent #RealEstateAgent #CapRate #RealtorTips #ClaudeAI #AIAgentMinute #RealEstateAI
+
+### TikTok
+**Caption:** Investors don't want CMAs. They want return analyses.
+**Hashtags:** #AIforRealtors #Claude #RealEstateInvesting #InvestorAgent
+
+### YouTube Shorts
+**Title:** Investors Don't Hire Agents — They Hire Analysts
+**Description:** Investors don't want CMAs. They want return analyses. The agent who speaks in numbers wins the investor -- for life.
+**Hashtags:** #AIforRealtors #Claude #RealEstateInvesting #InvestorAgent #RealEstateAgent
+
+### Facebook
+**Caption:** Investors don't want CMAs. They want return analyses. The agent who speaks in numbers wins the investor -- for life.
+**Hashtags:** #AIforRealtors #Claude #RealEstateInvesting #InvestorAgent #RealEstateAgent #CapRate
+
+### LinkedIn
+**Caption:** Investors don't want CMAs. They want return analyses. The agent who speaks in numbers wins the investor -- for life.
+**Hashtags:** #AIforRealtors #Claude #RealEstateInvesting #RealEstate #ProfessionalDevelopment

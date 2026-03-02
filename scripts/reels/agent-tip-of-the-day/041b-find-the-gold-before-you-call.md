@@ -14,9 +14,33 @@ target_duration: "22 seconds"
 
 Before your next database call, write down the gold bar you're giving.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 A new listing in their zip code. A comp that just closed on their street. Insider intel on their neighborhood. If you can't name the value, don't make the call yet. Go find the gold first. That one shift turns ignored calls into answered ones.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Can't name the value before you dial? Don't pick up the phone yet. Go find the gold first.
+**Hashtags:** #RealEstateAgent #DatabaseCalls #ValueFirst #AgentTips #ProspectingTips #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Can't name the value before you dial? Don't pick up the phone yet.
+**Hashtags:** #RealEstateAgent #DatabaseCalls #ValueFirst #AgentTips
+
+### YouTube Shorts
+**Title:** Find the Gold Before You Call
+**Description:** Can't name the value before you dial? Don't pick up the phone yet. Go find the gold first.
 **Hashtags:** #RealEstateAgent #DatabaseCalls #ValueFirst #AgentTips #ProspectingTips
+
+### Facebook
+**Caption:** Can't name the value before you dial? Don't pick up the phone yet. Go find the gold first.
+**Hashtags:** #RealEstateAgent #DatabaseCalls #ValueFirst #AgentTips #ProspectingTips #RealtorTips
+
+### LinkedIn
+**Caption:** Can't name the value before you dial? Don't pick up the phone yet. Go find the gold first.
+**Hashtags:** #RealEstateAgent #DatabaseCalls #ValueFirst #RealEstate #ProfessionalDevelopment

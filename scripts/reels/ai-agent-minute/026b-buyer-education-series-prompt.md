@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Want buyers who actually write offers instead of disappearing? Build a five-part education series with Claude.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Prompt: "Write five brief buyer education pieces in plain English. Topics: how offers work, what inspections tell you, how to handle counteroffers, what happens between contract and closing, and what to expect on closing day."
 
 Send one per week after the first consultation. Educated buyers close faster, stress less, and refer more.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Claude can build your entire buyer education series in one sitting. Educated buyers close faster. Period.
+**Hashtags:** #RealEstateAI #Claude #BuyerEducation #AIAgentMinute #RealEstateAgent #AIPrompt #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent
+
+### TikTok
+**Caption:** Claude can build your entire buyer education series in one sitting.
+**Hashtags:** #RealEstateAI #Claude #BuyerEducation #AIAgentMinute
+
+### YouTube Shorts
+**Title:** Build a 5-Part Buyer Education Series in One Afternoon
+**Description:** Claude can build your entire buyer education series in one sitting. Educated buyers close faster. Period.
+**Hashtags:** #RealEstateAI #Claude #BuyerEducation #AIAgentMinute #RealEstateAgent
+
+### Facebook
 **Caption:** Claude can build your entire buyer education series in one sitting. Educated buyers close faster. Period.
 **Hashtags:** #RealEstateAI #Claude #BuyerEducation #AIAgentMinute #RealEstateAgent #AIPrompt
+
+### LinkedIn
+**Caption:** Claude can build your entire buyer education series in one sitting. Educated buyers close faster. Period.
+**Hashtags:** #RealEstateAI #Claude #BuyerEducation #RealEstate #ProfessionalDevelopment

@@ -25,5 +25,25 @@ Send it to every new client at the start. It's not a boundary. It's a system. An
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The Claude prompt that builds your client communication rules -- warm, professional, and protective of the time that makes you great.
+**Hashtags:** #AIforRealtors #Claude #RealtorLife #TimeManagement #ClientManagement #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The Claude prompt that builds your client communication rules -- warm, professional, and protective of the time that makes you great.
+**Hashtags:** #AIforRealtors #Claude #RealtorLife #TimeManagement
+
+### YouTube Shorts
+**Title:** Stop Being Available 24/7 — Build Communication Rules With AI
+**Description:** The Claude prompt that builds your client communication rules -- warm, professional, and protective of the time that makes you great.
+**Hashtags:** #AIforRealtors #Claude #RealtorLife #TimeManagement #ClientManagement
+
+### Facebook
 **Caption:** The Claude prompt that builds your client communication rules -- warm, professional, and protective of the time that makes you great.
 **Hashtags:** #AIforRealtors #Claude #RealtorLife #TimeManagement #ClientManagement #AIAgent
+
+### LinkedIn
+**Caption:** The Claude prompt that builds your client communication rules -- warm, professional, and protective of the time that makes you great.
+**Hashtags:** #AIforRealtors #Claude #RealtorLife #RealEstate #ProfessionalDevelopment

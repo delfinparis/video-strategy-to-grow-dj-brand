@@ -24,5 +24,25 @@ Here's the whole system: Five prospecting calls before you check email tomorrow.
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** $2B in sales. Started at $12/hour. Here's what Chase Craig controls -- and what he ignores.
+**Hashtags:** #realestatetips #newagent #realestatemindset #realtor #agentadvice #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #TopProducer #RealEstateCoaching
+
+### TikTok
+**Caption:** $2B in sales. Started at $12/hour.
+**Hashtags:** #realestatetips #newagent #realestatemindset #realtor
+
+### YouTube Shorts
+**Title:** You're Drowning in Things You Can't Control
+**Description:** $2B in sales. Started at $12/hour. Here's what Chase Craig controls -- and what he ignores.
 **Hashtags:** #realestatetips #newagent #realestatemindset #realtor #agentadvice
+
+### Facebook
+**Caption:** $2B in sales. Started at $12/hour. Here's what Chase Craig controls -- and what he ignores.
+**Hashtags:** #realestatetips #newagent #realestatemindset #realtor #agentadvice #RealtorTips
+
+### LinkedIn
+**Caption:** $2B in sales. Started at $12/hour. Here's what Chase Craig controls -- and what he ignores.
+**Hashtags:** #realestatetips #newagent #realestatemindset #RealEstate #ProfessionalDevelopment

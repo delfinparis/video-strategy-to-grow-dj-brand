@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Here's how to stop guessing with your marketing budget. Every quarter, bring Claude your available budget and business goals.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Type: "Allocate my budget across channels based on my production stage, target client type, and conversion history."
 
 Then build a simple tracker -- lead source, cost, leads generated, closings attributed, ROI. Review it every ninety days. Let the data decide where next quarter's budget goes. Not your gut.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Let Claude allocate your marketing budget. Then let the data decide what stays and what gets cut.
+**Hashtags:** #ClaudeAI #MarketingBudget #AIforRealtors #RealEstateROI #DataDrivenMarketing #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Let Claude allocate your marketing budget. Then let the data decide what stays and what gets cut.
+**Hashtags:** #ClaudeAI #MarketingBudget #AIforRealtors #RealEstateROI
+
+### YouTube Shorts
+**Title:** Plan Your Marketing Budget With Claude
+**Description:** Let Claude allocate your marketing budget. Then let the data decide what stays and what gets cut.
 **Hashtags:** #ClaudeAI #MarketingBudget #AIforRealtors #RealEstateROI #DataDrivenMarketing
+
+### Facebook
+**Caption:** Let Claude allocate your marketing budget. Then let the data decide what stays and what gets cut.
+**Hashtags:** #ClaudeAI #MarketingBudget #AIforRealtors #RealEstateROI #DataDrivenMarketing #AIAgentMinute
+
+### LinkedIn
+**Caption:** Let Claude allocate your marketing budget. Then let the data decide what stays and what gets cut.
+**Hashtags:** #ClaudeAI #MarketingBudget #AIforRealtors #RealEstate #ProfessionalDevelopment

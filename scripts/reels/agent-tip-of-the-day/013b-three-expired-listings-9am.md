@@ -14,9 +14,33 @@ target_duration: "24 seconds"
 
 If you're waiting to feel confident, you've got it backwards. Confidence doesn't create action. Action creates confidence. The agent who makes fifty awkward calls will always outperform the one who rehearses the perfect pitch.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Tomorrow morning at 9 AM -- not "when you feel ready" -- pull up your MLS. Find three expired listings from the last thirty days. Call them. Say: "Hi, I saw your home didn't sell. I'd love five minutes to tell you what I'd do differently." Three calls. Go.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Confidence comes from action, not preparation. Three calls tomorrow at 9 AM. That's the assignment.
+**Hashtags:** #RealEstateAgent #ExpiredListings #Prospecting #NewAgent #JustStart #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Confidence comes from action, not preparation. Three calls tomorrow at 9 AM.
+**Hashtags:** #RealEstateAgent #ExpiredListings #Prospecting #NewAgent
+
+### YouTube Shorts
+**Title:** Three Expired Listings. 9 AM. Go.
+**Description:** Confidence comes from action, not preparation. Three calls tomorrow at 9 AM. That's the assignment.
 **Hashtags:** #RealEstateAgent #ExpiredListings #Prospecting #NewAgent #JustStart
+
+### Facebook
+**Caption:** Confidence comes from action, not preparation. Three calls tomorrow at 9 AM. That's the assignment.
+**Hashtags:** #RealEstateAgent #ExpiredListings #Prospecting #NewAgent #JustStart #RealtorTips
+
+### LinkedIn
+**Caption:** Confidence comes from action, not preparation. Three calls tomorrow at 9 AM. That's the assignment.
+**Hashtags:** #RealEstateAgent #ExpiredListings #Prospecting #RealEstate #ProfessionalDevelopment

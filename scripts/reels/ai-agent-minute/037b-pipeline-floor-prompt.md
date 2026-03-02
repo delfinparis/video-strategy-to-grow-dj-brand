@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Break the feast-or-famine cycle by building a "pipeline floor" -- the minimum prospecting you do every week no matter how busy you are.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Tell Claude: "If I want a floor of two closings every month, what is the minimum daily prospecting calls, weekly appointments, and monthly new lead adds I need to maintain consistently -- starting today?"
 
 Then ask Claude to block that activity into your weekly schedule. The busy season is exactly when you must protect your prospecting time. That's the only thing that ends the cycle.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Your pipeline floor is non-negotiable -- especially when you're busy. That's the whole point. Let Claude calculate yours.
+**Hashtags:** #RealEstateAI #Claude #PipelineFloor #AIAgentMinute #Prospecting #AIPrompt #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent
+
+### TikTok
+**Caption:** Your pipeline floor is non-negotiable -- especially when you're busy.
+**Hashtags:** #RealEstateAI #Claude #PipelineFloor #AIAgentMinute
+
+### YouTube Shorts
+**Title:** Build Your Pipeline Floor With Claude
+**Description:** Your pipeline floor is non-negotiable -- especially when you're busy. That's the whole point. Let Claude calculate yours.
+**Hashtags:** #RealEstateAI #Claude #PipelineFloor #AIAgentMinute #Prospecting
+
+### Facebook
 **Caption:** Your pipeline floor is non-negotiable -- especially when you're busy. That's the whole point. Let Claude calculate yours.
 **Hashtags:** #RealEstateAI #Claude #PipelineFloor #AIAgentMinute #Prospecting #AIPrompt
+
+### LinkedIn
+**Caption:** Your pipeline floor is non-negotiable -- especially when you're busy. That's the whole point. Let Claude calculate yours.
+**Hashtags:** #RealEstateAI #Claude #PipelineFloor #RealEstate #ProfessionalDevelopment

@@ -14,9 +14,33 @@ target_duration: "25 seconds"
 
 The resentment you feel? That's not burnout. That's incongruency. You're working 60 hours a week while telling your spouse it's temporary. It's been three years. You either want to dominate your market or you don't. Both are fine. But pick one and stop lying about it.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Tonight: open your notes app. Type two sentences. "What I actually want in the next 24 months is..." and "What that will actually require is..." Don't share it. Just stop lying to yourself first.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** The breakthrough starts with the lie you've been telling yourself. Two sentences tonight. That's it.
+**Hashtags:** #RealEstateMindset #AgentLife #BurnoutRecovery #MindsetShift #RealEstateCoach #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** The breakthrough starts with the lie you've been telling yourself.
+**Hashtags:** #RealEstateMindset #AgentLife #BurnoutRecovery #MindsetShift
+
+### YouTube Shorts
+**Title:** That Resentment Isn't Burnout
+**Description:** The breakthrough starts with the lie you've been telling yourself. Two sentences tonight. That's it.
 **Hashtags:** #RealEstateMindset #AgentLife #BurnoutRecovery #MindsetShift #RealEstateCoach
+
+### Facebook
+**Caption:** The breakthrough starts with the lie you've been telling yourself. Two sentences tonight. That's it.
+**Hashtags:** #RealEstateMindset #AgentLife #BurnoutRecovery #MindsetShift #RealEstateCoach #RealtorTips
+
+### LinkedIn
+**Caption:** The breakthrough starts with the lie you've been telling yourself. Two sentences tonight. That's it.
+**Hashtags:** #RealEstateMindset #AgentLife #BurnoutRecovery #RealEstate #ProfessionalDevelopment

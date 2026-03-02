@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 The luxury market isn't closed to you. You just never built a serious plan for entering it. Hope is not a strategy.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Most agents assume you need luxury connections first -- a lucky referral that falls in your lap. So they wait. Meanwhile, luxury clients are choosing agents based on expertise and credibility. If you haven't built those signals, no connection will save you.
 
 Referrals don't convert when the agent isn't ready for the conversation.
 
+
+Here's what I'd do. Open Claude and type: "Build me a 90-day luxury market entry strategy -- the exact steps to go from zero luxury listings to being taken seriously."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Luxury clients don't find agents randomly. They choose agents who already look like they belong. Build the plan.
+**Hashtags:** #LuxuryRealEstate #RealEstateStrategy #HighEndHomes #RealtorGrowth #LuxuryAgent #AIforRealtors #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** Luxury clients don't find agents randomly. They choose agents who already look like they belong.
+**Hashtags:** #LuxuryRealEstate #RealEstateStrategy #HighEndHomes #RealtorGrowth
+
+### YouTube Shorts
+**Title:** The Luxury Market Needs a Plan, Not a Prayer
+**Description:** Luxury clients don't find agents randomly. They choose agents who already look like they belong. Build the plan.
 **Hashtags:** #LuxuryRealEstate #RealEstateStrategy #HighEndHomes #RealtorGrowth #LuxuryAgent
+
+### Facebook
+**Caption:** Luxury clients don't find agents randomly. They choose agents who already look like they belong. Build the plan.
+**Hashtags:** #LuxuryRealEstate #RealEstateStrategy #HighEndHomes #RealtorGrowth #LuxuryAgent #AIforRealtors
+
+### LinkedIn
+**Caption:** Luxury clients don't find agents randomly. They choose agents who already look like they belong. Build the plan.
+**Hashtags:** #LuxuryRealEstate #RealEstateStrategy #HighEndHomes #RealEstate #ProfessionalDevelopment

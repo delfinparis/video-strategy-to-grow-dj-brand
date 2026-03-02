@@ -22,5 +22,25 @@ D.J. Paris built a custom mortgage affordability calculator for his agents last 
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Zero coding required.
+**Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealtorLife #AIForRealtors #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI.
+**Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealtorLife
+
+### YouTube Shorts
+**Title:** Most Agents Pay for Tools. Top Producers Build Them.
+**Description:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Zero coding required.
 **Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealtorLife #AIForRealtors
+
+### Facebook
+**Caption:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Zero coding required.
+**Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealtorLife #AIForRealtors #RealtorTips
+
+### LinkedIn
+**Caption:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Zero coding required.
+**Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealEstate #ProfessionalDevelopment

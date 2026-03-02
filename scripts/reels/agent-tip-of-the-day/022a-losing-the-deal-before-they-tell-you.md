@@ -14,11 +14,38 @@ target_duration: "27 seconds"
 
 You're losing the deal before you even know they're mad.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Tim Burrell runs his negotiation emails through ChatGPT with a custom prompt. It flags tone shifts -- when language gets sharper, when frustration is building.
 
 He's got a prompt that reads every buyer and seller email during inspection periods and flags anything above a 6 out of 10 on the frustration scale. You get the warning before you send the reply that kills the deal.
 
+
+Do this after your next showing: Ask your buyer one question -- "What's your gut telling you right now?" Then actually listen.
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** ChatGPT can tell you when your client is getting mad before you blow the deal. Tim Burrell's negotiation hack.
+**Hashtags:** #RealEstateNegotiation #AIForRealtors #ChatGPT #NegotiationSkills #RealEstateTech #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** ChatGPT can tell you when your client is getting mad before you blow the deal.
+**Hashtags:** #RealEstateNegotiation #AIForRealtors #ChatGPT #NegotiationSkills
+
+### YouTube Shorts
+**Title:** Losing the Deal Before They Tell You
+**Description:** ChatGPT can tell you when your client is getting mad before you blow the deal. Tim Burrell's negotiation hack.
 **Hashtags:** #RealEstateNegotiation #AIForRealtors #ChatGPT #NegotiationSkills #RealEstateTech
+
+### Facebook
+**Caption:** ChatGPT can tell you when your client is getting mad before you blow the deal. Tim Burrell's negotiation hack.
+**Hashtags:** #RealEstateNegotiation #AIForRealtors #ChatGPT #NegotiationSkills #RealEstateTech #RealtorTips
+
+### LinkedIn
+**Caption:** ChatGPT can tell you when your client is getting mad before you blow the deal. Tim Burrell's negotiation hack.
+**Hashtags:** #RealEstateNegotiation #AIForRealtors #ChatGPT #RealEstate #ProfessionalDevelopment

@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 January you're broke. June you're great. September you're stressed again. This isn't bad luck -- it's a pipeline problem you're creating yourself.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 When business is slow, you prospect hard. When it picks up, you stop prospecting because you're busy. But that busy season is actually creating the next slow season.
 
 Most agents live in this cycle their entire career and never realize they're the ones causing it.
 
+
+Try this: Open Claude and type "Help me set a pipeline floor -- the minimum number of active conversations I need to never go through a dry spell again."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** The feast-or-famine cycle doesn't break by accident. It breaks when you stop letting busy seasons kill your prospecting.
+**Hashtags:** #RealEstateProspecting #AIAgentMinute #PipelineManagement #FeastOrFamine #RealEstateTips #AIforRealtors #ClaudeAI #RealEstateAI #TechInRealEstate #AIAgent
+
+### TikTok
+**Caption:** The feast-or-famine cycle doesn't break by accident. It breaks when you stop letting busy seasons kill your prospecting.
+**Hashtags:** #RealEstateProspecting #AIAgentMinute #PipelineManagement #FeastOrFamine
+
+### YouTube Shorts
+**Title:** You're Creating Your Own Feast-or-Famine Cycle
+**Description:** The feast-or-famine cycle doesn't break by accident. It breaks when you stop letting busy seasons kill your prospecting.
 **Hashtags:** #RealEstateProspecting #AIAgentMinute #PipelineManagement #FeastOrFamine #RealEstateTips
+
+### Facebook
+**Caption:** The feast-or-famine cycle doesn't break by accident. It breaks when you stop letting busy seasons kill your prospecting.
+**Hashtags:** #RealEstateProspecting #AIAgentMinute #PipelineManagement #FeastOrFamine #RealEstateTips #AIforRealtors
+
+### LinkedIn
+**Caption:** The feast-or-famine cycle doesn't break by accident. It breaks when you stop letting busy seasons kill your prospecting.
+**Hashtags:** #RealEstateProspecting #AIAgentMinute #PipelineManagement #RealEstate #ProfessionalDevelopment

@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Here's a three-touch sequence that actually re-engages ghosted leads.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Give Claude your lead's profile and type: "Write a three-touch re-engagement sequence built entirely on value -- no asks. Touch one: a relevant market update for their area. Touch two: a specific property matching what they wanted. Touch three: a low-pressure check-in -- 'I want to make sure I'm still being helpful.'"
 
 Every message gives them a reason to respond. None of them makes them feel guilty for going quiet.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The exact Claude prompt for a 3-touch re-engagement sequence that brings ghosted leads back without pressure.
+**Hashtags:** #AIforRealtors #Claude #LeadGeneration #RealtorTips #GhostedLeads #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The exact Claude prompt for a 3-touch re-engagement sequence that brings ghosted leads back without pressure.
+**Hashtags:** #AIforRealtors #Claude #LeadGeneration #RealtorTips
+
+### YouTube Shorts
+**Title:** The 3-Touch AI Sequence That Brings Ghosted Leads Back
+**Description:** The exact Claude prompt for a 3-touch re-engagement sequence that brings ghosted leads back without pressure.
+**Hashtags:** #AIforRealtors #Claude #LeadGeneration #RealtorTips #GhostedLeads
+
+### Facebook
 **Caption:** The exact Claude prompt for a 3-touch re-engagement sequence that brings ghosted leads back without pressure.
 **Hashtags:** #AIforRealtors #Claude #LeadGeneration #RealtorTips #GhostedLeads #AIAgent
+
+### LinkedIn
+**Caption:** The exact Claude prompt for a 3-touch re-engagement sequence that brings ghosted leads back without pressure.
+**Hashtags:** #AIforRealtors #Claude #LeadGeneration #RealEstate #ProfessionalDevelopment

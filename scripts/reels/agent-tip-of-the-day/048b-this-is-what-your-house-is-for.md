@@ -14,9 +14,33 @@ target_duration: "25 seconds"
 
 One of Karina Chavez's clients called her years after closing, panicking about a medical crisis. Karina reminded her: "This is what your house is for. This is what all the sacrifices have been for." Equity. Security. A way forward.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 You're not selling houses. You're selling the thing that catches people when they fall. But only if they understand what they own. That's the difference between a transaction and a relationship that lasts decades.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** A house isn't just a home. It's a safety net. But only if your clients understand what they own.
+**Hashtags:** #RealEstateAgent #ClientRelationships #HomeEquity #AgentLife #RealEstateMindset #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** A house isn't just a home. It's a safety net.
+**Hashtags:** #RealEstateAgent #ClientRelationships #HomeEquity #AgentLife
+
+### YouTube Shorts
+**Title:** This Is What Your House Is For
+**Description:** A house isn't just a home. It's a safety net. But only if your clients understand what they own.
 **Hashtags:** #RealEstateAgent #ClientRelationships #HomeEquity #AgentLife #RealEstateMindset
+
+### Facebook
+**Caption:** A house isn't just a home. It's a safety net. But only if your clients understand what they own.
+**Hashtags:** #RealEstateAgent #ClientRelationships #HomeEquity #AgentLife #RealEstateMindset #RealtorTips
+
+### LinkedIn
+**Caption:** A house isn't just a home. It's a safety net. But only if your clients understand what they own.
+**Hashtags:** #RealEstateAgent #ClientRelationships #HomeEquity #RealEstate #ProfessionalDevelopment

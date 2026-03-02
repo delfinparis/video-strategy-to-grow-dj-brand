@@ -25,5 +25,25 @@ Practice it until you own it. You don't have a commission problem. You have a va
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
+**Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement #RealEstateAgent #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The Claude prompt that builds your commission defense. Your numbers.
+**Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement
+
+### YouTube Shorts
+**Title:** If You Flinch Explaining Your Commission — You'll Lose It
+**Description:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
+**Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement #RealEstateAgent
+
+### Facebook
 **Caption:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
 **Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement #RealEstateAgent #AIAgent
+
+### LinkedIn
+**Caption:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
+**Hashtags:** #AIforRealtors #Claude #CommissionDefense #RealEstate #ProfessionalDevelopment

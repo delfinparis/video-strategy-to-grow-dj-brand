@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 One strong relationship with the right divorce attorney generates five to ten deals a year. In any market.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Ask Claude: "Draft a divorce attorney outreach package -- a professional introduction letter explaining my experience with emotionally complex transactions, a one-page overview of how I handle divorce sales including dual dynamics and court-ordered timelines, and three anonymized case study summaries."
 
 Identify five family law attorneys in your market. Send it this week. This isn't predatory -- it's one of the most helpful things an agent can do.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** One Claude prompt builds your entire divorce attorney outreach package. Five attorneys, one week, potentially ten deals a year.
+**Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #ClaudeAI #AttorneyReferrals #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** One Claude prompt builds your entire divorce attorney outreach package.
+**Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Build a Divorce Attorney Outreach Package With Claude
+**Description:** One Claude prompt builds your entire divorce attorney outreach package. Five attorneys, one week, potentially ten deals a year.
 **Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #ClaudeAI #AttorneyReferrals
+
+### Facebook
+**Caption:** One Claude prompt builds your entire divorce attorney outreach package. Five attorneys, one week, potentially ten deals a year.
+**Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #ClaudeAI #AttorneyReferrals #AIforRealtors
+
+### LinkedIn
+**Caption:** One Claude prompt builds your entire divorce attorney outreach package. Five attorneys, one week, potentially ten deals a year.
+**Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #RealEstate #ProfessionalDevelopment

@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Ask Claude: "Draft five targeted media pitch emails positioning me as a local real estate expert source -- one for a newspaper real estate section, one for a housing podcast, one for a local lifestyle blog, one for a neighborhood newsletter, and one for a radio money segment."
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Each pitch should offer a specific, timely angle. Not "I'm a great agent" -- "here's the take I can give you on the rate environment right now."
 
 Send all five this week. One yes permanently elevates your profile.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Five media pitch emails. One Claude prompt. Send them all this week. One yes changes your brand permanently.
+**Hashtags:** #RealEstateAI #MediaPitching #AIAgentMinute #ClaudeAI #RealtorPR #LocalMedia #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Five media pitch emails. One Claude prompt.
+**Hashtags:** #RealEstateAI #MediaPitching #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Send 5 Media Pitch Emails This Week With One Claude Prompt
+**Description:** Five media pitch emails. One Claude prompt. Send them all this week. One yes changes your brand permanently.
+**Hashtags:** #RealEstateAI #MediaPitching #AIAgentMinute #ClaudeAI #RealtorPR
+
+### Facebook
 **Caption:** Five media pitch emails. One Claude prompt. Send them all this week. One yes changes your brand permanently.
 **Hashtags:** #RealEstateAI #MediaPitching #AIAgentMinute #ClaudeAI #RealtorPR #LocalMedia
+
+### LinkedIn
+**Caption:** Five media pitch emails. One Claude prompt. Send them all this week. One yes changes your brand permanently.
+**Hashtags:** #RealEstateAI #MediaPitching #AIAgentMinute #RealEstate #ProfessionalDevelopment

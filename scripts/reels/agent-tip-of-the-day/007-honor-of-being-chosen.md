@@ -24,5 +24,25 @@ When's the last time you answered the phone like it was an honor? Try it tomorro
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** She's done $50M+ and still answers at 9 PM. Here's why that matters more than production numbers.
+**Hashtags:** #RealEstateAgent #LuxuryRealEstate #RealtorLife #AgentMindset #TopProducer #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
+
+### TikTok
+**Caption:** She's done $50M+ and still answers at 9 PM. Here's why that matters more than production numbers.
+**Hashtags:** #RealEstateAgent #LuxuryRealEstate #RealtorLife #AgentMindset
+
+### YouTube Shorts
+**Title:** She Still Answers at 9 PM
+**Description:** She's done $50M+ and still answers at 9 PM. Here's why that matters more than production numbers.
 **Hashtags:** #RealEstateAgent #LuxuryRealEstate #RealtorLife #AgentMindset #TopProducer
+
+### Facebook
+**Caption:** She's done $50M+ and still answers at 9 PM. Here's why that matters more than production numbers.
+**Hashtags:** #RealEstateAgent #LuxuryRealEstate #RealtorLife #AgentMindset #TopProducer #RealtorTips
+
+### LinkedIn
+**Caption:** She's done $50M+ and still answers at 9 PM. Here's why that matters more than production numbers.
+**Hashtags:** #RealEstateAgent #LuxuryRealEstate #RealtorLife #RealEstate #ProfessionalDevelopment

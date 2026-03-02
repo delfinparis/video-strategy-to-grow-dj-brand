@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Instead of scrolling Instagram, try this. Open Claude and share your stats from twelve months ago versus today -- deals, income, database size, skills added.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Then type: "Write me a progress narrative -- a paragraph showing how far I've actually come, grounded in these real numbers."
 
 Read that instead of scrolling. The only timeline that matters is yours.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Your progress narrative beats their highlight reel. Let Claude prove it with your own numbers.
+**Hashtags:** #AIforRealtors #ClaudeAI #RealEstateGrowth #ProgressNotPerfection #RealtorTips #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Your progress narrative beats their highlight reel. Let Claude prove it with your own numbers.
+**Hashtags:** #AIforRealtors #ClaudeAI #RealEstateGrowth #ProgressNotPerfection
+
+### YouTube Shorts
+**Title:** Run a Trajectory Audit With Claude
+**Description:** Your progress narrative beats their highlight reel. Let Claude prove it with your own numbers.
 **Hashtags:** #AIforRealtors #ClaudeAI #RealEstateGrowth #ProgressNotPerfection #RealtorTips
+
+### Facebook
+**Caption:** Your progress narrative beats their highlight reel. Let Claude prove it with your own numbers.
+**Hashtags:** #AIforRealtors #ClaudeAI #RealEstateGrowth #ProgressNotPerfection #RealtorTips #AIAgentMinute
+
+### LinkedIn
+**Caption:** Your progress narrative beats their highlight reel. Let Claude prove it with your own numbers.
+**Hashtags:** #AIforRealtors #ClaudeAI #RealEstateGrowth #RealEstate #ProfessionalDevelopment

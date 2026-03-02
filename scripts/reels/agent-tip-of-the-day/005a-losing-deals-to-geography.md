@@ -26,5 +26,25 @@ Here's your move: Find one agent in a market your buyers keep asking about. Send
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** You're losing deals to geography. Here's why that's a decision problem, not a tech problem.
+**Hashtags:** #RealEstateTech #MLSReform #RealEstateAgent #RealtorLife #PropTech #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** You're losing deals to geography. Here's why that's a decision problem, not a tech problem.
+**Hashtags:** #RealEstateTech #MLSReform #RealEstateAgent #RealtorLife
+
+### YouTube Shorts
+**Title:** You're Losing Deals to Geography
+**Description:** You're losing deals to geography. Here's why that's a decision problem, not a tech problem.
 **Hashtags:** #RealEstateTech #MLSReform #RealEstateAgent #RealtorLife #PropTech
+
+### Facebook
+**Caption:** You're losing deals to geography. Here's why that's a decision problem, not a tech problem.
+**Hashtags:** #RealEstateTech #MLSReform #RealEstateAgent #RealtorLife #PropTech #RealtorTips
+
+### LinkedIn
+**Caption:** You're losing deals to geography. Here's why that's a decision problem, not a tech problem.
+**Hashtags:** #RealEstateTech #MLSReform #RealEstateAgent #RealEstate #ProfessionalDevelopment

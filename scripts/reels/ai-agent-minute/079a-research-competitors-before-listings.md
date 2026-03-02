@@ -15,11 +15,38 @@ ai_tool: "Perplexity"
 
 You're walking into listing appointments without knowing who else is being interviewed. That's like playing poker without looking at your cards.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Sellers interview two or three agents. The ones who win know their competition -- recent production, online reviews, weaknesses. Most agents never look any of this up.
 
 Use Perplexity to research your competition -- their recent sales, Google reviews, average days on market. Show up with intel, not hope.
 
+
+Try this: Open Claude and type "Help me build a pre-listing competitive research checklist so I walk in knowing exactly how to stand out."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Stop walking into listing appointments blind. Perplexity gives you the competitive intel in minutes.
+**Hashtags:** #ListingAppointment #RealEstateStrategy #Perplexity #AIforRealtors #WinTheListin #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent
+
+### TikTok
+**Caption:** Stop walking into listing appointments blind. Perplexity gives you the competitive intel in minutes.
+**Hashtags:** #ListingAppointment #RealEstateStrategy #Perplexity #AIforRealtors
+
+### YouTube Shorts
+**Title:** Research Competitors Before Listing Appointments
+**Description:** Stop walking into listing appointments blind. Perplexity gives you the competitive intel in minutes.
 **Hashtags:** #ListingAppointment #RealEstateStrategy #Perplexity #AIforRealtors #WinTheListin
+
+### Facebook
+**Caption:** Stop walking into listing appointments blind. Perplexity gives you the competitive intel in minutes.
+**Hashtags:** #ListingAppointment #RealEstateStrategy #Perplexity #AIforRealtors #WinTheListin #ClaudeAI
+
+### LinkedIn
+**Caption:** Stop walking into listing appointments blind. Perplexity gives you the competitive intel in minutes.
+**Hashtags:** #ListingAppointment #RealEstateStrategy #Perplexity #RealEstate #ProfessionalDevelopment

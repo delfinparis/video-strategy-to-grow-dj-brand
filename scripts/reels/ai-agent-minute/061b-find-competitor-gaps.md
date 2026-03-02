@@ -15,13 +15,37 @@ ai_tool: "Perplexity / Claude"
 
 Here's a thirty-minute research process that changes your positioning.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Use Perplexity to pull intel on your top five competitors -- recent production, social media positioning, Google and Zillow reviews, average days on market.
 
 Bring it all into Claude and type: "Based on how these agents position themselves, identify three gaps or underserved angles I could own in this market."
 
 You might find nobody is serving a specific price range, neighborhood, or client type. That's your opening.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Perplexity pulls the intel. Claude finds the gaps. Thirty minutes to discover the market angle nobody else owns.
+**Hashtags:** #RealEstateAI #CompetitiveAnalysis #AIAgentMinute #Perplexity #ClaudeAI #MarketGaps #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Perplexity pulls the intel. Claude finds the gaps.
+**Hashtags:** #RealEstateAI #CompetitiveAnalysis #AIAgentMinute #Perplexity
+
+### YouTube Shorts
+**Title:** Find the 3 Gaps Your Competition Is Leaving Open
+**Description:** Perplexity pulls the intel. Claude finds the gaps. Thirty minutes to discover the market angle nobody else owns.
+**Hashtags:** #RealEstateAI #CompetitiveAnalysis #AIAgentMinute #Perplexity #ClaudeAI
+
+### Facebook
 **Caption:** Perplexity pulls the intel. Claude finds the gaps. Thirty minutes to discover the market angle nobody else owns.
 **Hashtags:** #RealEstateAI #CompetitiveAnalysis #AIAgentMinute #Perplexity #ClaudeAI #MarketGaps
+
+### LinkedIn
+**Caption:** Perplexity pulls the intel. Claude finds the gaps. Thirty minutes to discover the market angle nobody else owns.
+**Hashtags:** #RealEstateAI #CompetitiveAnalysis #AIAgentMinute #RealEstate #ProfessionalDevelopment

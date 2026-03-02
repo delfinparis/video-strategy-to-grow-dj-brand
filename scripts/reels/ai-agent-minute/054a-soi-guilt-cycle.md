@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 Here's what "staying in touch" looks like for most agents. You think about calling someone. You don't call. You feel guilty. You avoid thinking about it again.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Meanwhile, another agent has been showing up in that person's inbox, their feed, and their mailbox every single month. When that person's friend asks for a realtor -- they give the other agent's name.
 
 The agents with referral businesses don't have better relationships. They have better systems for maintaining them.
 
+
+Here's what I'd do. Open Claude and type: "Build me a monthly sphere-of-influence touchpoint calendar so staying in touch runs on a system, not guilt."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** You don't stay top of mind by accident. You stay top of mind by design. The system makes the difference.
+**Hashtags:** #RealEstateAI #SOI #AIAgentMinute #SphereOfInfluence #RealtorSystems #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** You don't stay top of mind by accident. You stay top of mind by design.
+**Hashtags:** #RealEstateAI #SOI #AIAgentMinute #SphereOfInfluence
+
+### YouTube Shorts
+**Title:** You Think About Calling Your SOI, Don't Call, Then Feel Guilty
+**Description:** You don't stay top of mind by accident. You stay top of mind by design. The system makes the difference.
 **Hashtags:** #RealEstateAI #SOI #AIAgentMinute #SphereOfInfluence #RealtorSystems
+
+### Facebook
+**Caption:** You don't stay top of mind by accident. You stay top of mind by design. The system makes the difference.
+**Hashtags:** #RealEstateAI #SOI #AIAgentMinute #SphereOfInfluence #RealtorSystems #AIforRealtors
+
+### LinkedIn
+**Caption:** You don't stay top of mind by accident. You stay top of mind by design. The system makes the difference.
+**Hashtags:** #RealEstateAI #SOI #AIAgentMinute #RealEstate #ProfessionalDevelopment

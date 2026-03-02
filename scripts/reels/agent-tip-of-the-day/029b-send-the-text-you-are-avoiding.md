@@ -14,11 +14,35 @@ target_duration: "24 seconds"
 
 In a business full of shortcuts, being the agent who shows up consistently and tells the truth is actually rare. That's your edge.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Right now, open your phone. Find the client conversation you've been avoiding -- the one with bad news or a dropped ball. Text them: "Can we talk tomorrow at 9am? I owe you an update."
 
 Send it before this video ends.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** The conversation you're avoiding is the one that builds your reputation. Send the text.
+**Hashtags:** #RealEstateMindset #AccountabilityMatters #AgentLife #ClientRelationships #RealTalk #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** The conversation you're avoiding is the one that builds your reputation.
+**Hashtags:** #RealEstateMindset #AccountabilityMatters #AgentLife #ClientRelationships
+
+### YouTube Shorts
+**Title:** Send the Text You're Avoiding
+**Description:** The conversation you're avoiding is the one that builds your reputation. Send the text.
 **Hashtags:** #RealEstateMindset #AccountabilityMatters #AgentLife #ClientRelationships #RealTalk
+
+### Facebook
+**Caption:** The conversation you're avoiding is the one that builds your reputation. Send the text.
+**Hashtags:** #RealEstateMindset #AccountabilityMatters #AgentLife #ClientRelationships #RealTalk #RealtorTips
+
+### LinkedIn
+**Caption:** The conversation you're avoiding is the one that builds your reputation. Send the text.
+**Hashtags:** #RealEstateMindset #AccountabilityMatters #AgentLife #RealEstate #ProfessionalDevelopment

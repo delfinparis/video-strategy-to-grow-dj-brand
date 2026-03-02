@@ -15,13 +15,37 @@ ai_tool: "Claude"
 
 "I work with all buyers and sellers in the greater metro area." That is the most forgettable sentence in real estate marketing.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 When you try to serve everyone, you're memorable to no one. A niche doesn't shrink your market -- it sharpens your message so the right people find you faster.
 
 Ask Claude: "Help me find my niche. Ask me: What clients do I enjoy most? What neighborhoods do I know best? What life transition do I understand deeply -- divorce, relocation, first-time buyers? What does my best client look like?" Give honest answers. Let Claude find the patterns.
 
 Be the obvious choice for someone -- not an option for everyone.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The Claude niche-finding prompt that turns you from "an option for everyone" into "the obvious choice for someone." Answer four questions honestly.
+**Hashtags:** #AIforRealtors #Claude #RealEstateNiche #PersonalBrand #RealtorTips #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The Claude niche-finding prompt that turns you from "an option for everyone" into "the obvious choice for someone." Answer four questions honestly.
+**Hashtags:** #AIforRealtors #Claude #RealEstateNiche #PersonalBrand
+
+### YouTube Shorts
+**Title:** The Most Forgettable Sentence in Real Estate Marketing
+**Description:** The Claude niche-finding prompt that turns you from "an option for everyone" into "the obvious choice for someone." Answer four questions honestly.
+**Hashtags:** #AIforRealtors #Claude #RealEstateNiche #PersonalBrand #RealtorTips
+
+### Facebook
 **Caption:** The Claude niche-finding prompt that turns you from "an option for everyone" into "the obvious choice for someone." Answer four questions honestly.
 **Hashtags:** #AIforRealtors #Claude #RealEstateNiche #PersonalBrand #RealtorTips #AIAgent
+
+### LinkedIn
+**Caption:** The Claude niche-finding prompt that turns you from "an option for everyone" into "the obvious choice for someone." Answer four questions honestly.
+**Hashtags:** #AIforRealtors #Claude #RealEstateNiche #RealEstate #ProfessionalDevelopment

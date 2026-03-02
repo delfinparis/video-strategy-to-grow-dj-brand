@@ -27,5 +27,25 @@ Try this: Open Claude tomorrow morning and say "Help me plan my day -- here are 
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Occasional AI use vs. daily thinking partner = entirely different results. The gap compounds every month.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ProductivityTips #AIAgent #RealtorLife #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** Occasional AI use vs. daily thinking partner = entirely different results.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ProductivityTips
+
+### YouTube Shorts
+**Title:** You're Using AI Like Google — The Top 1% Don't
+**Description:** Occasional AI use vs. daily thinking partner = entirely different results. The gap compounds every month.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ProductivityTips #AIAgent
+
+### Facebook
 **Caption:** Occasional AI use vs. daily thinking partner = entirely different results. The gap compounds every month.
 **Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ProductivityTips #AIAgent #RealtorLife
+
+### LinkedIn
+**Caption:** Occasional AI use vs. daily thinking partner = entirely different results. The gap compounds every month.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #RealEstate #ProfessionalDevelopment

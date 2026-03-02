@@ -24,5 +24,25 @@ Do this today: Pick one group you already know — teachers, nurses, tech. Find 
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Stop chasing everyone. Start showing up in one world. Bari Mill showed us exactly how.
+**Hashtags:** #realestatetips #newagent #nichedown #realestateagent #leadgeneration #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Stop chasing everyone. Start showing up in one world.
+**Hashtags:** #realestatetips #newagent #nichedown #realestateagent
+
+### YouTube Shorts
+**Title:** Stop Chasing Everyone
+**Description:** Stop chasing everyone. Start showing up in one world. Bari Mill showed us exactly how.
 **Hashtags:** #realestatetips #newagent #nichedown #realestateagent #leadgeneration
+
+### Facebook
+**Caption:** Stop chasing everyone. Start showing up in one world. Bari Mill showed us exactly how.
+**Hashtags:** #realestatetips #newagent #nichedown #realestateagent #leadgeneration #RealtorTips
+
+### LinkedIn
+**Caption:** Stop chasing everyone. Start showing up in one world. Bari Mill showed us exactly how.
+**Hashtags:** #realestatetips #newagent #nichedown #RealEstate #ProfessionalDevelopment

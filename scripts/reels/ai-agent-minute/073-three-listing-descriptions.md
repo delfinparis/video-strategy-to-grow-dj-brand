@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Most listing descriptions are genuinely terrible. "Charming." "Cozy." "Move-in ready." "Nestled." Those cliches signal that nobody thought carefully about this particular home.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Give Claude the property's key features, the neighborhood, the ideal buyer, and one emotional selling point unique to this house. Type: "Write three versions of this listing description -- one aspirational, one feature-focused, one neighborhood-first. Each under two hundred words. Zero real estate cliches."
 
 Pick the best. Personalize it. Done in five minutes instead of forty-five. Buyers buy stories before they buy houses.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Three listing descriptions, zero cliches, five minutes. Claude writes the story that gets the showing.
+**Hashtags:** #RealEstateAI #ListingDescriptions #AIAgentMinute #ClaudeAI #ListingAgent #CopywritingTips #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Three listing descriptions, zero cliches, five minutes. Claude writes the story that gets the showing.
+**Hashtags:** #RealEstateAI #ListingDescriptions #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Three Listing Descriptions. Zero Cliches. Five Minutes.
+**Description:** Three listing descriptions, zero cliches, five minutes. Claude writes the story that gets the showing.
+**Hashtags:** #RealEstateAI #ListingDescriptions #AIAgentMinute #ClaudeAI #ListingAgent
+
+### Facebook
 **Caption:** Three listing descriptions, zero cliches, five minutes. Claude writes the story that gets the showing.
 **Hashtags:** #RealEstateAI #ListingDescriptions #AIAgentMinute #ClaudeAI #ListingAgent #CopywritingTips
+
+### LinkedIn
+**Caption:** Three listing descriptions, zero cliches, five minutes. Claude writes the story that gets the showing.
+**Hashtags:** #RealEstateAI #ListingDescriptions #AIAgentMinute #RealEstate #ProfessionalDevelopment

@@ -24,5 +24,25 @@ Do this tonight: Write down the number you actually want to hit this year. The r
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** The number one thing holding you back isn't your market. It's the story you keep telling yourself.
+**Hashtags:** #RealEstateMindset #BurnoutRecovery #TopProducer #RealEstateCoach #HonestConversation #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
+
+### TikTok
+**Caption:** The number one thing holding you back isn't your market. It's the story you keep telling yourself.
+**Hashtags:** #RealEstateMindset #BurnoutRecovery #TopProducer #RealEstateCoach
+
+### YouTube Shorts
+**Title:** You're Lying About What You Want to Build
+**Description:** The number one thing holding you back isn't your market. It's the story you keep telling yourself.
 **Hashtags:** #RealEstateMindset #BurnoutRecovery #TopProducer #RealEstateCoach #HonestConversation
+
+### Facebook
+**Caption:** The number one thing holding you back isn't your market. It's the story you keep telling yourself.
+**Hashtags:** #RealEstateMindset #BurnoutRecovery #TopProducer #RealEstateCoach #HonestConversation #RealtorTips
+
+### LinkedIn
+**Caption:** The number one thing holding you back isn't your market. It's the story you keep telling yourself.
+**Hashtags:** #RealEstateMindset #BurnoutRecovery #TopProducer #RealEstate #ProfessionalDevelopment

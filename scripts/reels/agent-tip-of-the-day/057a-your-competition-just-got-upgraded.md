@@ -14,9 +14,36 @@ target_duration: "27 seconds"
 
 One company now controls one in five agents in America.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Compass just acquired Anywhere Real Estate. That's 300,000 agents -- Century 21, Coldwell Banker, Corcoran, ERA -- all under one system. Chris Linsell, real estate tech analyst, puts it this way: Bob at Century 21 isn't just Bob anymore. He's got AI writing his listings, automated follow-ups, and a design team cranking out his content. You're not competing against Bob. You're competing against Bob plus a tech team he doesn't even pay for.
 
+
+Do this today: Learn one new AI tool or feature you haven't tried. The agents who adapt first don't just survive -- they lead.
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** 300,000 agents just got a tech upgrade. Chris Linsell on what the Compass-Anywhere merger means for you.
+**Hashtags:** #RealEstateNews #CompassRealEstate #RealEstateTech #RealEstateAgent #AgentLife #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** 300,000 agents just got a tech upgrade. Chris Linsell on what the Compass-Anywhere merger means for you.
+**Hashtags:** #RealEstateNews #CompassRealEstate #RealEstateTech #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Your Competition Just Got Upgraded
+**Description:** 300,000 agents just got a tech upgrade. Chris Linsell on what the Compass-Anywhere merger means for you.
 **Hashtags:** #RealEstateNews #CompassRealEstate #RealEstateTech #RealEstateAgent #AgentLife
+
+### Facebook
+**Caption:** 300,000 agents just got a tech upgrade. Chris Linsell on what the Compass-Anywhere merger means for you.
+**Hashtags:** #RealEstateNews #CompassRealEstate #RealEstateTech #RealEstateAgent #AgentLife #RealtorTips
+
+### LinkedIn
+**Caption:** 300,000 agents just got a tech upgrade. Chris Linsell on what the Compass-Anywhere merger means for you.
+**Hashtags:** #RealEstateNews #CompassRealEstate #RealEstateTech #RealEstate #ProfessionalDevelopment

@@ -14,11 +14,35 @@ target_duration: "27 seconds"
 
 Every agent has access to the same MLS data. But almost nobody knows how to actually use it.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Tech analyst Chris Linsell says: feed ChatGPT your local sold comps, days on market, and price trends. Ask it: "What pattern am I missing?" Or: "Why are homes under 300K moving faster in this zip code?"
 
 It'll spot the trend you've been staring past for three months. Pull your last 90 days of sold data tonight. Ask one question. That's your listing presentation for tomorrow.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** AI isn't for writing captions. It's for reading your market faster than your competition. Chris Linsell's simplest tactic.
+**Hashtags:** #RealEstateAI #MLSData #MarketAnalysis #ChatGPTForRealtors #ListingPresentation #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** AI isn't for writing captions. It's for reading your market faster than your competition.
+**Hashtags:** #RealEstateAI #MLSData #MarketAnalysis #ChatGPTForRealtors
+
+### YouTube Shorts
+**Title:** AI Reads Your Market Data Better Than You
+**Description:** AI isn't for writing captions. It's for reading your market faster than your competition. Chris Linsell's simplest tactic.
 **Hashtags:** #RealEstateAI #MLSData #MarketAnalysis #ChatGPTForRealtors #ListingPresentation
+
+### Facebook
+**Caption:** AI isn't for writing captions. It's for reading your market faster than your competition. Chris Linsell's simplest tactic.
+**Hashtags:** #RealEstateAI #MLSData #MarketAnalysis #ChatGPTForRealtors #ListingPresentation #RealtorTips
+
+### LinkedIn
+**Caption:** AI isn't for writing captions. It's for reading your market faster than your competition. Chris Linsell's simplest tactic.
+**Hashtags:** #RealEstateAI #MLSData #MarketAnalysis #RealEstate #ProfessionalDevelopment

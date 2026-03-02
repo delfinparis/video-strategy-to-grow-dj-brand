@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 You're doing tasks every day that someone else could do for fifteen dollars an hour. Which means you're billing yourself at fifteen dollars an hour for time that should be worth two hundred.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 And here's why most agents hire at the wrong time -- they wait until they're drowning, then make every mistake: wrong person, unclear role, no systems.
 
 The right time to hire isn't when you're overwhelmed. It's when the math tells you to. Most agents hire out of desperation. Top producers hire out of data.
 
+
+Try this: Open Claude and type "Calculate my real hourly rate based on my commission income and hours worked. Then show me which tasks I should stop doing myself."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** You're spending $200/hour time on $15/hour tasks. The right time to hire isn't when you're drowning -- it's when the math says so.
+**Hashtags:** #RealEstateAgent #HiringDecision #BusinessGrowth #RealtorLife #RealEstateBusiness #AIforRealtors #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** You're spending $200/hour time on $15/hour tasks. The right time to hire isn't when you're drowning -- it's when the math says so.
+**Hashtags:** #RealEstateAgent #HiringDecision #BusinessGrowth #RealtorLife
+
+### YouTube Shorts
+**Title:** You're Billing Yourself at $15/Hour for $200/Hour Work
+**Description:** You're spending $200/hour time on $15/hour tasks. The right time to hire isn't when you're drowning -- it's when the math says so.
 **Hashtags:** #RealEstateAgent #HiringDecision #BusinessGrowth #RealtorLife #RealEstateBusiness
+
+### Facebook
+**Caption:** You're spending $200/hour time on $15/hour tasks. The right time to hire isn't when you're drowning -- it's when the math says so.
+**Hashtags:** #RealEstateAgent #HiringDecision #BusinessGrowth #RealtorLife #RealEstateBusiness #AIforRealtors
+
+### LinkedIn
+**Caption:** You're spending $200/hour time on $15/hour tasks. The right time to hire isn't when you're drowning -- it's when the math says so.
+**Hashtags:** #RealEstateAgent #HiringDecision #BusinessGrowth #RealEstate #ProfessionalDevelopment

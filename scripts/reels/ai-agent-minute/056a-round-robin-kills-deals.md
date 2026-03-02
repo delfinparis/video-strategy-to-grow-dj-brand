@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 The wrong agent getting the right lead isn't just inefficient -- it's actively damaging your team's reputation.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 A new agent handed a luxury relocation lead will almost certainly lose it. An experienced agent assigned a first-time buyer who needs hand-holding might get impatient and lose them too.
 
 And the agents who get mismatched leads don't just lose the deal -- they lose confidence. The compounding cost is bigger than the lost commission.
 
+
+Here's what I'd do. Open Claude and type: "Help me design a lead routing system for my team that matches leads to agents based on skill and fit, not luck."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Round-robin lead distribution produces random results. The wrong agent on the right lead costs more than the commission.
+**Hashtags:** #RealEstateAI #TeamLeadership #AIAgentMinute #LeadRouting #RealEstateTeam #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Round-robin lead distribution produces random results. The wrong agent on the right lead costs more than the commission.
+**Hashtags:** #RealEstateAI #TeamLeadership #AIAgentMinute #LeadRouting
+
+### YouTube Shorts
+**Title:** Wrong Agent + Right Lead = Deal You'll Never Get Back
+**Description:** Round-robin lead distribution produces random results. The wrong agent on the right lead costs more than the commission.
 **Hashtags:** #RealEstateAI #TeamLeadership #AIAgentMinute #LeadRouting #RealEstateTeam
+
+### Facebook
+**Caption:** Round-robin lead distribution produces random results. The wrong agent on the right lead costs more than the commission.
+**Hashtags:** #RealEstateAI #TeamLeadership #AIAgentMinute #LeadRouting #RealEstateTeam #AIforRealtors
+
+### LinkedIn
+**Caption:** Round-robin lead distribution produces random results. The wrong agent on the right lead costs more than the commission.
+**Hashtags:** #RealEstateAI #TeamLeadership #AIAgentMinute #RealEstate #ProfessionalDevelopment

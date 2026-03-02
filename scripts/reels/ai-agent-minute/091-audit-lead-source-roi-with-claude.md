@@ -15,13 +15,37 @@ ai_tool: "Claude"
 
 Most agents have no idea which lead sources actually make them money. They're genuinely guessing with their own business.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Could you tell me your cost per closed deal by lead source right now? Zillow, Facebook, farming, referrals? Be honest. Almost nobody can.
 
 Here's the fix. Export your last twenty-four months of closed deals from your CRM. Paste it into Claude and type: "Analyze these lead sources by volume, conversion rate, and average commission. Which has the best ROI -- and which should I cut immediately?"
 
 Run this audit tonight.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Top producers don't spend more on leads. They spend smarter -- because they track everything. Claude runs the audit in minutes.
+**Hashtags:** #LeadROI #ClaudeAI #AIforRealtors #RealEstateLeads #StopGuessing #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Top producers don't spend more on leads. They spend smarter -- because they track everything.
+**Hashtags:** #LeadROI #ClaudeAI #AIforRealtors #RealEstateLeads
+
+### YouTube Shorts
+**Title:** Audit Your Lead Source ROI With Claude
+**Description:** Top producers don't spend more on leads. They spend smarter -- because they track everything. Claude runs the audit in minutes.
 **Hashtags:** #LeadROI #ClaudeAI #AIforRealtors #RealEstateLeads #StopGuessing
+
+### Facebook
+**Caption:** Top producers don't spend more on leads. They spend smarter -- because they track everything. Claude runs the audit in minutes.
+**Hashtags:** #LeadROI #ClaudeAI #AIforRealtors #RealEstateLeads #StopGuessing #AIAgentMinute
+
+### LinkedIn
+**Caption:** Top producers don't spend more on leads. They spend smarter -- because they track everything. Claude runs the audit in minutes.
+**Hashtags:** #LeadROI #ClaudeAI #AIforRealtors #RealEstate #ProfessionalDevelopment

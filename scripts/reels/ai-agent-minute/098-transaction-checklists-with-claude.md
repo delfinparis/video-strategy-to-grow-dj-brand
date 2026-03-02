@@ -15,13 +15,37 @@ ai_tool: "Claude"
 
 Every transaction mistake that's ever cost you a client or a sleepless night came down to one thing -- you trusted your memory instead of a system.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 There are sixty-plus steps between executed contract and closing. Missing one can delay a closing, kill a deal, or expose you to liability.
 
 Ask Claude: "Create a complete transaction coordination checklist for a residential purchase in my state. Every step from executed contract to closing, broken into phases, with who's responsible and the typical deadline."
 
 Systems separate agents who scale from agents who survive.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** 60+ steps per deal. Zero room for memory lapses. Claude builds the transaction checklist your business needs.
+**Hashtags:** #TransactionManagement #ClaudeAI #AIforRealtors #RealEstateSystems #DealManagement #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** 60+ steps per deal. Zero room for memory lapses.
+**Hashtags:** #TransactionManagement #ClaudeAI #AIforRealtors #RealEstateSystems
+
+### YouTube Shorts
+**Title:** Build Transaction Checklists With Claude
+**Description:** 60+ steps per deal. Zero room for memory lapses. Claude builds the transaction checklist your business needs.
 **Hashtags:** #TransactionManagement #ClaudeAI #AIforRealtors #RealEstateSystems #DealManagement
+
+### Facebook
+**Caption:** 60+ steps per deal. Zero room for memory lapses. Claude builds the transaction checklist your business needs.
+**Hashtags:** #TransactionManagement #ClaudeAI #AIforRealtors #RealEstateSystems #DealManagement #AIAgentMinute
+
+### LinkedIn
+**Caption:** 60+ steps per deal. Zero room for memory lapses. Claude builds the transaction checklist your business needs.
+**Hashtags:** #TransactionManagement #ClaudeAI #AIforRealtors #RealEstate #ProfessionalDevelopment

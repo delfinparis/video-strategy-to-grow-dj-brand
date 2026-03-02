@@ -14,9 +14,36 @@ target_duration: "27 seconds"
 
 Your buyers aren't walking away from the house. They're walking away from you.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Carrie McCormick -- top one percent in Chicago luxury -- says buyers don't reject homes. They reject uncertainty. Buyer asks why a listing is priced at 2.1 million. Weak agent says "market analysis supports it." Carrie says: "Two comps closed at 1.95. Inventory dropped forty percent. We're launching a 72-hour social blitz with a broker event Tuesday. Here's the timeline." One agent gave a number. One gave certainty. Guess who got the listing.
 
+
+Do this before your next showing: Prepare three sentences about the listing that eliminate confusion. Buyers reject uncertainty -- not homes.
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Buyers don't reject homes. They reject uncertainty. Carrie McCormick on what actually closes the deal.
+**Hashtags:** #RealEstateAgent #ListingPresentation #TopProducer #RealEstateSales #LuxuryRealEstate #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
+
+### TikTok
+**Caption:** Buyers don't reject homes. They reject uncertainty.
+**Hashtags:** #RealEstateAgent #ListingPresentation #TopProducer #RealEstateSales
+
+### YouTube Shorts
+**Title:** Buyers Reject Uncertainty, Not Homes
+**Description:** Buyers don't reject homes. They reject uncertainty. Carrie McCormick on what actually closes the deal.
 **Hashtags:** #RealEstateAgent #ListingPresentation #TopProducer #RealEstateSales #LuxuryRealEstate
+
+### Facebook
+**Caption:** Buyers don't reject homes. They reject uncertainty. Carrie McCormick on what actually closes the deal.
+**Hashtags:** #RealEstateAgent #ListingPresentation #TopProducer #RealEstateSales #LuxuryRealEstate #RealtorTips
+
+### LinkedIn
+**Caption:** Buyers don't reject homes. They reject uncertainty. Carrie McCormick on what actually closes the deal.
+**Hashtags:** #RealEstateAgent #ListingPresentation #TopProducer #RealEstate #ProfessionalDevelopment

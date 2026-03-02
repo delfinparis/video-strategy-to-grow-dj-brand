@@ -24,5 +24,25 @@ Text three past clients right now: "Hey, thinking of you this season. Coffee on 
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** While they coast, you separate. December is your secret weapon.
+**Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #MindsetCoach #RealEstateMindset #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
+
+### TikTok
+**Caption:** While they coast, you separate. December is your secret weapon.
+**Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #MindsetCoach
+
+### YouTube Shorts
+**Title:** Separation Season
+**Description:** While they coast, you separate. December is your secret weapon.
 **Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #MindsetCoach #RealEstateMindset
+
+### Facebook
+**Caption:** While they coast, you separate. December is your secret weapon.
+**Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #MindsetCoach #RealEstateMindset #RealtorTips
+
+### LinkedIn
+**Caption:** While they coast, you separate. December is your secret weapon.
+**Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #RealEstate #ProfessionalDevelopment

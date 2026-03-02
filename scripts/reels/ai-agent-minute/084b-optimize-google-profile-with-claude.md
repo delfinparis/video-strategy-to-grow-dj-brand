@@ -15,13 +15,37 @@ ai_tool: "Claude"
 
 Here's how to fix your Google Business Profile in one afternoon.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Ask Claude: "Give me a complete checklist for an optimized real estate agent Google Business profile -- including photo types, service categories, post frequency, and review response best practices."
 
 Complete that checklist. Then ask Claude to write your first five profile posts and a review response template for every star rating.
 
 One afternoon of work. Free local leads for months.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** One Claude prompt. One afternoon. A fully optimized Google Business Profile that brings you free leads.
+**Hashtags:** #ClaudeAI #GoogleBusinessProfile #AIforRealtors #RealEstateSEO #FreeMarketing #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** One Claude prompt. One afternoon.
+**Hashtags:** #ClaudeAI #GoogleBusinessProfile #AIforRealtors #RealEstateSEO
+
+### YouTube Shorts
+**Title:** Optimize Your Google Profile With Claude
+**Description:** One Claude prompt. One afternoon. A fully optimized Google Business Profile that brings you free leads.
 **Hashtags:** #ClaudeAI #GoogleBusinessProfile #AIforRealtors #RealEstateSEO #FreeMarketing
+
+### Facebook
+**Caption:** One Claude prompt. One afternoon. A fully optimized Google Business Profile that brings you free leads.
+**Hashtags:** #ClaudeAI #GoogleBusinessProfile #AIforRealtors #RealEstateSEO #FreeMarketing #AIAgentMinute
+
+### LinkedIn
+**Caption:** One Claude prompt. One afternoon. A fully optimized Google Business Profile that brings you free leads.
+**Hashtags:** #ClaudeAI #GoogleBusinessProfile #AIforRealtors #RealEstate #ProfessionalDevelopment

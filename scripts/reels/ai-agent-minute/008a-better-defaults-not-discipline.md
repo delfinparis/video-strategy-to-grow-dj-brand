@@ -27,5 +27,25 @@ Here's what I'd do. Open Claude and say "Audit my daily routine and tell me wher
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** You don't need more discipline. You need a system that doesn't require it. Here's the difference between top producers and everyone else.
-**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Productivity #SystemsThinking #RealtorLife #MindsetShift
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Productivity #SystemsThinking #RealtorLife #MindsetShift #ClaudeAI #AIAgentMinute #RealEstateAI
+
+### TikTok
+**Caption:** You don't need more discipline. You need a system that doesn't require it.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Productivity
+
+### YouTube Shorts
+**Title:** Top Producers Don't Have More Willpower — They Need Less
+**Description:** You don't need more discipline. You need a system that doesn't require it. Here's the difference between top producers and everyone else.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Productivity #SystemsThinking
+
+### Facebook
+**Caption:** You don't need more discipline. You need a system that doesn't require it. Here's the difference between top producers and everyone else.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Productivity #SystemsThinking #RealtorLife
+
+### LinkedIn
+**Caption:** You don't need more discipline. You need a system that doesn't require it. Here's the difference between top producers and everyone else.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #RealEstate #ProfessionalDevelopment

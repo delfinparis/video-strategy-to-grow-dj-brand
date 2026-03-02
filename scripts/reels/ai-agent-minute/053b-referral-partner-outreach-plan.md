@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Want warm referrals from lenders, attorneys, and financial advisors on a schedule? Build the system.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Give Claude your list of partner types and type: "Build a twelve-month referral partner outreach plan. Include a first-contact message for each professional type, a quarterly value-add touchpoint sequence, and a value calendar of things I can give each partner before I ever ask for a referral."
 
 Give value first. The referrals follow. Every time.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** One Claude prompt builds an entire 12-month referral partner system -- first contact messages, touchpoints, and a value calendar.
+**Hashtags:** #RealEstateAI #ReferralSystem #AIAgentMinute #ClaudeAI #RealtorGrowth #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** One Claude prompt builds an entire 12-month referral partner system -- first contact messages, touchpoints, and a value calendar.
+**Hashtags:** #RealEstateAI #ReferralSystem #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Build a 12-Month Referral Partner System in One Prompt
+**Description:** One Claude prompt builds an entire 12-month referral partner system -- first contact messages, touchpoints, and a value calendar.
 **Hashtags:** #RealEstateAI #ReferralSystem #AIAgentMinute #ClaudeAI #RealtorGrowth
+
+### Facebook
+**Caption:** One Claude prompt builds an entire 12-month referral partner system -- first contact messages, touchpoints, and a value calendar.
+**Hashtags:** #RealEstateAI #ReferralSystem #AIAgentMinute #ClaudeAI #RealtorGrowth #AIforRealtors
+
+### LinkedIn
+**Caption:** One Claude prompt builds an entire 12-month referral partner system -- first contact messages, touchpoints, and a value calendar.
+**Hashtags:** #RealEstateAI #ReferralSystem #AIAgentMinute #RealEstate #ProfessionalDevelopment

@@ -14,9 +14,36 @@ target_duration: "27 seconds"
 
 Your brokerage logo isn't closing deals. You are.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Chris Linsell, real estate tech strategist, said the quiet part out loud: Your clients do not care what brokerage you're part of. They remember who you are. Think about your last five closings. Did anyone choose you because of your broker's name? Or because you answered the phone, knew the neighborhood, and made them feel heard? The logo on your card is a placeholder. Your name is the brand.
 
+
+Do this tonight: Ask yourself -- if you left your brokerage tomorrow, would your clients follow you? If not, your personal brand needs work.
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Nobody chose you because of a logo. Chris Linsell on why your name is the only brand that matters.
+**Hashtags:** #RealEstateBranding #PersonalBrand #RealEstateAgent #RealEstateTruth #AgentMindset #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Nobody chose you because of a logo. Chris Linsell on why your name is the only brand that matters.
+**Hashtags:** #RealEstateBranding #PersonalBrand #RealEstateAgent #RealEstateTruth
+
+### YouTube Shorts
+**Title:** Your Brokerage Isn't Your Brand
+**Description:** Nobody chose you because of a logo. Chris Linsell on why your name is the only brand that matters.
 **Hashtags:** #RealEstateBranding #PersonalBrand #RealEstateAgent #RealEstateTruth #AgentMindset
+
+### Facebook
+**Caption:** Nobody chose you because of a logo. Chris Linsell on why your name is the only brand that matters.
+**Hashtags:** #RealEstateBranding #PersonalBrand #RealEstateAgent #RealEstateTruth #AgentMindset #RealtorTips
+
+### LinkedIn
+**Caption:** Nobody chose you because of a logo. Chris Linsell on why your name is the only brand that matters.
+**Hashtags:** #RealEstateBranding #PersonalBrand #RealEstateAgent #RealEstate #ProfessionalDevelopment

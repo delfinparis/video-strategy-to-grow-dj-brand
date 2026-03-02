@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 Divorce is the second most common reason couples sell their home. And most agents have never contacted a single divorce attorney.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 These attorneys need agents who can handle emotionally charged transactions, provide accurate valuations under pressure, and close when neither seller wants to cooperate. Most agents don't specialize here. So the attorneys use the same agent they've used for twenty years.
 
 That relationship is usually available -- because nobody ever tries to build it.
 
+
+Try this: Open Claude and type "Write me a compassionate outreach sequence for divorce attorneys that positions me as a resource, not a salesperson."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Divorce attorneys need reliable agents and most of them only know one. That's your opening.
+**Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #LeadGeneration #NicheMarketing #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Divorce attorneys need reliable agents and most of them only know one.
+**Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #LeadGeneration
+
+### YouTube Shorts
+**Title:** Divorce Is the #2 Reason People Sell — How Many Attorneys Do You Know?
+**Description:** Divorce attorneys need reliable agents and most of them only know one. That's your opening.
 **Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #LeadGeneration #NicheMarketing
+
+### Facebook
+**Caption:** Divorce attorneys need reliable agents and most of them only know one. That's your opening.
+**Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #LeadGeneration #NicheMarketing #AIforRealtors
+
+### LinkedIn
+**Caption:** Divorce attorneys need reliable agents and most of them only know one. That's your opening.
+**Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #RealEstate #ProfessionalDevelopment

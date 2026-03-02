@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Posting whenever you feel like it isn't a content strategy. It's noise with occasional bursts of effort.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Sit down with Claude and type: "Help me build a ninety-day content calendar. My five content pillars are -- list them. I post X times a week. My goals are leads and recruiting. Generate a week-by-week plan with content type, topic, hook, and CTA for each post."
 
 Print it. Put it on your wall. Execute it. Content that compounds is content that was planned. Spontaneous posts generate spontaneous results.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** One Claude session builds ninety days of planned content. Print it, wall it, execute it. The plan builds the audience.
+**Hashtags:** #RealEstateAI #ContentCalendar #AIAgentMinute #ClaudeAI #SocialMediaStrategy #RealtorMarketing #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** One Claude session builds ninety days of planned content. Print it, wall it, execute it.
+**Hashtags:** #RealEstateAI #ContentCalendar #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Stop Posting Randomly — Build a 90-Day Content Calendar in One Sitting
+**Description:** One Claude session builds ninety days of planned content. Print it, wall it, execute it. The plan builds the audience.
+**Hashtags:** #RealEstateAI #ContentCalendar #AIAgentMinute #ClaudeAI #SocialMediaStrategy
+
+### Facebook
 **Caption:** One Claude session builds ninety days of planned content. Print it, wall it, execute it. The plan builds the audience.
 **Hashtags:** #RealEstateAI #ContentCalendar #AIAgentMinute #ClaudeAI #SocialMediaStrategy #RealtorMarketing
+
+### LinkedIn
+**Caption:** One Claude session builds ninety days of planned content. Print it, wall it, execute it. The plan builds the audience.
+**Hashtags:** #RealEstateAI #ContentCalendar #AIAgentMinute #RealEstate #ProfessionalDevelopment

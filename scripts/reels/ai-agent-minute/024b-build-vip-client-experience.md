@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Here's how to keep your best clients referring you for life.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Ask Claude: "Design a twelve-month VIP experience for a past real estate client. Include quarterly check-ins, value-add touchpoints throughout the year, and milestone moments that make this person feel genuinely appreciated -- not marketed to. Keep it personal and specific."
 
 Identify your top ten past clients this week. Start running them through it. Your best clients don't need more marketing from you. They need more appreciation. AI helps you deliver it consistently.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The Claude prompt to design a VIP client experience that turns your best past clients into referral machines -- through appreciation, not marketing.
+**Hashtags:** #AIforRealtors #Claude #VIPClients #ClientExperience #RealtorTips #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The Claude prompt to design a VIP client experience that turns your best past clients into referral machines -- through appreciation, not marketing.
+**Hashtags:** #AIforRealtors #Claude #VIPClients #ClientExperience
+
+### YouTube Shorts
+**Title:** Build a VIP Client Experience With Claude
+**Description:** The Claude prompt to design a VIP client experience that turns your best past clients into referral machines -- through appreciation, not marketing.
+**Hashtags:** #AIforRealtors #Claude #VIPClients #ClientExperience #RealtorTips
+
+### Facebook
 **Caption:** The Claude prompt to design a VIP client experience that turns your best past clients into referral machines -- through appreciation, not marketing.
 **Hashtags:** #AIforRealtors #Claude #VIPClients #ClientExperience #RealtorTips #AIAgent
+
+### LinkedIn
+**Caption:** The Claude prompt to design a VIP client experience that turns your best past clients into referral machines -- through appreciation, not marketing.
+**Hashtags:** #AIforRealtors #Claude #VIPClients #RealEstate #ProfessionalDevelopment

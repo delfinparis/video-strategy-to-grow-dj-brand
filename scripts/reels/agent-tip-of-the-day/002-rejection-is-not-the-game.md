@@ -14,11 +14,35 @@ target_duration: "27 seconds"
 
 Your college roommate just bought a house. They didn't call you.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 That knot in your stomach? Bari Mill felt it too. She's now a $40 million producer in Chicago. Her team lead told her something that changed everything: stop obsessing over the three people who didn't hire you. Double down on the thirty who might. Those three had reasons you'll never understand. The thirty are watching to see if you quit or keep going.
 
 Grieve for five minutes. Then get back on the phone.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Stop counting rejections. Start counting opportunities. This mindset shift built a $40M business.
+**Hashtags:** #realestateminds #newagent #realestatemotivation #realtorlife #agentadvice #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #TopProducer #RealEstateCoaching
+
+### TikTok
+**Caption:** Stop counting rejections. Start counting opportunities.
+**Hashtags:** #realestateminds #newagent #realestatemotivation #realtorlife
+
+### YouTube Shorts
+**Title:** Your College Roommate Didn't Call You
+**Description:** Stop counting rejections. Start counting opportunities. This mindset shift built a $40M business.
 **Hashtags:** #realestateminds #newagent #realestatemotivation #realtorlife #agentadvice
+
+### Facebook
+**Caption:** Stop counting rejections. Start counting opportunities. This mindset shift built a $40M business.
+**Hashtags:** #realestateminds #newagent #realestatemotivation #realtorlife #agentadvice #RealtorTips
+
+### LinkedIn
+**Caption:** Stop counting rejections. Start counting opportunities. This mindset shift built a $40M business.
+**Hashtags:** #realestateminds #newagent #realestatemotivation #RealEstate #ProfessionalDevelopment

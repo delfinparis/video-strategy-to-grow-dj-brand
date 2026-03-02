@@ -14,9 +14,33 @@ target_duration: "24 seconds"
 
 If you've been telling yourself you're "just not a video person" -- you're not wrong about your skills yet. You're wrong about your starting point.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Here's your assignment. Open your notes app. Write one sentence that starts with "Most agents don't tell buyers that..." and finish it with something true about your market this week. Tomorrow at 9 AM, stand in the place that sentence is about, hit record, and say it out loud. That's video one.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Not a video person? You're just starting from the wrong place. Try this one assignment.
+**Hashtags:** #RealEstateVideo #RealtorContent #VideoMarketing #AgentTips #JustStart #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Not a video person? You're just starting from the wrong place.
+**Hashtags:** #RealEstateVideo #RealtorContent #VideoMarketing #AgentTips
+
+### YouTube Shorts
+**Title:** Your First Video Assignment
+**Description:** Not a video person? You're just starting from the wrong place. Try this one assignment.
 **Hashtags:** #RealEstateVideo #RealtorContent #VideoMarketing #AgentTips #JustStart
+
+### Facebook
+**Caption:** Not a video person? You're just starting from the wrong place. Try this one assignment.
+**Hashtags:** #RealEstateVideo #RealtorContent #VideoMarketing #AgentTips #JustStart #RealtorTips
+
+### LinkedIn
+**Caption:** Not a video person? You're just starting from the wrong place. Try this one assignment.
+**Hashtags:** #RealEstateVideo #RealtorContent #VideoMarketing #RealEstate #ProfessionalDevelopment

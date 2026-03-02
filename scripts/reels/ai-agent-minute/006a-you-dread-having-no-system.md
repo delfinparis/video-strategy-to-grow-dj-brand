@@ -27,5 +27,25 @@ Try this: Open Claude and type "Build me a 30-minute daily prospecting system I 
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** You don't dread prospecting. You dread having no system for it. One mental shift changes everything.
-**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Prospecting #SalesMindset #RealtorLife #LeadGeneration
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Prospecting #SalesMindset #RealtorLife #LeadGeneration #ClaudeAI #AIAgentMinute #RealEstateAI
+
+### TikTok
+**Caption:** You don't dread prospecting. You dread having no system for it.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Prospecting
+
+### YouTube Shorts
+**Title:** You Don't Dread Prospecting — You Dread Having No System
+**Description:** You don't dread prospecting. You dread having no system for it. One mental shift changes everything.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Prospecting #SalesMindset
+
+### Facebook
+**Caption:** You don't dread prospecting. You dread having no system for it. One mental shift changes everything.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Prospecting #SalesMindset #RealtorLife
+
+### LinkedIn
+**Caption:** You don't dread prospecting. You dread having no system for it. One mental shift changes everything.
+**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #RealEstate #ProfessionalDevelopment

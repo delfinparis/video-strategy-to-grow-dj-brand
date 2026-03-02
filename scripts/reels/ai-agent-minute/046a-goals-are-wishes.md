@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 You set a goal at the beginning of the year. By March, you forgot you set it.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 "I want to do fifty deals this year" isn't a goal -- it's a wish. A real goal has a daily action attached to it. Without that, you're not planning. You're hoping.
 
 And hope is not a production strategy. A goal without a daily activity attached to it is just an expensive disappointment.
 
+
+Here's what I'd do. Open Claude and type: "Take my income goal and reverse-engineer exactly how many leads, appointments, and closings I need each month to hit it."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Fifty deals is not a goal. It's a wish. A goal has daily actions, weekly metrics, and a scorecard. Build the math.
+**Hashtags:** #GoalSetting #RealEstateAI #AIAgentMinute #RealEstateGoals #ProductionStrategy #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Fifty deals is not a goal. It's a wish.
+**Hashtags:** #GoalSetting #RealEstateAI #AIAgentMinute #RealEstateGoals
+
+### YouTube Shorts
+**Title:** Your Goal Isn't a Goal — It's a Wish
+**Description:** Fifty deals is not a goal. It's a wish. A goal has daily actions, weekly metrics, and a scorecard. Build the math.
 **Hashtags:** #GoalSetting #RealEstateAI #AIAgentMinute #RealEstateGoals #ProductionStrategy
+
+### Facebook
+**Caption:** Fifty deals is not a goal. It's a wish. A goal has daily actions, weekly metrics, and a scorecard. Build the math.
+**Hashtags:** #GoalSetting #RealEstateAI #AIAgentMinute #RealEstateGoals #ProductionStrategy #AIforRealtors
+
+### LinkedIn
+**Caption:** Fifty deals is not a goal. It's a wish. A goal has daily actions, weekly metrics, and a scorecard. Build the math.
+**Hashtags:** #GoalSetting #RealEstateAI #AIAgentMinute #RealEstate #ProfessionalDevelopment

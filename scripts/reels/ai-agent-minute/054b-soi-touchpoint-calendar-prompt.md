@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Categorize your top one hundred contacts into three tiers. A for most likely to refer. B for possible. C for occasional.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Give Claude the tiers and type: "Build a twelve-month touchpoint calendar for each tier -- frequency, contact type like call, text, handwritten note, email, or pop-by -- and what message theme fits each time of year. Make the A-tier feel truly personalized and frequent."
 
 You now have a scheduled referral generation system. Not hope. A system.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Tier your SOI, give Claude the tiers, and get a full year of touchpoints mapped out in minutes. System over hope.
+**Hashtags:** #RealEstateAI #SOISystem #AIAgentMinute #ClaudeAI #ReferralGeneration #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Tier your SOI, give Claude the tiers, and get a full year of touchpoints mapped out in minutes.
+**Hashtags:** #RealEstateAI #SOISystem #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** Build a Tiered SOI Touchpoint Calendar With One Prompt
+**Description:** Tier your SOI, give Claude the tiers, and get a full year of touchpoints mapped out in minutes. System over hope.
 **Hashtags:** #RealEstateAI #SOISystem #AIAgentMinute #ClaudeAI #ReferralGeneration
+
+### Facebook
+**Caption:** Tier your SOI, give Claude the tiers, and get a full year of touchpoints mapped out in minutes. System over hope.
+**Hashtags:** #RealEstateAI #SOISystem #AIAgentMinute #ClaudeAI #ReferralGeneration #AIforRealtors
+
+### LinkedIn
+**Caption:** Tier your SOI, give Claude the tiers, and get a full year of touchpoints mapped out in minutes. System over hope.
+**Hashtags:** #RealEstateAI #SOISystem #AIAgentMinute #RealEstate #ProfessionalDevelopment

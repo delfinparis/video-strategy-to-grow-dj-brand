@@ -27,5 +27,25 @@ Here's what I'd do. Open Claude and type: "Help me figure out if the real estate
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Most agents spend so much time working IN their business they never ask if it's the one they actually wanted. Use AI to get honest with yourself.
+**Hashtags:** #RealEstateAgent #RealtorLife #AIforRealtors #Claude #BusinessStrategy #RealEstateBusiness #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** Most agents spend so much time working IN their business they never ask if it's the one they actually wanted.
+**Hashtags:** #RealEstateAgent #RealtorLife #AIforRealtors #Claude
+
+### YouTube Shorts
+**Title:** You Built a Business You Never Consciously Chose
+**Description:** Most agents spend so much time working IN their business they never ask if it's the one they actually wanted. Use AI to get honest with yourself.
+**Hashtags:** #RealEstateAgent #RealtorLife #AIforRealtors #Claude #BusinessStrategy
+
+### Facebook
 **Caption:** Most agents spend so much time working IN their business they never ask if it's the one they actually wanted. Use AI to get honest with yourself.
 **Hashtags:** #RealEstateAgent #RealtorLife #AIforRealtors #Claude #BusinessStrategy #RealEstateBusiness
+
+### LinkedIn
+**Caption:** Most agents spend so much time working IN their business they never ask if it's the one they actually wanted. Use AI to get honest with yourself.
+**Hashtags:** #RealEstateAgent #RealtorLife #AIforRealtors #RealEstate #ProfessionalDevelopment

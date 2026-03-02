@@ -15,11 +15,35 @@ ai_tool: "Claude (voice-to-text)"
 
 Your CRM is only as good as the notes you put in it. And most agents put in almost nothing. Six months later, you're starting from zero with a lead you already paid for.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Here's the ninety-second fix. Right after any call or showing, record a sixty-second voice memo -- what they said, what they care about, where they are in the process. Paste it into Claude and type: "Reformat this into clean CRM notes with a summary, next action, and follow-up date."
 
 Your database is your retirement account. Treat every note like a deposit.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Sixty-second voice memo plus one Claude prompt equals perfect CRM notes. Ninety seconds total. No excuses.
+**Hashtags:** #RealEstateAI #CRMTips #AIAgentMinute #ClaudeAI #RealtorSystems #LeadManagement #AIforRealtors #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Sixty-second voice memo plus one Claude prompt equals perfect CRM notes.
+**Hashtags:** #RealEstateAI #CRMTips #AIAgentMinute #ClaudeAI
+
+### YouTube Shorts
+**Title:** CRM Notes in 90 Seconds — Voice Memo to Claude to Done
+**Description:** Sixty-second voice memo plus one Claude prompt equals perfect CRM notes. Ninety seconds total. No excuses.
+**Hashtags:** #RealEstateAI #CRMTips #AIAgentMinute #ClaudeAI #RealtorSystems
+
+### Facebook
 **Caption:** Sixty-second voice memo plus one Claude prompt equals perfect CRM notes. Ninety seconds total. No excuses.
 **Hashtags:** #RealEstateAI #CRMTips #AIAgentMinute #ClaudeAI #RealtorSystems #LeadManagement
+
+### LinkedIn
+**Caption:** Sixty-second voice memo plus one Claude prompt equals perfect CRM notes. Ninety seconds total. No excuses.
+**Hashtags:** #RealEstateAI #CRMTips #AIAgentMinute #RealEstate #ProfessionalDevelopment

@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Every Monday morning, open Claude and type your three commitments for the week -- specific, measurable, with a deadline.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Friday, come back and tell Claude exactly what you did. Prompt: "Give me honest, direct feedback on my follow-through this week and help me understand why I dropped the ball on anything I didn't complete."
 
 No judgment. No coaching fees. Just clarity. You don't need a cheerleader. You need something that remembers what you promised and asks you about it. Claude does that at zero cost.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Monday commitments. Friday review. Zero cost. Claude is the accountability partner every solo agent needs and nobody has.
+**Hashtags:** #RealEstateAI #Claude #Accountability #AIAgentMinute #MondayMotivation #AIPrompt #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent
+
+### TikTok
+**Caption:** Monday commitments. Friday review.
+**Hashtags:** #RealEstateAI #Claude #Accountability #AIAgentMinute
+
+### YouTube Shorts
+**Title:** Claude as Your Free Accountability Partner
+**Description:** Monday commitments. Friday review. Zero cost. Claude is the accountability partner every solo agent needs and nobody has.
+**Hashtags:** #RealEstateAI #Claude #Accountability #AIAgentMinute #MondayMotivation
+
+### Facebook
 **Caption:** Monday commitments. Friday review. Zero cost. Claude is the accountability partner every solo agent needs and nobody has.
 **Hashtags:** #RealEstateAI #Claude #Accountability #AIAgentMinute #MondayMotivation #AIPrompt
+
+### LinkedIn
+**Caption:** Monday commitments. Friday review. Zero cost. Claude is the accountability partner every solo agent needs and nobody has.
+**Hashtags:** #RealEstateAI #Claude #Accountability #RealEstate #ProfessionalDevelopment

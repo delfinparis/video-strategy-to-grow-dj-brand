@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Every buyer problem you've ever dealt with -- the ghosting, the cold feet, the unrealistic expectations -- started in the first conversation you never fully had.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Before any buyer consultation, give Claude their profile -- first-time buyer, price range, timeline, market. Then type: "Give me the ten most important questions to ask this buyer, the five market realities they need to hear before we start looking, and two scenarios where buyers like them typically get frustrated."
 
 Walk in with real structure. Not a blank stare. Save yourself thirty hours of frustration.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** A great buyer consultation prevents every headache that comes after. Claude preps yours in minutes.
+**Hashtags:** #BuyerConsultation #ClaudeAI #AIforRealtors #RealEstateAgent #BuyerAgent #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** A great buyer consultation prevents every headache that comes after.
+**Hashtags:** #BuyerConsultation #ClaudeAI #AIforRealtors #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Prep Buyer Consultations With Claude
+**Description:** A great buyer consultation prevents every headache that comes after. Claude preps yours in minutes.
 **Hashtags:** #BuyerConsultation #ClaudeAI #AIforRealtors #RealEstateAgent #BuyerAgent
+
+### Facebook
+**Caption:** A great buyer consultation prevents every headache that comes after. Claude preps yours in minutes.
+**Hashtags:** #BuyerConsultation #ClaudeAI #AIforRealtors #RealEstateAgent #BuyerAgent #AIAgentMinute
+
+### LinkedIn
+**Caption:** A great buyer consultation prevents every headache that comes after. Claude preps yours in minutes.
+**Hashtags:** #BuyerConsultation #ClaudeAI #AIforRealtors #RealEstate #ProfessionalDevelopment

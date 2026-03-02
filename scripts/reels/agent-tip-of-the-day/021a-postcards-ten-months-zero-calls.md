@@ -14,11 +14,38 @@ target_duration: "25 seconds"
 
 He mailed postcards for ten months. Got nothing. Zero calls. Almost went bankrupt.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Month eleven, a luxury seller calls. Jay Cannone asks why him. The guy says: "Anyone who sends me postcards that consistently for ten months -- that's who I want to work with."
 
 Not the best design. Not the cleverest copy. The seller had been watching. Testing. Waiting to see if Jay would quit like everyone else.
 
+
+Do this today: Pick one person from your mailing list and call them. Postcards get attention. Phone calls get appointments.
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** He almost quit at month 10. Month 11 changed everything. Jay Cannone's consistency story.
+**Hashtags:** #RealEstateMarketing #Consistency #TopProducer #RealEstateAgent #PostcardMarketing #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
+
+### TikTok
+**Caption:** He almost quit at month 10. Month 11 changed everything.
+**Hashtags:** #RealEstateMarketing #Consistency #TopProducer #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Postcards for Ten Months. Zero Calls.
+**Description:** He almost quit at month 10. Month 11 changed everything. Jay Cannone's consistency story.
 **Hashtags:** #RealEstateMarketing #Consistency #TopProducer #RealEstateAgent #PostcardMarketing
+
+### Facebook
+**Caption:** He almost quit at month 10. Month 11 changed everything. Jay Cannone's consistency story.
+**Hashtags:** #RealEstateMarketing #Consistency #TopProducer #RealEstateAgent #PostcardMarketing #RealtorTips
+
+### LinkedIn
+**Caption:** He almost quit at month 10. Month 11 changed everything. Jay Cannone's consistency story.
+**Hashtags:** #RealEstateMarketing #Consistency #TopProducer #RealEstate #ProfessionalDevelopment

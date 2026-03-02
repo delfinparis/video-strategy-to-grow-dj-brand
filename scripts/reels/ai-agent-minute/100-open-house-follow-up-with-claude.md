@@ -15,13 +15,37 @@ ai_tool: "Claude"
 
 You're sitting open houses every weekend and converting almost none of them. It has nothing to do with the house.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Most agents collect sign-in sheets, send a generic "thanks for stopping by" email, and consider it done. But open houses give you something most lead sources never will -- a real conversation with that person. And most agents waste it.
 
 After your open house, type quick notes about each visitor into Claude -- what they said, what caught their eye. Then: "Write a personalized follow-up for each visitor that references our specific conversation and includes a tailored listing recommendation."
 
 Not a template. A message that makes them think: this agent remembered me.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Open houses give you real conversations. Claude turns them into personalized follow-ups that actually convert.
+**Hashtags:** #OpenHouse #ClaudeAI #AIforRealtors #LeadConversion #RealEstateFollowUp #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** Open houses give you real conversations. Claude turns them into personalized follow-ups that actually convert.
+**Hashtags:** #OpenHouse #ClaudeAI #AIforRealtors #LeadConversion
+
+### YouTube Shorts
+**Title:** Convert Open House Visitors With Claude
+**Description:** Open houses give you real conversations. Claude turns them into personalized follow-ups that actually convert.
 **Hashtags:** #OpenHouse #ClaudeAI #AIforRealtors #LeadConversion #RealEstateFollowUp
+
+### Facebook
+**Caption:** Open houses give you real conversations. Claude turns them into personalized follow-ups that actually convert.
+**Hashtags:** #OpenHouse #ClaudeAI #AIforRealtors #LeadConversion #RealEstateFollowUp #AIAgentMinute
+
+### LinkedIn
+**Caption:** Open houses give you real conversations. Claude turns them into personalized follow-ups that actually convert.
+**Hashtags:** #OpenHouse #ClaudeAI #AIforRealtors #RealEstate #ProfessionalDevelopment

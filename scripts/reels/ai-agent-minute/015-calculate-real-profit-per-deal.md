@@ -27,5 +27,25 @@ Then make one decision based on what you find. Just one. Revenue is vanity. Prof
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The Claude prompt that shows you what you actually keep per deal. Most agents have never run this math. You can do it tonight.
+**Hashtags:** #AIforRealtors #Claude #RealEstateProfit #BusinessFinance #RealtorTips #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The Claude prompt that shows you what you actually keep per deal.
+**Hashtags:** #AIforRealtors #Claude #RealEstateProfit #BusinessFinance
+
+### YouTube Shorts
+**Title:** Your GCI Is a Lie — Calculate Your Real Profit Per Deal
+**Description:** The Claude prompt that shows you what you actually keep per deal. Most agents have never run this math. You can do it tonight.
+**Hashtags:** #AIforRealtors #Claude #RealEstateProfit #BusinessFinance #RealtorTips
+
+### Facebook
 **Caption:** The Claude prompt that shows you what you actually keep per deal. Most agents have never run this math. You can do it tonight.
 **Hashtags:** #AIforRealtors #Claude #RealEstateProfit #BusinessFinance #RealtorTips #AIAgent
+
+### LinkedIn
+**Caption:** The Claude prompt that shows you what you actually keep per deal. Most agents have never run this math. You can do it tonight.
+**Hashtags:** #AIforRealtors #Claude #RealEstateProfit #RealEstate #ProfessionalDevelopment

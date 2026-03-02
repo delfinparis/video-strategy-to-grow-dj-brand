@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 Downsizing seniors are the most underserved clients in real estate. The agents who learn to serve them well have clients and referrals for the rest of their career.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 A senior leaving a home they've lived in for thirty years isn't a routine transaction. It's tied to estate planning, family dynamics, grief, sometimes medical considerations. Most agents treat it like any other listing and miss everything.
 
 And their adult children are watching how you handle it. They're your next buyers.
 
+
+Try this: Open Claude and type "Help me build a downsizer client guide that covers the emotional and practical needs most agents completely miss."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Serve downsizers well and you get the whole family. Their kids are watching -- and they're buyers.
+**Hashtags:** #SeniorRealEstate #Downsizing #RealEstateNiche #ClientCare #RealtorTips #AIforRealtors #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** Serve downsizers well and you get the whole family. Their kids are watching -- and they're buyers.
+**Hashtags:** #SeniorRealEstate #Downsizing #RealEstateNiche #ClientCare
+
+### YouTube Shorts
+**Title:** Downsizers Are the Most Underserved Clients
+**Description:** Serve downsizers well and you get the whole family. Their kids are watching -- and they're buyers.
 **Hashtags:** #SeniorRealEstate #Downsizing #RealEstateNiche #ClientCare #RealtorTips
+
+### Facebook
+**Caption:** Serve downsizers well and you get the whole family. Their kids are watching -- and they're buyers.
+**Hashtags:** #SeniorRealEstate #Downsizing #RealEstateNiche #ClientCare #RealtorTips #AIforRealtors
+
+### LinkedIn
+**Caption:** Serve downsizers well and you get the whole family. Their kids are watching -- and they're buyers.
+**Hashtags:** #SeniorRealEstate #Downsizing #RealEstateNiche #RealEstate #ProfessionalDevelopment

@@ -14,9 +14,33 @@ target_duration: "23 seconds"
 
 Every agent has that one buyer story. The one who showed up uninvited. The one who offered cash they didn't have. The one who made you wonder if you should've been a therapist. That's not bad clients. That's what happens when you don't draw the line early.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 Before your next buyer consultation, add this question to your intake: "What's the craziest thing you've considered doing to get a house?" Their answer tells you exactly where to set the boundary.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** One question in your buyer intake can save you months of chaos. Here it is.
+**Hashtags:** #realtorlife #buyeragent #realestateagent #clientmanagement #agentburnout #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** One question in your buyer intake can save you months of chaos.
+**Hashtags:** #realtorlife #buyeragent #realestateagent #clientmanagement
+
+### YouTube Shorts
+**Title:** Set the Boundary Before They Break
+**Description:** One question in your buyer intake can save you months of chaos. Here it is.
 **Hashtags:** #realtorlife #buyeragent #realestateagent #clientmanagement #agentburnout
+
+### Facebook
+**Caption:** One question in your buyer intake can save you months of chaos. Here it is.
+**Hashtags:** #realtorlife #buyeragent #realestateagent #clientmanagement #agentburnout #RealtorTips
+
+### LinkedIn
+**Caption:** One question in your buyer intake can save you months of chaos. Here it is.
+**Hashtags:** #realtorlife #buyeragent #realestateagent #RealEstate #ProfessionalDevelopment

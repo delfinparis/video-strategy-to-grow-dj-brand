@@ -15,13 +15,37 @@ ai_tool: "Claude"
 
 The average agent is paying for five tools they barely use -- and missing the one workflow that would actually change their business.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Too many tools stops you from going deep on any of them. Here's the fix.
 
 List every tool you're subscribed to. Give it to Claude and type: "For a solo agent doing X deals per year, which of these tools overlap, which should I cut immediately, and what's the one missing capability with the highest ROI?"
 
 Then actually cancel what it tells you to cut.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** One tool mastered beats ten tools forgotten. Let Claude audit your tech stack and find the dead weight.
+**Hashtags:** #RealEstateTech #AIforRealtors #ClaudeAI #TechStack #RealtorProductivity #AIAgentMinute #RealEstateAI #TechInRealEstate #AIAgent #ArtificialIntelligence
+
+### TikTok
+**Caption:** One tool mastered beats ten tools forgotten. Let Claude audit your tech stack and find the dead weight.
+**Hashtags:** #RealEstateTech #AIforRealtors #ClaudeAI #TechStack
+
+### YouTube Shorts
+**Title:** Audit Your Tech Stack With Claude
+**Description:** One tool mastered beats ten tools forgotten. Let Claude audit your tech stack and find the dead weight.
 **Hashtags:** #RealEstateTech #AIforRealtors #ClaudeAI #TechStack #RealtorProductivity
+
+### Facebook
+**Caption:** One tool mastered beats ten tools forgotten. Let Claude audit your tech stack and find the dead weight.
+**Hashtags:** #RealEstateTech #AIforRealtors #ClaudeAI #TechStack #RealtorProductivity #AIAgentMinute
+
+### LinkedIn
+**Caption:** One tool mastered beats ten tools forgotten. Let Claude audit your tech stack and find the dead weight.
+**Hashtags:** #RealEstateTech #AIforRealtors #ClaudeAI #RealEstate #ProfessionalDevelopment

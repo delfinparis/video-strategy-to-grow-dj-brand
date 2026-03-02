@@ -27,5 +27,25 @@ Run this weekly. Ten minutes. By the real conversation, the words come naturally
 See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The Claude prompt to practice the pricing conversation that terrifies most agents. Ten minutes a week builds the courage to tell sellers the truth.
+**Hashtags:** #AIforRealtors #Claude #ListingAgent #PricingStrategy #RealEstateAgent #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The Claude prompt to practice the pricing conversation that terrifies most agents.
+**Hashtags:** #AIforRealtors #Claude #ListingAgent #PricingStrategy
+
+### YouTube Shorts
+**Title:** Practice the Hardest Conversation in Real Estate With AI
+**Description:** The Claude prompt to practice the pricing conversation that terrifies most agents. Ten minutes a week builds the courage to tell sellers the truth.
+**Hashtags:** #AIforRealtors #Claude #ListingAgent #PricingStrategy #RealEstateAgent
+
+### Facebook
 **Caption:** The Claude prompt to practice the pricing conversation that terrifies most agents. Ten minutes a week builds the courage to tell sellers the truth.
 **Hashtags:** #AIforRealtors #Claude #ListingAgent #PricingStrategy #RealEstateAgent #AIAgent
+
+### LinkedIn
+**Caption:** The Claude prompt to practice the pricing conversation that terrifies most agents. Ten minutes a week builds the courage to tell sellers the truth.
+**Hashtags:** #AIforRealtors #Claude #ListingAgent #RealEstate #ProfessionalDevelopment

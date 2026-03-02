@@ -15,13 +15,37 @@ ai_tool: "Claude"
 
 Next time a difficult client situation comes up -- before you respond -- bring it to Claude.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Describe exactly what happened and type: "How should I respond to de-escalate, preserve the relationship, and keep the deal on track? Give me three communication approaches based on what the client's emotional state is likely to be."
 
 Pick the one that fits. Execute it calmly. Never send an emotional response in real time.
 
 Difficult clients don't need a reactive agent. They need a calm, strategic one. Claude helps you be that every time.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** Claude as your emotional buffer. Three strategic responses in sixty seconds -- before you say something you regret.
+**Hashtags:** #RealEstateAI #Claude #ClientManagement #AIAgentMinute #DifficultClients #AIPrompt #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent
+
+### TikTok
+**Caption:** Claude as your emotional buffer. Three strategic responses in sixty seconds -- before you say something you regret.
+**Hashtags:** #RealEstateAI #Claude #ClientManagement #AIAgentMinute
+
+### YouTube Shorts
+**Title:** Use Claude as Your Emotional Buffer Before Responding
+**Description:** Claude as your emotional buffer. Three strategic responses in sixty seconds -- before you say something you regret.
+**Hashtags:** #RealEstateAI #Claude #ClientManagement #AIAgentMinute #DifficultClients
+
+### Facebook
 **Caption:** Claude as your emotional buffer. Three strategic responses in sixty seconds -- before you say something you regret.
 **Hashtags:** #RealEstateAI #Claude #ClientManagement #AIAgentMinute #DifficultClients #AIPrompt
+
+### LinkedIn
+**Caption:** Claude as your emotional buffer. Three strategic responses in sixty seconds -- before you say something you regret.
+**Hashtags:** #RealEstateAI #Claude #ClientManagement #RealEstate #ProfessionalDevelopment

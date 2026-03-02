@@ -15,11 +15,38 @@ ai_tool: "Claude"
 
 Most team meetings in real estate accomplish one thing: wasting everyone's time together instead of separately.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Status updates that could've been an email. Venting disguised as strategy. Motivational speeches that fade by Tuesday. And thirty minutes of "does anyone have anything else?"
 
 Everyone leaves more behind than when they walked in. Most team leaders run meetings by feel. The ones with real traction run them on a structure.
 
+
+Try this: Open Claude and type "Build me a 30-minute team meeting agenda that replaces our current hour with something people actually want to attend."
+
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** If your team meeting ends with "does anyone have anything else?" -- you're running it wrong. Structure changes everything.
+**Hashtags:** #TeamLeader #RealEstateTeam #AIAgentMinute #MeetingProductivity #RealEstateTips #AIforRealtors #ClaudeAI #RealEstateAI #TechInRealEstate #AIAgent
+
+### TikTok
+**Caption:** If your team meeting ends with "does anyone have anything else?" -- you're running it wrong.
+**Hashtags:** #TeamLeader #RealEstateTeam #AIAgentMinute #MeetingProductivity
+
+### YouTube Shorts
+**Title:** Your Team Meetings Are Wasting Everyone's Time
+**Description:** If your team meeting ends with "does anyone have anything else?" -- you're running it wrong. Structure changes everything.
 **Hashtags:** #TeamLeader #RealEstateTeam #AIAgentMinute #MeetingProductivity #RealEstateTips
+
+### Facebook
+**Caption:** If your team meeting ends with "does anyone have anything else?" -- you're running it wrong. Structure changes everything.
+**Hashtags:** #TeamLeader #RealEstateTeam #AIAgentMinute #MeetingProductivity #RealEstateTips #AIforRealtors
+
+### LinkedIn
+**Caption:** If your team meeting ends with "does anyone have anything else?" -- you're running it wrong. Structure changes everything.
+**Hashtags:** #TeamLeader #RealEstateTeam #AIAgentMinute #RealEstate #ProfessionalDevelopment

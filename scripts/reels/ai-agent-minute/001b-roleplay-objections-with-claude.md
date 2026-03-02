@@ -15,11 +15,35 @@ ai_tool: "Claude"
 
 Want to never freeze on an objection again? Here's the drill.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+
 Open Claude and type: "Act as a seller who just said 'I want to think about it' after my listing presentation. Stay in character. Push back like a real seller would."
 
 Run it five times. By the time you're in the real conversation, you've already been there a hundred times. Objection handling is a muscle -- AI just made the reps free and unlimited.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
+**Caption:** The exact Claude prompt to practice the hardest objection in real estate. Five reps and you'll never freeze again.
+**Hashtags:** #AIforRealtors #Claude #ObjectionHandling #RealEstateCoach #RealtorTips #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+
+### TikTok
+**Caption:** The exact Claude prompt to practice the hardest objection in real estate.
+**Hashtags:** #AIforRealtors #Claude #ObjectionHandling #RealEstateCoach
+
+### YouTube Shorts
+**Title:** Roleplay 'I Want To Think About It' With Claude
+**Description:** The exact Claude prompt to practice the hardest objection in real estate. Five reps and you'll never freeze again.
+**Hashtags:** #AIforRealtors #Claude #ObjectionHandling #RealEstateCoach #RealtorTips
+
+### Facebook
 **Caption:** The exact Claude prompt to practice the hardest objection in real estate. Five reps and you'll never freeze again.
 **Hashtags:** #AIforRealtors #Claude #ObjectionHandling #RealEstateCoach #RealtorTips #AIAgent
+
+### LinkedIn
+**Caption:** The exact Claude prompt to practice the hardest objection in real estate. Five reps and you'll never freeze again.
+**Hashtags:** #AIforRealtors #Claude #ObjectionHandling #RealEstate #ProfessionalDevelopment

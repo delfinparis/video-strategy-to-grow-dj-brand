@@ -14,11 +14,35 @@ target_duration: "27 seconds"
 
 Karina Chavez answered a 7 PM call last Tuesday. It turned into a $480,000 listing by Thursday.
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 A past client's coworker whose agent went dark during inspection. She needed someone who'd actually pick up. Most agents saw a random evening number and let it ring. Karina answered on the second ring.
 
 People don't want to leave voicemails about six-figure decisions. They want a human. Right now. Go into your phone settings. Turn off "Silence Unknown Callers." Answer every call for seven days. See what happens.
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** She answered at 7 PM on a Tuesday. Listed it Thursday. Your phone isn't ringing less -- you're just not answering.
+**Hashtags:** #RealEstateAgent #RealtorTips #TopProducer #RealEstateBusiness #AgentAdvice #AgentTipOfTheDay #RealEstateSuccess #RealEstateCoaching
+
+### TikTok
+**Caption:** She answered at 7 PM on a Tuesday. Listed it Thursday.
+**Hashtags:** #RealEstateAgent #RealtorTips #TopProducer #RealEstateBusiness
+
+### YouTube Shorts
+**Title:** She Answered at 7 PM. Listed It by Thursday.
+**Description:** She answered at 7 PM on a Tuesday. Listed it Thursday. Your phone isn't ringing less -- you're just not answering.
 **Hashtags:** #RealEstateAgent #RealtorTips #TopProducer #RealEstateBusiness #AgentAdvice
+
+### Facebook
+**Caption:** She answered at 7 PM on a Tuesday. Listed it Thursday. Your phone isn't ringing less -- you're just not answering.
+**Hashtags:** #RealEstateAgent #RealtorTips #TopProducer #RealEstateBusiness #AgentAdvice #AgentTipOfTheDay
+
+### LinkedIn
+**Caption:** She answered at 7 PM on a Tuesday. Listed it Thursday. Your phone isn't ringing less -- you're just not answering.
+**Hashtags:** #RealEstateAgent #RealtorTips #TopProducer #RealEstate #ProfessionalDevelopment

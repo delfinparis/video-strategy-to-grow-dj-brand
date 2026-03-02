@@ -14,11 +14,35 @@ target_duration: "23 seconds"
 
 What if the rage isn't the problem? What if it's your body telling you that performing perfection isn't sustainable?
 
+This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+
 You've built a career. You don't need to prove you can do everything anymore.
 
 Tomorrow before 10am: find the listing photo you almost deleted because the lighting was off. Post it with this caption: "Not every listing is magazine-ready. Still sold."
 
+
+See you next time.
 ---
 
+## Social Copy
+
+### Instagram
 **Caption:** Stop performing perfection. Post the photo you almost deleted. See what happens.
+**Hashtags:** #AuthenticMarketing #RealEstateAgent #StopPerfecting #RealtorLife #VulnerabilityWins #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+
+### TikTok
+**Caption:** Stop performing perfection. Post the photo you almost deleted.
+**Hashtags:** #AuthenticMarketing #RealEstateAgent #StopPerfecting #RealtorLife
+
+### YouTube Shorts
+**Title:** Post the Imperfect Photo
+**Description:** Stop performing perfection. Post the photo you almost deleted. See what happens.
 **Hashtags:** #AuthenticMarketing #RealEstateAgent #StopPerfecting #RealtorLife #VulnerabilityWins
+
+### Facebook
+**Caption:** Stop performing perfection. Post the photo you almost deleted. See what happens.
+**Hashtags:** #AuthenticMarketing #RealEstateAgent #StopPerfecting #RealtorLife #VulnerabilityWins #RealtorTips
+
+### LinkedIn
+**Caption:** Stop performing perfection. Post the photo you almost deleted. See what happens.
+**Hashtags:** #AuthenticMarketing #RealEstateAgent #StopPerfecting #RealEstate #ProfessionalDevelopment
