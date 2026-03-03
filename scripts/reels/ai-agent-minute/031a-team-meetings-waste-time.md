@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Most team meetings in real estate accomplish one thing: wasting everyone's time together instead of separately.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Status updates that could've been an email. Venting disguised as strategy. Motivational speeches that fade by Tuesday. And thirty minutes of "does anyone have anything else?"
 

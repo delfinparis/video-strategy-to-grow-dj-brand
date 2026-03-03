@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 He mailed postcards for ten months. Got nothing. Zero calls. Almost went bankrupt.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Month eleven, a luxury seller calls. Jay Cannone asks why him. The guy says: "Anyone who sends me postcards that consistently for ten months -- that's who I want to work with."
 

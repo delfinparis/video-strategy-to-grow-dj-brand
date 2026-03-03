@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Every transaction mistake that's ever cost you a client or a sleepless night came down to one thing -- you trusted your memory instead of a system.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 There are sixty-plus steps between executed contract and closing. Missing one can delay a closing, kill a deal, or expose you to liability.
 

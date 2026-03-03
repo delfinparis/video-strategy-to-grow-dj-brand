@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Do a full business simplification audit with Claude. List every lead source, marketing activity, tool, event, and commitment in your business.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Then ask: "Which of these are most likely driving eighty percent of my production? Which can I eliminate without materially affecting my results? What does my simplified, high-leverage business look like if I cut everything else?"
 

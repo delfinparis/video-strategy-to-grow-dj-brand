@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Pre-foreclosure outreach done right isn't predatory. It's one of the most genuinely helpful things an agent can do.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Write a homeowner outreach system for someone in pre-foreclosure. Include a letter that leads with empathy and options -- not a pitch, a list of what I can offer including short sale expertise, cash buyer network, and flexible timeline, and a follow-up sequence for homeowners who need time to process."
 

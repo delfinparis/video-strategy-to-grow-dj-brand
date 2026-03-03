@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 The agents closing two billion plus in luxury deals do this after every single conversation. You probably don't.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Jill Preschel learned this from private equity partners: after every call, showing, or negotiation, send one email. "Here's what we discussed. Here's what we agreed on. Here's the next step." That's it. The email isn't rude. It's a receipt. It kills the "I thought you said" arguments. It keeps you in control of the narrative. And it makes you the one pro in a sea of amateurs.
 

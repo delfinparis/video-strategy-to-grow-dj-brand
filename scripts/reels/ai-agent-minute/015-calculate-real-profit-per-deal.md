@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Your GCI number is a lie you tell yourself. What actually matters is what you keep.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Splits, taxes, marketing, software, mileage, staging, referral fees -- a two-hundred-thousand-dollar GCI year might net you sixty thousand. Maybe less.
 

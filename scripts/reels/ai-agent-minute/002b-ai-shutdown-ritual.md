@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's a ten-minute ritual that will change your mornings.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Each evening, tell Claude what you got done, what's still open, and what tomorrow needs. Then type: "Sort my open items by priority, tell me what can wait or be delegated, and write my top three tasks for tomorrow morning."
 

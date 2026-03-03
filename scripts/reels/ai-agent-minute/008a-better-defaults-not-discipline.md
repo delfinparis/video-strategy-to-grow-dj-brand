@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The top producers you admire aren't more disciplined than you. They've built better defaults -- and there's a massive difference.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 On your best days, you do the hard things. On your bad days, you don't. And the bad days are exactly when the important work needs to happen.
 

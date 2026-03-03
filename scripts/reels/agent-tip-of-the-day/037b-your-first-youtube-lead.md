@@ -14,7 +14,7 @@ target_duration: "22 seconds"
 
 No pitch. No objection handling. No convincing someone you're worth the commission. They found you. They trust you. They're ready.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 That's the difference between interruption marketing and being the answer to someone's search.
 

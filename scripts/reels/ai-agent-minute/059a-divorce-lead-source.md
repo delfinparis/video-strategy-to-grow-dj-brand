@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Divorce is the second most common reason couples sell their home. And most agents have never contacted a single divorce attorney.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 These attorneys need agents who can handle emotionally charged transactions, provide accurate valuations under pressure, and close when neither seller wants to cooperate. Most agents don't specialize here. So the attorneys use the same agent they've used for twenty years.
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Every FSBO in your market is getting the same three calls from agents this week. Don't be the fourth.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's why FSBO outreach fails: you lead with the commission objection before they trust you. Their first concern isn't your fee -- it's whether they can pull this off alone.
 

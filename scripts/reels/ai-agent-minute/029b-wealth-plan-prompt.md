@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Your commissions are fuel. Wealth is the vehicle. Most agents never build the vehicle.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Sit down with Claude for a wealth planning session. Give it your average annual income, savings rate, age, and retirement goal.
 

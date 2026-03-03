@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You're not failing because your strategy is wrong. You're failing because you won't stop switching strategies.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Garrett Maroon built a top 1% referral business in Virginia. He picked ONE lead source in 2018 -- his past client database -- and never looked back. Month six: three referrals. Most agents would've panicked and bought Zillow leads. He didn't. Month twelve: eight. Month eighteen: seventeen. By month twenty-four, he stopped prospecting entirely. The compound effect only kicks in when you stop restarting.
 

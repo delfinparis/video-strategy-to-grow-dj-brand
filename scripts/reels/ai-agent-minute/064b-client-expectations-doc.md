@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Build a two-page document you send to every new buyer or seller at the start of the relationship.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Write a warm, professional document covering how I communicate and my typical response times, the transaction timeline and what happens at each stage, the client's responsibilities, and the three most common surprises in real estate and how I handle them."
 

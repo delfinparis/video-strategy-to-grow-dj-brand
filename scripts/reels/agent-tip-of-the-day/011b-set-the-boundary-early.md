@@ -12,9 +12,9 @@ target_duration: "23 seconds"
 
 ## Script (Spoken)
 
-Every agent has that one buyer story. The one who showed up uninvited. The one who offered cash they didn't have. The one who made you wonder if you should've been a therapist. That's not bad clients. That's what happens when you don't draw the line early.
+The buyer who showed up uninvited. The one who offered cash they didn't have. The one who made you question your career. That's not bad clients. That's no boundaries.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Before your next buyer consultation, add this question to your intake: "What's the craziest thing you've considered doing to get a house?" Their answer tells you exactly where to set the boundary.
 

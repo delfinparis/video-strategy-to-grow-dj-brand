@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 If you want different results, you don't need another motivational speech. You need to rewire the pattern.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tomorrow morning, before you check email, open your CRM. Find three clients you haven't talked to in 90 days. Call the first one. Not to sell -- just to check in.
 

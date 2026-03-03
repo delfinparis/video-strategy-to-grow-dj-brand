@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The gap between a house that sells in five days and one that sits for ninety is almost always preparation.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents give sellers a general list of things to fix and hope for the best. But sellers are emotionally attached. They don't know what today's buyers care about. They spend money on the wrong things -- or do nothing at all.
 

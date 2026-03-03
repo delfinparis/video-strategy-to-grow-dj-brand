@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The agents who leave your team in the first ninety days don't leave because the split was wrong. They leave because nobody helped them figure out what to do on day two.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most team leaders spend thousands recruiting an agent and almost nothing building the experience that makes them stay. The new agent joins excited, gets dropped into chaos, and quietly starts looking for something better.
 

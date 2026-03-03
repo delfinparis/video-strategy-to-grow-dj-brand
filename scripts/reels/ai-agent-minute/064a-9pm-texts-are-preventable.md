@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Ninety percent of client problems come from expectations that were never set.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 The 9 PM texts. The "why didn't you tell me about this?" conversation. The client who expects a response within the hour on a Sunday. Every one of those moments was preventable -- if someone had explained clearly at the start what the process looks like.
 

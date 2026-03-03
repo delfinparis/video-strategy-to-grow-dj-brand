@@ -12,9 +12,9 @@ target_duration: "23 seconds"
 
 ## Script (Spoken)
 
-What you do in Q4 sets up your entire next year. While they're gliding, you're loading the pipeline.
+What you do in the next few months sets up your entire next year. While they're gliding, you're loading the pipeline.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 January 1st, you wake up with ten warm conversations already going. They wake up cold.
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 New construction buyers think they don't need an agent. That's because most agents never showed them what one actually does in that transaction.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 The onsite sales agent is friendly, professional, and entirely paid by the person on the other side of the table from your client. They cannot negotiate against their employer. Upgrade credits, lot premiums, closing cost concessions, extended rate locks -- a buyer's agent goes after those.
 

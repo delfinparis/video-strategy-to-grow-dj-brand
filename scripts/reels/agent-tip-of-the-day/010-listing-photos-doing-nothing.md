@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You have 300 listing photos on your phone doing absolutely nothing for you.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Courtney Poulos in LA takes her listing photos and runs them through an AI tool that turns them into scroll-stopping video. No filming. No editing skills. Ninety seconds to upload, two minutes to render. Your $2M listing that got 47 impressions as a photo? Now it's a cinematic walkthrough getting shared by buyers you've never met.
 

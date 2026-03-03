@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The most expensive mistake agents make isn't a bad investment. It's the unexpected tax bill in April.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 You don't track deductions. You skip quarterly payments. You don't set aside the right percentage of every commission. Then April wipes out everything you felt good about earning.
 

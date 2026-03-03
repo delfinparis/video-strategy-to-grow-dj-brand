@@ -14,7 +14,7 @@ target_duration: "22 seconds"
 
 Before your next database call, write down the gold bar you're giving.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 A new listing in their zip code. A comp that just closed on their street. Insider intel on their neighborhood. If you can't name the value, don't make the call yet. Go find the gold first. That one shift turns ignored calls into answered ones.
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 "I want to think about it." Those five words have cost you more commission than any market downturn.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 And every time you hear them, you say "of course, take your time" -- and you lose the deal. Not because you didn't have a better answer. Because you never practiced having one.
 

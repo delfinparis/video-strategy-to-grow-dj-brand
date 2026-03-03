@@ -14,7 +14,7 @@ target_duration: "22 seconds"
 
 While you're guessing, top producers are studying. They know if the listing agent always folds on inspection repairs. They know if the buyer's agent panics when deals stall.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Next negotiation: take their name, run it through ChatGPT with public transaction data, and ask "What patterns show up?" You'll never walk in blind again.
 

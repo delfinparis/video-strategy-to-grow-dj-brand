@@ -12,9 +12,9 @@ target_duration: "23 seconds"
 
 ## Script (Spoken)
 
-You've been waiting to feel ready. To know enough. To have the right scripts. But someone with half your knowledge and twice your hustle is closing your deal right now.
+Someone with half your knowledge and twice your hustle is closing your deal right now. Stop waiting to feel ready.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Open your phone. Text five past clients this exact message: "Quick question -- who do you know thinking about moving in the next six months?" Send it before this video ends. That's forty-five seconds of work that beats four hours of planning.
 

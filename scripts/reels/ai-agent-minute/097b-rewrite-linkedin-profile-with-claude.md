@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to fix your LinkedIn in one sitting. Ask Claude: "Rewrite my LinkedIn profile as a thought-leadership hub, not a resume. Here's my background and specialty."
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Your headline should describe what you help people do -- not your title. Your about section should open with a story, not credentials. Your featured section should include your best market content and client testimonials.
 

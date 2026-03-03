@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 Here's what an About Me video does: Before the consult, they've already heard your voice. They've already decided they like you. You walk in warm, not cold.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tonight, open your phone's camera. Record three minutes. Who you are, why you do this, one story that proves it. Tomorrow morning, upload it to YouTube with your name in the title. Then text the link to your last three leads who went cold. That's the whole play.
 

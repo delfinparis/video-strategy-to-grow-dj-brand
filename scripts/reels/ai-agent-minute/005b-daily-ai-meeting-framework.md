@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Stop asking Claude one-off questions. Start treating it like a daily meeting. Four prompts:
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Morning: "Here's my plan -- what am I missing and what's the biggest risk?"
 After a call: "Here's what happened -- what should I do differently?"

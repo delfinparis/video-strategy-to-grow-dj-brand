@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Right now, someone in your market is Googling "real estate agent near me." Are they finding you -- or your competitor?
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Your Google Business profile is often the very first impression a potential client has of you. And most agent profiles are incomplete, outdated, with no posts and no review responses.
 

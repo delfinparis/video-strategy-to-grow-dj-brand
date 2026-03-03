@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You set a goal at the beginning of the year. By March, you forgot you set it.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 "I want to do fifty deals this year" isn't a goal -- it's a wish. A real goal has a daily action attached to it. Without that, you're not planning. You're hoping.
 

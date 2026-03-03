@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You're leaving ninety percent of your content's value on the table every time you post something once and move on.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Give Claude any long-form content -- a video transcript, podcast clip, or newsletter. Type: "Turn this into one LinkedIn post, three Instagram captions, five short text insights, and one email subject line. Preserve the core idea -- adapt the tone for each platform."
 

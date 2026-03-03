@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 The barrier between "I wish I had that" and "I built that" just collapsed. Every tool you wish existed? You can build it this week. And your clients will think you hired a developer.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tonight: open ChatGPT. Type this exact prompt -- "Build me an HTML tool that calculates monthly mortgage payments with sliders for price, down payment, and interest rate." Copy the code. Paste it into Carrd dot co -- it's free. Text it to your next buyer. That's the assignment.
 

@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 Your database doesn't answer because they know you're calling to take, not give.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Chase Craig -- two billion in sales -- puts it this way: Are you asking for money or handing out gold bars? Most agents call when they need a deal. They pitch. They ask about timing. That's asking for money. Handing out gold bars is calling with a market update they can't get anywhere else. An off-market listing that fits their criteria. Value first. Always.
 

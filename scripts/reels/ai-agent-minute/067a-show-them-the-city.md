@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Relocation buyers are among the most valuable clients in real estate -- and most agents are completely unprepared for them.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 They're moving to a city they don't know. What do most agents do? Send a Zillow search link and schedule a showing tour. The buyer arrives, feels overwhelmed, and realizes the agent knows nothing about the city.
 

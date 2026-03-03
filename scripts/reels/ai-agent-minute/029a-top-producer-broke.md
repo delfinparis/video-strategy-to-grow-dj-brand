@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You can be a top producer and completely broke. It happens more than anyone in this industry talks about.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 No pension. No 401k match. No automatic tax withholding. Most agents spend what they earn, under-save for taxes, and arrive at retirement with less wealth than their clients who worked a nine-to-five.
 

@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 Gen Z closed 30% more purchases last year than the year before. They're buying -- just working with the three agents in your market who respond fast and speak their language.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tonight: open Instagram. Record one 30-second video walking through a neighborhood -- the coffee shop, the dog park, the bike lane. Post it with: "DM me for the full tour."
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's a three-touch sequence that actually re-engages ghosted leads.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Give Claude your lead's profile and type: "Write a three-touch re-engagement sequence built entirely on value -- no asks. Touch one: a relevant market update for their area. Touch two: a specific property matching what they wanted. Touch three: a low-pressure check-in -- 'I want to make sure I'm still being helpful.'"
 

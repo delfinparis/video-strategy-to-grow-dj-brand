@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The blank stare happens because you're trying to think and perform at the same time. Separate those steps.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Before filming, give Claude your topic and type: "Give me five possible opening lines for a sixty-second video, three key points to cover, and a closing question for the viewer."
 

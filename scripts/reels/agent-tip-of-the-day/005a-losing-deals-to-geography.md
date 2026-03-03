@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 You lost a $2.3M buyer last month because you couldn't pull comps from Denver.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Retirees comparing Phoenix, Boise, and Raleigh. Investors asking about cap rates in three states. And you're stuck saying "let me refer you out" because your MLS ends at the county line. You lose the client. Someone else closes the deal.
 

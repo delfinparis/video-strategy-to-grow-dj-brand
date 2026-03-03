@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You've closed hundreds of happy clients. Most never left you a review. That's not their fault -- it's yours.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 They're not unhappy. They're busy, don't know what to say, and nobody made it simple. The agents with sixty or eighty reviews didn't get luckier with more appreciative clients. They have a system.
 

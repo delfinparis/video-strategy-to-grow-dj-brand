@@ -14,7 +14,7 @@ target_duration: "23 seconds"
 
 Your last deal that died? The one where you thought "I should've seen that coming"?
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 You probably sent three emails that week that landed wrong.
 

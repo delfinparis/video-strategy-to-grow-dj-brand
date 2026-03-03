@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want to break into luxury real estate? Ask Claude to build you a ninety-day luxury market entry strategy.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 It should define: the specific neighborhoods to focus on first, how to build market expertise before you have listings, the five luxury marketing elements to develop -- photography, listing presentations, video, print, and digital presence -- and a target list of luxury-adjacent clients already in your network.
 

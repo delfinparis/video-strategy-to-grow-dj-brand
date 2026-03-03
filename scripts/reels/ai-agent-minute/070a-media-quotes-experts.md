@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Every time a local news outlet quotes a real estate expert, it could be you. Most agents assume that door is closed without ever knocking on it.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Local journalists and podcasters are constantly looking for expert sources for rate pieces, inventory reports, and market takes. They're often on deadline with nobody to call.
 

@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Gen Z is making 50% more income than boomers were at their age -- and you're still not calling them back.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Amanda Pendleton at Zillow studied the data. Gen Z isn't broke. But they're researching on TikTok at 11pm, watching neighborhood tours on YouTube during lunch, and asking ChatGPT about mortgage rates.
 

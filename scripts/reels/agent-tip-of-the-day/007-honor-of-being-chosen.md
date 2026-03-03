@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 The $50 million producer who still answers her phone at 9 PM just said something that made me stop.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Kristee Leonard, 18 years in luxury real estate: "For someone to choose you, it is an honor." Not a transaction. Not a commission check. An honor. Every person who calls you passed on a hundred other agents. They didn't choose your brand. They chose you. That's not pressure. That's privilege.
 

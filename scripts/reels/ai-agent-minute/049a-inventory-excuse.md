@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 "There's nothing to show my buyers." That statement is costing you deals -- because it's not entirely true.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Agents who thrive in low inventory aren't finding listings everyone else missed on the MLS. They're generating inventory -- through direct outreach, relationships, and strategies most agents never try because the MLS makes it too easy to just wait.
 

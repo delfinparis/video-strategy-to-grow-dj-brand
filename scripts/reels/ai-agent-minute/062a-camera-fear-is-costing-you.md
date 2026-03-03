@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Every week you avoid posting video, someone else is showing up in the feed of people who should be your clients.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 You know the data. Video outperforms every other content format. But the fear of looking awkward keeps you off camera entirely. So you post graphics while your competitors build real audiences.
 

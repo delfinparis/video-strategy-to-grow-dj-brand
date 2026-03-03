@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The average agent is paying for five tools they barely use -- and missing the one workflow that would actually change their business.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Too many tools stops you from going deep on any of them. Here's the fix.
 

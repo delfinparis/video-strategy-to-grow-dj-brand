@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 If the only thing separating your recruiting pitch from every other team leader's is your commission split -- you're in a price war you cannot win.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most team leaders give the same pitch: great leads, solid split, strong support. Every team leader in your market says the exact same thing.
 

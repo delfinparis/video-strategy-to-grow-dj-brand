@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 Top producers treat wins and losses the same way -- data points. Monday morning looks identical whether they closed three deals Friday or lost a buyer.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Your income isn't determined by your best month or your worst month. It's determined by whether you do the same activities every day regardless of how you feel.
 

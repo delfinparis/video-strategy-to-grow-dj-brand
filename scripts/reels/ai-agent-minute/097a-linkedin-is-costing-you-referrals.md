@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 While every agent fights for attention on Instagram, the platform most likely to send you corporate relocation clients, investor referrals, and high-income buyers is sitting completely ignored.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agent LinkedIn profiles read like a bad resume. Job title, brokerage name, years licensed. No story. No specific audience. No reason for a corporate professional or relocation manager to reach out.
 

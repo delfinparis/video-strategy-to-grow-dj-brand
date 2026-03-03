@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The listing appointment starts before you ring the doorbell. Most agents don't know that.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 The seller already Googled you, checked your reviews, and formed an opinion. Three other agents are coming this week. Most agents show up with a folder and a CMA, trying to build credibility in forty-five minutes while closing the listing.
 

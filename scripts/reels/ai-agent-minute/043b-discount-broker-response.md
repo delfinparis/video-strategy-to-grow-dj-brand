@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Use Perplexity to pull data on discount versus full-service agents in your market -- list-to-sale price ratios, average days on market, buyer satisfaction scores.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Then tell Claude: "Write me a two-minute response to the Redfin objection that's entirely data-driven, never defensive, and always focused on the client's outcome -- not my commission."
 

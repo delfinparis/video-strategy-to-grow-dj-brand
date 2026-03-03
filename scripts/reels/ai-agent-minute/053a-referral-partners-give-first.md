@@ -13,9 +13,9 @@ ai_tool: "Claude"
 
 ## Script (Spoken)
 
-Most agents only think about referral partners when they need a referral. So every interaction feels transactional. The lender, the attorney, the financial advisor -- they feel the ask coming and quietly keep their referrals to themselves.
+Your referral partners feel the ask coming. Every time. The lender, the attorney, the financial advisor -- they know you only call when you need something.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 A one-way relationship isn't a relationship. It's a network of people who don't call you back.
 

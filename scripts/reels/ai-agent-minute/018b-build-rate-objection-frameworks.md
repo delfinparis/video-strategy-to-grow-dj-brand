@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Here's how to handle every rate objection with confidence.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Once a month, pull current rate data from Perplexity. Bring it into Claude and type: "Prepare response frameworks for these three conversations: 'Should we wait for rates to drop?' 'Rates are too high to buy right now.' 'We're going to rent instead.' Each needs a simple math example, one local data point, and a closing line that leaves the client informed -- not pressured."
 

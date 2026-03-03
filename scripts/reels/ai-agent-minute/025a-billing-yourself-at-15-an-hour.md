@@ -13,9 +13,9 @@ ai_tool: "Claude"
 
 ## Script (Spoken)
 
-You're doing tasks every day that someone else could do for fifteen dollars an hour. Which means you're billing yourself at fifteen dollars an hour for time that should be worth two hundred.
+You're billing yourself at fifteen dollars an hour. Every task you do that someone else could handle -- that's the rate you chose.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 And here's why most agents hire at the wrong time -- they wait until they're drowning, then make every mistake: wrong person, unclear role, no systems.
 

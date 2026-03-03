@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Use Claude and Perplexity to build a Relocation Welcome Packet.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Type: "Build a comprehensive guide for a buyer relocating to my city. Include neighborhood profiles for five areas with different vibes and price points, commute time analysis to major employers, school comparison data, a new-to-the-city amenities guide, and a buying process timeline for out-of-town buyers."
 

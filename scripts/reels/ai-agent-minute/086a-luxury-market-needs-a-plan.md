@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The luxury market isn't closed to you. You just never built a serious plan for entering it. Hope is not a strategy.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents assume you need luxury connections first -- a lucky referral that falls in your lap. So they wait. Meanwhile, luxury clients are choosing agents based on expertise and credibility. If you haven't built those signals, no connection will save you.
 

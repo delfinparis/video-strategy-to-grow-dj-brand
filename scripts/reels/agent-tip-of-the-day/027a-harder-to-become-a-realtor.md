@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 A real estate tech analyst just said the quiet part out loud: it should be harder to become a REALTOR.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Chris Linsell says Texas requires 180 hours to get licensed. California, 135. But Alabama? Sixty hours. Georgia? Seventy-five.
 

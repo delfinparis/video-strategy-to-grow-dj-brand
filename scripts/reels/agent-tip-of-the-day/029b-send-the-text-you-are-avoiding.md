@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 In a business full of shortcuts, being the agent who shows up consistently and tells the truth is actually rare. That's your edge.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Right now, open your phone. Find the client conversation you've been avoiding -- the one with bad news or a dropped ball. Text them: "Can we talk tomorrow at 9am? I owe you an update."
 

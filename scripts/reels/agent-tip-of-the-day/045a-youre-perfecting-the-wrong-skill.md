@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You're getting better at the wrong thing.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Every sales training says perfect your pitch. Master objection handling. Learn closing techniques. Courtney Poulos says that's backwards. She told me: "The art of sales is not in my ability to sell. It's in the clients' ability to trust me." You're not losing deals because your pitch is weak. You're losing them because trust isn't there. The mechanic you never question. The doctor whose advice you follow. They're not better salespeople. They're more trusted people.
 

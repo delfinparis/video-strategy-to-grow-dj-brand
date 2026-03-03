@@ -14,7 +14,7 @@ target_duration: "26 seconds"
 
 Three agents in your office aren't waiting for a national MLS. They've got Phoenix access. Nashville access. They're closing deals you're referring out.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Here's the move: open your CRM. Filter by "Referred Out - Geographic." Pick the top market. Google that city's MLS subscriber access. Most are forty to sixty bucks a month. Buy it. Next client who asks about that market? You're the expert now, not the referral source.
 

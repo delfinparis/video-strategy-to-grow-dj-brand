@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 People can tell when AI wrote your content. And they trust it less when they can.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 You ask AI to "write a post about real estate" and wonder why it sounds like every other AI-generated post in the feed. Generic AI content doesn't just fail to help -- it signals that nobody cared enough to actually show up.
 

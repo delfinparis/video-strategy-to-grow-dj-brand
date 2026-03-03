@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want warm referrals from lenders, attorneys, and financial advisors on a schedule? Build the system.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Give Claude your list of partner types and type: "Build a twelve-month referral partner outreach plan. Include a first-contact message for each professional type, a quarterly value-add touchpoint sequence, and a value calendar of things I can give each partner before I ever ask for a referral."
 

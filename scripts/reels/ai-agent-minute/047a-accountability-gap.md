@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The number one reason agents don't hit their goals isn't lack of knowledge. It's lack of follow-through. And accountability is the only thing that fixes it.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 You either work completely alone with no one checking if you prospected today -- or you pay for a coach you go weeks without talking to. In between, nothing holds you to your commitments.
 

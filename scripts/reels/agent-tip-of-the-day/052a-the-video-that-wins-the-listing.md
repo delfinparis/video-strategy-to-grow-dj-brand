@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You're invisible on Google. And that's why you're losing listings to agents with half your experience.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Kim Rittberg says the one video that turns strangers into clients is the one you're not making. It's your About Me video. Not a listing tour. Not a market update. The video that answers: "What makes you different?" When a seller Googles three agents, two have bios. One has a video. Guess who gets the call. You're either on video or you're invisible.
 

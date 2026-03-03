@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to build a routine that works even on your worst days.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Design my minimal viable daily routine -- five to eight specific actions that move my real estate business forward every day regardless of mood. Then give me an environment design checklist: reminders, calendar blocks, and friction-removal tactics that make my routine automatic, not optional."
 

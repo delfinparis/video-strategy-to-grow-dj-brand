@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Burnout in real estate doesn't announce itself. It sneaks up on you -- and by the time you notice, you're already three months deep.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 You're still showing up. Still closing deals. But you're getting shorter with clients. Procrastinating on calls you used to make without thinking. Dreading Sunday nights in a way you didn't two years ago.
 

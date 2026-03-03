@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 A top 1% luxury agent just said Zillow saved his team.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Jeff Biebuyck moves luxury in Calabasas and Hidden Hills. When his hyper-local market got squeezed, he used Zillow Flex to spread his team across all of Greater LA. Not as lead gen -- as a geographic expansion strategy.
 

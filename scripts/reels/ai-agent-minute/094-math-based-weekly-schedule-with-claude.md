@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You don't have a time management problem. You have a schedule design problem. There's a real difference.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents do whatever feels most urgent -- which is almost never the most important thing. Weeks go by. No new listings. A lot of motion with nothing to show for it.
 

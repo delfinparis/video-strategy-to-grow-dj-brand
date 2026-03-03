@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The wrong agent getting the right lead isn't just inefficient -- it's actively damaging your team's reputation.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 A new agent handed a luxury relocation lead will almost certainly lose it. An experienced agent assigned a first-time buyer who needs hand-holding might get impatient and lose them too.
 

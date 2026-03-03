@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Every "no" you get in real estate is not about you. Most agents never actually believe that -- and it quietly ends their career.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 What looks like laziness is actually self-protection. When you conflate a "no" to a business call with a "no" to you as a person, every dial becomes a potential emotional wound. So you stop dialing. You check email instead. You reorganize your desk.
 

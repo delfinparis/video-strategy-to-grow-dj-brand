@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 That client comment that ruined your whole day? It hit because you already believed it.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Mindset coach Paul Salter: "When something said by another person triggers you, it's a mirror of a part of yourself you don't like." The feedback about your response time? You already know you're dropping balls. The comment about follow-through? You're already ashamed of deals that fell apart. The defensiveness isn't protecting you. It's keeping you stuck.
 

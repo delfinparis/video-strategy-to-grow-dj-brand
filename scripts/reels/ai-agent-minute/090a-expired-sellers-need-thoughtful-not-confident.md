@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Expired listings are the highest-intent leads in real estate. These sellers already tried to sell. They just need someone better.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's why most expired outreach fails. The agent calls, says "I can sell your home," and sends a postcard with their headshot. That's exactly what the last three agents who failed them said.
 

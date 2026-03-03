@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to never skip prospecting again.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Design my thirty-minute morning prospecting ritual with a two-minute mindset warm-up, a realistic daily target, a script refresh for the first call so I don't start cold, a win tracker that counts conversations not just appointments, and a two-minute debrief."
 

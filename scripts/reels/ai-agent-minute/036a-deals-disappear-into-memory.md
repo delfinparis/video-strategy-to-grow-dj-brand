@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Every difficult deal you close is a story that could win you the next ten clients. Most agents let those stories disappear completely.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Multiple-offer battles, deals that nearly fell apart, creative financing solutions -- these are your best evidence of real-world competence. But you never documented them. They exist only in your memory.
 

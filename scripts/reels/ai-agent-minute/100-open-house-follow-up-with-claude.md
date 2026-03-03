@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You're sitting open houses every weekend and converting almost none of them. It has nothing to do with the house.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents collect sign-in sheets, send a generic "thanks for stopping by" email, and consider it done. But open houses give you something most lead sources never will -- a real conversation with that person. And most agents waste it.
 

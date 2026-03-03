@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Next time a difficult client situation comes up -- before you respond -- bring it to Claude.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Describe exactly what happened and type: "How should I respond to de-escalate, preserve the relationship, and keep the deal on track? Give me three communication approaches based on what the client's emotional state is likely to be."
 

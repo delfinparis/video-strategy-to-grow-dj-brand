@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to never go silent on social media again.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Spend one hour with Claude. Type: "Generate thirty pieces of evergreen real estate content that don't need timely data. Include myth-busting posts, client FAQ answers, 'did you know' market facts, process explainers, and seasonal home tips. Write them all ready to post."
 

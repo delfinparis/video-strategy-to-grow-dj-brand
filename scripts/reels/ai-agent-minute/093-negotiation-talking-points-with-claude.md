@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Most agents negotiate on instinct. Top producers negotiate with a written plan -- built before they ever pick up the phone.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Before any negotiation call, give Claude the full deal picture -- offer price, inspection issues, competing offers, seller motivation, your buyer's must-haves versus nice-to-haves.
 

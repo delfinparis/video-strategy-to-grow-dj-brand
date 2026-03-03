@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 After a rough prospecting session, paste the specific call that shook you into Claude.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Type: "Help me reframe this from a psychological distance. Give me three alternative explanations for why this person said no that have absolutely nothing to do with my competence or my value."
 

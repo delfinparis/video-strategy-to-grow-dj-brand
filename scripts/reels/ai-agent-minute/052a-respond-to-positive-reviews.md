@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Your online reviews aren't just feedback -- they're your sales team. And most agents leave them completely unsupervised.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 People on the fence about calling you don't just read your reviews. They read how you responded. A generic "thanks for your kind words" signals you copy-pasted and moved on.
 

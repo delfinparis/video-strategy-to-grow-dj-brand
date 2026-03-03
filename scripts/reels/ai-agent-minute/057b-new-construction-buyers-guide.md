@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want to be the agent new construction buyers trust? Build the guide.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Build me a New Construction Buyer's Guide covering why the onsite agent isn't their advocate, what a buyer's agent negotiates in a new build, what to inspect at each construction milestone, questions to ask before signing the builder contract, and what warranty terms are negotiable."
 

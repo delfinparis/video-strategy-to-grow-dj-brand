@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 A bad appraisal can kill a deal everyone worked months to close. And almost every agent lets it hit their buyer as a complete surprise.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 An unprepared buyer panics. They feel deceived. They call their family for opinions from people who know nothing about real estate. A deal that was fine thirty minutes ago is now on life support.
 

@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Karina Chavez answered a 7 PM call last Tuesday. It turned into a $480,000 listing by Thursday.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 A past client's coworker whose agent went dark during inspection. She needed someone who'd actually pick up. Most agents saw a random evening number and let it ring. Karina answered on the second ring.
 

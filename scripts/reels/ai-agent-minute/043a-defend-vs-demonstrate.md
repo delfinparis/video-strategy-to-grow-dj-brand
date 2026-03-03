@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Your prospect just said "We're thinking of using Redfin -- it's cheaper." Here's what most agents say wrong.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 The moment you get defensive about your fee, you've already lost. You framed it as a price debate -- and in a price debate, cheaper always wins.
 

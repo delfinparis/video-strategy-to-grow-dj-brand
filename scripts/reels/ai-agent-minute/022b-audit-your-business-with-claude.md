@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's a twenty-minute exercise that could change your whole year.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 List your last twenty closed deals and where each came from. List the client types who were easiest to serve. List the marketing that actually produced results. Give that to Claude and type: "Identify the patterns -- which lead sources work best, which client types are my strongest fit, and what has the highest return for my effort. What happens if I double down on just the top three for ninety days?"
 

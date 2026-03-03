@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Build a FSBO outreach sequence where you never ask for the listing until touch three.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Tell Claude: "Write an outreach sequence for a FSBO seller where I never ask for the listing until the third message -- and every touch earns the right to send the next one."
 

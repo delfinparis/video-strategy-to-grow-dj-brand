@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to become the go-to agent for downsizing clients. Ask Claude to build you a "Senior and Downsizer Client Guide."
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 It should include: the emotional stages of leaving a long-term home, financial considerations unique to downsizing, resources for estate sale services and senior relocation specialists, and a full transition checklist from initial conversation to move-out day.
 

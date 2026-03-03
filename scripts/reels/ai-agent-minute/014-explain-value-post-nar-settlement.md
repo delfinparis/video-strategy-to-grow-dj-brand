@@ -13,9 +13,9 @@ ai_tool: "Claude"
 
 ## Script (Spoken)
 
-Buyers are being asked to sign representation agreements before you show them a single house. Most don't understand why. If you can't explain your value in two minutes -- you're losing clients before the first showing.
+Buyers are signing representation agreements before you show them a single house. Most don't understand why. Can't explain your value in two minutes? You're losing them before the first showing.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Write a clear, confident explanation of what I do as a buyer's agent, why a representation agreement actually protects the buyer -- not just me -- and what compensation looks like in plain English. Make it sound like a real person, not a legal disclosure."
 

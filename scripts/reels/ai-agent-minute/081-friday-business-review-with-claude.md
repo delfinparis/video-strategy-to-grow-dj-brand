@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You can't grow a business you're not measuring. And most agents aren't measuring anything.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Every top producer I've interviewed in twelve years does a weekly business review. Fifteen minutes. That's the habit that separates growers from plateauers.
 

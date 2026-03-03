@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You hit top 1% and still feel like you're losing.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Garrett Maroon built a top 1% business in Virginia. Then his daughter asked why he missed her recital. Again. So he did something radical. He fired 60% of his database. Stopped chasing C and D clients. Hired a showing assistant for fifteen bucks an hour. Built a boundary: no calls after 6pm, no showings on Sundays.
 

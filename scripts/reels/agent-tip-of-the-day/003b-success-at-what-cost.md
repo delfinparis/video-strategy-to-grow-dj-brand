@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 You can be the top producer in your market and still be failing at the life you actually want.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 The breakthrough isn't doing more. It's getting clear on what you're building toward and having the guts to cut what doesn't fit.
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The listing appointment is won before you ever walk in the door. That seller has already Googled you and formed an opinion before you ring the doorbell.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's what top listing agents do the night before. Give Claude the property address, neighborhood comps, and the seller's name. Then type: "Generate the five most likely objections I'll face at this specific listing appointment, a response to each one, and three value-differentiators specific to this property and neighborhood."
 

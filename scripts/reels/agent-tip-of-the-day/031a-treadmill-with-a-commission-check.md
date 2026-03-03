@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Most agents aren't running a business. They're being run by one.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 You wake up. Check your phone. Respond to clients. Show houses. Write contracts. Collapse. Repeat. That's not a business. That's a treadmill with a commission check.
 

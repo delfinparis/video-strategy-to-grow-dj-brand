@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You're losing the deal before you even know they're mad.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tim Burrell runs his negotiation emails through ChatGPT with a custom prompt. It flags tone shifts -- when language gets sharper, when frustration is building.
 

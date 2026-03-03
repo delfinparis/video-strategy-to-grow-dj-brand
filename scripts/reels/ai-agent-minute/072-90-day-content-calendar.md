@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Posting whenever you feel like it isn't a content strategy. It's noise with occasional bursts of effort.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Sit down with Claude and type: "Help me build a ninety-day content calendar. My five content pillars are -- list them. I post X times a week. My goals are leads and recruiting. Generate a week-by-week plan with content type, topic, hook, and CTA for each post."
 

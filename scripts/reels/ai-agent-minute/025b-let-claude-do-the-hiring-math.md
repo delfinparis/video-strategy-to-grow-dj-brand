@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to know if it's time to hire.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 List every task you did last week and how long each one took. Give that to Claude and type: "Sort these into tasks that require my expertise versus tasks a part-time assistant could handle. Estimate the cost of hiring someone for the second category -- and the opportunity cost of me continuing to do them myself."
 

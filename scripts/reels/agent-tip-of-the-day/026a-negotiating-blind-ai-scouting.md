@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You're negotiating blind. And the other agent isn't.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tim Burrell -- attorney, RE/MAX Hall of Fame -- feeds AI the other agent's name before every negotiation. Within seconds, he's got their transaction history, their patterns, their pressure points.
 

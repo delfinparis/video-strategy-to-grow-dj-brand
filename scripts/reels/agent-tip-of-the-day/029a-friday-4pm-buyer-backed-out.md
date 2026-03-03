@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 A buyer backed out at 4pm on a Friday. The seller was furious.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Jay Cannone -- 40 years in luxury, top 1% every single year -- could've hidden until Monday. Instead, he drove to their house that night. Sat at the kitchen table. Told them exactly what happened and exactly what he'd do next. No spin. No excuses.
 

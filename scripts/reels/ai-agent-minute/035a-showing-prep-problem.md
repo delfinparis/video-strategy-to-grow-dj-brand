@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Your buyer is about to walk into a house. Do you know anything about it besides what's on the MLS sheet?
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 At most showings, you have the same information as your buyer -- because it came from the same place. You're supposed to be the expert, but you don't know the neighborhood's price trajectory or what sold two streets over.
 

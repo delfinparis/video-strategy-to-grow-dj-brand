@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The best deals in real estate are almost never on the MLS. They're found by agents who do homework the competition refuses to do.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Pre-foreclosure properties are in public county records. The homeowners are often in genuine distress and have no idea a short sale is possible or that they could sell in time to save their credit.
 

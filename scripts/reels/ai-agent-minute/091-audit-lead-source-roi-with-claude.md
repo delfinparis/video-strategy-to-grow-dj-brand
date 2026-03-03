@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Most agents have no idea which lead sources actually make them money. They're genuinely guessing with their own business.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Could you tell me your cost per closed deal by lead source right now? Zillow, Facebook, farming, referrals? Be honest. Almost nobody can.
 

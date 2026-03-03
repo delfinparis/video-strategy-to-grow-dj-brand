@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 A $40 million producer just admitted she's terrible at CRM.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Bari Mill closes $40 million a year in Chicago. She hates updating her database -- same as you. Her fix? Set a timer for 10 minutes a day. Not an hour. Not a Sunday catch-up session where you hate your life. Ten minutes.
 

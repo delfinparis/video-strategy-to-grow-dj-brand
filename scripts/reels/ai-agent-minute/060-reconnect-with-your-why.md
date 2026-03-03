@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Motivation runs out. Every single time. The agents who last aren't more motivated -- they're more connected to their reason.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Set aside thirty minutes with Claude. Type: "Ask me these four questions and help me turn my answers into a personal mission statement: Why did I get into real estate? What does success actually give me? What would I regret most if I quit? Who am I doing this for?"
 

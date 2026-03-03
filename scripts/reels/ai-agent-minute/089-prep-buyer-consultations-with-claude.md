@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Every buyer problem you've ever dealt with -- the ghosting, the cold feet, the unrealistic expectations -- started in the first conversation you never fully had.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Before any buyer consultation, give Claude their profile -- first-time buyer, price range, timeline, market. Then type: "Give me the ten most important questions to ask this buyer, the five market realities they need to hear before we start looking, and two scenarios where buyers like them typically get frustrated."
 

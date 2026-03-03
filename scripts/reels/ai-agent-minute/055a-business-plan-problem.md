@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Most agents start the year saying "I want more deals" and "I want more money" -- then spend January reacting to whatever hits their inbox. By February, the goal is abstract. By March, it's forgotten.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Not because they didn't work hard. Because they were working without a map.
 

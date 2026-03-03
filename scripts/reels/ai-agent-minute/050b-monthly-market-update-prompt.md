@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Become the trusted source in twenty minutes a month. Pull your local MLS data -- average sale price, days on market, list-to-sale ratio, active inventory.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Give it to Claude: "Write a two-paragraph market update for homeowners in my market that explains what these numbers mean for a seller and a buyer. Make it conversational, not statistical. End with one specific actionable insight."
 

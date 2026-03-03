@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You have hundreds of dead leads in your CRM right now. Most of them aren't dead -- you just ran out of things to say.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 The average agent follows up three times, gets silence, and marks the lead cold. But most buyers need seven or more touchpoints before they act. You're quitting at three and handing those deals to the agent who doesn't.
 

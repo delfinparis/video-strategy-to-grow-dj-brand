@@ -15,7 +15,7 @@ ai_tool: "Perplexity"
 
 Real estate investors are the most loyal, highest-repeat clients in the industry. And most agents lose them in the first conversation because they don't speak the language.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 An investor asks you to evaluate a rental property. You pull comps and talk about the finishes. They wanted cap rate, cash-on-cash return, and rent-to-price ratio. Two completely different conversations.
 

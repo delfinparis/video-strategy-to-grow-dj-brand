@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Ask Claude to build a five-step review request sequence.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Prompt: "Write a review request system that includes: optimal timing for each ask after closing, an email version, a text version, a follow-up for non-responders. Each message should include a direct link placeholder, a one-sentence prompt telling the client what to mention, and a genuine thank-you. Make it feel personal -- not automated."
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want to never freeze on an objection again? Here's the drill.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Open Claude and type: "Act as a seller who just said 'I want to think about it' after my listing presentation. Stay in character. Push back like a real seller would."
 

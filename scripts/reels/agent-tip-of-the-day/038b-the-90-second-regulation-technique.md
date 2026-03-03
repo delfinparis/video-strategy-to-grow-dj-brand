@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 Paul Salter teaches a 90-second technique for leaders who get defensive under pressure.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Notice the tightness. Name it silently -- "I feel threatened." Take three breaths. Then ask one question: "What if they're right?"
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want to actually convert expired listings? Give Claude the listing history -- days on market, original price, every price reduction, signals about why it didn't sell.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Then type: "Draft a personalized outreach letter that acknowledges their frustration, identifies three reasons similar homes sat on the market, and proposes a genuinely different approach. Don't sound confident. Sound thoughtful."
 

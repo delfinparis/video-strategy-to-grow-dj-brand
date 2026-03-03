@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Once you've researched your listing appointment competition, here's the next move.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Take what you found into Claude and type: "Given how this competitor positions themselves, give me three specific ways I can differentiate in my listing presentation without ever mentioning them by name."
 

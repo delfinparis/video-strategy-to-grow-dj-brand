@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Break the feast-or-famine cycle by building a "pipeline floor" -- the minimum prospecting you do every week no matter how busy you are.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Tell Claude: "If I want a floor of two closings every month, what is the minimum daily prospecting calls, weekly appointments, and monthly new lead adds I need to maintain consistently -- starting today?"
 

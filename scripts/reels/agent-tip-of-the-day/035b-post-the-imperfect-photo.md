@@ -14,7 +14,7 @@ target_duration: "23 seconds"
 
 What if the rage isn't the problem? What if it's your body telling you that performing perfection isn't sustainable?
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 You've built a career. You don't need to prove you can do everything anymore.
 

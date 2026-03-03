@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 January you're broke. June you're great. September you're stressed again. This isn't bad luck -- it's a pipeline problem you're creating yourself.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 When business is slow, you prospect hard. When it picks up, you stop prospecting because you're busy. But that busy season is actually creating the next slow season.
 

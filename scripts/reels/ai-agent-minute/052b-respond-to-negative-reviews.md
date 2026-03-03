@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 A negative review you never responded to tells future clients something much worse than the review itself.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 For negative reviews, give Claude the review and type: "Help me write a calm, accountable response that shows future clients how I handle difficult situations professionally."
 

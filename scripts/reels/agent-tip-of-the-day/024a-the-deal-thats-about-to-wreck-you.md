@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 The deal that makes you feel invincible is the same one that's about to wreck your next three months.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Michael Thornton does $30 million a year. He says the biggest threat to your business isn't the market -- it's your emotional swings.
 

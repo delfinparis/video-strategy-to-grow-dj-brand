@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 Your reputation isn't built on your biggest deal. It's built on your most inconsistent one. The client you half-repped is the one telling the story at the dinner party.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Pull your last ten clients. Honest question: if someone looked at your effort level across all ten, would they see one standard or two? If it's two, you already know what to fix. Text your lowest-price client right now and ask if they need anything. That's how you close the gap.
 

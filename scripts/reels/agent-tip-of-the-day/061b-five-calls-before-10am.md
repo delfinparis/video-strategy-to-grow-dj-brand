@@ -12,11 +12,11 @@ target_duration: "23 seconds"
 
 ## Script (Spoken)
 
-When you catch yourself blocking off December 15th through January 2nd, ask: am I committed or just interested? Because interested agents reset every January. Committed agents separate in December.
+When you catch yourself planning to ease up for a few weeks, ask: am I committed or just interested? Because interested agents are always about to start. Committed agents never stopped.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
-Here's your test. Tomorrow before 10 AM, call five past clients you haven't talked to in six months. Just check in. "Hey, thinking of you before the holidays." That's it. Five calls before 10 AM. That's what committed looks like.
+Here's your test. Tomorrow before 10 AM, call five past clients you haven't talked to in six months. Just check in. "Hey, thinking of you. Just checking in." That's it. Five calls before 10 AM. That's what committed looks like.
 
 
 See you next time.
@@ -26,21 +26,21 @@ See you next time.
 
 ### Instagram
 **Caption:** Tomorrow morning. Five calls. Before 10 AM. That's the difference between committed and interested.
-**Hashtags:** #RealEstateAgent #DecemberHustle #AgentTips #RealEstateTips #CommitmentTest #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
+**Hashtags:** #RealEstateAgent #ConsistentAgent #AgentTips #RealEstateTips #CommitmentTest #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
 
 ### TikTok
 **Caption:** Tomorrow morning. Five calls.
-**Hashtags:** #RealEstateAgent #DecemberHustle #AgentTips #RealEstateTips
+**Hashtags:** #RealEstateAgent #ConsistentAgent #AgentTips #RealEstateTips
 
 ### YouTube Shorts
 **Title:** Five Calls Before 10 AM
 **Description:** Tomorrow morning. Five calls. Before 10 AM. That's the difference between committed and interested.
-**Hashtags:** #RealEstateAgent #DecemberHustle #AgentTips #RealEstateTips #CommitmentTest
+**Hashtags:** #RealEstateAgent #ConsistentAgent #AgentTips #RealEstateTips #CommitmentTest
 
 ### Facebook
 **Caption:** Tomorrow morning. Five calls. Before 10 AM. That's the difference between committed and interested.
-**Hashtags:** #RealEstateAgent #DecemberHustle #AgentTips #RealEstateTips #CommitmentTest #RealtorTips
+**Hashtags:** #RealEstateAgent #ConsistentAgent #AgentTips #RealEstateTips #CommitmentTest #RealtorTips
 
 ### LinkedIn
 **Caption:** Tomorrow morning. Five calls. Before 10 AM. That's the difference between committed and interested.
-**Hashtags:** #RealEstateAgent #DecemberHustle #AgentTips #RealEstate #ProfessionalDevelopment
+**Hashtags:** #RealEstateAgent #ConsistentAgent #AgentTips #RealEstate #ProfessionalDevelopment

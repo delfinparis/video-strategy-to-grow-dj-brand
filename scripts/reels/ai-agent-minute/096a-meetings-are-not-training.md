@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 If you're still coaching your agents on the same skill gaps you were coaching six months ago -- the problem isn't your agents. It's that you don't have actual training.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most team leaders run "training" as a weekly meeting where they talk and agents half-listen. That's not training. That's broadcasting.
 

@@ -13,9 +13,9 @@ ai_tool: "Claude"
 
 ## Script (Spoken)
 
-The more available you are for everyone, the less present you are for the clients who actually deserve your best. You accidentally trained people to treat your time as free.
+You accidentally trained your clients to treat your time as free. The more available you are for everyone, the less present you are for anyone.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's the fix. Ask Claude: "Write a warm, professional one-page document that sets clear response time standards, defines what's a real emergency versus what can wait, and explains how I work best. Make it feel like a system -- not a boundary."
 

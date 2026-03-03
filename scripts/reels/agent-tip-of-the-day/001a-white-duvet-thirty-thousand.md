@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 A white duvet in your trunk could be worth thirty thousand dollars.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Amanda Pendleton at Zillow analyzed millions of listings and found something wild: listings with white linens get 30% more engagement. Not better homes. Just whiter sheets. Ten bucks at Target. Five minutes before the photographer shows up. Swap out the floral comforter for crisp white. Suddenly the bedroom looks bigger, cleaner, more aspirational. Buyers scroll slower. They save. They book the showing.
 

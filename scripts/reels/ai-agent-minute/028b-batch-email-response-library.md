@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Batch your email to two windows -- ten AM and four PM. Nothing in between.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Then spend thirty minutes with Claude building your response library. Prompt: "Write twenty of my most common email responses -- client updates, offer acknowledgments, vendor coordination, meeting confirmations -- in a warm, professional tone that sounds like me."
 

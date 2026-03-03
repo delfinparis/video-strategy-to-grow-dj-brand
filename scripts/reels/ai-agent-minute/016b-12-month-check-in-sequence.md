@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to never lose a past client to silence again.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Tell Claude: "Write twelve monthly check-in messages for a past real estate client. Month one: a personalized move-in note. Month three: a home value update. Month six: a seasonal maintenance checklist. Month twelve: an anniversary message with a market update. Write all twelve in a warm, personal tone that sounds like me."
 

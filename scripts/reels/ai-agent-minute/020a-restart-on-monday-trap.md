@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 "I don't know what to post today." That thought has silenced more agent social media accounts than any algorithm ever has.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Post consistently for two weeks, run out of ideas, skip three days, feel guilty, skip a week, tell yourself you'll restart on Monday. Monday comes and goes. Six months later you're starting over from scratch -- again.
 

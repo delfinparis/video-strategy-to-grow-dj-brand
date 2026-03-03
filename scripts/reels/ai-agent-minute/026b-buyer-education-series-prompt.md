@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want buyers who actually write offers instead of disappearing? Build a five-part education series with Claude.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Prompt: "Write five brief buyer education pieces in plain English. Topics: how offers work, what inspections tell you, how to handle counteroffers, what happens between contract and closing, and what to expect on closing day."
 

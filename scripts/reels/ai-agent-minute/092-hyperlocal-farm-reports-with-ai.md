@@ -15,7 +15,7 @@ ai_tool: "Perplexity / Claude"
 
 Your farm mailers look exactly like every other agent's. That's exactly why they go straight in the trash.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Every homeowner in your farm gets three mailers a month -- same postcard, same generic stats, same stock photo. Nobody keeps them.
 

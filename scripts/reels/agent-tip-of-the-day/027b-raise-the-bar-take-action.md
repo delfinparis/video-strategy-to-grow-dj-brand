@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 If you've been watching part-timers ghost clients mid-transaction and tank your reputation by association -- this isn't controversial. It's overdue.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 The profession doesn't earn respect until it demands competence at the door.
 

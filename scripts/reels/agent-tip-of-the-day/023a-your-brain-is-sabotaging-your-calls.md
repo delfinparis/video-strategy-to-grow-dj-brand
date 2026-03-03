@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Your brain is sabotaging every follow-up call you don't make.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Performance coach Paul Salter says your subconscious runs on one job: keep you alive. Not happy. Not wealthy. Alive.
 

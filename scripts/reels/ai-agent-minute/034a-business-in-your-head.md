@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 If your business only works because of what's in your head -- you don't have a business. You have a job.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 You do everything from memory. Client onboarding, listing appointments, transaction coordination. It works fine -- until you try to hire help, delegate anything, or take a real vacation. Then everything falls apart.
 

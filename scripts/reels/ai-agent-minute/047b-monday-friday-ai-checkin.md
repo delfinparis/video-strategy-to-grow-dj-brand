@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Every Monday morning, open Claude and type your three commitments for the week -- specific, measurable, with a deadline.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Friday, come back and tell Claude exactly what you did. Prompt: "Give me honest, direct feedback on my follow-through this week and help me understand why I dropped the ball on anything I didn't complete."
 

@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 AI now knows which agents are about to leave your brokerage before you do.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 A tool called Corded scans production trends, social signals, and career patterns for every agent in your market -- then flags who's likely to move. It reads your recruiting website, learns what you offer, and writes the outreach email for each agent.
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Two days before any listing appointment, email the seller a pre-listing packet built with Claude.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Prompt: "Create a pre-listing packet with: my bio written as a compelling story not a credential list, comparable sales framing my pricing approach, three testimonials from similar sellers, a one-page marketing overview, and the five questions I'll ask during the appointment."
 

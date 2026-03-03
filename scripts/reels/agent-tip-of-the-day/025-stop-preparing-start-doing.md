@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You don't need another course. You need to stop preparing.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Connie Mahan went from restaurant management to REALTOR of the Year in Central Florida. Her advice: "Get in and do and the rest will figure itself out."
 

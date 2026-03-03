@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Your buyer didn't go cold after the third showing. They ran out of confidence -- because you never explained what happens after they find a house.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents spend all their time showing homes and zero time explaining inspections, counteroffers, or what closing day looks like. So buyers hit the offer stage and freeze.
 

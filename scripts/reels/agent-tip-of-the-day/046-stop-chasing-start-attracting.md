@@ -14,7 +14,7 @@ target_duration: "26 seconds"
 
 If you're still chasing clients, you've already lost.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Jay Cannone is top one percent in Fairfield County luxury. He stopped selling years ago. His rule: Marketing is attracting. Selling is convincing. When you market right, clients come pre-sold. They've seen your content. They trust your expertise. By the time they call, you're not pitching -- you're consulting. Think about your last five deals. How many came to you versus how many did you have to convince? That ratio is your real scorecard.
 

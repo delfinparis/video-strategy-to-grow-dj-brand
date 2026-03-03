@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Downsizing seniors are the most underserved clients in real estate. The agents who learn to serve them well have clients and referrals for the rest of their career.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 A senior leaving a home they've lived in for thirty years isn't a routine transaction. It's tied to estate planning, family dynamics, grief, sometimes medical considerations. Most agents treat it like any other listing and miss everything.
 

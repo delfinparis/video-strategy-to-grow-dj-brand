@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 New agents are spending thousands on Zillow leads while sitting on five hundred untapped contacts in their phone.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Half your sphere doesn't even know you're in real estate. And the agents who go broke in year one almost always made the same mistake -- they bought strangers while their sphere went quiet.
 

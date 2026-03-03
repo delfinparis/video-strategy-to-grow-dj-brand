@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Your tenth video will beat someone else's polished first one. Here's why you haven't made it to ten.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Kim Rittberg showed me one agent's progression. Video one: stiff, generic, "homes are selling fast." Video five: still awkward, but she mentioned a traffic pattern killing showings on Maple Street. Video twelve: she's walking a buyer through why that traffic creates opportunity three blocks over. Same person. Twelve reps. Video one, you're thinking "I should do this." Video twelve, you're thinking "I'm the only agent who's going to explain this."
 

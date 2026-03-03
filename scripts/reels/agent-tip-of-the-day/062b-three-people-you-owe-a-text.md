@@ -12,9 +12,9 @@ target_duration: "24 seconds"
 
 ## Script (Spoken)
 
-If you're avoiding your CRM, if follow-up feels like pulling teeth -- you're not broken. You're normal. Even the guy doing 100 deals a year hates it. The difference is he does it anyway. He built the system so it happens whether he feels like it or not.
+Follow-up feels like pulling teeth? You're not broken. You're normal. The agent doing 100 deals a year hates it too. Difference: they built a system so it happens whether they feel like it or not.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Open your CRM right now. Find three people you should've followed up with last month. Send them something. Anything. That's how fortunes get built. One uncomfortable text at a time.
 

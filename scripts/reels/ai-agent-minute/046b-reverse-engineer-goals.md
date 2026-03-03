@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Turn your wish into a math equation. Tell Claude your income goal and average commission.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Prompt: "Calculate exactly how many closed deals, active clients, appointments, and prospecting calls I need per month, per week, and per day to hit this number. Then build me a simple weekly scorecard I can fill out every Friday to see if I'm on pace."
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Ask Claude to help you build a competence inventory -- a running document of everything you actually know.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Type: "Help me create a document that tracks my growing real estate expertise so I can reference it when I doubt myself." Include every transaction you've supported, every training completed, every question you've answered correctly. Update it weekly.
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 A sixty-second video from a happy client sells your services better than anything you could ever say about yourself. Most agents never collect one.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 The ask feels awkward. The client doesn't know what to say. So the moment passes.
 

@@ -15,7 +15,7 @@ ai_tool: "Perplexity + Claude"
 
 Build a twenty-minute Monday morning market intelligence routine.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Perplexity for the top five real estate news stories from the past week -- national and local. Then give those to Claude and type: "Summarize each in two sentences and suggest how I'd explain each one to a client in plain language."
 

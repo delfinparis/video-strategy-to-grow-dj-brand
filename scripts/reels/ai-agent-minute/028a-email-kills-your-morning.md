@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 If you checked email first thing this morning, you already lost your most valuable hour.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 You opened your inbox, started reacting, ninety minutes disappeared, and by ten AM you hadn't prospected. Your day now belongs to everyone else's agenda.
 

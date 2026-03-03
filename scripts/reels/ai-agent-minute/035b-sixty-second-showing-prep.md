@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Before any showing, give Claude the property address and type: "Pull comparable sales within a quarter mile in the last ninety days with price per square foot, the price trend for this neighborhood over twelve months, any public records worth knowing, and two smart questions I should ask the listing agent."
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Sixty seconds. You walk in with context. Your buyer sees an expert who did their homework.
 

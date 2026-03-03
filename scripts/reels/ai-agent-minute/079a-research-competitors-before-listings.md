@@ -15,7 +15,7 @@ ai_tool: "Perplexity"
 
 You're walking into listing appointments without knowing who else is being interviewed. That's like playing poker without looking at your cards.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Sellers interview two or three agents. The ones who win know their competition -- recent production, online reviews, weaknesses. Most agents never look any of this up.
 

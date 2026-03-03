@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Instead of scrolling Instagram, try this. Open Claude and share your stats from twelve months ago versus today -- deals, income, database size, skills added.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Then type: "Write me a progress narrative -- a paragraph showing how far I've actually come, grounded in these real numbers."
 

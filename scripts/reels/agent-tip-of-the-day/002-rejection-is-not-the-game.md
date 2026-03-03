@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Your college roommate just bought a house. They didn't call you.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 That knot in your stomach? Bari Mill felt it too. She's now a $40 million producer in Chicago. Her team lead told her something that changed everything: stop obsessing over the three people who didn't hire you. Double down on the thirty who might. Those three had reasons you'll never understand. The thirty are watching to see if you quit or keep going.
 

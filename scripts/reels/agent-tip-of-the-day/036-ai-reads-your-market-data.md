@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Every agent has access to the same MLS data. But almost nobody knows how to actually use it.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tech analyst Chris Linsell says: feed ChatGPT your local sold comps, days on market, and price trends. Ask it: "What pattern am I missing?" Or: "Why are homes under 300K moving faster in this zip code?"
 

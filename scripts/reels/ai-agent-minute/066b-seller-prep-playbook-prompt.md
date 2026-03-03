@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Ask Claude to generate a Seller Prep Playbook for your market and price range.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Type: "Include the ten highest-ROI improvements before listing, a room-by-room decluttering checklist, what buyers in my market care most about right now, and the three most common mistakes sellers make that quietly reduce their final sale price."
 

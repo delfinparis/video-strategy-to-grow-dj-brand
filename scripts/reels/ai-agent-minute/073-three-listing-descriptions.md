@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Most listing descriptions are genuinely terrible. "Charming." "Cozy." "Move-in ready." "Nestled." Those cliches signal that nobody thought carefully about this particular home.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Give Claude the property's key features, the neighborhood, the ideal buyer, and one emotional selling point unique to this house. Type: "Write three versions of this listing description -- one aspirational, one feature-focused, one neighborhood-first. Each under two hundred words. Zero real estate cliches."
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to fix your Google Business Profile in one afternoon.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Give me a complete checklist for an optimized real estate agent Google Business profile -- including photo types, service categories, post frequency, and review response best practices."
 

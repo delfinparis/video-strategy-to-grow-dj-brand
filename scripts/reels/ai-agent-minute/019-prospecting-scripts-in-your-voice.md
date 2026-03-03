@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The reason most prospecting scripts feel fake is because they are. They were written for someone else -- and your clients can hear the gap.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's the fix. Tell Claude: "I'm a real estate agent. I tend to be warm and conversational. I call sphere contacts and my goal is to start a real conversation -- not close on the first call. Write me an opening sixty seconds that sounds like me talking naturally -- not a script. Give me three variations so I can find the one that fits."
 

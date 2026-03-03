@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to stop guessing with your marketing budget. Every quarter, bring Claude your available budget and business goals.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Type: "Allocate my budget across channels based on my production stage, target client type, and conversion history."
 

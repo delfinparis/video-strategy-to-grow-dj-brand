@@ -13,9 +13,9 @@ ai_tool: "Claude"
 
 ## Script (Spoken)
 
-If you can't explain your commission in sixty seconds without flinching -- you're going to lose it. Every time you stumble, the client hears one thing: even my agent doesn't believe they're worth it.
+Can't explain your commission without flinching? You're going to lose it. Every stumble tells the client: even my agent doesn't believe they're worth it.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's the fix. Tell Claude: "Help me build a confident two-minute value story for why my commission is worth every dollar. My average sale price is X, my days on market is Y, my list-to-sale ratio is Z. Write it so I can deliver it naturally -- not like a script."
 

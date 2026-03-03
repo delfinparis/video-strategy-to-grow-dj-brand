@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Your brokerage logo isn't closing deals. You are.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Chris Linsell, real estate tech strategist, said the quiet part out loud: Your clients do not care what brokerage you're part of. They remember who you are. Think about your last five closings. Did anyone choose you because of your broker's name? Or because you answered the phone, knew the neighborhood, and made them feel heard? The logo on your card is a placeholder. Your name is the brand.
 

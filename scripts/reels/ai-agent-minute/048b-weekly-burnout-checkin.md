@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Use Claude as a weekly mental check-in. Every Sunday, type: "I'm going to answer five questions about my week. Ask me: What drained my energy? What energized me? What am I avoiding? What do I resent? What would I change if I could?"
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Answer honestly. Then ask: "Summarize any patterns you see across four weeks."
 

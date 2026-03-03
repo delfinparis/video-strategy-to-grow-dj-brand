@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 A lead going quiet doesn't mean they're gone. It almost always means your last message gave them no reason to respond.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 "Just following up." "Wanted to check in." "Haven't heard from you." Every one of those messages says the same thing -- you need this deal more than they need you.
 

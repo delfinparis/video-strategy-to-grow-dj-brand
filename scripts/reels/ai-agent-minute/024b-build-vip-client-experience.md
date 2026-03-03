@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to keep your best clients referring you for life.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Design a twelve-month VIP experience for a past real estate client. Include quarterly check-ins, value-add touchpoints throughout the year, and milestone moments that make this person feel genuinely appreciated -- not marketed to. Keep it personal and specific."
 

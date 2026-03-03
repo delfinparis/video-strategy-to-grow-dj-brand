@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The most productive agents I've ever interviewed don't work harder than you. They stop better.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents end the day by just... stopping. No shutdown ritual. Thirty open loops running in your head -- the follow-up you forgot, the offer you need to prep. That mental load is why you can't sleep. And why you start tomorrow already behind.
 

@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Your client just texted: "Rates went up again. We're thinking of waiting." What do you say in the next sixty seconds?
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents either panic alongside the client, give a vague "rates always come down" answer, or launch into something that sounds Googled. None of those build confidence.
 

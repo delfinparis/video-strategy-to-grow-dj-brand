@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Most agents use AI the way they use Google -- one question, one answer, move on. That's the smallest version of what it can do.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 The agents getting the most from AI aren't using it for occasional tasks. They've made it a daily thinking partner -- for planning, call debriefs, strategy, skill practice, problem-solving.
 

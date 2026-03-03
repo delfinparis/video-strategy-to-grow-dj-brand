@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Your top agent just quit. Not because of splits -- because you dismissed their pricing concern in front of the team three weeks ago.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 An investor questioned your market analysis. You felt your authority challenged. Your chest tightened. You interrupted with data to prove you're right.
 

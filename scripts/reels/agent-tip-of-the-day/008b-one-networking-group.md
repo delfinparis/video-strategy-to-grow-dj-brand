@@ -14,7 +14,7 @@ target_duration: "22 seconds"
 
 You don't need a thousand leads. You need twenty people who trust you in ONE world. One group. One monthly meetup. One conversation that turns into four referrals.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tonight, Google your city plus an industry networking group. Find one meetup happening this month. RSVP before you go to bed. Show up. Don't pitch. Listen. That's how this starts.
 

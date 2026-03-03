@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The agents who prospect every morning without dreading it didn't develop a love for rejection. They built a system that makes showing up easier than skipping.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's the shift: stop defining success as booking an appointment. Define it as having three real conversations. That's it. Not appointments. Conversations.
 

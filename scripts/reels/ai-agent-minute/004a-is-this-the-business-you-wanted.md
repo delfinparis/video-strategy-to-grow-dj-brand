@@ -13,9 +13,9 @@ ai_tool: "Claude"
 
 ## Script (Spoken)
 
-You got into real estate for a reason. Is the business you've built actually delivering it -- or did you just get busy and stop asking?
+Is this the business you actually wanted? Or did you just get busy and stop asking?
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 The years go by. The hustle becomes habit. And somewhere in there, the original reason you started -- the freedom, the income, the control -- either arrived quietly or drifted away without being noticed.
 

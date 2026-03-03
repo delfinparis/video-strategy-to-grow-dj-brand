@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 The agents who work the most aren't the ones who earn the most. The ones who design their business around their life -- they stay in this game for decades without burning out.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Garrett mapped his ideal week first -- family dinners, gym, date nights -- then built his client systems around that. Fewer transactions. Higher income. Actual life outside real estate.
 

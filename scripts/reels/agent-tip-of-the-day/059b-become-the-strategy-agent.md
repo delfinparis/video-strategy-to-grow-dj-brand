@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 If working harder isn't working better, here's why. You've been optimizing for speed in a strategy game. The agents winning right now are the ones clients call before they call their lawyer.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 On your next deal, read every document the other agents won't. Board minutes. HOA financials. Pending assessments. Find the one thing nobody else caught. Then record a sixty-second video explaining it and post it. That's how you become the strategy agent.
 

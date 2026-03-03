@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Your most difficult client isn't testing your patience. They're testing your systems -- and most agents don't have one.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Difficult clients are almost always anxious, uninformed, or feeling out of control. Most agents respond by getting defensive, avoiding the conversation, or matching their energy.
 

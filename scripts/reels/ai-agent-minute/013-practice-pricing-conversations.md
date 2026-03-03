@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The most expensive conversation in real estate isn't about commission. It's about price -- and most agents are too afraid to have it.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 An agent overprices because they fear losing the listing. The house sits ninety days. Everyone loses.
 

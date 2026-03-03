@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to make AI actually sound like you.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Paste three to five examples of content you've written -- captions, emails, texts. Then tell Claude: "Analyze my writing style: tone, vocabulary, sentence length, and personality. Now write a post about this topic in that exact voice. Don't sound like AI. Sound like me."
 

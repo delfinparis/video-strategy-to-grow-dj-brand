@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You looked at another agent's Instagram today and felt bad about yourself. Every agent does it.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's what it's costing you. You're measuring your behind-the-scenes against their highlight reel. And the agents who scroll the most tend to produce the least. That's not a coincidence.
 

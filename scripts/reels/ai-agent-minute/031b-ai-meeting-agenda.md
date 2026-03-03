@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Before every team meeting, give Claude your team's weekly numbers, top three priorities, and open issues from last week.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Prompt: "Generate a forty-five minute meeting agenda with: a wins celebration segment, a metrics review, one focused training topic, decision items that need the whole team, and specific next actions for each person. Make it tight -- no filler."
 

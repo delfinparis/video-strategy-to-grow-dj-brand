@@ -13,9 +13,9 @@ ai_tool: "Claude"
 
 ## Script (Spoken)
 
-Your email list is one of the most valuable assets in your business -- and most agents send it one email a year at Christmas. You've been invisible for eleven months. That's why someone else gets the referral.
+One email a year. That's what your database got from you. Invisible for eleven months -- then you wonder why someone else gets the referral.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's how to make it take twenty minutes. Give Claude one local market stat, one seasonal home tip, one personal story, and a recent listing. Type: "Weave these into a five-paragraph email that feels like it came from a person -- conversational, warm, not a template."
 

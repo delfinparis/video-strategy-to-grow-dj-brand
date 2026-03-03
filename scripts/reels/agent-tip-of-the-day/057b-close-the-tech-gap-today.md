@@ -14,7 +14,7 @@ target_duration: "23 seconds"
 
 If your competition just got AI tools, automated follow-ups, and a marketing engine they didn't even pay for -- what are you doing to keep up?
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Here's what you do today. Open your CRM. If you don't have automated follow-up running for every lead, set up one sequence before tomorrow. Start with past clients who closed twelve or more months ago. Three emails, two weeks apart. That's the gap you close first. One sequence. Do it today.
 

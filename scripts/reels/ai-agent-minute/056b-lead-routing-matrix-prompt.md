@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Stop round-robining leads. Build a routing matrix instead.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Give Claude your lead types -- price range, buyer vs. seller, urgency, neighborhood, first-time vs. experienced. Then give it your agent profiles -- experience level, strengths, current workload, language capabilities.
 

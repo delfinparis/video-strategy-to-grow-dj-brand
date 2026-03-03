@@ -15,7 +15,7 @@ ai_tool: "Perplexity"
 
 Nothing damages your credibility faster than being the last person in the room to know about something happening in your own industry.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents stay informed by accident. They catch a headline on their phone. They hear something at an open house. That's not a system.
 

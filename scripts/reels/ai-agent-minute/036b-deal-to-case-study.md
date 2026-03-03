@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 After any complex deal, spend ten minutes talking into your phone: the situation, the challenge, what you did, the outcome for the client.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Paste it into Claude: "Turn this into a professional case study -- one paragraph each for the challenge, my approach, and the result. Add a placeholder for a client quote. Keep it under two hundred fifty words."
 

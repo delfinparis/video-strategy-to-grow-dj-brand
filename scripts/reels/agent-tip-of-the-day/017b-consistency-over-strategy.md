@@ -12,9 +12,9 @@ target_duration: "24 seconds"
 
 ## Script (Spoken)
 
-Your database doesn't trust you because you haven't been consistent long enough. Your sphere doesn't refer you because they don't know what you actually do anymore. You've been everywhere, so you're nowhere in their mind.
+Your sphere doesn't refer you. Not because they don't like you -- because they forgot what you do. You've been everywhere, so you're nowhere.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tonight, text three past clients: "Hey, been thinking about you. How's [something specific you remember]? Let's grab coffee soon." Send it. That's day one of your 18-month commitment. Tomorrow, three more. Start the clock.
 

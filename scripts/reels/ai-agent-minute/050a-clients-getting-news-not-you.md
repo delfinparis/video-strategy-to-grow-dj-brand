@@ -13,9 +13,9 @@ ai_tool: "Claude / Perplexity"
 
 ## Script (Spoken)
 
-If your clients are getting market information from the news instead of from you -- you've already lost your position as their trusted advisor.
+Your clients are getting market info from the news. Not from you. You've already lost.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Right now your past clients are reading Zillow headlines and watching cable news about housing -- content that's alarmist, out of context, and irrelevant to your specific neighborhood. They're forming opinions without you.
 

@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Your listing descriptions are costing you days on market.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 While you're copy-pasting "spacious kitchen" and "abundant natural light," agents using AI are selling faster. D.J. Paris fed his condo's details into an AI tool. Thirty seconds later he had copy that was emotionally resonant and specific. Result? Sold in two days.
 

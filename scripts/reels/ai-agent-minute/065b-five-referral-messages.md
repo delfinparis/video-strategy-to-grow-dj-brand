@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Ask Claude to write five different referral request messages: right after closing, the six-month check-in, the one-year anniversary, a casual text version, and a social media post the client could share.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 For each one type: "Be specific about who I'm trying to help, make it easy for the client to take action, and feel personal -- not like a mass message."
 

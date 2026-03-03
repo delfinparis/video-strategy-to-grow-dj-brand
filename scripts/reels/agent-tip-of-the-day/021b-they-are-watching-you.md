@@ -14,7 +14,7 @@ target_duration: "22 seconds"
 
 You think nobody's noticing your marketing. They are. They're just not ready yet.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Every postcard, every email, every video -- it's a deposit. And the people worth working with? They're counting.
 

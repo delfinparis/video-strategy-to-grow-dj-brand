@@ -14,7 +14,7 @@ target_duration: "23 seconds"
 
 The bottleneck isn't ideas. You have plenty of those. The bottleneck is turning the chaos in your head into something you can actually send.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Try this today. Record a two-minute voice memo about your last client interaction. Transcribe it. Ask AI to organize your thoughts -- not rewrite them. You stay human. You just get clearer, faster. That's the unlock.
 

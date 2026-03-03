@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Answer four questions honestly: What specific type of agent is your team designed to help? What do they gain that they genuinely can't get elsewhere? What's the career trajectory for someone who joins and excels? What does your culture feel like on an average Tuesday -- not your best day?
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Give Claude your answers and ask: "Turn these into a differentiated recruiting pitch that attracts the right agents and naturally filters out the wrong ones."
 

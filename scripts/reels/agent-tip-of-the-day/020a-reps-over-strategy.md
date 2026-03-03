@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 The agent who closed four deals last month isn't smarter than you. They just made forty-seven calls while you were rewriting your bio.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Kristee Leonard -- $50 million producer in Austin -- doesn't win on strategy. She wins on reps. While you're researching the perfect CRM, she's texting twenty past clients. While you're planning your content calendar, she's recording neighborhood tours on her iPhone. While you're at a networking mixer, she's sending handwritten notes to her last ten closings.
 

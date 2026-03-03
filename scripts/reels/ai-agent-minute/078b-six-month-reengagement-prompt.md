@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want to revive dead leads tonight? Give Claude a lead's info -- area of interest, price range, when they first reached out.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Then type: "Write a six-touch, six-month re-engagement sequence. Each message provides real value -- a neighborhood update, a market insight, a useful tip. No message should ask if they're still looking."
 

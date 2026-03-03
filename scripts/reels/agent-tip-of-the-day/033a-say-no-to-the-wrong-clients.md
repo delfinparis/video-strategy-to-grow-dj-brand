@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 The clients you say no to will make you more money than the ones you say yes to.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Jill Preschel has done over two billion in luxury transactions in NYC. A buyer walks in -- eight million liquid, needs to close in 30 days. Every agent is salivating. But Jill asks: is this person actually ready?
 

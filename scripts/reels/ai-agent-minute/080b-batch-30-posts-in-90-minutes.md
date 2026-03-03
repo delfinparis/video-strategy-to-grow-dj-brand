@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want a month of social media done in one sitting? Once a month, sit down with Claude for ninety minutes.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Type: "I'm a real estate agent. My five content themes are [list them]. My audience is buyers and sellers in [your market]. Generate thirty post ideas with a hook, body copy, and a CTA for each."
 

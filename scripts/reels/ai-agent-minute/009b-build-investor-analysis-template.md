@@ -15,7 +15,7 @@ ai_tool: "Claude + Perplexity"
 
 Want to win every investor client? Build this once.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Build me a reusable investment property analysis template that calculates projected gross rent, vacancy allowance, operating expenses, net operating income, cap rate, and estimated cash-on-cash return."
 

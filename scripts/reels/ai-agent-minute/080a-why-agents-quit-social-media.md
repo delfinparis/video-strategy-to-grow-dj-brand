@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 The reason most agents quit social media after three weeks? They're creating content one post at a time.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's the loop. Sit down, figure out what to post, stare at a blank screen for twenty minutes, produce something mediocre, hate it, skip tomorrow, skip the next day, abandon the whole thing.
 

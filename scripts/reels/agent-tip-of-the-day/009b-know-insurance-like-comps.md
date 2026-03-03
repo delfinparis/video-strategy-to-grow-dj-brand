@@ -12,9 +12,9 @@ target_duration: "22 seconds"
 
 ## Script (Spoken)
 
-You can't just be a real estate agent anymore. You need to know insurance like you know comps. You need carriers who'll actually write policies. You need to set expectations before the offer, not after.
+Know insurance like you know comps. If you can't name three carriers who'll write policies in your market, you're losing deals you don't even know about.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Call three insurance brokers this week. Ask what's actually insurable in your market right now. If you're not having this conversation before escrow, your competition is.
 

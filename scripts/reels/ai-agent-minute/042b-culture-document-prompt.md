@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Ask Claude to help you write a real team culture document -- not a mission statement, a working document.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Prompt: "Help me write a team culture document defining: behaviors we celebrate and reward, behaviors that aren't acceptable, how conflicts get resolved, how decisions get made, communication norms, and what success actually means here."
 

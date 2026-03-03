@@ -14,7 +14,7 @@ target_duration: "24 seconds"
 
 If you're waiting to feel confident, you've got it backwards. Confidence doesn't create action. Action creates confidence. The agent who makes fifty awkward calls will always outperform the one who rehearses the perfect pitch.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tomorrow morning at 9 AM -- not "when you feel ready" -- pull up your MLS. Find three expired listings from the last thirty days. Call them. Say: "Hi, I saw your home didn't sell. I'd love five minutes to tell you what I'd do differently." Three calls. Go.
 

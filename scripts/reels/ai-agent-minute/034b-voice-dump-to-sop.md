@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Pick one process. Your listing appointment workflow. Do a voice brain dump into your phone -- everything you do, in order, from confirming the appointment to after you leave.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Paste it into Claude: "Turn this into a clean step-by-step SOP with a checklist I can hand to an assistant or follow myself."
 

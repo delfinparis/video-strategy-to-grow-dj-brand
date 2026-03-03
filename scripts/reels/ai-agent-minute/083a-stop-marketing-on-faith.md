@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Most agents spend money on marketing the same way people spend on gym memberships -- optimistically, and without ever tracking whether it's working.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Without a system for tracking ROI, you have no idea what's actually producing. You keep spending because you "feel like" it's working. That's thousands of dollars wasted every year on lead sources that never pay back.
 

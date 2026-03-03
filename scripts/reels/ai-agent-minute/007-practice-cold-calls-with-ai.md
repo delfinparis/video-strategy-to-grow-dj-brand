@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You've memorized your cold call script -- so why does it fall apart the second someone pushes back? Because memorizing is not the same as practicing.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Open Claude and type: "Act as a skeptical FSBO owner who's had three bad experiences with real estate agents. I'm about to cold call you. Push back hard and stay in character."
 

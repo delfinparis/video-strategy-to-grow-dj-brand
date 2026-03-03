@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 One strong relationship with the right divorce attorney generates five to ten deals a year. In any market.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Ask Claude: "Draft a divorce attorney outreach package -- a professional introduction letter explaining my experience with emotionally complex transactions, a one-page overview of how I handle divorce sales including dual dynamics and court-ordered timelines, and three anonymized case study summaries."
 

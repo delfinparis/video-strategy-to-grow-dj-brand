@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Before any appraisal is scheduled, give your buyer a brief scenarios guide built with Claude.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Prompt: "Write a plain-English guide for a buyer covering: what an appraisal actually measures, what happens at value, above value, and below value, and the three paths forward if it comes in low -- renegotiate price, cover the gap, or walk away. Make it calm and clear, not alarmist."
 

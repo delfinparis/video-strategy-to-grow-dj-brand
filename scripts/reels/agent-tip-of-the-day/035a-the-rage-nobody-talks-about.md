@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 The rage is what keeps you going. And it's killing you.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Author Marisa Kashino described a character with "this constantly simmering rage" from trying to be perfect. And I realized -- she's talking about us.
 

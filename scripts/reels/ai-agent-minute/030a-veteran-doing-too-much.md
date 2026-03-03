@@ -13,9 +13,9 @@ ai_tool: "Claude"
 
 ## Script (Spoken)
 
-After a decade in real estate, most veteran agents aren't doing too little. They're exhausted by doing too much of the wrong things.
+Ten years in and exhausted? You're not doing too little. You're doing too much of the wrong things.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 A Zillow campaign from 2019 that stopped producing. Three networking events you attend out of guilt. A monthly newsletter that takes four hours and generates zero calls. None of it gets audited -- it just runs on autopilot while you get more tired.
 

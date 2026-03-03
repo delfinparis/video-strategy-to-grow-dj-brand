@@ -14,7 +14,7 @@ target_duration: "26 seconds"
 
 Your clients don't actually understand what they bought.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Karina Chavez -- top one percent in Albuquerque -- watched the 2008 crash destroy families who didn't understand their loans. So now she prints every document. Goes page by page. Fixed rate, taxes, insurance, everything. Not because she's a loan officer. Because she learned your job isn't done at closing. If your clients can't explain their mortgage to their kids, you're leaving them vulnerable. And that's on you.
 

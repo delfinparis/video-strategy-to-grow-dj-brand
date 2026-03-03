@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Twenty percent of your past clients are responsible for eighty percent of your referrals. These are the people who talk about you at dinner parties and send you friends without being asked.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 If you serve them at the same level as every other transaction, you're leaving most of your referral business on the table.
 

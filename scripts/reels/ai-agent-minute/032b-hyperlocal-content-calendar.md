@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 Use Perplexity to research your target neighborhoods -- new restaurants, school rating changes, upcoming development, walkability trends, micro-market stats nobody else is covering.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Then bring it into Claude: "Build me a sixty-day hyperlocal content calendar using this research. Every post should position me as someone who actually lives and breathes this neighborhood -- not just sells houses in it."
 

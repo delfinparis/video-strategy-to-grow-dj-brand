@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 "John has been helping buyers and sellers in the greater metro area for fifteen years with a commitment to excellence and client satisfaction." Nobody reads past that first sentence.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 It says nothing about who John is, who he's best at helping, or why anyone would pick him over any other agent.
 

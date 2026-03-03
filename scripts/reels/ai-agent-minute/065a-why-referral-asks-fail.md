@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You have dozens of happy past clients who would refer you in a heartbeat -- if you just asked the right way.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 "Do you know anyone looking to buy or sell?" lands like a sales pitch. The client feels put on the spot, says "I'll keep you in mind," and forgets about it by the time they park the car.
 

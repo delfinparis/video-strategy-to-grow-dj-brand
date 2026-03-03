@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 The agents doing fifty million a year don't have difficult clients.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Kristee Leonard told me: "It's an honor to be chosen by clients, and I treat them like they're an honor." So when a client texts at 9 PM? That's not an interruption. That's someone who trusted her with the biggest financial decision of their life. When someone asks to see a property three times? That's not annoying. That's someone making sure they get it right. When you treat being chosen as an honor, you stop resenting the work. And they feel it.
 

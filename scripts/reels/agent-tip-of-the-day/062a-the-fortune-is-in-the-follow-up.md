@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 The guy closing 100 deals a year just admitted what he hates most about his job.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Eithan Davidov runs one of the top teams in Queens. When I asked what separates closers from everyone else, he didn't say prospecting or negotiation. He said: "The fortune is in the follow-up. And as much as I wish it wasn't, it's the hardest part." Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready. That's where deals live or die.
 

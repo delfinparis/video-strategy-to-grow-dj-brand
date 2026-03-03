@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 You're about to send that lowball offer. AI just stopped you from killing the deal.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Tim Burrell -- top producer in Raleigh -- runs every offer through AI first. Feed it the situation: their motivation, your client's position, the offer amount. Ask for the three most probable responses. Anchoring works -- start lower, you'll end lower. But go insultingly low and they'll make you apologize your way back up. AI shows you where that line is before you cross it.
 

@@ -13,9 +13,9 @@ ai_tool: "Claude (voice-to-text)"
 
 ## Script (Spoken)
 
-Your CRM is only as good as the notes you put in it. And most agents put in almost nothing. Six months later, you're starting from zero with a lead you already paid for.
+Six months from now, you'll stare at a lead in your CRM with zero context. Because your notes say nothing. That's a lead you already paid for.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Here's the ninety-second fix. Right after any call or showing, record a sixty-second voice memo -- what they said, what they care about, where they are in the process. Paste it into Claude and type: "Reformat this into clean CRM notes with a summary, next action, and follow-up date."
 

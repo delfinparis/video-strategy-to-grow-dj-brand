@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Culture isn't what's on your website. It's what happens on your team on a Tuesday afternoon when no deal is closing and the mood is low.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most team leaders talk about culture in recruiting but never define it. So culture by default is whoever's having the worst day. An agent struggling sets the tone. Conflicts go unresolved. New agents don't know what's expected.
 

@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Want to stop losing new agents in the first ninety days? Ask Claude: "Build me a ninety-day agent onboarding program."
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Include week-by-week training milestones, a system-by-system resource checklist, a mentor pairing structure, weekly manager check-in questions, and specific metrics that define a successfully onboarded agent.
 

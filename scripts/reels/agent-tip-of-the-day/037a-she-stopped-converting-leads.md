@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Most agents are converting leads. Sarah Meslowski stopped converting them entirely.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 She's top 1% in Metro Atlanta. 85% of her business comes from YouTube. She makes videos answering the exact questions buyers are already searching -- best neighborhoods, school districts, what to know before moving.
 

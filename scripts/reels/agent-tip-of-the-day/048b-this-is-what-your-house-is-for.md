@@ -14,7 +14,7 @@ target_duration: "25 seconds"
 
 One of Karina Chavez's clients called her years after closing, panicking about a medical crisis. Karina reminded her: "This is what your house is for. This is what all the sacrifices have been for." Equity. Security. A way forward.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 You're not selling houses. You're selling the thing that catches people when they fall. But only if they understand what they own. That's the difference between a transaction and a relationship that lasts decades.
 

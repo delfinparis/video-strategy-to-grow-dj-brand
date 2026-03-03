@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Seventy percent of buyers say they'd use their agent again. Only eleven percent actually do. That gap isn't disloyalty. It's silence.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 After most closings, you send a thank-you note, maybe a gift, then you disappear. Six months later, their neighbor asks for a realtor -- and they can't remember your last name.
 

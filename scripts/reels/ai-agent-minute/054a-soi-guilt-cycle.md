@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's what "staying in touch" looks like for most agents. You think about calling someone. You don't call. You feel guilty. You avoid thinking about it again.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Meanwhile, another agent has been showing up in that person's inbox, their feed, and their mailbox every single month. When that person's friend asks for a realtor -- they give the other agent's name.
 

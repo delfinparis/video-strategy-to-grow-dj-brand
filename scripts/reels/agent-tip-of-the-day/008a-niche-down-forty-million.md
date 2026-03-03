@@ -14,7 +14,7 @@ target_duration: "27 seconds"
 
 Most agents chase everyone. The ones closing $40 million? They do the opposite.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Bari Mill went from teacher to top Chicago producer in six years by working narrower, not harder. She picked finance professionals. Joined one networking group. Showed up every month. Didn't pitch. Just listened. After three months, one guy asked if she knew real estate. She helped him buy a condo. He introduced her to four colleagues. Within a year, she became THE agent for that world.
 

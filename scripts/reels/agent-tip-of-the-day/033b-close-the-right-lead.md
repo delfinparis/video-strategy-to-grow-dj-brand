@@ -14,7 +14,7 @@ target_duration: "22 seconds"
 
 Most agents think their job is to close every lead. Top producers know their job is to close the right lead.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 The ones who say no to the wrong clients get invited to the tables where the right ones sit.
 

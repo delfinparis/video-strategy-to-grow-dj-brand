@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to replace meetings with real training. Pick your three most-coached skill gaps -- objection handling, listing presentations, buyer consultations.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 For each one, ask Claude: "Build a structured learning module that includes a one-page written framework the agent keeps, five roleplay scenarios with varying difficulty, three self-assessment questions, and one practical assignment to complete before the next meeting."
 

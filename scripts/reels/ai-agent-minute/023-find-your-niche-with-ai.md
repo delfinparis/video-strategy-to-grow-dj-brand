@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 "I work with all buyers and sellers in the greater metro area." That is the most forgettable sentence in real estate marketing.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 When you try to serve everyone, you're memorable to no one. A niche doesn't shrink your market -- it sharpens your message so the right people find you faster.
 

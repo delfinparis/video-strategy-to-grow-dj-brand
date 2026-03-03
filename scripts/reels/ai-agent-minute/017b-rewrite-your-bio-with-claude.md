@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Here's how to rewrite your bio so people actually want to call you.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Answer four questions honestly: Why did you get into real estate? What do you love about this work? Who do you serve best -- and why are you better for them than anyone else? What's one thing you believe about real estate most agents would disagree with?
 

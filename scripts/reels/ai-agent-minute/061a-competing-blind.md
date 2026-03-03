@@ -15,7 +15,7 @@ ai_tool: "Perplexity"
 
 You're competing against agents you've never even looked up. In a market this competitive, that's a real problem.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents have only a vague sense of who their real competition is. They know the obvious names but have never studied their messaging, their reviews, or their production. You cannot differentiate yourself from competition you haven't studied.
 

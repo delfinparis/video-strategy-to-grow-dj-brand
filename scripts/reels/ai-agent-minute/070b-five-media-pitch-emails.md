@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 Ask Claude: "Draft five targeted media pitch emails positioning me as a local real estate expert source -- one for a newspaper real estate section, one for a housing podcast, one for a local lifestyle blog, one for a neighborhood newsletter, and one for a radio money segment."
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Each pitch should offer a specific, timely angle. Not "I'm a great agent" -- "here's the take I can give you on the rate environment right now."
 

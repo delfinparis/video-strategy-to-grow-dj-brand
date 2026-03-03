@@ -15,7 +15,7 @@ ai_tool: "Claude / Perplexity"
 
 National real estate content competes with everyone. Hyperlocal content competes with almost no one. That gap is your entire opportunity.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Most agents post about mortgage rates and general buying tips -- and it blends into thousands of identical posts from agents nationwide. There's no reason for anyone in your market to follow you over a thousand other agents saying the exact same thing.
 

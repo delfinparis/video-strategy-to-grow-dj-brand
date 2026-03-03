@@ -14,11 +14,11 @@ target_duration: "27 seconds"
 
 While your competition is posting "Out of Office," you're about to lap them.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
-Mindset coach Paul Salter calls December "Separation Season." While everyone tells themselves they'll get serious in January, you're building a gap they can't close. Five focused weeks now is worth three months of catching up later. That's not motivation. That's math.
+Mindset coach Paul Salter coined the term "Separation Season" — any stretch where your competition gets comfortable and you don't. While they tell themselves they'll ramp up later, you're building a gap they can't close. Five focused weeks now is worth three months of catching up later. That's not motivation. That's math.
 
-Text three past clients right now: "Hey, thinking of you this season. Coffee on me this week?" Send it before this video ends.
+Text three past clients right now: "Hey, thinking of you. Coffee on me this week?" Send it before this video ends.
 
 
 See you next time.
@@ -27,22 +27,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** While they coast, you separate. December is your secret weapon.
+**Caption:** While they coast, you separate. That moment of comfort is your secret weapon.
 **Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #MindsetCoach #RealEstateMindset #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
 
 ### TikTok
-**Caption:** While they coast, you separate. December is your secret weapon.
+**Caption:** While they coast, you separate. That moment of comfort is your secret weapon.
 **Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #MindsetCoach
 
 ### YouTube Shorts
 **Title:** Separation Season
-**Description:** While they coast, you separate. December is your secret weapon.
+**Description:** While they coast, you separate. That moment of comfort is your secret weapon.
 **Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #MindsetCoach #RealEstateMindset
 
 ### Facebook
-**Caption:** While they coast, you separate. December is your secret weapon.
+**Caption:** While they coast, you separate. That moment of comfort is your secret weapon.
 **Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #MindsetCoach #RealEstateMindset #RealtorTips
 
 ### LinkedIn
-**Caption:** While they coast, you separate. December is your secret weapon.
+**Caption:** While they coast, you separate. That moment of comfort is your secret weapon.
 **Hashtags:** #SeparationSeason #RealEstateAgent #TopProducer #RealEstate #ProfessionalDevelopment

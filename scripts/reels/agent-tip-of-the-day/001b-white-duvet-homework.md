@@ -12,9 +12,9 @@ target_duration: "22 seconds"
 
 ## Script (Spoken)
 
-You're already staging the kitchen counters. You're already telling sellers to hide the family photos. But nobody's keeping white duvets in their trunk yet. Which means you get the advantage right now.
+You're staging counters. Hiding family photos. But nobody's keeping white duvets in their trunk. That's your advantage.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your Agent Tip of the Day.
+*[Agent Tip of the Day bumper]*
 
 Buy two this week. Keep them in your car. Use them on your next three listings. Then tell me if your engagement numbers don't change.
 

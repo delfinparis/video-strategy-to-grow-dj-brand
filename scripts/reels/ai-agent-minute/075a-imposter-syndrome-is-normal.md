@@ -15,7 +15,7 @@ ai_tool: "Claude"
 
 You feel like a fraud. So did every top producer I've ever interviewed when they were starting out.
 
-This is D.J. with Keeping It Real Podcast and Kale Realty, and this is your AI Agent Minute.
+*[AI Agent Minute bumper]*
 
 Imposter syndrome isn't a personality flaw. It's a mismatch between the standards you hold yourself to and the evidence you currently have that you meet them. You studied months for a license. Now you're advising people on the biggest financial decision of their lives. That gap feels enormous.
 
