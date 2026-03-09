@@ -12,14 +12,15 @@ target_duration: "22 seconds"
 
 ## Script (Spoken)
 
-You think nobody's noticing your marketing. They are. They're just not ready yet.
+You've been posting, mailing, emailing — and nobody's responding. So you're thinking about quitting. That's the worst move you could make right now.
 
 *[Agent Tip of the Day bumper]*
 
-Every postcard, every email, every video -- it's a deposit. And the people worth working with? They're counting.
+Jay Cannone has been in luxury real estate for 40 years. He told me a seller watched his postcards for ten straight months without calling. Ten months. She was testing whether he'd quit. He didn't — and she listed her home with him because of it.
 
-So what marketing did you quit on at month nine?
+Here's what to do: Think of one marketing channel you gave up on — postcards, video, email, whatever. Restart it today. Commit to 30 days. No checking results, no second-guessing. Just show up.
 
+The people worth working with are watching and counting your consistency. When they're finally ready, you'll be the only agent who didn't disappear.
 
 See you next time.
 ---
@@ -27,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Your audience is watching even when they're not responding. Don't quit before the payoff.
+**Caption:** A seller watched Jay Cannone's postcards for 10 months without calling. She was testing if he'd quit. He didn't. She listed with him. What marketing did you give up on too early?
 **Hashtags:** #RealEstateMarketing #MarketingConsistency #AgentLife #NeverQuit #RealEstateTips #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
 
 ### TikTok
-**Caption:** Your audience is watching even when they're not responding. Don't quit before the payoff.
+**Caption:** She watched his postcards for 10 months. Never called. She was testing if he'd quit. He didn't.
 **Hashtags:** #RealEstateMarketing #MarketingConsistency #AgentLife #NeverQuit
 
 ### YouTube Shorts
 **Title:** They Are Watching You
-**Description:** Your audience is watching even when they're not responding. Don't quit before the payoff.
+**Description:** A seller watched Jay Cannone's postcards for 10 months without calling. She was testing if he'd quit. He didn't. She listed with him. What marketing did you give up on too early?
 **Hashtags:** #RealEstateMarketing #MarketingConsistency #AgentLife #NeverQuit #RealEstateTips
 
 ### Facebook
-**Caption:** Your audience is watching even when they're not responding. Don't quit before the payoff.
+**Caption:** A seller watched Jay Cannone's postcards for 10 months without calling. She was testing if he'd quit. He didn't. She listed with him. What marketing did you give up on too early?
 **Hashtags:** #RealEstateMarketing #MarketingConsistency #AgentLife #NeverQuit #RealEstateTips #RealtorTips
 
 ### LinkedIn
-**Caption:** Your audience is watching even when they're not responding. Don't quit before the payoff.
+**Caption:** A seller watched Jay Cannone's postcards for 10 months without calling. She was testing if he'd quit. He didn't. She listed with him. What marketing did you give up on too early?
 **Hashtags:** #RealEstateMarketing #MarketingConsistency #AgentLife #RealEstate #ProfessionalDevelopment

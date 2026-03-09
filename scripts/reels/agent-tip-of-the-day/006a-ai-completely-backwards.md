@@ -12,14 +12,15 @@ target_duration: "25 seconds"
 
 ## Script (Spoken)
 
-You're using AI completely backwards.
+Most agents use ChatGPT to write their emails and posts. And it sounds like a robot wrote it. Your clients can tell. Your leads can tell. Everyone can tell.
 
 *[Agent Tip of the Day bumper]*
 
-Most agents ask ChatGPT to write their emails and posts. And it sounds like a robot wrote it. Eithan Davidov closes over 100 deals a year in Queens. His rule: "I use AI to clean up my thoughts instead of generate them."
+Eithan Davidov closes over 100 deals a year in Queens. He uses AI completely differently. His rule: "I never ask AI to write for me. I ask it to clean up what I already said."
 
-Voice memo after a listing appointment -- messy, incomplete thoughts. Dump it into AI. Ask it to organize, not create. What comes back is YOUR voice. Just structured.
+Here's exactly what to do: After your next listing appointment or client call, pull out your phone. Record a two-minute voice memo — just ramble about what happened, what the client needs, what you want to say in the follow-up. Then drop that transcription into ChatGPT and say: "Organize my thoughts into a follow-up email. Keep my voice. Don't add anything I didn't say."
 
+What you'll get back sounds like you — because it is you. Just clearer. Your clients will actually respond because it doesn't read like every other agent's AI-generated template.
 
 See you next time.
 ---
@@ -27,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Caption:** Your AI emails sound robotic because you're asking it to write for you. Eithan Davidov closes 100+ deals/year doing it differently: record a voice memo, transcribe, ask AI to organize — not generate. What comes back sounds like you.
 **Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #ChatGPT #RealEstateAgent #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer #RealEstateCoaching
 
 ### TikTok
-**Caption:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Caption:** Your AI emails sound robotic. 100+ deal/year agent does it completely differently.
 **Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #ChatGPT
 
 ### YouTube Shorts
 **Title:** You're Using AI Completely Backwards
-**Description:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Description:** Your AI emails sound robotic because you're asking it to write for you. Eithan Davidov closes 100+ deals/year doing it differently: record a voice memo, transcribe, ask AI to organize — not generate. What comes back sounds like you.
 **Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #ChatGPT #RealEstateAgent
 
 ### Facebook
-**Caption:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Caption:** Your AI emails sound robotic because you're asking it to write for you. Eithan Davidov closes 100+ deals/year doing it differently: record a voice memo, transcribe, ask AI to organize — not generate. What comes back sounds like you.
 **Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #ChatGPT #RealEstateAgent #AgentTipOfTheDay
 
 ### LinkedIn
-**Caption:** Stop asking AI to write FOR you. Ask it to organize what's already in your head.
+**Caption:** Your AI emails sound robotic because you're asking it to write for you. Eithan Davidov closes 100+ deals/year doing it differently: record a voice memo, transcribe, ask AI to organize — not generate. What comes back sounds like you.
 **Hashtags:** #AIforRealtors #RealEstateProductivity #RealtorTips #RealEstate #ProfessionalDevelopment

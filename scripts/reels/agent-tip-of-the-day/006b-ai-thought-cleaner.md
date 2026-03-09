@@ -12,12 +12,15 @@ target_duration: "23 seconds"
 
 ## Script (Spoken)
 
-The bottleneck isn't ideas. You have plenty of those. The bottleneck is turning the chaos in your head into something you can actually send.
+You know what you want to say to your clients. The problem is it takes you 45 minutes to get it out of your head and into an email. So you either send nothing — or you let AI write something generic that doesn't sound like you.
 
 *[Agent Tip of the Day bumper]*
 
-Try this today. Record a two-minute voice memo about your last client interaction. Transcribe it. Ask AI to organize your thoughts -- not rewrite them. You stay human. You just get clearer, faster. That's the unlock.
+Eithan Davidov — over 100 deals a year — told me his trick: "Record it, transcribe it, let AI organize it." That's it. He never starts from a blank screen.
 
+Try this right now: Think of one client you owe a follow-up. Record a voice memo — just talk for 60 seconds about what they need and what you'd tell them over coffee. Transcribe it. Paste it into ChatGPT and say: "Turn this into a short email. Keep my exact words. Just organize them."
+
+You'll have a follow-up email that sounds like you wrote it — because you did — and it took three minutes instead of 45. That client hears from you today instead of never.
 
 See you next time.
 ---
@@ -25,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Your ideas aren't the problem. The chaos is. Here's how to fix it in 90 seconds with AI.
+**Caption:** It takes you 45 minutes to write a follow-up email. Or you send nothing. Eithan Davidov's trick: record 60 seconds, transcribe, let AI organize. 3 minutes. Sounds like you. Client hears from you today.
 **Hashtags:** #AIforRealtors #ProductivityHack #RealtorLife #RealEstateTech #VoiceMemo #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
 
 ### TikTok
-**Caption:** Your ideas aren't the problem. The chaos is.
+**Caption:** 45 minutes to write an email? Or just send nothing? Here's the 3-minute fix.
 **Hashtags:** #AIforRealtors #ProductivityHack #RealtorLife #RealEstateTech
 
 ### YouTube Shorts
 **Title:** AI as a Thought Cleaner
-**Description:** Your ideas aren't the problem. The chaos is. Here's how to fix it in 90 seconds with AI.
+**Description:** It takes you 45 minutes to write a follow-up email. Or you send nothing. Eithan Davidov's trick: record 60 seconds, transcribe, let AI organize. 3 minutes. Sounds like you. Client hears from you today.
 **Hashtags:** #AIforRealtors #ProductivityHack #RealtorLife #RealEstateTech #VoiceMemo
 
 ### Facebook
-**Caption:** Your ideas aren't the problem. The chaos is. Here's how to fix it in 90 seconds with AI.
+**Caption:** It takes you 45 minutes to write a follow-up email. Or you send nothing. Eithan Davidov's trick: record 60 seconds, transcribe, let AI organize. 3 minutes. Sounds like you. Client hears from you today.
 **Hashtags:** #AIforRealtors #ProductivityHack #RealtorLife #RealEstateTech #VoiceMemo #RealtorTips
 
 ### LinkedIn
-**Caption:** Your ideas aren't the problem. The chaos is. Here's how to fix it in 90 seconds with AI.
+**Caption:** It takes you 45 minutes to write a follow-up email. Or you send nothing. Eithan Davidov's trick: record 60 seconds, transcribe, let AI organize. 3 minutes. Sounds like you. Client hears from you today.
 **Hashtags:** #AIforRealtors #ProductivityHack #RealtorLife #RealEstate #ProfessionalDevelopment

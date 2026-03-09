@@ -12,14 +12,15 @@ target_duration: "24 seconds"
 
 ## Script (Spoken)
 
-You can be the top producer in your market and still be failing at the life you actually want.
+You're working 60-hour weeks, closing deals, and still feel like you're falling behind. The problem isn't effort — it's that you're building someone else's version of success.
 
 *[Agent Tip of the Day bumper]*
 
-The breakthrough isn't doing more. It's getting clear on what you're building toward and having the guts to cut what doesn't fit.
+Garrett Maroon was top 1% in Virginia. Then he fired 60% of his database. Dropped from 47 deals to 32 — and made more money per transaction. His rule: "If a client drains you and gives nothing back, they're costing you the deals that actually matter."
 
-Tonight: open your client list. Find three clients who drain you and give you nothing back. Tomorrow morning, refer them to another agent. Just three. That's how you start building your version of success instead of theirs.
+Tonight: open your client list. Find three clients who drain your energy and refer zero business back. Tomorrow morning, refer them to another agent. Just three.
 
+What you'll get is counterintuitive — fewer clients, more income, and you actually start building the business you wanted when you got into this.
 
 See you next time.
 ---
@@ -27,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** More deals isn't always the answer. Sometimes the breakthrough is cutting what doesn't fit.
+**Caption:** Garrett Maroon fired 60% of his database. Dropped from 47 deals to 32. Made more money. Coached every baseball game. That's the move.
 **Hashtags:** #RealEstateMindset #AgentLife #TopProducer #WorkLifeBalance #RealEstateCoach #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
 
 ### TikTok
-**Caption:** More deals isn't always the answer. Sometimes the breakthrough is cutting what doesn't fit.
+**Caption:** He fired 60% of his database. Made more money. Here's why.
 **Hashtags:** #RealEstateMindset #AgentLife #TopProducer #WorkLifeBalance
 
 ### YouTube Shorts
 **Title:** The Breakthrough Isn't Doing More
-**Description:** More deals isn't always the answer. Sometimes the breakthrough is cutting what doesn't fit.
+**Description:** Garrett Maroon fired 60% of his database. Dropped from 47 deals to 32. Made more money. Coached every baseball game. That's the move.
 **Hashtags:** #RealEstateMindset #AgentLife #TopProducer #WorkLifeBalance #RealEstateCoach
 
 ### Facebook
-**Caption:** More deals isn't always the answer. Sometimes the breakthrough is cutting what doesn't fit.
+**Caption:** Garrett Maroon fired 60% of his database. Dropped from 47 deals to 32. Made more money. Coached every baseball game. That's the move.
 **Hashtags:** #RealEstateMindset #AgentLife #TopProducer #WorkLifeBalance #RealEstateCoach #RealtorTips
 
 ### LinkedIn
-**Caption:** More deals isn't always the answer. Sometimes the breakthrough is cutting what doesn't fit.
+**Caption:** Garrett Maroon fired 60% of his database. Dropped from 47 deals to 32. Made more money. Coached every baseball game. That's the move.
 **Hashtags:** #RealEstateMindset #AgentLife #TopProducer #RealEstate #ProfessionalDevelopment

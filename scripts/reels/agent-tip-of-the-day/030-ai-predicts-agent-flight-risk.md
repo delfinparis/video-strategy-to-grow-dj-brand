@@ -12,14 +12,15 @@ target_duration: "27 seconds"
 
 ## Script (Spoken)
 
-AI now knows which agents are about to leave your brokerage before you do.
+You're losing agents to other brokerages and you never saw it coming. By the time they tell you, they've already made up their mind. The problem is you're guessing instead of using data.
 
 *[Agent Tip of the Day bumper]*
 
-A tool called Corded scans production trends, social signals, and career patterns for every agent in your market -- then flags who's likely to move. It reads your recruiting website, learns what you offer, and writes the outreach email for each agent.
+There's a tool called Corded that scans production trends, social signals, and career patterns — then flags which agents in your market are likely to move. It even reads your recruiting website and writes personalized outreach for each agent.
 
-While you're guessing who to call, your competitor is getting a list of agents ready to jump -- with the script to close them. That's not a fair fight.
+Here's what to do this week: If you're a team leader or broker, go to Corded's website and run your market. Look at who's flagged. If you're an agent, tell your broker about it — because if your competitor finds this first, they're recruiting with a sniper rifle while you're using a phone book.
 
+Either way, the brokerages using AI for recruiting intelligence are building rosters faster than the ones still guessing. Don't be the one still guessing.
 
 See you next time.
 ---
@@ -27,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** AI that predicts which agents will leave and writes the pitch to recruit them. The recruiting game just changed.
+**Caption:** You're losing agents and never saw it coming. AI tools like Corded now predict flight risk before agents even tell you. The brokerages using this are recruiting circles around the ones still guessing.
 **Hashtags:** #RealEstateRecruiting #AIForRealEstate #BrokerageGrowth #TeamLeader #RecruitingTools #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
 
 ### TikTok
-**Caption:** AI that predicts which agents will leave and writes the pitch to recruit them.
+**Caption:** AI now predicts which agents are about to leave your brokerage. And your competitors are already using it.
 **Hashtags:** #RealEstateRecruiting #AIForRealEstate #BrokerageGrowth #TeamLeader
 
 ### YouTube Shorts
 **Title:** AI Predicts Which Agents Will Leave
-**Description:** AI that predicts which agents will leave and writes the pitch to recruit them. The recruiting game just changed.
+**Description:** You're losing agents and never saw it coming. AI tools like Corded now predict flight risk before agents even tell you. The brokerages using this are recruiting circles around the ones still guessing.
 **Hashtags:** #RealEstateRecruiting #AIForRealEstate #BrokerageGrowth #TeamLeader #RecruitingTools
 
 ### Facebook
-**Caption:** AI that predicts which agents will leave and writes the pitch to recruit them. The recruiting game just changed.
+**Caption:** You're losing agents and never saw it coming. AI tools like Corded now predict flight risk before agents even tell you. The brokerages using this are recruiting circles around the ones still guessing.
 **Hashtags:** #RealEstateRecruiting #AIForRealEstate #BrokerageGrowth #TeamLeader #RecruitingTools #RealtorTips
 
 ### LinkedIn
-**Caption:** AI that predicts which agents will leave and writes the pitch to recruit them. The recruiting game just changed.
+**Caption:** You're losing agents and never saw it coming. AI tools like Corded now predict flight risk before agents even tell you. The brokerages using this are recruiting circles around the ones still guessing.
 **Hashtags:** #RealEstateRecruiting #AIForRealEstate #BrokerageGrowth #RealEstate #ProfessionalDevelopment

@@ -12,12 +12,15 @@ target_duration: "22 seconds"
 
 ## Script (Spoken)
 
-You're staging counters. Hiding family photos. But nobody's keeping white duvets in their trunk. That's your advantage.
+Your listing photos are getting scrolled past. You staged the counters, hid the family photos, and the engagement is still flat.
 
 *[Agent Tip of the Day bumper]*
 
-Buy two this week. Keep them in your car. Use them on your next three listings. Then tell me if your engagement numbers don't change.
+Amanda Pendleton at Zillow found that listings with white linens get 30% more engagement. Not better homes — just whiter sheets. Her data says it's the single easiest visual upgrade you can make.
 
+Here's your homework: Go to Target today. Buy two white duvets — ten bucks each. Keep them in your trunk. Use them on your next three listings before the photographer shows up.
+
+You'll see more saves, more showings booked, and more buyer interest — from a twenty-dollar investment that takes five minutes to set up.
 
 See you next time.
 ---
@@ -25,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** You're already staging counters and hiding family photos. Add this one thing to your trunk and watch what happens.
+**Caption:** Zillow data says white linens get 30% more engagement. Two duvets. Ten bucks each. Keep them in your trunk. Game changer.
 **Hashtags:** #realestatetips #stagingsecrets #realestateagent #listingtips #homesellingtips #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
 
 ### TikTok
-**Caption:** You're already staging counters and hiding family photos. Add this one thing to your trunk and watch what happens.
+**Caption:** Zillow data says white linens get 30% more engagement. Two duvets. Ten bucks each. Keep them in your trunk.
 **Hashtags:** #realestatetips #stagingsecrets #realestateagent #listingtips
 
 ### YouTube Shorts
 **Title:** Your Staging Checklist Is Missing One Thing
-**Description:** You're already staging counters and hiding family photos. Add this one thing to your trunk and watch what happens.
+**Description:** Zillow data says white linens get 30% more engagement. Two duvets. Ten bucks each. Keep them in your trunk. Game changer.
 **Hashtags:** #realestatetips #stagingsecrets #realestateagent #listingtips #homesellingtips
 
 ### Facebook
-**Caption:** You're already staging counters and hiding family photos. Add this one thing to your trunk and watch what happens.
+**Caption:** Zillow data says white linens get 30% more engagement. Two duvets. Ten bucks each. Keep them in your trunk. Game changer.
 **Hashtags:** #realestatetips #stagingsecrets #realestateagent #listingtips #homesellingtips #RealtorTips
 
 ### LinkedIn
-**Caption:** You're already staging counters and hiding family photos. Add this one thing to your trunk and watch what happens.
+**Caption:** Zillow data says white linens get 30% more engagement. Two duvets. Ten bucks each. Keep them in your trunk. Game changer.
 **Hashtags:** #realestatetips #stagingsecrets #realestateagent #RealEstate #ProfessionalDevelopment

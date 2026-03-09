@@ -12,12 +12,15 @@ target_duration: "27 seconds"
 
 ## Script (Spoken)
 
-Most agents pay for tools. Top producers build them.
+You're paying monthly subscriptions for tools that don't quite do what you need. Meanwhile the tool you actually want could be built in under an hour — for free.
 
 *[Agent Tip of the Day bumper]*
 
-D.J. Paris built a custom mortgage affordability calculator for his agents last month. Took 47 minutes. Zero coding experience. He opened ChatGPT, typed "Build me an HTML mortgage calculator that shows monthly payment, required income, and down payment scenarios." ChatGPT wrote the code. He copied it into a free Carrd page. Fifteen minutes tweaking colors and adding his logo. Done. His agents look like wizards to their buyers.
+I built a custom mortgage affordability calculator for my agents last month. 47 minutes. Zero coding experience. I opened ChatGPT and typed: "Build me an HTML mortgage calculator that shows monthly payment, required income, and down payment scenarios." It wrote the code. I copied it into a free Carrd page. Done.
 
+Do this tonight: Think of one tool your clients always ask about — a closing cost estimator, a neighborhood comparison sheet, anything. Open ChatGPT and ask it to build it. Copy the code into Carrd. You'll have it live before bed.
+
+Your clients will think you hired a developer. Your competitors will wonder how you move so fast. And it cost you zero dollars.
 
 See you next time.
 ---
@@ -25,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Zero coding required.
+**Caption:** Stop paying for tools that don't fit. I built a custom mortgage calculator in 47 minutes with ChatGPT. Zero coding. Your clients will think you hired a developer.
 **Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealtorLife #AIForRealtors #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
 
 ### TikTok
-**Caption:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI.
+**Caption:** Built a custom mortgage calculator in 47 minutes. Zero coding. ChatGPT did the work.
 **Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealtorLife
 
 ### YouTube Shorts
 **Title:** Most Agents Pay for Tools. Top Producers Build Them.
-**Description:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Zero coding required.
+**Description:** Stop paying for tools that don't fit. I built a custom mortgage calculator in 47 minutes with ChatGPT. Zero coding. Your clients will think you hired a developer.
 **Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealtorLife #AIForRealtors
 
 ### Facebook
-**Caption:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Zero coding required.
+**Caption:** Stop paying for tools that don't fit. I built a custom mortgage calculator in 47 minutes with ChatGPT. Zero coding. Your clients will think you hired a developer.
 **Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealtorLife #AIForRealtors #RealtorTips
 
 ### LinkedIn
-**Caption:** D.J. Paris built a custom mortgage calculator in 47 minutes using AI. Zero coding required.
+**Caption:** Stop paying for tools that don't fit. I built a custom mortgage calculator in 47 minutes with ChatGPT. Zero coding. Your clients will think you hired a developer.
 **Hashtags:** #RealEstateAI #AgentTools #RealEstateTech #RealEstate #ProfessionalDevelopment

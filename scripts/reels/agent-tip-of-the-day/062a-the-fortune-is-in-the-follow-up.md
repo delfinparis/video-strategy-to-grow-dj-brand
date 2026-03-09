@@ -12,15 +12,15 @@ target_duration: "27 seconds"
 
 ## Script (Spoken)
 
-The guy closing 100 deals a year just admitted what he hates most about his job.
+You're losing deals right now — and you don't even know it. Not because your pitch is bad. Because you stopped following up too early.
 
 *[Agent Tip of the Day bumper]*
 
-Eithan Davidov runs one of the top teams in Queens. When I asked what separates closers from everyone else, he didn't say prospecting or negotiation. He said: "The fortune is in the follow-up. And as much as I wish it wasn't, it's the hardest part." Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready. That's where deals live or die.
+Eithan Davidov closes over 100 deals a year in Queens. I asked him what separates closers from everyone else. He said: "The fortune is in the follow-up. Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready."
 
+Here's what to do right now: Open your CRM. Find three people you haven't talked to in over a month. Send each of them a simple check-in text — no pitch, just "hey, still thinking about making a move?"
 
-Do this right now: Think of three people you owe a follow-up text. Send them. The fortune is in the follow-up you almost didn't send.
-
+You'll be shocked how many say "actually, yes." Those are deals that were sitting in your pipeline the whole time — you just stopped reaching for them.
 
 See you next time.
 ---
@@ -28,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** 100 deals a year. Still hates follow-up. Does it anyway. Eithan Davidov on where deals actually live or die.
+**Caption:** You're losing deals because you stopped following up too early. Eithan Davidov closes 100+/year. His rule: the fortune is in the 3rd text, 5th email, the call 3 months later. Open your CRM and text 3 people you haven't talked to in a month.
 **Hashtags:** #RealEstateAgent #FollowUp #TopProducer #RealEstateSales #AgentTips #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
 
 ### TikTok
-**Caption:** 100 deals a year. Still hates follow-up.
+**Caption:** You stopped following up too early. That's where your lost deals went. Here's the fix.
 **Hashtags:** #RealEstateAgent #FollowUp #TopProducer #RealEstateSales
 
 ### YouTube Shorts
 **Title:** The Fortune Is in the Follow-Up
-**Description:** 100 deals a year. Still hates follow-up. Does it anyway. Eithan Davidov on where deals actually live or die.
+**Description:** You're losing deals because you stopped following up too early. Eithan Davidov closes 100+/year. His rule: the fortune is in the 3rd text, 5th email, the call 3 months later. Open your CRM and text 3 people you haven't talked to in a month.
 **Hashtags:** #RealEstateAgent #FollowUp #TopProducer #RealEstateSales #AgentTips
 
 ### Facebook
-**Caption:** 100 deals a year. Still hates follow-up. Does it anyway. Eithan Davidov on where deals actually live or die.
+**Caption:** You're losing deals because you stopped following up too early. Eithan Davidov closes 100+/year. His rule: the fortune is in the 3rd text, 5th email, the call 3 months later. Open your CRM and text 3 people you haven't talked to in a month.
 **Hashtags:** #RealEstateAgent #FollowUp #TopProducer #RealEstateSales #AgentTips #RealtorTips
 
 ### LinkedIn
-**Caption:** 100 deals a year. Still hates follow-up. Does it anyway. Eithan Davidov on where deals actually live or die.
+**Caption:** You're losing deals because you stopped following up too early. Eithan Davidov closes 100+/year. His rule: the fortune is in the 3rd text, 5th email, the call 3 months later. Open your CRM and text 3 people you haven't talked to in a month.
 **Hashtags:** #RealEstateAgent #FollowUp #TopProducer #RealEstate #ProfessionalDevelopment

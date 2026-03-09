@@ -12,12 +12,15 @@ target_duration: "24 seconds"
 
 ## Script (Spoken)
 
-Follow-up feels like pulling teeth? You're not broken. You're normal. The agent doing 100 deals a year hates it too. Difference: they built a system so it happens whether they feel like it or not.
+Here's why your pipeline feels empty — you're only talking to people who are ready right now. And that's like two percent of your database.
 
 *[Agent Tip of the Day bumper]*
 
-Open your CRM right now. Find three people you should've followed up with last month. Send them something. Anything. That's how fortunes get built. One uncomfortable text at a time.
+Eithan Davidov does over 100 deals a year. His secret? He follows up when it's uncomfortable. The third text. The fifth email. Three months later when everyone else gave up. He told me: "That's where deals live or die."
 
+So do this today: Pick three people in your CRM you haven't contacted in 30 days or more. Send a one-line text: "Hey, just checking in — still thinking about making a move?" That's it.
+
+What you'll get back will surprise you. At least one of those three is closer to ready than you think — and you'll be the only agent who bothered to ask.
 
 See you next time.
 ---
@@ -25,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** You're not broken for hating follow-up. You're normal. Now open your CRM and send three texts anyway.
+**Caption:** Your pipeline feels empty because you're only talking to the 2% who are ready now. Eithan Davidov does 100+ deals/year by following up when it's uncomfortable. Pick 3 people dormant 30+ days. Send one text. At least one is closer to ready than you think.
 **Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #AgentTips #RealEstateSales #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
 
 ### TikTok
-**Caption:** You're not broken for hating follow-up. You're normal.
+**Caption:** Your pipeline feels empty because you're only talking to people who are ready NOW. Here's the fix.
 **Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #AgentTips
 
 ### YouTube Shorts
 **Title:** Three People You Owe a Text
-**Description:** You're not broken for hating follow-up. You're normal. Now open your CRM and send three texts anyway.
+**Description:** Your pipeline feels empty because you're only talking to the 2% who are ready now. Eithan Davidov does 100+ deals/year by following up when it's uncomfortable. Pick 3 people dormant 30+ days. Send one text. At least one is closer to ready than you think.
 **Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #AgentTips #RealEstateSales
 
 ### Facebook
-**Caption:** You're not broken for hating follow-up. You're normal. Now open your CRM and send three texts anyway.
+**Caption:** Your pipeline feels empty because you're only talking to the 2% who are ready now. Eithan Davidov does 100+ deals/year by following up when it's uncomfortable. Pick 3 people dormant 30+ days. Send one text. At least one is closer to ready than you think.
 **Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #AgentTips #RealEstateSales #RealtorTips
 
 ### LinkedIn
-**Caption:** You're not broken for hating follow-up. You're normal. Now open your CRM and send three texts anyway.
+**Caption:** Your pipeline feels empty because you're only talking to the 2% who are ready now. Eithan Davidov does 100+ deals/year by following up when it's uncomfortable. Pick 3 people dormant 30+ days. Send one text. At least one is closer to ready than you think.
 **Hashtags:** #RealEstateAgent #CRMTips #FollowUpSystem #RealEstate #ProfessionalDevelopment

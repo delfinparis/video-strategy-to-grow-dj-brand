@@ -12,14 +12,15 @@ target_duration: "22 seconds"
 
 ## Script (Spoken)
 
-Most agents think their job is to close every lead. Top producers know their job is to close the right lead.
+You just spent three months chasing a client who drained your energy, changed their mind twice, and closed for half the commission you expected. Sound familiar? The problem isn't your closing skills — it's that you're closing the wrong people.
 
 *[Agent Tip of the Day bumper]*
 
-The ones who say no to the wrong clients get invited to the tables where the right ones sit.
+Jill Preschel has done over $2 billion in NYC luxury transactions. Her rule: "The agents who say no to the wrong clients get invited to the tables where the right ones sit."
 
-Gut check: what's the last deal you chased that you knew wasn't right?
+Do this today: Pull up your last five closed deals. Write down which ones drained you versus energized you. Then write three red flags they had in common — that's your "no" filter going forward.
 
+What changes is you stop wasting months on bad-fit clients and start attracting the ones that actually build your business. Fewer deals, higher quality, better referrals.
 
 See you next time.
 ---
@@ -27,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Your job isn't closing every lead. It's closing the right one. What deal did you chase that wasn't right?
+**Caption:** Jill Preschel has done $2B+ in NYC luxury. Her rule: say no to the wrong clients and you get invited to the tables where the right ones sit. Pull up your last 5 deals — which ones drained you?
 **Hashtags:** #RealEstateMindset #AgentTips #QualityOverQuantity #LuxuryAgent #TopProducerSecrets #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #TopProducer
 
 ### TikTok
-**Caption:** Your job isn't closing every lead. It's closing the right one.
+**Caption:** $2B in luxury sales. Her secret? Saying no to the wrong clients. Here's how to build your "no" filter.
 **Hashtags:** #RealEstateMindset #AgentTips #QualityOverQuantity #LuxuryAgent
 
 ### YouTube Shorts
 **Title:** Close the Right Lead
-**Description:** Your job isn't closing every lead. It's closing the right one. What deal did you chase that wasn't right?
+**Description:** Jill Preschel has done $2B+ in NYC luxury. Her rule: say no to the wrong clients and you get invited to the tables where the right ones sit. Pull up your last 5 deals — which ones drained you?
 **Hashtags:** #RealEstateMindset #AgentTips #QualityOverQuantity #LuxuryAgent #TopProducerSecrets
 
 ### Facebook
-**Caption:** Your job isn't closing every lead. It's closing the right one. What deal did you chase that wasn't right?
+**Caption:** Jill Preschel has done $2B+ in NYC luxury. Her rule: say no to the wrong clients and you get invited to the tables where the right ones sit. Pull up your last 5 deals — which ones drained you?
 **Hashtags:** #RealEstateMindset #AgentTips #QualityOverQuantity #LuxuryAgent #TopProducerSecrets #RealtorTips
 
 ### LinkedIn
-**Caption:** Your job isn't closing every lead. It's closing the right one. What deal did you chase that wasn't right?
+**Caption:** Jill Preschel has done $2B+ in NYC luxury. Her rule: say no to the wrong clients and you get invited to the tables where the right ones sit. Pull up your last 5 deals — which ones drained you?
 **Hashtags:** #RealEstateMindset #AgentTips #QualityOverQuantity #RealEstate #ProfessionalDevelopment

@@ -12,14 +12,15 @@ target_duration: "27 seconds"
 
 ## Script (Spoken)
 
-The deal that makes you feel invincible is the same one that's about to wreck your next three months.
+Your pipeline keeps going feast-or-famine and you can't figure out why. It's not the market. It's your emotional swings after every deal.
 
 *[Agent Tip of the Day bumper]*
 
-Michael Thornton does $30 million a year. He says the biggest threat to your business isn't the market -- it's your emotional swings.
+Michael Thornton does $30 million a year. He told me: "The biggest threat to your business isn't competition — it's what you do after a win or a loss." You close big, feel invincible, ease off prospecting for two weeks. Or you lose a listing, spiral, stop making calls. Both kill your pipeline.
 
-You close a big deal, feel like a rockstar, ease off prospecting for two weeks. Or you lose a listing, spiral into doubt, stop making calls. Both responses kill your pipeline.
+Here's his fix: Write down three daily non-negotiables — calls, follow-ups, CRM updates — and do them every single day regardless of how you feel. Tape them to your monitor. Win or lose, the list doesn't change.
 
+What happens is your pipeline stops swinging. Three months from now, you'll have consistent closings instead of rollercoaster months — because you stopped letting emotions run your schedule.
 
 See you next time.
 ---
@@ -27,22 +28,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** The emotional rollercoaster is killing your consistency. Here's what $30M/year agents know.
+**Caption:** Michael Thornton does $30M/year. His biggest threat? Not the market — his own emotional swings. Here's his fix: 3 daily non-negotiables. Win or lose, the list doesn't change.
 **Hashtags:** #RealEstateMindset #PipelineManagement #TopProducer #ConsistencyIsKey #AgentTips #RealtorTips #AgentTipOfTheDay #RealEstateSuccess #AgentAdvice #RealEstateCoaching
 
 ### TikTok
-**Caption:** The emotional rollercoaster is killing your consistency. Here's what $30M/year agents know.
+**Caption:** $30M/year agent says the biggest threat to your pipeline is your own emotional swings. Here's his fix.
 **Hashtags:** #RealEstateMindset #PipelineManagement #TopProducer #ConsistencyIsKey
 
 ### YouTube Shorts
 **Title:** The Deal That's About to Wreck You
-**Description:** The emotional rollercoaster is killing your consistency. Here's what $30M/year agents know.
+**Description:** Michael Thornton does $30M/year. His biggest threat? Not the market — his own emotional swings. Here's his fix: 3 daily non-negotiables. Win or lose, the list doesn't change.
 **Hashtags:** #RealEstateMindset #PipelineManagement #TopProducer #ConsistencyIsKey #AgentTips
 
 ### Facebook
-**Caption:** The emotional rollercoaster is killing your consistency. Here's what $30M/year agents know.
+**Caption:** Michael Thornton does $30M/year. His biggest threat? Not the market — his own emotional swings. Here's his fix: 3 daily non-negotiables. Win or lose, the list doesn't change.
 **Hashtags:** #RealEstateMindset #PipelineManagement #TopProducer #ConsistencyIsKey #AgentTips #RealtorTips
 
 ### LinkedIn
-**Caption:** The emotional rollercoaster is killing your consistency. Here's what $30M/year agents know.
+**Caption:** Michael Thornton does $30M/year. His biggest threat? Not the market — his own emotional swings. Here's his fix: 3 daily non-negotiables. Win or lose, the list doesn't change.
 **Hashtags:** #RealEstateMindset #PipelineManagement #TopProducer #RealEstate #ProfessionalDevelopment
