@@ -17,33 +17,32 @@ Can't explain your commission without flinching? You're going to lose it. Every 
 
 *[AI Agent Minute bumper]*
 
-Here's the fix. Tell Claude: "Help me build a confident two-minute value story for why my commission is worth every dollar. My average sale price is X, my days on market is Y, my list-to-sale ratio is Z. Write it so I can deliver it naturally -- not like a script."
+Here's the fix. Open Claude right now. Type this: "Help me build a two-minute value story for my commission. My average sale price is [your number], my days on market is [your number], my list-to-sale ratio is [your number]. Make it conversational -- not scripted."
 
-Practice it until you own it. You don't have a commission problem. You have a value communication problem -- and that one is fixable.
+Then say it out loud five times before your next listing appointment.
 
-
-See you next time.
+You'll walk in owning your number instead of apologizing for it. That's the difference between getting the listing and getting ghosted.
 ---
 
 ## Social Copy
 
 ### Instagram
-**Caption:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
-**Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement #RealEstateAgent #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #TechInRealEstate
+**Caption:** If you can't say your commission number without flinching — the client already knows. Here's the Claude prompt that turns your stats into a value story you actually believe. Say it 5 times before your next listing appointment.
+**Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement #RealEstateAgent #AIAgent #ClaudeAI #AIAgentMinute #RealEstateAI #ListingAppointment
 
 ### TikTok
-**Caption:** The Claude prompt that builds your commission defense. Your numbers.
+**Caption:** Flinch on your commission and you've already lost it. Here's the Claude prompt that fixes that.
 **Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement
 
 ### YouTube Shorts
 **Title:** If You Flinch Explaining Your Commission — You'll Lose It
-**Description:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
+**Description:** If you can't say your commission number without flinching — the client already knows. Here's the Claude prompt that turns your stats into a value story you actually believe. Say it 5 times before your next listing appointment.
 **Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement #RealEstateAgent
 
 ### Facebook
-**Caption:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
+**Caption:** If you can't say your commission number without flinching — the client already knows. Here's the Claude prompt that turns your stats into a value story you actually believe. Say it 5 times before your next listing appointment.
 **Hashtags:** #AIforRealtors #Claude #CommissionDefense #NARSettlement #RealEstateAgent #AIAgent
 
 ### LinkedIn
-**Caption:** The Claude prompt that builds your commission defense. Your numbers. Your story. Delivered with confidence, not apology.
+**Caption:** Most agents lose the commission conversation before it starts — not because their number is wrong, but because they don't believe it. Here's a Claude prompt that builds your value story from your actual stats. Practice it 5 times. Walk in owning your number.
 **Hashtags:** #AIforRealtors #Claude #CommissionDefense #RealEstate #ProfessionalDevelopment
