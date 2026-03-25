@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #LowInventory #RealEstateAI #AIAgentMinute #OffMarket
 
 ### YouTube Shorts
-**Title:** "There's Nothing to Show My Buyers" — That's Not Entirely True
+**Title:** "There's Nothing to Show My Buyers" -- That's Not Entirely True
 **Description:** Low inventory is the default excuse. The agents who keep producing aren't waiting for the MLS -- they're generating their own pipeline.
 **Hashtags:** #LowInventory #RealEstateAI #AIAgentMinute #OffMarket #BuyerAgent
 

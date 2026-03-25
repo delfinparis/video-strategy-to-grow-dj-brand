@@ -18,7 +18,7 @@
 | Bonus | 1 | 3 | 1 script → 3 reels | 0 |
 | **TOTAL** | **163** | **276** | | |
 
-*Note: AI Agent Minute counts approximate — one script (051-075 batch) had 6 singles vs 5 reported.
+*Note: AI Agent Minute counts approximate -- one script (051-075 batch) had 6 singles vs 5 reported.
 
 ## Reel Format
 

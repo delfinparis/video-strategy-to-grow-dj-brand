@@ -18,7 +18,7 @@ share_trigger: "identity"
 **Score:** 7 | **Rank:** 56 of 62
 **Post Date:** Thursday, July 02, 2026
 
-> **Strongest Line:** "You can't learn swimming from a book. You're not unprepared — you're untested."
+> **Strongest Line:** "You can't learn swimming from a book. You're not unprepared -- you're untested."
 
 ## Script
 
@@ -33,12 +33,12 @@ You're waiting to feel ready. Waiting for the perfect script, the perfect market
 *Production: B-roll: unopened real estate course materials, dusty business cards, calendar days flipping by*
 
 ### INSIGHT (0:12-0:38)
-Connie Mahan — REALTOR of the Year in Central Florida — got the advice that changed everything: 'Get in and do. The rest will figure itself out.' Not 'study more.' Not 'wait until you're comfortable.' Do. She didn't know every answer. She learned by showing up. Door-knocking taught her objection handling better than any course. Open houses taught her buyer psychology. Expired listings taught her confidence. The doing created the knowing.
+Connie Mahan -- REALTOR of the Year in Central Florida -- got the advice that changed everything: 'Get in and do. The rest will figure itself out.' Not 'study more.' Not 'wait until you're comfortable.' Do. She didn't know every answer. She learned by showing up. Door-knocking taught her objection handling better than any course. Open houses taught her buyer psychology. Expired listings taught her confidence. The doing created the knowing.
 
-*Production: Quick cuts of agent activities: door-knocking, open house sign, phone calls, showing homes — all with energetic pacing*
+*Production: Quick cuts of agent activities: door-knocking, open house sign, phone calls, showing homes -- all with energetic pacing*
 
 ### REFRAME (0:38-0:50)
-Here's what nobody tells you: your first ten conversations will be terrible. And that's the point. You can't learn swimming from a book. You're not unprepared — you're untested. There's a difference.
+Here's what nobody tells you: your first ten conversations will be terrible. And that's the point. You can't learn swimming from a book. You're not unprepared -- you're untested. There's a difference.
 
 *Production: Close-up of agent's face showing nerves turning to determination*
 
@@ -53,4 +53,34 @@ So here's your assignment: before you watch another training video, do one thing
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA is strong but generic—name the exact expired script or door-knock opener Connie used in her first week to make it stealable.
+The CTA is strong but generic -- name the exact expired script or door-knock opener Connie used in her first week to make it stealable.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+New agents spend six months preparing. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+New agents spend six months preparing.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** New agents spend six months preparing....
+**Description:** ### HOOK (0:00-0:03)
+New agents spend six months preparing. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+New agents spend six months preparing. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+New agents spend six months preparing. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

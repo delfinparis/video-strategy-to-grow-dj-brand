@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAgent #InterestRates #BuyerAgent #RealEstateMarket
 
 ### YouTube Shorts
-**Title:** Rates Went Up — Your Client Wants to Wait — Now What?
+**Title:** Rates Went Up -- Your Client Wants to Wait -- Now What?
 **Description:** "Rates went up. We're thinking of waiting." If you don't have a confident sixty-second response ready, you'll lose them.
 **Hashtags:** #RealEstateAgent #InterestRates #BuyerAgent #RealEstateMarket #RealtorLife
 

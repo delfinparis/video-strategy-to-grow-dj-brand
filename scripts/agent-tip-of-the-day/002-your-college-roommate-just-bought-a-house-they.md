@@ -53,4 +53,34 @@ So here's your move: Write down three people who DID work with you or refer you.
 **Share Trigger:** identity
 
 ## Judge Note
-Perfect as-is — the hook is a gut punch and the CTA is immediately actionable.
+Perfect as-is -- the hook is a gut punch and the CTA is immediately actionable.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your college roommate just bought a house. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your college roommate just bought a house.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your college roommate just bought a...
+**Description:** ### HOOK (0:00-0:03)
+Your college roommate just bought a house. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your college roommate just bought a house. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your college roommate just bought a house. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

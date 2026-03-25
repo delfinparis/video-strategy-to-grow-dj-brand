@@ -28,22 +28,22 @@ Most agents aren't running a business. They're being run by one.
 *Production: B-roll: Agent checking phone at dinner table, laptop open at 9pm, exhausted face in car*
 
 ### SETUP (0:03-0:12)
-You wake up. Check your phone. Respond to clients. Show houses. Write contracts. Collapse. Repeat. That's not a business. That's a treadmill with a commission check. Garrett Maroon — top 1% in Southeast Virginia, all referral-based — asked himself one question that changed everything.
+You wake up. Check your phone. Respond to clients. Show houses. Write contracts. Collapse. Repeat. That's not a business. That's a treadmill with a commission check. Garrett Maroon -- top 1% in Southeast Virginia, all referral-based -- asked himself one question that changed everything.
 
 *Production: Fast cut montage of typical agent chaos, then freeze on Garrett's face*
 
 ### INSIGHT (0:12-0:38)
-"Are we going to live on purpose or on accident?" Most agents default to accident. They let the market set their schedule. Let clients dictate their boundaries. Let 'busy' become their identity. Garrett rebuilt his entire business around one principle: intentional design. He mapped his ideal week FIRST — family dinners, gym time, date nights — then built his client systems around that. Not the other way around. The result? Fewer transactions. Higher income. Actual life outside real estate.
+"Are we going to live on purpose or on accident?" Most agents default to accident. They let the market set their schedule. Let clients dictate their boundaries. Let 'busy' become their identity. Garrett rebuilt his entire business around one principle: intentional design. He mapped his ideal week FIRST -- family dinners, gym time, date nights -- then built his client systems around that. Not the other way around. The result? Fewer transactions. Higher income. Actual life outside real estate.
 
 *Production: Show calendar blocking visual, family dinner scene, then split screen: chaotic agent vs. intentional agent*
 
 ### REFRAME (0:38-0:50)
-Here's what nobody tells you: the agents who work the most aren't the ones who earn the most. The ones who design their business around their life — they're the ones who stay in this game for decades without burning out. You're not lazy for wanting boundaries. You're strategic.
+Here's what nobody tells you: the agents who work the most aren't the ones who earn the most. The ones who design their business around their life -- they're the ones who stay in this game for decades without burning out. You're not lazy for wanting boundaries. You're strategic.
 
 *Production: Close-up of agent closing laptop at 5pm, walking away with confidence*
 
 ### CTA (0:50-0:60)
-So here's your homework: Block out your ideal week. Not your work week — your LIFE week. Then look at your business and ask: what has to change? That's where your breakthrough starts. Full episode in bio.
+So here's your homework: Block out your ideal week. Not your work week -- your LIFE week. Then look at your business and ask: what has to change? That's where your breakthrough starts. Full episode in bio.
 
 *Production: Text overlay: 'Block your life first. Build your business second.' End card with episode link*
 
@@ -53,4 +53,34 @@ So here's your homework: Block out your ideal week. Not your work week — your 
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA is too vague — give them a specific first step like 'screenshot your calendar right now and circle the three non-negotiables' instead of 'block out your ideal week.'
+The CTA is too vague -- give them a specific first step like 'screenshot your calendar right now and circle the three non-negotiables' instead of 'block out your ideal week.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Most agents aren't running a business. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Most agents aren't running a business.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Most agents aren't running a business....
+**Description:** ### HOOK (0:00-0:03)
+Most agents aren't running a business. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Most agents aren't running a business. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Most agents aren't running a business. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

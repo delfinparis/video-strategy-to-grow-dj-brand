@@ -38,7 +38,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #RealEstateProfit #BusinessFinance
 
 ### YouTube Shorts
-**Title:** Your GCI Is a Lie — Calculate Your Real Profit Per Deal
+**Title:** Your GCI Is a Lie -- Calculate Your Real Profit Per Deal
 **Description:** The Claude prompt that shows you what you actually keep per deal. Most agents have never run this math. You can do it tonight.
 **Hashtags:** #AIforRealtors #Claude #RealEstateProfit #BusinessFinance #RealtorTips
 

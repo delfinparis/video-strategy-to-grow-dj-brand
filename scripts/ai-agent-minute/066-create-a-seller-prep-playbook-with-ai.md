@@ -19,19 +19,19 @@ day: "Friday"
 **Post Date:** Friday, July 24, 2026
 
 ## On-Screen Title
-> Create A Seller Prep Playbook With AI — Get Listings Market-Ready Faster
+> Create A Seller Prep Playbook With AI -- Get Listings Market-Ready Faster
 
 ## Shareable Moment
-> "The gap between a house that sells in five days and one that sits for ninety is almost always preparation. And most sellers don't know what they don't know — until you show them."
+> "The gap between a house that sells in five days and one that sits for ninety is almost always preparation. And most sellers don't know what they don't know -- until you show them."
 
 ## Why This Rank
 Seller prep is a listing differentiation tool; a Claude-built playbook signals professionalism before the first appointment.
 
 ## Full Script (Spoken)
 
-The gap between a house that sells in five days and one that sits for ninety is almost always preparation. Most sellers don't know what they don't know — until you show them. [ON-SCREEN: "The gap is almost always preparation"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty — and here's your AI Agent Minute."
-Here's the real problem with how most agents handle pre-listing prep. They give sellers a general list of things to fix and hope for the best. But sellers are emotionally attached, they don't know what actually matters to today's buyers, and they often spend money on the wrong things — or do nothing at all. Then you go to market with a home that isn't ready, and everyone wonders why it's sitting.
+The gap between a house that sells in five days and one that sits for ninety is almost always preparation. Most sellers don't know what they don't know -- until you show them. [ON-SCREEN: "The gap is almost always preparation"]
+"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Here's the real problem with how most agents handle pre-listing prep. They give sellers a general list of things to fix and hope for the best. But sellers are emotionally attached, they don't know what actually matters to today's buyers, and they often spend money on the wrong things -- or do nothing at all. Then you go to market with a home that isn't ready, and everyone wonders why it's sitting.
 Most agents tell sellers what to do. Top producers give them a roadmap that makes it impossible to do it wrong. [ON-SCREEN: "A roadmap that makes it impossible to do it wrong"]
 Here's the tool that changes everything. Ask Claude to generate a "Seller Prep Playbook" for your market and typical price range. Type: "Include the ten highest-ROI improvements before listing, a room-by-room decluttering checklist, what buyers in my market care most about right now, and the three most common mistakes sellers make that quietly reduce their final sale price." [ON-SCREEN: "Top ROI improvements + room checklist + common mistakes"]
 Turn it into a clean PDF. Give it to every seller at the listing appointment.
@@ -40,6 +40,31 @@ What's the one thing sellers do before listing that you wish you could stop them
 See you next time.
 
 ## Producer Note
-Runs slightly long — trim "and everyone wonders why it's sitting" if needed. The CTA will generate extremely high comment volume — specific, opinionated, and fun to read. "Sellers who repaint in dark colors right before listing" will be the top answer. This is a strong engagement driver.
+Runs slightly long -- trim "and everyone wonders why it's sitting" if needed. The CTA will generate extremely high comment volume -- specific, opinionated, and fun to read. "Sellers who repaint in dark colors right before listing" will be the top answer. This is a strong engagement driver.
 
 **Word Count:** 247 | **Estimated Duration:** ~116 seconds
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** Create A Seller Prep Playbook With AI Watch this and save it for later.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
+
+### TikTok
+**Caption:** Create A Seller Prep Playbook With AI
+**Hashtags:** #AIforRealtors #RealEstateAI #RealtorLife #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Create A Seller Prep Playbook With AI
+**Description:** Create A Seller Prep Playbook With AI This changes how you think about your business.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
+
+### Facebook
+**Caption:** Create A Seller Prep Playbook With AI If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
+
+### LinkedIn
+**Caption:** Create A Seller Prep Playbook With AI The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstate #ProfessionalDevelopment #RealEstateTechnology

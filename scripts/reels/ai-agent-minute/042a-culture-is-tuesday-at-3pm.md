@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #TeamCulture #RealEstateTeam #AIAgentMinute #TeamLeader
 
 ### YouTube Shorts
-**Title:** Culture Isn't Your Website — It's Tuesday at 3pm
+**Title:** Culture Isn't Your Website -- It's Tuesday at 3pm
 **Description:** If you haven't written down your culture, you don't have one. You have whatever energy walks in the door on any given Tuesday.
 **Hashtags:** #TeamCulture #RealEstateTeam #AIAgentMinute #TeamLeader #Leadership
 

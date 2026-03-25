@@ -36,7 +36,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #NARSettlement #BuyerAgent
 
 ### YouTube Shorts
-**Title:** The NAR Settlement Changed What Buyers Ask — Have Your Answer Ready
+**Title:** The NAR Settlement Changed What Buyers Ask -- Have Your Answer Ready
 **Description:** The Claude prompt to nail your buyer rep agreement conversation. Clear. Confident. Plain English. Practice until it stops feeling like a pitch.
 **Hashtags:** #AIforRealtors #Claude #NARSettlement #BuyerAgent #RealEstateAgent
 

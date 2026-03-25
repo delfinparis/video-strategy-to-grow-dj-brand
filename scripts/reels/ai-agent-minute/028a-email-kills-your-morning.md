@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateProductivity #AIAgentMinute #TimeManagement #RealEstateTips
 
 ### YouTube Shorts
-**Title:** You Checked Email This Morning — You Already Lost
+**Title:** You Checked Email This Morning -- You Already Lost
 **Description:** Your inbox is not your to-do list. Stop giving away your best prospecting hours to other people's priorities.
 **Hashtags:** #RealEstateProductivity #AIAgentMinute #TimeManagement #RealEstateTips #MorningRoutine
 

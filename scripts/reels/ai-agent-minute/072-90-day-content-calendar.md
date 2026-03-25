@@ -36,7 +36,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #ContentCalendar #AIAgentMinute #ClaudeAI
 
 ### YouTube Shorts
-**Title:** Stop Posting Randomly — Build a 90-Day Content Calendar in One Sitting
+**Title:** Stop Posting Randomly -- Build a 90-Day Content Calendar in One Sitting
 **Description:** One Claude session builds ninety days of planned content. Print it, wall it, execute it. The plan builds the audience.
 **Hashtags:** #RealEstateAI #ContentCalendar #AIAgentMinute #ClaudeAI #SocialMediaStrategy
 

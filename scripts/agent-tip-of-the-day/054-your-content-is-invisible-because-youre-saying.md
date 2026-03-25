@@ -25,15 +25,15 @@ share_trigger: "identity"
 ### HOOK (0:00-0:03)
 Your content is invisible because you're saying what Google already said.
 
-*Production: Text on screen: 'Everyone has Google' — quick cuts of generic real estate posts (market updates, interest rate screenshots, listing photos)*
+*Production: Text on screen: 'Everyone has Google' -- quick cuts of generic real estate posts (market updates, interest rate screenshots, listing photos)*
 
 ### SETUP (0:03-0:12)
 You're posting market stats. Interest rate updates. Home buying tips. And nobody's stopping. Nobody's engaging. Because they didn't need YOU for that information.
 
-*Production: Show scrolling past generic agent content — fast scroll effect. Cut to Kim Rittberg (text: 'Award-winning video coach')*
+*Production: Show scrolling past generic agent content -- fast scroll effect. Cut to Kim Rittberg (text: 'Award-winning video coach')*
 
 ### INSIGHT (0:12-0:38)
-Kim Rittberg works with top producers, and she's blunt about this: 'Everyone has Google. Everyone has access to you. Don't just take the phone to the internet and say it. Really think about what is YOUR opinion, what is YOUR take?' Here's what that actually means. When interest rates drop — don't just announce it. Tell people if NOW is the time to buy, or if they should wait. When a house sits on the market — don't just share it. Explain WHY it's sitting and what that means for buyers in that neighborhood.
+Kim Rittberg works with top producers, and she's blunt about this: 'Everyone has Google. Everyone has access to you. Don't just take the phone to the internet and say it. Really think about what is YOUR opinion, what is YOUR take?' Here's what that actually means. When interest rates drop -- don't just announce it. Tell people if NOW is the time to buy, or if they should wait. When a house sits on the market -- don't just share it. Explain WHY it's sitting and what that means for buyers in that neighborhood.
 
 *Production: Split screen: Left side shows 'Google-able content' (generic posts), right side shows 'Your take' (opinion-driven content). Highlight Kim's quote on screen as voiceover plays it.*
 
@@ -53,4 +53,34 @@ Look at your last three posts. If someone could've Googled it in ten seconds, de
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA feels slightly preachy—reframe as 'Ask yourself: could Google have written this?' to make it less instructional and more reflective.
+The CTA feels slightly preachy -- reframe as 'Ask yourself: could Google have written this?' to make it less instructional and more reflective.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your content is invisible because you're saying what Google already said. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your content is invisible because you're saying what Google already said.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your content is invisible because you're...
+**Description:** ### HOOK (0:00-0:03)
+Your content is invisible because you're saying what Google already said. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your content is invisible because you're saying what Google already said. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your content is invisible because you're saying what Google already said. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

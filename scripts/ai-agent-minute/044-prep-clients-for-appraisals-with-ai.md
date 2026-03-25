@@ -19,7 +19,7 @@ day: "Wednesday"
 **Post Date:** Wednesday, June 03, 2026
 
 ## On-Screen Title
-> Prep Clients For Appraisals With AI — Not Let It Surprise Them — Protect Your Deal At The Finish Line
+> Prep Clients For Appraisals With AI -- Not Let It Surprise Them -- Protect Your Deal At The Finish Line
 
 ## Shareable Moment
 > "A prepared client doesn't panic. A panicking client can blow up months of work in forty-eight hours. Two minutes of preparation prevents that."
@@ -30,16 +30,41 @@ Appraisal failures are a deal-killer that agents can proactively prevent; the pr
 ## Full Script (Spoken)
 
 A bad appraisal can kill a deal that everyone worked months to get to. And almost every agent lets it hit their buyer as a complete surprise. [ON-SCREEN: "Lets it hit as a complete surprise"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty — and here's your AI Agent Minute."
-Here's what happens when an unprepared buyer gets a low appraisal. They panic. They feel deceived. They start questioning the whole transaction. They call their family and get opinions from people who know nothing about real estate. And a deal that was fine thirty minutes ago is now on life support — because the buyer didn't understand that low appraisals happen, that options exist, and that this was always a possibility worth planning for.
+"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Here's what happens when an unprepared buyer gets a low appraisal. They panic. They feel deceived. They start questioning the whole transaction. They call their family and get opinions from people who know nothing about real estate. And a deal that was fine thirty minutes ago is now on life support -- because the buyer didn't understand that low appraisals happen, that options exist, and that this was always a possibility worth planning for.
 The low appraisal didn't kill the deal. The surprise did. [ON-SCREEN: "The low appraisal didn't kill the deal. The surprise did."]
-Here's the fix. Before any appraisal is scheduled, give your buyer a brief "Appraisal Scenarios" guide built with Claude. Type: "Write a plain-English guide for a buyer that covers: what an appraisal actually measures, what happens at value, above value, and below value, and the three specific paths forward if it comes in low — renegotiate price, cover the gap, or walk away. Make it calm and clear — not alarmist." [ON-SCREEN: "At value / above / below — and the 3 paths if it comes in low"]
+Here's the fix. Before any appraisal is scheduled, give your buyer a brief "Appraisal Scenarios" guide built with Claude. Type: "Write a plain-English guide for a buyer that covers: what an appraisal actually measures, what happens at value, above value, and below value, and the three specific paths forward if it comes in low -- renegotiate price, cover the gap, or walk away. Make it calm and clear -- not alarmist." [ON-SCREEN: "At value / above / below -- and the 3 paths if it comes in low"]
 Brief your client on this before the appraisal happens. Not after.
 A prepared client doesn't panic. A panicking client can blow up months of work in forty-eight hours.
 Have you ever lost a deal to a low appraisal? Tell me what happened. [ON-SCREEN: Have you ever lost a deal to a low appraisal?]
 See you next time.
 
 ## Producer Note
-"The low appraisal didn't kill the deal — the surprise did" is the best single line in this script and possibly the most quotable line in this entire batch. Put it on screen. Strong practical value for agents at all levels.
+"The low appraisal didn't kill the deal -- the surprise did" is the best single line in this script and possibly the most quotable line in this entire batch. Put it on screen. Strong practical value for agents at all levels.
 
 **Word Count:** 243 | **Estimated Duration:** ~114 seconds
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** Prep Clients For Appraisals With AI Watch this and save it for later.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
+
+### TikTok
+**Caption:** Prep Clients For Appraisals With AI
+**Hashtags:** #AIforRealtors #RealEstateAI #RealtorLife #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Prep Clients For Appraisals With AI
+**Description:** Prep Clients For Appraisals With AI This changes how you think about your business.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
+
+### Facebook
+**Caption:** Prep Clients For Appraisals With AI If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
+
+### LinkedIn
+**Caption:** Prep Clients For Appraisals With AI The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstate #ProfessionalDevelopment #RealEstateTechnology

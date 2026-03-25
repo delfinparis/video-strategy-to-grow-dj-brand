@@ -16,11 +16,11 @@ Your listing photos are getting scrolled past. You staged the counters, hid the 
 
 *[Agent Tip of the Day bumper]*
 
-Amanda Pendleton at Zillow found that listings with white linens get 30% more engagement. Not better homes — just whiter sheets. Her data says it's the single easiest visual upgrade you can make.
+Amanda Pendleton at Zillow found that listings with white linens get 30% more engagement. Not better homes -- just whiter sheets. Her data says it's the single easiest visual upgrade you can make.
 
-Here's your homework: Go to Target today. Buy two white duvets — ten bucks each. Keep them in your trunk. Use them on your next three listings before the photographer shows up.
+Here's your homework: Go to Target today. Buy two white duvets -- ten bucks each. Keep them in your trunk. Use them on your next three listings before the photographer shows up.
 
-You'll see more saves, more showings booked, and more buyer interest — from a twenty-dollar investment that takes five minutes to set up.
+You'll see more saves, more showings booked, and more buyer interest -- from a twenty-dollar investment that takes five minutes to set up.
 
 See you next time.
 ---

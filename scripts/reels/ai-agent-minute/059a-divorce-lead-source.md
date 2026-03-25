@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #LeadGeneration
 
 ### YouTube Shorts
-**Title:** Divorce Is the #2 Reason People Sell — How Many Attorneys Do You Know?
+**Title:** Divorce Is the #2 Reason People Sell -- How Many Attorneys Do You Know?
 **Description:** Divorce attorneys need reliable agents and most of them only know one. That's your opening.
 **Hashtags:** #RealEstateAI #DivorceRealEstate #AIAgentMinute #LeadGeneration #NicheMarketing
 

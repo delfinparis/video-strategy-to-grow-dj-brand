@@ -28,7 +28,7 @@ Your database doesn't answer because they know you're calling to take, not give.
 *Production: Text on screen: 'Your database knows.' Cut to Chase mid-sentence, intense eye contact.*
 
 ### SETUP (0:03-0:12)
-Chase Craig — two billion in sales, six thousand transactions — says most agents have this backwards. And it's killing their conversion. Here's what he means.
+Chase Craig -- two billion in sales, six thousand transactions -- says most agents have this backwards. And it's killing their conversion. Here's what he means.
 
 *Production: Quick B-roll of phone screen with unanswered calls. Chase's stats appear as text overlays.*
 
@@ -43,7 +43,7 @@ When you become the person who gives gold bars, your database starts answering. 
 *Production: Close-up of Chase. Text overlay: 'They want what you have.' Cut to visual of phone ringing, being answered.*
 
 ### CTA (0:50-0:60)
-So before your next database call — write down the gold bar you're giving. If you can't name it, don't make the call yet. Go find the gold first.
+So before your next database call -- write down the gold bar you're giving. If you can't name it, don't make the call yet. Go find the gold first.
 
 *Production: Chase pointing at camera. Final frame: 'Find the gold first.' Show notepad with 'My Gold Bar:' written at top.*
 
@@ -53,4 +53,34 @@ So before your next database call — write down the gold bar you're giving. If 
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA is slightly soft—tell them exactly what one gold bar looks like (e.g., 'Text them the three homes that just hit market in their zip code').
+The CTA is slightly soft -- tell them exactly what one gold bar looks like (e.g., 'Text them the three homes that just hit market in their zip code').
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your database doesn't answer because they know you're calling to take, not give. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your database doesn't answer because they know you're calling to take, not give.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your database doesn't answer because they...
+**Description:** ### HOOK (0:00-0:03)
+Your database doesn't answer because they know you're calling to take, not give. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your database doesn't answer because they know you're calling to take, not give. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your database doesn't answer because they know you're calling to take, not give. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

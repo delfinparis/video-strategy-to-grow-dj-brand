@@ -28,12 +28,12 @@ Your clients don't actually understand what they bought.
 *Production: Text on screen: 'Your clients don't understand...' Over B-roll of keys being handed over at closing*
 
 ### SETUP (0:03-0:12)
-Karina Chavez — top 1% producer in Albuquerque — watched the 2008 crash destroy her community. Interest-only loans. Predatory lenders. Families who thought they understood, but didn't.
+Karina Chavez -- top 1% producer in Albuquerque -- watched the 2008 crash destroy her community. Interest-only loans. Predatory lenders. Families who thought they understood, but didn't.
 
 *Production: Quick cuts of Karina speaking, then archival footage of foreclosure signs from 2008*
 
 ### INSIGHT (0:12-0:38)
-So now? She prints every loan document. Goes page by page. Fixed rate — it never changes. Taxes. Insurance. Everything. Not because she's a loan officer. Because she learned something most agents miss: Your job isn't done at closing. One of her clients called her years later, panicking about a medical crisis. Karina reminded her: 'This is what your house is for. This is what all the sacrifices have been for.' Equity. Security. A way forward.
+So now? She prints every loan document. Goes page by page. Fixed rate -- it never changes. Taxes. Insurance. Everything. Not because she's a loan officer. Because she learned something most agents miss: Your job isn't done at closing. One of her clients called her years later, panicking about a medical crisis. Karina reminded her: 'This is what your house is for. This is what all the sacrifices have been for.' Equity. Security. A way forward.
 
 *Production: Split screen: Karina explaining documents on one side, then cut to emotional moment of her recounting the story. Text overlay on 'This is what your house is for'*
 
@@ -43,7 +43,7 @@ You're not selling houses. You're selling the thing that catches people when the
 *Production: Karina speaking directly to camera, intimate framing*
 
 ### CTA (0:50-0:60)
-Ask yourself: Could your clients explain their mortgage to their kids? If not, you're leaving them vulnerable. Full episode — link in bio.
+Ask yourself: Could your clients explain their mortgage to their kids? If not, you're leaving them vulnerable. Full episode -- link in bio.
 
 *Production: End card with episode thumbnail and 'Link in bio' text*
 
@@ -53,4 +53,34 @@ Ask yourself: Could your clients explain their mortgage to their kids? If not, y
 **Share Trigger:** identity
 
 ## Judge Note
-Hook needs more specificity — try 'Your clients can't explain their own mortgage' to match the tactical energy of the rest.
+Hook needs more specificity -- try 'Your clients can't explain their own mortgage' to match the tactical energy of the rest.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your clients don't actually understand what they bought. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your clients don't actually understand what they bought.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your clients don't actually understand what...
+**Description:** ### HOOK (0:00-0:03)
+Your clients don't actually understand what they bought. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your clients don't actually understand what they bought. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your clients don't actually understand what they bought. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

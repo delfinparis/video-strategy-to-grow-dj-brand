@@ -9,7 +9,7 @@ score: 8
 post_date: "2026-04-21"
 day: "Tuesday"
 source_file: "2025-12-30_item9_Connie-Mahan_clip0_v2.json"
-share_trigger: "identity — new agents will tag other new agents who are stuck in 'learning mode' and need permission to be imperfect"
+share_trigger: "identity -- new agents will tag other new agents who are stuck in 'learning mode' and need permission to be imperfect"
 ---
 
 # You don't need another course. You...
@@ -33,7 +33,7 @@ Connie Mahan didn't wait until she felt ready. She went from restaurant manageme
 *Production: B-roll: Connie at closings, community events, with clients. Fast cuts. Energy building.*
 
 ### INSIGHT (0:12-0:38)
-She said: 'The best advice was literally to get in and do and the rest will figure itself out.' Not 'take another class.' Not 'shadow someone for six months.' Get in. And do. Because here's what happens — you take your first listing. You mess up the photos. You panic about the contract. You call someone. You learn. And suddenly? You've got a closing under your belt. The agents who wait for perfect? They're still waiting. The ones who started messy? They're closing deals.
+She said: 'The best advice was literally to get in and do and the rest will figure itself out.' Not 'take another class.' Not 'shadow someone for six months.' Get in. And do. Because here's what happens -- you take your first listing. You mess up the photos. You panic about the contract. You call someone. You learn. And suddenly? You've got a closing under your belt. The agents who wait for perfect? They're still waiting. The ones who started messy? They're closing deals.
 
 *Production: Split screen: Connie speaking + text overlays of key phrases ('GET IN' / 'AND DO' / 'THE REST WILL FIGURE ITSELF OUT'). Use jump cuts to keep pace fast.*
 
@@ -50,7 +50,37 @@ So here's your move: reach out to one expired listing today. Not tomorrow. Today
 ## Social Media
 **Caption:** Stop preparing. Start doing. The rest figures itself out. (REALTOR of the Year shares the advice that changed everything)
 **Hashtags:** #RealEstateAgent #NewAgentTips #RealtorLife #RealEstateMindset #JustStart
-**Share Trigger:** identity — new agents will tag other new agents who are stuck in 'learning mode' and need permission to be imperfect
+**Share Trigger:** identity -- new agents will tag other new agents who are stuck in 'learning mode' and need permission to be imperfect
 
 ## Judge Note
-The CTA is perfect and specific — only weakness is the 'readiness vs reps' line feels slightly copywriter-y, but the rest is strong enough to publish.
+The CTA is perfect and specific -- only weakness is the 'readiness vs reps' line feels slightly copywriter-y, but the rest is strong enough to publish.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You don't need another course. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You don't need another course.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You don't need another course. You...
+**Description:** ### HOOK (0:00-0:03)
+You don't need another course. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You don't need another course. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You don't need another course. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

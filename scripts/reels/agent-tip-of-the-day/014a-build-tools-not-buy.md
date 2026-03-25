@@ -12,13 +12,13 @@ target_duration: "27 seconds"
 
 ## Script (Spoken)
 
-You're paying monthly subscriptions for tools that don't quite do what you need. Meanwhile the tool you actually want could be built in under an hour — for free.
+You're paying monthly subscriptions for tools that don't quite do what you need. Meanwhile the tool you actually want could be built in under an hour -- for free.
 
 *[Agent Tip of the Day bumper]*
 
 I built a custom mortgage affordability calculator for my agents last month. 47 minutes. Zero coding experience. I opened ChatGPT and typed: "Build me an HTML mortgage calculator that shows monthly payment, required income, and down payment scenarios." It wrote the code. I copied it into a free Carrd page. Done.
 
-Do this tonight: Think of one tool your clients always ask about — a closing cost estimator, a neighborhood comparison sheet, anything. Open ChatGPT and ask it to build it. Copy the code into Carrd. You'll have it live before bed.
+Do this tonight: Think of one tool your clients always ask about -- a closing cost estimator, a neighborhood comparison sheet, anything. Open ChatGPT and ask it to build it. Copy the code into Carrd. You'll have it live before bed.
 
 Your clients will think you hired a developer. Your competitors will wonder how you move so fast. And it cost you zero dollars.
 

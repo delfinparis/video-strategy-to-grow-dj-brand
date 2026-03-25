@@ -30,17 +30,17 @@ The guy closing 100 deals a year just admitted what he hates most about his job.
 ### SETUP (0:03-0:12)
 Eithan Davidov runs one of the top teams in Queens. Investment sales, residential, the whole game. And when I asked him what separates closers from everyone else? He didn't say prospecting. Didn't say negotiation.
 
-*Production: B-roll of NYC real estate — busy streets, buildings. Cut to Eithan speaking.*
+*Production: B-roll of NYC real estate -- busy streets, buildings. Cut to Eithan speaking.*
 
 ### INSIGHT (0:12-0:38)
-He said: 'The fortune is in the follow-up. And as much as I wish it wasn't, it's the hardest part.' Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready. That's where deals live or die. And here's the thing — he HATES it too. But he does it anyway. Because the agents who can't stomach the follow-up? They're the ones wondering why their pipeline's empty.
+He said: 'The fortune is in the follow-up. And as much as I wish it wasn't, it's the hardest part.' Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready. That's where deals live or die. And here's the thing -- he HATES it too. But he does it anyway. Because the agents who can't stomach the follow-up? They're the ones wondering why their pipeline's empty.
 
 *Production: Show Eithan's exact quote as he says it. Then cut to text overlays: 'The 3rd text.' 'The 5th email.' 'The call 3 months later.' Finish on Eithan nodding.*
 
 ### REFRAME (0:38-0:50)
-So if you're avoiding your CRM, if follow-up feels like pulling teeth — you're not broken. You're normal. The difference is the top producers do it even when it sucks. They build the system so it happens whether they feel like it or not.
+So if you're avoiding your CRM, if follow-up feels like pulling teeth -- you're not broken. You're normal. The difference is the top producers do it even when it sucks. They build the system so it happens whether they feel like it or not.
 
-*Production: Shift tone — direct to camera or text overlay. Empathetic but firm.*
+*Production: Shift tone -- direct to camera or text overlay. Empathetic but firm.*
 
 ### CTA (0:50-0:60)
 Here's your homework: Open your CRM right now. Find three people you should've followed up with last month. Send them something. Anything. That's how fortunes get built. One uncomfortable text at a time.
@@ -53,4 +53,34 @@ Here's your homework: Open your CRM right now. Find three people you should've f
 **Share Trigger:** identity
 
 ## Judge Note
-Replace 'Send them something. Anything.' with the exact message template Eithan uses for the awkward three-month-later follow-up — specificity is everything here.
+Replace 'Send them something. Anything.' with the exact message template Eithan uses for the awkward three-month-later follow-up -- specificity is everything here.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The guy closing 100 deals a year just admitted what he hates most about his job. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The guy closing 100 deals a year just admitted what he hates most about his job.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The guy closing 100 deals a...
+**Description:** ### HOOK (0:00-0:03)
+The guy closing 100 deals a year just admitted what he hates most about his job. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The guy closing 100 deals a year just admitted what he hates most about his job. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The guy closing 100 deals a year just admitted what he hates most about his job. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

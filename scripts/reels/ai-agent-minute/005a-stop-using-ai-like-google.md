@@ -38,7 +38,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ProductivityTips
 
 ### YouTube Shorts
-**Title:** You're Using AI Like Google — The Top 1% Don't
+**Title:** You're Using AI Like Google -- The Top 1% Don't
 **Description:** Occasional AI use vs. daily thinking partner = entirely different results. The gap compounds every month.
 **Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ProductivityTips #AIAgent
 

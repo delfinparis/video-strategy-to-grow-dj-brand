@@ -19,10 +19,10 @@ day: "Friday"
 **Post Date:** Friday, April 03, 2026
 
 ## On-Screen Title
-> Prep Rate Objection Responses With AI — Keep Nervous Clients From Walking
+> Prep Rate Objection Responses With AI -- Keep Nervous Clients From Walking
 
 ## Shareable Moment
-> "Your job isn't to predict interest rates. It's to help clients make confident decisions with real information. Those are completely different jobs — and only one of them is yours."
+> "Your job isn't to predict interest rates. It's to help clients make confident decisions with real information. Those are completely different jobs -- and only one of them is yours."
 
 ## Why This Rank
 Rate anxiety is the current market's dominant buyer blocker; agents who can handle this objection confidently close more deals right now.
@@ -30,15 +30,40 @@ Rate anxiety is the current market's dominant buyer blocker; agents who can hand
 ## Full Script (Spoken)
 
 Your client just texted you: "Rates went up again. We're thinking of waiting." What do you say in the next sixty seconds? [ON-SCREEN: "What do you say in the next 60 seconds?"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty — and here's your AI Agent Minute."
-Here's what most agents do. They either panic alongside the client, give a vague "rates always come down eventually" answer, or launch into something that sounds like they Googled it that morning. None of those build confidence. And a client who loses confidence doesn't pause — they disappear for months.
-Most agents try to predict the market. Top producers help clients decide despite it. [ON-SCREEN: "Help clients decide despite the market — not predict it"]
-Here's the fix. Once a month, pull current rate data from Perplexity, bring it into Claude, and type: "Prepare response frameworks for these three conversations: 'Should we wait for rates to drop?' 'Rates are too high to buy right now.' 'We're going to rent instead.' Each framework needs a simple math example, one local market data point, and a closing line that leaves the client feeling informed — not pressured." [ON-SCREEN: "3 frameworks — math example, local data, confident close"]
+"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Here's what most agents do. They either panic alongside the client, give a vague "rates always come down eventually" answer, or launch into something that sounds like they Googled it that morning. None of those build confidence. And a client who loses confidence doesn't pause -- they disappear for months.
+Most agents try to predict the market. Top producers help clients decide despite it. [ON-SCREEN: "Help clients decide despite the market -- not predict it"]
+Here's the fix. Once a month, pull current rate data from Perplexity, bring it into Claude, and type: "Prepare response frameworks for these three conversations: 'Should we wait for rates to drop?' 'Rates are too high to buy right now.' 'We're going to rent instead.' Each framework needs a simple math example, one local market data point, and a closing line that leaves the client feeling informed -- not pressured." [ON-SCREEN: "3 frameworks -- math example, local data, confident close"]
 Practice those frameworks until they're automatic. Your job isn't to predict rates. It's to help clients make confident decisions with real information.
-What's the rate question you hear most from clients right now? Drop it below — I'll address it in an upcoming video. [ON-SCREEN: What rate question do you hear most?]
+What's the rate question you hear most from clients right now? Drop it below -- I'll address it in an upcoming video. [ON-SCREEN: What rate question do you hear most?]
 See you next time.
 
 ## Producer Note
-Time-sensitive — rate anxiety is a live issue in this market. Film soon. The opening scenario ("your client just texted") is a strong mirror moment because it's specific and present-tense. The CTA will generate a useful ongoing content bank of rate questions to address.
+Time-sensitive -- rate anxiety is a live issue in this market. Film soon. The opening scenario ("your client just texted") is a strong mirror moment because it's specific and present-tense. The CTA will generate a useful ongoing content bank of rate questions to address.
 
 **Word Count:** 227 | **Estimated Duration:** ~107 seconds
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** Prep Rate Objection Responses With AI Watch this and save it for later.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
+
+### TikTok
+**Caption:** Prep Rate Objection Responses With AI
+**Hashtags:** #AIforRealtors #RealEstateAI #RealtorLife #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Prep Rate Objection Responses With AI
+**Description:** Prep Rate Objection Responses With AI This changes how you think about your business.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
+
+### Facebook
+**Caption:** Prep Rate Objection Responses With AI If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
+
+### LinkedIn
+**Caption:** Prep Rate Objection Responses With AI The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstate #ProfessionalDevelopment #RealEstateTechnology

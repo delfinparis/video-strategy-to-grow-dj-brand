@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #BuyerAgent #RealEstateAI #AIAgentMinute #ShowingPrep
 
 ### YouTube Shorts
-**Title:** You Have the Same Info as Your Buyer — That's the Problem
+**Title:** You Have the Same Info as Your Buyer -- That's the Problem
 **Description:** If your buyer has the same information you do, what exactly are you bringing to the showing? Context is the difference.
 **Hashtags:** #BuyerAgent #RealEstateAI #AIAgentMinute #ShowingPrep #RealEstateTips
 

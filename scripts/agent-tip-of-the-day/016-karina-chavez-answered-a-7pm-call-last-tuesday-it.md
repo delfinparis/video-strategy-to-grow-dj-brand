@@ -33,7 +33,7 @@ She's a top 1% producer in Albuquerque who built her business entirely on referr
 *Production: B-roll of Karina at closing table, hugging clients. Her phone buzzing on the table throughout.*
 
 ### INSIGHT (0:12-0:38)
-"Always answer your phone. You never know what you're going to get." That Tuesday call? A past client's coworker whose agent went dark during inspection. She needed someone who'd actually pick up. Most agents saw a random evening number and let it ring. Karina answered on the second ring. Here's what nobody tells you — people don't want to leave voicemails about six-figure decisions. They want a human. Right now. And they'll move to the next agent in their contacts faster than you think.
+"Always answer your phone. You never know what you're going to get." That Tuesday call? A past client's coworker whose agent went dark during inspection. She needed someone who'd actually pick up. Most agents saw a random evening number and let it ring. Karina answered on the second ring. Here's what nobody tells you -- people don't want to leave voicemails about six-figure decisions. They want a human. Right now. And they'll move to the next agent in their contacts faster than you think.
 
 *Production: Show Karina's phone ringing at 7:04pm. Text overlay: 'Past client referral - needs agent NOW'. Cut to Karina answering enthusiastically. Show competitor's phone going to voicemail with 'call declined' animation.*
 
@@ -43,14 +43,44 @@ You're at 30 deals this year and can't figure out why you're plateaued. Meanwhil
 *Production: Split screen: Agent ignoring call while scrolling social media vs. calculator showing $15,000 commission. Agent's expression shifts from defensive to 'oh shit' realization.*
 
 ### CTA (0:50-0:60)
-Right now — not tomorrow — go into your phone settings. Turn off 'Silence Unknown Callers.' Then answer every single call for the next seven days. Keep a note in your phone: who called, what they wanted. Report back next Friday on what you found.
+Right now -- not tomorrow -- go into your phone settings. Turn off 'Silence Unknown Callers.' Then answer every single call for the next seven days. Keep a note in your phone: who called, what they wanted. Report back next Friday on what you found.
 
 *Production: Screen recording showing iPhone Settings > Phone > Silence Unknown Callers being toggled OFF. Text overlay: 'ANSWER EVERY CALL - 7 DAYS' with checkbox. End on Karina answering phone with genuine smile.*
 
 ## Social Media
-**Caption:** She answered at 7pm on a Tuesday. Listed it Thursday. Your phone isn't ringing less—you're just not answering. (via Karina Chavez)
+**Caption:** She answered at 7pm on a Tuesday. Listed it Thursday. Your phone isn't ringing less -- you're just not answering. (via Karina Chavez)
 **Hashtags:** #RealEstateAgent #RealtorTips #TopProducer #RealEstateBusiness #AgentAdvice
 **Share Trigger:** utility
 
 ## Judge Note
-Perfect as-is—the Tuesday 7pm specificity makes this feel like it happened yesterday, and the CTA is actionable immediately.
+Perfect as-is -- the Tuesday 7pm specificity makes this feel like it happened yesterday, and the CTA is actionable immediately.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Karina Chavez answered a 7pm call last Tuesday. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Karina Chavez answered a 7pm call last Tuesday.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Karina Chavez answered a 7pm call...
+**Description:** ### HOOK (0:00-0:03)
+Karina Chavez answered a 7pm call last Tuesday. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Karina Chavez answered a 7pm call last Tuesday. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Karina Chavez answered a 7pm call last Tuesday. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

@@ -25,27 +25,27 @@ share_trigger: "utility"
 ### HOOK (0:00-0:03)
 Your about me video is boring because you're bragging about the wrong things.
 
-*Production: Text on screen: 'Your About Me Video Is Boring' — stark, bold, attention-grabbing typography*
+*Production: Text on screen: 'Your About Me Video Is Boring' -- stark, bold, attention-grabbing typography*
 
 ### SETUP (0:03-0:12)
-Most agents list their awards, their years in business, their designations. And prospects scroll right past it. Kim Ritberg — former TV producer who's coached hundreds of agents — says you're missing the entire point.
+Most agents list their awards, their years in business, their designations. And prospects scroll right past it. Kim Ritberg -- former TV producer who's coached hundreds of agents -- says you're missing the entire point.
 
 *Production: B-roll of generic 'about me' videos or agent headshots with awards. Quick cuts to establish the problem.*
 
 ### INSIGHT (0:12-0:38)
 Here's what she told me: 'Accomplishments can also be past clients that you helped save money, make more money, more stress-free experience.' Not your rookie of the year award. Not your million-dollar club plaque. The family you helped buy their first home for thirty thousand under asking. The seller you got an extra week to move out so they didn't have to put their stuff in storage. The couple you walked through a bidding war without losing their minds.
 
-*Production: Split screen: left side shows traditional 'accomplishments' (plaques, certificates). Right side shows real client stories — keys being handed over, moving boxes, family photos in new homes.*
+*Production: Split screen: left side shows traditional 'accomplishments' (plaques, certificates). Right side shows real client stories -- keys being handed over, moving boxes, family photos in new homes.*
 
 ### REFRAME (0:38-0:50)
-Because here's the thing — nobody hires you because you won an award. They hire you because they think you can solve their problem. And the fastest way to prove that? Show them you already did it for someone exactly like them.
+Because here's the thing -- nobody hires you because you won an award. They hire you because they think you can solve their problem. And the fastest way to prove that? Show them you already did it for someone exactly like them.
 
 *Production: Close-up of Kim speaking directly to camera, or overlay text emphasizing 'someone exactly like them'*
 
 ### CTA (0:50-0:60)
-So before you film your next about me video — write down three client wins. Specific ones. With numbers. That's your script. Not your resume.
+So before you film your next about me video -- write down three client wins. Specific ones. With numbers. That's your script. Not your resume.
 
-*Production: Text on screen: '3 Client Wins = Your Script' — clean, actionable end card*
+*Production: Text on screen: '3 Client Wins = Your Script' -- clean, actionable end card*
 
 ## Social Media
 **Caption:** Stop listing awards. Start sharing client wins. That's the about me video people actually watch.
@@ -53,4 +53,34 @@ So before you film your next about me video — write down three client wins. Sp
 **Share Trigger:** utility
 
 ## Judge Note
-Hook needs a sharper pain point—'boring' is vague; try 'Your about me video got 47 views and zero calls. Here's why.'
+Hook needs a sharper pain point -- 'boring' is vague; try 'Your about me video got 47 views and zero calls. Here's why.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your about me video is boring because you're bragging about the wrong things. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your about me video is boring because you're bragging about the wrong things.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your about me video is boring...
+**Description:** ### HOOK (0:00-0:03)
+Your about me video is boring because you're bragging about the wrong things. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your about me video is boring because you're bragging about the wrong things. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your about me video is boring because you're bragging about the wrong things. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

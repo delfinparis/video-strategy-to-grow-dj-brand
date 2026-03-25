@@ -28,17 +28,17 @@ The agents closing luxury deals right now aren't the ones texting back fastest.
 *Production: Text on screen: 'Fast Response ≠ Closed Deal' with a crossed-out phone notification. Quick cut to Carrie mid-sentence, serious expression.*
 
 ### SETUP (0:03-0:12)
-Carrie McCormick — top 1% Chicago producer for twenty years — just named the shift that's killing hustlers and minting advisors. And most agents are still playing last year's game.
+Carrie McCormick -- top 1% Chicago producer for twenty years -- just named the shift that's killing hustlers and minting advisors. And most agents are still playing last year's game.
 
 *Production: B-roll of luxury Chicago properties. Quick stats overlay: 'Top 1% | 20+ Years | $500M+ Sold'*
 
 ### INSIGHT (0:12-0:38)
-Here's what she told me: 'The market is moving from speed to strategy. It's about judgment over urgency.' Here's what that looks like in real life. Last month, Carrie had a buyer ready to offer full price on a Lincoln Park condo. Inspection came back clean. Buyer's lender pre-approved. But Carrie walked them. Why? The building had two special assessments pending — $40K total — buried in the board minutes. The fast agent closes that deal and deals with the fallout. The strategic agent reads the minutes, does the math, and says 'we walk.' That's judgment. That's what clients pay six percent for in 2026.
+Here's what she told me: 'The market is moving from speed to strategy. It's about judgment over urgency.' Here's what that looks like in real life. Last month, Carrie had a buyer ready to offer full price on a Lincoln Park condo. Inspection came back clean. Buyer's lender pre-approved. But Carrie walked them. Why? The building had two special assessments pending -- $40K total -- buried in the board minutes. The fast agent closes that deal and deals with the fallout. The strategic agent reads the minutes, does the math, and says 'we walk.' That's judgment. That's what clients pay six percent for in 2026.
 
 *Production: Split screen: Left side shows frantic 'OFFER ACCEPTED' celebration. Right side shows Carrie speaking the quote directly to camera. Then cut to document close-ups: 'Board Minutes' | 'Special Assessment Line Item' | 'Carrie's advice: Walk.' Text overlay at end: 'Strategy saved this buyer $40K.'*
 
 ### REFRAME (0:38-0:50)
-So if you've been wondering why working harder isn't working better — this is why. You've been optimizing for speed in a strategy game. The agents winning right now? They're the ones clients call before they call their lawyer.
+So if you've been wondering why working harder isn't working better -- this is why. You've been optimizing for speed in a strategy game. The agents winning right now? They're the ones clients call before they call their lawyer.
 
 *Production: Close-up of Carrie, nodding. Text overlay: 'You've been optimizing for speed in a strategy game.' Then: 'Counsel > Hustle'*
 
@@ -53,4 +53,34 @@ Tonight, pull your last three closed deals. Open the inspection reports. Find on
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA asks them to audit past mistakes instead of giving them a forward-facing action they can use on their next deal — flip it to 'next listing' not 'last three deals.'
+The CTA asks them to audit past mistakes instead of giving them a forward-facing action they can use on their next deal -- flip it to 'next listing' not 'last three deals.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The agents closing luxury deals right now aren't the ones texting back fastest. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The agents closing luxury deals right now aren't the ones texting back fastest.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The agents closing luxury deals right...
+**Description:** ### HOOK (0:00-0:03)
+The agents closing luxury deals right now aren't the ones texting back fastest. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The agents closing luxury deals right now aren't the ones texting back fastest. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The agents closing luxury deals right now aren't the ones texting back fastest. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #MediaPR #AIAgentMinute #RealtorBranding
 
 ### YouTube Shorts
-**Title:** Local Media Quotes Real Estate Experts Every Week — Why Not You?
+**Title:** Local Media Quotes Real Estate Experts Every Week -- Why Not You?
 **Description:** Local media needs expert sources on real estate every single week. One quote permanently elevates your profile.
 **Hashtags:** #RealEstateAI #MediaPR #AIAgentMinute #RealtorBranding #LocalMedia
 

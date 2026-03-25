@@ -2,12 +2,12 @@
 series: "AI Agent Minute"
 original_script: "076"
 reel_number: 1 of 2
-title: "Stop Comparing — Start Auditing"
+title: "Stop Comparing -- Start Auditing"
 target_duration: "25 seconds"
 ai_tool: "Claude"
 ---
 
-# Stop Comparing — Start Auditing
+# Stop Comparing -- Start Auditing
 
 > **On-Screen Text:** You're measuring your behind-the-scenes against their highlight reel
 
@@ -36,7 +36,7 @@ See you next time.
 **Hashtags:** #RealEstateAgent #MindsetMatters #AIforRealtors #StopComparing
 
 ### YouTube Shorts
-**Title:** Stop Comparing — Start Auditing
+**Title:** Stop Comparing -- Start Auditing
 **Description:** Comparison is the thief of production. There's a better use of that energy.
 **Hashtags:** #RealEstateAgent #MindsetMatters #AIforRealtors #StopComparing #RealEstateCoach
 

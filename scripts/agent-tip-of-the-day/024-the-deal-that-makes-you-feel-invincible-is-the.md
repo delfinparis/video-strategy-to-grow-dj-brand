@@ -53,4 +53,34 @@ So ask yourself: what's the one activity you skip when things are going really w
 **Share Trigger:** identity
 
 ## Judge Note
-This is nearly perfect—only weakness is the 'data points not identity markers' line feels slightly LinkedIn-coach-y, but it doesn't hurt the overall impact.
+This is nearly perfect -- only weakness is the 'data points not identity markers' line feels slightly LinkedIn-coach-y, but it doesn't hurt the overall impact.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The deal that makes you feel invincible is the same one that's about to wreck your next three mo... Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The deal that makes you feel invincible is the same one that's about to wreck your next three mo...
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The deal that makes you feel...
+**Description:** ### HOOK (0:00-0:03)
+The deal that makes you feel invincible is the same one that's about to wreck your next three mo... This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The deal that makes you feel invincible is the same one that's about to wreck your next three mo... If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The deal that makes you feel invincible is the same one that's about to wreck your next three mo... The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

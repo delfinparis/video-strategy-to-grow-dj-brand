@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAgent #LeadFollow #RealtorLife #SalesTips
 
 ### YouTube Shorts
-**Title:** Your Leads Aren't Ghosting You — Your Follow-Up Is
+**Title:** Your Leads Aren't Ghosting You -- Your Follow-Up Is
 **Description:** Leads don't ghost agents they find valuable. They ghost agents they feel pressure from. Those are completely different problems.
 **Hashtags:** #RealEstateAgent #LeadFollow #RealtorLife #SalesTips #LeadGeneration
 

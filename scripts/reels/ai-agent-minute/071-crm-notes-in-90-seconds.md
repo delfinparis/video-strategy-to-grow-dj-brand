@@ -36,7 +36,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #CRMTips #AIAgentMinute #ClaudeAI
 
 ### YouTube Shorts
-**Title:** CRM Notes in 90 Seconds — Voice Memo to Claude to Done
+**Title:** CRM Notes in 90 Seconds -- Voice Memo to Claude to Done
 **Description:** Sixty-second voice memo plus one Claude prompt equals perfect CRM notes. Ninety seconds total. No excuses.
 **Hashtags:** #RealEstateAI #CRMTips #AIAgentMinute #ClaudeAI #RealtorSystems
 

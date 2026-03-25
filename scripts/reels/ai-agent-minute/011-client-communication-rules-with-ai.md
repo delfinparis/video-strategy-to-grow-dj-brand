@@ -36,7 +36,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #RealtorLife #TimeManagement
 
 ### YouTube Shorts
-**Title:** Stop Being Available 24/7 — Build Communication Rules With AI
+**Title:** Stop Being Available 24/7 -- Build Communication Rules With AI
 **Description:** The Claude prompt that builds your client communication rules -- warm, professional, and protective of the time that makes you great.
 **Hashtags:** #AIforRealtors #Claude #RealtorLife #TimeManagement #ClientManagement
 

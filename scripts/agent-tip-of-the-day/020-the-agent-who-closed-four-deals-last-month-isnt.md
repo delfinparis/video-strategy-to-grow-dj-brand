@@ -18,7 +18,7 @@ share_trigger: "identity"
 **Score:** 9 | **Rank:** 20 of 62
 **Post Date:** Thursday, April 09, 2026
 
-> **Strongest Line:** "Right now — not tomorrow, NOW — open your phone. Text five past clients this exact message: 'Quick question: who do you know thinking about moving in the next 6 months?'"
+> **Strongest Line:** "Right now -- not tomorrow, NOW -- open your phone. Text five past clients this exact message: 'Quick question: who do you know thinking about moving in the next 6 months?'"
 
 ## Script
 
@@ -28,7 +28,7 @@ The agent who closed four deals last month isn't smarter than you.
 *Production: B-roll: Office setting, agent celebrating at desk with 'SOLD' notifications on screen. Contrast with another agent looking frustrated.*
 
 ### SETUP (0:03-0:12)
-They just made forty-seven calls while you were rewriting your bio. Kristee Leonard — $50 million producer in Austin — doesn't win on strategy. She wins on reps.
+They just made forty-seven calls while you were rewriting your bio. Kristee Leonard -- $50 million producer in Austin -- doesn't win on strategy. She wins on reps.
 
 *Production: Cut to Kristee's headshot or footage. Text overlay: '$50M+ Producer, Austin TX' then 'REPS > STRATEGY'*
 
@@ -43,7 +43,7 @@ You've been waiting to feel ready. To know enough. To have the right scripts. Bu
 *Production: Direct to camera or Kristee footage. Slow push-in. Text overlay: 'Someone with half your knowledge and twice your hustle'*
 
 ### CTA (0:50-0:60)
-Right now — not tomorrow, NOW — open your phone. Text five past clients this exact message: 'Quick question: who do you know thinking about moving in the next 6 months?' Send it before this video ends. That's forty-five seconds of work that beats four hours of planning.
+Right now -- not tomorrow, NOW -- open your phone. Text five past clients this exact message: 'Quick question: who do you know thinking about moving in the next 6 months?' Send it before this video ends. That's forty-five seconds of work that beats four hours of planning.
 
 *Production: Screen record of phone opening messages app. Text overlay: 'TEXT 5 PAST CLIENTS NOW' with the exact message displayed. Timer counting down from 0:45.*
 
@@ -54,3 +54,33 @@ Right now — not tomorrow, NOW — open your phone. Text five past clients this
 
 ## Judge Note
 Cut 'The learning phase is over' (too coaching-speak) and the hook could be sharper with a number: 'The agent who closed four deals last month made 47 more calls than you.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The agent who closed four deals last month isn't smarter than you. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The agent who closed four deals last month isn't smarter than you.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The agent who closed four deals...
+**Description:** ### HOOK (0:00-0:03)
+The agent who closed four deals last month isn't smarter than you. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The agent who closed four deals last month isn't smarter than you. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The agent who closed four deals last month isn't smarter than you. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

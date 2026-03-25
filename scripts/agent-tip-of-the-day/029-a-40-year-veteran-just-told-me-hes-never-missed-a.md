@@ -43,7 +43,7 @@ You're probably obsessing over your Instagram strategy right now. But here's the
 *Production: Split screen: left side shows phone with Instagram analytics. Right side shows simple text: 'SHOW UP. TELL THE TRUTH.' Slow zoom on right side. Keep Jay's strongest line intact.*
 
 ### CTA (0:50-0:60)
-Right now, open your phone. Find the client conversation you've been avoiding—the one where you have to deliver bad news or admit you dropped the ball. Text them: 'Can we talk tomorrow at 9am? I owe you an update.' Send it before this video ends. That's the pattern Jay's talking about.
+Right now, open your phone. Find the client conversation you've been avoiding -- the one where you have to deliver bad news or admit you dropped the ball. Text them: 'Can we talk tomorrow at 9am? I owe you an update.' Send it before this video ends. That's the pattern Jay's talking about.
 
 *Production: Return to Jay looking directly at camera. Text overlay appears step-by-step: '1. OPEN YOUR PHONE' → '2. FIND THE CONVERSATION' → '3. TEXT THEM NOW' → 'SEND IT.' Fade to podcast logo.*
 
@@ -53,4 +53,34 @@ Right now, open your phone. Find the client conversation you've been avoiding—
 **Share Trigger:** identity
 
 ## Judge Note
-Hook buries the lead—lead with the Friday 4pm buyer backing out, then reveal he drove there that night.
+Hook buries the lead -- lead with the Friday 4pm buyer backing out, then reveal he drove there that night.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+A 40-year veteran just told me he's never missed a closing. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+A 40-year veteran just told me he's never missed a closing.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** A 40-year veteran just told me...
+**Description:** ### HOOK (0:00-0:03)
+A 40-year veteran just told me he's never missed a closing. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+A 40-year veteran just told me he's never missed a closing. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+A 40-year veteran just told me he's never missed a closing. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

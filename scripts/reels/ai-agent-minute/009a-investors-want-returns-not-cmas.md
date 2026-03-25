@@ -38,7 +38,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #RealEstateInvesting #InvestorAgent
 
 ### YouTube Shorts
-**Title:** Investors Don't Hire Agents — They Hire Analysts
+**Title:** Investors Don't Hire Agents -- They Hire Analysts
 **Description:** Investors don't want CMAs. They want return analyses. The agent who speaks in numbers wins the investor -- for life.
 **Hashtags:** #AIforRealtors #Claude #RealEstateInvesting #InvestorAgent #RealEstateAgent
 

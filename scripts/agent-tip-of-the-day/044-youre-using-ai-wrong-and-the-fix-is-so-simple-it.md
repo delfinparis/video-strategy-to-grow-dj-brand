@@ -33,7 +33,7 @@ Michael Thornton does $30 million a year in Wheaton, Illinois. He's not just usi
 *Production: B-roll: Michael's website ranking on AI search, screenshot of ChatGPT interface. Text overlay: '$30M/year producer'*
 
 ### INSIGHT (0:12-0:38)
-Here's what he does. Instead of just asking ChatGPT to write a listing description or summarize an email, he asks it: 'How can I use you better for real estate?' And it tells him. It suggests workflows he didn't know existed. Prompts he never thought to try. He's literally having AI train him. And it's working — his blogs now show up as source material when people ask AI about restaurants in his town. He's hijacking the algorithm because he asked the algorithm how to hijack it.
+Here's what he does. Instead of just asking ChatGPT to write a listing description or summarize an email, he asks it: 'How can I use you better for real estate?' And it tells him. It suggests workflows he didn't know existed. Prompts he never thought to try. He's literally having AI train him. And it's working -- his blogs now show up as source material when people ask AI about restaurants in his town. He's hijacking the algorithm because he asked the algorithm how to hijack it.
 
 *Production: Screen recording: Typing 'How can I use you better for real estate?' into ChatGPT. Show AI's response scrolling. Cut to Michael explaining with energy. Text overlay key phrases: 'Ask AI to train you' / 'Hijack the algorithm'*
 
@@ -53,4 +53,34 @@ So here's your homework. Open ChatGPT right now. Type: 'How can I use you better
 **Share Trigger:** utility
 
 ## Judge Note
-The 'hijacking the algorithm' phrase is repeated awkwardly—rephrase the second instance to avoid the echo.
+The 'hijacking the algorithm' phrase is repeated awkwardly -- rephrase the second instance to avoid the echo.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You're using AI wrong. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You're using AI wrong.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You're using AI wrong. And the...
+**Description:** ### HOOK (0:00-0:03)
+You're using AI wrong. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You're using AI wrong. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You're using AI wrong. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

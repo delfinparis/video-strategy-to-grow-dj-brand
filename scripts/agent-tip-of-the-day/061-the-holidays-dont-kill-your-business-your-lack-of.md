@@ -40,7 +40,7 @@ Here's the difference. Interested agents say 'I'll work hard... unless it's cold
 ### REFRAME (0:38-0:50)
 So when you catch yourself blocking off December 15th through January 2nd, ask: Am I committed, or just interested? Because interested agents reset every January. Committed agents separate in December. While everyone else is at holiday parties, you're building January's pipeline.
 
-*Production: Close-up of Paul. Cut to visual: two paths diverging — one labeled 'RESET AGAIN,' one labeled 'SEPARATE NOW.' B-roll of empty office vs agent working.*
+*Production: Close-up of Paul. Cut to visual: two paths diverging -- one labeled 'RESET AGAIN,' one labeled 'SEPARATE NOW.' B-roll of empty office vs agent working.*
 
 ### CTA (0:50-0:60)
 Here's your test. Tomorrow morning, before 10am, call five past clients you haven't talked to in six months. Just check in. 'Hey, thinking of you before the holidays.' That's it. Five calls. Before 10am. That's what committed looks like. Full episode in bio.
@@ -53,4 +53,34 @@ Here's your test. Tomorrow morning, before 10am, call five past clients you have
 **Share Trigger:** identity
 
 ## Judge Note
-Drop the guest intro and start with 'December is the litmus test' — the hook is strong but the setup delays the punch.
+Drop the guest intro and start with 'December is the litmus test' -- the hook is strong but the setup delays the punch.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The holidays don't kill your business. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The holidays don't kill your business.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The holidays don't kill your business....
+**Description:** ### HOOK (0:00-0:03)
+The holidays don't kill your business. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The holidays don't kill your business. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The holidays don't kill your business. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

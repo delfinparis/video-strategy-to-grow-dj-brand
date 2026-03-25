@@ -28,9 +28,9 @@ You're negotiating blind. And the other agent isn't.
 *Production: Hard cut to Tim. No music. Direct eye contact. Let the silence land.*
 
 ### SETUP (0:03-0:12)
-Tim Burrell — attorney, contractor, RE/MAX Hall of Fame — closes deals most agents walk away from. His edge? He knows more about the other side before the first conversation even starts.
+Tim Burrell -- attorney, contractor, RE/MAX Hall of Fame -- closes deals most agents walk away from. His edge? He knows more about the other side before the first conversation even starts.
 
-*Production: B-roll: Tim's book 'The AI Negotiator' on screen. Quick cuts of negotiation scenes — handshakes, contract signings.*
+*Production: B-roll: Tim's book 'The AI Negotiator' on screen. Quick cuts of negotiation scenes -- handshakes, contract signings.*
 
 ### INSIGHT (0:12-0:38)
 Here's what he does. Before every negotiation, he feeds AI the other agent's name. Within seconds, he's got their transaction history, their negotiation patterns, their pressure points. 'One of the things that AI does particularly well,' Tim says, 'is to give you information about the other person.' Not generic research. Specific intel. How aggressive they counter. What concessions they typically make. Where they cave. It's like walking into a poker game knowing everyone's tells.
@@ -53,4 +53,34 @@ Next negotiation, try this. Take their name, run it through ChatGPT with public 
 **Share Trigger:** utility
 
 ## Judge Note
-The CTA needs a more specific prompt example — 'public transaction data' is vague and most agents won't know where to find it.
+The CTA needs a more specific prompt example -- 'public transaction data' is vague and most agents won't know where to find it.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You're negotiating blind. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You're negotiating blind.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You're negotiating blind. And the other...
+**Description:** ### HOOK (0:00-0:03)
+You're negotiating blind. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You're negotiating blind. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You're negotiating blind. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

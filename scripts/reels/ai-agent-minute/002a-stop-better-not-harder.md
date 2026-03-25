@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealtorLife #Productivity #RealEstateAgent #MindsetShift
 
 ### YouTube Shorts
-**Title:** Top Producers Don't Work Harder — They Stop Better
+**Title:** Top Producers Don't Work Harder -- They Stop Better
 **Description:** You don't have a productivity problem. You have a shutdown problem. Here's why you start every morning feeling behind.
 **Hashtags:** #RealtorLife #Productivity #RealEstateAgent #MindsetShift #WorkLifeBalance
 

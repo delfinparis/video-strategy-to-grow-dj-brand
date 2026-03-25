@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #RelocationBuyers #AIAgentMinute #RealtorTips
 
 ### YouTube Shorts
-**Title:** Relocation Buyers Need an Agent Who Shows Them the City — Not Just Houses
+**Title:** Relocation Buyers Need an Agent Who Shows Them the City -- Not Just Houses
 **Description:** Relocation clients need a community guide, not just a showing tour. Most agents miss this entirely.
 **Hashtags:** #RealEstateAI #RelocationBuyers #AIAgentMinute #RealtorTips #RelocationAgent
 

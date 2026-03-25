@@ -33,12 +33,12 @@ While you're copy-pasting the same tired phrases about 'spacious kitchens' and '
 *Production: Split screen: tired listing language on left, D.J. headshot on right. Text overlay: 'VP of Business Development, Real Estate Tech'*
 
 ### INSIGHT (0:12-0:38)
-He said, 'I just sold my condo and I really wanted to utilize AI to write the very best possible listing description.' He fed property details into an AI tool. Thirty seconds later, he had copy that wasn't just better — it was emotionally resonant. Specific. The kind of description that makes buyers stop scrolling and start imagining their life there. Result? Sold in two days. Not two weeks. Two days.
+He said, 'I just sold my condo and I really wanted to utilize AI to write the very best possible listing description.' He fed property details into an AI tool. Thirty seconds later, he had copy that wasn't just better -- it was emotionally resonant. Specific. The kind of description that makes buyers stop scrolling and start imagining their life there. Result? Sold in two days. Not two weeks. Two days.
 
 *Production: Screen recording of AI tool interface (if available) or animated text showing 'generic description' transforming into 'AI-enhanced description.' End with bold text: 'SOLD IN 2 DAYS'*
 
 ### REFRAME (0:38-0:50)
-Here's what this means for you: every extra day your listing sits is another day a buyer questions the price. AI isn't replacing your expertise — it's amplifying it. The agents winning right now aren't the ones with the most experience. They're the ones willing to use every edge.
+Here's what this means for you: every extra day your listing sits is another day a buyer questions the price. AI isn't replacing your expertise -- it's amplifying it. The agents winning right now aren't the ones with the most experience. They're the ones willing to use every edge.
 
 *Production: B-roll of 'Days on Market' stats, then shift to confident agent at laptop. Text overlay: 'Every extra day = price doubt'*
 
@@ -53,4 +53,34 @@ So here's your homework: take your weakest listing description right now and run
 **Share Trigger:** utility
 
 ## Judge Note
-Hook needs a number or specific pain point—'Your listing descriptions are adding 14 days to your DOM' would stop more thumbs.
+Hook needs a number or specific pain point -- 'Your listing descriptions are adding 14 days to your DOM' would stop more thumbs.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your listing descriptions are costing you days on market. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your listing descriptions are costing you days on market.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your listing descriptions are costing you...
+**Description:** ### HOOK (0:00-0:03)
+Your listing descriptions are costing you days on market. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your listing descriptions are costing you days on market. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your listing descriptions are costing you days on market. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

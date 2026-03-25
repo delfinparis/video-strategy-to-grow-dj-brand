@@ -40,7 +40,7 @@ Here's what that means: 'This separation season is not only an opportunity to di
 ### REFRAME (0:38-0:50)
 The agent who closes three deals in December isn't just ahead on commission. They're walking into January with momentum everyone else has to manufacture from scratch. You're not grinding. You're separating.
 
-*Production: Close-up shots of small wins — a signed contract, a follow-up call, a client handshake. Energy shifts from urgent to confident. Show '3 DEALS' text overlay.*
+*Production: Close-up shots of small wins -- a signed contract, a follow-up call, a client handshake. Energy shifts from urgent to confident. Show '3 DEALS' text overlay.*
 
 ### CTA (0:50-0:60)
 Here's your move: Open your phone right now. Text three past clients this exact message: 'Hey [name], thinking of you this season. Coffee on me this week?' Send it before this video ends. That's separation season. Full episode in bio.
@@ -53,4 +53,34 @@ Here's your move: Open your phone right now. Text three past clients this exact 
 **Share Trigger:** identity
 
 ## Judge Note
-Cut the guest intro line entirely — the hook is strong enough that you can go straight into 'December isn't downtime. It's what top producers call Separation Season.'
+Cut the guest intro line entirely -- the hook is strong enough that you can go straight into 'December isn't downtime. It's what top producers call Separation Season.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+While your competition is posting 'Out of Office,' you're about to lap them. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+While your competition is posting 'Out of Office,' you're about to lap them.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** While your competition is posting 'Out...
+**Description:** ### HOOK (0:00-0:03)
+While your competition is posting 'Out of Office,' you're about to lap them. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+While your competition is posting 'Out of Office,' you're about to lap them. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+While your competition is posting 'Out of Office,' you're about to lap them. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

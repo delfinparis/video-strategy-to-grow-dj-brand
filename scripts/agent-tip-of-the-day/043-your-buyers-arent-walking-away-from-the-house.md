@@ -28,7 +28,7 @@ Your buyers aren't walking away from the house. They're walking away from you.
 *Production: Hard cut to Carrie mid-sentence, tight frame. Text overlay: 'They're walking away from YOU'*
 
 ### SETUP (0:03-0:12)
-Carrie McCormick — top 1% producer in Chicago luxury — just told me why deals die. And it has nothing to do with the property.
+Carrie McCormick -- top 1% producer in Chicago luxury -- just told me why deals die. And it has nothing to do with the property.
 
 *Production: B-roll: Carrie's credentials (top 1%, Chicago skyline). Quick cuts to keep pace.*
 
@@ -53,4 +53,34 @@ Tomorrow morning, take your next listing. Write out three sentences: Why this pr
 **Share Trigger:** utility
 
 ## Judge Note
-The CTA is too generic for how specific the insight is — give them the exact three-sentence template to copy-paste, not just the concept.
+The CTA is too generic for how specific the insight is -- give them the exact three-sentence template to copy-paste, not just the concept.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your buyers aren't walking away from the house. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your buyers aren't walking away from the house.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your buyers aren't walking away from...
+**Description:** ### HOOK (0:00-0:03)
+Your buyers aren't walking away from the house. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your buyers aren't walking away from the house. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your buyers aren't walking away from the house. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

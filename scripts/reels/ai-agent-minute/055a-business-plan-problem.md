@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #BusinessPlanning #AIAgentMinute #RealtorGoals
 
 ### YouTube Shorts
-**Title:** You Said "More Deals" in January — Do You Remember That?
+**Title:** You Said "More Deals" in January -- Do You Remember That?
 **Description:** Working hard without a plan is just organized chaos. One hour of planning changes the entire year.
 **Hashtags:** #RealEstateAI #BusinessPlanning #AIAgentMinute #RealtorGoals #RealEstateBusiness
 

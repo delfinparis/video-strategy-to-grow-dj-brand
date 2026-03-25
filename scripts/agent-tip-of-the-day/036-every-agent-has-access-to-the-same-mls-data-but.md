@@ -30,10 +30,10 @@ Every agent has access to the same MLS data. But only 3% know how to actually us
 ### SETUP (0:03-0:12)
 Chris Linsell is a real estate tech analyst in Michigan. And he just dropped the simplest AI tactic I've heard for agents drowning in market data they can't interpret fast enough.
 
-*Production: Cut to Chris speaking on camera, then back to host. Graphics: 'Chris Linsell — Real Estate Tech Analyst'*
+*Production: Cut to Chris speaking on camera, then back to host. Graphics: 'Chris Linsell -- Real Estate Tech Analyst'*
 
 ### INSIGHT (0:12-0:38)
-Here's what he said: 'You can have AI do exactly what you were saying — start interpreting data in my local market.' Not writing listing descriptions. Not generating social posts. Interpreting YOUR market data. Feed ChatGPT your local sold comps, days on market, price trends. Ask it: 'What pattern am I missing?' Or: 'Why are homes under 300K moving faster in zip code 48374?' It'll spot the trend you've been staring past for three months.
+Here's what he said: 'You can have AI do exactly what you were saying -- start interpreting data in my local market.' Not writing listing descriptions. Not generating social posts. Interpreting YOUR market data. Feed ChatGPT your local sold comps, days on market, price trends. Ask it: 'What pattern am I missing?' Or: 'Why are homes under 300K moving faster in zip code 48374?' It'll spot the trend you've been staring past for three months.
 
 *Production: Screen recording: ChatGPT interface with real estate data being pasted in, then AI response highlighting a specific trend. Text overlay of key prompts.*
 
@@ -53,4 +53,34 @@ Pull your last 90 days of sold data tonight. Drop it into ChatGPT. Ask one quest
 **Share Trigger:** utility
 
 ## Judge Note
-The 3% stat feels made up—cut it and go straight to 'Chris Linsell just dropped the simplest AI tactic' for a cleaner open.
+The 3% stat feels made up -- cut it and go straight to 'Chris Linsell just dropped the simplest AI tactic' for a cleaner open.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Every agent has access to the same MLS data. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Every agent has access to the same MLS data.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Every agent has access to the...
+**Description:** ### HOOK (0:00-0:03)
+Every agent has access to the same MLS data. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Every agent has access to the same MLS data. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Every agent has access to the same MLS data. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

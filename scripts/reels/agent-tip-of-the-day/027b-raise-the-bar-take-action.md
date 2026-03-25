@@ -35,7 +35,7 @@ See you next time.
 **Hashtags:** #RealEstateProfessional #RaiseTheBar #RealtorAdvocacy #LicensingStandards
 
 ### YouTube Shorts
-**Title:** Raise the Bar — Here's How
+**Title:** Raise the Bar -- Here's How
 **Description:** Tired of unqualified agents ruining the industry's reputation? Here's the one email that could change it.
 **Hashtags:** #RealEstateProfessional #RaiseTheBar #RealtorAdvocacy #LicensingStandards #AgentQuality
 

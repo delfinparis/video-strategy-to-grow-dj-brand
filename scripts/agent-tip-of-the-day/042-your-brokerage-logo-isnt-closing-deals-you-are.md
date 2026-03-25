@@ -28,17 +28,17 @@ Your brokerage logo isn't closing deals. You are.
 *Production: Open on brokerage signs/logos (Keller Williams, RE/MAX, Compass, etc.) rapidly flashing on screen, then cut to black with just text: 'But your clients don't care.'*
 
 ### SETUP (0:03-0:12)
-Chris Linsell—real estate tech strategist—just said the quiet part out loud during a conversation about the Compass-Anywhere merger. And it's the wake-up call most agents don't want to hear.
+Chris Linsell -- real estate tech strategist -- just said the quiet part out loud during a conversation about the Compass-Anywhere merger. And it's the wake-up call most agents don't want to hear.
 
 *Production: Show Chris on screen with lower third. Cut to b-roll of generic agent headshots with big brokerage logos overshadowing their faces.*
 
 ### INSIGHT (0:12-0:38)
-Here's what he said: 'Your clients do not care what brokerage you're a part of. They remember who you are.' Think about your last five closings. Did any client choose you because of your broker? Or did they choose you because you answered the phone, knew the neighborhood, showed up on time, and made them feel heard? The brokerage didn't build that trust. You did. The logo on your business card is a placeholder. Your name, your reputation, your follow-through—that's the brand.
+Here's what he said: 'Your clients do not care what brokerage you're a part of. They remember who you are.' Think about your last five closings. Did any client choose you because of your broker? Or did they choose you because you answered the phone, knew the neighborhood, showed up on time, and made them feel heard? The brokerage didn't build that trust. You did. The logo on your business card is a placeholder. Your name, your reputation, your follow-through -- that's the brand.
 
-*Production: Show Chris's quote on screen as text overlay. Cut to footage of agents on listing appointments, phone calls, client meetings—real moments of connection. Then flash to empty brokerage office spaces to drive home the contrast.*
+*Production: Show Chris's quote on screen as text overlay. Cut to footage of agents on listing appointments, phone calls, client meetings -- real moments of connection. Then flash to empty brokerage office spaces to drive home the contrast.*
 
 ### REFRAME (0:38-0:50)
-So if Compass and Anywhere merge tomorrow, if your brokerage gets acquired, if your office closes—are you still in business? Or were you renting someone else's credibility the whole time? The agents who survive industry chaos are the ones clients remember by name.
+So if Compass and Anywhere merge tomorrow, if your brokerage gets acquired, if your office closes -- are you still in business? Or were you renting someone else's credibility the whole time? The agents who survive industry chaos are the ones clients remember by name.
 
 *Production: Split screen: left side shows brokerage merger headlines and 'SOLD' signs on closed offices; right side shows a single agent's face with their name in bold. Zoom in on the agent's side.*
 
@@ -53,4 +53,34 @@ Here's your gut check: If you switched brokerages today, how many of your client
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA gut check is brilliant—add one tactical step after it: 'Text three past clients this week with zero ask, just value.'
+The CTA gut check is brilliant -- add one tactical step after it: 'Text three past clients this week with zero ask, just value.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your brokerage logo isn't closing deals. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your brokerage logo isn't closing deals.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your brokerage logo isn't closing deals....
+**Description:** ### HOOK (0:00-0:03)
+Your brokerage logo isn't closing deals. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your brokerage logo isn't closing deals. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your brokerage logo isn't closing deals. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

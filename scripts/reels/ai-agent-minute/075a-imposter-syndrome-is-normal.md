@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #ImposterSyndrome #AIAgentMinute #RealtorMindset
 
 ### YouTube Shorts
-**Title:** You Feel Like a Fraud — So Did Every Top Producer When They Started
+**Title:** You Feel Like a Fraud -- So Did Every Top Producer When They Started
 **Description:** Imposter syndrome isn't a flaw -- it's a gap between your standards and your evidence. The evidence is buildable.
 **Hashtags:** #RealEstateAI #ImposterSyndrome #AIAgentMinute #RealtorMindset #NewAgent
 

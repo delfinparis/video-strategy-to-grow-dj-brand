@@ -33,9 +33,9 @@ Garrett Maroon built a top 1% referral-based business in Southeast Virginia. His
 *Production: B-roll: Garrett with clients, sold signs, testimonials. Text overlay: 'Top 1% | 2018: Picked ONE Source | Southeast VA'*
 
 ### INSIGHT (0:12-0:38)
-Here's what he told me: 'Pick a path and stay there long enough until it works.' In month six, he had three referrals. Most agents would've panicked and bought Zillow leads. He didn't. Month twelve: eight referrals. Month eighteen: seventeen. By month twenty-four, he stopped prospecting entirely. His database became a machine. But here's the thing — nothing magical happened at month six. Or twelve. The compound effect only kicks in when you stop restarting.
+Here's what he told me: 'Pick a path and stay there long enough until it works.' In month six, he had three referrals. Most agents would've panicked and bought Zillow leads. He didn't. Month twelve: eight referrals. Month eighteen: seventeen. By month twenty-four, he stopped prospecting entirely. His database became a machine. But here's the thing -- nothing magical happened at month six. Or twelve. The compound effect only kicks in when you stop restarting.
 
-*Production: Split screen: Left side shows Garrett speaking. Right side shows animated timeline with EXACT numbers — 'Month 6: 3 referrals,' 'Month 12: 8 referrals,' 'Month 18: 17 referrals,' 'Month 24: Stopped prospecting.' Use kinetic text for the quote and numbers.*
+*Production: Split screen: Left side shows Garrett speaking. Right side shows animated timeline with EXACT numbers -- 'Month 6: 3 referrals,' 'Month 12: 8 referrals,' 'Month 18: 17 referrals,' 'Month 24: Stopped prospecting.' Use kinetic text for the quote and numbers.*
 
 ### REFRAME (0:38-0:50)
 Your database doesn't trust you because you haven't been consistent long enough. Your sphere doesn't refer you because they don't know what you actually do anymore. You've been everywhere, so you're nowhere in their mind. Consistency isn't sexy. But it's the only thing that builds trust.
@@ -53,4 +53,34 @@ Tonight, before bed: Open your phone. Text three past clients this exact message
 **Share Trigger:** identity
 
 ## Judge Note
-The month-by-month breakdown is chef's kiss—this is how you make 'consistency' tangible instead of motivational fluff.
+The month-by-month breakdown is chef's kiss -- this is how you make 'consistency' tangible instead of motivational fluff.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You're not failing because your strategy is wrong. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You're not failing because your strategy is wrong.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You're not failing because your strategy...
+**Description:** ### HOOK (0:00-0:03)
+You're not failing because your strategy is wrong. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You're not failing because your strategy is wrong. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You're not failing because your strategy is wrong. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

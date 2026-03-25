@@ -36,7 +36,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #FindYourWhy #AIAgentMinute #ClaudeAI
 
 ### YouTube Shorts
-**Title:** Motivation Runs Out — Your Why Doesn't
+**Title:** Motivation Runs Out -- Your Why Doesn't
 **Description:** Four questions. Thirty minutes with Claude. One personal mission statement you'll reference for years.
 **Hashtags:** #RealEstateAI #FindYourWhy #AIAgentMinute #ClaudeAI #RealtorMindset
 

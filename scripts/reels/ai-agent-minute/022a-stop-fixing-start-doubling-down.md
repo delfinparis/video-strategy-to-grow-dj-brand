@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAgent #BusinessStrategy #RealtorLife #GrowthMindset
 
 ### YouTube Shorts
-**Title:** Stop Fixing What's Broken — Double Down on What's Working
+**Title:** Stop Fixing What's Broken -- Double Down on What's Working
 **Description:** What if the answer isn't a new strategy -- but more of what's already working? Most agents never audit their wins.
 **Hashtags:** #RealEstateAgent #BusinessStrategy #RealtorLife #GrowthMindset #RealEstateBusiness
 

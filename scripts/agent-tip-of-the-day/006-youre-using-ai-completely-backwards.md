@@ -33,12 +33,12 @@ Most agents are trying to get ChatGPT to write their emails, their posts, their 
 *Production: B-roll: generic AI-generated text examples, robotic voice overlay. Cut to Eithan's face with text overlay: '100+ transactions/year'*
 
 ### INSIGHT (0:12-0:38)
-His rule: 'I use AI to clean up my thoughts instead of generate them.' Here's what that actually looks like. Voice memo after a listing appointment — messy, incomplete thoughts about the seller's concerns. Dump it into AI. Ask it to organize, not create. What comes back is YOUR voice. YOUR insights. Just structured. Same thing with follow-up sequences. You write the raw version. The stuff you'd actually say. AI tightens it, finds the gaps, makes it coherent. You stay human. You just get clearer, faster.
+His rule: 'I use AI to clean up my thoughts instead of generate them.' Here's what that actually looks like. Voice memo after a listing appointment -- messy, incomplete thoughts about the seller's concerns. Dump it into AI. Ask it to organize, not create. What comes back is YOUR voice. YOUR insights. Just structured. Same thing with follow-up sequences. You write the raw version. The stuff you'd actually say. AI tightens it, finds the gaps, makes it coherent. You stay human. You just get clearer, faster.
 
 *Production: Screen recording: voice memo transcription being pasted into ChatGPT with prompt visible: 'Organize these thoughts, keep my voice.' Show before/after side by side. Highlight the preserved personality in the 'after.'*
 
 ### REFRAME (0:38-0:50)
-Because here's what nobody tells you — the bottleneck isn't ideas. You have plenty of those. The bottleneck is turning the chaos in your head into something you can actually send. AI as a thought-cleaner? That's the unlock.
+Because here's what nobody tells you -- the bottleneck isn't ideas. You have plenty of those. The bottleneck is turning the chaos in your head into something you can actually send. AI as a thought-cleaner? That's the unlock.
 
 *Production: Close-up of Eithan speaking directly to camera. Cut to visual metaphor: cluttered desk transforming to organized workspace.*
 
@@ -54,3 +54,33 @@ Try this today. Record a 2-minute voice memo about your last client interaction.
 
 ## Judge Note
 Show the before/after of one actual voice memo → AI output so viewers can see the transformation instead of just hearing about it.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You're using AI completely backwards. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You're using AI completely backwards.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You're using AI completely backwards.
+**Description:** ### HOOK (0:00-0:03)
+You're using AI completely backwards. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You're using AI completely backwards. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You're using AI completely backwards. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

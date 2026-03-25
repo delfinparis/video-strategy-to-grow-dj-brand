@@ -25,7 +25,7 @@ share_trigger: "debate"
 ### HOOK (0:00-0:03)
 A top 1% luxury agent just said Zillow saved his team.
 
-*Production: Text overlay on black background: 'ZILLOW SAVED HIS TEAM' — then cut to Jeff's face mid-sentence*
+*Production: Text overlay on black background: 'ZILLOW SAVED HIS TEAM' -- then cut to Jeff's face mid-sentence*
 
 ### SETUP (0:03-0:12)
 Jeff Biebuyck moves luxury properties in Calabasas and Hidden Hills. When his hyper-local market got squeezed, most agents doubled down. He did the opposite.
@@ -33,7 +33,7 @@ Jeff Biebuyck moves luxury properties in Calabasas and Hidden Hills. When his hy
 *Production: B-roll of luxury homes in Calabasas/Hidden Hills, then cut to Jeff speaking*
 
 ### INSIGHT (0:12-0:38)
-Here's what he did: Instead of fighting for scraps in one tight zip code, he used Zillow Flex to spread his team across all of Greater LA. Not as a lead gen tool — as a geographic expansion strategy. His exact words: 'Zillow honestly kind of helps save our team... we were able to diversify spread out across all of greater Los Angeles.' While other luxury agents were waiting for their micro-market to recover, Jeff's team was closing deals in six different areas.
+Here's what he did: Instead of fighting for scraps in one tight zip code, he used Zillow Flex to spread his team across all of Greater LA. Not as a lead gen tool -- as a geographic expansion strategy. His exact words: 'Zillow honestly kind of helps save our team... we were able to diversify spread out across all of greater Los Angeles.' While other luxury agents were waiting for their micro-market to recover, Jeff's team was closing deals in six different areas.
 
 *Production: Show map of LA with multiple pins lighting up. Cut to Jeff's quote. Overlay text: 'DIVERSIFY = SURVIVE'*
 
@@ -54,3 +54,33 @@ If you're a team leader and your market's contracting, ask yourself: Are you def
 
 ## Judge Note
 Add one specific result number (how many deals or revenue from the expansion) to make the payoff concrete instead of conceptual.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+A top 1% luxury agent just said Zillow saved his team. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+A top 1% luxury agent just said Zillow saved his team.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** A top 1% luxury agent just...
+**Description:** ### HOOK (0:00-0:03)
+A top 1% luxury agent just said Zillow saved his team. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+A top 1% luxury agent just said Zillow saved his team. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+A top 1% luxury agent just said Zillow saved his team. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

@@ -38,7 +38,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #Claude #TaxTips #AIAgentMinute
 
 ### YouTube Shorts
-**Title:** Stop Handing Money to the IRS — Build a Tax System With Claude
+**Title:** Stop Handing Money to the IRS -- Build a Tax System With Claude
 **Description:** This is general guidance, not tax advice -- consult your CPA. But start tracking today. Claude builds the system in five minutes.
 **Hashtags:** #RealEstateAI #Claude #TaxTips #AIAgentMinute #AgentFinance
 

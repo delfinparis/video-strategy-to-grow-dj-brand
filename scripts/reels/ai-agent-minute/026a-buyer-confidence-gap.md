@@ -2,7 +2,7 @@
 series: "AI Agent Minute"
 original_script: "026"
 reel_number: 1 of 2
-title: "Your Buyers Aren't Going Cold — They're Confused"
+title: "Your Buyers Aren't Going Cold -- They're Confused"
 target_duration: "25 seconds"
 ai_tool: "Claude"
 ---
@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #BuyerEducation #AIAgentMinute #RealEstateTips
 
 ### YouTube Shorts
-**Title:** Your Buyers Aren't Going Cold — They're Confused
+**Title:** Your Buyers Aren't Going Cold -- They're Confused
 **Description:** Your buyers aren't ghosting you. They're scared because no one explained the process. Fix that and watch your conversion rate change.
 **Hashtags:** #RealEstateAI #BuyerEducation #AIAgentMinute #RealEstateTips #BuyerConversion
 

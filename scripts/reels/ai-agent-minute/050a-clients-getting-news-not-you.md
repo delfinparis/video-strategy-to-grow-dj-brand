@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #MarketUpdates #RealEstateAI #AIAgentMinute #TrustedAdvisor
 
 ### YouTube Shorts
-**Title:** Your Clients Are Getting Market Info From the News — Not You
+**Title:** Your Clients Are Getting Market Info From the News -- Not You
 **Description:** Your database is forming opinions about the market right now -- without you. If the news is their source, you've already lost the relationship.
 **Hashtags:** #MarketUpdates #RealEstateAI #AIAgentMinute #TrustedAdvisor #DatabaseMarketing
 

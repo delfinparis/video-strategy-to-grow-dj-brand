@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #MarketIntelligence #AIAgentMinute #RealtorCredibility
 
 ### YouTube Shorts
-**Title:** Your Client Read the Headline This Morning — Did You?
+**Title:** Your Client Read the Headline This Morning -- Did You?
 **Description:** Your clients are reading the news. When they ask you about it, will you have a smart take or a blank stare?
 **Hashtags:** #RealEstateAI #MarketIntelligence #AIAgentMinute #RealtorCredibility #RealEstateNews
 

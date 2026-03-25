@@ -19,10 +19,10 @@ day: "Wednesday"
 **Post Date:** Wednesday, May 20, 2026
 
 ## On-Screen Title
-> Build A Year-Round Tax Prep System With AI — Never Get Surprised In April
+> Build A Year-Round Tax Prep System With AI -- Never Get Surprised In April
 
 ## Shareable Moment
-> "Every dollar you fail to track is a dollar you hand to the IRS for free. AI helps you stop doing that — starting today."
+> "Every dollar you fail to track is a dollar you hand to the IRS for free. AI helps you stop doing that -- starting today."
 
 ## Why This Rank
 Tax season regret is universal among agents; this script gives them a system instead of a scramble.
@@ -30,16 +30,41 @@ Tax season regret is universal among agents; this script gives them a system ins
 ## Full Script (Spoken)
 
 The most expensive financial mistake real estate agents make isn't a bad investment. It's an unexpected tax bill in April. [ON-SCREEN: "The most expensive mistake is the April tax bill"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty — and here's your AI Agent Minute."
+"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
 Here's how it happens. You don't track deductions throughout the year. You don't make quarterly estimated payments. You don't set aside the right percentage of every commission. Then April comes, and the IRS presents you with a bill that wipes out everything you felt good about earning.
-Most agents handle taxes reactively — in March, in a panic. Top producers handle them in January, on a system. [ON-SCREEN: "Most handle taxes in March in a panic. Top producers in January on a system."]
+Most agents handle taxes reactively -- in March, in a panic. Top producers handle them in January, on a system. [ON-SCREEN: "Most handle taxes in March in a panic. Top producers in January on a system."]
 Here's how to build the system right now. Open Claude and type: "Give me a comprehensive list of every deductible expense category for a self-employed real estate agent in [your state]. Then build me a monthly expense tracking template I can use in a spreadsheet." [ON-SCREEN: "Every deductible category + monthly tracking template"]
 Do this today. Set a quarterly calendar reminder to review it and make an estimated tax payment. Never be surprised by April again.
 Every dollar you fail to track is a dollar you hand to the IRS for free. You earned it. Keep it.
-Did you have an unexpected tax bill last April? Yes or no — you don't have to say the amount. [ON-SCREEN: Unexpected tax bill last April? Yes or no.]
+Did you have an unexpected tax bill last April? Yes or no -- you don't have to say the amount. [ON-SCREEN: Unexpected tax bill last April? Yes or no.]
 See you next time.
 
 ## Producer Note
-Add a brief caption note that this is general guidance and not tax advice — consult a CPA. The "yes or no, you don't have to say the amount" CTA is clever — low barrier, high participation. Film this in Q4 or January for maximum relevance; it has some seasonality.
+Add a brief caption note that this is general guidance and not tax advice -- consult a CPA. The "yes or no, you don't have to say the amount" CTA is clever -- low barrier, high participation. Film this in Q4 or January for maximum relevance; it has some seasonality.
 
 **Word Count:** 225 | **Estimated Duration:** ~106 seconds
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** Build A Year-Round Tax Prep System With AI Watch this and save it for later.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
+
+### TikTok
+**Caption:** Build A Year-Round Tax Prep System With AI
+**Hashtags:** #AIforRealtors #RealEstateAI #RealtorLife #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Build A Year-Round Tax Prep System With AI
+**Description:** Build A Year-Round Tax Prep System With AI This changes how you think about your business.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
+
+### Facebook
+**Caption:** Build A Year-Round Tax Prep System With AI If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
+
+### LinkedIn
+**Caption:** Build A Year-Round Tax Prep System With AI The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstate #ProfessionalDevelopment #RealEstateTechnology

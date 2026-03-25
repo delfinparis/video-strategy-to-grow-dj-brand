@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateSystems #AIAgentMinute #SOPs #BusinessSystems
 
 ### YouTube Shorts
-**Title:** If Your Business Only Works in Your Head — It's a Job
+**Title:** If Your Business Only Works in Your Head -- It's a Job
 **Description:** A business that only works because you're holding it all in your head isn't a business. It's a trap. Write it down.
 **Hashtags:** #RealEstateSystems #AIAgentMinute #SOPs #BusinessSystems #RealEstateTips
 

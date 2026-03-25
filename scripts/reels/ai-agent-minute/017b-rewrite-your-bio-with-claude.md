@@ -38,7 +38,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #AgentBio #PersonalBrand
 
 ### YouTube Shorts
-**Title:** Rewrite Your Agent Bio With Claude — Story First
+**Title:** Rewrite Your Agent Bio With Claude -- Story First
 **Description:** The exact Claude prompt to rewrite your agent bio using a story-first framework. Four honest answers in, scroll-stopping bio out.
 **Hashtags:** #AIforRealtors #Claude #AgentBio #PersonalBrand #RealtorTips
 

@@ -33,12 +33,12 @@ DJ Paris has recruited over 2000 agents in 15 years. He's seen every recruiting 
 *Production: Show DJ speaking to camera or photo with credential text overlay: '2000+ agents recruited'*
 
 ### INSIGHT (0:12-0:38)
-The tool is called Corded. It scans dozens of variables for every agent in your market—production trends, social signals, career patterns—and flags who's likely to move. But here's the wild part: it reads YOUR recruiting website, learns what you offer, then tells you exactly what to say to each agent. DJ says, 'Corded's AI tells me exactly what to say based on that agent's needs and what my brokerage can offer. It even writes the emails.' It's not just lead gen. It's recruitment on autopilot.
+The tool is called Corded. It scans dozens of variables for every agent in your market -- production trends, social signals, career patterns -- and flags who's likely to move. But here's the wild part: it reads YOUR recruiting website, learns what you offer, then tells you exactly what to say to each agent. DJ says, 'Corded's AI tells me exactly what to say based on that agent's needs and what my brokerage can offer. It even writes the emails.' It's not just lead gen. It's recruitment on autopilot.
 
 *Production: Screen recording of Corded dashboard showing agent profiles and AI-generated email. Cut to DJ testimonial footage.*
 
 ### REFRAME (0:38-0:50)
-Think about this: while you're guessing who to call, your competitor is getting a list of agents ready to jump—with the exact script to close them. That's not a fair fight.
+Think about this: while you're guessing who to call, your competitor is getting a list of agents ready to jump -- with the exact script to close them. That's not a fair fight.
 
 *Production: Split screen: 'You' (manual spreadsheet) vs. 'Them' (AI dashboard with hot leads highlighted)*
 
@@ -54,3 +54,33 @@ If you're serious about growing your team, check out corded.io. And ask yourself
 
 ## Judge Note
 Cut the philosophical CTA question and replace with a concrete action: 'Go to corded.io and request a demo of your market's agent movement data.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+AI now knows which agents are about to leave your brokerage before you do. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+AI now knows which agents are about to leave your brokerage before you do.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** AI now knows which agents are...
+**Description:** ### HOOK (0:00-0:03)
+AI now knows which agents are about to leave your brokerage before you do. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+AI now knows which agents are about to leave your brokerage before you do. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+AI now knows which agents are about to leave your brokerage before you do. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

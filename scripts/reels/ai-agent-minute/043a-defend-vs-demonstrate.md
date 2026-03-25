@@ -41,7 +41,7 @@ See you next time.
 **Hashtags:** #CommissionObjection #RealEstateAI #AIAgentMinute #DiscountBroker
 
 ### YouTube Shorts
-**Title:** Stop Defending Your Commission — Demonstrate Your Value
+**Title:** Stop Defending Your Commission -- Demonstrate Your Value
 **Description:** The commission conversation isn't about price. It's about value. If you're defending, you've already lost the framing.
 **Hashtags:** #CommissionObjection #RealEstateAI #AIAgentMinute #DiscountBroker #ValueProposition
 

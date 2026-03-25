@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #RejectionReframe #AIAgentMinute #Prospecting
 
 ### YouTube Shorts
-**Title:** You're Not Lazy — You're Protecting Yourself From Rejection
+**Title:** You're Not Lazy -- You're Protecting Yourself From Rejection
 **Description:** Avoiding the phone isn't laziness. It's self-protection from rejection you're taking personally. There's a fix for that.
 **Hashtags:** #RealEstateAI #RejectionReframe #AIAgentMinute #Prospecting #RealtorMindset
 

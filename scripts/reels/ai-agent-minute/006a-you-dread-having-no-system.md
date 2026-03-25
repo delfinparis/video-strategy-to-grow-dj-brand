@@ -38,7 +38,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Prospecting
 
 ### YouTube Shorts
-**Title:** You Don't Dread Prospecting — You Dread Having No System
+**Title:** You Don't Dread Prospecting -- You Dread Having No System
 **Description:** You don't dread prospecting. You dread having no system for it. One mental shift changes everything.
 **Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Prospecting #SalesMindset
 

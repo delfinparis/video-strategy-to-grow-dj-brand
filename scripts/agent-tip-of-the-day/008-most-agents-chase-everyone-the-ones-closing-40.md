@@ -35,7 +35,7 @@ Bari Mill went from teacher to top Chicago producer in six years. Not by working
 ### INSIGHT (0:12-0:38)
 She picked finance professionals in Chicago. Not everyone. Finance people. Then she did something specific: she joined the Chicago Finance Professionals networking group. Showed up every month. Didn't pitch. Just listened. After three months, one guy asked if she knew real estate. She helped him buy a condo. He introduced her to four colleagues. Within a year, she became THE agent for that world. When finance people need real estate? They think of Bari. Not because she's everywhere. Because she's the ONLY one they see in their world.
 
-*Production: Text on screen: 'Finance professionals — Chicago.' Visuals: networking event footage, handshakes, then network diagram forming with connections lighting up. Show actual LinkedIn profile expanding with connections.*
+*Production: Text on screen: 'Finance professionals -- Chicago.' Visuals: networking event footage, handshakes, then network diagram forming with connections lighting up. Show actual LinkedIn profile expanding with connections.*
 
 ### REFRAME (0:38-0:50)
 You don't need a thousand leads. You need twenty people who trust you in ONE world. One group. One monthly meetup. One conversation that turns into four referrals. That's the difference between chasing and being chosen.
@@ -53,4 +53,34 @@ Tonight, Google '[your city] + [your industry] networking group.' Find one meetu
 **Share Trigger:** utility
 
 ## Judge Note
-The CTA is chef's kiss — consider tightening the setup by cutting one sentence to get to the Chicago Finance Professionals example faster.
+The CTA is chef's kiss -- consider tightening the setup by cutting one sentence to get to the Chicago Finance Professionals example faster.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Most agents chase everyone. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Most agents chase everyone.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Most agents chase everyone. The ones...
+**Description:** ### HOOK (0:00-0:03)
+Most agents chase everyone. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Most agents chase everyone. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Most agents chase everyone. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

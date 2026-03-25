@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAgent #ClientRetention #Referrals #RealtorLife
 
 ### YouTube Shorts
-**Title:** 70% Would Use You Again — Only 11% Do
+**Title:** 70% Would Use You Again -- Only 11% Do
 **Description:** 70% say they'd use you again. 11% actually do. The gap has one cause: you disappeared after closing.
 **Hashtags:** #RealEstateAgent #ClientRetention #Referrals #RealtorLife #PastClients
 

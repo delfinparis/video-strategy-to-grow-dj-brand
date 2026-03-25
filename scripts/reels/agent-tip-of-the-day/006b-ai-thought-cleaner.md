@@ -12,15 +12,15 @@ target_duration: "23 seconds"
 
 ## Script (Spoken)
 
-You know what you want to say to your clients. The problem is it takes you 45 minutes to get it out of your head and into an email. So you either send nothing — or you let AI write something generic that doesn't sound like you.
+You know what you want to say to your clients. The problem is it takes you 45 minutes to get it out of your head and into an email. So you either send nothing -- or you let AI write something generic that doesn't sound like you.
 
 *[Agent Tip of the Day bumper]*
 
-Eithan Davidov — over 100 deals a year — told me his trick: "Record it, transcribe it, let AI organize it." That's it. He never starts from a blank screen.
+Eithan Davidov -- over 100 deals a year -- told me his trick: "Record it, transcribe it, let AI organize it." That's it. He never starts from a blank screen.
 
-Try this right now: Think of one client you owe a follow-up. Record a voice memo — just talk for 60 seconds about what they need and what you'd tell them over coffee. Transcribe it. Paste it into ChatGPT and say: "Turn this into a short email. Keep my exact words. Just organize them."
+Try this right now: Think of one client you owe a follow-up. Record a voice memo -- just talk for 60 seconds about what they need and what you'd tell them over coffee. Transcribe it. Paste it into ChatGPT and say: "Turn this into a short email. Keep my exact words. Just organize them."
 
-You'll have a follow-up email that sounds like you wrote it — because you did — and it took three minutes instead of 45. That client hears from you today instead of never.
+You'll have a follow-up email that sounds like you wrote it -- because you did -- and it took three minutes instead of 45. That client hears from you today instead of never.
 
 See you next time.
 ---

@@ -16,7 +16,7 @@ While your competition is posting "Out of Office," you're about to lap them.
 
 *[Agent Tip of the Day bumper]*
 
-Mindset coach Paul Salter coined the term "Separation Season" — any stretch where your competition gets comfortable and you don't. While they tell themselves they'll ramp up later, you're building a gap they can't close. Five focused weeks now is worth three months of catching up later. That's not motivation. That's math.
+Mindset coach Paul Salter coined the term "Separation Season" -- any stretch where your competition gets comfortable and you don't. While they tell themselves they'll ramp up later, you're building a gap they can't close. Five focused weeks now is worth three months of catching up later. That's not motivation. That's math.
 
 Text three past clients right now: "Hey, thinking of you. Coffee on me this week?" Send it before this video ends.
 

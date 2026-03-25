@@ -53,4 +53,34 @@ So here's your gut check: What's the last deal you chased that you KNEW wasn't r
 **Share Trigger:** identity
 
 ## Judge Note
-Cut the generic podcast plug at the end—the gut check question is strong enough to stand alone as the CTA.
+Cut the generic podcast plug at the end -- the gut check question is strong enough to stand alone as the CTA.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The clients you say NO to will make you more money than the ones you say yes to. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The clients you say NO to will make you more money than the ones you say yes to.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The clients you say NO to...
+**Description:** ### HOOK (0:00-0:03)
+The clients you say NO to will make you more money than the ones you say yes to. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The clients you say NO to will make you more money than the ones you say yes to. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The clients you say NO to will make you more money than the ones you say yes to. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

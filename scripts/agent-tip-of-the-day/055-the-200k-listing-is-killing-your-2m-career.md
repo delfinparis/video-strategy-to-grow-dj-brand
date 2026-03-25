@@ -25,20 +25,20 @@ share_trigger: "identity"
 ### HOOK (0:00-0:03)
 The $200K listing is killing your $2M career.
 
-*Production: Text on screen: '$200K listing' then 'killing your $2M career' — bold, contrasting colors. B-roll of modest home exterior.*
+*Production: Text on screen: '$200K listing' then 'killing your $2M career' -- bold, contrasting colors. B-roll of modest home exterior.*
 
 ### SETUP (0:03-0:12)
-Most agents say they treat every client the same. But your calendar, your response time, your staging budget? They tell a different story. Kristee Leonard's built a $50M+ business in Austin luxury — and she says this double standard is the silent killer.
+Most agents say they treat every client the same. But your calendar, your response time, your staging budget? They tell a different story. Kristee Leonard's built a $50M+ business in Austin luxury -- and she says this double standard is the silent killer.
 
 *Production: Split screen: calendar screenshots showing response time differences, then cut to Kristee's headshot with credential text overlay.*
 
 ### INSIGHT (0:12-0:38)
-Here's what she told me: 'If you choose to take on that client, then you need to represent them just like if they were a multimillion dollar deal.' Not 'try to.' Not 'when you can.' Need to. Because that $250K seller? She has a sister looking at $3M properties. That first-time buyer has a boss who just got promoted. You think they're not watching how you show up? The professional photos, the staging consult, the response time at 8 PM — it's all the same standard, or you're building a business on quicksand.
+Here's what she told me: 'If you choose to take on that client, then you need to represent them just like if they were a multimillion dollar deal.' Not 'try to.' Not 'when you can.' Need to. Because that $250K seller? She has a sister looking at $3M properties. That first-time buyer has a boss who just got promoted. You think they're not watching how you show up? The professional photos, the staging consult, the response time at 8 PM -- it's all the same standard, or you're building a business on quicksand.
 
 *Production: Overlay Kristee's quote as text. Cut between: professional listing photos, agent on phone at night, staging consultation footage. Visual emphasis on 'same standard.'*
 
 ### REFRAME (0:38-0:50)
-This isn't about being nice. It's about understanding that your reputation isn't built on your biggest deal — it's built on your most inconsistent one. The client you half-repped is the one telling the story at the dinner party.
+This isn't about being nice. It's about understanding that your reputation isn't built on your biggest deal -- it's built on your most inconsistent one. The client you half-repped is the one telling the story at the dinner party.
 
 *Production: B-roll: dinner party scene, people talking. Text overlay: 'Your reputation = your most inconsistent client.'*
 
@@ -53,4 +53,34 @@ Pull your last ten clients. Honest question: if someone looked at your effort le
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA is solid but could be more actionable — add 'Then text the lowest-price client from that list right now and ask if they need anything.'
+The CTA is solid but could be more actionable -- add 'Then text the lowest-price client from that list right now and ask if they need anything.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The $200K listing is killing your $2M career. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The $200K listing is killing your $2M career.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The $200K listing is killing your...
+**Description:** ### HOOK (0:00-0:03)
+The $200K listing is killing your $2M career. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The $200K listing is killing your $2M career. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The $200K listing is killing your $2M career. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

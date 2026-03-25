@@ -36,7 +36,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #EmailMarketing #AIAgentMinute #ClaudeAI
 
 ### YouTube Shorts
-**Title:** Your Database Got One Email From You Last Year — At Christmas
+**Title:** Your Database Got One Email From You Last Year -- At Christmas
 **Description:** Twenty minutes a month. Four ingredients. One Claude prompt. Stop being invisible to the people who already trust you.
 **Hashtags:** #RealEstateAI #EmailMarketing #AIAgentMinute #ClaudeAI #RealtorNewsletter
 

@@ -38,7 +38,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #ContentCreation #RealtorTips
 
 ### YouTube Shorts
-**Title:** Train Claude to Write In Your Voice — Not Sound Like AI
+**Title:** Train Claude to Write In Your Voice -- Not Sound Like AI
 **Description:** The exact Claude prompt to train AI on YOUR voice. Do it once, save it as a Project, and never sound generic again.
 **Hashtags:** #AIforRealtors #Claude #ContentCreation #RealtorTips #PersonalBrand
 

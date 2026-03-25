@@ -25,7 +25,7 @@ share_trigger: "utility"
 ### HOOK (0:00-0:03)
 You have 300 listing photos on your phone doing absolutely nothing for you.
 
-*Production: Open on a phone camera roll scrolling through dozens of property photos — kitchen, bedroom, exterior shots*
+*Production: Open on a phone camera roll scrolling through dozens of property photos -- kitchen, bedroom, exterior shots*
 
 ### SETUP (0:03-0:12)
 Meanwhile, agents half as experienced are getting 10x the engagement because they figured out one thing: static photos are invisible on social. Courtney Poulos in LA just showed me how she fixed this in about 90 seconds per listing.
@@ -33,7 +33,7 @@ Meanwhile, agents half as experienced are getting 10x the engagement because the
 *Production: Split screen: static listing photo with 12 likes vs. video content with thousands of views*
 
 ### INSIGHT (0:12-0:38)
-She takes her listing photos — the ones already on her phone — and runs them through an AI tool that turns them into scroll-stopping video. No filming. No editing skills. She told me it 'brings it to life.' Here's what that actually means: Your $2M listing that got 47 impressions as a photo? Now it's a cinematic walkthrough getting shared by buyers you've never met. The AI adds motion, transitions, music. Takes her 90 seconds to upload, 2 minutes to render. That's it.
+She takes her listing photos -- the ones already on her phone -- and runs them through an AI tool that turns them into scroll-stopping video. No filming. No editing skills. She told me it 'brings it to life.' Here's what that actually means: Your $2M listing that got 47 impressions as a photo? Now it's a cinematic walkthrough getting shared by buyers you've never met. The AI adds motion, transitions, music. Takes her 90 seconds to upload, 2 minutes to render. That's it.
 
 *Production: Show before/after: same kitchen photo as a static post, then as an AI-generated video with smooth motion and transitions. Show timer counting 90 seconds during upload process*
 
@@ -45,7 +45,7 @@ You're not behind on content because you can't film. You're behind because you h
 ### CTA (0:50-0:60)
 Tonight before bed: Open your camera roll. Find five photos from your last listing. Tomorrow morning, Google 'AI listing video tools,' pick one, and upload those five photos. Post the result by noon. That's your content for Wednesday.
 
-*Production: Text overlay appears step-by-step as each action is named: 'Tonight: Find 5 photos' / 'Tomorrow AM: Upload to AI tool' / 'By noon: Post the video' — end on Courtney's quote as small text: 'It brings it to life'*
+*Production: Text overlay appears step-by-step as each action is named: 'Tonight: Find 5 photos' / 'Tomorrow AM: Upload to AI tool' / 'By noon: Post the video' -- end on Courtney's quote as small text: 'It brings it to life'*
 
 ## Social Media
 **Caption:** Your listing photos are content gold. You just haven't turned them on yet.
@@ -53,4 +53,34 @@ Tonight before bed: Open your camera roll. Find five photos from your last listi
 **Share Trigger:** utility
 
 ## Judge Note
-Name the actual AI tool Courtney uses instead of making them Google it—removes friction and increases immediate action.
+Name the actual AI tool Courtney uses instead of making them Google it -- removes friction and increases immediate action.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You have 300 listing photos on your phone doing absolutely nothing for you. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You have 300 listing photos on your phone doing absolutely nothing for you.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You have 300 listing photos on...
+**Description:** ### HOOK (0:00-0:03)
+You have 300 listing photos on your phone doing absolutely nothing for you. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You have 300 listing photos on your phone doing absolutely nothing for you. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You have 300 listing photos on your phone doing absolutely nothing for you. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

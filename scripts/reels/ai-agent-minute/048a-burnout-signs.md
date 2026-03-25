@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #BurnoutRecovery #RealEstateAI #AIAgentMinute #AgentWellness
 
 ### YouTube Shorts
-**Title:** Burnout Doesn't Announce Itself — Here's What It Looks Like
+**Title:** Burnout Doesn't Announce Itself -- Here's What It Looks Like
 **Description:** Still closing deals but dreading the work? That's not a bad week. That's burnout trying to get your attention before it shuts you down.
 **Hashtags:** #BurnoutRecovery #RealEstateAI #AIAgentMinute #AgentWellness #MentalHealth
 

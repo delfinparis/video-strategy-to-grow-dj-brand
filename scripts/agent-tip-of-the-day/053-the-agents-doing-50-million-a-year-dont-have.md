@@ -33,7 +33,7 @@ Kristee Leonard moves over $50 million in luxury real estate in Austin every sin
 *Production: B-roll of luxury Austin properties. Quick cuts. Upbeat but focused energy.*
 
 ### INSIGHT (0:12-0:38)
-She said: 'It's an honor to be chosen by clients, and I treat them like they're an honor.' Not 'I tolerate them.' Not 'I manage expectations.' She sees being chosen as a privilege. So when a client texts at 9 PM? That's not an interruption — that's someone who trusted her with the biggest financial decision of their life. When someone asks to see a property three times? That's not annoying — that's someone making sure they get it right. The reframe is everything.
+She said: 'It's an honor to be chosen by clients, and I treat them like they're an honor.' Not 'I tolerate them.' Not 'I manage expectations.' She sees being chosen as a privilege. So when a client texts at 9 PM? That's not an interruption -- that's someone who trusted her with the biggest financial decision of their life. When someone asks to see a property three times? That's not annoying -- that's someone making sure they get it right. The reframe is everything.
 
 *Production: Show Kristee speaking the quote on screen. Then cut to text overlays of the reframes ('9 PM text = privilege' / 'Third showing = diligence'). Use split-screen to contrast attitudes.*
 
@@ -53,4 +53,34 @@ So ask yourself: Do your clients feel like an honor to work with? Or do they fee
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA is too vague — replace with 'Screenshot your last three client texts and ask: would I send this to someone I felt honored to serve?'
+The CTA is too vague -- replace with 'Screenshot your last three client texts and ask: would I send this to someone I felt honored to serve?'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The agents doing $50 million a year don't have difficult clients. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The agents doing $50 million a year don't have difficult clients.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The agents doing $50 million a...
+**Description:** ### HOOK (0:00-0:03)
+The agents doing $50 million a year don't have difficult clients. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The agents doing $50 million a year don't have difficult clients. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The agents doing $50 million a year don't have difficult clients. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

@@ -12,15 +12,15 @@ target_duration: "24 seconds"
 
 ## Script (Spoken)
 
-Here's why your pipeline feels empty — you're only talking to people who are ready right now. And that's like two percent of your database.
+Here's why your pipeline feels empty -- you're only talking to people who are ready right now. And that's like two percent of your database.
 
 *[Agent Tip of the Day bumper]*
 
 Eithan Davidov does over 100 deals a year. His secret? He follows up when it's uncomfortable. The third text. The fifth email. Three months later when everyone else gave up. He told me: "That's where deals live or die."
 
-So do this today: Pick three people in your CRM you haven't contacted in 30 days or more. Send a one-line text: "Hey, just checking in — still thinking about making a move?" That's it.
+So do this today: Pick three people in your CRM you haven't contacted in 30 days or more. Send a one-line text: "Hey, just checking in -- still thinking about making a move?" That's it.
 
-What you'll get back will surprise you. At least one of those three is closer to ready than you think — and you'll be the only agent who bothered to ask.
+What you'll get back will surprise you. At least one of those three is closer to ready than you think -- and you'll be the only agent who bothered to ask.
 
 See you next time.
 ---

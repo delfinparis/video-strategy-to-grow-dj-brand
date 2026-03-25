@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #ClientManagement #AIAgentMinute #RealtorTips
 
 ### YouTube Shorts
-**Title:** The 9 PM Texts and "Why Didn't You Tell Me?" — All Preventable
+**Title:** The 9 PM Texts and "Why Didn't You Tell Me?" -- All Preventable
 **Description:** Every nightmare client moment traces back to expectations that were never set. The fix is easier than you think.
 **Hashtags:** #RealEstateAI #ClientManagement #AIAgentMinute #RealtorTips #ClientExpectations
 

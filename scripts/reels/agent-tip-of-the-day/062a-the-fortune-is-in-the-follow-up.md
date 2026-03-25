@@ -12,15 +12,15 @@ target_duration: "27 seconds"
 
 ## Script (Spoken)
 
-You're losing deals right now — and you don't even know it. Not because your pitch is bad. Because you stopped following up too early.
+You're losing deals right now -- and you don't even know it. Not because your pitch is bad. Because you stopped following up too early.
 
 *[Agent Tip of the Day bumper]*
 
 Eithan Davidov closes over 100 deals a year in Queens. I asked him what separates closers from everyone else. He said: "The fortune is in the follow-up. Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready."
 
-Here's what to do right now: Open your CRM. Find three people you haven't talked to in over a month. Send each of them a simple check-in text — no pitch, just "hey, still thinking about making a move?"
+Here's what to do right now: Open your CRM. Find three people you haven't talked to in over a month. Send each of them a simple check-in text -- no pitch, just "hey, still thinking about making a move?"
 
-You'll be shocked how many say "actually, yes." Those are deals that were sitting in your pipeline the whole time — you just stopped reaching for them.
+You'll be shocked how many say "actually, yes." Those are deals that were sitting in your pipeline the whole time -- you just stopped reaching for them.
 
 See you next time.
 ---

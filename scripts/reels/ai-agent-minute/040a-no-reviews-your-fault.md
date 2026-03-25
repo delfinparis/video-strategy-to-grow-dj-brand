@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #GoogleReviews #RealEstateAI #AIAgentMinute #SocialProof
 
 ### YouTube Shorts
-**Title:** Your Clients Didn't Leave Reviews — That's Your Fault
+**Title:** Your Clients Didn't Leave Reviews -- That's Your Fault
 **Description:** Happy clients don't leave reviews by accident. They leave them because someone made it dead simple. Build the system.
 **Hashtags:** #GoogleReviews #RealEstateAI #AIAgentMinute #SocialProof #OnlineReviews
 

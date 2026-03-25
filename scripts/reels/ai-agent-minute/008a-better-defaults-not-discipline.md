@@ -38,7 +38,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Productivity
 
 ### YouTube Shorts
-**Title:** Top Producers Don't Have More Willpower — They Need Less
+**Title:** Top Producers Don't Have More Willpower -- They Need Less
 **Description:** You don't need more discipline. You need a system that doesn't require it. Here's the difference between top producers and everyone else.
 **Hashtags:** #AIforRealtors #Claude #RealEstateAgent #Productivity #SystemsThinking
 

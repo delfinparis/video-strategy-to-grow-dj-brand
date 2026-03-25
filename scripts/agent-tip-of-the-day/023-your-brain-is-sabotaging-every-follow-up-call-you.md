@@ -30,15 +30,15 @@ Your brain is sabotaging every follow-up call you don't make.
 ### SETUP (0:03-0:12)
 Paul Salter's a performance coach who uses hypnosis with top producers. And he says the reason you avoid your database, say yes to every demanding client, and can't set boundaries? It's not discipline. It's your brain doing its job.
 
-*Production: Cut to Paul speaking. Tight frame. Serious energy. Subtle music bed begins — low, ambient.*
+*Production: Cut to Paul speaking. Tight frame. Serious energy. Subtle music bed begins -- low, ambient.*
 
 ### INSIGHT (0:12-0:38)
-Here's what he means. Your subconscious — 90% of your mind — runs on one job: keep you alive. Not happy. Not wealthy. Alive. So every time you try something that feels risky — calling a cold lead, saying no to a 9pm showing, raising your commission — your brain reads it as danger. And it pulls you back to what's familiar. What's safe. What's predictable. Paul puts it like this: 'You are programmed to survive. You are not programmed to thrive.' That's why you keep avoiding the same calls. It's not you. It's your wiring.
+Here's what he means. Your subconscious -- 90% of your mind -- runs on one job: keep you alive. Not happy. Not wealthy. Alive. So every time you try something that feels risky -- calling a cold lead, saying no to a 9pm showing, raising your commission -- your brain reads it as danger. And it pulls you back to what's familiar. What's safe. What's predictable. Paul puts it like this: 'You are programmed to survive. You are not programmed to thrive.' That's why you keep avoiding the same calls. It's not you. It's your wiring.
 
 *Production: B-roll: iceberg visual, agent staring at phone screen paralyzed, hand hovering over 'call' button but not pressing. Cut back to Paul for the quote. Let it land. Hold on his face for two beats.*
 
 ### REFRAME (0:38-0:50)
-Which means if you want different results, you don't need another motivational speech. You need to rewire the pattern. That's what Paul does with memory reconsolidation — he helps your brain update the threat assessment. So follow-up calls stop feeling like danger and start feeling like opportunity.
+Which means if you want different results, you don't need another motivational speech. You need to rewire the pattern. That's what Paul does with memory reconsolidation -- he helps your brain update the threat assessment. So follow-up calls stop feeling like danger and start feeling like opportunity.
 
 *Production: Visual shift: split screen showing 'before' (agent stressed, phone down) and 'after' (agent calm, dialing). Then back to Paul, leaning in slightly.*
 
@@ -53,4 +53,34 @@ Tomorrow morning, before you check email, open your CRM. Find three clients you 
 **Share Trigger:** identity
 
 ## Judge Note
-Cut 'That's the pattern interrupt'—it's jargon that breaks the conversational flow right before a strong CTA.
+Cut 'That's the pattern interrupt' -- it's jargon that breaks the conversational flow right before a strong CTA.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your brain is sabotaging every follow-up call you don't make. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your brain is sabotaging every follow-up call you don't make.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your brain is sabotaging every follow-up...
+**Description:** ### HOOK (0:00-0:03)
+Your brain is sabotaging every follow-up call you don't make. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your brain is sabotaging every follow-up call you don't make. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your brain is sabotaging every follow-up call you don't make. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

@@ -33,12 +33,12 @@ Kim Rittberg trains agents who've tried video and quit. She was a Netflix market
 *Production: B-roll of Kim coaching an agent through filming, cut with shots of agents deleting draft videos on their phones*
 
 ### INSIGHT (0:12-0:38)
-She showed me one agent's progression. Video one: 'Um, so... homes are selling fast.' Stiff. Generic. Video five: still awkward, but she mentioned the new traffic pattern on Maple that's killing showings. Video twelve: she's walking a buyer through why that traffic actually creates opportunity three blocks over. Same person. Twelve reps. Kim calls it MSR — Mindset, Skill set, Repetition. But here's what she actually means. Video one, you're thinking 'I should do this.' Video twelve, you're thinking 'I'm the only agent who's going to explain this.' That shift — from obligation to authority — that's the mindset unlock. The skill set and reps follow.
+She showed me one agent's progression. Video one: 'Um, so... homes are selling fast.' Stiff. Generic. Video five: still awkward, but she mentioned the new traffic pattern on Maple that's killing showings. Video twelve: she's walking a buyer through why that traffic actually creates opportunity three blocks over. Same person. Twelve reps. Kim calls it MSR -- Mindset, Skill set, Repetition. But here's what she actually means. Video one, you're thinking 'I should do this.' Video twelve, you're thinking 'I'm the only agent who's going to explain this.' That shift -- from obligation to authority -- that's the mindset unlock. The skill set and reps follow.
 
 *Production: Show actual progression: split-screen of three videos from same agent, timestamps visible. Text overlays of her evolution: 'Generic → Specific → Authoritative.' End on Kim's face saying the mindset line*
 
 ### REFRAME (0:38-0:50)
-So if you've been telling yourself you're 'just not a video person' — you're not wrong about your skills yet. You're wrong about your starting point. You're starting with 'should.' Start with 'only I know this.'
+So if you've been telling yourself you're 'just not a video person' -- you're not wrong about your skills yet. You're wrong about your starting point. You're starting with 'should.' Start with 'only I know this.'
 
 *Production: Split screen: left side shows agent looking at competitor's polished video, defeated. Right side shows same agent filming a quick walkthrough, confident, mid-sentence about something specific*
 
@@ -53,4 +53,34 @@ Right now: Open your notes app. Write one sentence that starts with 'Most agents
 **Share Trigger:** utility
 
 ## Judge Note
-Cut the resume recitation in SETUP and jump straight to the agent progression story — the credentials don't earn the right to be heard, the story does.
+Cut the resume recitation in SETUP and jump straight to the agent progression story -- the credentials don't earn the right to be heard, the story does.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your tenth video will beat someone else's polished first one. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your tenth video will beat someone else's polished first one.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your tenth video will beat someone...
+**Description:** ### HOOK (0:00-0:03)
+Your tenth video will beat someone else's polished first one. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your tenth video will beat someone else's polished first one. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your tenth video will beat someone else's polished first one. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

@@ -19,7 +19,7 @@ day: "Monday"
 **Post Date:** Monday, May 25, 2026
 
 ## On-Screen Title
-> Build A Review Request System With AI — Not Hope Clients Leave One — Build Social Proof That Sells For You
+> Build A Review Request System With AI -- Not Hope Clients Leave One -- Build Social Proof That Sells For You
 
 ## Shareable Moment
 > "Your reviews are doing sales work for you while you sleep. AI helps you systematically collect more of them."
@@ -29,16 +29,41 @@ Reviews are the #1 trust signal for online leads; most agents have no systematic
 
 ## Full Script (Spoken)
 
-You've closed hundreds of happy clients. Most of them never left you a review. That's not their fault — it's yours. [ON-SCREEN: "That's not their fault — it's yours"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty — and here's your AI Agent Minute."
+You've closed hundreds of happy clients. Most of them never left you a review. That's not their fault -- it's yours. [ON-SCREEN: "That's not their fault -- it's yours"]
+"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
 Here's what's happening when clients don't leave reviews. They're not unhappy. They're busy, they don't know exactly what to say, and there was no clear moment where someone made it simple and obvious. The agents who have sixty or eighty reviews didn't get lucky with more appreciative clients. They have a system that makes it easy for any client to say yes.
 Most agents hope clients leave reviews. Top producers make leaving a review the easiest thing their client does all week. [ON-SCREEN: "Make it the easiest thing they do all week"]
-Here's the system. Ask Claude to build a five-step review request sequence. Type: "Write a review request system for a real estate agent that includes: the optimal timing for each ask after closing, the exact email version, a text version, and a follow-up for non-responders. Each message should include a direct link placeholder, a one-sentence prompt telling the client what to mention, and a genuine thank-you. Make it feel personal — not automated." [ON-SCREEN: "Timing + email + text + follow-up + one-sentence prompt + direct link"]
+Here's the system. Ask Claude to build a five-step review request sequence. Type: "Write a review request system for a real estate agent that includes: the optimal timing for each ask after closing, the exact email version, a text version, and a follow-up for non-responders. Each message should include a direct link placeholder, a one-sentence prompt telling the client what to mention, and a genuine thank-you. Make it feel personal -- not automated." [ON-SCREEN: "Timing + email + text + follow-up + one-sentence prompt + direct link"]
 The easier you make it, the more reviews you get. The more reviews you get, the more clients find you before they ever call.
-How many Google reviews do you currently have? Drop the number — no judgment. [ON-SCREEN: How many Google reviews do you have?]
+How many Google reviews do you currently have? Drop the number -- no judgment. [ON-SCREEN: How many Google reviews do you have?]
 See you next time.
 
 ## Producer Note
-"Not their fault, it's yours" is a strong hook line because it's mildly accusatory without being mean — it reframes responsibility without shame. The "one-sentence prompt telling the client what to mention" is a specific tactic most agents have never tried — highlight it on screen.
+"Not their fault, it's yours" is a strong hook line because it's mildly accusatory without being mean -- it reframes responsibility without shame. The "one-sentence prompt telling the client what to mention" is a specific tactic most agents have never tried -- highlight it on screen.
 
 **Word Count:** 232 | **Estimated Duration:** ~109 seconds
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** Build A Review Request System With AI Watch this and save it for later.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
+
+### TikTok
+**Caption:** Build A Review Request System With AI
+**Hashtags:** #AIforRealtors #RealEstateAI #RealtorLife #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Build A Review Request System With AI
+**Description:** Build A Review Request System With AI This changes how you think about your business.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
+
+### Facebook
+**Caption:** Build A Review Request System With AI If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
+
+### LinkedIn
+**Caption:** Build A Review Request System With AI The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstate #ProfessionalDevelopment #RealEstateTechnology

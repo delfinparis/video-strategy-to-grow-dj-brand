@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #Claude #DailyRoutine #RealtorTips
 
 ### YouTube Shorts
-**Title:** Treat Your AI Like a Daily Meeting — 4 Prompts
+**Title:** Treat Your AI Like a Daily Meeting -- 4 Prompts
 **Description:** Four daily Claude prompts that turn AI from a search engine into a thinking partner. Start today.
 **Hashtags:** #AIforRealtors #Claude #DailyRoutine #RealtorTips #ProductivityHacks
 

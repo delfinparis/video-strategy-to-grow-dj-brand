@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #PreForeclosure #AIAgentMinute #LeadGeneration
 
 ### YouTube Shorts
-**Title:** Pre-Foreclosure Records Are Public — Most Agents Never Look
+**Title:** Pre-Foreclosure Records Are Public -- Most Agents Never Look
 **Description:** Pre-foreclosure records are public and most agents never look. The homeowners need help they don't know exists.
 **Hashtags:** #RealEstateAI #PreForeclosure #AIAgentMinute #LeadGeneration #OffMarketDeals
 

@@ -53,4 +53,34 @@ So here's the question: What's the one question buyers in YOUR market are Googli
 **Share Trigger:** utility
 
 ## Judge Note
-The hook is strong but slightly confusing on first read — clarify that she 'stopped needing to convert' rather than 'stopped converting' to avoid misinterpretation.
+The hook is strong but slightly confusing on first read -- clarify that she 'stopped needing to convert' rather than 'stopped converting' to avoid misinterpretation.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Most agents are converting leads. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Most agents are converting leads.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Most agents are converting leads. Sarah...
+**Description:** ### HOOK (0:00-0:03)
+Most agents are converting leads. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Most agents are converting leads. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Most agents are converting leads. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

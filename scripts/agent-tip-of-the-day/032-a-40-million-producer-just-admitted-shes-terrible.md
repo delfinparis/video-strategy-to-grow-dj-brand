@@ -18,7 +18,7 @@ share_trigger: "identity"
 **Score:** 8 | **Rank:** 32 of 62
 **Post Date:** Thursday, May 07, 2026
 
-> **Strongest Line:** "She treats it like brushing her teeth — boring, non-negotiable, done before she can talk herself out of it."
+> **Strongest Line:** "She treats it like brushing her teeth -- boring, non-negotiable, done before she can talk herself out of it."
 
 ## Script
 
@@ -33,7 +33,7 @@ Bari Mill closes 40 million a year in Chicago. And the thing she avoids most? Th
 *Production: B-roll of Chicago skyline, then cut to Bari speaking. Text overlay: 'Chicago Top Producer'*
 
 ### INSIGHT (0:12-0:38)
-She said: 'CRM is something that is not that hard, and if I just set an alarm or a timer to input clients for 10 minutes a day, it's not that hard.' Ten minutes. Not an hour. Not a Sunday afternoon catch-up session where you hate your life. A timer. Every day. She treats it like brushing her teeth — boring, non-negotiable, done before she can talk herself out of it.
+She said: 'CRM is something that is not that hard, and if I just set an alarm or a timer to input clients for 10 minutes a day, it's not that hard.' Ten minutes. Not an hour. Not a Sunday afternoon catch-up session where you hate your life. A timer. Every day. She treats it like brushing her teeth -- boring, non-negotiable, done before she can talk herself out of it.
 
 *Production: Show phone timer being set for 10 minutes. Cut between Bari's quote and screen recording of CRM being updated. Text overlay: '10 MINUTES. EVERY DAY.'*
 
@@ -53,4 +53,34 @@ So set the timer. Right now. Before you close this app. Ten minutes. See if she'
 **Share Trigger:** identity
 
 ## Judge Note
-The 'brushing teeth' metaphor is gold — consider ending with 'Set the timer before you finish reading this' instead of 'before you close this app' for platform flexibility.
+The 'brushing teeth' metaphor is gold -- consider ending with 'Set the timer before you finish reading this' instead of 'before you close this app' for platform flexibility.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+A $40 million producer just admitted she's terrible at CRM. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+A $40 million producer just admitted she's terrible at CRM.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** A $40 million producer just admitted...
+**Description:** ### HOOK (0:00-0:03)
+A $40 million producer just admitted she's terrible at CRM. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+A $40 million producer just admitted she's terrible at CRM. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+A $40 million producer just admitted she's terrible at CRM. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #AppraisalTips #RealEstateAI #AIAgentMinute #DealSaver
 
 ### YouTube Shorts
-**Title:** The Low Appraisal Didn't Kill the Deal — The Surprise Did
+**Title:** The Low Appraisal Didn't Kill the Deal -- The Surprise Did
 **Description:** Every deal-killing appraisal surprise was preventable. Two minutes of preparation saves months of work. Brief your buyers first.
 **Hashtags:** #AppraisalTips #RealEstateAI #AIAgentMinute #DealSaver #BuyerAgent
 

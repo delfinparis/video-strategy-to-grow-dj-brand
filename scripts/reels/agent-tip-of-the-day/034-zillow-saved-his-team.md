@@ -12,11 +12,11 @@ target_duration: "27 seconds"
 
 ## Script (Spoken)
 
-Your market just slowed down and you're sitting there waiting for it to come back. Meanwhile your pipeline is drying up. The problem isn't the market — it's that you're defending territory instead of building a business.
+Your market just slowed down and you're sitting there waiting for it to come back. Meanwhile your pipeline is drying up. The problem isn't the market -- it's that you're defending territory instead of building a business.
 
 *[Agent Tip of the Day bumper]*
 
-Jeff Biebuyck sells luxury in Calabasas and Hidden Hills. When his hyper-local market got squeezed, he didn't wait. He used Zillow Flex to spread his team across all of Greater LA — not as lead gen, but as a geographic expansion strategy. While other luxury agents sat tight, Jeff's team was closing in six different areas.
+Jeff Biebuyck sells luxury in Calabasas and Hidden Hills. When his hyper-local market got squeezed, he didn't wait. He used Zillow Flex to spread his team across all of Greater LA -- not as lead gen, but as a geographic expansion strategy. While other luxury agents sat tight, Jeff's team was closing in six different areas.
 
 Here's your move this week: Map three adjacent markets where your skills transfer. Research the lead costs and competition level. Pick one and test it for 90 days.
 

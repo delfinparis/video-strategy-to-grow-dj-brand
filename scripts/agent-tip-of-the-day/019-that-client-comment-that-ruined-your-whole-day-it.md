@@ -33,14 +33,14 @@ Paul Salter's a mindset coach who works with high performers stuck in defensiven
 *Production: Cut to Paul's headshot with credentials, then b-roll of stressed professional checking phone*
 
 ### INSIGHT (0:12-0:38)
-Here's what he said: 'When a behavior or something that is said by another person triggers you, it's a mirror of a part of yourself you don't like.' The feedback about your response time? You already know you're dropping balls. The comment about follow-through? You're already ashamed of the deals that fell apart. It stings because deep down, you believe it's true—and you've been working overtime to avoid looking at it.
+Here's what he said: 'When a behavior or something that is said by another person triggers you, it's a mirror of a part of yourself you don't like.' The feedback about your response time? You already know you're dropping balls. The comment about follow-through? You're already ashamed of the deals that fell apart. It stings because deep down, you believe it's true -- and you've been working overtime to avoid looking at it.
 
 *Production: Show Paul's quote on screen, then cut to examples: unread texts piling up, missed calendar notifications, stressed agent at desk late at night*
 
 ### REFRAME (0:38-0:50)
 Which means the defensiveness isn't protecting you. It's keeping you stuck. Because you can't fix what you won't acknowledge. The trigger is actually showing you exactly where the work needs to happen.
 
-*Production: Visual shift—light breaking through, person taking deep breath, opening notebook*
+*Production: Visual shift -- light breaking through, person taking deep breath, opening notebook*
 
 ### CTA (0:50-0:60)
 So ask yourself: what criticism have you been fighting the hardest? That's your mirror. That's your next breakthrough. Start there.
@@ -53,4 +53,34 @@ So ask yourself: what criticism have you been fighting the hardest? That's your 
 **Share Trigger:** identity
 
 ## Judge Note
-The 'can't fix what you won't acknowledge' line is the only cliché in an otherwise razor-sharp script—cut it or make it more specific to real estate.
+The 'can't fix what you won't acknowledge' line is the only cliché in an otherwise razor-sharp script -- cut it or make it more specific to real estate.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+That client comment that ruined your whole day? Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+That client comment that ruined your whole day?
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** That client comment that ruined your...
+**Description:** ### HOOK (0:00-0:03)
+That client comment that ruined your whole day? This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+That client comment that ruined your whole day? If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+That client comment that ruined your whole day? The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

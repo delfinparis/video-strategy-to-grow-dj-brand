@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #HyperlocalMarketing #RealEstateContent #AIAgentMinute #RealEstateMarketing
 
 ### YouTube Shorts
-**Title:** National Content Competes With Everyone — Hyperlocal Competes With No One
+**Title:** National Content Competes With Everyone -- Hyperlocal Competes With No One
 **Description:** Stop posting generic content that competes with every agent in America. Go hyperlocal. That's where the opportunity lives.
 **Hashtags:** #HyperlocalMarketing #RealEstateContent #AIAgentMinute #RealEstateMarketing #ContentStrategy
 

@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #OnlineReviews #AIAgentMinute #ClaudeAI
 
 ### YouTube Shorts
-**Title:** Your Reviews Are Your Sales Team — Unsupervised
+**Title:** Your Reviews Are Your Sales Team -- Unsupervised
 **Description:** How you respond to reviews tells future clients more about you than the review itself. Make every response count.
 **Hashtags:** #RealEstateAI #OnlineReviews #AIAgentMinute #ClaudeAI #RealtorBranding
 

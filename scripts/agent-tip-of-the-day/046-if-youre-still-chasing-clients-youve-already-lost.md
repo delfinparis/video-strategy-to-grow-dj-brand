@@ -25,27 +25,27 @@ share_trigger: "identity"
 ### HOOK (0:00-0:03)
 If you're still chasing clients, you've already lost.
 
-*Production: Text on screen: 'If you're still chasing clients...' — B-roll of agent frantically typing/calling, sped up slightly for effect*
+*Production: Text on screen: 'If you're still chasing clients...' -- B-roll of agent frantically typing/calling, sped up slightly for effect*
 
 ### SETUP (0:03-0:12)
 Jay Cannone is top 1% in Fairfield County luxury real estate. And he stopped 'selling' years ago. Here's what he does instead.
 
-*Production: Cut to Jay's headshot with '1% Producer' text overlay — then quick montage of luxury listings*
+*Production: Cut to Jay's headshot with '1% Producer' text overlay -- then quick montage of luxury listings*
 
 ### INSIGHT (0:12-0:38)
-Jay's rule: Marketing is attracting. Selling is convincing. When you're marketing right, clients come pre-sold. They've seen your content. They trust your expertise. They know your values. By the time they call, you're not pitching — you're consulting. You're not overcoming objections — you're confirming what they already believe. The transaction becomes inevitable.
+Jay's rule: Marketing is attracting. Selling is convincing. When you're marketing right, clients come pre-sold. They've seen your content. They trust your expertise. They know your values. By the time they call, you're not pitching -- you're consulting. You're not overcoming objections -- you're confirming what they already believe. The transaction becomes inevitable.
 
-*Production: Split screen: Left side shows 'OLD WAY' — cold calls, door knocking. Right side shows 'NEW WAY' — content creation, testimonials, community presence. Transition to Jay speaking this section if available, or overlay text with his quote in bold*
+*Production: Split screen: Left side shows 'OLD WAY' -- cold calls, door knocking. Right side shows 'NEW WAY' -- content creation, testimonials, community presence. Transition to Jay speaking this section if available, or overlay text with his quote in bold*
 
 ### REFRAME (0:38-0:50)
 Think about your last five deals. How many came to you versus how many did you have to convince? That ratio is your real scorecard. The more you attract, the less you exhaust yourself.
 
-*Production: Thought-provoking pause with text: 'How many came TO you?' — then 'vs. how many did you CONVINCE?' Let it breathe for 2 seconds*
+*Production: Thought-provoking pause with text: 'How many came TO you?' -- then 'vs. how many did you CONVINCE?' Let it breathe for 2 seconds*
 
 ### CTA (0:50-0:60)
 So here's your homework: List three things you're doing to attract versus convince. If you can't name three, you're still in sales mode. Full episode link in bio.
 
-*Production: Text overlay: '3 things that ATTRACT clients:' with blank lines — then 'Full episode 🔗 bio' with arrow pointing up*
+*Production: Text overlay: '3 things that ATTRACT clients:' with blank lines -- then 'Full episode 🔗 bio' with arrow pointing up*
 
 ## Social Media
 **Caption:** Stop convincing. Start attracting. Jay Cannone breaks down the shift that changed everything.
@@ -53,4 +53,34 @@ So here's your homework: List three things you're doing to attract versus convin
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA homework is too vague—give them one specific attraction tactic to implement today instead of asking them to brainstorm three things.
+The CTA homework is too vague -- give them one specific attraction tactic to implement today instead of asking them to brainstorm three things.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+If you're still chasing clients, you've already lost. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+If you're still chasing clients, you've already lost.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** If you're still chasing clients, you've...
+**Description:** ### HOOK (0:00-0:03)
+If you're still chasing clients, you've already lost. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+If you're still chasing clients, you've already lost. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+If you're still chasing clients, you've already lost. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

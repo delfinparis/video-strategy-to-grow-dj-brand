@@ -19,27 +19,52 @@ day: "Friday"
 **Post Date:** Friday, April 17, 2026
 
 ## On-Screen Title
-> Build A VIP Client Experience With AI — Serve Your Best Clients Better — Get More Referrals
+> Build A VIP Client Experience With AI -- Serve Your Best Clients Better -- Get More Referrals
 
 ## Shareable Moment
-> "Twenty percent of your clients are responsible for eighty percent of your referrals. If you treat them exactly like everyone else — you're leaving most of your referral business on the table."
+> "Twenty percent of your clients are responsible for eighty percent of your referrals. If you treat them exactly like everyone else -- you're leaving most of your referral business on the table."
 
 ## Why This Rank
 Every agent says they provide great service; few have systematized it. This bridges the gap with a concrete deliverable.
 
 ## Full Script (Spoken)
 
-Not all clients are created equal — and treating your best ones exactly like everyone else is one of the most expensive mistakes in real estate. [ON-SCREEN: "Treating your best clients like everyone else is expensive"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty — and here's your AI Agent Minute."
-Here's the math. Twenty percent of your past clients are responsible for eighty percent of your referrals. These are the people who talk about you at dinner parties, send you friends without being asked, and write five-star reviews unprompted. If you serve them at the same level as every other transaction — you're leaving most of your referral business sitting on the table, untouched.
+Not all clients are created equal -- and treating your best ones exactly like everyone else is one of the most expensive mistakes in real estate. [ON-SCREEN: "Treating your best clients like everyone else is expensive"]
+"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Here's the math. Twenty percent of your past clients are responsible for eighty percent of your referrals. These are the people who talk about you at dinner parties, send you friends without being asked, and write five-star reviews unprompted. If you serve them at the same level as every other transaction -- you're leaving most of your referral business sitting on the table, untouched.
 Most agents give everyone the same experience. Top producers give their best advocates a completely different one. [ON-SCREEN: "Best advocates get a completely different experience"]
-Here's how to build it. Ask Claude to design a VIP client tier for your business. Type: "Design a twelve-month VIP experience for a past real estate client. Include quarterly check-ins, value-add touchpoints throughout the year, and milestone moments that make this person feel genuinely appreciated — not marketed to. Keep it personal and specific." [ON-SCREEN: "Quarterly check-ins + value touchpoints + milestone moments"]
+Here's how to build it. Ask Claude to design a VIP client tier for your business. Type: "Design a twelve-month VIP experience for a past real estate client. Include quarterly check-ins, value-add touchpoints throughout the year, and milestone moments that make this person feel genuinely appreciated -- not marketed to. Keep it personal and specific." [ON-SCREEN: "Quarterly check-ins + value touchpoints + milestone moments"]
 Identify your top ten past clients this week. Start running them through it.
 Your best clients don't need more marketing from you. They need more appreciation. AI helps you deliver it consistently.
-Who's the one past client who would refer you to everyone — if you just stayed in better touch? Think of them right now. [ON-SCREEN: Who would refer everyone — if you stayed in better touch?]
+Who's the one past client who would refer you to everyone -- if you just stayed in better touch? Think of them right now. [ON-SCREEN: Who would refer everyone -- if you stayed in better touch?]
 See you next time.
 
 ## Producer Note
-The 80/20 referral stat should be verified — it's a widely cited principle but the specific "20% of clients = 80% of referrals" formulation for real estate should be sourced or framed as an observed pattern rather than a confirmed stat. "Think of them right now" is an unusually direct CTA close — it works.
+The 80/20 referral stat should be verified -- it's a widely cited principle but the specific "20% of clients = 80% of referrals" formulation for real estate should be sourced or framed as an observed pattern rather than a confirmed stat. "Think of them right now" is an unusually direct CTA close -- it works.
 
 **Word Count:** 243 | **Estimated Duration:** ~114 seconds
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** Build A VIP Client Experience With AI Watch this and save it for later.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
+
+### TikTok
+**Caption:** Build A VIP Client Experience With AI
+**Hashtags:** #AIforRealtors #RealEstateAI #RealtorLife #RealEstateAgent
+
+### YouTube Shorts
+**Title:** Build A VIP Client Experience With AI
+**Description:** Build A VIP Client Experience With AI This changes how you think about your business.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
+
+### Facebook
+**Caption:** Build A VIP Client Experience With AI If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
+
+### LinkedIn
+**Caption:** Build A VIP Client Experience With AI The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #AIforRealtors #RealEstateAI #RealEstate #ProfessionalDevelopment #RealEstateTechnology

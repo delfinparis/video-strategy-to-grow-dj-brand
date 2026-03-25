@@ -40,10 +40,10 @@ Here's what he did: He opened ChatGPT and typed, 'Build me an HTML mortgage calc
 ### REFRAME (0:38-0:50)
 This isn't about being tech-savvy. It's about realizing the barrier between 'I wish I had that' and 'I built that' just collapsed. Every tool you wish existed? You can build it this week. And your clients will think you hired a developer.
 
-*Production: Show three different custom tools in action — mortgage calculator, neighborhood comparison, market report generator. Each one solving a specific client pain point. Agent branding visible on each. Fast cuts, energy building.*
+*Production: Show three different custom tools in action -- mortgage calculator, neighborhood comparison, market report generator. Each one solving a specific client pain point. Agent branding visible on each. Fast cuts, energy building.*
 
 ### CTA (0:50-0:60)
-Tonight before bed: Open ChatGPT. Type this exact prompt: 'Build me an HTML tool that calculates monthly mortgage payments with sliders for price, down payment, and interest rate.' Copy the code it gives you. Paste it into Carrd.co—it's free. Tomorrow, text it to your next buyer. That's it. That's the assignment.
+Tonight before bed: Open ChatGPT. Type this exact prompt: 'Build me an HTML tool that calculates monthly mortgage payments with sliders for price, down payment, and interest rate.' Copy the code it gives you. Paste it into Carrd.co -- it's free. Tomorrow, text it to your next buyer. That's it. That's the assignment.
 
 *Production: Text overlay showing the exact prompt typed out clearly. Then show the three steps as bullet points: 1) Open ChatGPT 2) Use this prompt 3) Paste into Carrd. D.J. to camera for last line, direct eye contact.*
 
@@ -53,4 +53,34 @@ Tonight before bed: Open ChatGPT. Type this exact prompt: 'Build me an HTML tool
 **Share Trigger:** utility
 
 ## Judge Note
-This is nearly perfect—only improvement would be showing a 10-second screen recording of the actual tool being built in the video itself.
+This is nearly perfect -- only improvement would be showing a 10-second screen recording of the actual tool being built in the video itself.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Most agents pay for tools. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Most agents pay for tools.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Most agents pay for tools. Top...
+**Description:** ### HOOK (0:00-0:03)
+Most agents pay for tools. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Most agents pay for tools. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Most agents pay for tools. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

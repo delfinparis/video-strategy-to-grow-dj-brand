@@ -28,12 +28,12 @@ You're about to send that lowball offer. AI just stopped you from killing the de
 *Production: Text overlay: 'OFFER: $425K' with a red X animation. Tense music sting.*
 
 ### SETUP (0:03-0:12)
-Most agents negotiate in real life and learn they went too low after the seller ghosts them. Tim Burrell — top producer in Raleigh — runs every offer through AI first.
+Most agents negotiate in real life and learn they went too low after the seller ghosts them. Tim Burrell -- top producer in Raleigh -- runs every offer through AI first.
 
 *Production: B-roll: Phone screen showing angry seller text. Cut to Tim's headshot with credentials.*
 
 ### INSIGHT (0:12-0:38)
-Here's his exact process. Before you submit, you feed AI the situation: their motivation, your client's position, the offer amount. Then you ask for the three most probable responses. Because anchoring works — start lower, you'll end lower — but go insultingly low and they'll make you apologize your way back up. AI shows you where that line is before you cross it. Tim says, 'AI will give you some feedback in terms of should you do this or should you not do this.' It's a negotiation simulator. You test the offer in private, adjust, then go live.
+Here's his exact process. Before you submit, you feed AI the situation: their motivation, your client's position, the offer amount. Then you ask for the three most probable responses. Because anchoring works -- start lower, you'll end lower -- but go insultingly low and they'll make you apologize your way back up. AI shows you where that line is before you cross it. Tim says, 'AI will give you some feedback in terms of should you do this or should you not do this.' It's a negotiation simulator. You test the offer in private, adjust, then go live.
 
 *Production: Screen recording: ChatGPT/Claude interface with prompt visible. Highlight 'three probable responses.' Cut to split screen showing 'insulting offer' vs 'strategic offer' outcomes.*
 
@@ -43,7 +43,7 @@ Think about your last deal that died in negotiation. What if you'd known their l
 *Production: Slow zoom on frustrated agent staring at phone. Transition to confident agent reviewing AI feedback on laptop.*
 
 ### CTA (0:50-0:60)
-Next offer you write — before you send it — paste the scenario into Claude or ChatGPT. Ask for three probable responses. See what it catches. Full episode link in bio.
+Next offer you write -- before you send it -- paste the scenario into Claude or ChatGPT. Ask for three probable responses. See what it catches. Full episode link in bio.
 
 *Production: Text overlay: 'Try this TODAY' with simple prompt template shown on screen. End card with podcast logo.*
 
@@ -53,4 +53,34 @@ Next offer you write — before you send it — paste the scenario into Claude o
 **Share Trigger:** utility
 
 ## Judge Note
-Near-perfect — only tweak would be to include the exact AI prompt format in the CTA instead of just 'paste the scenario' to make it even more actionable.
+Near-perfect -- only tweak would be to include the exact AI prompt format in the CTA instead of just 'paste the scenario' to make it even more actionable.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You're about to send that lowball offer. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You're about to send that lowball offer.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You're about to send that lowball...
+**Description:** ### HOOK (0:00-0:03)
+You're about to send that lowball offer. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You're about to send that lowball offer. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You're about to send that lowball offer. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

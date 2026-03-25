@@ -12,13 +12,13 @@ target_duration: "22 seconds"
 
 ## Script (Spoken)
 
-You've been posting, mailing, emailing — and nobody's responding. So you're thinking about quitting. That's the worst move you could make right now.
+You've been posting, mailing, emailing -- and nobody's responding. So you're thinking about quitting. That's the worst move you could make right now.
 
 *[Agent Tip of the Day bumper]*
 
-Jay Cannone has been in luxury real estate for 40 years. He told me a seller watched his postcards for ten straight months without calling. Ten months. She was testing whether he'd quit. He didn't — and she listed her home with him because of it.
+Jay Cannone has been in luxury real estate for 40 years. He told me a seller watched his postcards for ten straight months without calling. Ten months. She was testing whether he'd quit. He didn't -- and she listed her home with him because of it.
 
-Here's what to do: Think of one marketing channel you gave up on — postcards, video, email, whatever. Restart it today. Commit to 30 days. No checking results, no second-guessing. Just show up.
+Here's what to do: Think of one marketing channel you gave up on -- postcards, video, email, whatever. Restart it today. Commit to 30 days. No checking results, no second-guessing. Just show up.
 
 The people worth working with are watching and counting your consistency. When they're finally ready, you'll be the only agent who didn't disappear.
 

@@ -18,7 +18,7 @@ share_trigger: "utility"
 **Score:** 8 | **Rank:** 39 of 62
 **Post Date:** Saturday, May 23, 2026
 
-> **Strongest Line:** "She's calling the people who bought during the pandemic — their values are up, rates dropped to 6%, and they're finally not terrified of giving up that 3% mortgage."
+> **Strongest Line:** "She's calling the people who bought during the pandemic -- their values are up, rates dropped to 6%, and they're finally not terrified of giving up that 3% mortgage."
 
 ## Script
 
@@ -28,12 +28,12 @@ Your competition is about to disappear for six weeks.
 *Production: Text on screen: 'December = Ghost Town' over B-roll of empty office or calendar flipping to December*
 
 ### SETUP (0:03-0:12)
-Every November, the same thing happens. Agents take their foot off the gas. They coast into the holidays. And that's exactly when Carrie McCormick — $300 million producer out of Chicago — goes hunting.
+Every November, the same thing happens. Agents take their foot off the gas. They coast into the holidays. And that's exactly when Carrie McCormick -- $300 million producer out of Chicago -- goes hunting.
 
 *Production: Cut to Carrie's headshot with credential text overlay, then B-roll of holiday decorations/quiet neighborhoods*
 
 ### INSIGHT (0:12-0:38)
-Here's what she does: 'Re-engage with your database, especially during the holidays, when agents typically take their foot off the gas.' She's not sending generic holiday cards. She's calling the people who bought during the pandemic — their values are up, rates dropped to 6%, and they're finally not terrified of giving up that 3% mortgage. She's texting cash buyers about year-end deals. She's scheduling January listing appointments while everyone else is watching football.
+Here's what she does: 'Re-engage with your database, especially during the holidays, when agents typically take their foot off the gas.' She's not sending generic holiday cards. She's calling the people who bought during the pandemic -- their values are up, rates dropped to 6%, and they're finally not terrified of giving up that 3% mortgage. She's texting cash buyers about year-end deals. She's scheduling January listing appointments while everyone else is watching football.
 
 *Production: Screen recording of CRM/database, then show examples: phone with text messages, calendar with appointments booked in January, split screen of 'Most Agents' (couch/TV) vs 'Top Producers' (working)*
 
@@ -53,4 +53,34 @@ Open your CRM right now. Filter for anyone who closed between 2020 and 2022. Tha
 **Share Trigger:** utility
 
 ## Judge Note
-The hook is strong but generic — open with the specific tactic instead: 'Filter your CRM for 2020-2022 buyers right now. Here's why.'
+The hook is strong but generic -- open with the specific tactic instead: 'Filter your CRM for 2020-2022 buyers right now. Here's why.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+Your competition is about to disappear for six weeks. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+Your competition is about to disappear for six weeks.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** Your competition is about to disappear...
+**Description:** ### HOOK (0:00-0:03)
+Your competition is about to disappear for six weeks. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+Your competition is about to disappear for six weeks. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+Your competition is about to disappear for six weeks. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

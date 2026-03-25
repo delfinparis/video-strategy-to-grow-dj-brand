@@ -28,14 +28,14 @@ You're getting better at the wrong thing.
 *Production: Text on screen: 'You're getting better at the WRONG thing.' Bold, stark background. Cut to Courtney mid-sentence.*
 
 ### SETUP (0:03-0:12)
-Every sales training tells you to perfect your pitch. Get better at objection handling. Learn closing techniques. But Courtney Poulos — recognized leader by LA Business Journal — says that's backwards.
+Every sales training tells you to perfect your pitch. Get better at objection handling. Learn closing techniques. But Courtney Poulos -- recognized leader by LA Business Journal -- says that's backwards.
 
 *Production: B-roll of generic sales training materials, scripts, objection handling flowcharts. Quick cuts to create tension.*
 
 ### INSIGHT (0:12-0:38)
-Here's what she told me: 'The art of sales is not in my ability to sell. It's in the clients' ability or desire to trust me.' Think about that. You're not closing deals because your pitch is weak. You're losing deals because trust isn't there. And trust isn't built in a presentation — it's built in how you show up before the pitch ever happens. The mechanic you never question. The doctor whose advice you follow without hesitation. The hairstylist you've been seeing for ten years. They're not better salespeople. They're more trusted people.
+Here's what she told me: 'The art of sales is not in my ability to sell. It's in the clients' ability or desire to trust me.' Think about that. You're not closing deals because your pitch is weak. You're losing deals because trust isn't there. And trust isn't built in a presentation -- it's built in how you show up before the pitch ever happens. The mechanic you never question. The doctor whose advice you follow without hesitation. The hairstylist you've been seeing for ten years. They're not better salespeople. They're more trusted people.
 
-*Production: Cut to Courtney's actual quote on screen. Then B-roll of trusted professionals — mechanic, doctor, hairstylist — people nodding, trusting, not questioning. Show the relationship, not the transaction.*
+*Production: Cut to Courtney's actual quote on screen. Then B-roll of trusted professionals -- mechanic, doctor, hairstylist -- people nodding, trusting, not questioning. Show the relationship, not the transaction.*
 
 ### REFRAME (0:38-0:50)
 So what if you stopped trying to get better at convincing people... and started getting better at being the kind of person people don't need to be convinced by? What changes in how you market? How you communicate? How you spend your time?
@@ -53,4 +53,34 @@ Pull out your last three lost deals. Be honest: was it your pitch that failed...
 **Share Trigger:** identity
 
 ## Judge Note
-The CTA is too vague—tell them exactly what to look for in those lost deals (was there a gap between first contact and proposal? did you skip the rapport call?).
+The CTA is too vague -- tell them exactly what to look for in those lost deals (was there a gap between first contact and proposal? did you skip the rapport call?).
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You're getting better at the wrong thing. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You're getting better at the wrong thing.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You're getting better at the wrong...
+**Description:** ### HOOK (0:00-0:03)
+You're getting better at the wrong thing. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You're getting better at the wrong thing. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You're getting better at the wrong thing. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

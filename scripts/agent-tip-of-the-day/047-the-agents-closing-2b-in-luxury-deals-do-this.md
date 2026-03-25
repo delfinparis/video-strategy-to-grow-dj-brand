@@ -25,25 +25,25 @@ share_trigger: "utility"
 ### HOOK (0:00-0:03)
 The agents closing $2B+ in luxury deals do this after every single conversation. You probably don't.
 
-*Production: Text overlay: '$2B+ in transactions' — b-roll of luxury NYC properties, high-rise views*
+*Production: Text overlay: '$2B+ in transactions' -- b-roll of luxury NYC properties, high-rise views*
 
 ### SETUP (0:03-0:12)
 Jill Preschel spent years in rooms with private equity partners and institutional investors. She learned fast: if you don't document the conversation, it never happened.
 
-*Production: Cut to Jill speaking. Lower third: 'Jill Preschel — Luxury & New Developments, NYC'*
+*Production: Cut to Jill speaking. Lower third: 'Jill Preschel -- Luxury & New Developments, NYC'*
 
 ### INSIGHT (0:12-0:38)
-Her habit? After every conversation — client call, showing, negotiation — she sends one email. Not long. Just: 'Great talking. Here's what we discussed. Here's what we agreed on. Here's the next step.' That's it. She learned this sitting across from capital partners who'd agree to things in meetings, then conveniently forget. The email isn't rude. It's a receipt. And here's what it actually does: it eliminates the 'I thought you said' arguments. It keeps YOU in control of the narrative. And it makes you look like the one pro in a sea of amateurs.
+Her habit? After every conversation -- client call, showing, negotiation -- she sends one email. Not long. Just: 'Great talking. Here's what we discussed. Here's what we agreed on. Here's the next step.' That's it. She learned this sitting across from capital partners who'd agree to things in meetings, then conveniently forget. The email isn't rude. It's a receipt. And here's what it actually does: it eliminates the 'I thought you said' arguments. It keeps YOU in control of the narrative. And it makes you look like the one pro in a sea of amateurs.
 
 *Production: Show email example on screen. Highlight key phrases: 'what we discussed,' 'what we agreed on,' 'next step.' Cut back to Jill delivering the insight.*
 
 ### REFRAME (0:38-0:50)
 Most agents think the hard part is the conversation. Wrong. The hard part is making sure the conversation sticks. This one email is the difference between being remembered and being forgotten.
 
-*Production: Split screen: 'Agents who don't send the email' vs 'Agents who do' — visual contrast in outcomes*
+*Production: Split screen: 'Agents who don't send the email' vs 'Agents who do' -- visual contrast in outcomes*
 
 ### CTA (0:50-0:60)
-Next conversation you have today — send the summary email. Three bullets. Thirty seconds to write. See what happens.
+Next conversation you have today -- send the summary email. Three bullets. Thirty seconds to write. See what happens.
 
 *Production: Text overlay: 'Send the summary email.' End on Jill nodding, confident close.*
 
@@ -54,3 +54,33 @@ Next conversation you have today — send the summary email. Three bullets. Thir
 
 ## Judge Note
 Show the exact three-bullet template Jill uses so they can copy-paste it immediately after watching.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The agents closing $2B+ in luxury deals do this after every single conversation. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The agents closing $2B+ in luxury deals do this after every single conversation.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The agents closing $2B+ in luxury...
+**Description:** ### HOOK (0:00-0:03)
+The agents closing $2B+ in luxury deals do this after every single conversation. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The agents closing $2B+ in luxury deals do this after every single conversation. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The agents closing $2B+ in luxury deals do this after every single conversation. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

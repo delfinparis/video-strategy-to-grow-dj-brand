@@ -28,7 +28,7 @@ You're losing the deal before you even know they're mad.
 *Production: Close-up of frustrated agent staring at phone/email. Text overlay: 'You're losing the deal...'*
 
 ### SETUP (0:03-0:12)
-Most negotiations fall apart because we miss the shift. The tone change. The moment they go from considering to walking. Tim Burrell — top producer in Raleigh — catches it before it happens.
+Most negotiations fall apart because we miss the shift. The tone change. The moment they go from considering to walking. Tim Burrell -- top producer in Raleigh -- catches it before it happens.
 
 *Production: Cut to email thread scrolling. Highlight phrases getting shorter, colder. Show Tim's headshot with credential lower-third.*
 
@@ -53,4 +53,34 @@ Tonight: Open ChatGPT. Copy your last tense client email thread. Paste it in. As
 **Share Trigger:** utility
 
 ## Judge Note
-Cut 'That's the skill' — it's filler that weakens an otherwise perfect ending.
+Cut 'That's the skill' -- it's filler that weakens an otherwise perfect ending.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You're losing the deal before you even know they're mad. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You're losing the deal before you even know they're mad.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You're losing the deal before you...
+**Description:** ### HOOK (0:00-0:03)
+You're losing the deal before you even know they're mad. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You're losing the deal before you even know they're mad. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You're losing the deal before you even know they're mad. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

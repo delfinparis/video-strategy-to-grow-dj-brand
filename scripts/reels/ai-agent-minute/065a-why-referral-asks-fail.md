@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #RealEstateAI #Referrals #AIAgentMinute #RealtorGrowth
 
 ### YouTube Shorts
-**Title:** "Do You Know Anyone Looking to Buy or Sell?" — That's Why It Fails
+**Title:** "Do You Know Anyone Looking to Buy or Sell?" -- That's Why It Fails
 **Description:** The generic referral ask fails every time. Specificity is what makes people actually think of someone to refer.
 **Hashtags:** #RealEstateAI #Referrals #AIAgentMinute #RealtorGrowth #ClientRelationships
 

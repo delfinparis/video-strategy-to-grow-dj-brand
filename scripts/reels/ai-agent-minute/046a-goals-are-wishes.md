@@ -39,7 +39,7 @@ See you next time.
 **Hashtags:** #GoalSetting #RealEstateAI #AIAgentMinute #RealEstateGoals
 
 ### YouTube Shorts
-**Title:** Your Goal Isn't a Goal — It's a Wish
+**Title:** Your Goal Isn't a Goal -- It's a Wish
 **Description:** Fifty deals is not a goal. It's a wish. A goal has daily actions, weekly metrics, and a scorecard. Build the math.
 **Hashtags:** #GoalSetting #RealEstateAI #AIAgentMinute #RealEstateGoals #ProductionStrategy
 

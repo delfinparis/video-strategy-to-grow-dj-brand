@@ -28,14 +28,14 @@ The $50 million producer who still answers her phone at 9 PM just said something
 *Production: B-roll: Kristee on phone in evening, soft lighting. Cut to close-up of her face mid-conversation, engaged and present.*
 
 ### SETUP (0:03-0:12)
-Kristee Leonard has been in luxury real estate for 18 years. She's seen thousands of transactions. And yet — she still treats every single client call like it's the first one she ever got.
+Kristee Leonard has been in luxury real estate for 18 years. She's seen thousands of transactions. And yet -- she still treats every single client call like it's the first one she ever got.
 
 *Production: Quick montage: Awards, closing table photos, testimonials flashing. Then cut back to Kristee, grounded and real.*
 
 ### INSIGHT (0:12-0:38)
-Here's what she said: 'I don't take that for granted... for someone to choose you, it is an honor.' Not a transaction. Not a commission check. An honor. She means it. When Zillow transfers a lead, she doesn't introduce herself first — she asks when they want to see the house. Because they already chose her. That choice? That's the whole game. Most agents forget this after year three. They start seeing clients as interruptions. Kristee sees them as the reason she still gets to do this work.
+Here's what she said: 'I don't take that for granted... for someone to choose you, it is an honor.' Not a transaction. Not a commission check. An honor. She means it. When Zillow transfers a lead, she doesn't introduce herself first -- she asks when they want to see the house. Because they already chose her. That choice? That's the whole game. Most agents forget this after year three. They start seeing clients as interruptions. Kristee sees them as the reason she still gets to do this work.
 
-*Production: Feature Kristee's actual quote as text overlay. Cut to footage of her at showings, closings, genuinely engaged with clients. No staged smiles — real moments.*
+*Production: Feature Kristee's actual quote as text overlay. Cut to footage of her at showings, closings, genuinely engaged with clients. No staged smiles -- real moments.*
 
 ### REFRAME (0:38-0:50)
 If you've been in this business long enough to feel the grind, this is your reminder: Every person who calls you passed on a hundred other agents. They didn't choose your brand. They chose you. That's not pressure. That's privilege.
@@ -53,4 +53,34 @@ So here's the question: When's the last time you answered the phone like it was 
 **Share Trigger:** identity
 
 ## Judge Note
-The Zillow detail feels like a random tactical insert — either expand it into a full example or cut it to keep the emotional throughline clean.
+The Zillow detail feels like a random tactical insert -- either expand it into a full example or cut it to keep the emotional throughline clean.
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+The $50 million producer who still answers her phone at 9 PM just said something that made me stop. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+The $50 million producer who still answers her phone at 9 PM just said something that made me stop.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** The $50 million producer who still...
+**Description:** ### HOOK (0:00-0:03)
+The $50 million producer who still answers her phone at 9 PM just said something that made me stop. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+The $50 million producer who still answers her phone at 9 PM just said something that made me stop. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+The $50 million producer who still answers her phone at 9 PM just said something that made me stop. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership

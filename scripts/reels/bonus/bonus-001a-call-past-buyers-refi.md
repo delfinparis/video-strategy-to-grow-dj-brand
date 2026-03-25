@@ -2,11 +2,11 @@
 series: "Bonus"
 original_script: "2026-03-01-rates-below-six-percent"
 reel_number: 1 of 3
-title: "Rates Below 6% — Call Your Past Buyers"
+title: "Rates Below 6% -- Call Your Past Buyers"
 target_duration: "25 seconds"
 ---
 
-# Rates Below 6% — Call Your Past Buyers
+# Rates Below 6% -- Call Your Past Buyers
 
 > **On-Screen Text:** "This call isn't sales. It's a favor."
 
@@ -22,3 +22,28 @@ Pick five past buyers. Call them today.
 
 **Caption:** Rates just hit 5.98%. If you had buyers close in 2023 or 2024, they need to hear from you -- not next week, today.
 **Hashtags:** #realestate #mortgagerates #refinance #realtor #realtortips #realestateagent #housingmarket #interestrates #realestatetips #keepingitrealpodcast
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** Mortgage rates just dropped below six percent for the first time in three and a half years. Watch this and save it for later.
+**Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #RealEstateMarketing #TopProducer #RealEstateAI #AIforRealtors #RealEstateTechnology #RealEstateAdvice
+
+### TikTok
+**Caption:** Mortgage rates just dropped below six percent for the first time in three and a half years.
+**Hashtags:** #RealEstate #RealtorLife #RealEstateAgent #RealEstateTips
+
+### YouTube Shorts
+**Title:** Rates Below 6% -- Call Your Past Buyers
+**Description:** Mortgage rates just dropped below six percent for the first time in three and a half years. This changes how you think about your business.
+**Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #RealEstateMarketing
+
+### Facebook
+**Caption:** Mortgage rates just dropped below six percent for the first time in three and a half years. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer #RealEstateMarketing
+
+### LinkedIn
+**Caption:** Mortgage rates just dropped below six percent for the first time in three and a half years. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #ProfessionalDevelopment #RealEstateAgent #Leadership #RealEstateTechnology

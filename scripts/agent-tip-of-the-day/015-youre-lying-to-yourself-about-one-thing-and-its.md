@@ -30,15 +30,15 @@ You're lying to yourself about one thing. And it's costing you $300,000 a year.
 ### SETUP (0:03-0:12)
 Paul Salter coaches seven-figure agents. And he says the number one thing holding you back isn't your market, your leads, or your systems. It's the story you keep telling yourself about what you signed up for.
 
-*Production: B-roll: luxury listing photos, CRM dashboard, team meeting — then cut to agent alone at desk at 9pm, family photo visible in background. Cut to Paul speaking.*
+*Production: B-roll: luxury listing photos, CRM dashboard, team meeting -- then cut to agent alone at desk at 9pm, family photo visible in background. Cut to Paul speaking.*
 
 ### INSIGHT (0:12-0:38)
-Every single breakthrough begins with honest communication. Here's what that actually means. Last month, I had a client — 15 years in, $8 million in production — tell me she wanted 'balance.' I said, 'Bullshit. What do you actually want?' Turns out she wanted to build a $20 million team and retire her husband. But she'd been pretending she wanted a lifestyle business because that's what her friends respected. So she was doing the work of a $20 million producer while telling herself she wanted less. That's why she was miserable. The work didn't match the story. Here's the truth: You either want to dominate your market or you don't. Both are fine. But pick one and stop lying about it.
+Every single breakthrough begins with honest communication. Here's what that actually means. Last month, I had a client -- 15 years in, $8 million in production -- tell me she wanted 'balance.' I said, 'Bullshit. What do you actually want?' Turns out she wanted to build a $20 million team and retire her husband. But she'd been pretending she wanted a lifestyle business because that's what her friends respected. So she was doing the work of a $20 million producer while telling herself she wanted less. That's why she was miserable. The work didn't match the story. Here's the truth: You either want to dominate your market or you don't. Both are fine. But pick one and stop lying about it.
 
 *Production: Paul speaking directly to camera, medium shot. Text overlay: 'What do you ACTUALLY want?' at 0:18. Cut to close-up at 0:28. Text overlay: 'The work didn't match the story' at 0:32.*
 
 ### REFRAME (0:38-0:50)
-The resentment you feel? That's not burnout. That's incongruency. You're working 60 hours a week while telling your spouse it's temporary. It's been three years. The moment you get honest — 'This is what I'm building, this is what it takes, here's how long' — the resentment stops. Not because the work changes. Because the lie ends.
+The resentment you feel? That's not burnout. That's incongruency. You're working 60 hours a week while telling your spouse it's temporary. It's been three years. The moment you get honest -- 'This is what I'm building, this is what it takes, here's how long' -- the resentment stops. Not because the work changes. Because the lie ends.
 
 *Production: Split screen: left shows agent fake-smiling at dinner table, checking phone under table. Right shows same agent having direct eye-contact conversation with spouse, calendar open between them. Visual: weight literally lifting off shoulders as honesty happens.*
 
@@ -53,4 +53,34 @@ Tonight before bed: Open your notes app. Type two sentences. Sentence one: 'What
 **Share Trigger:** identity
 
 ## Judge Note
-The only weak spot is 'one thing' in the hook — be more specific: 'You're lying about what you actually want to build.'
+The only weak spot is 'one thing' in the hook -- be more specific: 'You're lying about what you actually want to build.'
+
+---
+
+## Social Copy
+
+### Instagram
+**Caption:** ### HOOK (0:00-0:03)
+You're lying to yourself about one thing. Watch this and save it for later.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
+
+### TikTok
+**Caption:** ### HOOK (0:00-0:03)
+You're lying to yourself about one thing.
+**Hashtags:** #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
+
+### YouTube Shorts
+**Title:** You're lying to yourself about one...
+**Description:** ### HOOK (0:00-0:03)
+You're lying to yourself about one thing. This changes how you think about your business.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice
+
+### Facebook
+**Caption:** ### HOOK (0:00-0:03)
+You're lying to yourself about one thing. If this hits home, share it with an agent who needs to hear it.
+**Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
+
+### LinkedIn
+**Caption:** ### HOOK (0:00-0:03)
+You're lying to yourself about one thing. The agents who act on this now will be ahead of the pack in 90 days.
+**Hashtags:** #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership
