@@ -36,7 +36,7 @@ And you can't sell, scale, or step away from a business that only lives in your 
 Here's the fix -- and it's easier than you think. Pick one process. Your listing appointment workflow. Do a voice brain dump into your phone: everything you do, in order, from confirming the appointment to after you leave the house. Then paste it into Claude and type: "Turn this into a clean step-by-step SOP with a checklist I can hand to an assistant or follow myself." [ON-SCREEN: "Turn this into a step-by-step SOP with a checklist"]
 Do one process a week. In ten weeks, you have a documented business.
 Written systems make your business sellable, scalable, and survivable. AI makes building them take thirty minutes.
-What's the one process in your business you've never written down? Drop it below. [ON-SCREEN: What's the one process you've never written down?]
+
 See you next time.
 
 ## Producer Note

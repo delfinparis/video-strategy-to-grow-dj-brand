@@ -36,7 +36,7 @@ Your client hired you to think clearly when things get hard. Most agents wait un
 Here's the fix. Before any negotiation call, spend ten minutes with Claude. Give it the full deal picture -- offer price, inspection issues, competing offers, seller motivation, your buyer's must-haves versus nice-to-haves. Then type: "Draft three negotiation scenarios ranked by likelihood, with the strongest talking points for each one." [ON-SCREEN: "Draft 3 scenarios ranked by likelihood -- with talking points for each"]
 Walk into that call with a game plan. Not gut feel.
 Your client is counting on you to think clearly under pressure. Claude lets you do the hard thinking before the pressure even arrives.
-Save this video -- your next negotiation is coming and you'll want this ready. [ON-SCREEN: Save this -- your next negotiation is coming]
+
 See you next time.
 
 ## Producer Note

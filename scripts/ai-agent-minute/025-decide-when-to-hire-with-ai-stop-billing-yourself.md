@@ -36,7 +36,7 @@ Most agents hire out of desperation. Top producers hire out of data. [ON-SCREEN:
 Here's how to get the data. List every task you did last week and how long each one took. Give that list to Claude and type: "Sort these into tasks that require my expertise versus tasks a part-time assistant could handle. Estimate the cost of hiring someone to do the second category -- and the opportunity cost of me continuing to do them myself." [ON-SCREEN: "What's the cost of me doing this vs. hiring someone?"]
 The math will tell you if it's time.
 Your first hire isn't a cost. It's the investment that turns you from an agent into a business owner.
-What's the task you most wish you could hand off to someone else right now? Drop it below. [ON-SCREEN: What do you most wish you could hand off?]
+
 See you next time.
 
 ## Producer Note

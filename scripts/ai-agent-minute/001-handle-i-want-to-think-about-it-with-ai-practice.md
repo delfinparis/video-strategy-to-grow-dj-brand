@@ -36,7 +36,7 @@ And here's the painful part -- the agents who handle this objection effortlessly
 Here's what changes that. Set up a weekly fifteen-minute session with Claude. Type: "Act as a seller who just said 'I want to think about it' after my listing presentation. Stay fully in character as I work through this. Push back the way a real seller would -- anxious, skeptical, financially stressed." Run it five times. [ON-SCREEN: "Act as a seller who just said 'I want to think about it' -- stay in character"]
 By the time you're in the real conversation, you've been there a hundred times.
 Objection handling is a muscle. The agents who don't freeze are the ones who practiced until it felt automatic. You can start that practice right now.
-What's the objection you dread most? Drop it below -- I'll show you how to handle it with AI. [ON-SCREEN: What objection do you dread most?]
+
 See you next time.
 
 ## Producer Note

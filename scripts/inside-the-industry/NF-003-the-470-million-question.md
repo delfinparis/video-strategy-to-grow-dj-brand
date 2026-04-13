@@ -61,8 +61,6 @@ But before you grab the pitchforks: without these settlements, the industry was 
 
 An informed member is a better member. Know what you're paying for.
 
-Save this and share it with your team.
-
 **Hashtags:**
 #realestate #realtor #nar #realtorlife #chicagorealestate #realestatenews #narssettlement #realestate2026 #realestateagent #keepingitrealpodcast #realtortips #realtordues #realestatelaw #buyeragent #chicagorealtor #kalerealty
 
@@ -99,7 +97,7 @@ But here's the other side of that coin: without these settlements, the industry 
 
 Is it a lot of money? Absolutely. Is it worth it? That's a question every agent should be thinking about.
 
-An informed member is a better member. What do you think -- is your NAR membership still worth it?
+An informed member is a better member. Now you're informed.
 
 **Hashtags:** #RealEstate #NAR #Commissions #RealtorLife #ChicagoRealEstate
 

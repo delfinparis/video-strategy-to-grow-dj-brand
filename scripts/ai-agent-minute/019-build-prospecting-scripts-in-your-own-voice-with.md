@@ -35,7 +35,7 @@ Here's what happens when you use someone else's script. The words might be techn
 Most agents sound like they're quoting a training manual. Top producers sound like themselves. [ON-SCREEN: "Quoting a training manual vs. sounding like yourself"]
 Here's how to build your own. Tell Claude: "I'm a real estate agent with [X] years of experience. I tend to be [warm/direct/analytical/conversational]. I call [FSBOs/expireds/sphere contacts] and my goal is to start a real conversation -- not close anything on the first call. Write me an opening sixty seconds that sounds like me talking naturally -- not a script. Then give me three variations so I can find the one that fits." [ON-SCREEN: "Write my opening 60 seconds -- sounds like me, not a script"]
 Practice the one that fits until it's automatic.
-Authenticity is a competitive advantage in prospecting. AI helps you find your authentic voice. What's your current go-to opening line? Drop it below -- let's workshop it. [ON-SCREEN: What's your go-to opening line? Drop it -- let's workshop it.]
+Authenticity is a competitive advantage in prospecting. AI helps you find your authentic voice.
 See you next time.
 
 ## Producer Note

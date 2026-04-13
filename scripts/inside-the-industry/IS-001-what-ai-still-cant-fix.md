@@ -126,8 +126,6 @@ You cannot prompt your way into that. You earn it by reps.
 
 The agents who survive this next decade won't be the ones with the best prompts. They'll be the ones who've had the hardest conversations.
 
-What's the hardest conversation you've had with a client this year?
-
 **Hashtags:** #RealEstate #AI #ChicagoRealEstate #RealtorLife
 
 ### X (Twitter)

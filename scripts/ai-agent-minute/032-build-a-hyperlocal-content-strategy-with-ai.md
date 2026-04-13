@@ -35,7 +35,7 @@ Here's why most agents' content never builds a real audience. They post about br
 The agents who dominate local markets online aren't louder. They're more specific. [ON-SCREEN: "Not louder. More specific."]
 Here's the strategy. Use Perplexity to research your target neighborhoods this week -- new restaurants opening, school rating changes, upcoming development, walkability trends, micro-market stats that aren't showing up anywhere else. Then bring it into Claude and type: "Build me a sixty-day hyperlocal content calendar using this research. Every post should position me as someone who actually lives and breathes this neighborhood -- not just sells houses in it." [ON-SCREEN: "Lives and breathes this neighborhood -- not just sells houses in it"]
 Being the neighborhood expert online isn't just a brand strategy. It's a lead generation engine that runs without ad spend.
-What's one hyperlocal thing about your market that most outsiders don't know? Drop it below -- let's see what you've got. [ON-SCREEN: One hyperlocal thing outsiders don't know about your market?]
+
 See you next time.
 
 ## Producer Note

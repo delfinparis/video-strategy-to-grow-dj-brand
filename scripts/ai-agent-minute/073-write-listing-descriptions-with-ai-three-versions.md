@@ -35,7 +35,7 @@ Here's the problem. Most agents either fill the description with clichés -- "ch
 Most agents describe houses. Top agents write stories about them. [ON-SCREEN: "Most agents describe houses. Top agents write stories."]
 Here's the fix. Before writing any listing description, give Claude the property's key features, the neighborhood, the ideal buyer profile, and one emotional selling point -- a view, a lifestyle, a story unique to this house. Then type: "Write three versions of this listing description: one aspirational, one feature-focused, one neighborhood-first. Each under two hundred words. Zero real estate clichés." [ON-SCREEN: "3 versions -- aspirational, feature-focused, neighborhood-first. No clichés."]
 Pick the best version, personalize it, and you're done in five minutes instead of forty-five.
-Buyers buy stories before they buy houses. What's the worst listing description cliché you've ever seen? Drop it below -- I know you have one. [ON-SCREEN: What's the worst listing description cliché you've seen?]
+Buyers buy stories before they buy houses.
 See you next time.
 
 ## Producer Note

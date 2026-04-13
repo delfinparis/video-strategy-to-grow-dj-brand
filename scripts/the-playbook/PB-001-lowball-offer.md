@@ -33,10 +33,10 @@ Instead, text the buyer's agent this exact phrase: "My seller is curious what br
 That's it. No counter yet. No emotion. Just the question. [ON-SCREEN: "My seller is curious what brought your buyer to this number."]
 
 ### WHY (0:30-0:42)
-Here's what that does. You're not negotiating. You're asking the other agent to teach their own client why the offer is weak. Nine times out of ten, the buyer's agent comes back within twenty minutes with context, with a softening, or with a real number. You move the conversation without spending any of your own leverage.
+Here's what that does. You're not negotiating. You're asking the other agent to teach their own client why the offer is weak. More often than not, the buyer's agent comes back quickly with context, with a softening, or with a real number. You move the conversation without spending any of your own leverage.
 
 ### TRY THIS (0:42-0:50)
-Try it on your next lowball. Screenshot the text. Reply to this video and tell me what happened. [ON-SCREEN: "Try it. Tell me what happened."]
+Try it on your next lowball. [ON-SCREEN: "Try it on your next lowball."]
 
 **Estimated Duration:** ~50 seconds
 
@@ -59,13 +59,13 @@ Instead, text the buyer's agent this exact phrase:
 
 That is it. No counter yet. No emotion. Just the question.
 
-Here is what that does. You are not negotiating. You are asking the other agent to teach their own client why the offer is weak. Nine times out of ten the buyer's agent comes back within twenty minutes with context, with a softening, or with a real number.
+Here is what that does. You are not negotiating. You are asking the other agent to teach their own client why the offer is weak. More often than not, the buyer's agent comes back quickly with context, with a softening, or with a real number.
 
 You move the conversation without spending any of your own leverage.
 
-Try it on your next lowball offer. Screenshot the text you sent. Reply to this post and tell me what happened.
+Try it on your next lowball offer.
 
-This is the start of a new series I am calling The Playbook. One specific scenario, one specific phrase, one specific outcome. Every Wednesday. Save this one.
+This is the start of a new series called The Playbook. One specific scenario, one specific phrase, one specific outcome. Every Wednesday.
 
 **Hashtags:** #RealEstate #Negotiation #ChicagoRealEstate #RealtorLife #TopProducer #ThePlaybook
 
@@ -81,11 +81,11 @@ Instead, text the buyer's agent this exact phrase:
 
 "My seller is curious what brought your buyer to this number. Anything we should know?"
 
-You're not negotiating. You're asking the other agent to teach their own client why the offer is weak. Nine times out of ten they come back within twenty minutes with context or a better number.
+You're not negotiating. You're asking the other agent to teach their own client why the offer is weak. More often than not, they come back quickly with context or a better number.
 
 You moved the deal without spending any of your leverage.
 
-Try it on your next lowball. Tell me what happened.
+Try it on your next lowball.
 
 **Hashtags:** #RealEstate #Negotiation #ChicagoRealEstate #ThePlaybook #RealtorLife
 
@@ -97,9 +97,9 @@ Don't counter angry. Instead, send this exact text to the buyer's agent:
 
 "My seller is curious what brought your buyer to this number. Anything we should know?"
 
-You're not negotiating. You're asking them to teach their own client why the offer is weak. 9 times out of 10 they come back within 20 minutes with a softening.
+You're not negotiating. You're asking them to teach their own client why the offer is weak. Most of the time they come back quickly with a softening.
 
-Save this. Try it on your next lowball.
+Try it on your next lowball.
 
 **Hashtags:**
 #realestate #realtor #realtorlife #negotiation #chicagorealestate #realestate2026 #realestateagent #keepingitrealpodcast #thePlaybook #chicagorealtor #realestatetips #realtortips #kalerealty
@@ -131,6 +131,6 @@ Don't counter angry. Text the buyer's agent this exact phrase:
 
 "My seller is curious what brought your buyer to this number. Anything we should know?"
 
-You're asking them to teach their own client why the offer is weak. 9/10 times they come back in 20 min.
+You're asking them to teach their own client why the offer is weak. More often than not, they come back quickly with context.
 
 **Hashtags:** #RealEstate #Negotiation

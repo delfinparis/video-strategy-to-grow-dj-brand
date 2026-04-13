@@ -91,7 +91,7 @@ Not a call center. Not an assistant. THEY pick up. Every agent at every other pr
 
 "I don't know what deal is in that call until I pick it up." — actual quote from a $50M producer.
 
-Save this. The 6% Club isn't joining. They're picking up.
+The 6% Club isn't joining. They're picking up.
 
 **Hashtags:**
 #realestate #realtor #realtorlife #topproducers #chicagorealestate #realestate2026 #realestateagent #keepingitrealpodcast #insidetheindustry #chicagorealtor #kalerealty
@@ -136,8 +136,6 @@ It's a belief that answering the phone is beneath a certain level of success. To
 One of my guests put it this way: "I don't know what deal is in that call until I pick it up."
 
 The real question isn't whether you can afford to answer your own phone. It's whether you can afford not to.
-
-Are you in the 6% or the 94%?
 
 **Hashtags:** #RealEstate #Relationships #TopProducers #ChicagoRealEstate
 

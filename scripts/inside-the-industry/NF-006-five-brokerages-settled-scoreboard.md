@@ -65,7 +65,7 @@ If your brokerage has settled, you're covered. If not, ask why.
 
 ### Instagram Reels
 **Caption:**
-The Commission Lawsuit Scoreboard. Save this.
+The Commission Lawsuit Scoreboard.
 
 SELLER SIDE (done):
 NAR Sitzer/Burnett: $418M (2024)
@@ -82,8 +82,6 @@ That's $89M+ on the buyer side alone. And those are just the disclosed numbers.
 Every settlement includes legal protection for agents at those brokerages. If yours has settled, you're covered. If not? Ask your broker about it.
 
 Next date to watch: July 28. Court decides whether to approve these deals.
-
-Bookmark this. I'll keep updating it.
 
 **Hashtags:**
 #realestate #realtor #realtorlife #chicagorealestate #narssettlement #realestatenews #realestate2026 #realestateagent #keepingitrealpodcast #buyeragent #commissions #realestatelaw #kellerwilliams #remax #douglaselliman #realtortips #kalerealty
@@ -129,7 +127,7 @@ Why does this matter to you? Every one of these settlements includes legal prote
 
 The next big date is July 28, when the court decides whether to approve these deals or whether the larger Batton case keeps going.
 
-I'll keep this scoreboard updated. What brokerage do you think settles next?
+I'll keep this scoreboard updated.
 
 **Hashtags:** #RealEstate #NAR #Commissions #BuyerAgent #ChicagoRealEstate #RealtorLife
 

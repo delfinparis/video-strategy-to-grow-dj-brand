@@ -36,7 +36,7 @@ Most agents lose their best clients not to a competitor -- but to their own sile
 Here's the fix. Use Claude to build a twelve-month post-closing check-in sequence for every client. Type: "Write twelve monthly check-in messages for a past real estate client: month one is a personalized move-in note, month three is a home value update, month six is a seasonal maintenance checklist, month twelve is a one-year anniversary message with a market update. Write all twelve in a warm, personal tone that sounds like me." [ON-SCREEN: "Write 12 monthly check-ins -- personalized, warm, in my voice"]
 Load them into your CRM. Set them to send automatically. Your clients feel remembered without you lifting a finger.
 Your past clients are your most valuable asset. AI makes sure you never lose one to neglect again.
-When's the last time you reached out to a past client just to check in -- not to sell anything? Drop it below. [ON-SCREEN: When did you last check in with a past client just because?]
+
 See you next time.
 
 ## Producer Note

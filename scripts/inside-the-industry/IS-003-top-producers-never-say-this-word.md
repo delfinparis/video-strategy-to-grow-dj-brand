@@ -132,8 +132,6 @@ Top producers have stopped talking about their job and started talking about the
 
 Here's the exercise: record yourself describing your best deal of the year. Count the "I"s and the "they"s. The ratio is a diagnostic.
 
-What's your ratio?
-
 **Hashtags:** #RealEstate #TopProducers #ClientExperience #RealtorLife
 
 ### X (Twitter)

@@ -2,6 +2,8 @@
 
 This is the operating manual for **The Playbook** (Pillar 3). It exists to keep the series tight, repeatable, and on-strategy as the script library grows.
 
+**Before writing any new script in this series, read [`editorial-standards.md`](editorial-standards.md).** The editorial standards document defines the non-negotiable rules for every piece of content in this repo: no fabricated statistics, no engagement asks, no em dashes, and a pre-commit checklist every new script must pass. Those rules take precedence over anything in this format guide.
+
 ---
 
 ## What This Series Is

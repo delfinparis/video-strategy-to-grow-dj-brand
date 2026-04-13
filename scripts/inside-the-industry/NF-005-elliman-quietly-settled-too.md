@@ -64,8 +64,6 @@ The dominoes are falling. Every major brokerage is resolving commission claims o
 
 Opt-in deadline is April 13. If your brokerage hasn't settled yet, the question isn't if. It's when.
 
-Save this timeline. Share it with your broker.
-
 **Hashtags:**
 #realestate #realtor #realtorlife #douglaselliman #narssettlement #chicagorealestate #realestatenews #realestate2026 #realestateagent #keepingitrealpodcast #buyeragent #commissions #realestatelaw #realtortips #chicagorealtor #kalerealty
 
@@ -107,8 +105,6 @@ This is part of a much bigger pattern. The major brokerages are resolving their 
 The opt-in deadline for the Tuccori settlement is April 13. Any brokerage that hasn't resolved its exposure yet is running out of time to use this path.
 
 The industry is closing the book on commission lawsuits, one settlement at a time. If your brokerage hasn't addressed this yet, it's worth asking them about.
-
-What brokerage do you think settles next?
 
 **Hashtags:** #RealEstate #NAR #DouglasElliman #Commissions #BuyerAgent #ChicagoRealEstate
 

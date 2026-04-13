@@ -76,8 +76,6 @@ If NAR called me today and asked what Chicago agents actually need, here's what 
 
 Chicago agents don't need a bigger NAR. We need a louder one.
 
-Save this. And tag an independent Chicago broker who needs to hear it.
-
 **Hashtags:**
 #realestate #realtor #realtorlife #nar #chicagorealestate #realestatenews #realestate2026 #realestateagent #keepingitrealpodcast #insidetheindustry #chicagorealtor #independentbroker #kalerealty
 
@@ -113,8 +111,6 @@ Second. The next wave of pressure is coming from inside the brokerages, not from
 Third. The agents thriving in Chicago right now are the ones with the most specific voice, not the biggest following. National thought leaders don't move the needle here. Local expertise does. NAR should be amplifying local voices, not competing with them.
 
 Chicago agents don't need a bigger organization. They need a louder one. One that says the quiet parts out loud.
-
-Chicago brokers and agents -- what would you add to this list? Drop it below. I'll bring it back to them.
 
 **Hashtags:** #RealEstate #NAR #ChicagoRealEstate #RealtorLife
 

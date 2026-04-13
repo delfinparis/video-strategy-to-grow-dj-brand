@@ -35,7 +35,7 @@ Here's what accumulates over ten years without anyone noticing: a Zillow campaig
 And the reason nothing gets cut is that it feels risky to stop anything -- even the things that haven't worked in years.
 Here's the fix. Sit down with Claude and do a full business simplification audit. List every lead source, marketing activity, tool, event, and professional commitment currently in your business. Then ask: "Which of these are most likely driving eighty percent of my production? Which can I eliminate without materially affecting my results? What does my simplified, high-leverage business look like if I cut everything else?" Then do the hard thing -- actually cut what it tells you to cut. [ON-SCREEN: Prompt → "Here's everything in my business. Which 20% drives 80% of results? What should I eliminate?"]
 Simplicity isn't giving up. It's identifying your highest leverage and going all in on it. The agents who do this audit report getting more done in thirty hours than they used to in fifty.
-What's one thing in your business you're still doing out of habit rather than conviction? Drop it below. [ON-SCREEN: Still doing it out of habit?]
+
 "See you next time."
 
 ## Producer Note

@@ -40,7 +40,7 @@ Here's what that does. The commission conversation isn't about price. It's about
 You don't defend the number. You ask them to define the work. The conversation usually ends with the buyer saying "no, I want all of it." That's the move.
 
 ### TRY THIS (0:48-0:55)
-Try this exact question on your next consultation. Reply and tell me what they said. [ON-SCREEN: "Ask the question. Stop talking."]
+Try this exact question on your next consultation. [ON-SCREEN: "Ask the question. Stop talking."]
 
 **Estimated Duration:** ~55 seconds
 
@@ -74,7 +74,7 @@ You don't defend the number. You ask them to define the work.
 
 The conversation usually ends with the buyer saying "no, I want all of it." That is the move.
 
-Try this exact question on your next consult. Reply and tell me what they said.
+Try this exact question on your next consult.
 
 The Playbook. Episode 3. Every Wednesday.
 
@@ -98,8 +98,6 @@ The commission conversation isn't about price. It's about value perception. When
 
 You don't defend the number. You ask them to define the work.
 
-Try it. Tell me how it landed.
-
 **Hashtags:** #RealEstate #BuyerAgent #Commissions #ChicagoRealEstate #ThePlaybook
 
 ### Personal Instagram (Reel)
@@ -113,8 +111,6 @@ Don't defend. Don't list. Don't fold. Ask THIS instead and then stop talking:
 Then go quiet. Don't fill the silence.
 
 The commission convo isn't about price. It's about value perception. Force them to look at the work, not the percentage. Most can't name a single thing.
-
-Save this. Use it on your next consult.
 
 **Hashtags:**
 #realestate #realtor #realtorlife #buyeragent #commissions #chicagorealestate #realestate2026 #realestateagent #keepingitrealpodcast #thePlaybook #chicagorealtor #kalerealty

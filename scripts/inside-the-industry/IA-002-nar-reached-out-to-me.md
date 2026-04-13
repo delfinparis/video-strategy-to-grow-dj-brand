@@ -82,8 +82,6 @@ NAR has a comms department, media partnerships, state and local associations. Th
 
 Instead, they're contacting independent creators with audiences built on trust. That tells you where real influence lives in this industry right now. Not in the biggest orgs. In the voices agents actually listen to.
 
-Save this. The shift is real.
-
 **Hashtags:**
 #realestate #realtor #realtorlife #nar #chicagorealestate #realestatenews #realestate2026 #realestateagent #keepingitrealpodcast #insidetheindustry #personalbrand #contentcreator #chicagorealtor #kalerealty
 
@@ -119,8 +117,6 @@ Instead, they reached out to independent content creators with audiences built o
 Here's what that tells you. NAR knows the press release channel is broken. Agents don't read press releases. They scroll feeds. And the voices they trust on those feeds aren't national media -- they're agents who've been in the room and explain things in plain English.
 
 If NAR is reaching out directly to working agents to shape the narrative, that tells you where real influence lives right now. Audience and voice are becoming the same thing.
-
-What's your take -- are you getting your industry news from NAR directly, from national media, or from individual voices you trust?
 
 **Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
 

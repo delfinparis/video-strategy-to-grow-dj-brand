@@ -57,11 +57,9 @@ The 2024 settlement covered sellers.
 This one covers buyers.
 Both sides are now resolved.
 
-No new practice changes. No new rules. If you already adapted to buyer agreements, you're ahead of 90% of agents still hoping things go back to normal.
+No new practice changes. No new rules. If you already adapted to buyer agreements, you're ahead of most of the agents still hoping things go back to normal.
 
 They're not going back.
-
-Save this so you can reference it when your office starts buzzing about it tomorrow.
 
 **Hashtags:**
 #chicagorealestate #realtorlife #narssettlement #buyeragent #realestatenews #chicagorealtor #realestate2026 #realestateagent #keepingitrealpodcast #realestatecommissions #buyeragreement #realtortips #realestateindustry #chicagoland #realestatelaw #kalerealty
@@ -106,8 +104,6 @@ Now both sides are settled. NAR says this provides the broadest legal protection
 If you already adapted to written buyer agreements and you know how to articulate your value to clients, you're in good shape. The agents who are going to struggle are the ones still waiting for things to go back to how they were.
 
 They're not going back.
-
-What questions do you have about this? Drop them in the comments.
 
 **Hashtags:** #ChicagoRealEstate #NAR #RealEstateNews #BuyerAgent #RealtorLife
 

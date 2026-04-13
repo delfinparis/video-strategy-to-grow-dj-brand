@@ -77,8 +77,6 @@ Bennett Richardson. Raffi Williams. Nykia Wright. The whole senior team asking w
 
 NAR isn't in a bunker right now. They're in a listening posture. And that changes everything about how agents should think about the relationship.
 
-More from inside the industry coming soon. Save this so you can come back to it.
-
 **Hashtags:**
 #realestate #realtor #realtorlife #nar #chicagorealestate #realestatenews #realestate2026 #realestateagent #keepingitrealpodcast #buyeragent #chicagorealtor #insidetheindustry #realestatelaw #kalerealty
 
@@ -114,8 +112,6 @@ Bennett Richardson, Raffi Williams, Nykia Wright -- the senior team was in the r
 That told me something. NAR is moving through the biggest operational reset in its history, and the leadership running it right now knows they can't do it from inside a boardroom.
 
 They're not in a bunker. They're in a listening posture. That's a different organization than a lot of agents assume.
-
-What do you want to see NAR doing differently right now? Drop it below and I'll bring it back to them.
 
 **Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
 

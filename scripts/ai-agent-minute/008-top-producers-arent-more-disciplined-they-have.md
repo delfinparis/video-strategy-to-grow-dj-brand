@@ -35,7 +35,7 @@ Here's the real problem with willpower as a strategy. You have a finite amount o
 And here's the uncomfortable part -- you already know what you should do every day. The gap isn't knowledge. It's structure.
 Here's the fix. Ask Claude to help you design your minimal viable daily routine -- the five to eight specific actions that, done every single day regardless of mood, ensure your business moves forward. Then ask for an environment design checklist: what reminders, calendar blocks, friction-removal tactics, and cues make your routine automatic rather than optional. The goal isn't a perfect day -- it's a consistent one. [ON-SCREEN: Prompt → "Design my minimal viable daily routine -- 5-8 actions that move my real estate business forward every day regardless of mood."]
 You don't need more motivation. You need a routine that doesn't require any. Open Claude today -- this takes twenty minutes to build and pays back for years.
-What's the one daily habit that would have the highest impact on your business if you actually did it every day? Drop it below. [ON-SCREEN: Your highest-impact daily habit?]
+
 "See you next time."
 
 ## Producer Note

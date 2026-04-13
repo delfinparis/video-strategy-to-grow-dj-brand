@@ -59,8 +59,6 @@ Why? Sellers still want buyers. Buyers walk if sellers won't cover their agent. 
 
 Now Tuccori closes the book on the buyer side. No new changes. The agents who learned to communicate their value are earning more than ever.
 
-Save this for the next time someone tells you commissions are dead.
-
 **Hashtags:**
 #realestate #realtor #realtorlife #chicagorealestate #realestatecommissions #buyeragent #narssettlement #realestatenews #realestate2026 #realestateagent #chicagorealtor #keepingitrealpodcast #realtortips #commissions #realestatelaw #buyeragreement #kalerealty
 
@@ -98,8 +96,6 @@ Why? Because the market matters more than the courtroom. Sellers still want buye
 Now the Tuccori settlement just closed the book on the buyer side too. No new changes required. The agents who adapted early and learned to communicate their value clearly? They're earning more than ever.
 
 The sky didn't fall. It's time to stop acting like it might.
-
-What's your experience been with commissions since the settlement? Same, higher, lower?
 
 **Hashtags:** #RealEstate #Commissions #NAR #BuyerAgent #ChicagoRealEstate #RealtorLife
 

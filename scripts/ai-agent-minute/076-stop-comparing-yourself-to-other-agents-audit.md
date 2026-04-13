@@ -35,7 +35,7 @@ Here's what that comparison is actually costing you. You see someone post their 
 And the agents who scroll the most tend to produce the least. That's not a coincidence. [ON-SCREEN: "The agents who scroll the most tend to produce the least"]
 Here's the antidote. When comparison spiraling hits, open Claude and do a trajectory audit. Share your stats from twelve months ago versus today -- deals, income, database size, skills you've added. Then type: "Write me a progress narrative -- a paragraph that shows how far I've actually come, grounded in these real numbers." [ON-SCREEN: "Write my progress narrative -- grounded in real numbers"]
 Read that instead of scrolling. The only timeline that actually matters is yours.
-What's one metric in your business that's genuinely better than it was a year ago? Drop it below -- I want to hear it. [ON-SCREEN: What's one thing that's better than a year ago?]
+
 See you next time.
 
 ## Producer Note

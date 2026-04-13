@@ -38,7 +38,7 @@ That's the whole text. [ON-SCREEN: "I'm writing an offer. What's your best numbe
 Here's what that does. It tells the listing agent there's actual money on the table, not a tire-kicker. It gives them a specific window so they don't need to commit to anything beyond two hours. And it asks for their input, which lowers their guard. Listing agents aren't ignoring you because they're rude. They're ignoring you because everything else in their inbox feels like a waste of time. Stop chasing them as a buyer's agent. Start being someone whose call is worth answering.
 
 ### TRY THIS (0:44-0:50)
-Send this exact text the next time someone goes silent. Reply and tell me how fast you got a callback. [ON-SCREEN: "Send it. Tell me your callback time."]
+Send this exact text the next time someone goes silent. [ON-SCREEN: "Send this next time someone goes silent."]
 
 **Estimated Duration:** ~50 seconds
 
@@ -69,7 +69,7 @@ It tells the listing agent there is actual money on the table, not a tire-kicker
 
 Listing agents are not ignoring you because they are rude. They are ignoring you because everything else in their inbox feels like a waste of time. Stop chasing them as a buyer's agent. Start being someone whose call is worth answering.
 
-Send this exact text the next time someone goes silent. Reply and tell me how fast you got a callback.
+Send this exact text the next time someone goes silent.
 
 The Playbook. Episode 2. Every Wednesday.
 
@@ -91,7 +91,7 @@ That's it. Two things just happened. You signaled there's real money on the tabl
 
 Listing agents aren't rude. They're triaging. Make yourself worth answering.
 
-Try it. Tell me how fast you got a callback.
+Send this next time one of them goes silent.
 
 **Hashtags:** #RealEstate #BuyerAgent #ChicagoRealEstate #ThePlaybook
 
@@ -104,8 +104,6 @@ Don't chase. Send one text instead:
 "Hi [name]. Working on an offer for your listing at [address]. What's the best number to reach you in the next two hours?"
 
 You just signaled real money + gave them a short window. Listing agents aren't ignoring you because they're rude. They're triaging.
-
-Save this. Try it next time.
 
 **Hashtags:**
 #realestate #realtor #realtorlife #buyeragent #chicagorealestate #realestate2026 #realestateagent #keepingitrealpodcast #thePlaybook #chicagorealtor #realestatetips #kalerealty

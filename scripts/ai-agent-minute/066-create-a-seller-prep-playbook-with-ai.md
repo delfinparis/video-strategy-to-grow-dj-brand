@@ -36,7 +36,7 @@ Most agents tell sellers what to do. Top producers give them a roadmap that make
 Here's the tool that changes everything. Ask Claude to generate a "Seller Prep Playbook" for your market and typical price range. Type: "Include the ten highest-ROI improvements before listing, a room-by-room decluttering checklist, what buyers in my market care most about right now, and the three most common mistakes sellers make that quietly reduce their final sale price." [ON-SCREEN: "Top ROI improvements + room checklist + common mistakes"]
 Turn it into a clean PDF. Give it to every seller at the listing appointment.
 A prepared home sells faster and for more money. A prepared seller trusts you more. AI builds the tool that makes both happen.
-What's the one thing sellers do before listing that you wish you could stop them from doing? Drop it below. [ON-SCREEN: What do sellers do that you wish you could stop?]
+
 See you next time.
 
 ## Producer Note

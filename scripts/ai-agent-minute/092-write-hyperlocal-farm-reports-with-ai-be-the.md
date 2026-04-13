@@ -35,7 +35,7 @@ Here's what's really happening. Every homeowner in your farm is getting three ma
 Most agents farm a neighborhood. The top producers become the neighborhood. [ON-SCREEN: "Most agents farm a neighborhood. Top producers become it."]
 Here's how. Use Perplexity to pull hyperlocal data on your farm -- recent sales, days on market, price-per-square-foot trends, any upcoming development in the area. Then bring that into Claude and type: "Write a one-page neighborhood market report in a conversational tone. Make it feel like the agent writing this actually lives down the street -- not like a corporate flyer." [ON-SCREEN: "Make it feel like the agent lives down the street"]
 That's the mailer they put on the refrigerator.
-Geographic farming works when you're genuinely useful. AI gets you there without a marketing team. What neighborhood are you farming right now? Drop it below. [ON-SCREEN: What neighborhood are you farming?]
+Geographic farming works when you're genuinely useful. AI gets you there without a marketing team.
 See you next time.
 
 ## Producer Note

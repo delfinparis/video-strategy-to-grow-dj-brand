@@ -35,7 +35,7 @@ Here's what that actually looks like. The 9 PM texts. The "why didn't you tell m
 Most agents hope clients figure it out. Top producers explain it upfront -- before the first problem. [ON-SCREEN: "Explain it upfront -- before the first problem"]
 Here's the fix. Use Claude to build a "client expectations document" -- two pages you send to every new buyer or seller at the very start of the relationship. Type: "Write a warm, professional document that covers how I communicate and my typical response times, the transaction timeline and what happens at each stage, the client's responsibilities, and the three most common surprises in real estate and how I handle them." [ON-SCREEN: "Communication + timeline + client responsibilities + common surprises"]
 Send this before the first showing. Setting expectations isn't defensive. It's the first act of excellent client service.
-What's the most common "why didn't you tell me?" conversation you have with clients? Drop it below. [ON-SCREEN: What's your most common "why didn't you tell me?" moment?]
+
 See you next time.
 
 ## Producer Note

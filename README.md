@@ -159,6 +159,7 @@ Series playbook: [`docs/inside-the-industry-playbook.md`](docs/inside-the-indust
 
 - [Master Calendar (day-by-day schedule)](schedule/master-calendar.md)
 - [Weekly Breakdown](schedule/weekly-breakdown.md)
+- [Editorial Standards](docs/editorial-standards.md) - **required reading before writing any script**
 - [Content Pillars (4-pillar definition)](docs/content-pillars.md)
 - [Inside the Industry Playbook](docs/inside-the-industry-playbook.md)
 - [The Playbook Format Guide](docs/the-playbook-format.md)

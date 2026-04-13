@@ -60,8 +60,6 @@ If this case moves forward? Potential damages in the TENS OF BILLIONS.
 
 KW already settled for $20M. RE/MAX for $8.5M. Court hearing is July 28.
 
-Save this. You're going to want to come back to it.
-
 **Hashtags:**
 #realestate #realtor #realtorlife #chicagorealestate #narssettlement #batton #realestatenews #realestate2026 #realestateagent #keepingitrealpodcast #buyeragent #realestatelaw #commissions #chicagorealtor #realtortips #kalerealty
 
@@ -101,8 +99,6 @@ Meanwhile, the dominoes are falling. Keller Williams settled their Batton exposu
 If the court denies the stay and Batton proceeds to trial? The potential damages are calculated in the tens of billions.
 
 The court approval hearing is July 28. I'll be covering it.
-
-What questions do you have about Batton? Drop them below.
 
 **Hashtags:** #RealEstate #NAR #Batton #BuyerAgent #Commissions #ChicagoRealEstate #RealtorLife
 
