@@ -31,8 +31,8 @@ If the court says no to the stay? The potential damages are in the tens of billi
 
 Keller Williams already settled Batton for $20 million. RE/MAX for $8.5 million. The court approval hearing is July 28.
 
-### CTA (0:45-0:60)
-I'll be watching. You should be too. Follow me for updates as this plays out.
+### CLOSE (0:45-0:60)
+I'll be watching. You should be too. July 28 is the date.
 
 **Estimated Duration:** ~58 seconds
 
@@ -82,7 +82,7 @@ Everyone's focused on the $52M Tuccori settlement. But the Batton case is still 
 
 D.J. Paris breaks down what every agent needs to know about the case that could reshape the industry all over again.
 
-Subscribe so you don't miss the July update.
+July 28 is the date to watch.
 
 **Hashtags:** #shorts #realestate #realtor #nar #batton #narssettlement #realestatenews #realestate2026 #keepingitrealpodcast
 
@@ -121,7 +121,7 @@ If the court denies the stay and Batton proceeds, the potential damages are calc
 
 The court approval hearing is scheduled for July 28. The outcome will have significant implications for every brokerage and agent in the industry.
 
-I'll be tracking this closely on the Keeping It Real Podcast. Follow for updates as this plays out.
+I'll be tracking this closely on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #Litigation #BuyerAgent #RealEstateLaw #Industry
 

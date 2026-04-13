@@ -119,7 +119,7 @@ The Playbook Ep 1. You got a lowball offer. Don't counter angry. Send THIS exact
 **Description:**
 Episode 1 of The Playbook: a new series from D.J. Paris that gives you one specific play for one specific real estate scenario. This week: what to text the buyer's agent when you receive a lowball offer that makes your seller furious. Don't counter angry. Send this exact phrase instead.
 
-Subscribe for The Playbook every Wednesday.
+The Playbook drops every Wednesday on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #realtor #negotiation #thePlaybook #keepingitrealpodcast
 

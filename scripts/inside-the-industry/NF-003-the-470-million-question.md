@@ -34,8 +34,8 @@ But you should know what you're paying for. An informed member is a better membe
 ### REFRAME (0:40-0:55)
 And if you're wondering whether your NAR membership is still worth it? Consider this: without it, you'd have no protection from these claims at all.
 
-### CTA (0:55-0:60)
-Follow me for more on what's actually changing in real estate.
+### CLOSE (0:55-0:60)
+An informed member is a better member. Now you're informed.
 
 **Estimated Duration:** ~58 seconds
 
@@ -83,7 +83,7 @@ NAR has now committed over $470 million in lawsuit settlements. $418 million for
 
 The answer matters for every dues-paying member. D.J. Paris breaks down the math, the payment timeline, and why your membership may still be worth more than you think.
 
-Subscribe for more real estate news and industry analysis.
+More real estate industry analysis on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #nar #realtor #narssettlement #realestatenews #realestate2026 #commissions #keepingitrealpodcast
 
@@ -117,7 +117,7 @@ The counterpoint is equally important. Without these settlements, the industry f
 
 Whether you view this as a necessary investment in litigation protection or an unsustainable financial burden depends on your perspective. But every member should understand the math.
 
-I break down industry shifts like this on the Keeping It Real Podcast. Follow for the analysis behind the headlines.
+I break down industry shifts like this on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #RealEstateLaw #Industry #Leadership #Commissions
 

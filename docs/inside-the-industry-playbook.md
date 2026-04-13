@@ -190,6 +190,42 @@ To stay sharp, the series has to refuse certain content types even when they're 
 
 ---
 
+## No Follower Asks (Convention)
+
+**Never end a script with "Follow me for more" or any variant.** No "subscribe for more." No "follow along if you want..." No audience-begging CTAs of any kind.
+
+This is a convention, not a preference. It applies to the spoken script, the LinkedIn caption, the Instagram caption, the Facebook caption, the TikTok caption, the YouTube Shorts description, and the X post. Every surface.
+
+**Why:** Follower asks signal "I'm still at the stage where I need you to follow me." The entire point of Inside the Industry is to signal the opposite -- "You should already be following me because of who I am and what I have access to." Asking for the follow undercuts the authority position the series is designed to build.
+
+Reference models Steven Bartlett (Diary of a CEO), Ryan Serhant, and Jefferson Fisher all almost never end with "follow for more." Their content earns the follow because it's sharp, not because they begged.
+
+**What to end with instead:**
+
+Three acceptable closing patterns for any Inside the Industry script:
+
+1. **Stop on the reframe.** Let the strongest line of the script be the last thing spoken or written. No CTA. Silence is a stronger close than a beg. Example (IS-001): "AI gives you leverage. Experience gives you judgment. One of those takes twenty years." Then cut.
+
+2. **Action ask (not audience ask).** Tell the viewer to do something in their own life, not to engage with you. Example (IS-002): "Tomorrow morning, pick up one call you'd normally skip. See what happens."
+
+3. **Observation that implies the catalog.** Hint that there's more without asking for the follow. Example (IS-003): "That's one pattern from 700 interviews. There's a whole catalog." The phrase "whole catalog" earns curiosity without begging.
+
+**What NOT to write (banned list):**
+
+- "Follow me for more..."
+- "Subscribe for more..."
+- "Follow along if you want..."
+- "Hit the follow button..."
+- "Don't forget to subscribe..."
+- "Make sure you're following..."
+- Any phrasing that makes audience growth the explicit ask
+
+**Podcast mentions are different.** You can say "I cover this weekly on the Keeping It Real Podcast" or "More from inside the industry on the Keeping It Real Podcast." Those are informational, not audience-begging. They tell people where else to find D.J. without asking them to do anything.
+
+**The test:** If the line would feel awkward coming from Bennett Richardson or Ryan Serhant, it's too needy. Cut it.
+
+---
+
 ## Adding New Scripts to the Series
 
 When writing a new Inside the Industry script:

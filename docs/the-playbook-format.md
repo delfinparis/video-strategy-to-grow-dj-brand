@@ -68,6 +68,8 @@ Direct call to action. Tell them to use the play and report back. This is the en
 
 Format: "Try it on your next [scenario]. Reply and tell me what happened."
 
+**Important: the CTA is an ACTION ask, not an AUDIENCE ask.** See the "No Follower Asks" section below. Never close a Playbook script with "Follow me for more plays" or "Subscribe for The Playbook every Wednesday." The close always turns the viewer into a participant in their own next deal, not a follower of your channel.
+
 ---
 
 ## The Brandable Phrase
@@ -245,6 +247,35 @@ status: "ready" | "posted" | "draft"
 **Title pattern:** Always "Here's the Play When [specific scenario]"
 
 This creates a recognizable series identity in feeds. Every viewer who sees more than one Playbook post should immediately know what they're getting.
+
+---
+
+## No Follower Asks (Convention)
+
+**Never end a Playbook script with "Follow me for more" or any variant.** No "Subscribe for The Playbook every Wednesday." No "Hit the follow for more plays." No audience-begging CTAs of any kind.
+
+This applies across every surface: spoken script, LinkedIn caption, Instagram caption, Facebook caption, TikTok caption, YouTube Shorts description, X post.
+
+**Why:** The Playbook lives on action asks, not audience asks. The viewer should finish every video with one specific thing to try on their next deal, not one specific thing to do for you. The Jefferson Fisher reference model almost never ends with a follow CTA. His videos end with "Try this next time" because the engagement comes from watching the viewer become an active participant in their own situation, not a passive fan of his.
+
+**Acceptable closes:**
+
+1. **Action ask.** "Try it on your next [scenario]. Reply and tell me what happened." (preferred default)
+2. **Stop on the Why.** Let the psychological explanation be the last beat. No close. The viewer sits with the insight.
+3. **Challenge.** "Tomorrow morning, [specific action]. See what happens." (Jefferson Fisher style)
+
+**Banned phrases:**
+
+- "Follow me for more"
+- "Subscribe for more"
+- "The Playbook drops every Wednesday, subscribe"
+- "Don't forget to follow"
+- "Hit the follow button"
+- Any variant that makes audience growth the explicit ask
+
+**Podcast mentions are different.** "The Playbook is part of the Keeping It Real Podcast" or "More from The Playbook on the Keeping It Real Podcast" are informational, not begging. They tell the viewer where else to find the content without asking them to do anything.
+
+**The test:** If the line would feel needy coming from someone with a 100,000-follower audience, it's the wrong close. Cut it.
 
 ---
 

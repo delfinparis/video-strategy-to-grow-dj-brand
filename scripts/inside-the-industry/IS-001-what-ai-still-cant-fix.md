@@ -35,8 +35,8 @@ You cannot prompt your way into that. You earn it by reps. [ON-SCREEN: "You earn
 ### REFRAME (0:42-0:55)
 The agents who survive this next decade won't be the ones with the best prompts. They'll be the ones who've had the hardest conversations. AI gives you leverage. Experience gives you judgment. You need both. But one of them takes twenty years.
 
-### CTA (0:55-0:60)
-Follow me for more of what I'm learning from inside the industry.
+### CLOSE (0:55-0:60)
+AI gives you leverage. Experience gives you judgment. One of those takes twenty years.
 
 **Estimated Duration:** ~58 seconds
 
@@ -68,7 +68,7 @@ You cannot prompt your way into that. You earn it by reps.
 
 The agents who survive this next decade will not be the ones with the best prompts. They will be the ones who have had the hardest conversations. AI gives you leverage. Experience gives you judgment. You need both. But one of them takes twenty years.
 
-That is my honest take from 700 interviews in. Follow along if you want more of what I am learning from inside the industry.
+That is my honest take from 700 interviews in.
 
 **Hashtags:** #RealEstate #ArtificialIntelligence #Leadership #RealEstateIndustry #ChicagoRealEstate #KeepingItRealPodcast
 
@@ -102,7 +102,7 @@ I've interviewed 700 real estate agents AND I teach agents AI. Here's the one th
 **Description:**
 D.J. Paris hosts Keeping It Real Podcast (700+ episodes) and teaches real estate agents how to use AI. But after 700 interviews, there's one thing he's convinced AI will never replace. This is the counter-punch nobody in the AI content space wants to make.
 
-Subscribe for more Inside the Industry content.
+More from inside the industry on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #ai #realtor #realestateai #keepingitrealpodcast #insidetheindustry
 

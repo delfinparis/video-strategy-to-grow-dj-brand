@@ -38,8 +38,8 @@ Here's why this matters to you. Every one of these settlements includes legal pr
 
 The one to watch now is July 28. That's when the court decides whether to approve these deals or whether the Batton case keeps going.
 
-### CTA (0:50-0:60)
-I'll keep the scoreboard updated. Follow me so you don't miss the next one.
+### CLOSE (0:50-0:60)
+If your brokerage has settled, you're covered. If not, ask why.
 
 **Estimated Duration:** ~58 seconds
 
@@ -105,7 +105,7 @@ Five major brokerages settled buyer-side commission lawsuits in just three month
 
 D.J. Paris breaks down where every major brokerage stands, what it means for your legal protection as an agent, and the key date to watch: July 28.
 
-Subscribe for the updated scoreboard as more settlements drop.
+Full scoreboard updated on the Keeping It Real Podcast as new settlements land.
 
 **Hashtags:** #shorts #realestate #realtor #narssettlement #commissions #realestatenews #realestate2026 #keepingitrealpodcast #kellerwilliams #remax
 
@@ -157,7 +157,7 @@ For individual agents: if your organization has settled, you're covered. If not,
 
 The next milestone is July 28, when the court considers approval of these agreements.
 
-I track these developments on the Keeping It Real Podcast. Follow for the updated scoreboard.
+I track these developments on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #Litigation #Commissions #BuyerAgent #RealEstateLaw #Leadership
 

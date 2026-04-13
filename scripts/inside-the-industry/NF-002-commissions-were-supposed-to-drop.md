@@ -34,8 +34,8 @@ Now the Tuccori settlement just closed the book on the buyer side too. No new ch
 ### REFRAME (0:45-0:55)
 Stop waiting for the sky to fall. It already didn't. [ON-SCREEN: "The sky didn't fall."]
 
-### CTA (0:55-0:60)
-Follow me for what's actually changing in real estate, not just the headlines.
+### CLOSE (0:55-0:60)
+The sky didn't fall. Stop acting like it still might.
 
 **Estimated Duration:** ~55 seconds
 
@@ -83,7 +83,7 @@ Now the Tuccori settlement closes the book on the buyer side too. No new practic
 
 I'm D.J. Paris, host of the Keeping It Real Podcast. I break down what's actually happening in real estate so you don't have to guess.
 
-Subscribe for more real estate news, market data, and agent strategies.
+More real estate market analysis on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #realtor #commissions #narssettlement #realestatenews #chicagorealestate #buyeragent #realestate2026 #keepingitrealpodcast
 
@@ -115,7 +115,7 @@ With the Tuccori settlement now resolving the buyer side of the litigation and r
 
 The professionals who invested in articulating their value proposition when the settlement first hit aren't just surviving. They're outperforming.
 
-I cover these shifts weekly on the Keeping It Real Podcast. Follow for analysis, not just headlines.
+I cover these shifts weekly on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #Commissions #NAR #BuyerAgent #RealEstateIndustry #Leadership
 

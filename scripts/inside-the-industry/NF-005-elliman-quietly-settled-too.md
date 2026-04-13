@@ -34,8 +34,8 @@ The opt-in deadline is April 13. If your brokerage hasn't settled yet, the quest
 ### REFRAME (0:45-0:55)
 The industry is closing the book on commission lawsuits, one settlement at a time.
 
-### CTA (0:55-0:60)
-Follow me for updates.
+### CLOSE (0:55-0:60)
+The dominoes are falling. Watch who goes next.
 
 **Estimated Duration:** ~58 seconds
 
@@ -86,7 +86,7 @@ While the $52M NAR headline dominated the news, Douglas Elliman quietly opted in
 
 KW: $20M. RE/MAX: $8.5M. Hanna: $8.25M. Elliman: undisclosed. NAR: $52.25M.
 
-The dominoes are falling. Subscribe so you don't miss the next one.
+The dominoes are falling. Watch who goes next.
 
 **Hashtags:** #shorts #realestate #realtor #narssettlement #douglaselliman #realestatenews #commissions #realestate2026 #keepingitrealpodcast
 

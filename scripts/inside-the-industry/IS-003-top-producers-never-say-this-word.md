@@ -37,8 +37,8 @@ Same transaction. Completely different subject. [ON-SCREEN: "Same deal. Differen
 ### INSIGHT (0:40-0:52)
 Top producers have stopped talking about their job and started talking about their clients. The shift from "I" to "they" is not humility for its own sake. It is a symptom of where their attention goes during the work. And where your attention goes during the work is what the client actually feels when they refer you.
 
-### CTA (0:52-0:60)
-That's one pattern from 700 interviews. Follow along for more.
+### CLOSE (0:52-0:60)
+That's one pattern from 700 interviews. There's a whole catalog.
 
 **Estimated Duration:** ~58 seconds
 
@@ -72,7 +72,7 @@ This is why top producers get referrals and mid-producers get occasional repeat 
 
 Here is the exercise. Record yourself describing your best deal of the last year. Count the "I"s. Count the "they"s. The ratio is a diagnostic.
 
-That is one pattern from 700 interviews. Follow along for the rest.
+That is one pattern from 700 interviews. There is a whole catalog.
 
 **Hashtags:** #RealEstate #Leadership #TopProducers #RealtorLife #ChicagoRealEstate #KeepingItRealPodcast #ClientExperience
 
@@ -108,7 +108,7 @@ I've interviewed 700 real estate agents. The top producers never say this one wo
 **Description:**
 D.J. Paris has interviewed 700+ real estate agents on Keeping It Real Podcast. After that much data, patterns emerge. This is one that changed how he listens to every conversation. Top producers don't describe deals the way mid-producers do, and the difference comes down to one word.
 
-Subscribe for more Inside the Industry content.
+More from inside the industry on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #realtor #topproducers #keepingitrealpodcast #insidetheindustry
 

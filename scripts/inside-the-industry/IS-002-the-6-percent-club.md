@@ -38,8 +38,8 @@ It's a belief that answering the phone is beneath a certain level of success. To
 ### REFRAME (0:45-0:55)
 So the question is not whether you can afford to answer your own phone. It is whether you can afford not to. Especially when the top 6% still do. [ON-SCREEN: "Can you afford NOT to answer?"]
 
-### CTA (0:55-0:60)
-Follow me for more of what 700 interviews have taught me.
+### CLOSE (0:55-0:60)
+Tomorrow morning, pick up one call you'd normally skip. See what happens.
 
 **Estimated Duration:** ~58 seconds
 
@@ -77,7 +77,7 @@ One of my guests put it this way. "I do not know what deal is in that call until
 
 So the real question is not whether you can afford to answer your own phone. It is whether you can afford not to. Especially when the top 6% still do.
 
-That is pattern number one from 700 interviews. Follow along for the rest.
+That is pattern number one from 700 interviews.
 
 **Hashtags:** #RealEstate #Leadership #TopProducers #RealtorLife #ChicagoRealEstate #KeepingItRealPodcast #Relationships
 
@@ -111,7 +111,7 @@ I've interviewed 700 real estate agents. 94% outsource their phones. The top 6% 
 **Description:**
 D.J. Paris has interviewed 700+ real estate agents on Keeping It Real Podcast. When he asks top producers what they still do themselves that they probably shouldn't, the answer is consistently the same. This is the pattern 94% of the industry has outsourced and the top 6% refuses to.
 
-Subscribe for more Inside the Industry content.
+More from inside the industry on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #realtor #topproducers #realestatelife #keepingitrealpodcast
 

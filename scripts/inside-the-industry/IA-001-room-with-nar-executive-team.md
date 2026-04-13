@@ -33,8 +33,8 @@ Here's what that told me. NAR is moving through the biggest operational reset in
 ### REFRAME (0:50-0:57)
 They're not in a bunker. They're in a listening posture. That's a very different organization than the one a lot of agents are still criticizing online. [ON-SCREEN: "Listening posture, not defensive posture"]
 
-### CTA (0:57-0:60)
-Follow me for more from inside the industry.
+### CLOSE (0:57-0:60)
+Listening posture, not defensive posture. That's a very different NAR than most agents assume.
 
 **Estimated Duration:** ~60 seconds
 
@@ -61,7 +61,7 @@ Here's what that told me: NAR is moving through the biggest operational reset in
 
 They're not in a bunker. They're in a listening posture. That's a very different organization than the one a lot of agents are still criticizing online based on how things worked two years ago.
 
-I'll be sharing more from inside this relationship in the weeks ahead. If you want the perspective most agents never get to see, follow along.
+I'll be sharing more from inside this relationship in the weeks ahead.
 
 **Hashtags:** #RealEstate #NAR #Leadership #RealEstateIndustry #ChicagoRealEstate #RealtorLife
 
@@ -97,7 +97,7 @@ NAR invited me to an influencer event. 1 of 12 in the country. Here's what I not
 **Description:**
 NAR invited D.J. Paris to an influencer event as one of only a dozen content creators nationally. What he observed about the executive leadership team (including Bennett Richardson, Raffi Williams, and Nykia Wright) runs counter to what most agents assume about the organization. This isn't a corporate PR video. This is an honest observation from someone who was actually in the room.
 
-Subscribe for more Inside the Industry content you won't get anywhere else.
+More from inside the industry on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #nar #realtor #realestatenews #insidetheindustry #keepingitrealpodcast
 

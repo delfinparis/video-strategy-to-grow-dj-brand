@@ -32,8 +32,8 @@ The best part? No new practice changes. Nothing extra you need to learn. If you'
 ### REFRAME (0:40-0:55)
 The agents who are going to struggle are the ones still hoping things go back to the way they were. They're not going back. [ON-SCREEN: "They're not going back."]
 
-### CTA (0:55-0:60)
-Follow me for more on what's actually changing in real estate, not just the headlines.
+### CLOSE (0:55-0:60)
+They're not going back. The ones who already adapted aren't just compliant. They're winning.
 
 **Estimated Duration:** ~55 seconds
 
@@ -89,7 +89,7 @@ The agents who are going to struggle are the ones still hoping things go back to
 
 I'm D.J. Paris, host of the Keeping It Real Podcast, the longest-running real estate podcast in Chicago. I break down what's actually changing in real estate so you don't have to read every headline yourself.
 
-Subscribe for more real estate news, market updates, and agent strategies.
+More from inside the industry on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #chicagorealestate #realtor #nar #realtorlife #narssettlement #buyeragent #realestatenews #realestateagent #chicagorealtor #realestate2026 #buyeragreement #realestatecommissions #realtortips #keepingitrealpodcast #atproperties #realestatelaw #chicagoland #westtown
 
@@ -129,7 +129,7 @@ What this really signals is that the industry's new operating model is no longer
 
 The professionals who leaned into these changes early aren't just compliant. They're competitive.
 
-I break down shifts like this every week on the Keeping It Real Podcast. Follow along if you want the analysis, not just the headlines.
+I break down shifts like this every week on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #RealEstateLaw #BuyerAgent #ChicagoRealEstate #RealEstateIndustry #Leadership #Commissions
 

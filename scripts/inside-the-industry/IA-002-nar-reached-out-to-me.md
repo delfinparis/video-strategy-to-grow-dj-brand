@@ -35,8 +35,8 @@ If NAR is reaching out directly to working agents to shape the narrative, that t
 ### REFRAME (0:45-0:55)
 That's a shift worth paying attention to. The people building the real estate audience right now are the same people who could be building the real estate voice. [ON-SCREEN: "Audience and voice are the same thing now."]
 
-### CTA (0:55-0:60)
-Follow me for more from inside the industry.
+### CLOSE (0:55-0:60)
+Audience and voice are the same thing now. That's the shift.
 
 **Estimated Duration:** ~58 seconds
 
@@ -102,7 +102,7 @@ NAR has a comms department, media partnerships, millions of followers. They reac
 **Description:**
 NAR contacted D.J. Paris directly ahead of the Tuccori settlement announcement, asking him to create content for working agents. The question is why. NAR has official channels. They chose a direct creator relationship anyway. D.J. breaks down what that shift means for where real influence lives in the real estate industry right now.
 
-Subscribe for Inside the Industry content you can't get anywhere else.
+More from inside the industry on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #nar #realtor #realestatenews #insidetheindustry #keepingitrealpodcast #contentcreator
 
