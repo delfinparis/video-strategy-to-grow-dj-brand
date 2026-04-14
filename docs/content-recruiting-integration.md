@@ -76,23 +76,47 @@ Use public signals to estimate production tier:
 
 **Step 4: Add qualified leads to Close CRM** (~20 min)
 
-For each scored lead:
+Close does not have traditional tags. It uses **Custom Fields** that integrate with Smart Views. Before running the bridge protocol for the first time, create these six Custom Fields in Close (one-time setup):
+
+1. **Original Source** (Dropdown, single select) — first-touch channel, locked. Options: Content — LinkedIn, Content — Instagram, Content — Facebook, Content — YouTube, Content — TikTok, Podcast Guest, Event Attendee, Referral — Existing Agent, Cold Outreach, Inbound — joinkale.com, Association Event, NAR Connection, Other
+2. **Latest Source** (Dropdown, single select) — most recent re-engagement channel, updates on new touch. Same options as Original Source.
+3. **Content Source Detail** (Text) — specific post/episode reference (e.g. "NF-001 Tuccori post 4/10/26" or "Episode 712 with Carrie McCormick"). Becomes the warm opener in the dial.
+4. **Content Week** (Text) — format `wk15-2026`. Used for weekly content velocity reporting.
+5. **Recruit Tier** (Dropdown, single select) — A-Agent (3-12 sales/year), B-Agent (13+ sales/year), New Licensee, Forgotten Middle (1-5M volume), Unknown
+6. **DJ Outreach Status** (Dropdown, single select) — DJ Working, Handed to Ana, Handed to Jennica, Team Funnel, On Hold
+
+For each qualified lead from Step 3:
 
 - Create the Lead in Close
-- Tag with: `source:content`, `source:linkedin-engager`, week number
-- Status: New Lead (to enter the standard Jennica SMS funnel) OR a new `dj-personal-outreach` pipeline if you want to work them yourself before handing off
-- In the Notes field: paste the specific post they engaged with and the reaction type, so Jennica or D.J. has a warm opener reference
-- Smart View assignment: add to the "DJ Warm Outreach This Week" view
+- Set Original Source to the specific channel
+- Set Latest Source = same as Original Source at creation (they match at first touch)
+- Set Content Source Detail with the specific post reference — this is what appears as the warm opener reference in Jennica/Ana/D.J.'s notes
+- Set Content Week to the current week (e.g. `wk15-2026`)
+- Set Recruit Tier to your best estimate from the scoring step
+- Set DJ Outreach Status = DJ Working (or Team Funnel if you want the standard Jennica SMS funnel to pick it up)
+- Lead Status: New Lead
 
-**Step 5: Build the week's dial list from the Smart View** (~0 min — it's automatic)
+**Step 5: Build the week's dial list from Smart Views** (~0 min — automatic once set up)
 
-Close's Smart View handles this. Create a view filtered for:
-- `source:content` tag
-- Last contact date more than 14 days ago OR null
-- Status = New Lead or In Outreach
-- Sorted by date added, newest first
+Create these three Smart Views in Close (one-time setup):
 
-When D.J. opens Close on Monday morning, that Smart View IS his call list for the week. No decision required. No "what should I do today?" hesitation. The list is pre-built and waiting.
+**"DJ Warm Outreach This Week"** — the daily call list D.J. opens at 9am
+- Filter: Original Source is any of [Content — LinkedIn, Content — Instagram, Content — Facebook, Podcast Guest, Event Attendee]
+- AND Last Contact Date is more than 14 days ago OR empty
+- AND Lead Status is not Won, Lost, or Dead
+- AND DJ Outreach Status is "DJ Working" OR empty
+- Sort: Created Date descending (choice-based Custom Fields cannot be used for sorting in Close)
+
+**"A-Agents Not Yet Called"** — prioritization view for high-energy dialing days
+- Filter: Recruit Tier = A-Agent
+- AND Last Contact Date is empty
+- Sort: Created Date descending
+
+**"This Week's Content Adds"** — retrospective for measuring content velocity
+- Filter: Content Week contains current week (e.g. "wk15-2026")
+- Sort: Created Date descending
+
+When D.J. opens Close on Tuesday morning, the "DJ Warm Outreach This Week" Smart View IS his call list for the week. No decision required. No "what should I do today?" hesitation. The list is pre-built and waiting.
 
 **Total weekly time for the bridge: ~60 minutes** (fits the 1 hour allocated above)
 
