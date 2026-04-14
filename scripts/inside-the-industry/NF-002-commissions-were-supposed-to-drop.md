@@ -40,10 +40,23 @@ The sky didn't fall. Stop acting like it still might.
 **Estimated Duration:** ~55 seconds
 
 ## Data Source
-- [Inman: Agent commissions show stickiness nearly 2 years after NAR settlement](https://www.inman.com/2026/03/30/agent-commissions-show-stickiness-nearly-2-years-after-nar-settlement/) (March 30, 2026)
-- [Real Estate News: After a year of NAR's new rules, commissions are up](https://www.realestatenews.com/2025/08/16/after-a-year-of-nars-new-rules-commissions-are-up)
-- Buyer agent commissions: dipped to ~2.5% post-settlement (Aug 2024), rebounded to 2.82% by early 2025
-- ~66% of agents report no meaningful change in commission levels
+
+**Commission rebound (2.6% → 2.5% → 2.82%):**
+- Primary source: Clever Real Estate, "Is a 6% Real Estate Commission Still Standard in 2026?" (published March 11, 2026)
+- Survey: 533 Clever partner agents surveyed February 2026
+- Finding: buyer agent commissions briefly dipped from ~2.6% pre-settlement to ~2.5% post-August 2024, then rebounded to 2.82% by early 2025
+- Secondary confirmation: [Inman: Buyer's Agent Commissions Rebound In Wake Of Settlement](https://www.inman.com/2025/12/08/buyers-agent-commissions-see-rebound-in-wake-of-settlement/) (December 8, 2025)
+
+**Two-thirds of agents report no meaningful change:**
+- Primary source: Cotality / ResiClub joint survey, conducted February-March 2026
+- Survey: 213 agent respondents, most with 8+ years of industry experience
+- Finding: roughly two-thirds of agents report no significant shift in commission levels since the 2024 settlement
+- Published in: [Inman: Agent commissions show 'stickiness' nearly 2 years after NAR settlement](https://www.inman.com/2026/03/30/agent-commissions-show-stickiness-nearly-2-years-after-nar-settlement/) (March 30, 2026)
+- Additional finding from same survey: 34% of agents said buyer-side compensation is where they've felt the most strain (highest category)
+
+**Context on the Tuccori settlement (no additional practice changes required):**
+- [NAR Newsroom: Tuccori Settlement](https://www.nar.realtor/newsroom/national-association-of-realtorsr-reaches-agreement-to-resolve-nationwide-homebuyer-claims-in) (April 10, 2026)
+- NAR statement: settlement "require[s] continued compliance with the practice changes as part of the Sitzer/Burnett settlement, but do not require any additional practice changes"
 
 ## Social Media
 
