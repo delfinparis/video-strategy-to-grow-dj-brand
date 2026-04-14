@@ -20,23 +20,18 @@ status: "ready"
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:08)
-NAR just reached out to me directly. Before the settlement news dropped, they sent me a heads-up and asked if I'd create content explaining it to working agents. I want to tell you why that matters. [ON-SCREEN: "NAR reached out directly. Here's why that matters."]
+NAR has a communications department, partnerships with national media, and state associations with millions of followers. Before their last settlement dropped, they reached out to me directly anyway.
 
 ### CONTEXT (0:08-0:25)
-For context, NAR has a communications department. They have partnerships with national media. They have state and local associations with millions of combined followers. They could have pushed this through any of those channels.
+They sent me a heads-up about the news and asked if I'd create content explaining it to working agents. They could have pushed it through any of their official channels. They did push it through some. But they also reached out to independent content creators. People like me who have real but modest audiences built on trust with working agents.
 
-Instead, they're contacting independent content creators. People like me who have real but modest audiences built on trust with working agents.
-
-### INSIGHT (0:25-0:45)
+### INSIGHT (0:25-0:50)
 Here's what that tells you about where the industry is right now. NAR knows that the press release channel is broken. Agents don't read press releases. They don't read the magazine. They scroll feeds. And the people they trust on those feeds aren't national media -- they're agents who've been in the room, who've done the work, who explain things in plain English.
 
 If NAR is reaching out directly to working agents to shape the narrative, that tells you where real influence lives right now. Not in the biggest organizations. In the voices agents actually listen to.
 
-### REFRAME (0:45-0:55)
-That's a shift worth paying attention to. The people building the real estate audience right now are the same people who could be building the real estate voice. [ON-SCREEN: "Audience and voice are the same thing now."]
-
-### CLOSE (0:55-0:60)
-Audience and voice are the same thing now. That's the shift.
+### CLOSE (0:50-0:60)
+Audience and voice are the same thing now. That's the shift the rest of the industry hasn't caught up to yet.
 
 **Estimated Duration:** ~58 seconds
 

@@ -20,7 +20,7 @@ status: "ready"
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:08)
-I'm in regular contact with NAR leadership right now. If they called me today and asked what Chicago agents need them to understand, here's exactly what I'd say. [ON-SCREEN: "What Chicago agents actually need."]
+I have direct lines into NAR leadership right now. Here are the three things I'd tell them about Chicago agents if they called me this morning.
 
 ### POINT 1 (0:08-0:22)
 First. Chicago agents are not waiting for the settlements to be over. They adapted two years ago. They're using buyer agreements. They're articulating their value. The national conversation about "will commissions survive" is already a dead conversation here. Stop relitigating it.
@@ -31,11 +31,8 @@ Second. The next wave of pressure is coming from inside the brokerages, not from
 ### POINT 3 (0:36-0:48)
 Third. The agents who are thriving in Chicago right now are the ones with the most specific voice, not the biggest following. National thought leaders don't move the needle here. Local expertise does. NAR should be amplifying local voices, not competing with them.
 
-### REFRAME (0:48-0:55)
-Chicago agents don't need a bigger organization. They need a louder one. One that says the quiet parts out loud. [ON-SCREEN: "Louder, not bigger."]
-
-### CLOSE (0:55-0:60)
-Chicago agents don't need a bigger NAR. We need a louder one.
+### CLOSE (0:48-0:60)
+Chicago agents don't need a bigger NAR. We need a louder one. One that says the quiet parts out loud.
 
 **Estimated Duration:** ~58 seconds
 

@@ -19,7 +19,7 @@ status: "ready"
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:05)
-Let me give you the scoreboard on commission lawsuits, because things are moving fast and most agents aren't keeping up. [ON-SCREEN: "THE COMMISSION LAWSUIT SCOREBOARD"]
+Five major brokerages have settled commission lawsuits in the last three months. Eighty-nine million dollars on the buyer side alone. Here's the scoreboard.
 
 ### CONTEXT (0:05-0:15)
 On the seller side, that's been done since 2024. NAR paid $418 million in Sitzer/Burnett. That's old news.
@@ -29,17 +29,15 @@ But on the buyer side? Five major settlements in just three months.
 ### DATA (0:15-0:35)
 February: Keller Williams, $20 million.
 March: RE/MAX, $8.5 million.
-April: Hanna Holdings, $8.25 million. Douglas Elliman, undisclosed. And the big one -- NAR, $52.25 million. [ON-SCREEN: list with totals]
+April: Hanna Holdings, $8.25 million. Douglas Elliman, undisclosed. And the big one -- NAR, $52.25 million.
 
 That's over $89 million on the buyer side alone. And those are just the ones we know the numbers on.
 
 ### INSIGHT (0:35-0:50)
-Here's why this matters to you. Every one of these settlements includes legal protection for agents at those brokerages. If your brokerage has settled, you're covered. If they haven't? Ask them about it. [ON-SCREEN: "If your brokerage hasn't settled, ASK WHY."]
-
-The one to watch now is July 28. That's when the court decides whether to approve these deals or whether the Batton case keeps going.
+Here's why this matters to you. Every one of these settlements includes legal protection for agents at those brokerages. If your brokerage has settled, you're covered. If they haven't, that's a conversation to have before July 28 -- because that's when the court decides whether to approve these deals or whether the Batton case keeps going.
 
 ### CLOSE (0:50-0:60)
-If your brokerage has settled, you're covered. If not, ask why.
+If your brokerage has settled, you're covered. If they haven't -- that's a question worth asking before July 28.
 
 **Estimated Duration:** ~58 seconds
 

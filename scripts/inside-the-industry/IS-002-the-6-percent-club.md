@@ -21,22 +21,22 @@ template: "X% Club"
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:08)
-I have interviewed over 700 real estate agents on my podcast. Here is something I have noticed that surprised me every single time. [ON-SCREEN: "The 6% Club: 94% of top producers still do this."]
+The top producers I've interviewed -- agents doing 25, 50, even 100 million dollars a year -- still do one thing every other agent has outsourced.
 
 ### DATA (0:08-0:25)
-When I ask top producers, agents doing 25 million, 50 million, 100 million dollars a year in volume, what they still do themselves that they probably shouldn't, the answer is almost always the same.
+After 700 podcast interviews on Keeping It Real, here's the pattern. When I ask top producers what they still do themselves that they probably shouldn't, the answer is almost always the same.
 
 They still answer their own phone.
 
-Not a call center. Not an assistant. Not voicemail. They pick up. Agents at every other production level? They've outsourced it.
+Not a call center. Not an assistant. Not voicemail. They pick up. Agents at every other production level have outsourced it.
 
 ### INSIGHT (0:25-0:45)
 The gap is not a lack of awareness. Every top producer knows they could delegate it. It is not a time problem. They're busier than anyone.
 
-It's a belief that answering the phone is beneath a certain level of success. Top producers don't agree. They think the call is where the relationship lives, and the relationship is the entire business. One of my guests put it this way: "I don't know what deal is in that call until I pick it up." [ON-SCREEN: "The call is where the relationship lives."]
+It's a belief that answering the phone is beneath a certain level of success. Top producers don't agree. They think the call is where the relationship lives, and the relationship is the entire business. One of my guests put it this way: "I don't know what deal is in that call until I pick it up."
 
 ### REFRAME (0:45-0:55)
-So the question is not whether you can afford to answer your own phone. It is whether you can afford not to. Especially when the top 6% still do. [ON-SCREEN: "Can you afford NOT to answer?"]
+So the question is not whether you can afford to answer your own phone. It is whether you can afford not to. Especially when the top producers I've talked to still do.
 
 ### CLOSE (0:55-0:60)
 Tomorrow morning, pick up one call you'd normally skip. See what happens.

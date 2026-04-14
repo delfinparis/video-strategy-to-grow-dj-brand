@@ -20,10 +20,10 @@ status: "ready"
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:08)
-I have interviewed over 700 real estate agents on my podcast. After a while, you start to notice patterns. Here is the one that changed how I listen to everything. [ON-SCREEN: "700 interviews. 1 word top producers never say."]
+After 700 podcast interviews with real estate agents, I noticed top producers never use one specific word when they describe a deal.
 
 ### SETUP (0:08-0:20)
-I pay attention to pronouns. It sounds small, but pronouns are a tell. When I ask an agent to describe their best deal of the year, there is a word the top producers almost never use. [ON-SCREEN: "Watch the pronouns."]
+I pay attention to pronouns. It sounds small, but pronouns are a tell. When I ask an agent to describe their best deal of the year, there is a word the top producers almost never use.
 
 ### REVEAL (0:20-0:40)
 The word is "I."
@@ -32,7 +32,7 @@ Mid-producers say things like, "I negotiated a great price. I handled the inspec
 
 Top producers say things like, "They had a baby on the way. She walked into the house and I watched her exhale for the first time in two months. The sellers were grieving a loss. We figured out a way through it."
 
-Same transaction. Completely different subject. [ON-SCREEN: "Same deal. Different subject."]
+Same transaction. Completely different subject.
 
 ### INSIGHT (0:40-0:52)
 Top producers have stopped talking about their job and started talking about their clients. The shift from "I" to "they" is not humility for its own sake. It is a symptom of where their attention goes during the work. And where your attention goes during the work is what the client actually feels when they refer you.

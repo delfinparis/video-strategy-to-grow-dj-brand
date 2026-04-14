@@ -20,21 +20,18 @@ status: "ready"
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:08)
-A few weeks ago NAR invited me to an influencer event. About a dozen of us in the country. I spent a day in a room with their entire executive leadership team. Here's what I noticed that surprised me. [ON-SCREEN: "1 of 12 invited nationally"]
+NAR just put me in a closed room with their entire executive leadership team. One of about a dozen content creators invited nationally. What I saw is not what most agents think NAR is right now.
 
 ### OBSERVATION (0:08-0:35)
-Look, I walked in expecting corporate. Polished. On-message. That's what most agents think NAR is from the outside.
+I walked in expecting corporate. Polished. On-message. That's what most agents assume NAR is from the outside.
 
 What I actually saw was an organization in listening mode. Bennett Richardson, Raffi Williams, Nykia Wright -- the whole senior team was in the room. They weren't defending the last two years. They weren't pitching us on talking points. They were asking questions. About what agents on the ground are actually feeling. About what's breaking in the day-to-day. About what they're missing.
 
 ### INSIGHT (0:35-0:50)
 Here's what that told me. NAR is moving through the biggest operational reset in its history, and the leadership running it right now knows they can't do it from inside a boardroom. They're building direct lines to working agents because the old top-down playbook doesn't work anymore.
 
-### REFRAME (0:50-0:57)
-They're not in a bunker. They're in a listening posture. That's a very different organization than the one a lot of agents are still criticizing online. [ON-SCREEN: "Listening posture, not defensive posture"]
-
-### CLOSE (0:57-0:60)
-Listening posture, not defensive posture. That's a very different NAR than most agents assume.
+### CLOSE (0:50-0:60)
+They're not in a bunker. They're in a listening posture. That's a very different NAR than the one a lot of agents are still criticizing online.
 
 **Estimated Duration:** ~60 seconds
 

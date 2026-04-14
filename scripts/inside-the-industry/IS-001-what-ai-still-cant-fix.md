@@ -20,7 +20,7 @@ status: "ready"
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:08)
-I run a podcast called Keeping It Real. I've interviewed over 700 real estate agents. I also teach agents how to use AI. And I want to tell you the one thing seven hundred interviews have taught me that AI will never fix. [ON-SCREEN: "700 interviews. One thing AI can't touch."]
+I teach real estate agents how to use AI. And after 700 podcast interviews with the agents actually doing the job, I can tell you the one thing AI is never going to fix for them.
 
 ### TENSION (0:08-0:20)
 People assume I'm bullish on AI replacing parts of this business. I'm not. I'm bullish on AI for the repetitive parts, the research, the prep, the follow-up drafts. But the actual job? The hardest parts of being a great agent? AI is never going to touch them.
@@ -30,7 +30,7 @@ After seven hundred conversations, here's what separates the agents who thrive f
 
 It's the ability to sit across from someone in the worst moment of their life and know exactly what to say and when to say nothing. It's reading the tension in a negotiation and knowing whether to push or pull back. It's the earned instinct that comes from eight hundred deals where something almost went wrong and you figured it out.
 
-You cannot prompt your way into that. You earn it by reps. [ON-SCREEN: "You earn it by reps."]
+You cannot prompt your way into that. You earn it by reps.
 
 ### REFRAME (0:42-0:55)
 The agents who survive this next decade won't be the ones with the best prompts. They'll be the ones who've had the hardest conversations. AI gives you leverage. Experience gives you judgment. You need both. But one of them takes twenty years.
