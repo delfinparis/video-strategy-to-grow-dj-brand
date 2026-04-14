@@ -33,9 +33,11 @@ The Frog is the recruitment call block. The Frog eats first. Always. This docume
 | Activity | Hours | Detail |
 |---|---|---|
 | Daily recruitment call block (the Frog) | 8 | ~1.5-2 hours × 4-5 mornings. 20 warm dials/day out of Close CRM. This is the core. |
-| Meeting prep + post-meeting processing | 2 | Preparing for scheduled meetings, updating Close, handoffs to Ana |
-| Weekly content-to-call bridge review | 1 | Sunday evening or Monday morning — pull warm engagers, add to Close |
-| Event planning + invite outreach | 1 | Inviting warm leads to the next AI training or tool event |
+| Daily Courted review (5 min before each call block) | 0.33 | Pick top 5-10 A-agent + flight-risk leads from Courted's daily 30, add to Close |
+| Meeting prep + post-meeting processing | 1.5 | Preparing for scheduled meetings, updating Close, handoffs to Ana |
+| Weekly content-to-call bridge review (Sunday) | 1.25 | 75 min — pull warm engagers across LinkedIn / IG / FB, add to Close |
+| Event planning + invite outreach | 0.5 | Inviting warm leads to the next AI training or tool event |
+| Weekly pipeline review + tracker update | 0.42 | 25 min Sunday before bridge — review last week's metrics |
 
 That's 12 hours. Tight but doable. Every minute is spoken-for, which matches the OS design: pre-committed decisions reduce willpower tax.
 
@@ -43,42 +45,134 @@ That's 12 hours. Tight but doable. Every minute is spoken-for, which matches the
 
 ---
 
-## The Weekly Content-to-Call Bridge
+## Lead Sources: Two Streams Feeding One Smart View
 
-This is the missing handoff that makes content work for recruiting. Run it once a week — Sunday evening or Monday morning before the week's call blocks begin.
+D.J.'s warm leads come from two distinct sources that flow into the same Close Smart View ("DJ Warm Outreach This Week"):
 
-### The protocol
+### Stream 1: Courted.io (Daily, Fire-Hose, Data-Validated)
 
-**Step 1: Pull last week's engagers from Personal LinkedIn** (~15 min)
+[Courted.io](https://www.courted.io/) is an AI-powered brokerage talent platform Kale already pays for. It delivers:
 
-- Open LinkedIn notifications panel
-- Review every post from last week (especially Saturday's Inside the Industry post)
-- Note who reacted, commented, and shared
-- Pay special attention to people who commented substantively or reacted to multiple posts (not just a single thumbs-up)
+- **30 curated agent candidates per day** with quick stats and tailored outreach reasons
+- **Flight risk scoring** based on 190+ data sources — predictive ML that identifies 4 out of 5 agents before they leave their brokerage
+- **Accomplishments dashboard** — real-time alerts when agents hit milestones (closed listings, record months, contract anniversaries)
+- **Signals tracked**: contract anniversary dates, activity gaps (lack of pending sales), negative momentum at current brokerage, recent superlatives
 
-**Step 2: Filter for recruit fit** (~15 min)
+D.J.'s daily Courted workflow (5 min before each call block, 20 min/week total):
 
-- Greater Chicago location
-- Title contains "agent," "broker," "team lead," "producer," or similar
-- NOT already in Close CRM as an active lead
-- NOT already a Kale agent
-- Signal of independence or dissatisfaction (bonus — post content complaining about their brokerage, asking about tools, etc.)
+1. Open Courted at 8:55am, before the 9am Frog
+2. Review the day's 30 candidates
+3. Filter for: A-agent likelihood (3+ sales/year) + Greater Chicago + flight risk score in top tier
+4. Pick the top 5-10
+5. Add to Close with `Original Source = Courted` and the specific accomplishment or signal in the `Content Source Detail` field
+6. Begin the 9am call block — these leads sit at the top of "DJ Warm Outreach This Week"
 
-**Step 3: Score for A-agent likelihood** (~10 min)
+**Volume from this stream:** 25-50 fresh data-validated leads per week.
 
-Use public signals to estimate production tier:
+#### Coordination with Jennica's Existing Courted Workflow (CRITICAL)
 
-- LinkedIn posts about closed deals or listings
-- Profile mentions production volume or team size
-- Zillow / Homes.com / brokerage website public stats
-- "Top producer" badges, award mentions
-- Years in business (5+ years usually indicates established producer)
+Jennica is already using Courted for her morning SMS routine (per Daily Quick Reference doc) — she pulls celebration superlatives from Courted's daily 30 and sends 20 SMS/day. **D.J. must NOT call leads Jennica has already touched in the last 7 days, or the team creates a double-touch problem that burns trust.**
+
+The clean separation:
+
+| Channel | Owner | Lead source from Courted | Approach |
+|---|---|---|---|
+| SMS / text | Jennica | Daily 30 celebration superlatives (volume play) | High volume, low friction, opens the door |
+| Voice calls | D.J. | Top 5-10 of the daily 30 — A-agent + flight risk filtered | Low volume, high value, builds the relationship |
+
+**The 7-day rule:** before D.J. adds a Courted lead to his Close call list, check whether Jennica has touched them via SMS in the last 7 days. If yes, skip and check back at day 14+. If no, proceed.
+
+**Implementation:** Have Jennica tag SMS-touched leads with a `jennica-sms-[date]` note in Close (or whatever convention the team uses). D.J. checks for that note before dialing. Alternative: Jennica and D.J. work different filters of the daily 30 by mutual agreement (e.g., D.J. takes A-agents only, Jennica takes everything else).
+
+**Coordinate this with Jennica before deploying.** A 5-minute team conversation prevents a month of friction.
+
+### Stream 2: Content Engagement (Sunday Bridge, Warm, Self-Selected)
+
+This is the missing handoff that makes content work for recruiting. Run once a week — Sunday evening or Monday morning before the week's call blocks begin.
+
+The protocol covers three platforms: Personal LinkedIn (highest quality), Personal Instagram (highest reach amplification), and Personal Facebook (highest Chicago concentration). Total weekly time: ~75 minutes.
+
+**Why content engagers are different from Courted leads:** Courted gives you statistically-validated flight risk. Content engagers give you self-selected interest in your voice. Courted is "they're ready to leave." Content is "they already chose to listen to you." Both matter. They feed the same Smart View but use different opening scripts (see [`recruiting-call-scripts.md`](recruiting-call-scripts.md) — Opener A/B/C for content engagers, Opener D for Courted leads).
+
+### Part A: Personal LinkedIn (~30 minutes)
+
+The highest-quality recruiting platform because the audience is professionally explicit (titles, brokerages, locations are right on the profile).
+
+**Steps:**
+
+1. Open LinkedIn → Notifications panel
+2. Filter to "All" and review the last 7 days
+3. List every reaction, comment, share, and profile view from the week
+4. For each engager, click their profile and check:
+   - Greater Chicago location (or strong Chicago tie)
+   - Title contains "agent," "broker," "team lead," "producer," or similar
+   - NOT already in Close
+   - NOT already a Kale agent
+5. Score for A-agent likelihood (production volume, years in business, team size, listings on profile)
+6. **Target: 5-7 qualified adds per week**
+
+### Part B: Personal Instagram (~25 minutes)
+
+Instagram is harder to qualify because the algorithm distributes 72% of reach to non-followers, so many engagers won't be Chicago real estate agents. But when you find one, they're usually highly engaged because Reels engagement signals genuine interest, not casual scroll.
+
+**Steps:**
+
+1. Open Instagram → Notifications panel (Activity tab)
+2. Review the last 7 days of likes, comments, and saves on Reels and posts
+3. Filter for accounts that look like real estate professionals (bio mentions agent, broker, listings)
+4. For each potential lead, check:
+   - Bio contains real estate keywords
+   - Bio mentions Chicago, Chicagoland, or specific Chicago neighborhoods
+   - Linked website is a real estate brokerage or agent profile
+   - Recent posts are real estate content
+5. **Target: 2-3 qualified adds per week**
+
+**The hard part for Instagram:** getting their phone number. Two paths:
+
+- **Path A (faster):** Cross-reference the agent's name on LinkedIn — most Chicago real estate agents have a LinkedIn with phone visible
+- **Path B (warmer):** DM them through Instagram first with a soft message ("Hey [Name], saw your engagement on my reel about [topic] — would love to chat. Are you in Chicago?"). When they reply, ask for their number.
+
+Default to Path A. Fall back to Path B if you can't find them on LinkedIn.
+
+### Part C: Personal Facebook (~20 minutes)
+
+Personal Facebook has the highest Chicago concentration of any platform (74.2%), but most engagement comes from existing friends and your sphere. New-prospect signal is lower-volume but very geographically targeted.
+
+**Steps:**
+
+1. Open Facebook → Click your name to go to your profile
+2. Review the last 7 days of posts (especially the highest-engagement ones)
+3. For each post, click the reaction/comment count to see who engaged
+4. For each engager, ask three questions:
+   - Are they already in your sphere? If yes, skip — recruit them through a different channel
+   - Are they a real estate professional in Chicago? Check their profile
+   - Are they NOT already in Close? Check
+5. **Target: 1-3 qualified adds per week**
+
+**Special advantage of Facebook:** phone numbers are often visible on the profile if you're already friends. If not friends, send a connection request with a short note and add them to Close as soon as they accept.
+
+### Total Weekly Adds Across Three Platforms
+
+| Platform | Target adds/week | Qualification rate |
+|---|---|---|
+| LinkedIn | 5-7 | High (audience is pre-qualified) |
+| Instagram | 2-3 | Medium (algorithm spreads wide) |
+| Facebook | 1-3 | Low volume but very Chicago |
+| **Total** | **8-13** | ~60% A-agent qualification |
+
+### Maintaining the Standing Pool
+
+The daily call target is 20 dials/day × 4 days = 80 dials/week. You cannot sustain that on 8-13 new adds per week alone. The system relies on a **standing pool** of warm leads who become eligible for re-contact every 14+ days.
+
+**The standing pool builds over time.** Over 60-90 days of consistent Sunday bridge protocol, the pool grows from zero to 100-200 active warm leads. With 14-day re-eligibility, the same lead can receive 2-3 attempts per month. Combined with weekly new adds, the math works at 80 dials/week.
+
+**First 4 weeks will feel slow.** D.J. will be calling 20-30 leads/day in week 1, not 80, because the pool is still building. By week 6-8, the standing pool is large enough to sustain the full 20 dials/day. This is expected. Do not get discouraged in week 2.
 
 **Step 4: Add qualified leads to Close CRM** (~20 min)
 
 Close does not have traditional tags. It uses **Custom Fields** that integrate with Smart Views. Before running the bridge protocol for the first time, create these six Custom Fields in Close (one-time setup):
 
-1. **Original Source** (Dropdown, single select) — first-touch channel, locked. Options: Content — LinkedIn, Content — Instagram, Content — Facebook, Content — YouTube, Content — TikTok, Podcast Guest, Event Attendee, Referral — Existing Agent, Cold Outreach, Inbound — joinkale.com, Association Event, NAR Connection, Other
+1. **Original Source** (Dropdown, single select) — first-touch channel, locked. Options: Content — LinkedIn, Content — Instagram, Content — Facebook, Content — YouTube, Content — TikTok, Podcast Guest, Event Attendee, Referral — Existing Agent, Cold Outreach, Inbound — joinkale.com, Association Event, NAR Connection, **Courted (Flight Risk)**, **Courted (Accomplishment)**, Other
 2. **Latest Source** (Dropdown, single select) — most recent re-engagement channel, updates on new touch. Same options as Original Source.
 3. **Content Source Detail** (Text) — specific post/episode reference (e.g. "NF-001 Tuccori post 4/10/26" or "Episode 712 with Carrie McCormick"). Becomes the warm opener in the dial.
 4. **Content Week** (Text) — format `wk15-2026`. Used for weekly content velocity reporting.
@@ -101,7 +195,7 @@ For each qualified lead from Step 3:
 Create these three Smart Views in Close (one-time setup):
 
 **"DJ Warm Outreach This Week"** — the daily call list D.J. opens at 9am
-- Filter: Original Source is any of [Content — LinkedIn, Content — Instagram, Content — Facebook, Podcast Guest, Event Attendee]
+- Filter: Original Source is any of [Content — LinkedIn, Content — Instagram, Content — Facebook, Podcast Guest, Event Attendee, **Courted (Flight Risk), Courted (Accomplishment)**]
 - AND Last Contact Date is more than 14 days ago OR empty
 - AND Lead Status is not Won, Lost, or Dead
 - AND DJ Outreach Status is "DJ Working" OR empty
