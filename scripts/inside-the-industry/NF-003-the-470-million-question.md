@@ -14,28 +14,24 @@ status: "ready"
 **Pillar:** Market Intelligence | **Avatars:** Forgotten Middle, Aspiring Top Producer
 **Post Date:** Tuesday, April 14, 2026
 
-> **Strongest Line:** "An informed member is a better member."
+> **Strongest Line:** "The most expensive insurance policy in real estate history. And it already paid out."
 
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:05)
-NAR just settled the Tuccori lawsuit for $52 million. Add that to the $418 million Sitzer/Burnett settlement. That's over $470 million. [ON-SCREEN: "$470,000,000. Where does it come from?"]
+You paid for a $470 million lawsuit this month and you probably didn't even notice.
 
-### QUESTION (0:05-0:20)
-Here's the question nobody's asking: where does that money come from?
+### MATH (0:05-0:20)
+Here's the math. NAR just settled the Tuccori case for $52 million. Add that to the $418 million Sitzer/Burnett settlement from 2024. That's over $470 million in total.
 
-NAR doesn't sell houses. Their revenue comes from member dues. Your dues. And the Tuccori payments don't even start in full until after 2028, which means this will be on the books for years.
+### QUESTION (0:20-0:35)
+And here's the question nobody's asking -- where does that money come from? NAR doesn't sell houses. Their revenue comes from member dues. Your dues. The Tuccori payments don't even start in full until after 2028, so this will be on the books for years.
 
-### COUNTERPOINT (0:20-0:40)
-Now, I'm not saying it's wrong. These settlements protect you from future lawsuits that could have been worth tens of billions. That's a real return on investment.
+### COUNTERPOINT (0:35-0:50)
+Now before you get angry, think about what that money actually bought. Without these settlements, the industry was staring down potential damages in the tens of billions. Not millions. Billions. Your dues just bought the broadest legal protection NAR has ever secured for its members.
 
-But you should know what you're paying for. An informed member is a better member.
-
-### REFRAME (0:40-0:55)
-And if you're wondering whether your NAR membership is still worth it? Consider this: without it, you'd have no protection from these claims at all.
-
-### CLOSE (0:55-0:60)
-An informed member is a better member. Now you're informed.
+### CLOSE (0:50-0:60)
+So the next time you hear another agent complain about NAR dues -- remember, you just bought the most expensive insurance policy in real estate history. And it already paid out.
 
 **Estimated Duration:** ~58 seconds
 

@@ -14,12 +14,12 @@ status: "ready"
 **Pillar:** Market Intelligence | **Avatars:** Forgotten Middle, Aspiring Top Producer
 **Post Date:** Thursday, April 16, 2026
 
-> **Strongest Line:** "Not millions. Billions. With a B."
+> **Strongest Line:** "Makes that look like a rounding error."
 
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:05)
-Everyone's celebrating the Tuccori settlement. But there's another case that could be a hundred times bigger, and it's not over yet. [ON-SCREEN: "$52M settled. But THIS case could be 100x bigger."]
+NAR just paid $52 million to end one lawsuit. There's another one coming that makes that look like a rounding error.
 
 ### CONTEXT (0:05-0:25)
 It's called Batton. Same type of claim -- homebuyers suing over commission structures. But the Batton plaintiffs are fighting hard to keep their case alive.
@@ -27,12 +27,10 @@ It's called Batton. Same type of claim -- homebuyers suing over commission struc
 Here's what's happening. NAR is asking the court to pause the Batton case because of the Tuccori settlement. They're saying Tuccori already resolves those claims. But the Batton plaintiffs disagree. They've objected to brokerages settling through Tuccori instead of facing them directly. They even filed an appeal after Anywhere's opt-in deal.
 
 ### STAKES (0:25-0:45)
-If the court says no to the stay? The potential damages are in the tens of billions. Not millions. Billions. With a B. [ON-SCREEN: "Tens of BILLIONS at stake"]
-
-Keller Williams already settled Batton for $20 million. RE/MAX for $8.5 million. The court approval hearing is July 28.
+If the court says no to the stay? The potential damages are in the tens of billions. Not millions. Billions. With a B.
 
 ### CLOSE (0:45-0:60)
-I'll be watching. You should be too. July 28 is the date.
+Keller Williams already paid $20 million. RE/MAX paid $8.5 million. And every brokerage in America is holding its breath until July 28. If your brokerage hasn't said a word about Batton, that's a question worth asking them.
 
 **Estimated Duration:** ~58 seconds
 

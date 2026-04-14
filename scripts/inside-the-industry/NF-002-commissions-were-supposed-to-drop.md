@@ -14,28 +14,25 @@ status: "ready"
 **Pillar:** Market Intelligence | **Avatars:** All
 **Post Date:** Sunday, April 12, 2026
 
-> **Strongest Line:** "Stop waiting for the sky to fall. It already didn't."
+> **Strongest Line:** "They stopped waiting a year ago."
 
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:05)
-Everyone said commissions would collapse after the NAR settlement. It's been almost two years. Here's what actually happened. [ON-SCREEN: "Commissions went UP, not down."]
+Everyone said commissions would collapse after the NAR settlement. Two years later? They went up.
 
 ### DATA (0:05-0:25)
-Buyer agent commissions dipped briefly to about 2.5% right after the settlement took effect in August 2024. Then they bounced back. To 2.82%. They went UP, not down. [ON-SCREEN: "2.5% → 2.82%"]
+Buyer agent commissions dipped briefly to about 2.5% right after the settlement took effect in August 2024. Then they bounced back. To 2.82%. They went UP, not down.
 
-Two-thirds of agents report no meaningful change in their commission levels. [ON-SCREEN: "66% of agents: no change"]
+Two-thirds of agents report no meaningful change in their commission levels.
 
 ### INSIGHT (0:25-0:45)
 Why? Because sellers still want buyers. And buyers can walk away if sellers won't help cover their agent's fee. The market decided this one, not the lawsuits.
 
-Now the Tuccori settlement just closed the book on the buyer side too. No new changes. The agents who learned to articulate their value? They're earning more than ever.
+Now the Tuccori settlement just closed the book on the buyer side too. No new changes. The agents who learned to articulate their value are earning more than ever.
 
-### REFRAME (0:45-0:55)
-Stop waiting for the sky to fall. It already didn't. [ON-SCREEN: "The sky didn't fall."]
-
-### CLOSE (0:55-0:60)
-The sky didn't fall. Stop acting like it still might.
+### CLOSE (0:45-0:60)
+Stop waiting for the sky to fall. It already didn't. The agents earning more right now? They stopped waiting a year ago.
 
 **Estimated Duration:** ~55 seconds
 

@@ -14,26 +14,21 @@ status: "posted"
 **Pillar:** Market Intelligence | **Avatars:** Forgotten Middle, Aspiring Top Producer
 **Post Date:** Friday, April 10, 2026
 
-> **Strongest Line:** "They're not going back."
+> **Strongest Line:** "You just ran out of excuses."
 
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:05)
-Big news just dropped. NAR settled the Tuccori lawsuit for $52 million. And if you're a Chicago agent, you should know this case was filed right here against @properties. [ON-SCREEN: "Chicago agents -- NAR just settled ANOTHER lawsuit"]
+A homebuyer sued @properties right here in Chicago -- and NAR just paid $52 million to make it go away.
 
-### CONTEXT (0:05-0:20)
+### CONTEXT (0:05-0:25)
 Quick background: after Sitzer/Burnett, everyone focused on protecting sellers. But there was still an open question -- what about the buyers? That's what Tuccori was. A homebuyer who purchased through @properties back in 2018 argued that the old commission structure inflated the price they paid. The class went all the way back to the year 2000.
 
-### INSIGHT (0:20-0:40)
+### INSIGHT (0:25-0:45)
 Here's what actually matters: this closes the loop. Sellers are covered by the 2024 settlement. Buyers are now covered by this one. And NAR says this gives their members the broadest legal protection they've ever achieved.
 
-The best part? No new practice changes. Nothing extra you need to learn. If you've already adapted to buyer agreements and you know how to communicate your value, you're ahead of the game.
-
-### REFRAME (0:40-0:55)
-The agents who are going to struggle are the ones still hoping things go back to the way they were. They're not going back. [ON-SCREEN: "They're not going back."]
-
-### CLOSE (0:55-0:60)
-They're not going back. The ones who already adapted aren't just compliant. They're winning.
+### CLOSE (0:45-0:60)
+Both sides of the commission lawsuits are now settled. No new rules, no new changes. If you already adapted, this settlement just confirmed you're ahead. If you haven't, you just ran out of excuses.
 
 **Estimated Duration:** ~55 seconds
 

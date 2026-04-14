@@ -14,28 +14,23 @@ status: "ready"
 **Pillar:** Market Intelligence | **Avatars:** Forgotten Middle, Aspiring Top Producer
 **Post Date:** Saturday, April 18, 2026
 
-> **Strongest Line:** "The dominoes are falling."
+> **Strongest Line:** "This chapter is over."
 
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:05)
-While everyone was focused on NAR's $52 million headline, Douglas Elliman quietly opted into the same settlement on the exact same day. [ON-SCREEN: "Everyone missed THIS settlement."]
+Douglas Elliman just paid to settle a lawsuit -- and they refuse to tell anyone how much.
 
 ### DETAIL (0:05-0:25)
-And here's what's interesting. They didn't disclose the terms. We don't know how much Elliman is paying.
+While everyone was focused on NAR's $52 million headline, Elliman quietly opted into the same Tuccori settlement on the exact same day. They didn't disclose the terms. We don't know how much they're paying.
 
 What we do know is they're resolving the buyer-side claims that weren't covered by their previous seller-side settlement. So Elliman is now covered on both sides, just like NAR.
 
 ### PATTERN (0:25-0:45)
-And they're not alone. The big brokerages are checking this box one by one. Keller Williams settled Batton for $20 million in February. RE/MAX for $8.5 million in March. Hanna Holdings for $8.25 million. Now Elliman and NAR in April. [ON-SCREEN: "The scoreboard is filling up"]
+And they're not alone. The big brokerages are checking this box one by one. Keller Williams settled Batton for $20 million in February. RE/MAX for $8.5 million in March. Hanna Holdings for $8.25 million. Now Elliman and NAR in April.
 
-The opt-in deadline is April 13. If your brokerage hasn't settled yet, the question isn't if. It's when.
-
-### REFRAME (0:45-0:55)
-The industry is closing the book on commission lawsuits, one settlement at a time.
-
-### CLOSE (0:55-0:60)
-The dominoes are falling. Watch who goes next.
+### CLOSE (0:45-0:60)
+Five major settlements in three months. The industry has decided: this chapter is over. The only question left is which brokerage takes their turn next.
 
 **Estimated Duration:** ~58 seconds
 
