@@ -123,6 +123,32 @@ These live in memory as well, but documenting here for completeness.
 
 ---
 
+## Rule 4: Protected Voice Signatures
+
+Some phrases, once established as part of the brand, become protected voice signatures. They should not be rewritten casually across content generations. If a signature phrase needs to change, the change should be made deliberately, documented, and propagated consistently across every asset.
+
+### Currently protected signatures
+
+**"I've never practiced real estate. But I've interviewed 700 people who have."**
+
+- Meaning: D.J. holds a real estate license but has never represented a client or worked a transaction on behalf of a buyer or seller. His authority comes from hosting the Keeping It Real Podcast (700+ episodes) and being 1 of 12 nationally in NAR's 2026 influencer program.
+- Scope: Every speaker asset, every Inside the Industry script that references D.J.'s credentials, every bio, every one-sheet. The phrase is the pattern interrupt that preempts the "why should we listen to a non-agent?" question and turns it into the differentiator.
+- Variants allowed: "I don't practice real estate" (in prose flow), "Licensed but never practiced" (in very short spaces like Instagram bios), "I hold a real estate license. I've never used it to represent a client." (in longer formal writing).
+- Variants banned: "I've never sold a house" (inaccurate — D.J. has sold his own home as a homeowner). "I'm not an agent" (inaccurate — he is a licensed agent, just non-practicing). "I'm not a broker" (inaccurate — he is the VP of Business Development at a brokerage).
+- Full context in `docs/speaker-assets.md`. Read that document before rewriting any reference to D.J.'s practitioner status.
+
+### The test for adding a new protected signature
+
+A phrase becomes protected when:
+
+1. It has appeared in 3+ published pieces of content without being rewritten
+2. It has become the single most distinctive thing a reader remembers about D.J.'s positioning
+3. Replacing it with a synonym would weaken the brand meaningfully
+
+When those three conditions are met, document the phrase in this section along with its meaning, scope, allowed variants, and banned variants. Then enforce it on every new piece of content.
+
+---
+
 ## Pre-Commit Checklist
 
 Every new script must pass all of these before committing:

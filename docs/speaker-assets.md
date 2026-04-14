@@ -2,52 +2,68 @@
 
 This document is the canonical source for every asset used to convert D.J. Paris from "content creator" to "content creator who also speaks." Built April 2026 as the first deliverable of Adjustment 4 from the Q2 2026 strategy evaluation.
 
-**Critical positioning note:** D.J. has never practiced real estate. He is not a selling agent or producing broker. His authority comes from hosting the longest-running real estate podcast in Chicago (700+ episodes in partnership with Kale Realty), being 1 of 12 content creators nationally in NAR's 2026 influencer program, and eight years of interviewing top producers, team leaders, and industry decision-makers. The speaker positioning is explicitly and honestly built around the "observer, not practitioner" identity.
+---
 
-Every asset below is written for that identity. Do not re-introduce "broker at Kale Realty" or any framing that implies D.J. personally handles clients or deals.
+## Critical Positioning (Read This First)
+
+D.J. holds a real estate license but has never practiced real estate. He has never represented a client, never worked a transaction on behalf of a buyer or seller, and has no book of business as an agent. What he IS:
+
+- **Vice President of Business Development at Kale Realty** (Chicago)
+- **Host of the Keeping It Real Podcast** — the longest-running real estate podcast in Chicago, 700+ episodes over 8+ years
+- **1 of 12 content creators nationally** in NAR's 2026 influencer program — the only cohort of its kind
+
+The speaker positioning is explicitly built around the "observer, not practitioner" identity. The signature line is:
+
+> **"I've never practiced real estate. But I've interviewed 700 people who have."**
+
+This line preempts the obvious question ("why should we listen to a non-agent?") and turns it into the differentiator. It is technically accurate (D.J. holds a license but has never taken on clients, the same way a lawyer can pass the bar without ever practicing law) and impossible to copy by anyone who has practiced.
+
+**Do not rewrite this line in any future content without reading the full context below.** It is protected. See `docs/editorial-standards.md` for the voice-signatures rule.
 
 ---
 
-## Why the "Observer" Positioning Is a Strength, Not a Weakness
+## Why the "Observer" Positioning Is a Strength
 
 Conference organizers book two kinds of speakers:
 
 1. **Practitioners** teaching their methodology. Crowded market. Every brokerage retreat has a coach. Every conference has a $100M producer sharing their playbook. Hard to differentiate.
-2. **Observers** who see patterns practitioners can't see because they're too close to the work. Rare market. High value, especially during industry change.
+2. **Observers** who see patterns practitioners cannot see because they are too close to the work. Rare market. High value, especially during industry change.
 
-D.J. is structurally closer to Steven Bartlett (Diary of a CEO) than to Jefferson Fisher. Bartlett has never been a Fortune 500 CEO. He hosts. D.J. has never sold a house. He hosts. The authority comes from volume, access, and pattern recognition across hundreds of interviews — not from a personal book of business.
+D.J. is structurally closer to Steven Bartlett (Diary of a CEO, who hosts Fortune 500 CEOs but has never been one) than to Jefferson Fisher (a practicing trial lawyer). The authority comes from volume, access, and pattern recognition across hundreds of interviews — not from a personal book of business.
 
-The opening line "I've never sold a house. I've interviewed 700 of the people who have." is the signature pattern interrupt. It preempts the obvious question ("why should we listen to a non-agent?") and converts it into the differentiator. Conference programmers remember that line. Copy it verbatim onto every asset.
+The opening line "I've never practiced real estate. But I've interviewed 700 people who have." is the signature pattern interrupt. It signals confidence and editorial integrity — the two qualities conference bookers are actually screening for.
 
 ---
 
 ## 1. Signature Talk
 
-### Title
+### Title (full)
 
-**Inside the Industry: 700 Interviews, 12 NAR Insiders, and What They're Telling Me About the Next 18 Months**
+**I've Never Practiced Real Estate: What 700 Interviews and a Seat Inside NAR Taught Me About Where Real Estate Goes Next**
 
-Shorter version (for cramped conference programs): *Inside the Industry: The Real Estate Business Outside the Headlines*
+### Title (short, for cramped conference programs)
 
-### Description (for speaker page + conference submissions)
+**I've Never Practiced Real Estate**
 
-I've never sold a house in my life. What I've done is interview 700 of the people who have. For more than 8 years, I've hosted the longest-running real estate podcast in Chicago, asking top producers, industry titans, and first-year rookies the same question in every episode: what are you actually doing that's working?
+### Description (for speaker page and conference submissions)
+
+I hold a real estate license. I've never used it to represent a client.
+
+What I have done is interview 700 of the people who have. For more than 8 years, I've hosted the Keeping It Real Podcast — the longest-running real estate podcast in Chicago — sitting across from top producers, team leaders, and first-year rookies and asking them the same question in every episode: what are you actually doing that's working?
 
 And last year, NAR invited me to their influencer program as one of 12 content creators nationally, which means I'm in the room for the conversations most agents never get to hear.
 
-This talk is what you can only see from the outside: the Inside the Industry Framework. What NAR leadership is actually prioritizing. What top producers are actually doing differently. And where the real risk and opportunity are hiding in the gap between the two. Attendees walk away with a clear map of what to ignore, what to focus on, and one specific adjustment to make Monday morning.
+This talk is what you can only see from the outside: the **Inside the Industry Framework**. What NAR leadership is actually prioritizing. What top producers are actually doing differently. And where the real risk and opportunity are hiding in the gap between the two. Attendees walk away with a clear map of what to ignore, what to focus on, and one specific adjustment to make Monday morning.
 
 ### The Framework (Named Concept)
-
-Every signature talk needs a named three-part structure. Here's the one for this talk:
 
 **The Inside the Industry Framework** — three things the outside doesn't see:
 
 1. **What NAR leadership is actually prioritizing** — from the influencer room, not the press releases
 2. **What top producers are actually doing** — from 700+ podcast interviews across every production tier
-3. **Where the real risk and opportunity are hiding** — the synthesis that ties #1 and #2 together
+3. **Where the real risk and opportunity are hiding** — the synthesis that ties the first two together
 
-Every attendee leaves with one specific action to take Monday morning. That's the promise.
+Every attendee leaves with one specific action to take Monday morning. That is the promise.
 
 ### Variants (Same Core, Four Packages)
 
@@ -69,21 +85,21 @@ The single most important asset. This is the video conference programmers, broke
 ```
 [0:00-0:08] THE PATTERN INTERRUPT — look directly into camera
 
-"I've never sold a house.
-But I've interviewed 700 of the people who have.
+"I've never practiced real estate.
+But I've interviewed 700 people who have.
 And I can tell you something about this industry that the people
 inside it can't see."
 
 [0:08-0:28] CREDENTIAL
 
-"I'm D.J. Paris. For more than eight years, I've hosted the Keeping
-It Real Podcast. It's the longest-running real estate podcast in
-Chicago. 700 episodes in, I've sat across from first-year rookies,
-$100 million top producers, team leaders, and every version of this
-business in between. And last year, NAR flew me to their influencer
-event as one of twelve content creators invited nationally. Which
-means I've also been in the room for the conversations most agents
-never get to hear."
+"I'm D.J. Paris. I'm the Vice President of Business Development at
+Kale Realty in Chicago, and I host the Keeping It Real Podcast. It's
+the longest-running real estate podcast in the city. 700 episodes in,
+I've sat across from first-year rookies, $100 million top producers,
+team leaders, and every version of this business in between. And last
+year, NAR flew me to their influencer event as one of twelve content
+creators invited nationally. Which means I've also been in the room
+for the conversations most agents never get to hear."
 
 [0:28-0:58] ONE SHARP IDEA
 
@@ -111,7 +127,7 @@ to your stage."
 "I'm D.J. Paris. Inside the Industry. Let's talk."
 ```
 
-**Word count:** ~270 words
+**Word count:** ~275 words
 **Estimated duration:** 88-93 seconds at normal speaking pace
 
 ### Filming Specs
@@ -124,7 +140,7 @@ to your stage."
 | Audio | Lavalier mic, not camera mic. Clean room tone. Pauses are OK — edit them out. |
 | Wardrobe | Business casual that photographs well. Solid colors, no busy patterns. |
 | Cuts | ONE take of D.J. talking. No cuts, no B-roll inserts. Let the delivery carry it. |
-| Text overlay | 0:08 lower-third: "D.J. Paris / Host, Keeping It Real Podcast / NAR 2026 Influencer". 0:58 framework name: "Inside the Industry". 2-second end card at 0:88: "D.J. Paris / Inside the Industry / djparis.com". |
+| Text overlay | 0:08 lower-third: "D.J. Paris / VP Business Development, Kale Realty / Host, Keeping It Real Podcast / NAR 2026 Influencer". 0:58 framework name: "Inside the Industry". 2-second end card at 0:88: "D.J. Paris / Inside the Industry / djparis.com". |
 | Music | None. Silence plus voice reads more credible than music beds. |
 | Format | Export 16:9 (YouTube, speaker pages, email) and 9:16 (Instagram, TikTok, LinkedIn video) from the same footage. |
 
@@ -133,20 +149,20 @@ to your stage."
 - Do not open with "Hi everyone" or "Hey guys"
 - Do not wear a headset or look down at notes
 - Do not add dramatic music, voice-over intro, or graphics swooshes
-- Do not include a B-roll montage of you at past events — you haven't spoken yet and faking it reads as fake
+- Do not include a B-roll montage of D.J. at past events — no speaking history yet, faking it reads as fake
 - Do not exceed 90 seconds under any circumstances
-- Do not claim practicing real estate experience — the "I've never sold a house" honesty is the asset
+- Do not drift from the "I've never practiced real estate" opening — it is the protected signature line
 
 ---
 
 ## 3. Speaker Page Copy (for djparis.com)
 
-Drop this into whatever CMS djparis.com uses. The page goes at `/speaking` or similar.
+Drop this into whatever CMS djparis.com uses. The page lives at `/speaking` or similar.
 
 ```markdown
 # Speaking
 
-I've never sold a house.
+I've never practiced real estate.
 I've interviewed 700 of the people who have.
 And I can tell you what's really happening inside this industry.
 
@@ -156,20 +172,21 @@ And I can tell you what's really happening inside this industry.
 
 ## About D.J.
 
-D.J. Paris is the host of Keeping It Real Podcast — the longest-running
-real estate podcast in Chicago. Over 8 years and 700+ episodes, D.J.
-has interviewed every kind of agent in the business, from first-year
-rookies to $100 million top producers, team leaders, and brokerage
-owners. The podcast is produced in partnership with Kale Realty in
-Chicago.
+D.J. Paris is the Vice President of Business Development at Kale
+Realty in Chicago and the host of the Keeping It Real Podcast — the
+longest-running real estate podcast in Chicago. Over 8 years and
+700+ episodes, D.J. has interviewed every kind of agent in the
+business, from first-year rookies to $100 million top producers,
+team leaders, and brokerage owners.
 
 D.J. is also one of 12 content creators nationally inside NAR's 2026
 influencer program, which gives him direct access to NAR leadership
 and a seat in the room for the conversations most agents never get
 to hear.
 
-He doesn't practice real estate. He studies it — from thousands of
-hours of interviews with the people who do — and translates what he
+He holds a real estate license but has never represented a client.
+He doesn't practice real estate — he studies it, from thousands of
+hours of interviews with the people who do, and translates what he
 sees into clear, honest commentary for working agents and the
 industry at large.
 
@@ -177,12 +194,12 @@ industry at large.
 
 ## Signature Talk
 
-### Inside the Industry: 700 Interviews, 12 NAR Insiders, and What They're Telling Me About the Next 18 Months
+### I've Never Practiced Real Estate: What 700 Interviews and a Seat Inside NAR Taught Me About Where Real Estate Goes Next
 
-I've never sold a house in my life. What I've done is interview 700
-of the people who have. And I've been in the room as one of 12 NAR
-influencers nationally for the conversations most agents never get
-to hear.
+I hold a real estate license. I've never used it to represent a
+client. What I have done is interview 700 people who have, and I've
+been in the room as one of 12 NAR influencers nationally for the
+conversations most agents never get to hear.
 
 In this talk, I break down the Inside the Industry Framework: what
 NAR leadership is actually prioritizing, what top producers are
@@ -209,7 +226,7 @@ local board talks count. Target 3-5 entries by end of 2026. -->
 
 ## Booking
 
-For speaking inquiries, email [djparis@keepingitrealpod.com or similar].
+For speaking inquiries, email [D.J.'s preferred email].
 
 I respond to every serious inquiry within 48 hours.
 ```
@@ -220,29 +237,31 @@ I respond to every serious inquiry within 48 hours.
 
 ### Personal LinkedIn (djparis3)
 
-**Headline (214 chars, within the 220 limit):**
+**Headline (164 chars, within the 220 limit):**
 
 ```
-Host, Keeping It Real Podcast (700+ episodes) | NAR 2026 Influencer |
-Keynote Speaker on real estate's real story | Inside the Industry
+Host, Keeping It Real Podcast (700+ episodes) | VP Business Development, Kale Realty | NAR 2026 Influencer | Speaker: "I've Never Practiced Real Estate"
 ```
 
-**About section opener (replace the first 2 paragraphs of current About):**
+**About section opener (replace the first paragraphs of current About):**
 
 ```
-I've never sold a house. I've interviewed 700 of the people who have.
+I've never practiced real estate. But I've interviewed 700 of the
+people who have.
 
-I host the Keeping It Real Podcast — the longest-running real estate
-podcast in Chicago — in partnership with Kale Realty. Over 8 years
-and 700+ episodes, I've interviewed every kind of agent in the
-industry, from first-year rookies to $100 million producers.
+I'm the Vice President of Business Development at Kale Realty in
+Chicago, and I host the Keeping It Real Podcast — the longest-running
+real estate podcast in Chicago. Over 8+ years and 700+ episodes, I've
+interviewed every kind of agent in the industry, from first-year
+rookies to $100 million producers.
 
 Last year, NAR invited me to their influencer program as one of 12
 content creators nationally, which means I'm in the room for the
 conversations most agents never get to hear.
 
-I don't practice real estate. I study it. And I translate what 700
-interviews and direct NAR access have taught me into honest
+I hold a real estate license, but I've never used it to represent a
+client. I don't practice real estate — I study it. And I translate
+what 700 interviews and direct NAR access have taught me into honest
 commentary for working agents and the industry at large.
 ```
 
@@ -251,27 +270,28 @@ commentary for working agents and the industry at large.
 **Bio (150 char limit):**
 
 ```
-Keeping It Real Podcast • NAR '26 Influencer
-700 interviews, zero sales
-Inside the Industry weekly ↓
+VP Business Dev @ Kale Realty
+Host, Keeping It Real Podcast • NAR '26
+700 interviews. Never practiced.
+Speaker: "Inside the Industry" ↓
 [djparis.com]
 ```
 
-The line "700 interviews, zero sales" is a bar-topper. Honest, memorable, unique positioning.
+The line **"700 interviews. Never practiced."** is the bio-level distillation of the positioning. It's accurate, memorable, and impossible to copy.
 
 ### Personal Facebook
 
 **About section:**
 
 ```
+VP of Business Development at Kale Realty.
 Host, Keeping It Real Podcast (longest-running real estate podcast
-in Chicago, 700+ episodes, in partnership with Kale Realty).
-
+in Chicago, 700+ episodes).
 1 of 12 content creators nationally in NAR's 2026 influencer program.
 
-I've never sold a house. I've interviewed 700 of the people who have.
-And I help working agents see what's really happening inside this
-industry — not what the headlines say.
+I've never practiced real estate. I've interviewed 700 of the people
+who have. And I help working agents see what's really happening
+inside this industry — not what the headlines say.
 ```
 
 ---
@@ -282,11 +302,11 @@ Conference organizers and brokerage owners will ask for a "one-sheet" or "speake
 
 ### Page 1 (Front)
 
-- **Header:** D.J. Paris / Host, Keeping It Real Podcast / NAR 2026 Influencer
+- **Header:** D.J. Paris / VP Business Development, Kale Realty / Host, Keeping It Real Podcast / NAR 2026 Influencer
 - **Tagline:** Inside the Industry: Real Estate's Real Story
 - **Headshot:** Top-right, professional
-- **Signature line (prominent):** "I've never sold a house. I've interviewed 700 of the people who have."
-- **Signature talk title:** Inside the Industry: 700 Interviews, 12 NAR Insiders, and What They're Telling Me About the Next 18 Months
+- **Signature line (prominent, large type):** "I've never practiced real estate. I've interviewed 700 of the people who have."
+- **Signature talk title:** I've Never Practiced Real Estate: What 700 Interviews and a Seat Inside NAR Taught Me About Where Real Estate Goes Next
 - **3-bullet description:**
   - What NAR leadership is actually prioritizing
   - What top producers are actually doing differently
@@ -316,7 +336,7 @@ Format: 2-page PDF, letter size. Canva has templates. Keep it to 2 pages max.
 | 3 | Update LinkedIn headline + About section. Update Instagram bio. Update Facebook about. |
 | 4 | Stand up the /speaking page on djparis.com. Copy the speaker page copy into the CMS. Leave Recent Stages empty. |
 | 5 | Edit the sizzle reel (lower-third text, title card, end card — nothing else). 20 minutes in CapCut if self-editing. |
-| 6 | Publish the speaker page. Share quietly with 3 trusted contacts (Kale, NAR network, podcast guests) for feedback before wider launch. |
+| 6 | Publish the speaker page. Share quietly with 3 trusted contacts (Kale leadership, NAR network, podcast guests) for feedback before wider launch. |
 | 7 | Adjust based on feedback. Begin Canva one-sheet design (2 hours). |
 
 After Day 7, the assets exist. Phase 2 (direct outreach to 15 booking targets) begins.
@@ -325,11 +345,13 @@ After Day 7, the assets exist. Phase 2 (direct outreach to 15 booking targets) b
 
 ## 7. What NOT to Do
 
-- Do not claim practicing real estate experience you don't have. The "observer not practitioner" positioning is the strength.
-- Do not list speaking engagements you haven't done. "Recent Stages" starts empty and grows honestly.
-- Do not fabricate testimonials or use generic "D.J. is amazing" quotes. Get one real quote from a real contact, even if it takes two weeks.
-- Do not price yourself when asked. For the first 90 days, the answer to "what's your fee?" is "Let's find the right fit first — tell me about the event." Fees get negotiated after interest is established.
-- Do not tell conference organizers you're "new to speaking." Say: "Here's my signature talk and a 90-second preview. Let me know if this fits your program." Confidence is the read they're looking for. The NAR influencer credential + 700-episode podcast carry the credibility — you don't need to explain it.
+- **Do not claim practicing real estate experience.** The "I hold a license but I've never practiced" framing is the strength. The Bartlett/observer model depends on it.
+- **Do not say "I've never sold a house."** D.J. has sold his own home as a homeowner, which makes that line technically inaccurate. "I've never practiced real estate" is the accurate replacement.
+- **Do not drop the "Never practiced" signature line from downstream content.** It is a protected voice signature. Every speaker-related asset, bio, and downstream post should preserve the language.
+- **Do not list speaking engagements that haven't happened.** "Recent Stages" starts empty and grows honestly.
+- **Do not fabricate testimonials.** Get one real quote from a real contact, even if it takes two weeks.
+- **Do not price yourself when first asked.** For the first 90 days, the answer to "what's your fee?" is "Let's find the right fit first — tell me about the event." Fees get negotiated after interest is established.
+- **Do not tell conference organizers you're "new to speaking."** The NAR influencer credential + 700-episode podcast carry the credibility. No explanation required.
 
 ---
 
@@ -338,3 +360,12 @@ After Day 7, the assets exist. Phase 2 (direct outreach to 15 booking targets) b
 The 90-second sizzle reel. Until that exists, the speaker page is a shell, the one-sheet is text without a video, LinkedIn headline changes are marketing without product, and the direct outreach has nothing to link to.
 
 Record the sizzle reel this week. Everything else compounds from it.
+
+---
+
+## Editorial Integrity Notes
+
+- "VP Business Development at Kale Realty" is D.J.'s current executive title and should appear as-is across all assets.
+- "700+ interviews" refers to 700+ podcast episodes of Keeping It Real Podcast, most with a named guest. Use 700+ as the floor, not a ceiling — if D.J. passes a new milestone (800, 1000), update the signature line accordingly.
+- "1 of 12 NAR influencers nationally" refers to the 2026 NAR influencer cohort. If NAR expands or contracts the cohort in future years, update the number accordingly.
+- The signature line "I've never practiced real estate. But I've interviewed 700 people who have." is protected. Any revision requires explicit review against the editorial standards.
