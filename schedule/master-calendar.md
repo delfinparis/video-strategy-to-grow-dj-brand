@@ -15,6 +15,41 @@
 |-----------|------|------|
 | Series Launch (original scripts) | Mon Feb 23, 2026 | 1 |
 | Switch to reels format | Mon Mar 02, 2026 | 2 |
+| Inside the Industry series launch | Fri Apr 10, 2026 | 8 |
+| The Playbook series launch | Wed Apr 22, 2026 | 9 |
+
+---
+
+## Inside the Industry + The Playbook Schedule
+
+These two pillars run on a separate cadence from AI Agent Minute and Agent Tip of the Day. Inside the Industry lives on Personal LinkedIn first (primary recruiting surface). The Playbook lives on Personal IG + Personal Facebook first (shareable tactical content). Both cross-post to the other platforms.
+
+**Primary recruiting rationale:** see [`docs/content-recruiting-integration.md`](../docs/content-recruiting-integration.md). Every Inside the Industry post is the highest-quality engagement funnel for the Sunday content-to-call bridge.
+
+| Date | Day | Pillar | # | Title | Primary Platform | Status |
+|------|-----|--------|---|-------|------------------|--------|
+| Apr 10 | Fri | Inside the Industry | NF-001 | [NAR Settles Tuccori Lawsuit for $52M](../scripts/inside-the-industry/NF-001-nar-tuccori-settlement-52-million.md) | Personal LinkedIn | ✅ Posted |
+| Apr 12 | Sun | Inside the Industry | NF-002 | [Commissions Were Supposed to Drop. They Didn't.](../scripts/inside-the-industry/NF-002-commissions-were-supposed-to-drop.md) | Personal LinkedIn | ⚠️ OVERDUE |
+| Apr 14 | Tue | Inside the Industry | NF-003 | [The $470 Million Question No One Is Asking](../scripts/inside-the-industry/NF-003-the-470-million-question.md) | Personal LinkedIn | ⚠️ DUE TODAY |
+| Apr 16 | Thu | Inside the Industry | NF-004 | [The Batton Case Is Still Out There](../scripts/inside-the-industry/NF-004-the-batton-case-is-still-out-there.md) | Personal LinkedIn | Ready |
+| Apr 18 | Sat | Inside the Industry | NF-005 | [Douglas Elliman Just Quietly Settled Too](../scripts/inside-the-industry/NF-005-elliman-quietly-settled-too.md) | Personal LinkedIn | Ready |
+| Apr 21 | Tue | Inside the Industry | NF-006 | [Five Brokerages Settled in Three Months](../scripts/inside-the-industry/NF-006-five-brokerages-settled-scoreboard.md) | Personal LinkedIn | Ready |
+| Apr 22 | Wed | The Playbook | PB-001 | [Here's the Play When You Get a Lowball Offer](../scripts/the-playbook/PB-001-lowball-offer.md) | Personal IG | Ready |
+| Apr 25 | Sat | Inside the Industry | IA-001 | [I Spent a Day in a Room With NAR's Executive Team](../scripts/inside-the-industry/IA-001-room-with-nar-executive-team.md) | Personal LinkedIn | Ready |
+| Apr 29 | Wed | The Playbook | PB-002 | [Here's the Play When the Listing Agent Won't Return Your Calls](../scripts/the-playbook/PB-002-listing-agent-not-returning-calls.md) | Personal IG | Ready |
+| May 02 | Sat | Inside the Industry | IA-002 | [NAR Just Reached Out to Me Directly](../scripts/inside-the-industry/IA-002-nar-reached-out-to-me.md) | Personal LinkedIn | Ready |
+| May 06 | Wed | Inside the Industry | IS-001 | [After 700 Interviews, Here's What AI Still Can't Fix](../scripts/inside-the-industry/IS-001-what-ai-still-cant-fix.md) | Personal LinkedIn | ⚠️ CONFLICT with PB-003 |
+| May 06 | Wed | The Playbook | PB-003 | [Here's the Play When Your Buyer Asks You to Cut Your Commission](../scripts/the-playbook/PB-003-buyer-asks-to-cut-commission.md) | Personal IG | ⚠️ CONFLICT with IS-001 |
+| May 09 | Sat | Inside the Industry | IA-003 | [What I'd Tell NAR About Chicago Agents](../scripts/inside-the-industry/IA-003-chicago-agents-nar-doesnt-know-about.md) | Personal LinkedIn | Ready |
+| May 13 | Wed | Inside the Industry | IS-002 | [The 6% Club: Why Top Producers Still Answer Their Own Phone](../scripts/inside-the-industry/IS-002-the-6-percent-club.md) | Personal LinkedIn | Ready |
+| May 20 | Wed | Inside the Industry | IS-003 | [The One Word Top Producers Never Say](../scripts/inside-the-industry/IS-003-top-producers-never-say-this-word.md) | Personal LinkedIn | Ready |
+
+**Cadence rules:**
+- Inside the Industry: ~1 per week (primary), plus reactive NF drops when major news breaks (2-4x/month target)
+- The Playbook: 1 per week, every Wednesday (pilot batch PB-001 through PB-008)
+- On conflict days (May 6), post Inside the Industry on LinkedIn in the morning and The Playbook on IG/FB in the afternoon -- different platforms, different audiences, no overlap penalty
+
+**Overdue items resolution:** NF-002 is 2 days past its scheduled date. Either post it today alongside NF-003, or mark it retired and move on. Do not leave a 2-day stale script in Ready status.
 
 ---
 
