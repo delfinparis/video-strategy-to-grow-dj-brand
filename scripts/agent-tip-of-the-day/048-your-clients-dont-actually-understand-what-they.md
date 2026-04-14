@@ -61,7 +61,7 @@ Hook needs more specificity -- try 'Your clients can't explain their own mortgag
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your clients don't actually understand what they bought. Watch this and save it for later.
+Your clients don't actually understand what they bought.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your clients don't actually understand what they bought. This changes how you th
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your clients don't actually understand what they bought. If this hits home, share it with an agent who needs to hear it.
+Your clients don't actually understand what they bought.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

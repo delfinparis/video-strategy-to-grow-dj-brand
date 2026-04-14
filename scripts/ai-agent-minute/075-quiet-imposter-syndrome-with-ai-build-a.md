@@ -36,7 +36,7 @@ But here's what the agents who pushed through figured out -- you can actually cl
 Here's how. Ask Claude to help you build a "competence inventory" -- a running document of everything you actually know: every transaction you've supported, every training you've completed, every question you've answered correctly. Type: "Help me create a document that tracks my growing real estate expertise so I can reference it when I doubt myself." Update it weekly. [ON-SCREEN: "Track your growing expertise -- update it weekly"]
 Imposter syndrome thrives in the dark. When you can see in writing what you actually bring to the table -- the voice gets quieter.
 You don't need to know everything. You need to know more than your client. And you already do.
-When did you last feel like a fraud in this business? Tell me below -- it's more common than you think. [ON-SCREEN: When did you last feel like a fraud?]
+When did you last feel like a fraud in this business?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Runs long -- trim the "every question you've answered correctly" section or tigh
 ## Social Copy
 
 ### Instagram
-**Caption:** Quiet Imposter Syndrome With AI -- Build A Competency File Watch this and save it for later.
+**Caption:** Quiet Imposter Syndrome With AI -- Build A Competency File
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Runs long -- trim the "every question you've answered correctly" section or tigh
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Quiet Imposter Syndrome With AI -- Build A Competency File If this hits home, share it with an agent who needs to hear it.
+**Caption:** Quiet Imposter Syndrome With AI -- Build A Competency File
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

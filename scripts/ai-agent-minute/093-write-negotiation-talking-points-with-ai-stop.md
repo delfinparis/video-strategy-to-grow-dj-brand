@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Write Negotiation Talking Points With AI -- Stop Improvising Watch this and save it for later.
+**Caption:** Write Negotiation Talking Points With AI -- Stop Improvising
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Write Negotiation Talking Points With AI -- Stop Improvising If this hits home, share it with an agent who needs to hear it.
+**Caption:** Write Negotiation Talking Points With AI -- Stop Improvising
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

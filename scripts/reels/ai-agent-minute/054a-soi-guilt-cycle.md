@@ -21,9 +21,7 @@ Meanwhile, another agent has been showing up in that person's inbox, their feed,
 
 The agents with referral businesses don't have better relationships. They have better systems for maintaining them.
 
-
 Here's what I'd do. Open Claude and type: "Build me a monthly sphere-of-influence touchpoint calendar so staying in touch runs on a system, not guilt."
-
 
 See you next time.
 ---

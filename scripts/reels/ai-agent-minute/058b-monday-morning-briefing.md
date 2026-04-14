@@ -23,7 +23,6 @@ You start every week fully briefed. You become the agent who always knows what's
 
 Twenty minutes. Every Monday. That's the whole investment.
 
-
 See you next time.
 ---
 

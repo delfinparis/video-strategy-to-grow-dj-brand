@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Calculate Your Real Profit Per Deal With AI Watch this and save it for later.
+**Caption:** Calculate Your Real Profit Per Deal With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Calculate Your Real Profit Per Deal With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Calculate Your Real Profit Per Deal With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

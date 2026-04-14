@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Build Transaction Checklists With AI -- Stop Trusting Memory Watch this and save it for later.
+**Caption:** Build Transaction Checklists With AI -- Stop Trusting Memory
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build Transaction Checklists With AI -- Stop Trusting Memory If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build Transaction Checklists With AI -- Stop Trusting Memory
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

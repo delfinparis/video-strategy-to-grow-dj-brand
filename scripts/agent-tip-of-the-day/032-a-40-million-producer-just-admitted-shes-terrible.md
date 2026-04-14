@@ -61,7 +61,7 @@ The 'brushing teeth' metaphor is gold -- consider ending with 'Set the timer bef
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-A $40 million producer just admitted she's terrible at CRM. Watch this and save it for later.
+A $40 million producer just admitted she's terrible at CRM.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ A $40 million producer just admitted she's terrible at CRM. This changes how you
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-A $40 million producer just admitted she's terrible at CRM. If this hits home, share it with an agent who needs to hear it.
+A $40 million producer just admitted she's terrible at CRM.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

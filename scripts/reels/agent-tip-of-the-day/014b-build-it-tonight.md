@@ -18,7 +18,6 @@ The barrier between "I wish I had that" and "I built that" just collapsed. Every
 
 Tonight: open ChatGPT. Type this exact prompt -- "Build me an HTML tool that calculates monthly mortgage payments with sliders for price, down payment, and interest rate." Copy the code. Paste it into Carrd dot co -- it's free. Text it to your next buyer. That's the assignment.
 
-
 See you next time.
 ---
 

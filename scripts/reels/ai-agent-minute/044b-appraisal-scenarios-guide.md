@@ -21,7 +21,6 @@ Prompt: "Write a plain-English guide for a buyer covering: what an appraisal act
 
 Send it before the appraisal happens. A prepared client doesn't panic. A panicking client can blow up months of work in forty-eight hours.
 
-
 See you next time.
 ---
 

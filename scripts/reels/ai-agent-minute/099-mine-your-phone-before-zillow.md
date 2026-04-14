@@ -23,7 +23,6 @@ Open Claude and list your contact categories -- neighbors, former coworkers, col
 
 Your sphere just needs to be reminded you exist.
 
-
 See you next time.
 ---
 

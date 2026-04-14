@@ -21,7 +21,6 @@ Ask Claude: "Design my thirty-minute morning prospecting ritual with a two-minut
 
 Same process, same time, every morning. Consistency builds confidence faster than any motivation hack. This takes fifteen minutes to build in Claude. Do it today.
 
-
 See you next time.
 ---
 

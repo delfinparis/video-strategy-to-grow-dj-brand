@@ -61,7 +61,7 @@ This is nearly perfect -- only improvement would be showing a 10-second screen r
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Most agents pay for tools. Watch this and save it for later.
+Most agents pay for tools.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Most agents pay for tools. This changes how you think about your business.
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Most agents pay for tools. If this hits home, share it with an agent who needs to hear it.
+Most agents pay for tools.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

@@ -61,7 +61,7 @@ The CTA asks them to audit past mistakes instead of giving them a forward-facing
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The agents closing luxury deals right now aren't the ones texting back fastest. Watch this and save it for later.
+The agents closing luxury deals right now aren't the ones texting back fastest.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The agents closing luxury deals right now aren't the ones texting back fastest. 
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The agents closing luxury deals right now aren't the ones texting back fastest. If this hits home, share it with an agent who needs to hear it.
+The agents closing luxury deals right now aren't the ones texting back fastest.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

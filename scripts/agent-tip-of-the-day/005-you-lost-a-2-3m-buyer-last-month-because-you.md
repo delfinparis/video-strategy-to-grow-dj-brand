@@ -61,7 +61,7 @@ This is nearly perfect -- only tweak is to name one specific MLS service (like '
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-You lost a $2.3M buyer last month because you couldn't pull comps from Denver. Watch this and save it for later.
+You lost a $2.3M buyer last month because you couldn't pull comps from Denver.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ You lost a $2.3M buyer last month because you couldn't pull comps from Denver. T
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-You lost a $2.3M buyer last month because you couldn't pull comps from Denver. If this hits home, share it with an agent who needs to hear it.
+You lost a $2.3M buyer last month because you couldn't pull comps from Denver.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

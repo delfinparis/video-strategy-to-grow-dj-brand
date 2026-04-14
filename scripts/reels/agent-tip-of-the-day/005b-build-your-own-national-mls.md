@@ -20,7 +20,6 @@ Here's the move: open your CRM. Filter by "Referred Out - Geographic." Pick the 
 
 That's not a tech problem anymore. That's a decision problem.
 
-
 See you next time.
 ---
 

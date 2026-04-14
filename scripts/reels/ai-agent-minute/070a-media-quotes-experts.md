@@ -21,9 +21,7 @@ Local journalists and podcasters are constantly looking for expert sources for r
 
 One quote in a respected local publication gives you credibility that no amount of boosted Instagram posts can replicate. But journalists don't find you. You find them first.
 
-
 Try this: Open Claude and type "Write me five pitch emails to local journalists that position me as a go-to source for real estate stories."
-
 
 See you next time.
 ---

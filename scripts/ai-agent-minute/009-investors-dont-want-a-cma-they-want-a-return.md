@@ -48,7 +48,7 @@ Top-10 film-first candidate. The hook is one of the strongest in the entire batc
 ## Social Copy
 
 ### Instagram
-**Caption:** Investors Don't Want a CMA. They Want a Return Analysis. Watch this and save it for later.
+**Caption:** Investors Don't Want a CMA. They Want a Return Analysis.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Top-10 film-first candidate. The hook is one of the strongest in the entire batc
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Investors Don't Want a CMA. They Want a Return Analysis. If this hits home, share it with an agent who needs to hear it.
+**Caption:** Investors Don't Want a CMA. They Want a Return Analysis.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

@@ -23,7 +23,6 @@ Touch one: a free market analysis or staging checklist. No pitch. Just value. To
 
 The FSBO who eventually lists almost always lists with the agent who helped them most.
 
-
 See you next time.
 ---
 

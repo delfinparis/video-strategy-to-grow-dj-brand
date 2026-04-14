@@ -23,7 +23,6 @@ And the gap between occasional users and daily users compounds every single mont
 
 Try this: Open Claude tomorrow morning and say "Help me plan my day -- here are my 3 priorities." Use it like a partner, not a search bar.
 
-
 See you next time.
 ---
 

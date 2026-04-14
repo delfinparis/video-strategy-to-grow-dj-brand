@@ -21,7 +21,6 @@ Here's the fix. After every lead call, dictate quick notes into your phone. Past
 
 Not a template. A message that proves you listened. Ninety seconds.
 
-
 See you next time.
 ---
 

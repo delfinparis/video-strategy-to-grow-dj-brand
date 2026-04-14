@@ -48,7 +48,7 @@ The CTA asking for a hyperlocal fact will generate genuinely interesting, market
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Hyperlocal Content Strategy With AI Watch this and save it for later.
+**Caption:** Build A Hyperlocal Content Strategy With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The CTA asking for a hyperlocal fact will generate genuinely interesting, market
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Hyperlocal Content Strategy With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Hyperlocal Content Strategy With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

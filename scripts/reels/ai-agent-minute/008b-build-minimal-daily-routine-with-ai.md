@@ -21,7 +21,6 @@ Ask Claude: "Design my minimal viable daily routine -- five to eight specific ac
 
 The goal isn't a perfect day. It's a consistent one. This takes twenty minutes to build and pays back for years. You don't need more motivation -- you need a routine that doesn't require any.
 
-
 See you next time.
 ---
 

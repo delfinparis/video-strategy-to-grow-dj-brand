@@ -48,7 +48,7 @@ Strong niche appeal -- Baby Boomer demographic is massive and underserved in age
 ## Social Copy
 
 ### Instagram
-**Caption:** Downsizers Are the Most Loyal Clients Nobody Serves Well Watch this and save it for later.
+**Caption:** Downsizers Are the Most Loyal Clients Nobody Serves Well
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Strong niche appeal -- Baby Boomer demographic is massive and underserved in age
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Downsizers Are the Most Loyal Clients Nobody Serves Well If this hits home, share it with an agent who needs to hear it.
+**Caption:** Downsizers Are the Most Loyal Clients Nobody Serves Well
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

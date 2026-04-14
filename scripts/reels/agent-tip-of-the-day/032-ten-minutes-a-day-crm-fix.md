@@ -22,9 +22,7 @@ She treats it like brushing her teeth -- boring, non-negotiable, done before she
 
 Set the timer right now. Ten minutes. See if she's right.
 
-
 Do this today: Spend exactly 10 minutes in your CRM. Log your last five conversations. Set three follow-up reminders. That's it.
-
 
 See you next time.
 ---

@@ -21,7 +21,6 @@ Your headline should describe what you help people do -- not your title. Your ab
 
 Give Claude the raw material and it writes every section. Then commit to one post per week. LinkedIn compounds slowly. But it compounds.
 
-
 See you next time.
 ---
 

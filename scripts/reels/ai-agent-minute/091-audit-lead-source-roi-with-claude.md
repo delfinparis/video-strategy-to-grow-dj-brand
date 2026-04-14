@@ -17,12 +17,11 @@ Most agents have no idea which lead sources actually make them money. They're ge
 
 *[AI Agent Minute bumper]*
 
-Could you tell me your cost per closed deal by lead source right now? Zillow, Facebook, farming, referrals? Be honest. Almost nobody can.
+Could you Zillow, Facebook, farming, referrals? Be honest. Almost nobody can.
 
 Here's the fix. Export your last twenty-four months of closed deals from your CRM. Paste it into Claude and type: "Analyze these lead sources by volume, conversion rate, and average commission. Which has the best ROI -- and which should I cut immediately?"
 
 Run this audit tonight.
-
 
 See you next time.
 ---

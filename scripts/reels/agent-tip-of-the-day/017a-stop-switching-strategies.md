@@ -18,9 +18,7 @@ You're not failing because your strategy is wrong. You're failing because you wo
 
 Garrett Maroon built a top 1% referral business in Virginia. He picked ONE lead source in 2018 -- his past client database -- and never looked back. Month six: three referrals. Most agents would've panicked and bought Zillow leads. He didn't. Month twelve: eight. Month eighteen: seventeen. By month twenty-four, he stopped prospecting entirely. The compound effect only kicks in when you stop restarting.
 
-
 Do this today: Write down the ONE lead strategy you'll commit to for the next 90 days. Put it where you'll see it every morning.
-
 
 See you next time.
 ---

@@ -61,7 +61,7 @@ The CTA is too vague -- replace with 'Screenshot your last three client texts an
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The agents doing $50 million a year don't have difficult clients. Watch this and save it for later.
+The agents doing $50 million a year don't have difficult clients.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The agents doing $50 million a year don't have difficult clients. This changes h
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The agents doing $50 million a year don't have difficult clients. If this hits home, share it with an agent who needs to hear it.
+The agents doing $50 million a year don't have difficult clients.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

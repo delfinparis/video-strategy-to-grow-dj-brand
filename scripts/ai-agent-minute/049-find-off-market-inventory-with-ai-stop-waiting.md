@@ -48,7 +48,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Find Off-Market Inventory With AI -- Stop Waiting For MLS Watch this and save it for later.
+**Caption:** Find Off-Market Inventory With AI -- Stop Waiting For MLS
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Find Off-Market Inventory With AI -- Stop Waiting For MLS If this hits home, share it with an agent who needs to hear it.
+**Caption:** Find Off-Market Inventory With AI -- Stop Waiting For MLS
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

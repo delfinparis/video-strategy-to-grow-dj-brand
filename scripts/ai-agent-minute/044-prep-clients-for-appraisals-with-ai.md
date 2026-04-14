@@ -36,7 +36,7 @@ The low appraisal didn't kill the deal. The surprise did. [ON-SCREEN: "The low a
 Here's the fix. Before any appraisal is scheduled, give your buyer a brief "Appraisal Scenarios" guide built with Claude. Type: "Write a plain-English guide for a buyer that covers: what an appraisal actually measures, what happens at value, above value, and below value, and the three specific paths forward if it comes in low -- renegotiate price, cover the gap, or walk away. Make it calm and clear -- not alarmist." [ON-SCREEN: "At value / above / below -- and the 3 paths if it comes in low"]
 Brief your client on this before the appraisal happens. Not after.
 A prepared client doesn't panic. A panicking client can blow up months of work in forty-eight hours.
-Have you ever lost a deal to a low appraisal? Tell me what happened. [ON-SCREEN: Have you ever lost a deal to a low appraisal?]
+Have you ever lost a deal to a low appraisal?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Prep Clients For Appraisals With AI Watch this and save it for later.
+**Caption:** Prep Clients For Appraisals With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Prep Clients For Appraisals With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Prep Clients For Appraisals With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

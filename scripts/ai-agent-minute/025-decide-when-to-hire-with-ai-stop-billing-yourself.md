@@ -49,7 +49,7 @@ The "$15/hr vs $200/hr" hook is concrete, specific, and immediately provocative 
 ## Social Copy
 
 ### Instagram
-**Caption:** Decide When To Hire With AI -- Stop Billing Yourself On The Wrong Work Watch this and save it for later.
+**Caption:** Decide When To Hire With AI -- Stop Billing Yourself On The Wrong Work
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The "$15/hr vs $200/hr" hook is concrete, specific, and immediately provocative 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Decide When To Hire With AI -- Stop Billing Yourself On The Wrong Work If this hits home, share it with an agent who needs to hear it.
+**Caption:** Decide When To Hire With AI -- Stop Billing Yourself On The Wrong Work
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

@@ -61,7 +61,7 @@ Cut 'That's the pattern interrupt' -- it's jargon that breaks the conversational
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your brain is sabotaging every follow-up call you don't make. Watch this and save it for later.
+Your brain is sabotaging every follow-up call you don't make.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your brain is sabotaging every follow-up call you don't make. This changes how y
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your brain is sabotaging every follow-up call you don't make. If this hits home, share it with an agent who needs to hear it.
+Your brain is sabotaging every follow-up call you don't make.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

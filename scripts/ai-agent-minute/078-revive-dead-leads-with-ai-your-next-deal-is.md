@@ -48,7 +48,7 @@ Slightly over word count -- trim the second agitation line if needed on delivery
 ## Social Copy
 
 ### Instagram
-**Caption:** Revive Dead Leads With AI -- Your Next Deal Is Already In Your CRM Watch this and save it for later.
+**Caption:** Revive Dead Leads With AI -- Your Next Deal Is Already In Your CRM
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Slightly over word count -- trim the second agitation line if needed on delivery
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Revive Dead Leads With AI -- Your Next Deal Is Already In Your CRM If this hits home, share it with an agent who needs to hear it.
+**Caption:** Revive Dead Leads With AI -- Your Next Deal Is Already In Your CRM
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

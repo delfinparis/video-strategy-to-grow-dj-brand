@@ -21,9 +21,7 @@ A one-way relationship isn't a relationship. It's a network of people who don't 
 
 Referral relationships are built on giving, not asking. AI helps you systematize the giving.
 
-
 Try this: Open Claude and type "Help me create a 90-day referral partner outreach plan that leads with value before I ever ask for anything."
-
 
 See you next time.
 ---

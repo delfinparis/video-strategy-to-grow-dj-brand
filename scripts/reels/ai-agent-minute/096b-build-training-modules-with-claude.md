@@ -21,7 +21,6 @@ For each one, ask Claude: "Build a structured learning module that includes a on
 
 You build each module once. Your team uses it forever. Every new agent who joins gets it automatically. One afternoon of work.
 
-
 See you next time.
 ---
 

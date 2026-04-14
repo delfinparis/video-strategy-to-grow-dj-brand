@@ -21,7 +21,6 @@ Then spend thirty minutes with Claude building your response library. Prompt: "W
 
 Save them. Customize each one in thirty seconds. Your inbox now takes minutes, not your entire morning.
 
-
 See you next time.
 ---
 

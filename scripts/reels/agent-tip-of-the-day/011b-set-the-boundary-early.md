@@ -18,7 +18,6 @@ The buyer who showed up uninvited. The one who offered cash they didn't have. Th
 
 Before your next buyer consultation, add this question to your intake: "What's the craziest thing you've considered doing to get a house?" Their answer tells you exactly where to set the boundary.
 
-
 See you next time.
 ---
 

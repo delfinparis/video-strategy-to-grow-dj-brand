@@ -21,9 +21,7 @@ Difficult clients are almost always anxious, uninformed, or feeling out of contr
 
 The worst thing you can do is respond in real time, from emotion, with no strategy. All of those put the deal at risk.
 
-
 Here's what I'd do. Open Claude and type: "A client just sent me a frustrating message. Help me draft a calm, professional response." Then paste it in.
-
 
 See you next time.
 ---

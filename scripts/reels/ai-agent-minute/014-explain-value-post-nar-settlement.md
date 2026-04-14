@@ -21,7 +21,6 @@ Ask Claude: "Write a clear, confident explanation of what I do as a buyer's agen
 
 Then have Claude play a skeptical buyer and push back. Practice until it feels like a conversation, not a pitch.
 
-
 See you next time.
 ---
 

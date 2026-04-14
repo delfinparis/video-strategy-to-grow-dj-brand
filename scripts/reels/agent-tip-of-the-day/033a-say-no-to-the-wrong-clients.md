@@ -20,9 +20,7 @@ Jill Preschel has done over two billion in luxury transactions in NYC. A buyer w
 
 Because urgency without clarity is a lawsuit waiting to happen. Budget without alignment is a deal that falls apart at attorney review.
 
-
 Do this today: Think about the last client who drained you. Write down three red flags you ignored. Honor them next time.
-
 
 See you next time.
 ---

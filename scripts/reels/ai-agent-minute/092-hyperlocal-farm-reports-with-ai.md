@@ -23,7 +23,6 @@ Here's the fix. Use Perplexity to pull hyperlocal data -- recent sales, days on 
 
 That's the mailer they put on the refrigerator.
 
-
 See you next time.
 ---
 

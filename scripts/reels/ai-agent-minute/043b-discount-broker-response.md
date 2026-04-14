@@ -21,7 +21,6 @@ Then tell Claude: "Write me a two-minute response to the Redfin objection that's
 
 Practice it until you can deliver it without a single note. The agents who lose to discount brokers talk about price. The agents who win talk about results.
 
-
 See you next time.
 ---
 

@@ -21,9 +21,7 @@ You either work completely alone with no one checking if you prospected today --
 
 Every week without accountability is a week where good intentions stayed intentions.
 
-
 Try this: Open Claude and type "Build me a Monday morning and Friday afternoon check-in that holds me accountable to my weekly goals."
-
 
 See you next time.
 ---

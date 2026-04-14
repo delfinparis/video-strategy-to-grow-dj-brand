@@ -20,7 +20,6 @@ Jill Preschel learned this from private equity partners: after every call, showi
 
 Next conversation today -- send the summary. Three bullets. Thirty seconds.
 
-
 See you next time.
 ---
 

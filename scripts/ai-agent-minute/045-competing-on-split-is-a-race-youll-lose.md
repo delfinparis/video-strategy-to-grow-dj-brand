@@ -35,7 +35,7 @@ Most team leaders give the same recruiting pitch: great leads, solid split, stro
 And here's where it gets harder -- if you can't clearly articulate what makes your team different, neither can your agents when they refer someone to you.
 Here's the fix. Before you write a single recruiting email, answer these questions: What specific type of agent is your team designed to help? What does an agent gain from you that they genuinely can't get elsewhere? What's the career trajectory for someone who joins and excels? What does your culture actually feel like on an average Tuesday afternoon -- not your best day, your average one? Ask Claude to take your honest answers and turn them into a differentiated recruiting pitch that attracts the right agents and naturally filters out the wrong ones. [ON-SCREEN: Prompt → "Here are my answers to four questions about my team. Turn them into a differentiated recruiting pitch."]
 The best recruiting pitch doesn't appeal to every agent -- it speaks so directly to one specific type of agent that they feel like you wrote it for them.
-What's your current one-line answer to "why should I join your team over any other option?" Drop it in the comments. Let's workshop it. [ON-SCREEN: Your one-liner: why join your team?]
+What's your current one-line answer to "why should I join your team over any other option?" Let's workshop it. [ON-SCREEN: Your one-liner: why join your team?]
 "See you next time."
 
 ## Producer Note
@@ -48,7 +48,7 @@ Strong differentiation from Script #81 -- that's onboarding, this is recruiting 
 ## Social Copy
 
 ### Instagram
-**Caption:** Competing on Split Is a Race You'll Lose Watch this and save it for later.
+**Caption:** Competing on Split Is a Race You'll Lose
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Strong differentiation from Script #81 -- that's onboarding, this is recruiting 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Competing on Split Is a Race You'll Lose If this hits home, share it with an agent who needs to hear it.
+**Caption:** Competing on Split Is a Race You'll Lose
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

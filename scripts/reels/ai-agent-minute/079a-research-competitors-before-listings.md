@@ -21,9 +21,7 @@ Sellers interview two or three agents. The ones who win know their competition -
 
 Use Perplexity to research your competition -- their recent sales, Google reviews, average days on market. Show up with intel, not hope.
 
-
 Try this: Open Claude and type "Help me build a pre-listing competitive research checklist so I walk in knowing exactly how to stand out."
-
 
 See you next time.
 ---

@@ -36,7 +36,7 @@ What they're missing is the fifteen-minute habit that separates people who grow 
 Here's exactly what it looks like. Every Friday, give Claude your week's numbers and type: "Compare my actual activity against my weekly targets, identify my single biggest gap, and give me the one adjustment that would have the highest impact next week." [ON-SCREEN: "Compare actual vs. target → identify biggest gap → one adjustment"]
 That's it. Fifteen minutes.
 Fifteen minutes of focused reflection with AI is worth more than fifteen hours of unfocused effort. Start this Friday.
-When's the last time you actually looked at your weekly production numbers? Be honest -- drop it below. [ON-SCREEN: When did you last look at your weekly numbers?]
+When's the last time you actually looked at your weekly production numbers?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ The credibility signal ("hundreds of top producers in twelve years") is earned a
 ## Social Copy
 
 ### Instagram
-**Caption:** Run A Weekly Business Review With AI -- Fifteen Minutes Watch this and save it for later.
+**Caption:** Run A Weekly Business Review With AI -- Fifteen Minutes
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The credibility signal ("hundreds of top producers in twelve years") is earned a
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Run A Weekly Business Review With AI -- Fifteen Minutes If this hits home, share it with an agent who needs to hear it.
+**Caption:** Run A Weekly Business Review With AI -- Fifteen Minutes
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

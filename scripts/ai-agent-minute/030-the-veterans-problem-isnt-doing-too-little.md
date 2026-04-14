@@ -48,7 +48,7 @@ High-virality candidate in the veteran/burned-out segment -- the specificity of 
 ## Social Copy
 
 ### Instagram
-**Caption:** The Veteran's Problem Isn't Doing Too Little Watch this and save it for later.
+**Caption:** The Veteran's Problem Isn't Doing Too Little
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ High-virality candidate in the veteran/burned-out segment -- the specificity of 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** The Veteran's Problem Isn't Doing Too Little If this hits home, share it with an agent who needs to hear it.
+**Caption:** The Veteran's Problem Isn't Doing Too Little
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

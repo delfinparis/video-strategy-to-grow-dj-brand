@@ -23,7 +23,6 @@ Type: "Build me a lead routing decision tree matching these lead types to these 
 
 Your admin runs it every time a new lead comes in. Right lead, right agent. Every time -- not just when someone gets lucky.
 
-
 See you next time.
 ---
 

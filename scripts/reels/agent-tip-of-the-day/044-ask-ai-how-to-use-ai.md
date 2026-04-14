@@ -20,7 +20,6 @@ Michael Thornton does thirty million a year in Wheaton, Illinois. Instead of jus
 
 Open ChatGPT right now. Ask it how to use it better. Actually read the answer.
 
-
 See you next time.
 ---
 

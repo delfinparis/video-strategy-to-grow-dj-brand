@@ -48,7 +48,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Optimize Your Google Business Profile With AI Watch this and save it for later.
+**Caption:** Optimize Your Google Business Profile With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Optimize Your Google Business Profile With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Optimize Your Google Business Profile With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

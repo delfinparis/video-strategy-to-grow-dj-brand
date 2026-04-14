@@ -21,9 +21,7 @@ A Zillow campaign from 2019 that stopped producing. Three networking events you 
 
 Nothing gets cut because stopping anything feels risky -- even the things that haven't worked in years.
 
-
-Here's what I'd do. Open Claude and type: "Here's everything I do in my business. Tell me what a 10-year veteran should have delegated years ago." Then list it all.
-
+Here's what I'd do. Open Claude and type: "Here's everything I do in my business. " Then list it all.
 
 See you next time.
 ---

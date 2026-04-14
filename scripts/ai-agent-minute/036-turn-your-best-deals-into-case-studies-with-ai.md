@@ -35,7 +35,7 @@ Here's what's happening to your most valuable professional experiences. Multiple
 Most agents have an impressive track record that no one knows about. [ON-SCREEN: "Impressive track record that no one knows about"]
 Here's how to fix that. After any complex or successful deal, spend ten minutes talking into your phone: the situation, the challenge, what you did, what the outcome was for the client. Then paste that into Claude and type: "Turn this into a professional case study: one paragraph each for the challenge, my approach, and the result. Add a placeholder for a client quote. Keep it under two hundred fifty words." [ON-SCREEN: "Challenge → approach → result → client quote → under 250 words"]
 Collect ten of these. Use them in listing presentations. Put them on your website. Post them to social media. Real proof closes more deals than any marketing copy ever written.
-What's the most complex deal you've ever closed? Tell me the story in the comments. [ON-SCREEN: What's your most complex deal? Tell me the story.]
+What's the most complex deal you've ever closed?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ The "exists only in your memory" line is the core mirror moment -- accurate and 
 ## Social Copy
 
 ### Instagram
-**Caption:** Turn Your Best Deals Into Case Studies With AI Watch this and save it for later.
+**Caption:** Turn Your Best Deals Into Case Studies With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The "exists only in your memory" line is the core mirror moment -- accurate and 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Turn Your Best Deals Into Case Studies With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Turn Your Best Deals Into Case Studies With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

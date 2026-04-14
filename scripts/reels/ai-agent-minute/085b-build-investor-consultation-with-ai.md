@@ -23,7 +23,6 @@ Then ask Claude: "Build me an investor buyer consultation framework that covers 
 
 Practice presenting one property as an investment analysis. You'll be the only agent who actually showed up speaking their language.
 
-
 See you next time.
 ---
 

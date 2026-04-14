@@ -61,7 +61,7 @@ Hook buries the lead -- lead with the Friday 4pm buyer backing out, then reveal 
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-A 40-year veteran just told me he's never missed a closing. Watch this and save it for later.
+A 40-year veteran just told me he's never missed a closing.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ A 40-year veteran just told me he's never missed a closing. This changes how you
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-A 40-year veteran just told me he's never missed a closing. If this hits home, share it with an agent who needs to hear it.
+A 40-year veteran just told me he's never missed a closing.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

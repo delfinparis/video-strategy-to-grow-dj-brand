@@ -21,9 +21,7 @@ At most showings, you have the same information as your buyer -- because it came
 
 Your buyer looks to you for context. You're reading the brochure. That's not expertise.
 
-
 Try this: Open Claude and type "Build me a 60-second showing prep checklist I can run through on the drive to any property."
-
 
 See you next time.
 ---

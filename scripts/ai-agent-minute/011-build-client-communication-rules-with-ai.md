@@ -35,7 +35,7 @@ Here's what happened to most veteran agents. They built a reputation on being av
 And the cruelest part? The more available you are for everyone, the less present you can be for the clients who actually deserve your best. [ON-SCREEN: "The more available you are for everyone -- the worse you serve your best clients"]
 Here's the fix. Ask Claude to write a "communication expectations" document you send every new client at the start of the relationship. Type: "Write a warm, professional one-page document that sets clear response time standards, defines what constitutes a real emergency versus what can wait, and explains how I work best. It should feel like a system -- not a boundary." [ON-SCREEN: "Write a document that sets my communication standards -- warmly"]
 It's not a boundary. It's a system. And systems are how great agents protect the time that makes them great.
-Have you ever lost a deal because you were too busy managing everyone's small requests? Tell me below. [ON-SCREEN: Have you ever lost a deal from being too spread thin?]
+Have you ever lost a deal because you were too busy managing everyone's small requests?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ Runs slightly long -- trim the "cruelest part" sentence if needed. The "not a bo
 ## Social Copy
 
 ### Instagram
-**Caption:** Build Client Communication Rules With AI Watch this and save it for later.
+**Caption:** Build Client Communication Rules With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Runs slightly long -- trim the "cruelest part" sentence if needed. The "not a bo
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build Client Communication Rules With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build Client Communication Rules With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

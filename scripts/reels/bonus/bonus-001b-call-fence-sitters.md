@@ -28,7 +28,7 @@ Five fence-sitters. Call them today.
 ## Social Copy
 
 ### Instagram
-**Caption:** Rates just dropped below six percent. Watch this and save it for later.
+**Caption:** Rates just dropped below six percent.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #RealEstateMarketing #TopProducer #RealEstateAI #AIforRealtors #RealEstateTechnology #RealEstateAdvice
 
 ### TikTok
@@ -41,7 +41,7 @@ Five fence-sitters. Call them today.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #RealEstateMarketing
 
 ### Facebook
-**Caption:** Rates just dropped below six percent. If this hits home, share it with an agent who needs to hear it.
+**Caption:** Rates just dropped below six percent.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer #RealEstateMarketing
 
 ### LinkedIn

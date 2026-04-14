@@ -21,7 +21,6 @@ Friday, come back and tell Claude exactly what you did. Prompt: "Give me honest,
 
 No judgment. No coaching fees. Just clarity. You don't need a cheerleader. You need something that remembers what you promised and asks you about it. Claude does that at zero cost.
 
-
 See you next time.
 ---
 

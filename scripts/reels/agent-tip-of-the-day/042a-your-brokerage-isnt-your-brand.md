@@ -18,9 +18,7 @@ Your brokerage logo isn't closing deals. You are.
 
 Chris Linsell, real estate tech strategist, said the quiet part out loud: Your clients do not care what brokerage you're part of. They remember who you are. Think about your last five closings. Did anyone choose you because of your broker's name? Or because you answered the phone, knew the neighborhood, and made them feel heard? The logo on your card is a placeholder. Your name is the brand.
 
-
 Do this tonight: Ask yourself -- if you left your brokerage tomorrow, would your clients follow you? If not, your personal brand needs work.
-
 
 See you next time.
 ---

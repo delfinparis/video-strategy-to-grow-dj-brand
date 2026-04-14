@@ -21,9 +21,7 @@ Most agents end the day by just... stopping. No shutdown ritual. Thirty open loo
 
 You're not carrying work home. You're carrying the feeling that you're always behind.
 
-
 Try this: Open Claude and type "Help me identify which parts of my real estate business need better systems instead of more effort."
-
 
 See you next time.
 ---

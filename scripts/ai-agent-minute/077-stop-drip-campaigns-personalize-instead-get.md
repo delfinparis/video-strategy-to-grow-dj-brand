@@ -49,7 +49,7 @@ Confirm the comment-to-DM delivery mechanism before filming -- do you have a too
 ## Social Copy
 
 ### Instagram
-**Caption:** Stop Drip Campaigns -- Personalize Instead -- Get Responses Watch this and save it for later.
+**Caption:** Stop Drip Campaigns -- Personalize Instead -- Get Responses
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Confirm the comment-to-DM delivery mechanism before filming -- do you have a too
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Stop Drip Campaigns -- Personalize Instead -- Get Responses If this hits home, share it with an agent who needs to hear it.
+**Caption:** Stop Drip Campaigns -- Personalize Instead -- Get Responses
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

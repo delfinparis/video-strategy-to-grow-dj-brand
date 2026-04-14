@@ -21,7 +21,6 @@ Sit down with Claude and type: "Help me build a ninety-day content calendar. My 
 
 Print it. Put it on your wall. Execute it. Content that compounds is content that was planned. Spontaneous posts generate spontaneous results.
 
-
 See you next time.
 ---
 

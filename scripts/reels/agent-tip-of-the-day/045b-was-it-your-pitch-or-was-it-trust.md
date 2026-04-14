@@ -18,7 +18,6 @@ What if you stopped trying to get better at convincing people and started gettin
 
 Pull out your last three lost deals. Be honest: was it your pitch that failed or was trust never built in the first place? Was there a gap between first contact and your proposal? Did you skip the rapport call? That's the work nobody teaches you. And it's the only work that matters.
 
-
 See you next time.
 ---
 

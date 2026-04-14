@@ -23,7 +23,6 @@ The agents who prospect every day and review their pipeline without fail haven't
 
 Here's what I'd do. Open Claude and say "Audit my daily routine and tell me where I'm relying on willpower instead of systems." The answer will surprise you.
 
-
 See you next time.
 ---
 

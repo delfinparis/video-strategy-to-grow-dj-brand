@@ -20,9 +20,7 @@ Jay Cannone -- 40 years in luxury, top 1% every single year -- could've hidden u
 
 Then he told me: "Show up. Do the work. Be straight. Do that long enough, and success becomes inevitable."
 
-
 Do this right now: Think about the difficult conversation you've been avoiding. Send the text. Make the call. Waiting only makes it worse.
-
 
 See you next time.
 ---

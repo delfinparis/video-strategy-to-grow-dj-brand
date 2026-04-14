@@ -21,7 +21,6 @@ Here's the ninety-second fix. Right after any call or showing, record a sixty-se
 
 Your database is your retirement account. Treat every note like a deposit.
 
-
 See you next time.
 ---
 

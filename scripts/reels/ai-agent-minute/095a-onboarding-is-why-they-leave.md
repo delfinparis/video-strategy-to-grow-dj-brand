@@ -21,9 +21,7 @@ Most team leaders spend thousands recruiting an agent and almost nothing buildin
 
 And here's the part most leaders miss -- the agent doesn't blame themselves when they leave. They blame you.
 
-
 Try this: Open Claude and type "Build me a 90-day new agent onboarding plan that actually keeps people -- not just a handbook they'll never open."
-
 
 See you next time.
 ---

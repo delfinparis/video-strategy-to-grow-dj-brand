@@ -61,7 +61,7 @@ The CTA is chef's kiss -- consider tightening the setup by cutting one sentence 
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Most agents chase everyone. Watch this and save it for later.
+Most agents chase everyone.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Most agents chase everyone. This changes how you think about your business.
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Most agents chase everyone. If this hits home, share it with an agent who needs to hear it.
+Most agents chase everyone.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

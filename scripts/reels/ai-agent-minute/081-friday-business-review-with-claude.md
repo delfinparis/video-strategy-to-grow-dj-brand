@@ -23,7 +23,6 @@ Every Friday, give Claude your week's numbers and type: "Compare my actual activ
 
 Fifteen minutes of focused reflection beats fifteen hours of unfocused effort.
 
-
 See you next time.
 ---
 

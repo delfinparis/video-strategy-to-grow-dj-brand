@@ -21,7 +21,6 @@ Here's what top listing agents do the night before. Give Claude the property add
 
 Walk in knowing what they'll push back on -- with your answer already ready. Fifteen minutes of prep. Highest-ROI fifteen minutes in listing sales.
 
-
 See you next time.
 ---
 

@@ -61,7 +61,7 @@ The CTA is perfect and specific -- only weakness is the 'readiness vs reps' line
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-You don't need another course. Watch this and save it for later.
+You don't need another course.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ You don't need another course. This changes how you think about your business.
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-You don't need another course. If this hits home, share it with an agent who needs to hear it.
+You don't need another course.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

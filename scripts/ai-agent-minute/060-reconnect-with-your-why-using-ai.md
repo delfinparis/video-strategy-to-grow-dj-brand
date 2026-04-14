@@ -36,7 +36,7 @@ Most agents push through on willpower. The ones who stay in the game for decades
 Here's how to find it. Set aside thirty minutes with Claude for what I call a "why excavation." Type: "Ask me these four questions and then help me turn my answers into a personal mission statement for my business: Why did I get into real estate? What does success in this business actually give me -- specifically? What would I regret most if I quit? Who am I doing this for?" [ON-SCREEN: "4 questions → your personal mission statement"]
 Ask Claude to turn your answers into one paragraph. Print it. Put it somewhere you'll see it on the hard days.
 Clarity about your why doesn't make hard days easy. It makes them worthwhile.
-When's the last time you actually thought about why you're doing this? Tell me below. [ON-SCREEN: When did you last think about why you're doing this?]
+When's the last time you actually thought about why you're doing this?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Runs slightly long -- trim "year three, or year five, or year ten" to "year thre
 ## Social Copy
 
 ### Instagram
-**Caption:** Reconnect With Your Why Using AI Watch this and save it for later.
+**Caption:** Reconnect With Your Why Using AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Runs slightly long -- trim "year three, or year five, or year ten" to "year thre
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Reconnect With Your Why Using AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Reconnect With Your Why Using AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

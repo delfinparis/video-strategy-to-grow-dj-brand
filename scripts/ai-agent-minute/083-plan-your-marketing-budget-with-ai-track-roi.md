@@ -49,7 +49,7 @@ The gym membership analogy is one of the best in the entire series -- immediatel
 ## Social Copy
 
 ### Instagram
-**Caption:** Plan Your Marketing Budget With AI -- Track ROI Watch this and save it for later.
+**Caption:** Plan Your Marketing Budget With AI -- Track ROI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The gym membership analogy is one of the best in the entire series -- immediatel
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Plan Your Marketing Budget With AI -- Track ROI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Plan Your Marketing Budget With AI -- Track ROI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

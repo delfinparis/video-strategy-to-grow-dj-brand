@@ -21,9 +21,7 @@ Multiple-offer battles, deals that nearly fell apart, creative financing solutio
 
 You can't show them at a listing appointment. You can't put them on your website. They're invisible.
 
-
 Here's what I'd do. Open Claude and type: "Help me turn my last closed deal into a case study I can use in listing presentations."
-
 
 See you next time.
 ---

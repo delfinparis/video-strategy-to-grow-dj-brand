@@ -21,7 +21,6 @@ Give Claude your answers and ask: "Turn these into a differentiated recruiting p
 
 The best pitch doesn't appeal to every agent -- it speaks so directly to one type that they feel like you wrote it for them.
 
-
 See you next time.
 ---
 

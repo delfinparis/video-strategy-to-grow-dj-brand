@@ -36,7 +36,7 @@ Most agents start the year with intentions. The ones who grow start the year wit
 Here's what the plan looks like. Spend one hour with Claude in December or January. Type: "Run me through a complete annual business planning session. Guide me through: reviewing last year's numbers, setting this year's income goal and required deal volume, identifying my top three lead sources, planning my marketing calendar with budget, naming the one skill gap I need to close, and building a monthly milestone schedule I can review at the end of each month. Ask me for the data as you go." [ON-SCREEN: "Last year's numbers → this year's goal → lead sources → marketing plan → skill gap → monthly milestones"]
 Print what you build. Review it monthly. Adjust it quarterly.
 A one-hour investment in planning at the start of the year is worth more than a hundred hours of unfocused effort throughout it.
-Do you have a written business plan for this year? Yes, in progress, or haven't started -- drop your answer. [ON-SCREEN: Written business plan this year -- yes, in progress, or no?]
+Do you have a written business plan for this year? Yes, in progress, or haven't started --
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Runs long -- trim "By December, they're looking at their production and genuinel
 ## Social Copy
 
 ### Instagram
-**Caption:** Build Your Annual Business Plan With AI -- Not Wing It Watch this and save it for later.
+**Caption:** Build Your Annual Business Plan With AI -- Not Wing It
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Runs long -- trim "By December, they're looking at their production and genuinel
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build Your Annual Business Plan With AI -- Not Wing It If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build Your Annual Business Plan With AI -- Not Wing It
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

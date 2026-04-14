@@ -61,7 +61,7 @@ Give an actual example of a bad one-sentence prompt vs. a good seven-sentence pr
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your AI listings sound robotic because you're writing one sentence when you need seven. Watch this and save it for later.
+Your AI listings sound robotic because you're writing one sentence when you need seven.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your AI listings sound robotic because you're writing one sentence when you need
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your AI listings sound robotic because you're writing one sentence when you need seven. If this hits home, share it with an agent who needs to hear it.
+Your AI listings sound robotic because you're writing one sentence when you need seven.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

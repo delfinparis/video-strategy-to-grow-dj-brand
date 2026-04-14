@@ -23,7 +23,6 @@ List every tool you're subscribed to. Give it to Claude and type: "For a solo ag
 
 Then actually cancel what it tells you to cut.
 
-
 See you next time.
 ---
 

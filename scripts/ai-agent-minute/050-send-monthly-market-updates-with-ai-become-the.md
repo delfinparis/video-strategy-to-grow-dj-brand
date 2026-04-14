@@ -35,7 +35,7 @@ Here's what's happening to your database right now. Your past clients and sphere
 The agent who becomes the most trusted source of local market information gets the most calls when it's time to buy or sell. [ON-SCREEN: "Most trusted source = most calls when it's time to move"]
 Here's how to become that agent in twenty minutes a month. Pull your local MLS data -- average sale price, days on market, list-to-sale ratio, active inventory. Give it to Claude and type: "Write a two-paragraph market update for homeowners in [your market] that explains what these numbers mean for a seller and a buyer. Make it conversational, not statistical. End with one specific actionable insight." [ON-SCREEN: "Conversational. Not statistical. One actionable insight."]
 Send it to your entire database. Every month. Without fail.
-Are you sending regular market updates to your database right now? Yes or no -- drop it below. [ON-SCREEN: Are you sending monthly market updates?]
+Are you sending regular market updates to your database right now? Yes or no --
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ Runs slightly long -- trim "without fail" section or the cable news description 
 ## Social Copy
 
 ### Instagram
-**Caption:** Send Monthly Market Updates With AI -- Become The Source Watch this and save it for later.
+**Caption:** Send Monthly Market Updates With AI -- Become The Source
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Runs slightly long -- trim "without fail" section or the cable news description 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Send Monthly Market Updates With AI -- Become The Source If this hits home, share it with an agent who needs to hear it.
+**Caption:** Send Monthly Market Updates With AI -- Become The Source
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

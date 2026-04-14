@@ -18,7 +18,6 @@ The question isn't whether the market slows down. It's whether you do. Every tim
 
 Here's your move: Open your CRM. Pull every client who closed in the last twelve months. Send them a personal voice note -- fifteen seconds -- just checking in. Not selling. Just showing up. Do it before lunch. That's separation.
 
-
 See you next time.
 ---
 

@@ -21,7 +21,6 @@ Once a month, pull current rate data from Perplexity. Bring it into Claude and t
 
 Practice those frameworks until they're automatic. Your job isn't to predict rates -- it's to help clients decide with real information.
 
-
 See you next time.
 ---
 

@@ -61,7 +61,7 @@ Near-perfect -- only tweak would be to include the exact AI prompt format in the
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-You're about to send that lowball offer. Watch this and save it for later.
+You're about to send that lowball offer.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ You're about to send that lowball offer. This changes how you think about your b
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-You're about to send that lowball offer. If this hits home, share it with an agent who needs to hear it.
+You're about to send that lowball offer.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

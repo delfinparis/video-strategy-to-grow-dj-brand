@@ -20,7 +20,6 @@ Tomorrow morning, before you check email, open your CRM. Find three clients you 
 
 One call. Tomorrow. Do it.
 
-
 See you next time.
 ---
 

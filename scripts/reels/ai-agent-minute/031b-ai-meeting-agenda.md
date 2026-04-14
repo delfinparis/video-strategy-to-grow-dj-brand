@@ -21,7 +21,6 @@ Prompt: "Generate a forty-five minute meeting agenda with: a wins celebration se
 
 Send it the day before so everyone comes prepared. Run to the agenda. End on time. A well-run meeting multiplies productivity. A bad one drains it.
 
-
 See you next time.
 ---
 

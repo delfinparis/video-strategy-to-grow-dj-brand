@@ -21,9 +21,7 @@ Most agents stay informed by accident. They catch a headline on their phone. The
 
 The agent who always has a smart take on the latest market news becomes the agent clients call first. Not just when they're ready to transact -- whenever they have a question.
 
-
 Here's what I'd do. Open Claude and type: "Build me a Monday morning market briefing -- the five things I need to know before my first client call each week."
-
 
 See you next time.
 ---

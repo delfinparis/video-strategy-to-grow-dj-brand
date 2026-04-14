@@ -61,7 +61,7 @@ Perfect as-is -- timely, specific, actionable, and the quote directly supports t
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Insurance is killing more deals than bad inspections right now. Watch this and save it for later.
+Insurance is killing more deals than bad inspections right now.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Insurance is killing more deals than bad inspections right now. This changes how
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Insurance is killing more deals than bad inspections right now. If this hits home, share it with an agent who needs to hear it.
+Insurance is killing more deals than bad inspections right now.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

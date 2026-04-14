@@ -21,7 +21,6 @@ Give Claude the property's key features, the neighborhood, the ideal buyer, and 
 
 Pick the best. Personalize it. Done in five minutes instead of forty-five. Buyers buy stories before they buy houses.
 
-
 See you next time.
 ---
 

@@ -48,7 +48,7 @@ The "farm a neighborhood vs. become the neighborhood" contrast line is the best 
 ## Social Copy
 
 ### Instagram
-**Caption:** Write Hyperlocal Farm Reports With AI -- Be The Mailbox Expert Watch this and save it for later.
+**Caption:** Write Hyperlocal Farm Reports With AI -- Be The Mailbox Expert
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The "farm a neighborhood vs. become the neighborhood" contrast line is the best 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Write Hyperlocal Farm Reports With AI -- Be The Mailbox Expert If this hits home, share it with an agent who needs to hear it.
+**Caption:** Write Hyperlocal Farm Reports With AI -- Be The Mailbox Expert
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

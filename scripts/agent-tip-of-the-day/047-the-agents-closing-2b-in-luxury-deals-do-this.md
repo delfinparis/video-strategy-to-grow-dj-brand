@@ -61,7 +61,7 @@ Show the exact three-bullet template Jill uses so they can copy-paste it immedia
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The agents closing $2B+ in luxury deals do this after every single conversation. Watch this and save it for later.
+The agents closing $2B+ in luxury deals do this after every single conversation.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The agents closing $2B+ in luxury deals do this after every single conversation.
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The agents closing $2B+ in luxury deals do this after every single conversation. If this hits home, share it with an agent who needs to hear it.
+The agents closing $2B+ in luxury deals do this after every single conversation.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

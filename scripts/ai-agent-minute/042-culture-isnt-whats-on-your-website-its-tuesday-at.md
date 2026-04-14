@@ -48,7 +48,7 @@ The hook is one of the most quotable lines in the batch -- high share potential 
 ## Social Copy
 
 ### Instagram
-**Caption:** Culture Isn't What's On Your Website. It's Tuesday at 3pm. Watch this and save it for later.
+**Caption:** Culture Isn't What's On Your Website. It's Tuesday at 3pm.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The hook is one of the most quotable lines in the batch -- high share potential 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Culture Isn't What's On Your Website. It's Tuesday at 3pm. If this hits home, share it with an agent who needs to hear it.
+**Caption:** Culture Isn't What's On Your Website. It's Tuesday at 3pm.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

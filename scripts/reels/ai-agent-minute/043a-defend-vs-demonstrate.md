@@ -23,9 +23,7 @@ You should never defend your commission. You should make the value of full repre
 
 Most agents defend what they charge. Top producers demonstrate what they deliver.
 
-
 Try this: Open Claude and type "Help me build a value demonstration script for when a prospect says they're considering a discount broker."
-
 
 See you next time.
 ---

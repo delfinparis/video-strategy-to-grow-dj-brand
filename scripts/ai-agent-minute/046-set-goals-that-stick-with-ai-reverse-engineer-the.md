@@ -36,11 +36,11 @@ And hope is not a production strategy. [ON-SCREEN: "Hope is not a production str
 Here's how to turn a wish into a math equation. Tell Claude your income goal for the year and your average commission. Then type: "Calculate exactly how many closed deals, active clients, appointments, and prospecting calls I need per month, per week, and per day to hit this number. Then build me a simple weekly scorecard I can fill out every Friday to see if I'm on pace." [ON-SCREEN: "Daily calls → weekly appointments → monthly deals → annual goal"]
 Now your goal isn't on a whiteboard. It's in your calendar. Every day.
 A goal without a daily activity attached to it is just an expensive disappointment. Build yours with AI this week.
-What's your deal goal for this year? Drop the number below -- let's make it real. [ON-SCREEN: What's your deal goal for this year?]
+What's your deal goal for this year?
 See you next time.
 
 ## Producer Note
-"Hope is not a production strategy" is punchy and quotable -- consider making it the on-screen callout. "Drop the number below" CTA is highly specific and will generate clean, countable engagement. Pairs with Scripts #20 and #79 as a planning trilogy.
+"Hope is not a production strategy" is punchy and quotable -- consider making it the on-screen callout. " Pairs with Scripts #20 and #79 as a planning trilogy.
 
 **Word Count:** 222 | **Estimated Duration:** ~104 seconds
 
@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Set Goals That Stick With AI -- Reverse-Engineer The Number Watch this and save it for later.
+**Caption:** Set Goals That Stick With AI -- Reverse-Engineer The Number
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Set Goals That Stick With AI -- Reverse-Engineer The Number If this hits home, share it with an agent who needs to hear it.
+**Caption:** Set Goals That Stick With AI -- Reverse-Engineer The Number
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

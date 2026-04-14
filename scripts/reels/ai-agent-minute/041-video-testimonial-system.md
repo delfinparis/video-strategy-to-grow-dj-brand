@@ -23,7 +23,6 @@ Fix it. Tell Claude: "Write a post-closing message asking for a sixty-second pho
 
 Giving clients a script isn't cheesy -- it's a relief. They want to help. Just tell them how.
 
-
 See you next time.
 ---
 

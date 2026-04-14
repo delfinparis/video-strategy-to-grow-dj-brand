@@ -20,7 +20,6 @@ Chase Craig -- 6,000 transactions, $2 billion in sales -- started at twelve buck
 
 Here's the whole system: Five prospecting calls before you check email tomorrow. That's it. Start there.
 
-
 See you next time.
 ---
 

@@ -20,7 +20,6 @@ Bari Mill went from teacher to top Chicago producer in six years by working narr
 
 Do this today: Pick one group you already know -- teachers, nurses, tech. Find one networking event for them this month. Go listen.
 
-
 See you next time.
 ---
 

@@ -61,7 +61,7 @@ The 3% stat feels made up -- cut it and go straight to 'Chris Linsell just dropp
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Every agent has access to the same MLS data. Watch this and save it for later.
+Every agent has access to the same MLS data.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Every agent has access to the same MLS data. This changes how you think about yo
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Every agent has access to the same MLS data. If this hits home, share it with an agent who needs to hear it.
+Every agent has access to the same MLS data.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

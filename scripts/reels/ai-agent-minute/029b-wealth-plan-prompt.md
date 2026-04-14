@@ -23,7 +23,6 @@ Prompt: "Outline the minimum I should set aside for taxes each month, a basic in
 
 This is general direction, not financial advice -- but it's the conversation most agents never start.
 
-
 See you next time.
 ---
 

@@ -23,7 +23,6 @@ Most agents use AI to replace their voice. Top producers use it to amplify it. T
 
 Here's the fix: Paste five of your own emails or posts into Claude and say "Learn my voice, then write my next market update in that style." Night and day difference.
 
-
 See you next time.
 ---
 

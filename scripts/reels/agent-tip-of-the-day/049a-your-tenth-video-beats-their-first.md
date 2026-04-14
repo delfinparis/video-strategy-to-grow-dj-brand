@@ -18,9 +18,7 @@ Your tenth video will beat someone else's polished first one. Here's why you hav
 
 Kim Rittberg showed me one agent's progression. Video one: stiff, generic, "homes are selling fast." Video five: still awkward, but she mentioned a traffic pattern killing showings on Maple Street. Video twelve: she's walking a buyer through why that traffic creates opportunity three blocks over. Same person. Twelve reps. Video one, you're thinking "I should do this." Video twelve, you're thinking "I'm the only agent who's going to explain this."
 
-
 Do this today: Record a video. Any video. It doesn't have to be good -- it just has to exist. Your tenth will beat everyone else's first.
-
 
 See you next time.
 ---

@@ -21,7 +21,6 @@ Then type: "Draft a personalized outreach letter that acknowledges their frustra
 
 Then ask for a follow-up call script that opens with a question -- not a pitch. Thoughtful beats confident every time with expired sellers.
 
-
 See you next time.
 ---
 

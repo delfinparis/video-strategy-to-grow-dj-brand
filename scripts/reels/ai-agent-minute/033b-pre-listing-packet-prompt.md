@@ -21,7 +21,6 @@ Prompt: "Create a pre-listing packet with: my bio written as a compelling story 
 
 The seller reads this before you arrive. By the time you ring the doorbell, they already feel like they know you. That's a completely different appointment.
 
-
 See you next time.
 ---
 

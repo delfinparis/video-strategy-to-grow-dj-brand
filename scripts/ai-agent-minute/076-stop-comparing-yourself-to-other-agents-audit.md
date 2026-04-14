@@ -48,7 +48,7 @@ The CTA here is unusually good -- asking "what's better" rather than asking abou
 ## Social Copy
 
 ### Instagram
-**Caption:** Stop Comparing Yourself To Other Agents -- Audit Your Own Progress Watch this and save it for later.
+**Caption:** Stop Comparing Yourself To Other Agents -- Audit Your Own Progress
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The CTA here is unusually good -- asking "what's better" rather than asking abou
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Stop Comparing Yourself To Other Agents -- Audit Your Own Progress If this hits home, share it with an agent who needs to hear it.
+**Caption:** Stop Comparing Yourself To Other Agents -- Audit Your Own Progress
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

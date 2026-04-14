@@ -35,7 +35,7 @@ Here's the problem. Memorizing a script is not the same as practicing one. Real 
 And here's what most agents never figure out -- practicing out loud is the only thing that fixes it. [ON-SCREEN: "Practicing out loud is the only thing that fixes it"]
 Here's what works. Open Claude and type: "Act as a skeptical FSBO owner who's had three bad experiences with real estate agents. I'm about to cold call you. Push back hard and stay in character." Then run the call out loud. Ten times. Claude will throw objections you've never heard -- so when you pick up the real phone, nothing surprises you. [ON-SCREEN: "Act as a skeptical FSBO -- push back hard and stay in character"]
 Confidence on cold calls isn't talent. It's reps. AI just made unlimited practice free.
-Drop your biggest cold call fear in the comments -- I'll tackle it in an upcoming video. [ON-SCREEN: Drop your biggest cold call fear below]
+
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ Top-5 candidate -- film in week one. The "unlimited practice free" line will be 
 ## Social Copy
 
 ### Instagram
-**Caption:** Practice Cold Calls With AI -- Stop Freezing Watch this and save it for later.
+**Caption:** Practice Cold Calls With AI -- Stop Freezing
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Top-5 candidate -- film in week one. The "unlimited practice free" line will be 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Practice Cold Calls With AI -- Stop Freezing If this hits home, share it with an agent who needs to hear it.
+**Caption:** Practice Cold Calls With AI -- Stop Freezing
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

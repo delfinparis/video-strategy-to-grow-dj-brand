@@ -20,7 +20,6 @@ Mindset coach Paul Salter: "When something said by another person triggers you, 
 
 What criticism have you been fighting the hardest? That's your next breakthrough. Start there.
 
-
 See you next time.
 ---
 

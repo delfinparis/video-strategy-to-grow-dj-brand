@@ -23,7 +23,6 @@ Then tell Claude: "Turn these answers into a bio that reads like a real person w
 
 Your bio isn't a resume. It's your first sales conversation. Make it count.
 
-
 See you next time.
 ---
 

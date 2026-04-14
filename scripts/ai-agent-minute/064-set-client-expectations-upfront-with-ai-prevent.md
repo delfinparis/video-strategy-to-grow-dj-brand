@@ -48,7 +48,7 @@ Runs slightly long -- trim "for years" from the hook or the "three most common s
 ## Social Copy
 
 ### Instagram
-**Caption:** Set Client Expectations Upfront With AI -- Prevent The Nightmare Client Watch this and save it for later.
+**Caption:** Set Client Expectations Upfront With AI -- Prevent The Nightmare Client
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Runs slightly long -- trim "for years" from the hook or the "three most common s
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Set Client Expectations Upfront With AI -- Prevent The Nightmare Client If this hits home, share it with an agent who needs to hear it.
+**Caption:** Set Client Expectations Upfront With AI -- Prevent The Nightmare Client
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

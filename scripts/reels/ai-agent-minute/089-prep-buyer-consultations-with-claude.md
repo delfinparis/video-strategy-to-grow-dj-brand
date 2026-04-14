@@ -21,7 +21,6 @@ Before any buyer consultation, give Claude their profile -- first-time buyer, pr
 
 Walk in with real structure. Not a blank stare. Save yourself thirty hours of frustration.
 
-
 See you next time.
 ---
 

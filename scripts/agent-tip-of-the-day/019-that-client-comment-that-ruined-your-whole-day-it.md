@@ -61,7 +61,7 @@ The 'can't fix what you won't acknowledge' line is the only cliché in an otherw
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-That client comment that ruined your whole day? Watch this and save it for later.
+That client comment that ruined your whole day?
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ That client comment that ruined your whole day? This changes how you think about
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-That client comment that ruined your whole day? If this hits home, share it with an agent who needs to hear it.
+That client comment that ruined your whole day?
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

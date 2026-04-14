@@ -61,7 +61,7 @@ The hook is strong but generic -- open with the specific tactic instead: 'Filter
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your competition is about to disappear for six weeks. Watch this and save it for later.
+Your competition is about to disappear for six weeks.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your competition is about to disappear for six weeks. This changes how you think
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your competition is about to disappear for six weeks. If this hits home, share it with an agent who needs to hear it.
+Your competition is about to disappear for six weeks.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

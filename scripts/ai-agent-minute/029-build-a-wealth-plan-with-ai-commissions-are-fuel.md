@@ -48,7 +48,7 @@ The "I've seen it firsthand with agents I've interviewed" credibility signal is 
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Wealth Plan With AI -- Commissions Are Fuel, Not Destination Watch this and save it for later.
+**Caption:** Build A Wealth Plan With AI -- Commissions Are Fuel, Not Destination
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The "I've seen it firsthand with agents I've interviewed" credibility signal is 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Wealth Plan With AI -- Commissions Are Fuel, Not Destination If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Wealth Plan With AI -- Commissions Are Fuel, Not Destination
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

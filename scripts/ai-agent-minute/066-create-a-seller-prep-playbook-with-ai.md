@@ -49,7 +49,7 @@ Runs slightly long -- trim "and everyone wonders why it's sitting" if needed. Th
 ## Social Copy
 
 ### Instagram
-**Caption:** Create A Seller Prep Playbook With AI Watch this and save it for later.
+**Caption:** Create A Seller Prep Playbook With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Runs slightly long -- trim "and everyone wonders why it's sitting" if needed. Th
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Create A Seller Prep Playbook With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Create A Seller Prep Playbook With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

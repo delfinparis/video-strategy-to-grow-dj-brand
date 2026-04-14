@@ -20,7 +20,6 @@ Connie Mahan -- REALTOR of the Year, broker owner in Central Florida -- closed h
 
 Do this tomorrow: Call one expired listing. It doesn't matter if the script is perfect. Confidence comes after the call, not before.
 
-
 See you next time.
 ---
 

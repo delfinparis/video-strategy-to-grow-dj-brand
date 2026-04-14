@@ -20,7 +20,6 @@ Tonight: open Instagram. Record one 30-second video walking through a neighborho
 
 If you get three DMs by tomorrow, you just found your Gen Z strategy.
 
-
 See you next time.
 ---
 

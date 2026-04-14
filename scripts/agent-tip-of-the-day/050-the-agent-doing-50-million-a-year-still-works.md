@@ -61,7 +61,7 @@ The CTA is too vague -- tell them exactly what to do differently on their next s
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The agent doing $50 million a year still works rentals. Watch this and save it for later.
+The agent doing $50 million a year still works rentals.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The agent doing $50 million a year still works rentals. This changes how you thi
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The agent doing $50 million a year still works rentals. If this hits home, share it with an agent who needs to hear it.
+The agent doing $50 million a year still works rentals.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

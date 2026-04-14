@@ -18,9 +18,7 @@ Circumstances don't kill your business. Your lack of commitment does.
 
 Mindset coach Paul Salter says slow periods are the litmus test. Interested agents say "I'll work hard -- unless I'm tired. Unless things slow down. Unless I don't feel like it." They negotiate with circumstances. Committed agents? Paul puts it this way: "If you're committed, the slow months, the weather, other people's actions leave you absolutely unfazed." Committed people don't negotiate with circumstances. They don't need perfect conditions. They show up. Especially when nobody else does.
 
-
 Do this tomorrow: Make five prospecting calls before 10 AM. Interested agents talk about it. Committed agents do it before breakfast.
-
 
 See you next time.
 ---

@@ -48,7 +48,7 @@ Solid but the least viral of the team leader batch -- consider pairing it in a t
 ## Social Copy
 
 ### Instagram
-**Caption:** A Meeting Is Not Training. Stop Confusing Them. Watch this and save it for later.
+**Caption:** A Meeting Is Not Training. Stop Confusing Them.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Solid but the least viral of the team leader batch -- consider pairing it in a t
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** A Meeting Is Not Training. Stop Confusing Them. If this hits home, share it with an agent who needs to hear it.
+**Caption:** A Meeting Is Not Training. Stop Confusing Them.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

@@ -21,7 +21,6 @@ Prompt: "Write a review request system that includes: optimal timing for each as
 
 That one-sentence prompt is the secret -- most people don't know what to say. Give them that and the review practically writes itself.
 
-
 See you next time.
 ---
 

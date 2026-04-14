@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Use AI As Your Accountability Partner -- Monday Check-In Watch this and save it for later.
+**Caption:** Use AI As Your Accountability Partner -- Monday Check-In
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Use AI As Your Accountability Partner -- Monday Check-In If this hits home, share it with an agent who needs to hear it.
+**Caption:** Use AI As Your Accountability Partner -- Monday Check-In
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

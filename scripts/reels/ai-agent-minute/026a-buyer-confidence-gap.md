@@ -21,9 +21,7 @@ Most agents spend all their time showing homes and zero time explaining inspecti
 
 The fix? Build their confidence before they need it.
 
-
 Here's what I'd do. Open Claude and type: "Help me create a buyer education series that builds confidence before the first showing."
-
 
 See you next time.
 ---

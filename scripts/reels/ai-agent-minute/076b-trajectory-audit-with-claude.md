@@ -21,7 +21,6 @@ Then type: "Write me a progress narrative -- a paragraph showing how far I've ac
 
 Read that instead of scrolling. The only timeline that matters is yours.
 
-
 See you next time.
 ---
 

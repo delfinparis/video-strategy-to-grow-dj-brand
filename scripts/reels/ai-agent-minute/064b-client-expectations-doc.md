@@ -21,7 +21,6 @@ Ask Claude: "Write a warm, professional document covering how I communicate and 
 
 Send it before the first showing. Setting expectations isn't defensive. It's the first act of excellent client service.
 
-
 See you next time.
 ---
 

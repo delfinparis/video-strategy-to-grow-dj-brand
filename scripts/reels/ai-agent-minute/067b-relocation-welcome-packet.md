@@ -21,7 +21,6 @@ Type: "Build a comprehensive guide for a buyer relocating to my city. Include ne
 
 Email it the day they reach out. They'll call every other agent -- and send this to you. That one packet wins the client before you ever meet them.
 
-
 See you next time.
 ---
 

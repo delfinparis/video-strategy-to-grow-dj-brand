@@ -23,7 +23,6 @@ Here's the fix. Give Claude your last twelve months of income and expenses. Type
 
 Then make one decision based on what you find. Just one. Revenue is vanity. Profit is sanity.
 
-
 See you next time.
 ---
 

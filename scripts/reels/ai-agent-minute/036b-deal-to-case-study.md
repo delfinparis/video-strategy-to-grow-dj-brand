@@ -21,7 +21,6 @@ Paste it into Claude: "Turn this into a professional case study -- one paragraph
 
 Collect ten of these. Use them in listing presentations, on your website, on social media. Real proof closes more deals than any marketing copy ever written.
 
-
 See you next time.
 ---
 

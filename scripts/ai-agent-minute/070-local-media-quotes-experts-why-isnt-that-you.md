@@ -35,7 +35,7 @@ Local journalists, podcasters, and bloggers are constantly looking for expert so
 And here's the thing -- journalists don't find you. You have to find them first.
 Here's the fix. Ask Claude to draft five targeted media pitch emails: one for a local newspaper real estate section, one for a personal finance or housing podcast, one for a local lifestyle blog, one for a neighborhood-focused newsletter, and one for a radio or TV station's money segment. Each pitch positions you as an expert source on one specific, timely topic that's relevant to their audience. Not "I'm a great agent" -- "here's the angle I can give you on the rate environment right now." Specific, helpful, on deadline. Send all five this week. One yes permanently elevates your profile. [ON-SCREEN: Prompt → "Draft 5 media pitch emails positioning me as a local real estate expert source for [newspaper / podcast / blog / newsletter / radio]."]
 You don't have to be famous to get media coverage. You just have to be useful to the right journalist at the right moment. AI helps you make that happen.
-Have you ever been quoted in local media? Tell me what outlet and how it happened -- or what's stopping you from trying. [ON-SCREEN: Have you been in local media?]
+Have you ever been quoted in local media?
 "See you next time."
 
 ## Producer Note
@@ -48,7 +48,7 @@ Excellent tactical tip with clear immediate action. The "one yes permanently ele
 ## Social Copy
 
 ### Instagram
-**Caption:** Local Media Quotes Experts. Why Isn't That You? Watch this and save it for later.
+**Caption:** Local Media Quotes Experts. Why Isn't That You?
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Excellent tactical tip with clear immediate action. The "one yes permanently ele
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Local Media Quotes Experts. Why Isn't That You? If this hits home, share it with an agent who needs to hear it.
+**Caption:** Local Media Quotes Experts. Why Isn't That You?
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

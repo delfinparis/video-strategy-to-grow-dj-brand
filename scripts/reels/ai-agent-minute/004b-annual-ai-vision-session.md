@@ -21,7 +21,6 @@ Sit down with Claude and answer five questions: What does my ideal business look
 
 Then type: "Turn my honest answers into a one-page business design document." Review it quarterly. Build toward it weekly. AI makes you productive -- but this makes you intentional.
 
-
 See you next time.
 ---
 

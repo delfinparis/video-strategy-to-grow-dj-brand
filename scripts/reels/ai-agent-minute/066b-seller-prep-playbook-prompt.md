@@ -21,7 +21,6 @@ Type: "Include the ten highest-ROI improvements before listing, a room-by-room d
 
 Turn it into a clean PDF. Give it to every seller at the listing appointment. A prepared home sells faster and for more money. A prepared seller trusts you more.
 
-
 See you next time.
 ---
 

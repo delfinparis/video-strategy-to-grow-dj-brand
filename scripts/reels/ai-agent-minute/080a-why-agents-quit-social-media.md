@@ -21,9 +21,7 @@ Here's the loop. Sit down, figure out what to post, stare at a blank screen for 
 
 That loop isn't a willpower problem. It's a workflow problem. Stop creating daily. Start batching monthly.
 
-
 Here's what I'd do. Open Claude and type: "Help me batch-create 30 social media posts in 90 minutes using my actual expertise -- not generic content."
-
 
 See you next time.
 ---

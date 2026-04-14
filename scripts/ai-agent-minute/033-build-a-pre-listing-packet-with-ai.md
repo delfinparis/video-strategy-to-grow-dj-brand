@@ -36,7 +36,7 @@ The agents who consistently win listings change the dynamic before they arrive. 
 Here's how. Two days before any listing appointment, email the seller a pre-listing packet built with Claude. Type: "Create a pre-listing packet I can send two days before a listing appointment. Include: my bio written as a compelling story -- not a credential list, the comparable sales framing my pricing approach, three testimonials from sellers in similar situations, a one-page overview of my marketing process, and the five questions I'll be asking them during the appointment." [ON-SCREEN: "Bio + comps + testimonials + marketing overview + your 5 questions"]
 The seller reads this before you arrive. By the time you ring the doorbell, they already feel like they know you.
 You're not walking in for an audition. You're walking in for a conversation. That's a completely different appointment.
-Do you send anything to sellers before you arrive? Tell me what you currently do. [ON-SCREEN: Do you send anything before the listing appointment?]
+Do you send anything to sellers before you arrive?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Pre-Listing Packet With AI Watch this and save it for later.
+**Caption:** Build A Pre-Listing Packet With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Pre-Listing Packet With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Pre-Listing Packet With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

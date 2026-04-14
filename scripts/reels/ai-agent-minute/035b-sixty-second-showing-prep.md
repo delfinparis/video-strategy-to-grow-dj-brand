@@ -21,7 +21,6 @@ Sixty seconds. You walk in with context. Your buyer sees an expert who did their
 
 The most prepared agent in the room wins the most loyal clients.
 
-
 See you next time.
 ---
 

@@ -36,7 +36,7 @@ Most agents show up to showings with the MLS information. Top producers show up 
 Here's the sixty-second prep. Before any showing, give Claude the property address and type: "Pull: comparable sales within a quarter mile in the last ninety days with price per square foot, the price trend for this neighborhood over the last twelve months, any public records worth knowing about this property, and two smart questions I should ask the listing agent." [ON-SCREEN: "Comps + price trend + public records + 2 questions for listing agent"]
 You walk in with context. Your buyer sees an expert who did their homework. That trust is hard to break once you've built it.
 The most prepared agent in the room wins the most loyal clients. Sixty seconds with AI makes you that agent every time.
-What's the first thing you currently do to prepare for a showing? Tell me your process. [ON-SCREEN: What's your current showing prep process?]
+What's the first thing you currently do to prepare for a showing?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Prep Every Showing In 60 Seconds With AI Watch this and save it for later.
+**Caption:** Prep Every Showing In 60 Seconds With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Prep Every Showing In 60 Seconds With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Prep Every Showing In 60 Seconds With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

@@ -61,7 +61,7 @@ Perfect as-is -- the hook is a gut punch and the CTA is immediately actionable.
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your college roommate just bought a house. Watch this and save it for later.
+Your college roommate just bought a house.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your college roommate just bought a house. This changes how you think about your
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your college roommate just bought a house. If this hits home, share it with an agent who needs to hear it.
+Your college roommate just bought a house.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

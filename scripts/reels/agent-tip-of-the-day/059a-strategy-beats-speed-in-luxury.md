@@ -18,9 +18,7 @@ The agents closing luxury deals right now aren't the ones texting back fastest.
 
 Carrie McCormick -- top one percent in Chicago for twenty years -- says the market shifted from speed to strategy. Last month she had a buyer ready to offer full price on a Lincoln Park condo. Inspection clean. Lender approved. But Carrie walked them. Why? Two special assessments pending -- forty thousand dollars total -- buried in the board minutes. The fast agent closes that deal and deals with the fallout. The strategic agent reads the minutes and says "we walk."
 
-
 Do this before your next luxury prospect: Research them for 20 minutes before you reach out. In luxury, preparation is the pitch.
-
 
 See you next time.
 ---

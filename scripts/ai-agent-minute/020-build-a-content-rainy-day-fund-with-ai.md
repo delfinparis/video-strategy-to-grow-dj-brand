@@ -36,7 +36,7 @@ Most agents try to post from inspiration. Top producers post from inventory. [ON
 Here's the fix. Spend one hour with Claude building a "content rainy day fund." Type: "Generate thirty pieces of evergreen real estate content that don't require timely data or personal stories. Include: real estate myth-busting posts, client FAQ answers, 'did you know' market facts, process explainers, and seasonal home tips. Write them all ready to post." Save them in a Google Doc. [ON-SCREEN: "30 evergreen posts -- ready to post, no timely data needed"]
 On the days you have nothing to say -- pull from the fund. You never go silent again.
 Inspiration is optional. Systems are not. AI builds the system that shows up even when you don't feel like it.
-How long was your longest social media silence this year? Drop the number of days honestly. [ON-SCREEN: How long was your longest social media gap this year?]
+How long was your longest social media silence this year?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ The "restart on Monday" loop description is the highest-scoring mirror moment in
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Content Rainy Day Fund With AI Watch this and save it for later.
+**Caption:** Build A Content Rainy Day Fund With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The "restart on Monday" loop description is the highest-scoring mirror moment in
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Content Rainy Day Fund With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Content Rainy Day Fund With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

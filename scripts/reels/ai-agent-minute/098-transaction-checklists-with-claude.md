@@ -23,7 +23,6 @@ Ask Claude: "Create a complete transaction coordination checklist for a resident
 
 Systems separate agents who scale from agents who survive.
 
-
 See you next time.
 ---
 

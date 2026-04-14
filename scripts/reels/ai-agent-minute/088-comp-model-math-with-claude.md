@@ -21,7 +21,6 @@ Here's the fix. Give Claude your cost per lead, close rate, average commission, 
 
 The best comp model isn't the most generous. It's the one that's sustainable and motivating at the same time.
 
-
 See you next time.
 ---
 

@@ -21,7 +21,6 @@ Open Claude and type: "Act as a seller who just said 'I want to think about it' 
 
 Run it five times. By the time you're in the real conversation, you've already been there a hundred times. Objection handling is a muscle -- AI just made the reps free and unlimited.
 
-
 See you next time.
 ---
 

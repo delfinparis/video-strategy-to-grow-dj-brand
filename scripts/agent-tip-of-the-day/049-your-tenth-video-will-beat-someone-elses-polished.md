@@ -61,7 +61,7 @@ Cut the resume recitation in SETUP and jump straight to the agent progression st
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your tenth video will beat someone else's polished first one. Watch this and save it for later.
+Your tenth video will beat someone else's polished first one.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your tenth video will beat someone else's polished first one. This changes how y
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your tenth video will beat someone else's polished first one. If this hits home, share it with an agent who needs to hear it.
+Your tenth video will beat someone else's polished first one.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

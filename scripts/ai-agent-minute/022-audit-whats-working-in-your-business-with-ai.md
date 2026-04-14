@@ -35,7 +35,7 @@ Here's what happens when you only focus on what's broken. You develop tunnel vis
 Most agents grow by adding new things. Top producers often grow by doing more of what already works. [ON-SCREEN: "More of what already works"]
 Here's the audit. List your last twenty closed deals and where each came from. List the client types who were easiest and most enjoyable to serve. List the marketing you've done that actually produced measurable results. Give that to Claude and type: "Identify the patterns: which lead sources are already working best for me, which client types are my strongest fit, and which of my activities has the highest return for the effort I put in. Then tell me: what would happen if I committed to doubling down on just the top three for ninety days?" [ON-SCREEN: "Last 20 deals → sources → client types → best marketing → double down on top 3"]
 Growth doesn't always come from doing something new. Sometimes it comes from finally seeing clearly what you're already doing right.
-What's the one thing in your business working better than everything else? Tell me below. [ON-SCREEN: What's working better than everything else?]
+What's the one thing in your business working better than everything else?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ Runs long -- needs to be trimmed to approximately 115 seconds on delivery. Cut "
 ## Social Copy
 
 ### Instagram
-**Caption:** Audit What's Working In Your Business With AI Watch this and save it for later.
+**Caption:** Audit What's Working In Your Business With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Runs long -- needs to be trimmed to approximately 115 seconds on delivery. Cut "
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Audit What's Working In Your Business With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Audit What's Working In Your Business With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

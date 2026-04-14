@@ -28,7 +28,7 @@ Pick five past buyers. Call them today.
 ## Social Copy
 
 ### Instagram
-**Caption:** Mortgage rates just dropped below six percent for the first time in three and a half years. Watch this and save it for later.
+**Caption:** Mortgage rates just dropped below six percent for the first time in three and a half years.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #RealEstateMarketing #TopProducer #RealEstateAI #AIforRealtors #RealEstateTechnology #RealEstateAdvice
 
 ### TikTok
@@ -41,7 +41,7 @@ Pick five past buyers. Call them today.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #RealEstateMarketing
 
 ### Facebook
-**Caption:** Mortgage rates just dropped below six percent for the first time in three and a half years. If this hits home, share it with an agent who needs to hear it.
+**Caption:** Mortgage rates just dropped below six percent for the first time in three and a half years.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer #RealEstateMarketing
 
 ### LinkedIn

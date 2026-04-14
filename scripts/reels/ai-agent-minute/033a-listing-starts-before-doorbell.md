@@ -21,9 +21,7 @@ The seller already Googled you, checked your reviews, and formed an opinion. Thr
 
 The agents who consistently win listings change the dynamic before they arrive. You're not walking into an audition -- you're walking into a conversation.
 
-
 Try this: Open Claude and type "Build me a pre-listing packet that wins the appointment before I even walk through the door."
-
 
 See you next time.
 ---

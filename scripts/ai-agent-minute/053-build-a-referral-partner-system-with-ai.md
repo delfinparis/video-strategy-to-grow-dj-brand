@@ -35,7 +35,7 @@ Here's the problem with how most agents approach referral partners. They think a
 Most agents ask for referrals. Top producers build referral relationships -- which is a completely different thing. [ON-SCREEN: "Asking for referrals vs. building referral relationships"]
 Here's the system. Give Claude a list of the professional types you want as referral partners -- lenders, divorce attorneys, estate attorneys, financial advisors, relocation coordinators. Type: "Build a twelve-month referral partner outreach plan. Include a first-contact message for each professional type, a quarterly value-add touchpoint sequence, and a 'value calendar' of things I can give each partner before I ever ask for a referral." [ON-SCREEN: "First contact + quarterly touchpoints + value calendar before any ask"]
 Referral relationships are built on giving, not asking. AI helps you systematize the giving so the asking never feels like a burden.
-Who's your most reliable referral source right now? Tell me what type of professional they are. [ON-SCREEN: What type of professional is your best referral source?]
+Who's your most reliable referral source right now?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ The "network of people who don't call you back" line is sharp and true -- keep i
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Referral Partner System With AI Watch this and save it for later.
+**Caption:** Build A Referral Partner System With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The "network of people who don't call you back" line is sharp and true -- keep i
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Referral Partner System With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Referral Partner System With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

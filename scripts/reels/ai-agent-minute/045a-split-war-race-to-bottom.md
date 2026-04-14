@@ -21,9 +21,7 @@ Most team leaders give the same pitch: great leads, solid split, strong support.
 
 The agents worth recruiting aren't choosing based on split. They're choosing based on whether they believe your team will actually make them better. And if you can't articulate the difference, neither can your agents when they refer someone.
 
-
 Try this: Open Claude and type "Help me write a recruiting pitch that never mentions commission splits -- only what agents actually need to succeed."
-
 
 See you next time.
 ---

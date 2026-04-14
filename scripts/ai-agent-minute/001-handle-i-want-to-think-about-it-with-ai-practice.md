@@ -49,7 +49,7 @@ Highest-scoring script in the batch -- this is the series launch candidate. The 
 ## Social Copy
 
 ### Instagram
-**Caption:** Handle 'I Want To Think About It' With AI Practice Watch this and save it for later.
+**Caption:** Handle 'I Want To Think About It' With AI Practice
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Highest-scoring script in the batch -- this is the series launch candidate. The 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Handle 'I Want To Think About It' With AI Practice If this hits home, share it with an agent who needs to hear it.
+**Caption:** Handle 'I Want To Think About It' With AI Practice
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

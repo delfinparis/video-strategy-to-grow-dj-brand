@@ -21,7 +21,6 @@ Prompt: "Calculate exactly how many closed deals, active clients, appointments, 
 
 Now your goal isn't on a whiteboard. It's in your calendar. Every single day. Build yours with Claude this week.
 
-
 See you next time.
 ---
 

@@ -61,7 +61,7 @@ The hook is informational but not urgent -- reframe it as a threat: 'Your compet
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-One company now controls one in five agents in America. Watch this and save it for later.
+One company now controls one in five agents in America.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ One company now controls one in five agents in America. This changes how you thi
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-One company now controls one in five agents in America. If this hits home, share it with an agent who needs to hear it.
+One company now controls one in five agents in America.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

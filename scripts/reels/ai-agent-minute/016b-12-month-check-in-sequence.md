@@ -21,7 +21,6 @@ Tell Claude: "Write twelve monthly check-in messages for a past real estate clie
 
 Load them into your CRM. Set them to send automatically. Your clients feel remembered without you lifting a finger. Your past clients are your most valuable asset. AI makes sure you never lose one to neglect.
 
-
 See you next time.
 ---
 

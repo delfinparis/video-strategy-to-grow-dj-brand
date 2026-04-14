@@ -61,7 +61,7 @@ Add one specific result number (how many deals or revenue from the expansion) to
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-A top 1% luxury agent just said Zillow saved his team. Watch this and save it for later.
+A top 1% luxury agent just said Zillow saved his team.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ A top 1% luxury agent just said Zillow saved his team. This changes how you thin
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-A top 1% luxury agent just said Zillow saved his team. If this hits home, share it with an agent who needs to hear it.
+A top 1% luxury agent just said Zillow saved his team.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

@@ -36,7 +36,7 @@ Email is the enemy of income-producing activity. It's just disguised as producti
 Here's the fix. Batch your email to two windows -- ten AM and four PM, nothing in between. Then spend thirty minutes once a week with Claude building your personal response library. Type: "Write twenty of my most common email responses -- client updates, offer acknowledgments, vendor coordination, meeting confirmations -- in a warm, professional tone that sounds like me." Save them. Customize in thirty seconds. [ON-SCREEN: "Write my 20 most common email responses in my voice"]
 Processing your inbox now takes minutes. Not your morning.
 Most agents check email first thing every day. The top 10% haven't done that in years -- and it shows in their production.
-What time do you check email in the morning? Be honest -- drop it below. [ON-SCREEN: What time do you check email in the morning?]
+What time do you check email in the morning?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Stop Living In Your Inbox -- Batch Email With AI Watch this and save it for later.
+**Caption:** Stop Living In Your Inbox -- Batch Email With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Stop Living In Your Inbox -- Batch Email With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Stop Living In Your Inbox -- Batch Email With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

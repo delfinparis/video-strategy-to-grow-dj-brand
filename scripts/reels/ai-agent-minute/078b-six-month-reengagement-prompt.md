@@ -21,7 +21,6 @@ Then type: "Write a six-touch, six-month re-engagement sequence. Each message pr
 
 Every touch makes them think: this agent actually pays attention. Find five dead leads tonight and run this.
 
-
 See you next time.
 ---
 

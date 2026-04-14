@@ -21,7 +21,6 @@ For each one type: "Be specific about who I'm trying to help, make it easy for t
 
 Load them into your CRM. Actually send them. Not asking when your client would be happy to help -- that's the real waste.
 
-
 See you next time.
 ---
 

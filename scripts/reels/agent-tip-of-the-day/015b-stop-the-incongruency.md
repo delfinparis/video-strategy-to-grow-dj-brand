@@ -18,7 +18,6 @@ That resentment? Not burnout. Incongruency. Sixty hours a week while telling you
 
 Tonight: open your notes app. Type two sentences. "What I actually want in the next 24 months is..." and "What that will actually require is..." Don't share it. Just stop lying to yourself first.
 
-
 See you next time.
 ---
 

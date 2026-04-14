@@ -21,7 +21,6 @@ Take what you found into Claude and type: "Given how this competitor positions t
 
 You walk in knowing things they don't know you know. That's how top producers win listing appointments consistently.
 
-
 See you next time.
 ---
 

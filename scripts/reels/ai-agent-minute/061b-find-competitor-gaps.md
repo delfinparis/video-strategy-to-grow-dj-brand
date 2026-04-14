@@ -23,7 +23,6 @@ Bring it all into Claude and type: "Based on how these agents position themselve
 
 You might find nobody is serving a specific price range, neighborhood, or client type. That's your opening.
 
-
 See you next time.
 ---
 

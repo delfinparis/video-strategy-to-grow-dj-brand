@@ -18,7 +18,6 @@ Next time a buyer ghosts after a showing, it's not the house. It's that you gave
 
 Here's the fix. Before your next listing presentation, write three sentences: Why this price. Why this week. What happens in ten days if we're wrong. Say it out loud before you walk in. That's the script that turns doubt into direction.
 
-
 See you next time.
 ---
 

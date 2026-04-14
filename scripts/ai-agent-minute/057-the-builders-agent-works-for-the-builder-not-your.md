@@ -48,7 +48,7 @@ Slightly over 90 seconds -- cut the "thirty years" sentence if needed. The "frie
 ## Social Copy
 
 ### Instagram
-**Caption:** The Builder's Agent Works For The Builder. Not Your Buyer. Watch this and save it for later.
+**Caption:** The Builder's Agent Works For The Builder. Not Your Buyer.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Slightly over 90 seconds -- cut the "thirty years" sentence if needed. The "frie
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** The Builder's Agent Works For The Builder. Not Your Buyer. If this hits home, share it with an agent who needs to hear it.
+**Caption:** The Builder's Agent Works For The Builder. Not Your Buyer.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

@@ -21,7 +21,6 @@ Ask Claude: "Design a twelve-month VIP experience for a past real estate client.
 
 Identify your top ten past clients this week. Start running them through it. Your best clients don't need more marketing from you. They need more appreciation. AI helps you deliver it consistently.
 
-
 See you next time.
 ---
 

@@ -48,7 +48,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Build Prospecting Scripts In Your Own Voice With AI Watch this and save it for later.
+**Caption:** Build Prospecting Scripts In Your Own Voice With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build Prospecting Scripts In Your Own Voice With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build Prospecting Scripts In Your Own Voice With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

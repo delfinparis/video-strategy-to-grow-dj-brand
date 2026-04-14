@@ -21,9 +21,7 @@ No pension. No 401k match. No automatic tax withholding. Most agents spend what 
 
 Closing deals and building wealth are two completely different skills. Most agents only learn one.
 
-
 Try this: Open Claude and type "Help me build a personal wealth plan around my real estate income -- not just a revenue target."
-
 
 See you next time.
 ---

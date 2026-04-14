@@ -61,7 +61,7 @@ Perfect as-is -- this is the gold standard for tactical, specific, immediately a
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-A white duvet in your trunk could be worth thirty thousand dollars. Watch this and save it for later.
+A white duvet in your trunk could be worth thirty thousand dollars.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ A white duvet in your trunk could be worth thirty thousand dollars. This changes
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-A white duvet in your trunk could be worth thirty thousand dollars. If this hits home, share it with an agent who needs to hear it.
+A white duvet in your trunk could be worth thirty thousand dollars.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

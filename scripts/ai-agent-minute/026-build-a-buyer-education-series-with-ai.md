@@ -36,7 +36,7 @@ The buyer didn't go cold. They ran out of confidence -- because you never built 
 Here's the fix. Ask Claude to build you a "Buyer Education Series" -- five short, plain-English explainers you send one per week after the first consultation. Type: "Write five brief buyer education pieces in plain English, no jargon. Topics: how the offer process works, what an inspection actually tells you, how to read and respond to a counteroffer, what happens between contract and closing, and what to expect on closing day." [ON-SCREEN: "Offer → inspection → counteroffer → contract to close → closing day"]
 Send one per week. By the time they're ready to write an offer, they're not scared. They're prepared.
 Educated buyers close faster, stress less, and refer more. Claude builds the whole series in one afternoon.
-What part of the buying process confuses your clients the most? Tell me below. [ON-SCREEN: What part confuses buyers most?]
+What part of the buying process confuses your clients the most?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Runs long -- trim either the "blames the buyer" beat or tighten the fix section 
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Buyer Education Series With AI Watch this and save it for later.
+**Caption:** Build A Buyer Education Series With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Runs long -- trim either the "blames the buyer" beat or tighten the fix section 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Buyer Education Series With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Buyer Education Series With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

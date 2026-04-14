@@ -61,7 +61,7 @@ Cut the guest intro line entirely -- the hook is strong enough that you can go s
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-While your competition is posting 'Out of Office,' you're about to lap them. Watch this and save it for later.
+While your competition is posting 'Out of Office,' you're about to lap them.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ While your competition is posting 'Out of Office,' you're about to lap them. Thi
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-While your competition is posting 'Out of Office,' you're about to lap them. If this hits home, share it with an agent who needs to hear it.
+While your competition is posting 'Out of Office,' you're about to lap them.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

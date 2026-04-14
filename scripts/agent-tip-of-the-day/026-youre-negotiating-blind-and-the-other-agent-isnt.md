@@ -61,7 +61,7 @@ The CTA needs a more specific prompt example -- 'public transaction data' is vag
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-You're negotiating blind. Watch this and save it for later.
+You're negotiating blind.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ You're negotiating blind. This changes how you think about your business.
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-You're negotiating blind. If this hits home, share it with an agent who needs to hear it.
+You're negotiating blind.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

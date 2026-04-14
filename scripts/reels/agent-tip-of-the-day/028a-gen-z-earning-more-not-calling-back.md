@@ -20,9 +20,7 @@ Amanda Pendleton at Zillow studied the data. Gen Z isn't broke. But they're rese
 
 They don't need your market report email. They need an agent who answers DMs in under an hour.
 
-
 Do this today: Text one younger lead instead of calling. Meet them where they communicate -- not where you're comfortable.
-
 
 See you next time.
 ---

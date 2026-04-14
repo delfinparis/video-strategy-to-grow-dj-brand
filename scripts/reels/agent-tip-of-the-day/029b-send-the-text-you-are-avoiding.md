@@ -20,7 +20,6 @@ Right now, open your phone. Find the client conversation you've been avoiding --
 
 Send it before this video ends.
 
-
 See you next time.
 ---
 

@@ -28,7 +28,7 @@ Don't post a graphic. Pick up the phone.
 ## Social Copy
 
 ### Instagram
-**Caption:** Monthly mortgage payments just hit a two-year low. Watch this and save it for later.
+**Caption:** Monthly mortgage payments just hit a two-year low.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #RealEstateMarketing #TopProducer #RealEstateAI #AIforRealtors #RealEstateTechnology #RealEstateAdvice
 
 ### TikTok
@@ -41,7 +41,7 @@ Don't post a graphic. Pick up the phone.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #RealEstateMarketing
 
 ### Facebook
-**Caption:** Monthly mortgage payments just hit a two-year low. If this hits home, share it with an agent who needs to hear it.
+**Caption:** Monthly mortgage payments just hit a two-year low.
 **Hashtags:** #RealEstate #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer #RealEstateMarketing
 
 ### LinkedIn

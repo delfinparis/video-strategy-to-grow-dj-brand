@@ -61,7 +61,7 @@ Cut the second sentence of the setup -- it dilutes the punch and the hook alread
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-You're drowning in things you can't control. Watch this and save it for later.
+You're drowning in things you can't control.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ You're drowning in things you can't control. This changes how you think about yo
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-You're drowning in things you can't control. If this hits home, share it with an agent who needs to hear it.
+You're drowning in things you can't control.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

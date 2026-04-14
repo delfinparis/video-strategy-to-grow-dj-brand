@@ -20,9 +20,7 @@ She's top 1% in Metro Atlanta. 85% of her business comes from YouTube. She makes
 
 When someone watches three of her videos, they're not calling to be convinced. As Sarah puts it: "They've already decided you're their agent. The call is just logistics."
 
-
 Do this today: Record a 60-second video answering one question your clients always ask. Post it. That's content that converts.
-
 
 See you next time.
 ---

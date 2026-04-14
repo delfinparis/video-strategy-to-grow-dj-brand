@@ -22,7 +22,6 @@ You're not managing transactions. You're managing people at their absolute break
 
 Do this before your next offer: Sit with your buyer for 10 minutes and set boundaries on what you will and won't do to win.
 
-
 See you next time.
 ---
 

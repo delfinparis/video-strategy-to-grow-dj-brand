@@ -23,7 +23,6 @@ Here's the fix. Tell Claude: "Act as a seller who believes their home is worth f
 
 Run this weekly. Ten minutes. By the real conversation, the words come naturally. Telling a seller the truth is the most valuable thing you can do.
 
-
 See you next time.
 ---
 

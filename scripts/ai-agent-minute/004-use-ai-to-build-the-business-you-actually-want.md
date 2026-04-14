@@ -35,7 +35,7 @@ Here's what happens to most agents. The years go by. Production fluctuates. The 
 That's not a business problem. That's a direction problem. And it's the most important one to solve.
 Here's the most valuable thing I can suggest you do with AI. Once a year -- January works well -- sit down with Claude for a two-hour business vision session. Answer the questions most agents never make time for: What does my ideal business look like in five years -- specifically, not vaguely? What does an ideal work week look like, hour by hour? What clients do I genuinely love serving? What would I eliminate tomorrow if I could? And most importantly -- what did I originally want this business to give me, and is it currently doing that? Ask Claude to turn your honest answers into a one-page business design document. Review it every quarter. Build toward it every week. [ON-SCREEN: Prompt → "Here are my honest answers to 5 questions about what I want my business to give me. Turn this into a one-page business design document."]
 AI can make you more productive. But the real gift -- the one most agents never use -- is using it to get more intentional. So the business you're building is actually the one you want.
-What does your ideal real estate business look like -- really? Not the polished version. The real one. Tell me below. I read every single comment. [ON-SCREEN: What does your ideal business actually look like?]
+What does your ideal real estate business look like -- really? Not the polished version. The real one. I read every single comment. [ON-SCREEN: What does your ideal business actually look like?]
 "See you next time."
 
 ## Producer Note
@@ -48,7 +48,7 @@ The capstone -- this is the highest-scoring script in the batch and should be tr
 ## Social Copy
 
 ### Instagram
-**Caption:** Use AI To Build The Business You Actually Want Watch this and save it for later.
+**Caption:** Use AI To Build The Business You Actually Want
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The capstone -- this is the highest-scoring script in the batch and should be tr
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Use AI To Build The Business You Actually Want If this hits home, share it with an agent who needs to hear it.
+**Caption:** Use AI To Build The Business You Actually Want
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

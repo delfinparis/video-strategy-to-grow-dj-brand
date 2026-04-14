@@ -61,7 +61,7 @@ Cut the philosophical CTA question and replace with a concrete action: 'Go to co
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-AI now knows which agents are about to leave your brokerage before you do. Watch this and save it for later.
+AI now knows which agents are about to leave your brokerage before you do.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ AI now knows which agents are about to leave your brokerage before you do. This 
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-AI now knows which agents are about to leave your brokerage before you do. If this hits home, share it with an agent who needs to hear it.
+AI now knows which agents are about to leave your brokerage before you do.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

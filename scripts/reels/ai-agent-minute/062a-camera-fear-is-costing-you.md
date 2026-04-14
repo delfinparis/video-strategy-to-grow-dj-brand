@@ -21,9 +21,7 @@ You know the data. Video outperforms every other content format. But the fear of
 
 The agents who are great on camera didn't start great. They just started -- and got better by doing it.
 
-
 Try this: Open Claude and type "Give me a 7-day video confidence plan. Start easy, build up. I need to stop overthinking and start posting."
-
 
 See you next time.
 ---

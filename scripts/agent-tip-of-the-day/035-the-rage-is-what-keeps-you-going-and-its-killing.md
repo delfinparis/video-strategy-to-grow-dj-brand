@@ -61,7 +61,7 @@ The caption is weak -- replace it with something that names the feeling more dir
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The rage is what keeps you going. Watch this and save it for later.
+The rage is what keeps you going.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The rage is what keeps you going. This changes how you think about your business
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The rage is what keeps you going. If this hits home, share it with an agent who needs to hear it.
+The rage is what keeps you going.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

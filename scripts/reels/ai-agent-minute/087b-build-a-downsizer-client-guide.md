@@ -21,7 +21,6 @@ It should include: the emotional stages of leaving a long-term home, financial c
 
 Give this guide to every relevant client. The agent who guides a senior through this transition doesn't just get one deal -- they get the whole family. For years.
 
-
 See you next time.
 ---
 

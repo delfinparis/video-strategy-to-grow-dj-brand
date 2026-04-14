@@ -21,9 +21,7 @@ Status updates that could've been an email. Venting disguised as strategy. Motiv
 
 Everyone leaves more behind than when they walked in. Most team leaders run meetings by feel. The ones with real traction run them on a structure.
 
-
 Try this: Open Claude and type "Build me a 30-minute team meeting agenda that replaces our current hour with something people actually want to attend."
-
 
 See you next time.
 ---

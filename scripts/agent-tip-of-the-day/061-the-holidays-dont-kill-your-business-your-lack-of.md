@@ -61,7 +61,7 @@ Drop the guest intro and start with 'December is the litmus test' -- the hook is
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The holidays don't kill your business. Watch this and save it for later.
+The holidays don't kill your business.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The holidays don't kill your business. This changes how you think about your bus
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The holidays don't kill your business. If this hits home, share it with an agent who needs to hear it.
+The holidays don't kill your business.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

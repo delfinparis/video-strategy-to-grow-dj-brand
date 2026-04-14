@@ -21,7 +21,6 @@ Paste your Gen Z research into Claude and type: "Help me rewrite my buyer consul
 
 You'll get a complete playbook adapted for how they actually want to be communicated with. Not how you've always done it.
 
-
 See you next time.
 ---
 

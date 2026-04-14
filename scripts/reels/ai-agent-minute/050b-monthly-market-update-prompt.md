@@ -21,7 +21,6 @@ Give it to Claude: "Write a two-paragraph market update for homeowners in my mar
 
 Send it to your entire database. Every month. Without fail. That consistency is what makes you the first call when they're ready to move.
 
-
 See you next time.
 ---
 

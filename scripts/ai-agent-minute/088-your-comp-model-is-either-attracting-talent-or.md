@@ -48,7 +48,7 @@ Niche audience (team leaders only) but high value for that segment. The "resentm
 ## Social Copy
 
 ### Instagram
-**Caption:** Your Comp Model Is Either Attracting Talent or Repelling It Watch this and save it for later.
+**Caption:** Your Comp Model Is Either Attracting Talent or Repelling It
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Niche audience (team leaders only) but high value for that segment. The "resentm
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Your Comp Model Is Either Attracting Talent or Repelling It If this hits home, share it with an agent who needs to hear it.
+**Caption:** Your Comp Model Is Either Attracting Talent or Repelling It
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

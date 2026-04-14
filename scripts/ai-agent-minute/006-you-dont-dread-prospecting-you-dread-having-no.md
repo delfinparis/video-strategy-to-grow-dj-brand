@@ -35,7 +35,7 @@ Here's why most agents dread prospecting. They've defined success as booking an 
 And here's the part most agents never fix -- without a ritual around it, prospecting is always a decision you have to make fresh every morning. And fresh decisions get vetoed.
 Here's the fix. Ask Claude to help you design a thirty-minute morning prospecting ritual -- not a to-do list, a psychological framework. Include: a two-minute mindset warm-up, a daily target you can realistically hit, a script refresh for the first call so you don't start cold, a win-tracking system that counts conversations not just appointments, and a two-minute debrief at the end. Same process, same time, every morning. Consistency builds confidence faster than any motivation hack. [ON-SCREEN: Prompt → "Design my 30-minute morning prospecting ritual with a mindset warm-up, realistic daily target, script refresh, win tracker, and debrief."]
 Prospecting doesn't have to feel like a grind. It feels like a grind because you've never built a ritual around it. Open Claude today -- this takes fifteen minutes to build.
-What time of day do you do your best prospecting? Drop your peak time below -- I'm curious what the pattern is. [ON-SCREEN: Your best prospecting time?]
+
 "See you next time."
 
 ## Producer Note
@@ -48,7 +48,7 @@ Top-10 candidate -- the "count conversations not appointments" reframe is the mo
 ## Social Copy
 
 ### Instagram
-**Caption:** You Don't Dread Prospecting. You Dread Having No System. Watch this and save it for later.
+**Caption:** You Don't Dread Prospecting. You Dread Having No System.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Top-10 candidate -- the "count conversations not appointments" reframe is the mo
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** You Don't Dread Prospecting. You Dread Having No System. If this hits home, share it with an agent who needs to hear it.
+**Caption:** You Don't Dread Prospecting. You Dread Having No System.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

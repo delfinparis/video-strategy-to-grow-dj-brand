@@ -23,7 +23,6 @@ Ask Claude: "Help me find my niche. Ask me: What clients do I enjoy most? What n
 
 Be the obvious choice for someone -- not an option for everyone.
 
-
 See you next time.
 ---
 

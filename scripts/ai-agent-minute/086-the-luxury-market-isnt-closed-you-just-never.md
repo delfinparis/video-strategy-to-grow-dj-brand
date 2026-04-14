@@ -48,7 +48,7 @@ Good mid-tier performer. The "referrals don't convert when the agent isn't ready
 ## Social Copy
 
 ### Instagram
-**Caption:** The Luxury Market Isn't Closed. You Just Never Built a Plan. Watch this and save it for later.
+**Caption:** The Luxury Market Isn't Closed. You Just Never Built a Plan.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Good mid-tier performer. The "referrals don't convert when the agent isn't ready
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** The Luxury Market Isn't Closed. You Just Never Built a Plan. If this hits home, share it with an agent who needs to hear it.
+**Caption:** The Luxury Market Isn't Closed. You Just Never Built a Plan.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

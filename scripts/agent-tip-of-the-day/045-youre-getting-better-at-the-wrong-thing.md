@@ -61,7 +61,7 @@ The CTA is too vague -- tell them exactly what to look for in those lost deals (
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-You're getting better at the wrong thing. Watch this and save it for later.
+You're getting better at the wrong thing.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ You're getting better at the wrong thing. This changes how you think about your 
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-You're getting better at the wrong thing. If this hits home, share it with an agent who needs to hear it.
+You're getting better at the wrong thing.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

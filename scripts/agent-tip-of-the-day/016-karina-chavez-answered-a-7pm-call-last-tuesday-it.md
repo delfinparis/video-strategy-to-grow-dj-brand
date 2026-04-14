@@ -61,7 +61,7 @@ Perfect as-is -- the Tuesday 7pm specificity makes this feel like it happened ye
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Karina Chavez answered a 7pm call last Tuesday. Watch this and save it for later.
+Karina Chavez answered a 7pm call last Tuesday.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Karina Chavez answered a 7pm call last Tuesday. This changes how you think about
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Karina Chavez answered a 7pm call last Tuesday. If this hits home, share it with an agent who needs to hear it.
+Karina Chavez answered a 7pm call last Tuesday.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

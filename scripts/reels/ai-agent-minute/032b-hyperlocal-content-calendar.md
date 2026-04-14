@@ -21,7 +21,6 @@ Then bring it into Claude: "Build me a sixty-day hyperlocal content calendar usi
 
 Being the neighborhood expert online isn't just a brand strategy. It's a lead generation engine that runs without ad spend.
 
-
 See you next time.
 ---
 

@@ -18,7 +18,6 @@ When you catch yourself planning to ease up for a few weeks, ask: am I committed
 
 Here's your test. Tomorrow before 10 AM, call five past clients you haven't talked to in six months. Just check in. "Hey, thinking of you. Just checking in." That's it. Five calls before 10 AM. That's what committed looks like.
 
-
 See you next time.
 ---
 

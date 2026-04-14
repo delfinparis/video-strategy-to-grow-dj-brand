@@ -61,7 +61,7 @@ Cut the generic guest intro and jump straight to 'Paul's reframe' -- the setup s
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your top agent just quit. Watch this and save it for later.
+Your top agent just quit.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your top agent just quit. This changes how you think about your business.
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your top agent just quit. If this hits home, share it with an agent who needs to hear it.
+Your top agent just quit.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

@@ -20,7 +20,6 @@ Mindset coach Paul Salter coined the term "Separation Season" -- any stretch whe
 
 Text three past clients right now: "Hey, thinking of you. Coffee on me this week?" Send it before this video ends.
 
-
 See you next time.
 ---
 

@@ -21,9 +21,7 @@ Right now your past clients are reading Zillow headlines and watching cable news
 
 The agent who becomes the most trusted source of local market information gets the most calls when it's time to buy or sell.
 
-
 Here's what I'd do. Open Claude and type: "Write me a monthly market update email for my clients that's actually useful -- not just stats nobody reads."
-
 
 See you next time.
 ---

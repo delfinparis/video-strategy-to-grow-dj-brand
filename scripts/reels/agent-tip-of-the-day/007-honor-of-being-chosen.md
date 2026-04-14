@@ -20,7 +20,6 @@ Kristee Leonard, 18 years in luxury real estate: "For someone to choose you, it 
 
 When's the last time you answered the phone like it was an honor? Try it tomorrow.
 
-
 See you next time.
 ---
 

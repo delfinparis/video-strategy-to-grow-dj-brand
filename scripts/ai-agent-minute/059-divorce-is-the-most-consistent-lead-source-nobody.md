@@ -35,7 +35,7 @@ Family law attorneys need real estate agents on call -- agents who can handle em
 And here's the opportunity -- that relationship is usually available because most agents never try to build it.
 Here's the fix. Ask Claude to help you build a divorce attorney outreach package. It includes: a professional introduction letter that explains your experience with high-stakes, emotionally complex transactions; a one-page overview of how you specifically handle the challenges of a divorce sale -- dual representation dynamics, court-ordered timelines, asset valuation; and three anonymized case examples that demonstrate your competence. Identify five family law attorneys in your market. Send the package this week. One strong relationship with the right attorney generates five to ten deals a year -- in any market. [ON-SCREEN: Prompt → "Draft a divorce attorney outreach package: intro letter, one-page service overview, and three anonymized case study summaries."]
 Divorce clients need the most competent, patient agent in the room. AI helps you position yourself as exactly that -- before you ever meet one.
-Have you ever worked on a real estate transaction involving a divorce? Tell me how you handled it -- or what stopped you. [ON-SCREEN: Have you worked a divorce transaction?]
+Have you ever worked on a real estate transaction involving a divorce?
 "See you next time."
 
 ## Producer Note
@@ -48,7 +48,7 @@ Distinctive niche -- no other script in the batch covers referral relationships 
 ## Social Copy
 
 ### Instagram
-**Caption:** Divorce Is the Most Consistent Lead Source Nobody Pursues Watch this and save it for later.
+**Caption:** Divorce Is the Most Consistent Lead Source Nobody Pursues
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Distinctive niche -- no other script in the batch covers referral relationships 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Divorce Is the Most Consistent Lead Source Nobody Pursues If this hits home, share it with an agent who needs to hear it.
+**Caption:** Divorce Is the Most Consistent Lead Source Nobody Pursues
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

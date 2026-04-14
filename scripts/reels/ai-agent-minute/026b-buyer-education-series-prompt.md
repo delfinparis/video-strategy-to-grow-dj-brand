@@ -21,7 +21,6 @@ Prompt: "Write five brief buyer education pieces in plain English. Topics: how o
 
 Send one per week after the first consultation. Educated buyers close faster, stress less, and refer more.
 
-
 See you next time.
 ---
 

@@ -35,11 +35,11 @@ Here's the reality. Most agents have only a vague sense of who their real compet
 The agents who dominate their market know exactly who they're up against -- and exactly where those agents are weak. [ON-SCREEN: "They know exactly where those agents are weak"]
 Here's the thirty-minute research process. Use Perplexity to pull intel on your top five competitors -- their recent production in your target neighborhoods, their social media positioning, their Google and Zillow reviews, their average days on market. Then bring it all into Claude and type: "Based on how these agents position themselves, identify three gaps or underserved angles I could own in this market." [ON-SCREEN: "3 gaps I could own that my competition is leaving open"]
 You might find that nobody is serving a specific price range, neighborhood, or client type. And that's your opening.
-Do you research your competition? Tell me your current process -- or lack of one. [ON-SCREEN: Do you research your competition?]
+Do you research your competition?
 See you next time.
 
 ## Producer Note
-"Tell me your current process -- or lack of one" is a clever CTA that invites honest answers without shame. The "competing on instinct, then wondering why" mirror moment is accurate and will resonate. No accuracy issues.
+" The "competing on instinct, then wondering why" mirror moment is accurate and will resonate. No accuracy issues.
 
 **Word Count:** 228 | **Estimated Duration:** ~107 seconds
 
@@ -48,7 +48,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Monitor Competitor Agents With AI -- Find The Gap They're Missing Watch this and save it for later.
+**Caption:** Monitor Competitor Agents With AI -- Find The Gap They're Missing
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Monitor Competitor Agents With AI -- Find The Gap They're Missing If this hits home, share it with an agent who needs to hear it.
+**Caption:** Monitor Competitor Agents With AI -- Find The Gap They're Missing
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

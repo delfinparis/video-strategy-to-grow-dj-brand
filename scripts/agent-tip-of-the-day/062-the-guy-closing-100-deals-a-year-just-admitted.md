@@ -61,7 +61,7 @@ Replace 'Send them something. Anything.' with the exact message template Eithan 
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The guy closing 100 deals a year just admitted what he hates most about his job. Watch this and save it for later.
+The guy closing 100 deals a year just admitted what he hates most about his job.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The guy closing 100 deals a year just admitted what he hates most about his job.
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The guy closing 100 deals a year just admitted what he hates most about his job. If this hits home, share it with an agent who needs to hear it.
+The guy closing 100 deals a year just admitted what he hates most about his job.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

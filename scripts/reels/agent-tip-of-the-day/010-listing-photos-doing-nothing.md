@@ -20,7 +20,6 @@ Courtney Poulos in LA takes her listing photos and runs them through an AI tool 
 
 Tonight: find five photos from your last listing. Upload them to an AI video tool. Post the result by noon tomorrow.
 
-
 See you next time.
 ---
 

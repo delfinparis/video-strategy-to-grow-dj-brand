@@ -48,7 +48,7 @@ Runs slightly long -- trim "Generic AI content doesn't just fail to help" senten
 ## Social Copy
 
 ### Instagram
-**Caption:** Train AI To Write In Your Voice -- Not Sound Like AI Watch this and save it for later.
+**Caption:** Train AI To Write In Your Voice -- Not Sound Like AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Runs slightly long -- trim "Generic AI content doesn't just fail to help" senten
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Train AI To Write In Your Voice -- Not Sound Like AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Train AI To Write In Your Voice -- Not Sound Like AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

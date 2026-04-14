@@ -61,7 +61,7 @@ The CTA feels slightly preachy -- reframe as 'Ask yourself: could Google have wr
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your content is invisible because you're saying what Google already said. Watch this and save it for later.
+Your content is invisible because you're saying what Google already said.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your content is invisible because you're saying what Google already said. This c
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your content is invisible because you're saying what Google already said. If this hits home, share it with an agent who needs to hear it.
+Your content is invisible because you're saying what Google already said.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

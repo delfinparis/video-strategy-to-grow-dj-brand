@@ -18,7 +18,6 @@ While you're guessing, top producers are studying. They know if the listing agen
 
 Next negotiation: take their name, run it through ChatGPT with public transaction data, and ask "What patterns show up?" You'll never walk in blind again.
 
-
 See you next time.
 ---
 

@@ -21,9 +21,7 @@ An unprepared buyer panics. They feel deceived. They call their family for opini
 
 The low appraisal didn't kill the deal. The surprise did. Brief your clients before the appraisal -- not after.
 
-
 Here's what I'd do. Open Claude and type: "Build me a guide that walks clients through every possible appraisal scenario so nothing catches them off guard."
-
 
 See you next time.
 ---

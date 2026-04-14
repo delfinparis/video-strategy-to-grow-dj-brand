@@ -18,7 +18,6 @@ Every hour you spend spiraling about the market is an hour you're not doing the 
 
 Right now, open your phone. Set a recurring alarm for 9 AM tomorrow labeled "Five Calls." Open your CRM and tag five people you haven't talked to in 90 days. Tomorrow at nine, you call them. No script, just check in. That's day one.
 
-
 See you next time.
 ---
 

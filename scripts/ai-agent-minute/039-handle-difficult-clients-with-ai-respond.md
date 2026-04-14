@@ -36,7 +36,7 @@ The worst thing you can do with a difficult client is respond in real time, from
 Here's the fix. When a difficult client situation comes up -- before you respond -- bring it to Claude. Describe exactly what happened and type: "How should I respond to this situation to de-escalate, preserve the relationship, and keep the deal on track? Give me three communication approaches based on what the client's emotional state is likely to be." [ON-SCREEN: "3 approaches based on their likely emotional state"]
 Pick the one that fits. Execute it calmly. Never send an emotional response in real time.
 Difficult clients don't need a reactive agent. They need a calm, strategic one. AI helps you be that -- every single time.
-What's the most difficult client situation you've ever navigated? Tell me below -- no names needed. [ON-SCREEN: Most difficult client situation you've navigated?]
+What's the most difficult client situation you've ever navigated?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Handle Difficult Clients With AI -- Respond Strategically Watch this and save it for later.
+**Caption:** Handle Difficult Clients With AI -- Respond Strategically
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Handle Difficult Clients With AI -- Respond Strategically If this hits home, share it with an agent who needs to hear it.
+**Caption:** Handle Difficult Clients With AI -- Respond Strategically
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

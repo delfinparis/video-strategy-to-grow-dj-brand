@@ -48,7 +48,7 @@ Runs slightly long -- trim the "nobody reads past the first sentence" elaboratio
 ## Social Copy
 
 ### Instagram
-**Caption:** Rewrite Your Agent Bio With AI Watch this and save it for later.
+**Caption:** Rewrite Your Agent Bio With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Runs slightly long -- trim the "nobody reads past the first sentence" elaboratio
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Rewrite Your Agent Bio With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Rewrite Your Agent Bio With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

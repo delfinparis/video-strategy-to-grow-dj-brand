@@ -21,7 +21,6 @@ Paste it into Claude: "Turn this into a clean step-by-step SOP with a checklist 
 
 Do one process a week. In ten weeks, you have a documented business. Written systems make your business sellable, scalable, and survivable. AI makes building them take thirty minutes.
 
-
 See you next time.
 ---
 

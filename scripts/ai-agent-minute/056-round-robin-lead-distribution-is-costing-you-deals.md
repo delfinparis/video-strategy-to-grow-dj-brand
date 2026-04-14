@@ -48,7 +48,7 @@ Highly practical -- the "agent loses confidence" agitation point is strong and u
 ## Social Copy
 
 ### Instagram
-**Caption:** Round-Robin Lead Distribution Is Costing You Deals Watch this and save it for later.
+**Caption:** Round-Robin Lead Distribution Is Costing You Deals
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Highly practical -- the "agent loses confidence" agitation point is strong and u
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Round-Robin Lead Distribution Is Costing You Deals If this hits home, share it with an agent who needs to hear it.
+**Caption:** Round-Robin Lead Distribution Is Costing You Deals
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

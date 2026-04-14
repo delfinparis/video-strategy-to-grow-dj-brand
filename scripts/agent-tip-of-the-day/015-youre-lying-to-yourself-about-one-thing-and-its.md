@@ -61,7 +61,7 @@ The only weak spot is 'one thing' in the hook -- be more specific: 'You're lying
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-You're lying to yourself about one thing. Watch this and save it for later.
+You're lying to yourself about one thing.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ You're lying to yourself about one thing. This changes how you think about your 
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-You're lying to yourself about one thing. If this hits home, share it with an agent who needs to hear it.
+You're lying to yourself about one thing.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

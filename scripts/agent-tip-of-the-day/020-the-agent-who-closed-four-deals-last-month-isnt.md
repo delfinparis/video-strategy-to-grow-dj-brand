@@ -61,7 +61,7 @@ Cut 'The learning phase is over' (too coaching-speak) and the hook could be shar
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The agent who closed four deals last month isn't smarter than you. Watch this and save it for later.
+The agent who closed four deals last month isn't smarter than you.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The agent who closed four deals last month isn't smarter than you. This changes 
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The agent who closed four deals last month isn't smarter than you. If this hits home, share it with an agent who needs to hear it.
+The agent who closed four deals last month isn't smarter than you.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

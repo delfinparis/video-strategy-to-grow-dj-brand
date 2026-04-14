@@ -49,7 +49,7 @@ The 80/20 referral stat should be verified -- it's a widely cited principle but 
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A VIP Client Experience With AI Watch this and save it for later.
+**Caption:** Build A VIP Client Experience With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The 80/20 referral stat should be verified -- it's a widely cited principle but 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A VIP Client Experience With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A VIP Client Experience With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

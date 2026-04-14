@@ -20,9 +20,7 @@ Kristee Leonard -- $50 million producer in Austin -- doesn't win on strategy. Sh
 
 Smarts get you in the room. Reps win the room.
 
-
 Do this today: Stop reading about prospecting and make five calls. Reps build skill. Strategy without reps builds nothing.
-
 
 See you next time.
 ---

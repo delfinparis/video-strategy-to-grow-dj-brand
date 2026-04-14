@@ -18,7 +18,6 @@ Know insurance like you know comps. If you can't name three carriers who'll writ
 
 Call three insurance brokers this week. Ask what's actually insurable in your market right now. If you're not having this conversation before escrow, your competition is.
 
-
 See you next time.
 ---
 

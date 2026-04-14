@@ -48,7 +48,7 @@ The CTA about "worst cliché" will generate extremely high comment volume -- it'
 ## Social Copy
 
 ### Instagram
-**Caption:** Write Listing Descriptions With AI -- Three Versions Watch this and save it for later.
+**Caption:** Write Listing Descriptions With AI -- Three Versions
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The CTA about "worst cliché" will generate extremely high comment volume -- it'
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Write Listing Descriptions With AI -- Three Versions If this hits home, share it with an agent who needs to hear it.
+**Caption:** Write Listing Descriptions With AI -- Three Versions
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

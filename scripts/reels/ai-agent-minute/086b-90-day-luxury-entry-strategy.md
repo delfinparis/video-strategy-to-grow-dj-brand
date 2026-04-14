@@ -21,7 +21,6 @@ It should define: the specific neighborhoods to focus on first, how to build mar
 
 You start with people who already trust you. AI builds the plan to earn the rest.
 
-
 See you next time.
 ---
 

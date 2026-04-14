@@ -21,7 +21,6 @@ Give Claude your list of partner types and type: "Build a twelve-month referral 
 
 Give value first. The referrals follow. Every time.
 
-
 See you next time.
 ---
 

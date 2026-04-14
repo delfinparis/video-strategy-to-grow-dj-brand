@@ -20,7 +20,6 @@ Jeff Biebuyck moves luxury properties in Calabasas -- top 1% nationwide -- and h
 
 Here's your move: Before your next showing, pull the insurance estimate. Send it to your buyer on day one. Never let it kill the deal at closing.
 
-
 See you next time.
 ---
 

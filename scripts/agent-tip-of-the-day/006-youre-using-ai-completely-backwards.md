@@ -61,7 +61,7 @@ Show the before/after of one actual voice memo → AI output so viewers can see 
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-You're using AI completely backwards. Watch this and save it for later.
+You're using AI completely backwards.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ You're using AI completely backwards. This changes how you think about your busi
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-You're using AI completely backwards. If this hits home, share it with an agent who needs to hear it.
+You're using AI completely backwards.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

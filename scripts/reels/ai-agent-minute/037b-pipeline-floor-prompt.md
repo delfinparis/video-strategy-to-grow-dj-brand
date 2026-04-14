@@ -21,7 +21,6 @@ Tell Claude: "If I want a floor of two closings every month, what is the minimum
 
 Then ask Claude to block that activity into your weekly schedule. The busy season is exactly when you must protect your prospecting time. That's the only thing that ends the cycle.
 
-
 See you next time.
 ---
 

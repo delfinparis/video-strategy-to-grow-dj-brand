@@ -21,9 +21,7 @@ You set a goal at the beginning of the year. By March, you forgot you set it.
 
 And hope is not a production strategy. A goal without a daily activity attached to it is just an expensive disappointment.
 
-
 Here's what I'd do. Open Claude and type: "Take my income goal and reverse-engineer exactly how many leads, appointments, and closings I need each month to hit it."
-
 
 See you next time.
 ---

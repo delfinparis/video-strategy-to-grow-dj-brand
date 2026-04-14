@@ -21,7 +21,6 @@ Each pitch should offer a specific, timely angle. Not "I'm a great agent" -- "he
 
 Send all five this week. One yes permanently elevates your profile.
 
-
 See you next time.
 ---
 

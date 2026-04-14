@@ -49,7 +49,7 @@ The mirror moment ("shorter with clients, dreading Sunday nights, grinding but t
 ## Social Copy
 
 ### Instagram
-**Caption:** Catch Burnout Early With AI -- Before It Costs You Everything Watch this and save it for later.
+**Caption:** Catch Burnout Early With AI -- Before It Costs You Everything
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The mirror moment ("shorter with clients, dreading Sunday nights, grinding but t
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Catch Burnout Early With AI -- Before It Costs You Everything If this hits home, share it with an agent who needs to hear it.
+**Caption:** Catch Burnout Early With AI -- Before It Costs You Everything
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

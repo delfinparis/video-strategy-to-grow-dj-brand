@@ -36,7 +36,7 @@ Most agents create one post. Top producers create one asset -- and turn it into 
 Here's the workflow. Give Claude any long-form content you've created -- a video transcript, a podcast clip, a newsletter. Then type: "Turn this into: one LinkedIn post, three Instagram captions, five short insights I could post as text, and one email subject line I could test. Preserve the core idea -- adapt the tone and format for each platform." [ON-SCREEN: "1 LinkedIn + 3 Instagram + 5 text posts + 1 email subject line"]
 In fifteen minutes, one piece of content becomes a full week across every channel.
 Create once. Distribute everywhere. This is the workflow the most consistent creators use -- and you can start it with your next piece of content.
-What's the best piece of content you've ever created that most people never saw? Tell me about it below. [ON-SCREEN: What's your best content that nobody saw?]
+What's the best piece of content you've ever created that most people never saw?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ The specific output list ("1 LinkedIn + 3 Instagram + 5 text + 1 email subject")
 ## Social Copy
 
 ### Instagram
-**Caption:** Repurpose One Piece Of Content Into A Week Of Posts Watch this and save it for later.
+**Caption:** Repurpose One Piece Of Content Into A Week Of Posts
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The specific output list ("1 LinkedIn + 3 Instagram + 5 text + 1 email subject")
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Repurpose One Piece Of Content Into A Week Of Posts If this hits home, share it with an agent who needs to hear it.
+**Caption:** Repurpose One Piece Of Content Into A Week Of Posts
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

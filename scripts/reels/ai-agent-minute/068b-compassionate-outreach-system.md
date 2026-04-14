@@ -21,7 +21,6 @@ Ask Claude: "Write a homeowner outreach system for someone in pre-foreclosure. I
 
 The agent who reaches out with empathy before the bank does something irreversible is doing real work.
 
-
 See you next time.
 ---
 

@@ -36,7 +36,7 @@ And the worst part? The overwhelm of having too many tools often stops agents fr
 Here's the fix. List every tool you're currently subscribed to and how often you actually use each one. Give that list to Claude and type: "For a solo real estate agent doing [X] deals per year, which of these tools overlap, which should I cut immediately, and what's the one missing capability that would have the highest ROI?" [ON-SCREEN: "Which should I cut -- and what am I missing?"]
 Then actually cancel what it tells you to cut. And go all in on what stays.
 One tool mastered is worth ten tools barely touched. Most agents have it exactly backwards.
-How many software tools are you currently paying for? Drop the number -- no judgment. [ON-SCREEN: How many tools are you paying for right now?]
+How many software tools are you currently paying for?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Audit Your Tech Stack With AI -- Cut What You Don't Use Watch this and save it for later.
+**Caption:** Audit Your Tech Stack With AI -- Cut What You Don't Use
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Audit Your Tech Stack With AI -- Cut What You Don't Use If this hits home, share it with an agent who needs to hear it.
+**Caption:** Audit Your Tech Stack With AI -- Cut What You Don't Use
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

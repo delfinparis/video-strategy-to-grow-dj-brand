@@ -36,7 +36,7 @@ Meanwhile the top listing agents in every market I've talked to in twelve years 
 Here's what that looks like. The night before any listing appointment, give Claude the property address, recent neighborhood comps, and the seller's name. Then type: "Generate the five most likely objections I'll face at this specific listing appointment, a response to each one, and three value-differentiators specific to this property and neighborhood." [ON-SCREEN: "Generate the 5 objections I'll face -- and a response to each"]
 Walk in knowing what they'll push back on. With your answer already ready.
 This prep takes fifteen minutes. It is the highest-ROI fifteen minutes in listing sales.
-What's the most common objection you face at listing appointments? Tell me in the comments. [ON-SCREEN: What's your most common listing objection?]
+What's the most common objection you face at listing appointments?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Top-10 candidate -- film in week one. The "homework the night before" framing is
 ## Social Copy
 
 ### Instagram
-**Caption:** Prep Listing Appointments With AI -- Win Before You Walk In Watch this and save it for later.
+**Caption:** Prep Listing Appointments With AI -- Win Before You Walk In
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Top-10 candidate -- film in week one. The "homework the night before" framing is
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Prep Listing Appointments With AI -- Win Before You Walk In If this hits home, share it with an agent who needs to hear it.
+**Caption:** Prep Listing Appointments With AI -- Win Before You Walk In
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

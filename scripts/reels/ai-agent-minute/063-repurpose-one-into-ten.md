@@ -21,7 +21,6 @@ Give Claude any long-form content -- a video transcript, podcast clip, or newsle
 
 In fifteen minutes, one piece of content becomes a full week across every channel. Create once. Distribute everywhere.
 
-
 See you next time.
 ---
 

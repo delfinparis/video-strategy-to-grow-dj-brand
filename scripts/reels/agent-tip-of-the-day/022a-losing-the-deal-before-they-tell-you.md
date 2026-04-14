@@ -20,9 +20,7 @@ Tim Burrell runs his negotiation emails through ChatGPT with a custom prompt. It
 
 He's got a prompt that reads every buyer and seller email during inspection periods and flags anything above a 6 out of 10 on the frustration scale. You get the warning before you send the reply that kills the deal.
 
-
 Do this after your next showing: Ask your buyer one question -- "What's your gut telling you right now?" Then actually listen.
-
 
 See you next time.
 ---

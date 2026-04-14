@@ -21,7 +21,6 @@ The "ask me as you go" part is the key. It turns Claude into a planning partner,
 
 Print it. Review monthly. Adjust quarterly.
 
-
 See you next time.
 ---
 

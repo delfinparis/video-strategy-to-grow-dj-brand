@@ -36,7 +36,7 @@ Three months in, the deal falls apart. And they're not sure why. But you are. [O
 Here's the fix. Before any buyer consultation, give Claude their profile -- first-time buyer, price range, timeline, the market they're shopping -- and type: "Give me the ten most important questions I should ask this buyer, the five market realities they need to hear before we start looking, and two scenarios where buyers in their situation typically get frustrated." [ON-SCREEN: "Give me the 10 questions and 5 market realities they need to hear"]
 Walk in with a real structure. Not a blank stare.
 A great buyer consultation saves you thirty hours of frustration later. Claude helps you run one every single time.
-Do you have a formal buyer consultation process -- or do you wing it? Be honest in the comments. [ON-SCREEN: Do you have a formal buyer consultation -- or do you wing it?]
+Do you have a formal buyer consultation process -- or do you wing it?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ The "three months in, the deal falls apart -- and you know why" re-hook lands we
 ## Social Copy
 
 ### Instagram
-**Caption:** Prep Buyer Consultations With AI -- Set Expectations Watch this and save it for later.
+**Caption:** Prep Buyer Consultations With AI -- Set Expectations
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The "three months in, the deal falls apart -- and you know why" re-hook lands we
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Prep Buyer Consultations With AI -- Set Expectations If this hits home, share it with an agent who needs to hear it.
+**Caption:** Prep Buyer Consultations With AI -- Set Expectations
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

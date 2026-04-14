@@ -61,7 +61,7 @@ The CTA homework is too vague -- give them one specific attraction tactic to imp
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-If you're still chasing clients, you've already lost. Watch this and save it for later.
+If you're still chasing clients, you've already lost.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ If you're still chasing clients, you've already lost. This changes how you think
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-If you're still chasing clients, you've already lost. If this hits home, share it with an agent who needs to hear it.
+If you're still chasing clients, you've already lost.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

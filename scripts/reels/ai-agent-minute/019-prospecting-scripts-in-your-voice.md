@@ -21,7 +21,6 @@ Here's the fix. Tell Claude: "I'm a real estate agent. I tend to be warm and con
 
 Practice the one that fits until it's automatic. Authenticity is a competitive advantage. AI helps you find yours.
 
-
 See you next time.
 ---
 

@@ -21,9 +21,7 @@ Not because they didn't work hard. Because they were working without a map.
 
 A one-hour investment in planning is worth more than a hundred hours of unfocused effort. The math is not close.
 
-
 Try this: Open Claude and type "Build me a one-page annual business plan I'll actually use -- not a 30-page document I'll forget by February."
-
 
 See you next time.
 ---

@@ -35,7 +35,7 @@ Most team leaders spend thousands of dollars recruiting an agent and almost noth
 And here's the part most leaders miss -- the agent doesn't blame themselves when they leave. They blame you.
 Here's the fix. Ask Claude: "Build me a ninety-day agent onboarding program. Include week-by-week training milestones, a system-by-system resource checklist, a mentor pairing structure, weekly manager check-in questions, and the specific metrics that define a successfully onboarded agent." Claude builds you a first draft in minutes. You refine it once. Every new agent gets the same structured experience from day one -- no more figuring it out alone. [ON-SCREEN: Prompt → "Build me a 90-day agent onboarding program with week-by-week milestones, resource checklists, mentor structure, and graduation metrics."]
 In twelve years of interviewing top team leaders on Keeping It Real, the ones with the lowest turnover all said the same thing: onboarding isn't an HR function -- it's a retention strategy. The investment you make in a new agent's first ninety days determines whether they're still on your team in year three.
-What's the biggest gap in how you currently onboard new agents? Drop it in the comments -- I'm building a follow-up episode around the most common answers. [ON-SCREEN: What's your biggest onboarding gap?]
+What's the biggest gap in how you currently onboard new agents?
 "See you next time."
 
 ## Producer Note
@@ -48,7 +48,7 @@ Strong "film this soon" candidate for team leader audience -- the "they blame yo
 ## Social Copy
 
 ### Instagram
-**Caption:** Your Onboarding Process Is Why They Leave Watch this and save it for later.
+**Caption:** Your Onboarding Process Is Why They Leave
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Strong "film this soon" candidate for team leader audience -- the "they blame yo
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Your Onboarding Process Is Why They Leave If this hits home, share it with an agent who needs to hear it.
+**Caption:** Your Onboarding Process Is Why They Leave
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

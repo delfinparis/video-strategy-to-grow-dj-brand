@@ -21,7 +21,6 @@ Give Claude the tiers and type: "Build a twelve-month touchpoint calendar for ea
 
 You now have a scheduled referral generation system. Not hope. A system.
 
-
 See you next time.
 ---
 

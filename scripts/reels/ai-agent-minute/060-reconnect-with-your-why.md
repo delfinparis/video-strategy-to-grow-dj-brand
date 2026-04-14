@@ -21,7 +21,6 @@ Set aside thirty minutes with Claude. Type: "Ask me these four questions and hel
 
 Print what Claude builds. Put it where you'll see it on the hard days. Clarity about your why doesn't make hard days easy. It makes them worthwhile.
 
-
 See you next time.
 ---
 

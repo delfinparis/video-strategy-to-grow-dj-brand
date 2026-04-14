@@ -20,7 +20,6 @@ A past client's coworker whose agent went dark during inspection. She needed som
 
 People don't want to leave voicemails about six-figure decisions. They want a human. Right now. Go into your phone settings. Turn off "Silence Unknown Callers." Answer every call for seven days. See what happens.
 
-
 See you next time.
 ---
 

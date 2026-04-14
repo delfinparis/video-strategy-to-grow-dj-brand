@@ -21,9 +21,7 @@ The two or three things quietly working in your business -- the lead source that
 
 Most agents grow by adding new things. Top producers often grow by doing more of what already works. Growth doesn't always come from something new.
 
-
-Try this: Open Claude and type "Here's everything I do in my real estate business. Tell me what to double down on and what to drop." Then list it all.
-
+Try this: Open Claude and type "Here's everything I do in my real estate business. " Then list it all.
 
 See you next time.
 ---

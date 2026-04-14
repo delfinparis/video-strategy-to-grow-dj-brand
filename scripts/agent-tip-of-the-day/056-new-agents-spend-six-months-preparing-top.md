@@ -43,7 +43,7 @@ Here's what nobody tells you: your first ten conversations will be terrible. And
 *Production: Close-up of agent's face showing nerves turning to determination*
 
 ### CTA (0:50-0:60)
-So here's your assignment: before you watch another training video, do one thing that scares you. Door-knock five homes. Call three expireds. Host an open house. Then tell me what you learned that no course could've taught you.
+So here's your assignment: before you watch another training video, do one thing that scares you. Door-knock five homes. Call three expireds. Host an open house. Then
 
 *Production: Direct to camera, confident energy. End on freeze frame of agent taking first step out the door*
 
@@ -61,7 +61,7 @@ The CTA is strong but generic -- name the exact expired script or door-knock ope
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-New agents spend six months preparing. Watch this and save it for later.
+New agents spend six months preparing.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ New agents spend six months preparing. This changes how you think about your bus
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-New agents spend six months preparing. If this hits home, share it with an agent who needs to hear it.
+New agents spend six months preparing.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

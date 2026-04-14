@@ -18,7 +18,6 @@ One of Karina Chavez's clients called her years after closing, panicking about a
 
 You're not selling houses. You're selling the thing that catches people when they fall. But only if they understand what they own. That's the difference between a transaction and a relationship that lasts decades.
 
-
 See you next time.
 ---
 

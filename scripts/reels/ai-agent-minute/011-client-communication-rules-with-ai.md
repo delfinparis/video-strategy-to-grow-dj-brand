@@ -21,7 +21,6 @@ Here's the fix. Ask Claude: "Write a warm, professional one-page document that s
 
 Send it to every new client at the start. It's not a boundary. It's a system. And systems are how great agents protect the time that makes them great.
 
-
 See you next time.
 ---
 

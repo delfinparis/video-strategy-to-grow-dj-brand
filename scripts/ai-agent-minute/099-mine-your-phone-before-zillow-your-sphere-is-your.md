@@ -35,11 +35,11 @@ Here's what actually happens. The panic sets in, you think you need to buy leads
 And the agents who go broke in year one almost always made the same mistake -- they bought strangers while their sphere went quiet. [ON-SCREEN: "They bought strangers while their sphere went quiet"]
 Here's the fix. Open Claude and list your contact categories -- neighbors, former coworkers, college connections, gym people. Then type: "Write a personal, non-salesy outreach message for each of these groups explaining why I got into real estate. Not a mass announcement -- individual messages that feel like they came from a friend." Then ask it for ten conversation starters for reconnecting with someone you haven't spoken to in a year. Not pitches. Real conversations. [ON-SCREEN: "Write personal outreach messages -- not mass announcements"]
 Your sphere doesn't need to be sold to. It just needs to be reminded you exist.
-How many contacts in your phone right now have no idea you're in real estate? Drop the number below. [ON-SCREEN: Drop the number below]
+How many contacts in your phone right now have no idea you're in real estate?
 See you next time.
 
 ## Producer Note
-Runs slightly long -- trim "gym people" or the second agitation line on delivery. Best for platforms with high new-agent traffic. The comment CTA ("drop the number") will get high engagement because it's easy and slightly game-like.
+Runs slightly long -- trim "gym people" or the second agitation line on delivery. Best for platforms with high new-agent traffic. The comment CTA ("
 
 **Word Count:** 214 | **Estimated Duration:** ~100 seconds
 
@@ -48,7 +48,7 @@ Runs slightly long -- trim "gym people" or the second agitation line on delivery
 ## Social Copy
 
 ### Instagram
-**Caption:** Mine Your Phone Before Zillow -- Your Sphere Is Your First Lead Source Watch this and save it for later.
+**Caption:** Mine Your Phone Before Zillow -- Your Sphere Is Your First Lead Source
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Runs slightly long -- trim "gym people" or the second agitation line on delivery
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Mine Your Phone Before Zillow -- Your Sphere Is Your First Lead Source If this hits home, share it with an agent who needs to hear it.
+**Caption:** Mine Your Phone Before Zillow -- Your Sphere Is Your First Lead Source
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

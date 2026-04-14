@@ -36,7 +36,7 @@ And the sad part is -- most of those "nos" had nothing to do with you at all. [O
 Here's something that actually helps. After a rough prospecting session, paste the specific call that shook you into Claude and type: "Help me reframe this from a psychological distance. Give me three alternative explanations for why this person said no that have absolutely nothing to do with my competence or my value." [ON-SCREEN: "3 alternative explanations that have nothing to do with my competence"]
 Claude will give you a perspective shift you couldn't give yourself in that moment.
 Rejection processing is a skill. AI helps you build it faster than experience alone ever could.
-What's the rejection that stuck with you the longest? Tell me in the comments -- you're not alone in this. [ON-SCREEN: What rejection stuck with you the longest?]
+What's the rejection that stuck with you the longest?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Reframe Rejection With AI -- Stop Taking It Personally Watch this and save it for later.
+**Caption:** Reframe Rejection With AI -- Stop Taking It Personally
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Reframe Rejection With AI -- Stop Taking It Personally If this hits home, share it with an agent who needs to hear it.
+**Caption:** Reframe Rejection With AI -- Stop Taking It Personally
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

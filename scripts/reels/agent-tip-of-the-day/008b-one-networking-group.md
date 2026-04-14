@@ -18,7 +18,6 @@ You don't need a thousand leads. You need twenty people who trust you in ONE wor
 
 Tonight, Google your city plus an industry networking group. Find one meetup happening this month. RSVP before you go to bed. Show up. Don't pitch. Listen. That's how this starts.
 
-
 See you next time.
 ---
 

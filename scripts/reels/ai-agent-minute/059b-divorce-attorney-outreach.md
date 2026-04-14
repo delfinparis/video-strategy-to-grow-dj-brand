@@ -21,7 +21,6 @@ Ask Claude: "Draft a divorce attorney outreach package -- a professional introdu
 
 Identify five family law attorneys in your market. Send it this week. This isn't predatory -- it's one of the most helpful things an agent can do.
 
-
 See you next time.
 ---
 

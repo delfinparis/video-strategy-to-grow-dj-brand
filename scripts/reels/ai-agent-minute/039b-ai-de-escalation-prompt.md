@@ -23,7 +23,6 @@ Pick the one that fits. Execute it calmly. Never send an emotional response in r
 
 Difficult clients don't need a reactive agent. They need a calm, strategic one. Claude helps you be that every time.
 
-
 See you next time.
 ---
 

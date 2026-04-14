@@ -23,7 +23,6 @@ After your open house, type quick notes about each visitor into Claude -- what t
 
 Not a template. A message that makes them think: this agent remembered me.
 
-
 See you next time.
 ---
 

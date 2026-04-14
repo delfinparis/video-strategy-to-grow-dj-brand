@@ -35,7 +35,7 @@ Here's the gap most agents are missing. Gen Z buyers have done twelve hours of r
 Most agents know one generation well. The top producers adapt their approach to whoever is in front of them. [ON-SCREEN: "Adapt your approach -- or lose them before the first showing"]
 Here's how to adapt. Use Perplexity to pull current research on Gen Z home-buying behavior -- what they value, how they communicate, what their actual financial profile looks like. Then bring that into Claude and type: "Based on this research, help me rewrite my buyer consultation, my follow-up process, and my communication style specifically for a Gen Z first-time buyer." [ON-SCREEN: "Rewrite my process for Gen Z -- consultation, follow-up, communication"]
 Here's the number that should get your attention: Gen Z is making fifty percent more income than Boomers were at their age. They can afford homes. The question is whether you can afford to ignore them.
-Have you worked with a Gen Z buyer? Tell me what surprised you most. [ON-SCREEN: Worked with a Gen Z buyer? What surprised you?]
+Have you worked with a Gen Z buyer?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ Verify the "50% more income than Boomers at their age" stat before filming -- wi
 ## Social Copy
 
 ### Instagram
-**Caption:** Learn Gen Z Buyer Behavior With AI -- Adapt Now Watch this and save it for later.
+**Caption:** Learn Gen Z Buyer Behavior With AI -- Adapt Now
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Verify the "50% more income than Boomers at their age" stat before filming -- wi
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Learn Gen Z Buyer Behavior With AI -- Adapt Now If this hits home, share it with an agent who needs to hear it.
+**Caption:** Learn Gen Z Buyer Behavior With AI -- Adapt Now
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

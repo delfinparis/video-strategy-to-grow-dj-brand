@@ -23,7 +23,6 @@ Imposter syndrome thrives in the dark. When you can see in writing what you actu
 
 You don't need to know everything. You need to know more than your client. And you already do.
 
-
 See you next time.
 ---
 

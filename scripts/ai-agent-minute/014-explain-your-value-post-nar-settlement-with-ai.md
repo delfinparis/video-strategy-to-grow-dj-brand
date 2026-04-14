@@ -35,7 +35,7 @@ Here's what's happening at first meetings right now. Buyers are being asked to s
 And some agents are losing clients before the first showing. Because they stumble through it. [ON-SCREEN: "Losing clients before the first showing"]
 Here's the fix. Ask Claude to help you build a two-minute value conversation for new buyers. Type: "Write a clear, confident explanation of what I do as a buyer's agent, why a representation agreement actually protects the buyer -- not just me -- and what the compensation conversation looks like in plain English. Make it sound like a real person talking, not a legal disclosure." Then have Claude play a skeptical buyer who just read about the settlement online and push back on you. [ON-SCREEN: "Clear. Confident. Plain English. Sounds like a person."]
 Practice until it stops feeling like a pitch and starts feeling like a conversation.
-How are you currently handling the buyer rep agreement conversation? Tell me your approach below. [ON-SCREEN: How do you handle the buyer rep conversation?]
+How are you currently handling the buyer rep agreement conversation?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ Highly time-sensitive -- film immediately. Post-NAR settlement content has signi
 ## Social Copy
 
 ### Instagram
-**Caption:** Explain Your Value Post-NAR Settlement With AI Watch this and save it for later.
+**Caption:** Explain Your Value Post-NAR Settlement With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Highly time-sensitive -- film immediately. Post-NAR settlement content has signi
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Explain Your Value Post-NAR Settlement With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Explain Your Value Post-NAR Settlement With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

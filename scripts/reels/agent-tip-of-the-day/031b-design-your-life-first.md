@@ -20,7 +20,6 @@ Garrett mapped his ideal week first -- family dinners, gym, date nights -- then 
 
 You're not lazy for wanting boundaries. You're strategic.
 
-
 See you next time.
 ---
 

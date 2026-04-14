@@ -21,9 +21,7 @@ The 9 PM texts. The "why didn't you tell me about this?" conversation. The clien
 
 Most agents hope clients figure it out. Top producers explain it upfront -- before the first problem.
 
-
 Here's what I'd do. Open Claude and type: "Help me write a client expectations document I can send at the start of every transaction to prevent after-hours emergencies."
-
 
 See you next time.
 ---

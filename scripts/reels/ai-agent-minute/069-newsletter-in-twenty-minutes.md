@@ -21,7 +21,6 @@ Here's how to make it take twenty minutes. Give Claude one local market stat, on
 
 Consistency over perfection. Every single time.
 
-
 See you next time.
 ---
 

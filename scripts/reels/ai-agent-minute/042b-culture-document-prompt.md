@@ -21,7 +21,6 @@ Prompt: "Help me write a team culture document defining: behaviors we celebrate 
 
 Share it with every current and prospective team member. A defined culture document is a recruiting tool, a retention tool, and an accountability tool -- all built in one afternoon.
 
-
 See you next time.
 ---
 

@@ -21,7 +21,6 @@ Type: "I'm a real estate agent. My five content themes are [list them]. My audie
 
 Pick your twenty favorites. Refine them. Schedule them out. Done. Most agents post when inspired. Top producers post on a schedule.
 
-
 See you next time.
 ---
 

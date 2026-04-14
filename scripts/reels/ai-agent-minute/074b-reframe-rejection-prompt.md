@@ -21,7 +21,6 @@ Type: "Help me reframe this from a psychological distance. Give me three alterna
 
 Claude will give you a perspective shift you couldn't give yourself in that moment. Rejection processing is a skill. AI helps you build it faster than experience alone ever could.
 
-
 See you next time.
 ---
 

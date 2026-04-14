@@ -20,7 +20,6 @@ That knot in your stomach? Bari Mill felt it too. She's now a $40 million produc
 
 Grieve for five minutes. Then get back on the phone.
 
-
 See you next time.
 ---
 

@@ -61,7 +61,7 @@ The CTA is too generic for how specific the insight is -- give them the exact th
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your buyers aren't walking away from the house. Watch this and save it for later.
+Your buyers aren't walking away from the house.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your buyers aren't walking away from the house. This changes how you think about
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your buyers aren't walking away from the house. If this hits home, share it with an agent who needs to hear it.
+Your buyers aren't walking away from the house.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

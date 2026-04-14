@@ -23,7 +23,6 @@ Then say it out loud three times. Not to be perfect. Just to hear yourself say t
 
 Claude gets you past the blank page so you can get past the blank stare.
 
-
 See you next time.
 ---
 

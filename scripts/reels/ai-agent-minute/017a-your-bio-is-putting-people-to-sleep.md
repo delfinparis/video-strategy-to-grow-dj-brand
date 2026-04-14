@@ -21,9 +21,7 @@ It says nothing about who John is, who he's best at helping, or why anyone would
 
 Most bios prove the agent exists. Top producer bios make you want to call before you've finished reading. Your bio isn't a resume. It's your first sales conversation.
 
-
 Here's what I'd do. Open Claude and say "Rewrite my real estate bio so it sounds like a human wrote it -- not a committee. Here's what I have now." Then paste yours in.
-
 
 See you next time.
 ---

@@ -36,7 +36,7 @@ You're starting from zero every time -- with a lead you already paid for. [ON-SC
 Here's the fix -- and it takes ninety seconds. Right after any call or showing, open your voice-to-text app and talk for sixty seconds: what the person said, what they care about, where they are in the process. Then paste that voice memo into Claude and type: "Reformat this into clean CRM notes with a summary, next action, and follow-up date." [ON-SCREEN: "Reformat this into CRM notes with summary, next action, and follow-up date"]
 Paste the result into your CRM. Done.
 Your database is your retirement account. Treat every note like a deposit.
-How up-to-date are your CRM notes right now? Scale of one to ten -- drop it below. [ON-SCREEN: Rate your CRM notes 1 -- 10]
+How up-to-date are your CRM notes right now? Scale of one to ten --
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ The "retirement account" metaphor is the most memorable line -- make it the visu
 ## Social Copy
 
 ### Instagram
-**Caption:** Take CRM Notes With AI In 90 Seconds Watch this and save it for later.
+**Caption:** Take CRM Notes With AI In 90 Seconds
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The "retirement account" metaphor is the most memorable line -- make it the visu
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Take CRM Notes With AI In 90 Seconds If this hits home, share it with an agent who needs to hear it.
+**Caption:** Take CRM Notes With AI In 90 Seconds
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

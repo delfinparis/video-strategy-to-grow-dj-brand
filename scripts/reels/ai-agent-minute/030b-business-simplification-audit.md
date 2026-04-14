@@ -21,7 +21,6 @@ Then ask: "Which of these are most likely driving eighty percent of my productio
 
 Then do the hard thing -- actually cut what it tells you to cut. Agents who do this report getting more done in thirty hours than they used to in fifty.
 
-
 See you next time.
 ---
 

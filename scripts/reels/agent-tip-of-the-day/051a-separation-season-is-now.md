@@ -18,9 +18,7 @@ While you're planning to coast, someone else is planning to bury you.
 
 Mindset coach Paul Salter calls every slow stretch separation season. Not downtime. While eighty percent of agents use quiet periods as an excuse, the top five percent use them as a weapon. They're calling past clients. They're texting sphere contacts who haven't heard from them in months. They're door-knocking expireds on Saturday mornings. The gap between you and them doesn't widen someday. It widens right now.
 
-
 Do this today: Show up. Make the calls. Send the follow-ups. While half the agents in your market coast, you compound.
-
 
 See you next time.
 ---

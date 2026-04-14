@@ -20,9 +20,7 @@ Every few months, agents ease up. Long weekends, slow stretches, vacation mode. 
 
 She's calling the people who bought during the pandemic. Their values are up, rates dropped, and they're ready to have the conversation. She's texting cash buyers about off-market opportunities. She's booking listing appointments while everyone else scrolls their phone.
 
-
 Do this today: Make a list of 10 prospects to contact while everyone else slows down. The off-season is when consistent agents pull ahead.
-
 
 See you next time.
 ---

@@ -49,7 +49,7 @@ Verify the 70%/11% stat before filming -- it's widely cited in real estate circl
 ## Social Copy
 
 ### Instagram
-**Caption:** Automate Post-Closing Client Check-Ins With AI Watch this and save it for later.
+**Caption:** Automate Post-Closing Client Check-Ins With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Verify the 70%/11% stat before filming -- it's widely cited in real estate circl
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Automate Post-Closing Client Check-Ins With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Automate Post-Closing Client Check-Ins With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

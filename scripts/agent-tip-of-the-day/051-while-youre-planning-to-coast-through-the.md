@@ -61,7 +61,7 @@ The CTA is perfect but the setup repeats 'separation season' too many times -- t
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-While you're planning to coast through the holidays, someone else is planning to bury you. Watch this and save it for later.
+While you're planning to coast through the holidays, someone else is planning to bury you.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ While you're planning to coast through the holidays, someone else is planning to
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-While you're planning to coast through the holidays, someone else is planning to bury you. If this hits home, share it with an agent who needs to hear it.
+While you're planning to coast through the holidays, someone else is planning to bury you.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

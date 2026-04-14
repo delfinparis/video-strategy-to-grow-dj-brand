@@ -21,7 +21,6 @@ Type: "Allocate my budget across channels based on my production stage, target c
 
 Then build a simple tracker -- lead source, cost, leads generated, closings attributed, ROI. Review it every ninety days. Let the data decide where next quarter's budget goes. Not your gut.
 
-
 See you next time.
 ---
 

@@ -21,7 +21,6 @@ Give Claude your lead's profile and type: "Write a three-touch re-engagement seq
 
 Every message gives them a reason to respond. None of them makes them feel guilty for going quiet.
 
-
 See you next time.
 ---
 

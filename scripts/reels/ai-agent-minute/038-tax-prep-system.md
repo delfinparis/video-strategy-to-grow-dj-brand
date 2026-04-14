@@ -23,7 +23,6 @@ Fix it today. Tell Claude: "Give me every deductible expense category for a self
 
 Every dollar you fail to track is a dollar you hand to the IRS for free.
 
-
 See you next time.
 ---
 

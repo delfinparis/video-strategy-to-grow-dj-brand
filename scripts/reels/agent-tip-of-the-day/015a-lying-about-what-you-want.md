@@ -20,7 +20,6 @@ Coach Paul Salter had a client -- 15 years in, $8 million in production -- who s
 
 Do this tonight: Write down the number you actually want to hit this year. The real one. Then ask -- does your calendar match it?
 
-
 See you next time.
 ---
 

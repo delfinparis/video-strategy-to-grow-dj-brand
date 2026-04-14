@@ -61,7 +61,7 @@ The hook is strong but slightly confusing on first read -- clarify that she 'sto
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Most agents are converting leads. Watch this and save it for later.
+Most agents are converting leads.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Most agents are converting leads. This changes how you think about your business
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Most agents are converting leads. If this hits home, share it with an agent who needs to hear it.
+Most agents are converting leads.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

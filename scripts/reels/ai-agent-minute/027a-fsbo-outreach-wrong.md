@@ -21,9 +21,7 @@ Here's why FSBO outreach fails: you lead with the commission objection before th
 
 The agent who genuinely helps them try is the one who earns the listing when they give up.
 
-
 Try this: Open Claude and type "Write me a three-touch FSBO outreach sequence that leads with value, not a pitch."
-
 
 See you next time.
 ---

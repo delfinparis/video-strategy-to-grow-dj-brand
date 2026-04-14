@@ -61,7 +61,7 @@ The CTA is solid but could be more actionable -- add 'Then text the lowest-price
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The $200K listing is killing your $2M career. Watch this and save it for later.
+The $200K listing is killing your $2M career.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The $200K listing is killing your $2M career. This changes how you think about y
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The $200K listing is killing your $2M career. If this hits home, share it with an agent who needs to hear it.
+The $200K listing is killing your $2M career.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

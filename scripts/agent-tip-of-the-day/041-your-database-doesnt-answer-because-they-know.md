@@ -61,7 +61,7 @@ The CTA is slightly soft -- tell them exactly what one gold bar looks like (e.g.
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your database doesn't answer because they know you're calling to take, not give. Watch this and save it for later.
+Your database doesn't answer because they know you're calling to take, not give.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your database doesn't answer because they know you're calling to take, not give.
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your database doesn't answer because they know you're calling to take, not give. If this hits home, share it with an agent who needs to hear it.
+Your database doesn't answer because they know you're calling to take, not give.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

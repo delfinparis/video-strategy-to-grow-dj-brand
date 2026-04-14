@@ -21,7 +21,6 @@ Prompt: "Generate a strategy including: targeted letters to homeowners who might
 
 Low inventory is the default excuse for slow business. It doesn't have to be yours. Stop waiting for the MLS and start generating your own pipeline.
 
-
 See you next time.
 ---
 

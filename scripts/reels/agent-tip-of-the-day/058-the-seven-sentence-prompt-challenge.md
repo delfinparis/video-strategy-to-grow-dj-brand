@@ -18,7 +18,6 @@ Your AI listings sound robotic because you're writing one sentence when you need
 
 When you throw a listing into ChatGPT and just say "rewrite this," you get garbage. A good prompt isn't a command -- it's a conversation. Tell it your voice, your buyer, the home's story, what to emphasize, what to avoid. Seven or eight sentences minimum. The agents getting great results are writing prompts longer than the listing itself. Next time, write seven sentences before you hit enter. Tell it who you are, who you're writing for, and what makes this property different.
 
-
 See you next time.
 ---
 

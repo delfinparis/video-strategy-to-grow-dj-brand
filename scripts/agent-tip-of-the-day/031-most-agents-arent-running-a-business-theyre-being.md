@@ -61,7 +61,7 @@ The CTA is too vague -- give them a specific first step like 'screenshot your ca
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Most agents aren't running a business. Watch this and save it for later.
+Most agents aren't running a business.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Most agents aren't running a business. This changes how you think about your bus
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Most agents aren't running a business. If this hits home, share it with an agent who needs to hear it.
+Most agents aren't running a business.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

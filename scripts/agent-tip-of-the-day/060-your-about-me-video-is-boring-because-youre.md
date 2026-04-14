@@ -61,7 +61,7 @@ Hook needs a sharper pain point -- 'boring' is vague; try 'Your about me video g
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your about me video is boring because you're bragging about the wrong things. Watch this and save it for later.
+Your about me video is boring because you're bragging about the wrong things.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your about me video is boring because you're bragging about the wrong things. Th
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your about me video is boring because you're bragging about the wrong things. If this hits home, share it with an agent who needs to hear it.
+Your about me video is boring because you're bragging about the wrong things.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

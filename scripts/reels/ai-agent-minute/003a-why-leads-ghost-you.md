@@ -21,9 +21,7 @@ A lead going quiet doesn't mean they're gone. It almost always means your last m
 
 Clients ghost when they feel pressure. Not when they feel value. Stop chasing. Start giving them a reason to come back.
 
-
 Here's what I'd do. Open Claude and type: "Help me figure out why my leads go silent and build a follow-up sequence for the first 48 hours that keeps the conversation alive."
-
 
 See you next time.
 ---

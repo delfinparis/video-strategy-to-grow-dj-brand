@@ -36,7 +36,7 @@ Most agents post when inspired. The top producers post on a plan -- and that pla
 Here's how to build the plan. Sit down with Claude and type: "Help me build a ninety-day content calendar. My five content pillars are [list them]. I post [X] times a week. My two main goals are [leads/recruiting/both]. Generate a week-by-week plan with content type, topic, hook, and CTA for each post." [ON-SCREEN: "90-day calendar -- topic, hook, and CTA for every post"]
 Print it. Put it on your wall. Execute it. Come back in ninety days and see what actually worked.
 Content that compounds is content that was planned. Spontaneous posts generate spontaneous results -- which is to say, almost none.
-Do you have a content calendar right now -- or are you figuring it out day by day? Tell me below. [ON-SCREEN: Content calendar -- or figuring it out daily?]
+Do you have a content calendar right now -- or are you figuring it out day by day?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Mild overlap with Script #17 (content batching) -- keep this focused on the stra
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A 90-Day Content Calendar With AI Watch this and save it for later.
+**Caption:** Build A 90-Day Content Calendar With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Mild overlap with Script #17 (content batching) -- keep this focused on the stra
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A 90-Day Content Calendar With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A 90-Day Content Calendar With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

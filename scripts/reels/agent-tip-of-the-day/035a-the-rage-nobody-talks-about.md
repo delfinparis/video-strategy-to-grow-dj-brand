@@ -20,9 +20,7 @@ Author Marisa Kashino described a character with "this constantly simmering rage
 
 Perfect agent. Perfect parent. Perfect feed. You're performing success while the bar keeps moving. The rage isn't anger at clients. It's anger at the impossible standard you're racing toward.
 
-
 Do this today: Post one imperfect thing on social media. A quick video, a real opinion, an unpolished photo. Done beats perfect.
-
 
 See you next time.
 ---

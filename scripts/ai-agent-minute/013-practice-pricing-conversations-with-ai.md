@@ -36,7 +36,7 @@ And the agent does it again at the next appointment -- because they still haven'
 Here's how you build it before the appointment. Tell Claude: "Act as a seller who believes their home is worth fifty thousand more than the comps support, and who is emotionally attached to every inch of it. I need to walk you toward the right price without losing the listing. Push back exactly the way they would." [ON-SCREEN: "Act as a seller who believes their home is worth $50k more than comps"]
 Run this every week. Ten minutes. By the time you're in the real conversation, the words come naturally.
 Telling a seller the truth about price is the most valuable thing you can do for them. AI helps you find the nerve to do it.
-Have you ever taken an overpriced listing just to keep the relationship? You can admit it -- I'm not judging, and neither is anyone else in the comments. [ON-SCREEN: Have you ever taken an overpriced listing to keep the relationship?]
+
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Runs slightly long -- cut "every inch of it" and "Ten minutes" section if needed
 ## Social Copy
 
 ### Instagram
-**Caption:** Practice Pricing Conversations With AI Watch this and save it for later.
+**Caption:** Practice Pricing Conversations With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Runs slightly long -- cut "every inch of it" and "Ten minutes" section if needed
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Practice Pricing Conversations With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Practice Pricing Conversations With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

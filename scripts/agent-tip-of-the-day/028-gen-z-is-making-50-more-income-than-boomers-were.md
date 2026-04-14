@@ -61,7 +61,7 @@ Cut the TikTok dances line -- it's a strawman nobody was thinking and it dates t
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Gen Z is making 50% more income than boomers were at their age -- and you're still not calling t... Watch this and save it for later.
+Gen Z is making 50% more income than boomers were at their age -- and you're still not calling t...
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Gen Z is making 50% more income than boomers were at their age -- and you're sti
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Gen Z is making 50% more income than boomers were at their age -- and you're still not calling t... If this hits home, share it with an agent who needs to hear it.
+Gen Z is making 50% more income than boomers were at their age -- and you're still not calling t...
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

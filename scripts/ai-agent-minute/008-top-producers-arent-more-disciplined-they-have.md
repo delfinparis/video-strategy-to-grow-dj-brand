@@ -48,7 +48,7 @@ High virality candidate -- the "better defaults, not more discipline" reframe is
 ## Social Copy
 
 ### Instagram
-**Caption:** Top Producers Aren't More Disciplined. They Have Better Defaults. Watch this and save it for later.
+**Caption:** Top Producers Aren't More Disciplined. They Have Better Defaults.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ High virality candidate -- the "better defaults, not more discipline" reframe is
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Top Producers Aren't More Disciplined. They Have Better Defaults. If this hits home, share it with an agent who needs to hear it.
+**Caption:** Top Producers Aren't More Disciplined. They Have Better Defaults.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

@@ -23,7 +23,6 @@ Do this once. Save it as a Claude Project. Every piece of content after that act
 
 AI is a force multiplier for your voice. Not a replacement for it.
 
-
 See you next time.
 ---
 

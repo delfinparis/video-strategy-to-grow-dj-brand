@@ -61,7 +61,7 @@ The CTA question is brilliant but 'Try it once' undercuts it -- end on the quest
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your buyer just asked if they could write a letter to the seller's dead mother. Watch this and save it for later.
+Your buyer just asked if they could write a letter to the seller's dead mother.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your buyer just asked if they could write a letter to the seller's dead mother. 
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your buyer just asked if they could write a letter to the seller's dead mother. If this hits home, share it with an agent who needs to hear it.
+Your buyer just asked if they could write a letter to the seller's dead mother.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

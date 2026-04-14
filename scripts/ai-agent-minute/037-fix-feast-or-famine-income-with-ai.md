@@ -49,7 +49,7 @@ The "you're the one creating it" agitation line will sting in the best way -- it
 ## Social Copy
 
 ### Instagram
-**Caption:** Fix Feast-Or-Famine Income With AI Watch this and save it for later.
+**Caption:** Fix Feast-Or-Famine Income With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The "you're the one creating it" agitation line will sting in the best way -- it
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Fix Feast-Or-Famine Income With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Fix Feast-Or-Famine Income With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

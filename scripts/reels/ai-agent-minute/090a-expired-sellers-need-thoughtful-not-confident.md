@@ -21,9 +21,7 @@ Here's why most expired outreach fails. The agent calls, says "I can sell your h
 
 Expired sellers aren't skeptical. They're done with generic. Most agents contact expireds. Top producers study them first.
 
-
 Here's what I'd do. Open Claude and type: "Write me an expired listing outreach letter that leads with empathy, not a pitch about why I'm better than their last agent."
-
 
 See you next time.
 ---

@@ -36,7 +36,7 @@ It won't. And every time you stumble, they hear one thing: even my agent doesn't
 Here's how you fix this. Sit down with Claude and type: "Help me build a clear, confident two-minute value story for why my commission is worth every dollar. My average sale price is [X]. My average days on market is [Y]. My list-to-sale ratio is [Z]. Write it so I can deliver it naturally -- not like I'm reading a script." [ON-SCREEN: Paste your numbers → get your value story]
 Then practice it out loud until you can say it without thinking. Until it feels like a story you own -- not a pitch you borrowed.
 You don't have a commission problem. You have a value communication problem. That one is completely fixable -- and this is the week to fix it.
-When a seller asks why they should pay you -- what do you say right now? Drop it in the comments. [ON-SCREEN: What do you say when they ask "why should I pay you?"]
+When a seller asks why they should pay you -- what do you say right now?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Film in week one -- highly time-sensitive given ongoing NAR settlement conversat
 ## Social Copy
 
 ### Instagram
-**Caption:** Build Your Commission Defense With AI Watch this and save it for later.
+**Caption:** Build Your Commission Defense With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Film in week one -- highly time-sensitive given ongoing NAR settlement conversat
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build Your Commission Defense With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build Your Commission Defense With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

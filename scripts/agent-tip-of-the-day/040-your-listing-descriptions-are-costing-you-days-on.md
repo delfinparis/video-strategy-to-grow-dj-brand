@@ -61,7 +61,7 @@ Hook needs a number or specific pain point -- 'Your listing descriptions are add
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your listing descriptions are costing you days on market. Watch this and save it for later.
+Your listing descriptions are costing you days on market.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your listing descriptions are costing you days on market. This changes how you t
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your listing descriptions are costing you days on market. If this hits home, share it with an agent who needs to hear it.
+Your listing descriptions are costing you days on market.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

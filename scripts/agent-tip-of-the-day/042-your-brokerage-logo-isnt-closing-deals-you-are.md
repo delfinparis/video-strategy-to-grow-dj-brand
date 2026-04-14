@@ -61,7 +61,7 @@ The CTA gut check is brilliant -- add one tactical step after it: 'Text three pa
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-Your brokerage logo isn't closing deals. Watch this and save it for later.
+Your brokerage logo isn't closing deals.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ Your brokerage logo isn't closing deals. This changes how you think about your b
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-Your brokerage logo isn't closing deals. If this hits home, share it with an agent who needs to hear it.
+Your brokerage logo isn't closing deals.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

@@ -20,7 +20,6 @@ Your income isn't determined by your best month or your worst month. It's determ
 
 What's the one activity you skip when things go well? That's your leak. Fix it this week.
 
-
 See you next time.
 ---
 

@@ -48,7 +48,7 @@ Top-5 film-first candidate -- this is the "meta" script that reframes the entire
 ## Social Copy
 
 ### Instagram
-**Caption:** Most Agents Use AI Like Google. The Top 1% Don't. Watch this and save it for later.
+**Caption:** Most Agents Use AI Like Google. The Top 1% Don't.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Top-5 film-first candidate -- this is the "meta" script that reframes the entire
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Most Agents Use AI Like Google. The Top 1% Don't. If this hits home, share it with an agent who needs to hear it.
+**Caption:** Most Agents Use AI Like Google. The Top 1% Don't.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

@@ -23,7 +23,6 @@ Complete that checklist. Then ask Claude to write your first five profile posts 
 
 One afternoon of work. Free local leads for months.
 
-
 See you next time.
 ---
 

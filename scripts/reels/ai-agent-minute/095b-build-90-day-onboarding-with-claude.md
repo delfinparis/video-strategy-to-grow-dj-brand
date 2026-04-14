@@ -23,7 +23,6 @@ Claude builds the first draft in minutes. You refine it once. Every new agent ge
 
 Onboarding isn't HR. It's your retention strategy.
 
-
 See you next time.
 ---
 

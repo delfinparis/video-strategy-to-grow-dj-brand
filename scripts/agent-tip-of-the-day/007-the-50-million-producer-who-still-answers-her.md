@@ -61,7 +61,7 @@ The Zillow detail feels like a random tactical insert -- either expand it into a
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-The $50 million producer who still answers her phone at 9 PM just said something that made me stop. Watch this and save it for later.
+The $50 million producer who still answers her phone at 9 PM just said something that made me stop.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ The $50 million producer who still answers her phone at 9 PM just said something
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-The $50 million producer who still answers her phone at 9 PM just said something that made me stop. If this hits home, share it with an agent who needs to hear it.
+The $50 million producer who still answers her phone at 9 PM just said something that made me stop.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

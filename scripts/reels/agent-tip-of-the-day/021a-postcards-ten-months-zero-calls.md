@@ -20,9 +20,7 @@ Month eleven, a luxury seller calls. Jay Cannone asks why him. The guy says: "An
 
 Not the best design. Not the cleverest copy. The seller had been watching. Testing. Waiting to see if Jay would quit like everyone else.
 
-
 Do this today: Pick one person from your mailing list and call them. Postcards get attention. Phone calls get appointments.
-
 
 See you next time.
 ---

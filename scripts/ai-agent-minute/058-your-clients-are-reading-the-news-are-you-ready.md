@@ -48,7 +48,7 @@ The "last person to know in your own industry" hook is strong -- D.J. should del
 ## Social Copy
 
 ### Instagram
-**Caption:** Your Clients Are Reading the News. Are You Ready to Discuss It? Watch this and save it for later.
+**Caption:** Your Clients Are Reading the News. Are You Ready to Discuss It?
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The "last person to know in your own industry" hook is strong -- D.J. should del
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Your Clients Are Reading the News. Are You Ready to Discuss It? If this hits home, share it with an agent who needs to hear it.
+**Caption:** Your Clients Are Reading the News. Are You Ready to Discuss It?
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

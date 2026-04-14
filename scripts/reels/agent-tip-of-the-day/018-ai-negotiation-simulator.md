@@ -20,7 +20,6 @@ Tim Burrell -- top producer in Raleigh -- runs every offer through AI first. Fee
 
 Next offer you write, paste the scenario into AI first. See what it catches.
 
-
 See you next time.
 ---
 

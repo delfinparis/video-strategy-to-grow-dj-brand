@@ -35,7 +35,7 @@ Here's why agents don't collect video testimonials even from clients who would h
 Most agents have happy clients and no video proof. The ones who do have it built a system. [ON-SCREEN: "Happy clients + no video proof = missing a system"]
 Here's the system. Ask Claude to build a frictionless video testimonial request. Type: "Write a post-closing message asking a client for a sixty-second phone video testimonial. Include: three specific questions to prompt what they should say -- 'What were you most worried about before we started?' 'What surprised you most?' 'Who would you recommend me to?' -- simple phone filming instructions, and a genuine thank-you. Make the ask feel natural, not like a form." [ON-SCREEN: "3 questions + simple filming instructions + natural ask"]
 Giving clients a script isn't cheesy -- most people genuinely don't know what to say, and having a guide is actually a relief.
-How many video testimonials do you currently have? Drop the number below. [ON-SCREEN: How many video testimonials do you have?]
+How many video testimonials do you currently have?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Video Testimonial System With AI Watch this and save it for later.
+**Caption:** Build A Video Testimonial System With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Video Testimonial System With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Video Testimonial System With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

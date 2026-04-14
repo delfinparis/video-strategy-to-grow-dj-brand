@@ -49,7 +49,7 @@ Runs long -- cut "And the gap compounds every single week" and tighten the probl
 ## Social Copy
 
 ### Instagram
-**Caption:** Get On Camera With AI Prep -- Kill The Blank Stare Watch this and save it for later.
+**Caption:** Get On Camera With AI Prep -- Kill The Blank Stare
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Runs long -- cut "And the gap compounds every single week" and tighten the probl
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Get On Camera With AI Prep -- Kill The Blank Stare If this hits home, share it with an agent who needs to hear it.
+**Caption:** Get On Camera With AI Prep -- Kill The Blank Stare
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

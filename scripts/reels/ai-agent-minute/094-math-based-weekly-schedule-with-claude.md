@@ -23,7 +23,6 @@ Tell Claude your annual income goal, average commission, and lead-to-close conve
 
 A schedule built by math. Not guilt.
 
-
 See you next time.
 ---
 

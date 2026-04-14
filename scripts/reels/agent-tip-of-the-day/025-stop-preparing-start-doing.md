@@ -20,7 +20,6 @@ Connie Mahan went from restaurant management to REALTOR of the Year in Central F
 
 You take your first listing. You mess up the photos. You panic. You call someone. You learn. The agents who wait for perfect are still waiting. The ones who started messy? They're closing deals.
 
-
 See you next time.
 ---
 

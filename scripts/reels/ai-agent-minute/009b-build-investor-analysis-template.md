@@ -23,7 +23,6 @@ Then use Perplexity to pull current rental comps for any specific property -- ta
 
 You become the first agent they call. Not because you're luckier -- because you show up with the numbers. AI helps you speak investor without a finance degree.
 
-
 See you next time.
 ---
 

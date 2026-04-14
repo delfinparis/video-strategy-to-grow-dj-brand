@@ -48,7 +48,7 @@ Slightly over 90 seconds -- trim the featured section line if needed in post. Un
 ## Social Copy
 
 ### Instagram
-**Caption:** Your LinkedIn Profile Is Costing You Referrals Watch this and save it for later.
+**Caption:** Your LinkedIn Profile Is Costing You Referrals
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Slightly over 90 seconds -- trim the featured section line if needed in post. Un
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Your LinkedIn Profile Is Costing You Referrals If this hits home, share it with an agent who needs to hear it.
+**Caption:** Your LinkedIn Profile Is Costing You Referrals
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

@@ -20,7 +20,6 @@ While you're copy-pasting "spacious kitchen" and "abundant natural light," agent
 
 Every extra day your listing sits is another day a buyer questions the price. Take your weakest listing description right now. Run it through ChatGPT with: "Write this like you're selling a dream, not a house."
 
-
 See you next time.
 ---
 

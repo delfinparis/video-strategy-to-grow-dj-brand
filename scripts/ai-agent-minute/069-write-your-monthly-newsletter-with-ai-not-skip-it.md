@@ -35,7 +35,7 @@ Here's what's happening to your database right now. Your past clients and sphere
 The agent who's in the inbox consistently is the agent who's top of mind when it matters. [ON-SCREEN: "In the inbox consistently = top of mind when it matters"]
 Here's how to make it take twenty minutes a month. Give Claude: one local market data point, one practical seasonal home tip, one personal story or observation from your business, and a recent listing or testimonial. Then type: "Weave these into a five-paragraph email that feels like it came from a person -- conversational, warm, and something I'd actually enjoy reading. Not corporate. Not a newsletter template." [ON-SCREEN: "1 market point + 1 home tip + 1 personal story + listing = 5-paragraph email"]
 Write it in your voice. Send it from your personal email. Sign it with your name. Consistency over perfection -- every single time.
-Do you send a monthly email to your database? Yes, sometimes, or never -- drop it below. [ON-SCREEN: Monthly email -- yes, sometimes, or never?]
+Do you send a monthly email to your database? Yes, sometimes, or never --
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Write Your Monthly Newsletter With AI -- Not Skip It Watch this and save it for later.
+**Caption:** Write Your Monthly Newsletter With AI -- Not Skip It
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Write Your Monthly Newsletter With AI -- Not Skip It If this hits home, share it with an agent who needs to hear it.
+**Caption:** Write Your Monthly Newsletter With AI -- Not Skip It
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

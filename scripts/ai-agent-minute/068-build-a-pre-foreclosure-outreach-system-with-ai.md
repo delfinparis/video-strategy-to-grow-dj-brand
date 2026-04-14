@@ -35,7 +35,7 @@ Here's the reality most agents don't know. Pre-foreclosure properties are docume
 Most agents ignore this lead source because they don't know how to approach it correctly. [ON-SCREEN: "Don't know how to approach it correctly"]
 Here's the fix. Ask Claude to build a compassionate pre-foreclosure outreach system. Type: "Write a homeowner outreach system for someone in pre-foreclosure. Include: a letter that leads with empathy and options -- not a pitch, a list of what I can genuinely offer them -- short sale expertise, cash buyer network, flexible timeline, and a follow-up sequence for homeowners who need time to process." [ON-SCREEN: "Lead with empathy and options -- not a pitch"]
 Done right, this isn't predatory. It's genuinely one of the most helpful things an agent can do for a homeowner in crisis.
-Do you work pre-foreclosure leads? Tell me your experience with this market. [ON-SCREEN: Do you work pre-foreclosure leads?]
+Do you work pre-foreclosure leads?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ The "compassionate" reframe is what makes this script work -- it's a legitimate 
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Pre-Foreclosure Outreach System With AI Watch this and save it for later.
+**Caption:** Build A Pre-Foreclosure Outreach System With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The "compassionate" reframe is what makes this script work -- it's a legitimate 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Pre-Foreclosure Outreach System With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Pre-Foreclosure Outreach System With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

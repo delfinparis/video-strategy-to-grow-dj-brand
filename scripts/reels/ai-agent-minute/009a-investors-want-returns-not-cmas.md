@@ -23,7 +23,6 @@ If you can't give them that, they'll find an agent who can -- and that agent wil
 
 Try this: Paste a property listing into Claude and say "Run the numbers -- cap rate, cash-on-cash return, and monthly cash flow." That's what investors actually want from you.
 
-
 See you next time.
 ---
 

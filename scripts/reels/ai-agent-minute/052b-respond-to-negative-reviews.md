@@ -21,7 +21,6 @@ For negative reviews, give Claude the review and type: "Help me write a calm, ac
 
 How you respond to criticism is the strongest trust signal you can send. Future clients are reading it right now.
 
-
 See you next time.
 ---
 

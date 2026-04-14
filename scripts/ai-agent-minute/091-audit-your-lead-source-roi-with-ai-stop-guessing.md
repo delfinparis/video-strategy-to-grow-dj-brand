@@ -36,7 +36,7 @@ That means you could be spending thousands on sources that never close -- and no
 Here's the fix. Export your last twenty-four months of closed deals from your CRM -- include the lead source field. Paste it into Claude and type: "Analyze these lead sources by volume, conversion rate, and average commission. Which source has the best ROI -- and which should I cut immediately?" [ON-SCREEN: "Which source has the best ROI -- and which should I cut?"]
 Claude will find patterns you've been too busy to spot.
 Top producers don't spend more on leads. They spend smarter -- because they track everything. You can run this audit tonight in under thirty minutes.
-When's the last time you audited your lead source ROI? Be honest in the comments. [ON-SCREEN: When did you last audit your lead ROI?]
+When's the last time you audited your lead source ROI?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ The podcast credibility signal ("twelve years talking to agents") is naturally d
 ## Social Copy
 
 ### Instagram
-**Caption:** Audit Your Lead Source ROI With AI -- Stop Guessing Watch this and save it for later.
+**Caption:** Audit Your Lead Source ROI With AI -- Stop Guessing
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ The podcast credibility signal ("twelve years talking to agents") is naturally d
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Audit Your Lead Source ROI With AI -- Stop Guessing If this hits home, share it with an agent who needs to hear it.
+**Caption:** Audit Your Lead Source ROI With AI -- Stop Guessing
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

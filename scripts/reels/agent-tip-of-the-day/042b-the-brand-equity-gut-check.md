@@ -18,7 +18,6 @@ If your brokerage gets acquired tomorrow, if your office closes -- are you still
 
 Here's your gut check: If you switched brokerages today, how many clients would follow you? That number is your real brand equity. The agents who survive industry chaos are the ones clients remember by name. Start building that like your career depends on it. Because it does.
 
-
 See you next time.
 ---
 

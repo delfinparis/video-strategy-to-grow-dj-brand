@@ -21,7 +21,6 @@ List every task you did last week and how long each one took. Give that to Claud
 
 The math will tell you if it's time. Your first hire isn't a cost. It's the investment that turns you from an agent into a business owner.
 
-
 See you next time.
 ---
 

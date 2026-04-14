@@ -22,7 +22,6 @@ Real estate tech analyst Chris Linsell says it's time for a national MLS. But sm
 
 Here's your move: Find one agent in a market your buyers keep asking about. Send them a DM today. That's your referral network starting.
 
-
 See you next time.
 ---
 

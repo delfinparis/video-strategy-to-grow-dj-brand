@@ -35,7 +35,7 @@ Here's what's happening when clients don't leave reviews. They're not unhappy. T
 Most agents hope clients leave reviews. Top producers make leaving a review the easiest thing their client does all week. [ON-SCREEN: "Make it the easiest thing they do all week"]
 Here's the system. Ask Claude to build a five-step review request sequence. Type: "Write a review request system for a real estate agent that includes: the optimal timing for each ask after closing, the exact email version, a text version, and a follow-up for non-responders. Each message should include a direct link placeholder, a one-sentence prompt telling the client what to mention, and a genuine thank-you. Make it feel personal -- not automated." [ON-SCREEN: "Timing + email + text + follow-up + one-sentence prompt + direct link"]
 The easier you make it, the more reviews you get. The more reviews you get, the more clients find you before they ever call.
-How many Google reviews do you currently have? Drop the number -- no judgment. [ON-SCREEN: How many Google reviews do you have?]
+How many Google reviews do you currently have?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Review Request System With AI Watch this and save it for later.
+**Caption:** Build A Review Request System With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Review Request System With AI If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Review Request System With AI
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

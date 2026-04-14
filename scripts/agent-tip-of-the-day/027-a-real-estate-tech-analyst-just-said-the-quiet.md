@@ -61,7 +61,7 @@ The CTA is solid but could be sharper -- tell them the exact subject line to use
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-A real estate tech analyst just said the quiet part out loud: it should be harder to become a RE... Watch this and save it for later.
+A real estate tech analyst just said the quiet part out loud: it should be harder to become a RE...
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ A real estate tech analyst just said the quiet part out loud: it should be harde
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-A real estate tech analyst just said the quiet part out loud: it should be harder to become a RE... If this hits home, share it with an agent who needs to hear it.
+A real estate tech analyst just said the quiet part out loud: it should be harder to become a RE...
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

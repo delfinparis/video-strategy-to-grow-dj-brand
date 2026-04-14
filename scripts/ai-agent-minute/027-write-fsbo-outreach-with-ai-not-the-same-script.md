@@ -35,7 +35,7 @@ Here's why FSBO outreach fails. Most agents lead with the commission objection -
 Most agents pitch FSBOs. Top producers help them first and earn the listing later. [ON-SCREEN: "Help first. Earn the listing later."]
 Here's the system. Ask Claude to build a three-touch FSBO sequence using the "consultation-first" model. Touch one: offer something genuinely useful -- a free market analysis, a staging checklist, or a document guide for FSBO sellers. No pitch. No "let me show you why you need me." Just value. Touches two and three build on that. Type: "Write an outreach sequence for a FSBO seller where I never ask for the listing until the third message -- and every touch earns the right to send the next one." [ON-SCREEN: "No ask until touch three -- earn each message"]
 The FSBO who eventually lists with an agent almost always lists with the one who helped them most before asking for anything.
-Have you ever converted a FSBO? Tell me how you did it -- or how you tried. [ON-SCREEN: Have you ever converted a FSBO?]
+Have you ever converted a FSBO?
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ Runs slightly long -- trim "helps-to-fail" beat on delivery. The "help first, ea
 ## Social Copy
 
 ### Instagram
-**Caption:** Write FSBO Outreach With AI -- Not The Same Script Everyone Sends Watch this and save it for later.
+**Caption:** Write FSBO Outreach With AI -- Not The Same Script Everyone Sends
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ Runs slightly long -- trim "helps-to-fail" beat on delivery. The "help first, ea
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Write FSBO Outreach With AI -- Not The Same Script Everyone Sends If this hits home, share it with an agent who needs to hear it.
+**Caption:** Write FSBO Outreach With AI -- Not The Same Script Everyone Sends
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

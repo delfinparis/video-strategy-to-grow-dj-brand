@@ -21,7 +21,6 @@ List your last twenty closed deals and where each came from. List the client typ
 
 Growth isn't always adding something new. Sometimes it's seeing clearly what already works -- and doing more of it.
 
-
 See you next time.
 ---
 

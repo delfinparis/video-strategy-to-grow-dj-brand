@@ -35,7 +35,7 @@ Here's what most agents' days look like. They have a vague sense of what they sh
 And the agents who do hit their goals? They have a schedule. Not a to-do list. A real, time-blocked schedule built around actual numbers. [ON-SCREEN: "A schedule built around actual numbers -- not feelings"]
 Here's how to build one. Tell Claude your annual income goal, your average commission, and your current lead-to-close conversion rate. Then type: "Work backward and calculate exactly how many prospecting hours, appointments, and follow-up blocks I need every week to hit this goal. Then build a time-blocked weekly schedule around those numbers." [ON-SCREEN: "Calculate what I need weekly -- then build the schedule"]
 You now have a schedule designed by math. Not habit. Not guilt.
-Busyness is not a strategy. Build yours tonight -- and tell me what the math tells you. [ON-SCREEN: What does the math say you need to do each week?]
+Busyness is not a strategy. Build yours tonight -- and
 See you next time.
 
 ## Producer Note
@@ -48,7 +48,7 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Build A Math-Based Weekly Schedule With AI -- Not Habit Watch this and save it for later.
+**Caption:** Build A Math-Based Weekly Schedule With AI -- Not Habit
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ See you next time.
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Build A Math-Based Weekly Schedule With AI -- Not Habit If this hits home, share it with an agent who needs to hear it.
+**Caption:** Build A Math-Based Weekly Schedule With AI -- Not Habit
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

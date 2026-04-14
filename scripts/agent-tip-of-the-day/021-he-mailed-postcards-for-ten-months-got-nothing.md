@@ -61,7 +61,7 @@ The CTA pivot to 'what did you quit on' is brilliant but gets diluted by the 'fu
 
 ### Instagram
 **Caption:** ### HOOK (0:00-0:03)
-He mailed postcards for ten months. Watch this and save it for later.
+He mailed postcards for ten months.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #RealEstateAdvice #TopProducer #RealEstateMarketing #RealEstate #KeepingItReal #RealEstateCoaching
 
 ### TikTok
@@ -77,7 +77,7 @@ He mailed postcards for ten months. This changes how you think about your busine
 
 ### Facebook
 **Caption:** ### HOOK (0:00-0:03)
-He mailed postcards for ten months. If this hits home, share it with an agent who needs to hear it.
+He mailed postcards for ten months.
 **Hashtags:** #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #TopProducer #RealEstateAdvice
 
 ### LinkedIn

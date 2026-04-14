@@ -48,7 +48,7 @@ The "does anyone have anything else?" detail is the mirror moment -- every team 
 ## Social Copy
 
 ### Instagram
-**Caption:** Run Team Meetings With AI -- Not Wing The Agenda Watch this and save it for later.
+**Caption:** Run Team Meetings With AI -- Not Wing The Agenda
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -61,7 +61,7 @@ The "does anyone have anything else?" detail is the mirror moment -- every team 
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Run Team Meetings With AI -- Not Wing The Agenda If this hits home, share it with an agent who needs to hear it.
+**Caption:** Run Team Meetings With AI -- Not Wing The Agenda
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

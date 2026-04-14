@@ -21,9 +21,7 @@ They're moving to a city they don't know. What do most agents do? Send a Zillow 
 
 Most agents show relocation buyers houses. Top producers show them the city.
 
-
 Try this: Open Claude and type "Build me a relocation welcome packet for buyers moving to my city that makes me unforgettable before they arrive."
-
 
 See you next time.
 ---

@@ -21,7 +21,6 @@ Ask Claude: "Build me a New Construction Buyer's Guide covering why the onsite a
 
 Give it to every buyer who mentions new construction. They'll call every other agent -- and send this to you.
 
-
 See you next time.
 ---
 

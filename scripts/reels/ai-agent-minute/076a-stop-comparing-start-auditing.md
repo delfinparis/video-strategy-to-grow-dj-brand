@@ -21,7 +21,6 @@ Here's what it's costing you. You're measuring your behind-the-scenes against th
 
 Next time comparison hits, stop scrolling and open Claude instead. I'll show you what to do with it.
 
-
 See you next time.
 ---
 

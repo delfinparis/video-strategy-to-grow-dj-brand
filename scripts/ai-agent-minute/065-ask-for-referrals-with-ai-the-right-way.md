@@ -36,7 +36,7 @@ The problem isn't asking. It's asking with no context, no specificity, and no st
 Here's the fix. Ask Claude to write five different referral request messages for different moments: right after closing, the six-month check-in, the one-year anniversary, a casual text version, and a social media post the client could actually share. Each one should type: "Be specific about who I'm trying to help, make it easy for the client to take action, and feel personal -- not like a mass message." [ON-SCREEN: "Specific. Easy to act on. Personal -- not mass."]
 Load them into your CRM. Actually send them.
 Asking for a referral isn't awkward. Not asking when your client would be happy to help you -- that's the real waste.
-When's the last time you explicitly asked a past client for a referral? Tell me below. [ON-SCREEN: When did you last ask a past client for a referral?]
+When's the last time you explicitly asked a past client for a referral?
 See you next time.
 
 ## Producer Note
@@ -49,7 +49,7 @@ Runs slightly long -- trim the "by the time they park the car" line if needed. T
 ## Social Copy
 
 ### Instagram
-**Caption:** Ask For Referrals With AI -- The Right Way Watch this and save it for later.
+**Caption:** Ask For Referrals With AI -- The Right Way
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #AIAgentMinute #RealEstateTips #RealEstateMarketing #ChatGPTRealEstate #TopProducer #RealEstateTechnology
 
 ### TikTok
@@ -62,7 +62,7 @@ Runs slightly long -- trim the "by the time they park the car" line if needed. T
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealEstateTips #AIAgentMinute
 
 ### Facebook
-**Caption:** Ask For Referrals With AI -- The Right Way If this hits home, share it with an agent who needs to hear it.
+**Caption:** Ask For Referrals With AI -- The Right Way
 **Hashtags:** #AIforRealtors #RealEstateAI #RealEstateAgent #RealtorLife #RealEstateTips #TopProducer
 
 ### LinkedIn

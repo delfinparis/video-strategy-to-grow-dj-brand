@@ -21,9 +21,7 @@ Most team leaders talk about culture in recruiting but never define it. So cultu
 
 And here's what it costs you -- top agents choose teams based on culture as much as commission. Word travels.
 
-
 Here's what I'd do. Open Claude and type: "Help me write a one-page culture document that describes what my team actually stands for -- not just what sounds good."
-
 
 See you next time.
 ---
