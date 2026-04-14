@@ -23,7 +23,7 @@ share_trigger: "utility"
 ## Script
 
 ### HOOK (0:00-0:03)
-Every agent has access to the same MLS data. But only 3% know how to actually use it.
+Every agent has access to the same MLS data. Almost no one knows how to actually use it.
 
 *Production: B-roll: Screen recording of cluttered MLS interface with dozens of tabs open, data overload*
 

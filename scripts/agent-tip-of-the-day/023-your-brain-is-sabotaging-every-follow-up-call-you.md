@@ -33,7 +33,7 @@ Paul Salter's a performance coach who uses hypnosis with top producers. And he s
 *Production: Cut to Paul speaking. Tight frame. Serious energy. Subtle music bed begins -- low, ambient.*
 
 ### INSIGHT (0:12-0:38)
-Here's what he means. Your subconscious -- 90% of your mind -- runs on one job: keep you alive. Not happy. Not wealthy. Alive. So every time you try something that feels risky -- calling a cold lead, saying no to a 9pm showing, raising your commission -- your brain reads it as danger. And it pulls you back to what's familiar. What's safe. What's predictable. Paul puts it like this: 'You are programmed to survive. You are not programmed to thrive.' That's why you keep avoiding the same calls. It's not you. It's your wiring.
+Here's what he means. Your subconscious -- the part of your mind running underneath the surface -- has one job: keep you alive. Not happy. Not wealthy. Alive. So every time you try something that feels risky -- calling a cold lead, saying no to a 9pm showing, raising your commission -- your brain reads it as danger. And it pulls you back to what's familiar. What's safe. What's predictable. Paul puts it like this: 'You are programmed to survive. You are not programmed to thrive.' That's why you keep avoiding the same calls. It's not you. It's your wiring.
 
 *Production: B-roll: iceberg visual, agent staring at phone screen paralyzed, hand hovering over 'call' button but not pressing. Cut back to Paul for the quote. Let it land. Hold on his face for two beats.*
 

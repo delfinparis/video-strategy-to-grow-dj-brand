@@ -22,14 +22,14 @@ day: "Monday"
 > Automate Post-Closing Client Check-Ins With AI -- Never Lose A Referral
 
 ## Shareable Moment
-> "70% of buyers say they'd use their agent again. Only 11% actually do. That gap has a name -- forgetting to stay in touch."
+> "88% of buyers say they'd use their agent again. Only 13% actually do. That gap has a name -- forgetting to stay in touch."
 
 ## Why This Rank
 Post-closing follow-up is the #1 missed referral touchpoint; the 'twelve-month calendar in twenty minutes' promise is a strong save trigger.
 
 ## Full Script (Spoken)
 
-Seventy percent of buyers say they'd use their agent again. Only eleven percent actually do. That gap has a name -- and it's not disloyalty. [ON-SCREEN: "70% would use you again. 11% actually do."]
+Eighty-eight percent of buyers say they'd use their agent again. Only thirteen percent actually do. That gap has a name -- and it's not disloyalty. [ON-SCREEN: "88% would use you again. 13% actually do."]
 "This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
 Here's what happens after most closings. You send a thank-you note, maybe a closing gift, and then you disappear. The client loved working with you -- but six months later, when their neighbor asks for a realtor recommendation, they can't quite remember your last name. Not because you did bad work. Because you vanished.
 Most agents lose their best clients not to a competitor -- but to their own silence. [ON-SCREEN: "Lost to their own silence"]
@@ -40,7 +40,12 @@ Your past clients are your most valuable asset. AI makes sure you never lose one
 See you next time.
 
 ## Producer Note
-Verify the 70%/11% stat before filming -- it's widely cited in real estate circles but source should be confirmed (NAR data). This is a top-10 candidate; the stat alone will stop the scroll. "Lost to their own silence" is the most shareable line in this script.
+Stats verified against NAR Profile of Home Buyers and Sellers 2024 (88% would use agent again or recommend; 13% of buyers actually use an agent they worked with in the past). Originally drafted with 70%/11% which were not from NAR — corrected April 2026. This is a top-10 candidate; the stat alone will stop the scroll. "Lost to their own silence" is the most shareable line in this script.
+
+## Data Source
+- NAR 2024 Profile of Home Buyers and Sellers — 88% of buyers would use their agent again or recommend them to others
+- NAR 2024 Profile of Home Buyers and Sellers — 13% of buyers chose an agent they had worked with in the past
+- Source URL: https://www.nar.realtor/sites/default/files/2024-11/2024-profile-of-home-buyers-and-sellers-highlights-11-04-2024_2.pdf
 
 **Word Count:** 233 | **Estimated Duration:** ~110 seconds
 
