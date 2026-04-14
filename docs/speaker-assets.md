@@ -1,5 +1,24 @@
 # Speaker Assets: D.J. Paris
 
+## Reframe (April 2026)
+
+**These assets were originally built to support a speaking-engagement goal. Under the recruiting-first strategy shift, they are now reframed as recruiting credibility infrastructure.** See [`docs/content-recruiting-integration.md`](content-recruiting-integration.md) for context.
+
+The assets themselves stay — sizzle reel, speaker page, LinkedIn headline, one-sheet, signature talk framework. What changes is their primary purpose:
+
+- The sizzle reel becomes a "meet the VP of Business Development" asset dropped into Close CRM email sequences when a warm recruiting lead needs credibility signaling.
+- The speaker page becomes the page every recruiting prospect looks at before their first call.
+- The signature talk framework becomes a value session D.J. offers to warm leads at Kale events.
+- The LinkedIn headline upgrade works passively for recruiting every day because every senior Chicago agent scrolling past it sees "VP Business Development, Kale Realty."
+
+**Direct conference outreach as a standalone goal is deferred.** The 90-day outreach plan in Section 6 does not get executed yet. First we hit the Kale recruiting targets using these assets as credibility infrastructure. Conference booking becomes a 2027 conversation once recruiting is hitting monthly targets.
+
+Everything below this reframe section was written under the earlier "speaker-first" lens. The content is still accurate and the assets are still the right deliverables — only the purpose has shifted. Read everything below with the recruiting-credibility lens applied.
+
+---
+
+## Original Purpose (Preserved for Reference)
+
 This document is the canonical source for every asset used to convert D.J. Paris from "content creator" to "content creator who also speaks." Built April 2026 as the first deliverable of Adjustment 4 from the Q2 2026 strategy evaluation.
 
 ---

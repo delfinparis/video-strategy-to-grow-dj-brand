@@ -1,13 +1,21 @@
 # Video Strategy To Grow D.J. Brand
 
-A unified four-pillar video content strategy combining four series -- **AI Agent Minute**, **Agent Tip of the Day**, **The Playbook**, and **Inside the Industry** -- to build D.J. Paris's social media presence and recruit real estate agents to Kale Realty through the Keeping It Real Podcast brand.
+A unified four-pillar video content strategy combining four series -- **AI Agent Minute**, **Agent Tip of the Day**, **The Playbook**, and **Inside the Industry** -- whose **primary purpose is generating warm recruiting leads for Kale Realty** through D.J. Paris's personal social media presence and the Keeping It Real Podcast brand.
+
+**Primary purpose: Kale Realty recruiting.**
+
+The 4-pillar content strategy in this repo exists to feed the Kale recruiting pipeline (which lives in Close CRM with a three-person workflow: Jennica → Ana → D.J.). Every Inside the Industry post, every AI Agent Minute, every Agent Tip is recruiting content whether it's labeled that way or not. D.J.'s Personal LinkedIn audience is 49% Chicago / 31% Real Estate / 34% Senior — that's a recruit audience, not a speaker audience.
+
+**The bridge between content and recruiting is documented in [`docs/content-recruiting-integration.md`](docs/content-recruiting-integration.md).** Read that before making any content strategy decision.
 
 **Brand goals (priority order):**
 
-1. Kale Realty recruiting in Chicago
+1. **Kale Realty recruiting in Chicago** — primary, most valuable, drives D.J.'s compensation
 2. NAR relationship deepening
 3. Keeping It Real Podcast subscriber growth
 4. National thought leader reach
+
+Goals 2-4 are supporting. Every strategy decision gets filtered through "does this serve #1?" first.
 
 ---
 
@@ -159,11 +167,13 @@ Series playbook: [`docs/inside-the-industry-playbook.md`](docs/inside-the-indust
 
 - [Master Calendar (day-by-day schedule)](schedule/master-calendar.md)
 - [Weekly Breakdown](schedule/weekly-breakdown.md)
-- [Editorial Standards](docs/editorial-standards.md) - **required reading before writing any script**
+- **[Content → Recruiting Integration](docs/content-recruiting-integration.md) — how the content strategy feeds Kale recruiting (read first)**
+- [Editorial Standards](docs/editorial-standards.md) - required reading before writing any script
 - [Content Pillars (4-pillar definition)](docs/content-pillars.md)
 - [Inside the Industry Playbook](docs/inside-the-industry-playbook.md)
 - [The Playbook Format Guide](docs/the-playbook-format.md)
 - [Platform Strategy (Metricool baseline)](docs/platform-strategy.md)
+- [Speaker Assets (now reframed as recruiting credibility)](docs/speaker-assets.md)
 - [Avatar Profiles](docs/avatars.md)
 - [Filming Guide](docs/filming-guide.md)
 - [CapCut Editing Playbook](docs/capcut-editing-playbook.md)
