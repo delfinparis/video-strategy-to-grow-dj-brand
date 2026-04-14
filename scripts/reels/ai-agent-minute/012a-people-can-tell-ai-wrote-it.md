@@ -29,22 +29,22 @@ See you next time.
 ## Social Copy
 
 ### Instagram
-**Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
-**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation #PersonalBrand #RealtorLife #AIContent #ClaudeAI #AIAgentMinute #RealEstateAI
+**Caption:** Stop letting AI make you sound like everyone else in the feed. Your clients KNOW when it's not you talking. The agents winning right now aren't avoiding AI -- they're training it on their own voice. One prompt changed everything for me. Try it and watch what happens.
+**Hashtags:** #AIforRealtors #RealEstateMarketing #RealtorBranding #ContentTips #PersonalBrand #RealEstateAgent #AIContentCreation #RealtorLife #SocialMediaForRealtors #MarketingStrategy
 
 ### TikTok
-**Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
-**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation
+**Caption:** POV: your followers already know AI wrote that post. Here's the one-prompt fix no one's talking about
+**Hashtags:** #AIforRealtors #RealEstateTok #RealtorTips #ContentCreator
 
 ### YouTube Shorts
-**Title:** People Can Tell When AI Wrote Your Content
-**Description:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
-**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation #PersonalBrand
+**Title:** Your Clients Can Tell AI Wrote That (Here's the Fix)
+**Description:** Most agents use AI to replace their voice. Top producers use it to amplify theirs. I'll show you the exact prompt that makes AI sound like YOU -- not like a robot. If your content feels generic, this is why.
+**Hashtags:** #AIforRealtors #RealEstateAgent #ContentCreation #PersonalBranding #RealEstateMarketing
 
 ### Facebook
-**Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
-**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #ContentCreation #PersonalBrand #RealtorLife
+**Caption:** I see it every day in my feed -- agents posting AI-generated content that sounds exactly like every other agent's AI-generated content. Your sphere can tell. And it's actually worse than posting nothing, because it signals you didn't care enough to show up as yourself. The fix isn't ditching AI. It's spending 2 minutes training it on YOUR voice. Game changer.
+**Hashtags:** #RealEstateAgent #AIforRealtors #RealtorMarketing #ContentStrategy #PersonalBrand #RealEstateTips
 
 ### LinkedIn
-**Caption:** Generic AI content actively hurts your brand. The fix isn't using AI less -- it's training it to sound like you.
-**Hashtags:** #AIforRealtors #Claude #RealEstateAgent #RealEstate #ProfessionalDevelopment
+**Caption:** There's an emerging trust gap in real estate content right now. Consumers are getting better at spotting AI-generated posts -- and when they do, engagement drops. But the answer isn't to stop using AI. It's to stop using it lazily. The agents building the strongest brands in 2026 are training AI on their own voice, not accepting the default output. One simple technique: feed your AI tool five of your best-performing posts and ask it to learn your tone before writing anything new. The difference in authenticity is immediate.
+**Hashtags:** #RealEstateLeadership #AIStrategy #PersonalBranding #RealEstateMarketing #ProfessionalDevelopment #ThoughtLeadership
