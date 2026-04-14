@@ -120,6 +120,7 @@ These live in memory as well, but documenting here for completeness.
 - **No emojis** in brand content unless explicitly requested.
 - **Short paragraphs** (1-3 sentences each) in any long-form caption. LinkedIn and Facebook both favor short paragraph blocks.
 - **Hook in the first 2-3 lines** of any caption. Assume mobile cutoff at roughly 150-210 characters depending on platform.
+- **Video scroll-stopper hook must live in the first spoken line of the script, not in a separate on-screen text cue.** D.J. uses captions.ai, which auto-generates on-screen captions from the audio. Independent `[ON-SCREEN: "..."]` overlays don't actually appear in the rendered video, so any hook written there is invisible to the viewer. Put the pattern interrupt in the first sentence of the spoken script, where captions.ai will pick it up. When evaluating a script's hook, evaluate the first spoken line — the on-screen text field doesn't count.
 
 ---
 

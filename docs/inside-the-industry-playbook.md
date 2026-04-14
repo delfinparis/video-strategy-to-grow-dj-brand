@@ -96,13 +96,14 @@ Every Inside the Industry script is one of three types. The type is set in front
 - A Chicago angle (even if the news is national)
 - D.J.'s explicit point of view, not just facts
 - A forward-looking implication ("here's what to watch for next")
-- A close that earns the follow ("subscribe for more like this")
+- A close that follows one of the three acceptable patterns in `editorial-standards.md` Rule 2 (stop on reframe, action ask at the viewer's own life, or observation that implies the catalog) -- never an audience-ask close
 
 **What you must NOT do:**
 
 - React without verifying facts (Inside the Industry credibility depends on accuracy)
 - Just summarize what HousingWire already wrote
 - Hedge the take
+- End with "follow me," "subscribe for more," or any audience-ask variant (banned by `editorial-standards.md` Rule 2)
 
 **Example:** NF-001 ("NAR Settles Tuccori Lawsuit for $52M")
 
