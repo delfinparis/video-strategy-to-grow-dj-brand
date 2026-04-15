@@ -27,10 +27,10 @@ Kale's mentorship program structure is independently verifiable (~25 mentors, cl
 ## Script (45-60 seconds)
 
 ### HOOK (0:00-0:08)
-A few days ago I sat in on a mentorship conversation at my brokerage. Two agents across a table. One has twelve years of experience. One is in her second year. And what I noticed in that conversation is the thing most agents never get from any brokerage they've been at.
+Most mentorship at real estate brokerages is just training with a different name. I just watched the real thing happen and it was completely different.
 
 ### CONTEXT (0:08-0:25)
-At Kale, we run a real mentorship program. Close to a hundred mentees. About twenty-five mentors. It's not a "check the box" pairing. The mentors volunteer. The mentees sign up. And they meet on real schedules about real deals that are actually on the table.
+A few days ago I sat in on a session at Kale. Twelve-year veteran on one side, second-year agent on the other. At Kale we run a real mentorship program. Close to a hundred mentees paired with about twenty-five mentors. Voluntary. Real schedules. Real deals on the table.
 
 ### OBSERVATION (0:25-0:45)
 Here's what I noticed. The mentor wasn't teaching a technique. He wasn't handing her a script. He was walking her through a decision -- should she take the listing, should she pass, what would she regret in six months either way. That's a very different kind of help than most agents get.
@@ -50,7 +50,9 @@ The mentor wasn't teaching a technique. He was teaching a decision. That's the d
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-A few days ago I sat in on a mentorship conversation at Kale Realty. Two agents across a table. One has twelve years of experience. One is in her second year. And I noticed something in that conversation that most agents never get from any brokerage they have been at.
+Most mentorship at real estate brokerages is just training with a different name. I just watched the real thing happen at Kale Realty this week and it was completely different.
+
+A few days ago I sat in on a mentorship conversation. Two agents across a table. One has twelve years of experience. One is in her second year.
 
 The mentor was not teaching a technique. He was not handing her a script. He was walking her through a decision. Should she take the listing. Should she pass. What would she regret in six months either way.
 
@@ -58,7 +60,9 @@ That is a very different kind of help than most agents get.
 
 At Kale, we run a real mentorship program. Close to a hundred mentees. About twenty-five mentors. It is not a "check the box" pairing. The mentors volunteer. The mentees sign up. And they meet on real schedules about real deals that are on the table right now.
 
-Here is the thing I keep coming back to. Most brokerages sell training. Real mentorship is not training. It is a second brain for the hard decisions, and it is the thing that compounds for a career, not for a single transaction. I have interviewed 700 agents on the Keeping It Real Podcast, and the ones who break out of their plateau almost never get there by themselves. They get there because somebody who had already been through it was willing to sit across from them and think out loud.
+Most brokerages sell training. Real mentorship is not training. It is a second brain for the hard decisions. It compounds for a career, not for a single transaction.
+
+I have interviewed 700 agents on the Keeping It Real Podcast, and the ones who break out of their plateau almost never get there by themselves. They get there because somebody who had already been through it was willing to sit across from them and think out loud.
 
 That is what I saw at Kale this week.
 
@@ -66,13 +70,13 @@ That is what I saw at Kale this week.
 
 ### Instagram Reels
 **Caption (compact, expand before posting):**
-I sat in on a mentorship conversation at my brokerage this week. The mentor wasn't teaching a technique -- he was teaching a decision. Here's why that matters.
+Most mentorship at real estate brokerages is just training with a different name. I just watched the real thing happen at my brokerage this week and it was completely different. The mentor wasn't teaching a technique. He was teaching a decision.
 
 **Hashtags:** (expand before posting)
 
 ### TikTok
 **Caption:**
-I sat in on a real mentorship conversation at my brokerage. What the mentor did was not what I expected.
+Most real estate mentorship is training with a different name. I just watched the real thing and it was completely different.
 
 **Text overlay for hook frame:** (remove per editorial-standards Rule 3 -- captions.ai generates from audio)
 
@@ -86,7 +90,7 @@ I sat in on a real mentorship conversation at my brokerage. What the mentor did 
 
 ### X (Twitter)
 **Caption:**
-Sat in on a mentorship conversation at my brokerage this week.
+Most real estate mentorship is just training with a different name. I just watched the real thing.
 
 The mentor wasn't teaching a technique. He was teaching a decision.
 
