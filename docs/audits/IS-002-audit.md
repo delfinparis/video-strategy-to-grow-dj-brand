@@ -3,7 +3,7 @@
 **Script under audit:** [`scripts/inside-the-industry/IS-002-the-6-percent-club.md`](../../scripts/inside-the-industry/IS-002-the-6-percent-club.md)
 **Audit date:** 2026-04-15
 **Standard applied:** [`docs/editorial-standards.md`](../editorial-standards.md) (universal)
-**Verdict:** **DO NOT SHIP.** Multiple stat-integrity violations (same ones the editorial standard was written to prevent). Also missing required structural beats. Rewrite below.
+**Verdict:** **REWRITE APPLIED** (2026-04-16). Original had multiple stat-integrity violations. Rewrite strips fabricated 6%/94%, adds mirror moment + agitation + re-hook, attributes guest quote to Karina Chavez with verified episode citation. Source file overwritten.
 
 This script is also the pilot audit used to validate the new editorial standard. If the standard catches what's wrong here, it catches what's wrong everywhere.
 
@@ -289,12 +289,14 @@ Tomorrow morning, pick up one call you'd normally skip.
 
 ---
 
-## What I need from D.J. before shipping this rewrite
+## Resolution (2026-04-16)
 
-1. **Guest quote attribution.** Who said *"I don't know what deal is in that call until I pick it up"*? Which episode? If it's a composite or paraphrase, approve either (a) removing the quotation marks and framing as "the way top producers describe it to me," or (b) replacing with a different real, attributable quote from the archive.
-2. **Episode numbers for Kristee Leonard, Bari Mill, Karina Chavez.** The current Data Source references internal script numbers. The editorial standard requires actual episode numbers/dates so the citation survives outside this repo.
-3. **Approval on the hook change.** The original hook said *"25, 50, even 100 million dollars a year"*. The rewrite says *"$40, $50 million a year"* because $40M and $50M trace to real guests in Data Source and $100M does not. If D.J. has interviewed a $100M+ producer with a confirmed production volume, name them and we can restore the range — but it has to be a real guest.
-4. **Approval to replace the original file** at [`scripts/inside-the-industry/IS-002-the-6-percent-club.md`](../../scripts/inside-the-industry/IS-002-the-6-percent-club.md) with the rewrite, or to keep the audit separate until D.J. reviews.
+All four open items resolved:
+
+1. **Guest quote attribution.** The original quote *"I don't know what deal is in that call until I pick it up"* could not be found verbatim in the KIR transcript archive. It was likely reconstructed by Claude. Replaced with Karina Chavez's real words from KIR episode "90 Referrals Each Year & Converting Motels Into Homes" (2025-12-09): *"Always answer your phone. You never know what you're going to get."*
+2. **Episode info verified from transcripts.** Kristee Leonard: KIR 2026-01-22 "The Gift Of Desperation," $50M annual, Austin TX. Bari Mill: KIR 2025-12-10 "From Division 1 Soccer To 40M in Year Six," $40M, Chicago. Karina Chavez: KIR 2025-12-09 "90 Referrals Each Year," Keller Williams.
+3. **$100M removed from hook.** No individual agent guest at $100M+ production was found in the archive. Steve Shull (KIR 2023-01-12) coaches clients at $100M+ but is not a producing agent himself. Hook now references $40M/$50M only, traced to real guests.
+4. **Source file overwritten** with the rewrite. Original fabricated version replaced.
 
 ---
 
