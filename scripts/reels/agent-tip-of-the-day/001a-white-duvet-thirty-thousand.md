@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # The $10 Hack That Gets 30% More Engagement
 
-> **On-Screen Text:** White duvet = 30% more engagement
+> **WOW: Tactical specificity: the $10 hack that gets 30% more engagement -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

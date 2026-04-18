@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Stop Handing Money to the IRS -- Build a Tax System With Claude
 
-> **On-Screen Text:** Every deductible category + monthly tracking template
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to stop handing money to the irs -- build a tax system with claude.**
 
 ## Script (Spoken)
 

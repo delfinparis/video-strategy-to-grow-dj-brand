@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # You're Drowning in Things You Can't Control
 
-> **On-Screen Text:** Database. Response time. Daily actions.
+> **WOW: Tactical specificity: you're drowning in things you can't control -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

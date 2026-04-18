@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Prospecting Script Sounds Fake Because It Is
 
-> **On-Screen Text:** They were written for someone else
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your prospecting script sounds fake because it is.**
 
 ## Script (Spoken)
 

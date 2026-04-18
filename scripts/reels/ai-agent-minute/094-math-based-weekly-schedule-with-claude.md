@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Math-Based Weekly Schedule With Claude
 
-> **On-Screen Text:** You have a schedule design problem -- not a time problem
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a math-based weekly schedule with claude.**
 
 ## Script (Spoken)
 

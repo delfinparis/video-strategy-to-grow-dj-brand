@@ -13,6 +13,8 @@ kale_signaling: true
 
 # The Free Training You're Probably Skipping
 
+> **WOW: Tactical specificity: the free training you're probably skipping -- a concrete, immediately-usable tactic.**
+
 **Pillar:** Agent Tip of the Day | **Kale-Signaling Variant**
 **Primary Platform:** Personal IG / Personal Facebook | **Post Date:** TBD
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You Don't Dread Prospecting -- You Dread Having No System
 
-> **On-Screen Text:** They don't love rejection. They have a system.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you don't dread prospecting -- you dread having no system.**
 
 ## Script (Spoken)
 

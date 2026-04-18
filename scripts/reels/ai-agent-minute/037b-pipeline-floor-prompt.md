@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build Your Pipeline Floor With Claude
 
-> **On-Screen Text:** Minimum prospecting floor to guarantee 2 closings a month
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build your pipeline floor with claude.**
 
 ## Script (Spoken)
 

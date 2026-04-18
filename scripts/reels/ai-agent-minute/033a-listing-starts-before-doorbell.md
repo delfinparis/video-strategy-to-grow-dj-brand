@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Listing Appointment Starts Before You Ring the Doorbell
 
-> **On-Screen Text:** Not an audition -- a conversation
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the listing appointment starts before you ring the doorbell.**
 
 ## Script (Spoken)
 

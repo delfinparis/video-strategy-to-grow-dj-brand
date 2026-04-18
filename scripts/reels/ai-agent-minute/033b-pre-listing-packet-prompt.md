@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Pre-Listing Packet With Claude
 
-> **On-Screen Text:** Bio + comps + testimonials + marketing overview + your 5 questions
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a pre-listing packet with claude.**
 
 ## Script (Spoken)
 

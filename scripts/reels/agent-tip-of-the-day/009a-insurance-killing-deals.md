@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Insurance Is Killing More Deals Than Bad Inspections
 
-> **On-Screen Text:** $2M home = $25K/year insurance = $2K/month
+> **WOW: Tactical specificity: insurance is killing more deals than bad inspections -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

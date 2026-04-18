@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Team Meetings Are Wasting Everyone's Time
 
-> **On-Screen Text:** Meetings by feel vs. meetings on structure
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your team meetings are wasting everyone's time.**
 
 ## Script (Spoken)
 

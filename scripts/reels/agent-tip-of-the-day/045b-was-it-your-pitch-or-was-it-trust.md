@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # Was It Your Pitch or Was It Trust?
 
-> **On-Screen Text:** "Audit your lost deals."
+> **WOW: Tactical specificity: was it your pitch or was it trust? -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

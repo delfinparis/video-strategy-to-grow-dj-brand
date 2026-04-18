@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You Checked Email This Morning -- You Already Lost
 
-> **On-Screen Text:** Email is the enemy of income -- disguised as productivity
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you checked email this morning -- you already lost.**
 
 ## Script (Spoken)
 

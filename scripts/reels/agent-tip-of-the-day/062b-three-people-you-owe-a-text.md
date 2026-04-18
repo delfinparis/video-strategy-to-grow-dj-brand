@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Three People You Owe a Text
 
-> **On-Screen Text:** "Open your CRM. Find 3 people. Send something."
+> **WOW: Tactical specificity: three people you owe a text -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Never Respond to a Difficult Client in Real Time
 
-> **On-Screen Text:** Never respond in real time from emotion -- with no strategy
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to never respond to a difficult client in real time.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Perplexity"
 
 # You're Competing Against Agents You've Never Even Looked Up
 
-> **On-Screen Text:** Competing on instinct -- then wondering why you lose
+> **WOW: Tactical specificity: names Perplexity and gives the exact prompt to you're competing against agents you've never even looked up.**
 
 ## Script (Spoken)
 

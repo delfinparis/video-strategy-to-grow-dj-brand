@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Rewrite Your Agent Bio With Claude -- Story First
 
-> **On-Screen Text:** Why you started + who you serve best + one contrarian belief
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to rewrite your agent bio with claude -- story first.**
 
 ## Script (Spoken)
 

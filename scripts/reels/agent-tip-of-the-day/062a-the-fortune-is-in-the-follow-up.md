@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # The Fortune Is in the Follow-Up
 
-> **On-Screen Text:** "The 3rd text. The 5th email. The call 3 months later."
+> **WOW: Tactical specificity: the fortune is in the follow-up -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

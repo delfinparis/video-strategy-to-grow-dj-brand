@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The AI Business Simplification Audit
 
-> **On-Screen Text:** Which 20% drives 80% of results?
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the AI business simplification audit.**
 
 ## Script (Spoken)
 

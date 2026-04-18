@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Treat Being Chosen as an Honor
 
-> **On-Screen Text:** "It's an honor to be chosen."
+> **WOW: Tactical specificity: treat being chosen as an honor -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

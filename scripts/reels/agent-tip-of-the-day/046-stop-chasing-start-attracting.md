@@ -8,7 +8,7 @@ target_duration: "26 seconds"
 
 # Stop Chasing, Start Attracting
 
-> **On-Screen Text:** "Marketing attracts. Selling convinces."
+> **WOW: Tactical specificity: stop chasing, start attracting -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

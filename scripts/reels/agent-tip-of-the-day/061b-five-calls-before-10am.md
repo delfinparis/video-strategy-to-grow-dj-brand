@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # Five Calls Before 10 AM
 
-> **On-Screen Text:** "5 calls = commitment."
+> **WOW: Tactical specificity: five calls before 10 am -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

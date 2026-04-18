@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Write Negotiation Talking Points With Claude
 
-> **On-Screen Text:** Draft 3 scenarios ranked by likelihood -- with talking points for each
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to write negotiation talking points with claude.**
 
 ## Script (Spoken)
 

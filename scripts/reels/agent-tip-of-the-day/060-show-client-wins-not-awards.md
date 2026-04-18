@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Show Client Wins, Not Awards
 
-> **On-Screen Text:** "3 client wins = your script."
+> **WOW: Tactical specificity: show client wins, not awards -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

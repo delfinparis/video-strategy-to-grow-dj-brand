@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # It Should Be Harder to Get Licensed
 
-> **On-Screen Text:** 60 HOURS TO HANDLE A $400K DECISION?
+> **WOW: Tactical specificity: it should be harder to get licensed -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

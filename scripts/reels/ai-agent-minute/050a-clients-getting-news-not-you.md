@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Your Clients Are Getting Market Info From the News -- Not You
 
-> **On-Screen Text:** Most trusted source = most calls when it's time to move
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to your clients are getting market info from the news -- not you.**
 
 ## Script (Spoken)
 

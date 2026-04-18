@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The 3-Touch FSBO Sequence That Actually Works
 
-> **On-Screen Text:** No ask until touch three -- earn each message
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the 3-touch FSBO sequence that actually works.**
 
 ## Script (Spoken)
 

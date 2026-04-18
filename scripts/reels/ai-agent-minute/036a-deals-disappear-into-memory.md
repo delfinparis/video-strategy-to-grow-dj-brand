@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Best Deals Are Disappearing Into Memory
 
-> **On-Screen Text:** Impressive track record that no one knows about
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your best deals are disappearing into memory.**
 
 ## Script (Spoken)
 

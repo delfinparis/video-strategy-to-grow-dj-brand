@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Batch 30 Posts in 90 Minutes With Claude
 
-> **On-Screen Text:** Generate 30 posts with hook, body copy, and CTA
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to batch 30 posts in 90 minutes with claude.**
 
 ## Script (Spoken)
 

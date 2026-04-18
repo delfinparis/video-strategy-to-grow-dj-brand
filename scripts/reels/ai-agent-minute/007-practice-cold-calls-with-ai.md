@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Practice Cold Calls With AI Until Nothing Surprises You
 
-> **On-Screen Text:** Memorizing a script is not practicing it
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to practice cold calls until nothing surprises you.**
 
 ## Script (Spoken)
 

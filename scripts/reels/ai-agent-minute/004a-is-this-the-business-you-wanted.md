@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You Built a Business You Never Consciously Chose
 
-> **On-Screen Text:** Is it the business you actually wanted?
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you built a business you never consciously chose.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Your College Roommate Didn't Call You
 
-> **On-Screen Text:** Stop counting rejections. Start counting opportunities.
+> **WOW: Tactical specificity: your college roommate didn't call you -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

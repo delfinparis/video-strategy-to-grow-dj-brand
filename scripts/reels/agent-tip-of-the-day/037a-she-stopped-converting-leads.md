@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # She Stopped Converting Leads Entirely
 
-> **On-Screen Text:** 85% OF HER BUSINESS. ZERO CONVINCING.
+> **WOW: Tactical specificity: she stopped converting leads entirely -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

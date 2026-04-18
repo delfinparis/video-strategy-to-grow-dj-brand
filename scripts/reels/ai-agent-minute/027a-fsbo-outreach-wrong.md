@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Why Your FSBO Outreach Keeps Failing
 
-> **On-Screen Text:** Help first. Earn the listing later.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to why your FSBO outreach keeps failing.**
 
 ## Script (Spoken)
 

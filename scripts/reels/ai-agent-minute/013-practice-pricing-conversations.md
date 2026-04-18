@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Practice the Hardest Conversation in Real Estate With AI
 
-> **On-Screen Text:** The most expensive conversation isn't about commission -- it's about price
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to practice the hardest conversation in real estate.**
 
 ## Script (Spoken)
 

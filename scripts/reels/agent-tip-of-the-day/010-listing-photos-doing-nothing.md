@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # 300 Listing Photos Doing Nothing
 
-> **On-Screen Text:** Static photos = invisible. AI video = shared.
+> **WOW: Tactical specificity: 300 listing photos doing nothing -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

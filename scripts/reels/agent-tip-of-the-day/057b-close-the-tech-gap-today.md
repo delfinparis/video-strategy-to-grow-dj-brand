@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # Close the Tech Gap Today
 
-> **On-Screen Text:** "One sequence. Today."
+> **WOW: Tactical specificity: close the tech gap today -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

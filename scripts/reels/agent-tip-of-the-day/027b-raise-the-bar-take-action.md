@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Raise the Bar -- Here's How
 
-> **On-Screen Text:** THE PROFESSION EARNS RESPECT WHEN IT DEMANDS COMPETENCE
+> **WOW: Tactical specificity: raise the bar -- here's how -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

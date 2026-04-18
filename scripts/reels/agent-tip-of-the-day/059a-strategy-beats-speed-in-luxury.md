@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Strategy Beats Speed in Luxury
 
-> **On-Screen Text:** "Judgment over urgency."
+> **WOW: Tactical specificity: strategy beats speed in luxury -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

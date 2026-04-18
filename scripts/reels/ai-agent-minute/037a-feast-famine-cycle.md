@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You're Creating Your Own Feast-or-Famine Cycle
 
-> **On-Screen Text:** The busy season creates the next slow season
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you're creating your own feast-or-famine cycle.**
 
 ## Script (Spoken)
 

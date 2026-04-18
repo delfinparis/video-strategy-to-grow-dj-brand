@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a 12-Month Client Check-In Sequence With Claude
 
-> **On-Screen Text:** Build once. Automate forever.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a 12-month client check-in sequence with claude.**
 
 ## Script (Spoken)
 

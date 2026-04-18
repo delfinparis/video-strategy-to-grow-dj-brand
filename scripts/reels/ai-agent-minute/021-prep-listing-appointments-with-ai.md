@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Win the Listing Before You Walk In the Door
 
-> **On-Screen Text:** Won before you walk in the door
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to win the listing before you walk in the door.**
 
 ## Script (Spoken)
 

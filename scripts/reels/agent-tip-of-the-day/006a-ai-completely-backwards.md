@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # You're Using AI Completely Backwards
 
-> **On-Screen Text:** Clean up your thoughts. Don't replace them.
+> **WOW: Tactical specificity: you're using AI completely backwards -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

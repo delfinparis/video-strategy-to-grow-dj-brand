@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Your Reputation Is Your Worst Client Experience
 
-> **On-Screen Text:** "The dinner party story."
+> **WOW: Tactical specificity: your reputation is your worst client experience -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

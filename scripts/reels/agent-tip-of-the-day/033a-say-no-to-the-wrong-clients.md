@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Say No to the Wrong Clients
 
-> **On-Screen Text:** URGENCY WITHOUT CLARITY IS A LAWSUIT
+> **WOW: Tactical specificity: say no to the wrong clients -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

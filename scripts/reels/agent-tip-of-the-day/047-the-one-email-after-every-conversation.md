@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # The One Email After Every Conversation
 
-> **On-Screen Text:** "The email isn't rude. It's a receipt."
+> **WOW: Tactical specificity: the one email after every conversation -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

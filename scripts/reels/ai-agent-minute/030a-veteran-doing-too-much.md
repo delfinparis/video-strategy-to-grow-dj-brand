@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Ten Years In and Burning Out? It's Not Effort
 
-> **On-Screen Text:** A Zillow campaign from 2019 that stopped producing
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to ten years in and burning out? it's not effort.**
 
 ## Script (Spoken)
 

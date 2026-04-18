@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # 5 Weekly Questions to Catch Burnout Before It Costs You
 
-> **On-Screen Text:** 5 weekly questions -- 4-week pattern summary
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to 5 weekly questions to catch burnout before it costs you.**
 
 ## Script (Spoken)
 

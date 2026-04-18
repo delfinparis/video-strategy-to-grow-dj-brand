@@ -9,7 +9,7 @@ ai_tool: "Claude (voice-to-text)"
 
 # CRM Notes in 90 Seconds -- Voice Memo to Claude to Done
 
-> **On-Screen Text:** Voice memo -- Claude -- CRM. Ninety seconds.
+> **WOW: Tactical specificity: names Claude (voice-to-text) and gives the exact prompt to CRM notes in 90 seconds -- voice memo to claude to done.**
 
 ## Script (Spoken)
 

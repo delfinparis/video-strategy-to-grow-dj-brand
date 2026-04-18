@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Your Competition Disappears for Six Weeks
 
-> **On-Screen Text:** WHEN YOUR COMPETITION COASTS = YOUR ADVANTAGE
+> **WOW: Tactical specificity: your competition disappears for six weeks -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

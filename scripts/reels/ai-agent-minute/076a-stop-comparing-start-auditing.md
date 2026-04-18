@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Stop Comparing -- Start Auditing
 
-> **On-Screen Text:** You're measuring your behind-the-scenes against their highlight reel
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to stop comparing -- start auditing.**
 
 ## Script (Spoken)
 

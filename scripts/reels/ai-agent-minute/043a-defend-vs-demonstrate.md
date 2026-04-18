@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Stop Defending Your Commission -- Demonstrate Your Value
 
-> **On-Screen Text:** Defend what you charge vs. demonstrate what you deliver
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to stop defending your commission -- demonstrate your value.**
 
 ## Script (Spoken)
 

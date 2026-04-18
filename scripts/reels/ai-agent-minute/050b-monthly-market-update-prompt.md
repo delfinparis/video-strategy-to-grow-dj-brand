@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Send Monthly Market Updates in 20 Minutes With Claude
 
-> **On-Screen Text:** Conversational. Not statistical. One actionable insight.
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to send monthly market updates in 20 minutes with claude.**
 
 ## Script (Spoken)
 

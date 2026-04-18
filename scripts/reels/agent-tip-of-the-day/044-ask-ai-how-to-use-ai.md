@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # Ask AI How to Use AI
 
-> **On-Screen Text:** "AI as coach, not tool."
+> **WOW: Tactical specificity: ask AI how to use AI -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

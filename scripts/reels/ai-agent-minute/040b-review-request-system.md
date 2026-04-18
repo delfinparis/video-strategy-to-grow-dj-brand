@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a 5-Step Review Request System With Claude
 
-> **On-Screen Text:** Timing + email + text + follow-up + one-sentence prompt
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a 5-step review request system with claude.**
 
 ## Script (Spoken)
 

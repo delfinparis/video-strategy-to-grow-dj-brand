@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Separation Season
 
-> **On-Screen Text:** 5 focused weeks = 3 months of catching up
+> **WOW: Tactical specificity: separation season -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

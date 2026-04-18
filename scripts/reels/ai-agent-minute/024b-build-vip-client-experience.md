@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a VIP Client Experience With Claude
 
-> **On-Screen Text:** Quarterly check-ins + value touchpoints + milestone moments
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a vip client experience with claude.**
 
 ## Script (Spoken)
 

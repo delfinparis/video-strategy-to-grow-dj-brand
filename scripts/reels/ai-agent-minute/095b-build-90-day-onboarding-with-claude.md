@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a 90-Day Onboarding Program With Claude
 
-> **On-Screen Text:** Build me a 90-day agent onboarding program with week-by-week milestones
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a 90-day onboarding program with claude.**
 
 ## Script (Spoken)
 

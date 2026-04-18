@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Builder's Onsite Agent Is Not Your Buyer's Friend
 
-> **On-Screen Text:** Friendly. Professional. Entirely paid by the other side.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the builder's onsite agent is not your buyer's friend.**
 
 ## Script (Spoken)
 

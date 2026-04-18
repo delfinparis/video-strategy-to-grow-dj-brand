@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The 'I'll Restart on Monday' Content Trap
 
-> **On-Screen Text:** Silenced more accounts than any algorithm
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the 'i'll restart on monday' content trap.**
 
 ## Script (Spoken)
 

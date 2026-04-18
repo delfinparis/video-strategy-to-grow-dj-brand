@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Onboarding Process Is Why They Leave
 
-> **On-Screen Text:** They don't leave for the split. They leave because they felt lost.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your onboarding process is why they leave.**
 
 ## Script (Spoken)
 

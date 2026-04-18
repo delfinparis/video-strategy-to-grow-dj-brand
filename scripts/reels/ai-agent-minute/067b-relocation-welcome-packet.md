@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Build a Relocation Welcome Packet That Wins the Client Before You Meet
 
-> **On-Screen Text:** Neighborhoods + commutes + schools + amenities + timeline
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to build a relocation welcome packet that wins the client before you meet.**
 
 ## Script (Spoken)
 

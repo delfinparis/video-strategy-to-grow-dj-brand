@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Personalize Follow-Ups With Claude
 
-> **On-Screen Text:** It's not a follow-up problem. It's a listening problem.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to personalize follow-ups with claude.**
 
 ## Script (Spoken)
 

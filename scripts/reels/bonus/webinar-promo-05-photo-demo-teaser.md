@@ -12,6 +12,8 @@ registration_url: "keepingitrealwebinar.com"
 
 # Reel 5: I Fed a Listing Photo Into AI and Jaws Hit the Floor
 
+> **WOW: Tactical specificity: reel 5: i fed a listing photo into AI and jaws hit the floor.**
+
 > **On-Screen Text (0:00):** I fed a listing photo into AI. Watch what happened.
 
 ## Script (Direct to camera -- storytelling energy, build suspense)

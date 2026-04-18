@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # 20% of Your Clients Drive 80% of Your Referrals
 
-> **On-Screen Text:** Treating your best clients like everyone else is expensive
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to 20% of your clients drive 80% of your referrals.**
 
 ## Script (Spoken)
 

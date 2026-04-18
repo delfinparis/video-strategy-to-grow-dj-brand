@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # One Piece of Content. Ten Posts. Fifteen Minutes.
 
-> **On-Screen Text:** 1 LinkedIn + 3 Instagram + 5 text posts + 1 email subject
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to one piece of content. ten posts. fifteen minutes.**
 
 ## Script (Spoken)
 

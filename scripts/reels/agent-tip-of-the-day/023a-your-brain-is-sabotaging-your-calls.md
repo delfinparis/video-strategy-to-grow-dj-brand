@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Your Brain Is Sabotaging Your Calls
 
-> **On-Screen Text:** PROGRAMMED TO SURVIVE, NOT THRIVE
+> **WOW: Tactical specificity: your brain is sabotaging your calls -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

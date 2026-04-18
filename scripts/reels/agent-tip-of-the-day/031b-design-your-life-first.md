@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # Design Your Life First
 
-> **On-Screen Text:** BLOCK YOUR LIFE FIRST. BUILD YOUR BUSINESS SECOND.
+> **WOW: Tactical specificity: design your life first -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Buyers Reject Uncertainty, Not Homes
 
-> **On-Screen Text:** "Certainty closes deals."
+> **WOW: Tactical specificity: buyers reject uncertainty, not homes -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The 9 PM Texts and "Why Didn't You Tell Me?" -- All Preventable
 
-> **On-Screen Text:** From expectations that were never set
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the 9 pm texts and "why didn't you tell me?" -- all preventable.**
 
 ## Script (Spoken)
 

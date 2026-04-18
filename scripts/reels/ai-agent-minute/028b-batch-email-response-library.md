@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build Your Email Response Library With Claude
 
-> **On-Screen Text:** 20 common responses -- customize in 30 seconds
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build your email response library with claude.**
 
 ## Script (Spoken)
 

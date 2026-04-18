@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You're Not Lazy -- You're Protecting Yourself From Rejection
 
-> **On-Screen Text:** Most of those "nos" had nothing to do with you
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you're not lazy -- you're protecting yourself from rejection.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Leads Aren't Ghosting You -- Your Follow-Up Is
 
-> **On-Screen Text:** No reason to respond
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your leads aren't ghosting you -- your follow-up is.**
 
 ## Script (Spoken)
 

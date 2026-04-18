@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Recruiting Pitch That Attracts the Right Agents
 
-> **On-Screen Text:** 4 questions -- then Claude builds your differentiated pitch
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a recruiting pitch that attracts the right agents.**
 
 ## Script (Spoken)
 

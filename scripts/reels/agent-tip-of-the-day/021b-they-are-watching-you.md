@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # They Are Watching You
 
-> **On-Screen Text:** THEY'RE COUNTING YOUR CONSISTENCY
+> **WOW: Tactical specificity: they are watching you -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

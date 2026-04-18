@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Why Agents Quit Social Media After Three Weeks
 
-> **On-Screen Text:** It's not a willpower problem. It's a workflow problem.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to why agents quit social media after three weeks.**
 
 ## Script (Spoken)
 

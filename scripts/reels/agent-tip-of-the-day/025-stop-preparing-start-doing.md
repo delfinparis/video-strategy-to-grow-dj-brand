@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Stop Preparing. Start Doing.
 
-> **On-Screen Text:** STOP PREPARING. START DOING.
+> **WOW: Tactical specificity: stop preparing. start doing -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

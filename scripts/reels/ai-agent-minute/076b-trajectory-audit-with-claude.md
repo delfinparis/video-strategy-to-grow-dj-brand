@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Run a Trajectory Audit With Claude
 
-> **On-Screen Text:** Write me a progress narrative grounded in real numbers
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to run a trajectory audit with claude.**
 
 ## Script (Spoken)
 

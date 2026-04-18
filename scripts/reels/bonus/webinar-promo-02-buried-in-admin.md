@@ -12,6 +12,8 @@ registration_url: "keepingitrealwebinar.com"
 
 # Reel 2: You're Not Lazy -- You're Doing Everything Yourself
 
+> **WOW: Tactical specificity: reel 2: you're not lazy -- you're doing everything yourself.**
+
 > **On-Screen Text (0:00):** You're the agent, the admin, the marketer, the CRM updater, and the person awake at 11 PM writing emails
 
 ## Script (Direct to camera -- empathetic opening, builds to solution)

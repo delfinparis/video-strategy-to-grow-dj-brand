@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Let Claude Build Your Team Meeting Agenda
 
-> **On-Screen Text:** Wins + metrics + training + decisions + next actions
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to let claude build your team meeting agenda.**
 
 ## Script (Spoken)
 

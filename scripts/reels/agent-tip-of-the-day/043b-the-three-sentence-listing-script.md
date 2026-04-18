@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # The Three-Sentence Listing Script
 
-> **On-Screen Text:** "Write these 3 sentences."
+> **WOW: Tactical specificity: the three-sentence listing script -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

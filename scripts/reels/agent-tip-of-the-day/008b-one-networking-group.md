@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # One Group. One Meetup. Four Referrals.
 
-> **On-Screen Text:** Google "[your city] + [industry] networking group"
+> **WOW: Tactical specificity: one group. one meetup. four referrals -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

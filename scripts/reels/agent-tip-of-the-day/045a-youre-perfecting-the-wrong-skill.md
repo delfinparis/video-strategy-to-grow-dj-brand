@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # You're Perfecting the Wrong Skill
 
-> **On-Screen Text:** "Trust > Pitch"
+> **WOW: Tactical specificity: you're perfecting the wrong skill -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

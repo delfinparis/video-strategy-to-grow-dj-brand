@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You Feel Like a Fraud -- So Did Every Top Producer When They Started
 
-> **On-Screen Text:** You can close that gap on purpose -- with evidence
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you feel like a fraud -- so did every top producer when they started.**
 
 ## Script (Spoken)
 

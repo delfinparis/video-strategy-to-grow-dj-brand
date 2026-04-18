@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # 70% Would Use You Again -- Only 11% Do
 
-> **On-Screen Text:** 70% would use you again. 11% actually do.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to 70% would use you again -- only 11% do.**
 
 ## Script (Spoken)
 

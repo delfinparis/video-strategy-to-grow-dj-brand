@@ -37,7 +37,6 @@ Most agents show relocation buyers houses. Top producers show them the city.
 Here's the tool that wins this client before you ever meet them. Use Claude and Perplexity to build a Relocation Welcome Packet. Type: "Build a comprehensive guide for a buyer relocating to [your city]. Include: neighborhood profiles for five areas with different vibes and price points, commute time analysis to the top three major employers, school comparison data, a 'new to the city' amenities guide, and a step-by-step buying process timeline for out-of-town buyers." Format it cleanly. Email it the day they reach out.
 They will call every other agent and send it to that one.
 Relocation buyers choose agents who make an unfamiliar city feel familiar. AI helps you build that confidence before you ever meet them.
-Have you worked with relocation buyers?
 ## Producer Note
 "They will call every other agent and send it to that one" -- keep this line, it's the most memorable close in the script. Runs slightly long -- trim the Zillow search description on delivery.
 

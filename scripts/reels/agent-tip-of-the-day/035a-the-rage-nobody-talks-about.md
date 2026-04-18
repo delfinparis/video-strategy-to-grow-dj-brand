@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # The Rage Nobody Talks About
 
-> **On-Screen Text:** THE RAGE IS WHAT KEEPS YOU GOING. AND IT'S KILLING YOU.
+> **WOW: Tactical specificity: the rage nobody talks about -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

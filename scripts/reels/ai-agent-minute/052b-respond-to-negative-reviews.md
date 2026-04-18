@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # A Negative Review You Never Responded To Is Worse Than the Review
 
-> **On-Screen Text:** Your response matters more than the review
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to a negative review you never responded to is worse than the review.**
 
 ## Script (Spoken)
 

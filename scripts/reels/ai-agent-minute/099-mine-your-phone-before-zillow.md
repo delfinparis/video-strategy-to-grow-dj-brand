@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Mine Your Phone Before Zillow
 
-> **On-Screen Text:** They bought strangers while their sphere went quiet
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to mine your phone before zillow.**
 
 ## Script (Spoken)
 

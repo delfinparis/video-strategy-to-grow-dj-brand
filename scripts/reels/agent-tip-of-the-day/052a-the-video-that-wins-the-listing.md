@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # The Video That Wins the Listing
 
-> **On-Screen Text:** "Bio vs. video -- who gets the call?"
+> **WOW: Tactical specificity: the video that wins the listing -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

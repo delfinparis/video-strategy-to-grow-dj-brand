@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Motivation Runs Out -- Your Why Doesn't
 
-> **On-Screen Text:** 4 questions -- your personal mission statement
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to motivation runs out -- your why doesn't.**
 
 ## Script (Spoken)
 

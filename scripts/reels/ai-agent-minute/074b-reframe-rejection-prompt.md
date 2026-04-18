@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # After a Rough Prospecting Session, Paste the Call Into Claude
 
-> **On-Screen Text:** 3 alternative explanations -- nothing to do with your competence
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to after a rough prospecting session, paste the call into claude.**
 
 ## Script (Spoken)
 

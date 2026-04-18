@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Five Words That Cost You More Than Any Market Crash
 
-> **On-Screen Text:** "I want to think about it"
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to five words that cost you more than any market crash.**
 
 ## Script (Spoken)
 

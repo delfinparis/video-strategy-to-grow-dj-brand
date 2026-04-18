@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # AI Listing Descriptions: Sold in Two Days
 
-> **On-Screen Text:** SOLD IN 2 DAYS. NOT 2 WEEKS.
+> **WOW: Tactical specificity: AI listing descriptions: sold in two days -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

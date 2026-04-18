@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Dead Leads Aren't Dead
 
-> **On-Screen Text:** You're not running out of time. You're running out of things to say.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your dead leads aren't dead.**
 
 ## Script (Spoken)
 

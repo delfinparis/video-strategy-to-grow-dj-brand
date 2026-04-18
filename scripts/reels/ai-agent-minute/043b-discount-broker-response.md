@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Build a Data-Driven Discount Broker Response With AI
 
-> **On-Screen Text:** Data-driven. Never defensive. Always about their outcome.
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to build a data-driven discount broker response.**
 
 ## Script (Spoken)
 

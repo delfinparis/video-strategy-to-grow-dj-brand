@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Database Got One Email From You Last Year -- At Christmas
 
-> **On-Screen Text:** 1 market point + 1 home tip + 1 personal story + listing = done
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your database got one email from you last year -- at christmas.**
 
 ## Script (Spoken)
 

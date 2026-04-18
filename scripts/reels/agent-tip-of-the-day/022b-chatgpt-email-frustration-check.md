@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # The ChatGPT Email Frustration Check
 
-> **On-Screen Text:** TRY THIS TONIGHT
+> **WOW: Tactical specificity: the chatgpt email frustration check -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

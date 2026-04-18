@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Your Competition Just Got Upgraded
 
-> **On-Screen Text:** "1 in 5 agents. One company."
+> **WOW: Tactical specificity: your competition just got upgraded -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

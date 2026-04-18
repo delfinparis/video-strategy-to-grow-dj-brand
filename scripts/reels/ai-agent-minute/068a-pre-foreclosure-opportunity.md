@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Pre-Foreclosure Records Are Public -- Most Agents Never Look
 
-> **On-Screen Text:** Homework the competition refuses to do
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to pre-foreclosure records are public -- most agents never look.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Clients Didn't Leave Reviews -- That's Your Fault
 
-> **On-Screen Text:** Make it the easiest thing they do all week
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your clients didn't leave reviews -- that's your fault.**
 
 ## Script (Spoken)
 

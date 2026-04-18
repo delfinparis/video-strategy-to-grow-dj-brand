@@ -9,7 +9,7 @@ ai_tool: "Claude + Perplexity"
 
 # Build an Investment Property Analysis Template With AI
 
-> **On-Screen Text:** Four minutes to look like a pro
+> **WOW: Tactical specificity: names Claude + Perplexity and gives the exact prompt to build an investment property analysis template.**
 
 ## Script (Spoken)
 

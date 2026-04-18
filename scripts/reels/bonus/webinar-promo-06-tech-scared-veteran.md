@@ -12,6 +12,8 @@ registration_url: "keepingitrealwebinar.com"
 
 # Reel 6: If You Can Send a Text, You Can Do This
 
+> **WOW: Tactical specificity: reel 6: if you can send a text, you can do this.**
+
 > **On-Screen Text (0:00):** "AI isn't for me. I'm not a tech person."
 
 ## Script (Direct to camera -- warm, reassuring, then encouraging)

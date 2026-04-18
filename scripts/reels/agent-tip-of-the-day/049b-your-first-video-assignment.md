@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Your First Video Assignment
 
-> **On-Screen Text:** "Most agents don't tell buyers that..."
+> **WOW: Tactical specificity: your first video assignment -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Downsizer Client Guide With Claude
 
-> **On-Screen Text:** Build me a Senior and Downsizer Client Guide
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a downsizer client guide with claude.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # The 90-Second Regulation Technique
 
-> **On-Screen Text:** 1. NOTICE. 2. NAME. 3. BREATHE. 4. ASK.
+> **WOW: Tactical specificity: the 90-second regulation technique -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

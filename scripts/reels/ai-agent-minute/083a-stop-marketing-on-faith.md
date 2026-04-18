@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Stop Marketing on Faith
 
-> **On-Screen Text:** Most agents spend on instinct. Top producers spend on evidence.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to stop marketing on faith.**
 
 ## Script (Spoken)
 

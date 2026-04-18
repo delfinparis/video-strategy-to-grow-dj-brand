@@ -9,7 +9,7 @@ ai_tool: "Perplexity / Claude"
 
 # Find the 3 Gaps Your Competition Is Leaving Open
 
-> **On-Screen Text:** 3 gaps I could own heading into next year
+> **WOW: Tactical specificity: names Perplexity / Claude and gives the exact prompt to find the 3 gaps your competition is leaving open.**
 
 ## Script (Spoken)
 

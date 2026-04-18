@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # National Content Competes With Everyone -- Hyperlocal Competes With No One
 
-> **On-Screen Text:** Not louder. More specific.
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to national content competes with everyone -- hyperlocal competes with no one.**
 
 ## Script (Spoken)
 

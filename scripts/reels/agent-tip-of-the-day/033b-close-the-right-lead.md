@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # Close the Right Lead
 
-> **On-Screen Text:** SAY NO TO THE WRONG CLIENTS
+> **WOW: Tactical specificity: close the right lead -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

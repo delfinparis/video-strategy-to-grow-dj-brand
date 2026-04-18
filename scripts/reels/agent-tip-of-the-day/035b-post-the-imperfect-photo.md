@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # Post the Imperfect Photo
 
-> **On-Screen Text:** POST THE PHOTO YOU ALMOST DELETED
+> **WOW: Tactical specificity: post the imperfect photo -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

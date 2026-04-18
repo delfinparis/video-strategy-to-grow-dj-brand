@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Run Your Comp Model Math With Claude
 
-> **On-Screen Text:** Is your comp model attracting or repelling talent?
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to run your comp model math with claude.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # You're Lying About What You Want to Build
 
-> **On-Screen Text:** The work didn't match the story.
+> **WOW: Tactical specificity: you're lying about what you want to build -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

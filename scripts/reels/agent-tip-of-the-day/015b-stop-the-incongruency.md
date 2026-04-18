@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # That Resentment Isn't Burnout
 
-> **On-Screen Text:** Dominate or downshift. Both are fine. Just pick one.
+> **WOW: Tactical specificity: that resentment isn't burnout -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

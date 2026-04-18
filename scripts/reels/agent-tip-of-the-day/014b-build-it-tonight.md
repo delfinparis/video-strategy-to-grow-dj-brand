@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Build Your First Tool Tonight
 
-> **On-Screen Text:** The barrier between "I wish" and "I built" just collapsed.
+> **WOW: Tactical specificity: build your first tool tonight -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

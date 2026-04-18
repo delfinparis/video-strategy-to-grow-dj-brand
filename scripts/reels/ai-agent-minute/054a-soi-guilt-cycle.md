@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You Think About Calling Your SOI, Don't Call, Then Feel Guilty
 
-> **On-Screen Text:** Better systems -- not better relationships
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you think about calling your SOI, don't call, then feel guilty.**
 
 ## Script (Spoken)
 

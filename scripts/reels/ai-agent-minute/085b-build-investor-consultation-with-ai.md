@@ -9,7 +9,7 @@ ai_tool: "Perplexity + Claude"
 
 # Build an Investor Consultation With AI
 
-> **On-Screen Text:** Build me an investor consultation framework -- cap rate, ROI, risk, exit strategy
+> **WOW: Tactical specificity: names Perplexity + Claude and gives the exact prompt to build an investor consultation.**
 
 ## Script (Spoken)
 

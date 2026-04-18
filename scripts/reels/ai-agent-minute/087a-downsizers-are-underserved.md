@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Downsizers Are the Most Underserved Clients
 
-> **On-Screen Text:** This isn't a listing. It's one of the hardest transitions of their life.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to downsizers are the most underserved clients.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # Your First YouTube Lead
 
-> **On-Screen Text:** WHAT ARE BUYERS IN YOUR MARKET GOOGLING?
+> **WOW: Tactical specificity: your first youtube lead -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

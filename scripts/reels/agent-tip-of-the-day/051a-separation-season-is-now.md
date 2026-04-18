@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Separation Season Is Now
 
-> **On-Screen Text:** "Separation season, not downtime."
+> **WOW: Tactical specificity: separation season is now -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

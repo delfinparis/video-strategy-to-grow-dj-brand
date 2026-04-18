@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Google Business Profile Is Free Leads
 
-> **On-Screen Text:** Gets you found for free -- if you actually optimize it
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to google business profile is free leads.**
 
 ## Script (Spoken)
 

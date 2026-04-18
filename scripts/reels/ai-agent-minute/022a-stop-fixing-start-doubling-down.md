@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Stop Fixing What's Broken -- Go Deeper on What's Working
 
-> **On-Screen Text:** Almost none go deeper on what's right
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to stop fixing what's broken -- go deeper on what's working.**
 
 ## Script (Spoken)
 

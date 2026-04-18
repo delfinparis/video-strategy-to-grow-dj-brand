@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # People Can Tell When AI Wrote Your Content
 
-> **On-Screen Text:** They trust it less when they can tell
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to people can tell when AI wrote your content.**
 
 ## Script (Spoken)
 

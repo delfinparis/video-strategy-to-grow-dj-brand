@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Competing on Split Is a Race to the Bottom
 
-> **On-Screen Text:** "Great leads, solid split, good support" = every team leader ever
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to competing on split is a race to the bottom.**
 
 ## Script (Spoken)
 

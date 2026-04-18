@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # Text Five Clients Before This Video Ends
 
-> **On-Screen Text:** 45 seconds of work > 4 hours of planning
+> **WOW: Tactical specificity: text five clients before this video ends -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

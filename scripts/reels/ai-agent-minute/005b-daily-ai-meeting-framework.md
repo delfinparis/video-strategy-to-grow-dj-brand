@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Treat Your AI Like a Daily Meeting -- 4 Prompts
 
-> **On-Screen Text:** 4 daily check-ins. Same Claude. Different results.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to treat your AI like a daily meeting -- 4 prompts.**
 
 ## Script (Spoken)
 

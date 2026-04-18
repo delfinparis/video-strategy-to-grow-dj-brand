@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Turn Any Deal Into a Case Study in 10 Minutes
 
-> **On-Screen Text:** Challenge -- approach -- result -- client quote -- under 250 words
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to turn any deal into a case study in 10 minutes.**
 
 ## Script (Spoken)
 

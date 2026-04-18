@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Your Brokerage Isn't Your Brand
 
-> **On-Screen Text:** "Your name > your brokerage."
+> **WOW: Tactical specificity: your brokerage isn't your brand -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

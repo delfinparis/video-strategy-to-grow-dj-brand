@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Goal Isn't a Goal -- It's a Wish
 
-> **On-Screen Text:** Hope is not a production strategy
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your goal isn't a goal -- it's a wish.**
 
 ## Script (Spoken)
 

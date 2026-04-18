@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You Can Be a Top Producer and Completely Broke
 
-> **On-Screen Text:** Closing deals and building wealth are different skills
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you can be a top producer and completely broke.**
 
 ## Script (Spoken)
 

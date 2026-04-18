@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # Your December Hit List
 
-> **On-Screen Text:** FILTER: 2020-2022 BUYERS. CALL THEM NOW.
+> **WOW: Tactical specificity: your december hit list -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

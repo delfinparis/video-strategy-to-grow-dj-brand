@@ -40,6 +40,9 @@ target_dirs = [
     'inside-the-industry',
     'bonus',
     'podcast-promos',
+    'reels/ai-agent-minute',
+    'reels/agent-tip-of-the-day',
+    'reels/bonus',
 ]
 
 # Tail patterns — these match the engagement-ask portion at the end of a sentence/line.

@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # The $50M Agent Still Works Rentals
 
-> **On-Screen Text:** "Same service. Every client."
+> **WOW: Tactical specificity: the $50m agent still works rentals -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

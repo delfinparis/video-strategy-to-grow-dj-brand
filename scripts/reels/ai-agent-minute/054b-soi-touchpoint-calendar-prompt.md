@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Tiered SOI Touchpoint Calendar With One Prompt
 
-> **On-Screen Text:** Tier A, B, C -- frequency + type + theme for each month
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a tiered SOI touchpoint calendar with one prompt.**
 
 ## Script (Spoken)
 

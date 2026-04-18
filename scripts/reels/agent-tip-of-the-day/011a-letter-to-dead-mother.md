@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # A Letter to the Seller's Dead Mother
 
-> **On-Screen Text:** How far would someone go to get the house?
+> **WOW: Tactical specificity: a letter to the seller's dead mother -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

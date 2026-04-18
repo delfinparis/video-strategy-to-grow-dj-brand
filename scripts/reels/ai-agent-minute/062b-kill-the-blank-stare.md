@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Kill the Blank Stare With One Claude Prompt Before You Film
 
-> **On-Screen Text:** 5 openers -- 3 key points -- say it out loud 3 times
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to kill the blank stare with one claude prompt before you film.**
 
 ## Script (Spoken)
 

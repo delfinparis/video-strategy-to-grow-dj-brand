@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # Know Insurance Like You Know Comps
 
-> **On-Screen Text:** Call 3 insurance brokers this week.
+> **WOW: Tactical specificity: know insurance like you know comps -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

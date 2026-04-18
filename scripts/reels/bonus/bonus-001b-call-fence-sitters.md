@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Rates Below 6% -- Call Your Fence-Sitters
 
-> **On-Screen Text:** "They said 'we're waiting.' Rates just dropped."
+> **WOW: Tactical specificity: rates below 6% -- call your fence-sitters.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # AI Predicts Which Agents Will Leave
 
-> **On-Screen Text:** AI KNOWS WHO'S ABOUT TO LEAVE YOUR BROKERAGE
+> **WOW: Tactical specificity: AI predicts which agents will leave -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Top Producers Don't Have More Willpower -- They Need Less
 
-> **On-Screen Text:** Willpower works on good days. Systems work every day.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to top producers don't have more willpower -- they need less.**
 
 ## Script (Spoken)
 

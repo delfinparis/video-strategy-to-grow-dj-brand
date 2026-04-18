@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # One Call Tomorrow. Break the Pattern.
 
-> **On-Screen Text:** 3 NAMES. 1 CALL. TOMORROW.
+> **WOW: Tactical specificity: one call tomorrow. break the pattern -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

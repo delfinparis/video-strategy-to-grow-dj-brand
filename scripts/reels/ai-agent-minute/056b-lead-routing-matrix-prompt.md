@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Lead Routing Matrix With Claude in 20 Minutes
 
-> **On-Screen Text:** Right lead to right agent -- every time
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a lead routing matrix with claude in 20 minutes.**
 
 ## Script (Spoken)
 

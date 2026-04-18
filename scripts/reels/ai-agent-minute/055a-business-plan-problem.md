@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You Said "More Deals" in January -- Do You Remember That?
 
-> **On-Screen Text:** Intentions vs. a plan
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you said "more deals" in january -- do you remember that?.**
 
 ## Script (Spoken)
 

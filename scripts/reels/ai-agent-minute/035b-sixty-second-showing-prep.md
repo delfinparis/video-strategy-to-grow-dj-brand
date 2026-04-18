@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Prep Every Showing in 60 Seconds With Claude
 
-> **On-Screen Text:** Comps + price trend + public records + 2 questions for listing agent
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to prep every showing in 60 seconds with claude.**
 
 ## Script (Spoken)
 

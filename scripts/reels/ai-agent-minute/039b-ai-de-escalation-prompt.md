@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Use Claude as Your Emotional Buffer Before Responding
 
-> **On-Screen Text:** 3 approaches based on their likely emotional state
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to use claude as your emotional buffer before responding.**
 
 ## Script (Spoken)
 

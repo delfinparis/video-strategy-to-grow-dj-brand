@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Write Expired Outreach Letters With Claude
 
-> **On-Screen Text:** Don't sound confident. Sound thoughtful.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to write expired outreach letters with claude.**
 
 ## Script (Spoken)
 

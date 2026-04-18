@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # Five Calls Before Email
 
-> **On-Screen Text:** Set a 9 AM alarm: "Five Calls"
+> **WOW: Tactical specificity: five calls before email -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Reverse-Engineer Your Goal Into Daily Actions With Claude
 
-> **On-Screen Text:** Daily calls -- weekly appointments -- monthly deals -- annual goal
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to reverse-engineer your goal into daily actions with claude.**
 
 ## Script (Spoken)
 

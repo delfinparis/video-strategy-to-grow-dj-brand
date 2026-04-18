@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build Your Wealth Plan With Claude in One Session
 
-> **On-Screen Text:** Commissions are fuel -- wealth is the vehicle
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build your wealth plan with claude in one session.**
 
 ## Script (Spoken)
 

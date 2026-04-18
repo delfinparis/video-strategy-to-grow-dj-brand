@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Stop Being Available 24/7 -- Build Communication Rules With AI
 
-> **On-Screen Text:** Every wrong yes is a no to something that matters
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to stop being available 24/7 -- build communication rules.**
 
 ## Script (Spoken)
 

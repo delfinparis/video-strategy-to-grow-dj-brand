@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # Stop Taking From Your Database
 
-> **On-Screen Text:** "Gold bars, not asks."
+> **WOW: Tactical specificity: stop taking from your database -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

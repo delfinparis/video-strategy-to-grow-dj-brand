@@ -12,6 +12,8 @@ registration_url: "keepingitrealwebinar.com"
 
 # Reel 3: You Bought a Ferrari and You're Driving It to the Mailbox
 
+> **WOW: Tactical specificity: reel 3: you bought a ferrari and you're driving it to the mailbox.**
+
 > **On-Screen Text (0:00):** You tried ChatGPT. You wrote a listing description. You closed the tab.
 
 ## Script (Direct to camera -- playful confrontation, builds to curiosity)

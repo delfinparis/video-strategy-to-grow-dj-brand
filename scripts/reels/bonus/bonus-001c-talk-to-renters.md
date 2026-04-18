@@ -8,7 +8,7 @@ target_duration: "26 seconds"
 
 # Rates Below 6% -- Talk to Renters
 
-> **On-Screen Text:** "Don't post a graphic. Pick up the phone."
+> **WOW: Tactical specificity: rates below 6% -- talk to renters.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Audit Your Lead Source ROI With Claude
 
-> **On-Screen Text:** Which source has the best ROI -- and which should I cut?
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to audit your lead source ROI with claude.**
 
 ## Script (Spoken)
 

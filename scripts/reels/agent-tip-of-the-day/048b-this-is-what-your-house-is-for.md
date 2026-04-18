@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # This Is What Your House Is For
 
-> **On-Screen Text:** "Equity. Security. A way forward."
+> **WOW: Tactical specificity: this is what your house is for -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

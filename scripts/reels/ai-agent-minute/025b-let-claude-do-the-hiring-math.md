@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Let Claude Do the Hiring Math for You
 
-> **On-Screen Text:** What's the cost of YOU doing this?
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to let claude do the hiring math for you.**
 
 ## Script (Spoken)
 

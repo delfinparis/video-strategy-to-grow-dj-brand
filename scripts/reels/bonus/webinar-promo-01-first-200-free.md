@@ -12,6 +12,8 @@ registration_url: "keepingitrealwebinar.com"
 
 # Reel 1: First 200 Get In Free
 
+> **WOW: Tactical specificity: reel 1: first 200 get in free.**
+
 > **On-Screen Text (0:00):** STOP SCROLLING. 200 FREE SEATS.
 
 ## Script (Direct to camera -- high energy, fast, urgent)

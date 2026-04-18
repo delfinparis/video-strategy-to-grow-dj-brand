@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Culture Isn't Your Website -- It's Tuesday at 3pm
 
-> **On-Screen Text:** Undefined culture = whoever's having the worst day sets the tone
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to culture isn't your website -- it's tuesday at 3pm.**
 
 ## Script (Spoken)
 

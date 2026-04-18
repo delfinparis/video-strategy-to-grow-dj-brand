@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # You're Negotiating Blind
 
-> **On-Screen Text:** THE OTHER AGENT ISN'T GUESSING
+> **WOW: Tactical specificity: you're negotiating blind -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Top 1% and Still Losing
 
-> **On-Screen Text:** 47 deals. Missed every recital.
+> **WOW: Tactical specificity: top 1% and still losing -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

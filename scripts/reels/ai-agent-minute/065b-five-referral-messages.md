@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Get Claude to Write 5 Referral Messages for 5 Different Moments
 
-> **On-Screen Text:** Specific. Easy to act on. Personal -- not mass.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to get claude to write 5 referral messages for 5 different moments.**
 
 ## Script (Spoken)
 

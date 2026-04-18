@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Stop Asking for Referrals From Partners You Never Gave One To
 
-> **On-Screen Text:** Asking vs. building -- completely different things
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to stop asking for referrals from partners you never gave one to.**
 
 ## Script (Spoken)
 

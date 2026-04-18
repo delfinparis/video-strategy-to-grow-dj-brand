@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Most Agents Pay for Tools. Top Producers Build Them.
 
-> **On-Screen Text:** 47 minutes. Zero coding. Custom tool.
+> **WOW: Tactical specificity: most agents pay for tools. top producers build them -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

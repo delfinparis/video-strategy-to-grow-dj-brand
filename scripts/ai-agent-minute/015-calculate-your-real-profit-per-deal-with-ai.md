@@ -37,7 +37,7 @@ Most agents celebrate gross income. Top producers measure net profit -- per deal
 Here's the fix. Gather your last twelve months of income and expenses, roughly by category. Give that to Claude and type: "Help me calculate my real net profit per deal and per year. What are my highest-cost line items? Where am I spending money that isn't generating a return?"
 Then make one decision based on what you find. Just one.
 Revenue is vanity. Profit is sanity. Most agents celebrate the wrong number. You can run this analysis tonight.
-Do you actually know your net profit per deal right now? Yes or no.
+Do you actually know your net profit per deal right now?
 ## Producer Note
 "Your GCI is a lie you tell yourself" is the second-best hook in this batch -- will stop the scroll hard because it's provocative but true. The $200K GCI / $60K net example should be framed as illustrative, not stated as a universal fact. Top-10 candidate. Film early.
 

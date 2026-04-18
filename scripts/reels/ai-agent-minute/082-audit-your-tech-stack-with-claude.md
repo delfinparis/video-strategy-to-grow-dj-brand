@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Audit Your Tech Stack With Claude
 
-> **On-Screen Text:** One tool mastered is worth ten tools barely touched
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to audit your tech stack with claude.**
 
 ## Script (Spoken)
 

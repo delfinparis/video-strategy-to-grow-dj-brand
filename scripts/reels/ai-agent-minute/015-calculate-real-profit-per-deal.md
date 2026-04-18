@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your GCI Is a Lie -- Calculate Your Real Profit Per Deal
 
-> **On-Screen Text:** Revenue is vanity. Profit is sanity.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your gci is a lie -- calculate your real profit per deal.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # One Standard or Two?
 
-> **On-Screen Text:** "The $200K listing is killing your $2M career."
+> **WOW: Tactical specificity: one standard or two? -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

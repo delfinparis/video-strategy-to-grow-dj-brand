@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Sellers Are Spending Money on the Wrong Things Before Listing
 
-> **On-Screen Text:** The gap is almost always preparation
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your sellers are spending money on the wrong things before listing.**
 
 ## Script (Spoken)
 

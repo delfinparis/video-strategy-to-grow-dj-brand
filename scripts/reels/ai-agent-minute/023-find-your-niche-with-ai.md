@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Most Forgettable Sentence in Real Estate Marketing
 
-> **On-Screen Text:** "I work with all buyers and sellers" = forgettable
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the most forgettable sentence in real estate marketing.**
 
 ## Script (Spoken)
 

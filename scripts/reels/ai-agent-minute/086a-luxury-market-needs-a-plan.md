@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Luxury Market Needs a Plan, Not a Prayer
 
-> **On-Screen Text:** Referrals don't convert when the agent isn't ready for the conversation
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the luxury market needs a plan, not a prayer.**
 
 ## Script (Spoken)
 

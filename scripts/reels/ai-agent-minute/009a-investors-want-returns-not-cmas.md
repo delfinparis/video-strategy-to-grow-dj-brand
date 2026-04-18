@@ -9,7 +9,7 @@ ai_tool: "Claude + Perplexity"
 
 # Investors Don't Hire Agents -- They Hire Analysts
 
-> **On-Screen Text:** They didn't want a CMA. They wanted a return analysis.
+> **WOW: Tactical specificity: names Claude + Perplexity and gives the exact prompt to investors don't hire agents -- they hire analysts.**
 
 ## Script (Spoken)
 

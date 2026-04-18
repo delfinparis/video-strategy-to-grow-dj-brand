@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Send the Text You're Avoiding
 
-> **On-Screen Text:** BEING HONEST IS RARE. THAT'S YOUR EDGE.
+> **WOW: Tactical specificity: send the text you're avoiding -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

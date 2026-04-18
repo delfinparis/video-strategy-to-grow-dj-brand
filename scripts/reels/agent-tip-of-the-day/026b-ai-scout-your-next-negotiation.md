@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # AI Scout Your Next Negotiation
 
-> **On-Screen Text:** TRY THIS BEFORE YOUR NEXT DEAL
+> **WOW: Tactical specificity: AI scout your next negotiation -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

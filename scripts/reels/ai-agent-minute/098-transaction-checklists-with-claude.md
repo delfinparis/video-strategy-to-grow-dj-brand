@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build Transaction Checklists With Claude
 
-> **On-Screen Text:** You trusted your memory instead of a system
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build transaction checklists with claude.**
 
 ## Script (Spoken)
 

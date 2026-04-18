@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Rewrite Your LinkedIn Profile With Claude
 
-> **On-Screen Text:** Rewrite my LinkedIn profile as a thought-leadership hub, not a resume
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to rewrite your linkedin profile with claude.**
 
 ## Script (Spoken)
 

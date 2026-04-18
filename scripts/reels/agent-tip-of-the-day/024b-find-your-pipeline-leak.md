@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Find Your Pipeline Leak
 
-> **On-Screen Text:** WHAT'S YOUR LEAK?
+> **WOW: Tactical specificity: find your pipeline leak -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # If Your Business Only Works in Your Head -- It's a Job
 
-> **On-Screen Text:** You can't scale what only lives in your brain
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to if your business only works in your head -- it's a job.**
 
 ## Script (Spoken)
 

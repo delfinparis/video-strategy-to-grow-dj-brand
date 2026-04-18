@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build Your Annual Business Plan in One Claude Session
 
-> **On-Screen Text:** Last year's numbers -- goal -- lead sources -- marketing -- milestones
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build your annual business plan in one claude session.**
 
 ## Script (Spoken)
 

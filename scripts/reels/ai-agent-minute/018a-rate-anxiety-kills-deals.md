@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Rates Went Up -- Your Client Wants to Wait -- Now What?
 
-> **On-Screen Text:** What do you say in the next 60 seconds?
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to rates went up -- your client wants to wait -- now what?.**
 
 ## Script (Spoken)
 

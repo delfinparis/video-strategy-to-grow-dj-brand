@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Rewrite Your Buyer Process for Gen Z With One Prompt
 
-> **On-Screen Text:** One prompt. Entire process rewritten.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to rewrite your buyer process for gen z with one prompt.**
 
 ## Script (Spoken)
 

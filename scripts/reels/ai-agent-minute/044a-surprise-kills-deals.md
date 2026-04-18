@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Low Appraisal Didn't Kill the Deal -- The Surprise Did
 
-> **On-Screen Text:** The low appraisal didn't kill the deal. The surprise did.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the low appraisal didn't kill the deal -- the surprise did.**
 
 ## Script (Spoken)
 

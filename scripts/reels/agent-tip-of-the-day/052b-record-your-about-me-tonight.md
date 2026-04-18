@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Record Your About Me Tonight
 
-> **On-Screen Text:** "Record tonight. Upload tomorrow. Text 3 leads."
+> **WOW: Tactical specificity: record your about me tonight -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

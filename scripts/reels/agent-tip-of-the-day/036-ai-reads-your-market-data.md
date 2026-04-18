@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # AI Reads Your Market Data Better Than You
 
-> **On-Screen Text:** SAME MLS DATA. ONLY 3% USE IT RIGHT.
+> **WOW: Tactical specificity: AI reads your market data better than you -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

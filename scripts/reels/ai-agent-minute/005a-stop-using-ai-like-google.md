@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You're Using AI Like Google -- The Top 1% Don't
 
-> **On-Screen Text:** One question, one answer, move on. Wrong.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you're using AI like google -- the top 1% don't.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build an Appraisal Scenarios Guide With Claude
 
-> **On-Screen Text:** At value / above / below -- and the 3 paths if it comes in low
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build an appraisal scenarios guide with claude.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Relocation Buyers Need an Agent Who Shows Them the City -- Not Just Houses
 
-> **On-Screen Text:** Show them the city -- not just the houses
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to relocation buyers need an agent who shows them the city -- not just houses.**
 
 ## Script (Spoken)
 

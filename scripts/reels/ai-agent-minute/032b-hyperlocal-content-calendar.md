@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Build a 60-Day Hyperlocal Content Calendar With AI
 
-> **On-Screen Text:** Lives and breathes this neighborhood -- not just sells houses in it
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to build a 60-day hyperlocal content calendar.**
 
 ## Script (Spoken)
 

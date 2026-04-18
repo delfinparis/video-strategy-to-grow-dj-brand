@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Top Producers Don't Work Harder -- They Stop Better
 
-> **On-Screen Text:** They stop better.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to top producers don't work harder -- they stop better.**
 
 ## Script (Spoken)
 

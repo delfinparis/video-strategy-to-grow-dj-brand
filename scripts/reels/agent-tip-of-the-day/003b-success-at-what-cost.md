@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # The Breakthrough Isn't Doing More
 
-> **On-Screen Text:** Cut what doesn't fit.
+> **WOW: Tactical specificity: the breakthrough isn't doing more -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

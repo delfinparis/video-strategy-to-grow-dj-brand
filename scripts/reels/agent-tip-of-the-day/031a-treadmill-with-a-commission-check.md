@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Treadmill With a Commission Check
 
-> **On-Screen Text:** THAT'S NOT A BUSINESS. THAT'S A TREADMILL.
+> **WOW: Tactical specificity: treadmill with a commission check -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

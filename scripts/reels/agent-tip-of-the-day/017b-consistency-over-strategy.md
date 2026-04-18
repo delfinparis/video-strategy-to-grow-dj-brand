@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Consistency Beats Strategy Every Time
 
-> **On-Screen Text:** Everywhere = Nowhere. Pick one path.
+> **WOW: Tactical specificity: consistency beats strategy every time -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

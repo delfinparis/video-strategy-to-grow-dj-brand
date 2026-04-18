@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build Training Modules With Claude
 
-> **On-Screen Text:** Build a training module with framework, roleplay scenarios, and assignment
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build training modules with claude.**
 
 ## Script (Spoken)
 

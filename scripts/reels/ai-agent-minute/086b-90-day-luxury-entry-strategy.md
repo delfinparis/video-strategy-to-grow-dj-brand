@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # 90-Day Luxury Market Entry Strategy
 
-> **On-Screen Text:** Build me a 90-day luxury market entry strategy
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to 90-day luxury market entry strategy.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # She Still Answers at 9 PM
 
-> **On-Screen Text:** They didn't choose your brand. They chose YOU.
+> **WOW: Tactical specificity: she still answers at 9 pm -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

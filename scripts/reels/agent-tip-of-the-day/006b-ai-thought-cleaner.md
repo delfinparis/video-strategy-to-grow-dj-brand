@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # AI as a Thought Cleaner
 
-> **On-Screen Text:** Record. Transcribe. Organize. Send.
+> **WOW: Tactical specificity: AI as a thought cleaner -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

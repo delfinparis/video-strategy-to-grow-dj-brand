@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Stop Chasing Everyone
 
-> **On-Screen Text:** 1 group > 1,000 cold calls
+> **WOW: Tactical specificity: stop chasing everyone -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -36,7 +36,6 @@ Here's what most agents don't realize. Your Google Business profile is often the
 Most agents spend money on paid ads to get found. Google Business gets you found for free -- if you actually optimize it.
 Here's the fix. Ask Claude: "Give me a complete checklist for an optimized real estate agent Google Business profile -- including photo types, service categories, post frequency, and review response proven approaches." Complete that checklist in one afternoon. Then ask Claude to write your first five profile posts and a review response template for every star rating.
 Google Business is free, local, and high-intent. It's the highest-ROI marketing move most agents are completely ignoring.
-When's the last time you updated your Google Business profile?
 ## Producer Note
 "Free, local, high-intent" is a strong three-word summary worth putting on screen. The opening hook works well as a present-tense scenario. Strong practical value -- this tip is underutilized enough to feel novel even to experienced agents.
 

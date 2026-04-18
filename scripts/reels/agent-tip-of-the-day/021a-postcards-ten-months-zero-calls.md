@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # Postcards for Ten Months. Zero Calls.
 
-> **On-Screen Text:** 10 MONTHS. $0 RESULTS.
+> **WOW: Tactical specificity: postcards for ten months. zero calls -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

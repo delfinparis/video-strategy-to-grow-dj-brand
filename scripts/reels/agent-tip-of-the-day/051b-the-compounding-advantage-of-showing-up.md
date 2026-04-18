@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # The Compounding Advantage of Showing Up
 
-> **On-Screen Text:** "Voice note before lunch."
+> **WOW: Tactical specificity: the compounding advantage of showing up -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

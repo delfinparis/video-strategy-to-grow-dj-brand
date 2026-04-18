@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Reviews Are Your Sales Team -- Unsupervised
 
-> **On-Screen Text:** Reviews are a first conversation with your next client
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your reviews are your sales team -- unsupervised.**
 
 ## Script (Spoken)
 

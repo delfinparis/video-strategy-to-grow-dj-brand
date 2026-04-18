@@ -9,7 +9,7 @@ ai_tool: "Perplexity + Claude"
 
 # The 20-Minute Monday Morning Market Briefing
 
-> **On-Screen Text:** 20 minutes every Monday = always briefed
+> **WOW: Tactical specificity: names Perplexity + Claude and gives the exact prompt to the 20-minute monday morning market briefing.**
 
 ## Script (Spoken)
 

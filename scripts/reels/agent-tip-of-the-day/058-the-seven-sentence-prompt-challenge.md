@@ -8,7 +8,7 @@ target_duration: "26 seconds"
 
 # The Seven-Sentence Prompt Challenge
 
-> **On-Screen Text:** "1 sentence = robotic. 7 sentences = you."
+> **WOW: Tactical specificity: the seven-sentence prompt challenge -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # "There's Nothing to Show My Buyers" -- That's Not Entirely True
 
-> **On-Screen Text:** Go find them before they're listed
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to "there's nothing to show my buyers" -- that's not entirely true.**
 
 ## Script (Spoken)
 

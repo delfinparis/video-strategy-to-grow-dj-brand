@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # AI Just Stopped You From Killing the Deal
 
-> **On-Screen Text:** Test the offer in private. Then go live.
+> **WOW: Tactical specificity: AI just stopped you from killing the deal -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Three Expired Listings. 9 AM. Go.
 
-> **On-Screen Text:** 9 AM tomorrow. 3 expired listing calls.
+> **WOW: Tactical specificity: three expired listings. 9 am. go -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

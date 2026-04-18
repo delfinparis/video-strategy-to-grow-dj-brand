@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # You're Billing Yourself at $15/Hour for $200/Hour Work
 
-> **On-Screen Text:** $15/hr tasks on $200/hr time
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you're billing yourself at $15/hour for $200/hour work.**
 
 ## Script (Spoken)
 

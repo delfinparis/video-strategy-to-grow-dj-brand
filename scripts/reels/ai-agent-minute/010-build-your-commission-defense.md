@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # If You Flinch Explaining Your Commission -- You'll Lose It
 
-> **On-Screen Text:** If you flinch, you lose it
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to if you flinch explaining your commission -- you'll lose it.**
 
 ## Script (Spoken)
 

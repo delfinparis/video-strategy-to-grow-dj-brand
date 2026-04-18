@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Run a Business Audit With Claude in 20 Minutes
 
-> **On-Screen Text:** Last 20 deals. Find the patterns. Go deeper.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to run a business audit with claude in 20 minutes.**
 
 ## Script (Spoken)
 

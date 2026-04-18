@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Client Expectations Doc With One Claude Prompt
 
-> **On-Screen Text:** Communication + timeline + responsibilities + common surprises
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a client expectations doc with one claude prompt.**
 
 ## Script (Spoken)
 

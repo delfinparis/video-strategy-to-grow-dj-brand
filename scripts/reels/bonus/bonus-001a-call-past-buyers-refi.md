@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # Rates Below 6% -- Call Your Past Buyers
 
-> **On-Screen Text:** "This call isn't sales. It's a favor."
+> **WOW: Tactical specificity: rates below 6% -- call your past buyers.**
 
 ## Script (Spoken)
 

@@ -19,6 +19,9 @@ target_dirs = [
     'inside-the-industry',
     'bonus',
     'podcast-promos',
+    'reels/ai-agent-minute',
+    'reels/agent-tip-of-the-day',
+    'reels/bonus',
 ]
 
 

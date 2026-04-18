@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Optimize Your Google Profile With Claude
 
-> **On-Screen Text:** Complete checklist -- first 5 posts -- review response templates
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to optimize your google profile with claude.**
 
 ## Script (Spoken)
 

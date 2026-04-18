@@ -9,7 +9,7 @@ ai_tool: "Perplexity / Claude"
 
 # Write Hyperlocal Farm Reports With AI
 
-> **On-Screen Text:** Make it feel like the agent lives down the street
+> **WOW: Tactical specificity: names Perplexity / Claude and gives the exact prompt to write hyperlocal farm reports.**
 
 ## Script (Spoken)
 

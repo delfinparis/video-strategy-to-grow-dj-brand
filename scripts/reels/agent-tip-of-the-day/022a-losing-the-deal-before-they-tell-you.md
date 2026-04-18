@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Losing the Deal Before They Tell You
 
-> **On-Screen Text:** YOU'RE LOSING THE DEAL BEFORE YOU KNOW THEY'RE MAD
+> **WOW: Tactical specificity: losing the deal before they tell you -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

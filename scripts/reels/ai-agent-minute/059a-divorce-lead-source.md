@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Divorce Is the #2 Reason People Sell -- How Many Attorneys Do You Know?
 
-> **On-Screen Text:** Second most common reason to sell. Zero agent competition.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to divorce is the #2 reason people sell -- how many attorneys do you know?.**
 
 ## Script (Spoken)
 

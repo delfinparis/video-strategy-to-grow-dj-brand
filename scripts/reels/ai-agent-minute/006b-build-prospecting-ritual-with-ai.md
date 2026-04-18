@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a 30-Minute Prospecting Ritual With Claude
 
-> **On-Screen Text:** Not a to-do list -- a psychological framework
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a 30-minute prospecting ritual with claude.**
 
 ## Script (Spoken)
 

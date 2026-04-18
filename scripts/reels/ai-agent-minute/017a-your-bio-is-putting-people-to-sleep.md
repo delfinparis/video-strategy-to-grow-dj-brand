@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Agent Bio Is Putting People to Sleep
 
-> **On-Screen Text:** Most bios make them keep scrolling
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your agent bio is putting people to sleep.**
 
 ## Script (Spoken)
 

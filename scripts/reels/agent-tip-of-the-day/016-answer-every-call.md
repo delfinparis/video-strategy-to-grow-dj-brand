@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # She Answered at 7 PM. Listed It by Thursday.
 
-> **On-Screen Text:** People don't leave voicemails about six-figure decisions.
+> **WOW: Tactical specificity: she answered at 7 pm. listed it by thursday -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

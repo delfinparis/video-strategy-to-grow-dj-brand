@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a 10-Minute AI Shutdown Ritual
 
-> **On-Screen Text:** Close the loops. Sleep better.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a 10-minute AI shutdown ritual.**
 
 ## Script (Spoken)
 

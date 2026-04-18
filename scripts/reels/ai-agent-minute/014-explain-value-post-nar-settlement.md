@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The NAR Settlement Changed What Buyers Ask -- Have Your Answer Ready
 
-> **On-Screen Text:** Most agents still don't have a clean answer
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the NAR settlement changed what buyers ask -- have your answer ready.**
 
 ## Script (Spoken)
 

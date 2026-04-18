@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Roleplay 'I Want To Think About It' With Claude
 
-> **On-Screen Text:** Practice until it's automatic
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to roleplay 'i want to think about it' with claude.**
 
 ## Script (Spoken)
 

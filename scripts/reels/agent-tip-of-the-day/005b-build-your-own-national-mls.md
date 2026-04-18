@@ -8,7 +8,7 @@ target_duration: "26 seconds"
 
 # Build Your Own National MLS
 
-> **On-Screen Text:** $40-60/month per market. Stop referring out.
+> **WOW: Tactical specificity: build your own national MLS -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

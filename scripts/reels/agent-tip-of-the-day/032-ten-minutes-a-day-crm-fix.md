@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # The 10-Minute CRM Fix
 
-> **On-Screen Text:** $40M PRODUCER. TERRIBLE AT CRM.
+> **WOW: Tactical specificity: the 10-minute CRM fix -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

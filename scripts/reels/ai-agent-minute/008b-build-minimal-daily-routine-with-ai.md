@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build Your Minimal Viable Daily Routine With Claude
 
-> **On-Screen Text:** A routine that doesn't need motivation
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build your minimal viable daily routine with claude.**
 
 ## Script (Spoken)
 

@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # The Brand Equity Gut Check
 
-> **On-Screen Text:** "How many would follow you?"
+> **WOW: Tactical specificity: the brand equity gut check -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

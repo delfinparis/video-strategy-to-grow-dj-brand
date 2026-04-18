@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # That Comment Hit Because You Already Believed It
 
-> **On-Screen Text:** The trigger is showing you where the work needs to happen.
+> **WOW: Tactical specificity: that comment hit because you already believed it -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

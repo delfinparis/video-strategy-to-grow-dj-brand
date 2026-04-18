@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Annual AI Vision Session Every Agent Needs
 
-> **On-Screen Text:** One prompt. One page. Total clarity.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the annual AI vision session every agent needs.**
 
 ## Script (Spoken)
 

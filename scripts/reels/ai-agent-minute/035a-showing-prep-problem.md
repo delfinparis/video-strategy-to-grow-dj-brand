@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # You Have the Same Info as Your Buyer -- That's the Problem
 
-> **On-Screen Text:** MLS information vs. context
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to you have the same info as your buyer -- that's the problem.**
 
 ## Script (Spoken)
 

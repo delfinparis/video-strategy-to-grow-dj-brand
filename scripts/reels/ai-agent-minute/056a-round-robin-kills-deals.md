@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Wrong Agent + Right Lead = Deal You'll Never Get Back
 
-> **On-Screen Text:** Round-robin = random results
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to wrong agent + right lead = deal you'll never get back.**
 
 ## Script (Spoken)
 

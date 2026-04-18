@@ -8,7 +8,7 @@ target_duration: "23 seconds"
 
 # Set the Boundary Before They Break
 
-> **On-Screen Text:** Add this question to your intake.
+> **WOW: Tactical specificity: set the boundary before they break -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

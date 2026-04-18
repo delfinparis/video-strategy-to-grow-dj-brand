@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # "Do You Know Anyone Looking to Buy or Sell?" -- That's Why It Fails
 
-> **On-Screen Text:** No context. No specificity. No story about who you help.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to "do you know anyone looking to buy or sell?" -- that's why it fails.**
 
 ## Script (Spoken)
 

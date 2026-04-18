@@ -12,6 +12,8 @@ registration_url: "keepingitrealwebinar.com"
 
 # Reel 7: New Agents -- This Is How You Compete With 10-Year Veterans
 
+> **WOW: Tactical specificity: reel 7: new agents -- this is how you compete with 10-year veterans.**
+
 > **On-Screen Text (0:00):** New agent? Can't figure out why everyone else is closing deals and you're not?
 
 ## Script (Direct to camera -- direct, fired up, encouraging)

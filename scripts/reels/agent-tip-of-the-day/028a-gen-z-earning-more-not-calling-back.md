@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Gen Z Earns More Than Boomers Did
 
-> **On-Screen Text:** GEN Z = 50% MORE INCOME THAN BOOMERS AT THEIR AGE
+> **WOW: Tactical specificity: gen z earns more than boomers did -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

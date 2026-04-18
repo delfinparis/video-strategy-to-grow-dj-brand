@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Stop Switching Strategies
 
-> **On-Screen Text:** Month 6: 3 referrals. Month 24: Stopped prospecting.
+> **WOW: Tactical specificity: stop switching strategies -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

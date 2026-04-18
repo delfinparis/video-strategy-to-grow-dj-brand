@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Build a 10-Point Off-Market Strategy With Claude
 
-> **On-Screen Text:** Letters + expireds + probate + social -- 10 strategies
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to build a 10-point off-market strategy with claude.**
 
 ## Script (Spoken)
 

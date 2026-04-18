@@ -9,7 +9,7 @@ ai_tool: "Perplexity"
 
 # Gen Z Buyers Did 12 Hours of Research Before They Called You
 
-> **On-Screen Text:** They researched you before you researched them
+> **WOW: Tactical specificity: names Perplexity and gives the exact prompt to gen z buyers did 12 hours of research before they called you.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Friday Business Review With Claude
 
-> **On-Screen Text:** Compare actual vs. target -- identify biggest gap -- one adjustment
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the friday business review with claude.**
 
 ## Script (Spoken)
 

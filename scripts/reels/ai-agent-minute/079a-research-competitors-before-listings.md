@@ -9,7 +9,7 @@ ai_tool: "Perplexity"
 
 # Research Competitors Before Listing Appointments
 
-> **On-Screen Text:** Most show up with a folder. Top producers show up with a strategy.
+> **WOW: Tactical specificity: names Perplexity and gives the exact prompt to research competitors before listing appointments.**
 
 ## Script (Spoken)
 

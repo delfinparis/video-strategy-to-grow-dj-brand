@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Expired Sellers Need Thoughtful, Not Confident
 
-> **On-Screen Text:** Most contact expireds. Top producers study them first.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to expired sellers need thoughtful, not confident.**
 
 ## Script (Spoken)
 

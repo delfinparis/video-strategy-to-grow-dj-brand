@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # Find the Gold Before You Call
 
-> **On-Screen Text:** "Name the gold bar first."
+> **WOW: Tactical specificity: find the gold before you call -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

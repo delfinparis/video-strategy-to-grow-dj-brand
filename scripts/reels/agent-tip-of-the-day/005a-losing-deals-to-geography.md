@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # You're Losing Deals to Geography
 
-> **On-Screen Text:** Referral fee: $1,200. Full commission: $18,000.
+> **WOW: Tactical specificity: you're losing deals to geography -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

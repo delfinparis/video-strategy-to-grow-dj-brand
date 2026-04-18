@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Local Media Quotes Real Estate Experts Every Week -- Why Not You?
 
-> **On-Screen Text:** One media quote = credibility no ad budget can buy
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to local media quotes real estate experts every week -- why not you?.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a 5-Part Buyer Education Series in One Afternoon
 
-> **On-Screen Text:** Send one per week -- by offer time, they're prepared
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a 5-part buyer education series in one afternoon.**
 
 ## Script (Spoken)
 

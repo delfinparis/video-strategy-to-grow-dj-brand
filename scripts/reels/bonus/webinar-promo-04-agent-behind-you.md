@@ -12,6 +12,8 @@ registration_url: "keepingitrealwebinar.com"
 
 # Reel 4: There's an Agent in Your Market Who Already Knows This
 
+> **WOW: Tactical specificity: reel 4: there's an agent in your market who already knows this.**
+
 > **On-Screen Text (0:00):** There's an agent in your market who already knows what I'm about to show you.
 
 ## Script (Direct to camera -- calm, serious, slightly ominous, then hopeful)

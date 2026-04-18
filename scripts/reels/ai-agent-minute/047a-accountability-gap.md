@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Real Reason You're Not Hitting Your Goals
 
-> **On-Screen Text:** Good intentions stayed intentions
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the real reason you're not hitting your goals.**
 
 ## Script (Spoken)
 

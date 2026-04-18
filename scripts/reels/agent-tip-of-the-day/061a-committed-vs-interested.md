@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Committed vs. Interested
 
-> **On-Screen Text:** "Committed people don't negotiate with circumstances."
+> **WOW: Tactical specificity: committed vs. interested -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

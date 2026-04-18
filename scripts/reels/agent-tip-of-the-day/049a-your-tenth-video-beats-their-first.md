@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # Your Tenth Video Beats Their First
 
-> **On-Screen Text:** "From obligation to authority in 12 videos."
+> **WOW: Tactical specificity: your tenth video beats their first -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

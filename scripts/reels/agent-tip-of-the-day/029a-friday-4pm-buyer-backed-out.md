@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # The Friday 4pm Buyer Backed Out
 
-> **On-Screen Text:** HE DROVE THERE THAT NIGHT
+> **WOW: Tactical specificity: the friday 4pm buyer backed out -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

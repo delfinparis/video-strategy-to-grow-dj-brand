@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Prep Buyer Consultations With Claude
 
-> **On-Screen Text:** Give me the 10 questions and 5 market realities they need to hear
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to prep buyer consultations with claude.**
 
 ## Script (Spoken)
 

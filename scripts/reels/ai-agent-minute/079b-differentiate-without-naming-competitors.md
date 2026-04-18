@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Differentiate Without Naming Competitors
 
-> **On-Screen Text:** 3 ways to differentiate without mentioning them by name
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to differentiate without naming competitors.**
 
 ## Script (Spoken)
 

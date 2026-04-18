@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # They Quit Because You Got Defensive
 
-> **On-Screen Text:** YOU WON THE ARGUMENT. YOU LOST THE RELATIONSHIP.
+> **WOW: Tactical specificity: they quit because you got defensive -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

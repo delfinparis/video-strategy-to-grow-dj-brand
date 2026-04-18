@@ -8,7 +8,7 @@ target_duration: "22 seconds"
 
 # Your Staging Checklist Is Missing One Thing
 
-> **On-Screen Text:** 2 white duvets. Keep them in your car.
+> **WOW: Tactical specificity: your staging checklist is missing one thing -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

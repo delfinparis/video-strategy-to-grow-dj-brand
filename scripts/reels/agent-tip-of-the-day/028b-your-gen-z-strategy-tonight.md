@@ -8,7 +8,7 @@ target_duration: "25 seconds"
 
 # Your Gen Z Strategy Starts Tonight
 
-> **On-Screen Text:** 30% MORE GEN Z PURCHASES LAST YEAR
+> **WOW: Tactical specificity: your gen z strategy starts tonight -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Seller Prep Playbook With One Claude Prompt
 
-> **On-Screen Text:** Top ROI improvements + room checklist + common mistakes
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a seller prep playbook with one claude prompt.**
 
 ## Script (Spoken)
 

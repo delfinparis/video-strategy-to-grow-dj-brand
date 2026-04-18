@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Burnout Doesn't Announce Itself -- Here's What It Looks Like
 
-> **On-Screen Text:** That's exactly how a career ends quietly
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to burnout doesn't announce itself -- here's what it looks like.**
 
 ## Script (Spoken)
 

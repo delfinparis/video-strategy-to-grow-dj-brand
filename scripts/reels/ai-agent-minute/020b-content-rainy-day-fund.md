@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Content Rainy Day Fund With Claude
 
-> **On-Screen Text:** 30 posts. One hour. Never go silent.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a content rainy day fund with claude.**
 
 ## Script (Spoken)
 

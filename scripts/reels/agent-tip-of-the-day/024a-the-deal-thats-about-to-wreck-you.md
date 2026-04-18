@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # The Deal That's About to Wreck You
 
-> **On-Screen Text:** YOUR EMOTIONAL SWINGS ARE KILLING YOUR PIPELINE
+> **WOW: Tactical specificity: the deal that's about to wreck you -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

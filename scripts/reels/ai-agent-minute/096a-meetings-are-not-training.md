@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # A Meeting Is Not Training
 
-> **On-Screen Text:** Coaching the same problems? You don't have training. You have meetings.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to a meeting is not training.**
 
 ## Script (Spoken)
 

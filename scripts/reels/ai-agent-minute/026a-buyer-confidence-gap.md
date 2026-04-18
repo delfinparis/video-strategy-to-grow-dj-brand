@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your Buyers Aren't Going Cold -- They're Confused
 
-> **On-Screen Text:** They ran out of confidence -- because you never built it
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your buyers aren't going cold -- they're confused.**
 
 ## Script (Spoken)
 

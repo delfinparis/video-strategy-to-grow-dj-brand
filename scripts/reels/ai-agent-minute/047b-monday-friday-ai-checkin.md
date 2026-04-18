@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Claude as Your Free Accountability Partner
 
-> **On-Screen Text:** Monday commitments -- Friday honest review
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to claude as your free accountability partner.**
 
 ## Script (Spoken)
 

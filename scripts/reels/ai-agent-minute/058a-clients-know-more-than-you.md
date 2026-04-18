@@ -9,7 +9,7 @@ ai_tool: "Perplexity"
 
 # Your Client Read the Headline This Morning -- Did You?
 
-> **On-Screen Text:** Staying informed "by accident" isn't a strategy
+> **WOW: Tactical specificity: names Perplexity and gives the exact prompt to your client read the headline this morning -- did you?.**
 
 ## Script (Spoken)
 

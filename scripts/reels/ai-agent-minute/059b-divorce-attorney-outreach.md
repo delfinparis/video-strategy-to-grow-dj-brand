@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Divorce Attorney Outreach Package With Claude
 
-> **On-Screen Text:** Intro letter + service overview + case studies
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a divorce attorney outreach package with claude.**
 
 ## Script (Spoken)
 

@@ -36,7 +36,7 @@ Here's the scene. An investor asks you to evaluate a rental property. You pull a
 And here's what it costs you -- investors buy repeatedly. Lose one client and you've lost a decade of transactions.
 Here's the fix. Ask Claude to build you a reusable investment property analysis template that calculates: projected gross rent, vacancy allowance, operating expenses, net operating income, cap rate, and estimated cash-on-cash return. Then use Perplexity to pull current rental comps for any specific property in your market -- takes four minutes. Attach this analysis to every investment property presentation. You become the first agent investor clients call -- not because you're luckier, but because you're the only one who shows up with the numbers.
 In twelve years interviewing top producers, the ones who built investor books of business all had one thing in common -- they could speak in numbers. AI helps you get there without a finance degree.
-Do you currently provide investment return analysis to your investor clients? Yes, no, or sometimes --.
+Do you currently provide investment return analysis to your investor clients?
 ## Producer Note
 Top-10 film-first candidate. The hook is one of the strongest in the entire batch. Note intentional overlap with Script #86 on investor theme -- space them at least two weeks apart. No accuracy concerns.
 

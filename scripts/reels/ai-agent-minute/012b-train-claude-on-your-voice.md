@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Train Claude to Write In Your Voice -- Not Sound Like AI
 
-> **On-Screen Text:** Analyze my style. Then sound like me.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to train claude to write in your voice -- not sound like AI.**
 
 ## Script (Spoken)
 

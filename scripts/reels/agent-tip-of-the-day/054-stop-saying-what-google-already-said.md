@@ -8,7 +8,7 @@ target_duration: "26 seconds"
 
 # Stop Saying What Google Already Said
 
-> **On-Screen Text:** "Information vs. perspective."
+> **WOW: Tactical specificity: stop saying what google already said -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

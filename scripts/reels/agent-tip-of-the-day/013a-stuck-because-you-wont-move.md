@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # You're Not Stuck Because You Don't Know Enough
 
-> **On-Screen Text:** Action creates confidence. Not the other way around.
+> **WOW: Tactical specificity: you're not stuck because you don't know enough -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

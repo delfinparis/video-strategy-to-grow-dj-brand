@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Plan Your Marketing Budget With Claude
 
-> **On-Screen Text:** Lead source -- cost -- closings -- ROI. Review quarterly.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to plan your marketing budget with claude.**
 
 ## Script (Spoken)
 

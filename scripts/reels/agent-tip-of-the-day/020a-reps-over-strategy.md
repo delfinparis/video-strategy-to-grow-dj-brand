@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # They're Not Smarter. They Just Made More Calls.
 
-> **On-Screen Text:** Reps > Strategy
+> **WOW: Tactical specificity: they're not smarter. they just made more calls -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

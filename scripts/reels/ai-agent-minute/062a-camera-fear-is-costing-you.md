@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Every Week You Skip Video, Someone Else Shows Up for Your Clients
 
-> **On-Screen Text:** They didn't start great. They just started.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to every week you skip video, someone else shows up for your clients.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Compassionate Pre-Foreclosure Outreach System
 
-> **On-Screen Text:** Lead with empathy and options -- not a pitch
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a compassionate pre-foreclosure outreach system.**
 
 ## Script (Spoken)
 

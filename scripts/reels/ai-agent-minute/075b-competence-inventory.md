@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Competence Inventory That Shuts Down the Doubt
 
-> **On-Screen Text:** Track your growing expertise -- update it weekly
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a competence inventory that shuts down the doubt.**
 
 ## Script (Spoken)
 

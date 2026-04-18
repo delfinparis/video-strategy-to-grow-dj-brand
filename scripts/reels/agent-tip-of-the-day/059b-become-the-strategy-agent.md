@@ -8,7 +8,7 @@ target_duration: "24 seconds"
 
 # Become the Strategy Agent
 
-> **On-Screen Text:** "Counsel > Hustle"
+> **WOW: Tactical specificity: become the strategy agent -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Send 5 Media Pitch Emails This Week With One Claude Prompt
 
-> **On-Screen Text:** 5 pitches: newspaper, podcast, blog, newsletter, radio
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to send 5 media pitch emails this week with one claude prompt.**
 
 ## Script (Spoken)
 

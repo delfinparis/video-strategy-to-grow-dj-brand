@@ -8,7 +8,7 @@ target_duration: "26 seconds"
 
 # Your Clients Can't Explain Their Mortgage
 
-> **On-Screen Text:** "Your job isn't done at closing."
+> **WOW: Tactical specificity: your clients can't explain their mortgage -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

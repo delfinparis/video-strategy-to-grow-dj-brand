@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Three Listing Descriptions. Zero Cliches. Five Minutes.
 
-> **On-Screen Text:** 3 versions -- aspirational, feature-focused, neighborhood-first
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to three listing descriptions. zero cliches. five minutes.**
 
 ## Script (Spoken)
 

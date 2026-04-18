@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a New Construction Buyer's Guide With One Prompt
 
-> **On-Screen Text:** Agent roles + negotiation + inspections + contract + warranty
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a new construction buyer's guide with one prompt.**
 
 ## Script (Spoken)
 

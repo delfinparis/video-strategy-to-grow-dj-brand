@@ -9,7 +9,7 @@ ai_tool: "Claude / Perplexity"
 
 # Build Rate Objection Frameworks With Claude + Perplexity
 
-> **On-Screen Text:** 3 frameworks. Math + data + confident close.
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to build rate objection frameworks with claude + perplexity.**
 
 ## Script (Spoken)
 

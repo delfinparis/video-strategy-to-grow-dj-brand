@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Get Video Testimonials With This One Claude Prompt
 
-> **On-Screen Text:** 3 questions + simple filming instructions + natural ask
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to get video testimonials with this one claude prompt.**
 
 ## Script (Spoken)
 

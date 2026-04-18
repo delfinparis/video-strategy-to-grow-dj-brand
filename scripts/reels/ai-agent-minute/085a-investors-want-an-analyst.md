@@ -9,7 +9,7 @@ ai_tool: "Perplexity"
 
 # Investors Want an Analyst, Not a Realtor
 
-> **On-Screen Text:** Investor asks about cap rate. Agent talks about the kitchen.
+> **WOW: Tactical specificity: names Perplexity and gives the exact prompt to investors want an analyst, not a realtor.**
 
 ## Script (Spoken)
 

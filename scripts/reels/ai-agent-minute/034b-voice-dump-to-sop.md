@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Voice Dump to SOP in 30 Minutes With Claude
 
-> **On-Screen Text:** One process a week -- documented business in 10 weeks
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to voice dump to sop in 30 minutes with claude.**
 
 ## Script (Spoken)
 

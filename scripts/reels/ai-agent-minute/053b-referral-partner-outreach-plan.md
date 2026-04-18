@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a 12-Month Referral Partner System in One Prompt
 
-> **On-Screen Text:** First contact + quarterly touchpoints + value calendar
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a 12-month referral partner system in one prompt.**
 
 ## Script (Spoken)
 

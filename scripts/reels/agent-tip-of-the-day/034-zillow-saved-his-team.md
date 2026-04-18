@@ -8,7 +8,7 @@ target_duration: "27 seconds"
 
 # A Luxury Agent Says Zillow Saved His Team
 
-> **On-Screen Text:** YOUR MARKET DOESN'T OWE YOU DEALS
+> **WOW: Tactical specificity: a luxury agent says zillow saved his team -- a concrete, immediately-usable tactic.**
 
 ## Script (Spoken)
 

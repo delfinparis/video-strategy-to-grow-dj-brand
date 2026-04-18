@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Build a Real Team Culture Document With Claude
 
-> **On-Screen Text:** Celebrated behaviors + unacceptable behaviors + conflict resolution + success metrics
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a real team culture document with claude.**
 
 ## Script (Spoken)
 

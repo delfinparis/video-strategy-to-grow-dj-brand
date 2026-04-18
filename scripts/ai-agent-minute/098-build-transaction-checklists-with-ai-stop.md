@@ -37,7 +37,6 @@ That works -- until it doesn't. And when it breaks down, it always breaks down a
 Here's the fix. Ask Claude: "Create a complete transaction coordination checklist for a residential purchase deal in [your state]. Include every step from executed contract to closing, broken into phases, with who's responsible for each step and the typical deadline."
 Customize it for your market. Turn it into a repeatable checklist in your CRM. Run every single deal through it.
 Systems aren't for beginners. Systems are what separate agents who scale from agents who just survive.
-Do you have a written transaction checklist -- or is it all in your head?
 ## Producer Note
 "Sixty-plus steps" is a specific number that lands with weight -- verify it's accurate for a typical residential transaction before filming. The "systems separate scalers from survivors" reframe is strong. Pairs with Script #23 (SOPs) for a systems-focused week.
 

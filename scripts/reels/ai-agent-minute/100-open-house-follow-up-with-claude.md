@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Convert Open House Visitors With Claude
 
-> **On-Screen Text:** You had a real conversation. Most agents waste it.
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to convert open house visitors with claude.**
 
 ## Script (Spoken)
 

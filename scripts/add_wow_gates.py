@@ -133,6 +133,9 @@ def main():
         'inside-the-industry',
         'bonus',
         'podcast-promos',
+        'reels/ai-agent-minute',
+        'reels/agent-tip-of-the-day',
+        'reels/bonus',
     ]
 
     total = 0

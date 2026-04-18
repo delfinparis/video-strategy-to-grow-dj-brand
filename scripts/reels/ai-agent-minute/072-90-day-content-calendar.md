@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Stop Posting Randomly -- Build a 90-Day Content Calendar in One Sitting
 
-> **On-Screen Text:** 90-day calendar -- topic, hook, and CTA for every post
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to stop posting randomly -- build a 90-day content calendar in one sitting.**
 
 ## Script (Spoken)
 

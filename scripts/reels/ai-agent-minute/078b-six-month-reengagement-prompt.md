@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The Six-Month Re-Engagement Prompt
 
-> **On-Screen Text:** No message should ask "are you still looking?"
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the six-month re-engagement prompt.**
 
 ## Script (Spoken)
 

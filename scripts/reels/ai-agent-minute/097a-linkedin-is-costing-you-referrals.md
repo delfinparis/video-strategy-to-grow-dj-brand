@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # Your LinkedIn Profile Is Costing You Referrals
 
-> **On-Screen Text:** The platform agents ignore most = the one that pays best
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your linkedin profile is costing you referrals.**
 
 ## Script (Spoken)
 

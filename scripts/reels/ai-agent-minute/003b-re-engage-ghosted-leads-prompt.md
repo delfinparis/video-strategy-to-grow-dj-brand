@@ -9,7 +9,7 @@ ai_tool: "Claude"
 
 # The 3-Touch AI Sequence That Brings Ghosted Leads Back
 
-> **On-Screen Text:** Value, value, value -- zero pressure
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the 3-touch AI sequence that brings ghosted leads back.**
 
 ## Script (Spoken)
 
