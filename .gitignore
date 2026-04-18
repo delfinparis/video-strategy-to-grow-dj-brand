@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+
+# Generated news brief state (not source)
+data/news-briefs/.seen-stories.json

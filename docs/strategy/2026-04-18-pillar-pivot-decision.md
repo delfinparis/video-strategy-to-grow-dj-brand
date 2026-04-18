@@ -62,19 +62,43 @@ The short answer: Inside the Industry is the winning pillar on every engagement-
 | The Playbook | 1x/week | Negotiation scenarios |
 | KIR podcast promos on LI | ad-hoc | Podcast cross-promotion |
 
-### After (proposed)
+### After (finalized 2026-04-18 end-of-day)
 
-| Pillar | Cadence | New role |
-| --- | ---: | --- |
-| **Inside the Industry — Access (IA)** | 1x/week (e.g. Saturday) | D.J. firsthand at NAR, Kale, industry events |
-| **Inside the Industry — Synthesis (IS)** | 1x/week (e.g. Tuesday) | Patterns from 700-episode archive |
-| **Inside the Industry — News (NF)** | 1-2x/week as news justifies | Hot-take news with D.J.'s perspective |
-| **The Playbook** | 1x/week (Wednesday) | Reframed as "how agents handle X" industry-tactics |
-| **KIR podcast promos on LinkedIn** | 2x/week (Mon + Thu) | Episode drops + guest teasers |
-| Agent Tip of the Day | **Reframe or retire** | Keep only the ones where the guest credential IS the hook |
-| AI Agent Minute | **Pause** | Re-home the 100 scripts elsewhere (see below) |
+| Day | Primary slot | Fallback (when primary doesn't fit) |
+| --- | --- | --- |
+| **Mon** | KIR Podcast Promo (new episode) | — |
+| **Tue** | **IIR — News (NF)** | IS (synthesis) if news slow |
+| **Wed** | **IIR — News (NF)** or **The Playbook** | Whichever is timelier |
+| **Thu** | **IIR — News (NF)** | — |
+| **Fri** | **AI Tip of the Week → tapthis.co** | — |
+| **Sat** | **IIR — News (NF)** | **IIR — Access (IA)** if D.J. attended something notable |
 
-**Resulting weekly cadence:** 6 posts per week, all reinforcing one brand promise (industry insider).
+**Target weekly volume:**
+
+- **4 NF slots/week minimum** (Tue, Wed-when-news, Thu, Sat)
+- **1 KIR podcast promo/week** (Mon)
+- **1 AI Tip of the Week/week** (Fri) — drives tapthis.co for recruiting pixel retargeting
+- Playbook becomes a **conditional Wed slot** when scenario content is timelier than news (~2x/month)
+- IA (Access) becomes an **opportunistic Sat substitute** when D.J. actually attended something worth a firsthand post (~1-2x/month)
+- IS (Synthesis) becomes a **quiet-week backfill** when no news is worth coverage (~2x/month)
+
+**Resulting weekly cadence:** 6 posts per week, ~67% focused on news commentary (the most consistent winner in the cross-surface data), with brand-reinforcing mix across KIR promo + AI Tip + occasional Playbook/IS/IA.
+
+### Why 4 NF/week is defensible volume
+
+News pillar at 4x/week is viable because "News" is interpreted broadly to include:
+
+1. **Breaking news** — NAR / settlement / brokerage moves (e.g., Tuccori, Batton, Elliman settlements)
+2. **Mid-week takes on ongoing stories** — same story, different angle ("what does Batton mean for agents at non-KW brokerages?")
+3. **Industry trend commentary** — AI adoption, commission structure shifts, MLS developments
+4. **Weekly summary/synthesis** — Saturday "here's what happened this week in real estate"
+
+One major news event (e.g. a settlement drop) can spawn 3-4 posts over 7-10 days from different angles without being repetitive. During genuinely quiet news cycles, IS (synthesis) backfills using the 700-episode archive.
+
+News input is sourced through:
+- Feedly subscription with 10 major real estate news feeds (manual scan 10 min/day)
+- `scripts/news_brief.py` tool (automated daily briefing with LLM-triaged top 5 stories + angle suggestions, output to `data/news-briefs/YYYY-MM-DD.md`)
+- D.J.'s NAR access + Kale operational view for insider signals that don't hit news feeds
 
 ---
 
@@ -102,15 +126,46 @@ The short answer: Inside the Industry is the winning pillar on every engagement-
 - Retire or mothball the rest (~30 scripts)
 - Reframe retained ones as "Inside the Industry: Top Producer Playbook" — the named-guest access angle turns a generic tip into an industry-insider moment
 
-### AI Agent Minute → Pause, re-home
+### AI Agent Minute → Re-homed as AI Tip of the Week (CONFIRMED 2026-04-18)
 
 - 100 scripts polished and audited sit in `scripts/ai-agent-minute/` and `scripts/reels/ai-agent-minute/`
-- The pillar is good work but represents "AI educator" brand, which conflicts with "industry insider"
-- **Do NOT delete.** Re-home options:
-  1. **Monthly Kale Agents newsletter** — repurpose as "AI Tips for Kale Agents" internal content
-  2. **Landing-page asset** — bundle as "300+ AI Prompts" freebie tied to the webinar funnel (keepingitrealwebinar.com)
-  3. **Separate sub-brand account** — possibly launch "AI for Realtors with D.J." as a dedicated sub-channel later, once primary brand is established
-- Decision on re-homing target: deferred to ~60-day check-in
+- The pillar is reborn as a **weekly utility slot**, not a brand pillar
+
+**New format: AI Tip of the Week**
+
+- **Cadence:** 1x/week, every Friday
+- **Surfaces:** All 6 retained crosspost surfaces (LI Personal, FB Personal, FB Biz, IG Personal, TT Biz, YT Biz)
+- **Content source:** Curated from the 100 audited AIAM scripts, ~1-2 per week selected for highest broad-appeal quality
+- **Destination:** CTA drives to [tapthis.co](https://tapthis.co) — a landing page hosting 570 AI prompts for realtors (a real, valuable resource, updated regularly)
+- **Retargeting mechanism:** tapthis.co fires **5 pixels** (Meta, Google, LinkedIn, Reddit, TikTok) — creating a retargeting audience that sees Kale recruiting ads across all 5 platforms
+- **Funnel next step:** tapthis.co click → retargeting ads for 30-90 days → joinkale.com → webinar → book-a-call → Kale recruiting conversation
+
+**Positioning framing:**
+
+The AI Tip of the Week is explicitly framed as **"what I teach my agents at Kale"** — not "AI educator content." This framing:
+
+- Reinforces the industry-insider brand (operational credibility from running a 700-agent brokerage)
+- Makes the AI content feel incidental to the brand, not brand-core
+- Creates a natural recruiting signal: "wouldn't it be nice to have this coach as your broker?"
+
+Example caption / CTA variations:
+
+| Variation | Feel | Best for |
+| --- | --- | --- |
+| *"Full prompt plus 569 more at tapthis.co."* | Concrete, specific | LI Personal, FB Personal |
+| *"Grab this prompt and my whole library at tapthis.co."* | Casual, confident | IG Personal, TT Biz |
+| *"Tip #142 of 570. All free at tapthis.co."* | Specificity-forward | TT Biz, YT Biz |
+
+All three are compliant with the no-engagement-ask rule (universal editorial Rule 4) — they're informational ("here's where the value is") rather than directive ("do this for me").
+
+**Why this re-home works strategically:**
+
+1. **Doesn't dilute the brand.** Industry insider remains primary; AI Tip is a utility slot, 1 of 6 weekly slots.
+2. **Has measurable funnel output** — tapthis.co click volume becomes the leading indicator for retargeting audience size, which becomes the leading indicator for recruiting conversation volume 30-90 days later.
+3. **Uses existing content investment.** The 100 audited AIAM scripts are a ready feed of weekly tips (roughly 2 years of Fridays).
+4. **Compounds with the eventual newsletter.** If Phase 2-3 of an "industry brief" newsletter launches (see analytics synthesis), the AI Tip of the Week can live in the newsletter too — two surfaces, one pixel audience, one recruiting funnel.
+
+**Script source overlap:** Some of the 100 audited AIAM scripts are already on tapthis.co; some aren't. A one-time review is needed to upload the audited-but-missing subset. See: https://github.com/delfinparis/kale-ai-prompts and https://github.com/delfinparis/realtor-ai-prompts for the tapthis.co source-of-truth repos.
 
 ### KIR podcast promos on LinkedIn → Increase
 

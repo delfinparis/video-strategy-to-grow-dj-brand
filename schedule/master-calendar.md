@@ -1,5 +1,43 @@
 # Master Content Calendar
 
+> **PIVOT APPLIED 2026-04-18.** The AI Agent Minute + Agent Tip cadence below (pre-Apr 21) is historical record. Going forward the schedule follows the new post-pivot cadence. See [`../docs/strategy/2026-04-18-pillar-pivot-decision.md`](../docs/strategy/2026-04-18-pillar-pivot-decision.md) for the decision rationale and the full 90-day test plan through 2026-07-19.
+
+---
+
+## Post-Pivot Cadence (Apr 21, 2026 onwards)
+
+**Primary brand:** Inside the Industry (IA + IS + NF sub-types)
+**Weekly volume:** 6 posts, Sunday off
+**Crosspost surfaces:** 6 retained (LI Personal, FB Personal, FB Biz, IG Personal, TT Biz, YT Biz). IG Biz and LI Biz dropped per cross-surface analysis.
+
+| Day | Primary slot | Fallback |
+| --- | --- | --- |
+| **Mon** | KIR Podcast Promo (new episode drop) | — |
+| **Tue** | IIR -- News (NF) | IS if news slow |
+| **Wed** | IIR -- News (NF) or The Playbook | whichever is timelier |
+| **Thu** | IIR -- News (NF) | — |
+| **Fri** | **AI Tip of the Week -> tapthis.co** | — |
+| **Sat** | IIR -- News (NF) | IA (Access) if D.J. attended something notable |
+
+**Target weekly volume:**
+
+- 4 NF slots/week minimum (Tue + Wed + Thu + Sat)
+- 1 KIR promo/week (Mon)
+- 1 AI Tip/week (Fri) -- drives tapthis.co for Kale recruiting pixel retargeting
+- Playbook: conditional Wed substitute (~2x/month)
+- IA (Access): opportunistic Sat substitute (~1-2x/month)
+- IS (Synthesis): quiet-week backfill (~2x/month)
+
+**News input:**
+
+- Daily automated brief: `python3 scripts/news_brief.py` -- outputs to `data/news-briefs/YYYY-MM-DD.md`
+- Manual scan: Feedly subscription with 10 real estate news feeds
+- Insider signals: NAR access + Kale operational view
+
+---
+
+## Historical Schedule (pre-pivot, Feb 23 – Apr 20, 2026)
+
 **Start:** Monday, February 23, 2026
 **Schedule:** 6 days/week (Sunday off)
 **AI Agent Minute:** Monday / Wednesday / Friday
