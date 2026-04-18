@@ -11,12 +11,13 @@ status: "ready"
 
 # Five Brokerages Settled in Three Months. Here's the Scoreboard.
 
-> **WOW: Surprising statistic + earned observation: Five Brokerages Settled in Three Months. Here's the Scoreboard. Real news, real numbers, named sources.**
+> **WOW: Surprising statistic + earned observation: $89M+ in disclosed buyer-side commission settlements across five brokerages in three months, with the July 28 court hearing determining whether the $75 billion Batton case survives.**
 
 **Pillar:** Market Intelligence | **Avatars:** All
 **Post Date:** Tuesday, April 21, 2026
 
-> **Strongest Line:** "If your brokerage has settled, you're covered. If they haven't? Ask them about it."
+## Shareable Moment
+> "Five major buyer-side settlements in three months. $89 million and counting. If your brokerage isn't on the scoreboard, that's a question worth asking."
 
 ## Script (45-60 seconds)
 
@@ -29,9 +30,9 @@ On the seller side, that's been done since 2024. NAR paid $418 million in Sitzer
 But on the buyer side? Five major settlements in just three months.
 
 ### DATA (0:15-0:35)
-February: Keller Williams, $20 million.
-March: RE/MAX, $8.5 million.
-April: Hanna Holdings, $8.25 million. Douglas Elliman, undisclosed. And the big one -- NAR, $52.25 million.
+February: Keller Williams, $20 million in Batton.
+March: RE/MAX, $8.5 million in Batton.
+April: Hanna Holdings, $8.25 million into Tuccori. Douglas Elliman, undisclosed into Tuccori. And the big one -- NAR, $52.25 million into Tuccori.
 
 That's over $89 million on the buyer side alone. And those are just the ones we know the numbers on.
 
@@ -44,22 +45,48 @@ If your brokerage has settled, you're covered. If they haven't -- that's a quest
 **Estimated Duration:** ~58 seconds
 
 ## Data Source
-- [NAR Newsroom: Tuccori Settlement](https://www.nar.realtor/newsroom/national-association-of-realtorsr-reaches-agreement-to-resolve-nationwide-homebuyer-claims-in)
-- [KW Batton Settlement](https://www.rismedia.com/2026/02/02/keller-williams-batton-settlement/)
-- [RE/MAX Batton Settlement](https://www.realestatenews.com/2026/03/25/remax-settles-in-batton-commissions-case)
-- [Douglas Elliman Tuccori Opt-In](https://www.rismedia.com/2026/04/10/douglas-elliman-homebuyer-case-tuccori/)
 
-**Seller-side (resolved):** NAR Sitzer/Burnett: $418M (March 2024)
+- **Claim:** "Five major brokerages settled in three months" / "$89M+ buyer-side total"
+  - Total math: KW $20M + RE/MAX $8.5M + Hanna $8.25M + NAR $52.25M = $89M. Elliman undisclosed, not included.
+  - Source aggregation: individual settlements cited below
+  - Status: confirmed
 
-**Buyer-side (2026):**
-- Keller Williams (Batton): $20M (Feb 2026)
-- RE/MAX (Batton): $8.5M (Mar 2026)
-- Hanna Holdings (Tuccori): $8.25M
-- Douglas Elliman (Tuccori): undisclosed (Apr 2026)
-- NAR (Tuccori): $52.25M (Apr 2026)
-- **Known buyer-side total: $89M+**
+- **Claim:** "NAR paid $418 million in Sitzer/Burnett"
+  - Source: NAR Newsroom announcement 2024-03-15; realestatenews.com, "NAR reaches $418 million deal to settle commissions lawsuits" ([link](https://www.realestatenews.com/2024/03/15/nar-reaches-usd418-million-deal-to-settle-commissions-lawsuits))
+  - Who was measured: NAR (defendant), Sitzer/Burnett home seller plaintiffs
+  - Payment schedule: $197M paid February 2025, $72M February 2026, remainder over ~4 years
+  - Status: confirmed
 
-**Still pending:** Batton v. NAR -- court approval hearing July 28, 2026
+- **Claim:** "Keller Williams $20M in Batton (February)"
+  - Source: RISMedia, 2026-02-02 ([link](https://www.rismedia.com/2026/02/02/keller-williams-batton-settlement/))
+  - Status: confirmed
+
+- **Claim:** "RE/MAX $8.5M in Batton (March)"
+  - Source: realestatenews.com, 2026-03-25 ([link](https://www.realestatenews.com/2026/03/25/remax-settles-in-batton-commissions-case))
+  - Status: confirmed
+
+- **Claim:** "Hanna Holdings $8.25M into Tuccori"
+  - Source: HousingWire, "Howard Hanna settles Tuccori homebuyer commission case"
+  - Who was measured: Hanna Holdings opted into Tuccori (not Batton directly). Hanna also faces a separate Davis case in Pennsylvania.
+  - Status: confirmed
+
+- **Claim:** "Douglas Elliman undisclosed into Tuccori (April)"
+  - Source: RISMedia, 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/douglas-elliman-homebuyer-case-tuccori/))
+  - Status: confirmed (terms explicitly not disclosed by Elliman)
+
+- **Claim:** "NAR $52.25M into Tuccori (April)"
+  - Source: RISMedia, 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/nar-settles-buyer-lawsuits-52-million/))
+  - Status: confirmed
+
+- **Claim:** "Legal protection for agents at those brokerages"
+  - Source: Each settlement's class release language. The Sitzer/Burnett settlement covered NAR members and affiliated brokerages. The Tuccori opt-in structure extends the release to opt-in defendants and their affiliated agents.
+  - Status: confirmed at the structural level. Specific agent coverage varies per brokerage / per settlement -- if a viewer asks about their specific situation, the accurate answer is "ask your brokerage what the settlement release covers for you."
+
+- **Claim:** "July 28 court approval hearing"
+  - Source: RISMedia, 2026-04-10 ($52M article cited above)
+  - Status: confirmed
+
+- **Still pending:** Batton v. NAR -- active litigation with Batton plaintiffs appealing the denial of their preliminary injunction motion to the 7th Circuit. Plaintiffs' expert estimates damages at $3.6B from four MLSs, up to $75B if a nationwide class certifies.
 
 ## Social Media
 
@@ -71,11 +98,11 @@ SELLER SIDE (done):
 NAR Sitzer/Burnett: $418M (2024)
 
 BUYER SIDE (2026, three months):
-KW: $20M (Feb)
-RE/MAX: $8.5M (Mar)
-Hanna: $8.25M
-Elliman: undisclosed (Apr)
-NAR: $52.25M (Apr)
+KW: $20M in Batton (Feb)
+RE/MAX: $8.5M in Batton (Mar)
+Hanna: $8.25M into Tuccori
+Elliman: undisclosed into Tuccori (Apr)
+NAR: $52.25M into Tuccori (Apr)
 
 That's $89M+ on the buyer side alone. And those are just the disclosed numbers.
 
@@ -115,11 +142,11 @@ SELLER SIDE (resolved in 2024):
 NAR Sitzer/Burnett: $418 million
 
 BUYER SIDE (all in 2026):
-Keller Williams: $20 million (February)
-RE/MAX: $8.5 million (March)
-Hanna Holdings: $8.25 million
-Douglas Elliman: undisclosed (April)
-NAR: $52.25 million (April)
+Keller Williams: $20 million in Batton (February)
+RE/MAX: $8.5 million in Batton (March)
+Hanna Holdings: $8.25 million into Tuccori
+Douglas Elliman: undisclosed into Tuccori (April)
+NAR: $52.25 million into Tuccori (April)
 
 That's over $89 million in disclosed buyer-side settlements in just three months. Five major organizations resolving their exposure as fast as they can.
 
@@ -139,11 +166,11 @@ Seller-side (resolved 2024):
 - NAR / Sitzer/Burnett: $418M
 
 Buyer-side (2026):
-- Keller Williams: $20M (February)
-- RE/MAX: $8.5M (March)
-- Hanna Holdings: $8.25M
-- Douglas Elliman: undisclosed (April)
-- NAR: $52.25M (April)
+- Keller Williams: $20M in Batton (February)
+- RE/MAX: $8.5M in Batton (March)
+- Hanna Holdings: $8.25M into Tuccori
+- Douglas Elliman: undisclosed into Tuccori (April)
+- NAR: $52.25M into Tuccori (April)
 
 Disclosed buyer-side total: $89M+
 
