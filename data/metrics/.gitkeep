@@ -1,0 +1,2 @@
+# This directory holds weekly metrics snapshots. See ../README.md for the Sunday ritual.
+# Your CSVs go here named YYYY-WW.csv (e.g., 2026-17.csv for the week starting April 20, 2026).
