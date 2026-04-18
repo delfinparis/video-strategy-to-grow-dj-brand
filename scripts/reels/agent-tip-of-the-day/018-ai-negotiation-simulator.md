@@ -19,8 +19,6 @@ You're about to send that lowball offer. AI just stopped you from killing the de
 Tim Burrell -- top producer in Raleigh -- runs every offer through AI first. Feed it the situation: their motivation, your client's position, the offer amount. Ask for the three most probable responses. Anchoring works -- start lower, you'll end lower. But go insultingly low and they'll make you apologize your way back up. AI shows you where that line is before you cross it.
 
 Next offer you write, paste the scenario into AI first. See what it catches.
-
-See you next time.
 ---
 
 ## Social Copy

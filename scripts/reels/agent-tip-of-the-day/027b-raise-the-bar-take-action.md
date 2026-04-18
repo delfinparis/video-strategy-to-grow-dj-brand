@@ -19,8 +19,6 @@ If you've been watching part-timers ghost clients mid-transaction and tank your 
 The profession doesn't earn respect until it demands competence at the door.
 
 Go to your state REALTOR association's website. Find the advocacy page. If raising licensing standards isn't listed, email your government affairs director and ask why not.
-
-See you next time.
 ---
 
 ## Social Copy

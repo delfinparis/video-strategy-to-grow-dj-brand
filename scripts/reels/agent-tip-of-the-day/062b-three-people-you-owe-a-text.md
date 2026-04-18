@@ -21,8 +21,6 @@ Eithan Davidov does over 100 deals a year. His secret? He follows up when it's u
 So do this today: Pick three people in your CRM you haven't contacted in 30 days or more. Send a one-line text: "Hey, just checking in -- still thinking about making a move?" That's it.
 
 What you'll get back will surprise you. At least one of those three is closer to ready than you think -- and you'll be the only agent who bothered to ask.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -22,8 +22,6 @@ Without a system for tracking ROI, you have no idea what's actually producing. Y
 Most agents spend on instinct. Top producers spend on evidence. A dollar tracked is a dollar multiplied.
 
 Try this: Open Claude and type "Audit where my marketing dollars are going and tell me whether the ROI justifies every line item."
-
-See you next time.
 ---
 
 ## Social Copy

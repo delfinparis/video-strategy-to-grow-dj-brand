@@ -20,8 +20,6 @@ Most listing descriptions are genuinely terrible. "Charming." "Cozy." "Move-in r
 Give Claude the property's key features, the neighborhood, the ideal buyer, and one emotional selling point unique to this house. Type: "Write three versions of this listing description -- one aspirational, one feature-focused, one neighborhood-first. Each under two hundred words. Zero real estate cliches."
 
 Pick the best. Personalize it. Done in five minutes instead of forty-five. Buyers buy stories before they buy houses.
-
-See you next time.
 ---
 
 ## Social Copy

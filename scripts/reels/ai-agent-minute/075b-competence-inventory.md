@@ -22,8 +22,6 @@ Type: "Help me create a document that tracks my growing real estate expertise so
 Imposter syndrome thrives in the dark. When you can see in writing what you actually bring to the table -- the voice gets quieter.
 
 You don't need to know everything. You need to know more than your client. And you already do.
-
-See you next time.
 ---
 
 ## Social Copy

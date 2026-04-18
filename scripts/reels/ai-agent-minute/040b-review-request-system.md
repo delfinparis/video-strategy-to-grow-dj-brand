@@ -20,8 +20,6 @@ Ask Claude to build a five-step review request sequence.
 Prompt: "Write a review request system that includes: optimal timing for each ask after closing, an email version, a text version, a follow-up for non-responders. Each message should include a direct link placeholder, a one-sentence prompt telling the client what to mention, and a genuine thank-you. Make it feel personal -- not automated."
 
 That one-sentence prompt is the secret -- most people don't know what to say. Give them that and the review practically writes itself.
-
-See you next time.
 ---
 
 ## Social Copy

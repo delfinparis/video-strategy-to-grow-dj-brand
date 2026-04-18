@@ -2,7 +2,7 @@
 series: "Bonus Reel -- Webinar Promo"
 reel_number: "7 of 7"
 title: "New Agents -- This Is How You Compete With 10-Year Veterans"
-hook_type: "Empowerment -- new agent underdog"
+hook_type: "Motivation -- new agent underdog"
 target_avatar: "New agent, first 1-2 years, grinding with no results"
 target_duration: "30 seconds"
 event_date: "Tuesday, April 7, 2026 -- 12:00 PM Central"
@@ -14,7 +14,7 @@ registration_url: "keepingitrealwebinar.com"
 
 > **On-Screen Text (0:00):** New agent? Can't figure out why everyone else is closing deals and you're not?
 
-## Script (Direct to camera -- direct, fired up, empowering)
+## Script (Direct to camera -- direct, fired up, encouraging)
 
 If you're a new agent -- first year, maybe second year -- and you're doing everything they told you to do. Cold calls. Door knocking. Open houses. Posting every day. And you're watching agents who started the same time as you somehow close deals while you can't get anyone to text you back.
 

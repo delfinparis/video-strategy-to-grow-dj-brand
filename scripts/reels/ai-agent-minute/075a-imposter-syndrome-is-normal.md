@@ -22,8 +22,6 @@ Imposter syndrome isn't a personality flaw. It's a mismatch between the standard
 But you can close it. On purpose. With evidence.
 
 Try this: Open Claude and type "Help me build a competence inventory -- everything I actually know and have accomplished in real estate. I need to see it on paper."
-
-See you next time.
 ---
 
 ## Social Copy

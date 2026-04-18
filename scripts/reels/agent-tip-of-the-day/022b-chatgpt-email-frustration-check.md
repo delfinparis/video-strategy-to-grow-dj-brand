@@ -19,8 +19,6 @@ Your last deal that died? The one where you thought "I should've seen that comin
 You probably sent three emails that week that landed wrong.
 
 Tonight: open ChatGPT. Copy your last tense client email thread. Paste it in. Ask: "What's the frustration level here and what should I do differently?" See what you missed.
-
-See you next time.
 ---
 
 ## Social Copy

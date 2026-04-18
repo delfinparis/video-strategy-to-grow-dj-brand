@@ -20,8 +20,6 @@ Two days before any listing appointment, email the seller a pre-listing packet b
 Prompt: "Create a pre-listing packet with: my bio written as a compelling story not a credential list, comparable sales framing my pricing approach, three testimonials from similar sellers, a one-page marketing overview, and the five questions I'll ask during the appointment."
 
 The seller reads this before you arrive. By the time you ring the doorbell, they already feel like they know you. That's a completely different appointment.
-
-See you next time.
 ---
 
 ## Social Copy

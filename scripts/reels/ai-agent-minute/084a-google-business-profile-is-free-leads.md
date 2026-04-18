@@ -22,8 +22,6 @@ Your Google Business profile is often the very first impression a potential clie
 Most agents spend money on paid ads to get found. Google Business gets you found for free -- if you actually optimize it. It's the highest-ROI move most agents ignore.
 
 Here's what I'd do. Open Claude and type: "Help me optimize my Google Business Profile to actually generate leads -- better description, posts, and review responses."
-
-See you next time.
 ---
 
 ## Social Copy

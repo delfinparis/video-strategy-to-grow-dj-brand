@@ -22,8 +22,6 @@ Agents who thrive in low inventory aren't finding listings everyone else missed 
 Most agents wait for listings to appear. Top producers go find them before they're listed.
 
 Try this: Open Claude and type "Help me build an off-market prospecting strategy so low inventory stops being my excuse."
-
-See you next time.
 ---
 
 ## Social Copy

@@ -21,8 +21,6 @@ Eithan Davidov -- over 100 deals a year -- told me his trick: "Record it, transc
 Try this right now: Think of one client you owe a follow-up. Record a voice memo -- just talk for 60 seconds about what they need and what you'd tell them over coffee. Transcribe it. Paste it into ChatGPT and say: "Turn this into a short email. Keep my exact words. Just organize them."
 
 You'll have a follow-up email that sounds like you wrote it -- because you did -- and it took three minutes instead of 45. That client hears from you today instead of never.
-
-See you next time.
 ---
 
 ## Social Copy

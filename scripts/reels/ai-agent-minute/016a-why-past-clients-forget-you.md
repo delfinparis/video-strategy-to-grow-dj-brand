@@ -22,8 +22,6 @@ After most closings, you send a thank-you note, maybe a gift, then you disappear
 Not because you did bad work. Because you vanished. Most agents lose their best clients not to a competitor -- but to their own silence.
 
 Try this: Open Claude and type "Help me build a simple system to stay top-of-mind with past clients so they never forget my name."
-
-See you next time.
 ---
 
 ## Social Copy

@@ -22,8 +22,6 @@ Every top producer I've interviewed in twelve years does a weekly business revie
 Every Friday, give Claude your week's numbers and type: "Compare my actual activity against my weekly targets, identify my single biggest gap, and give me the one adjustment with the highest impact next week."
 
 Fifteen minutes of focused reflection beats fifteen hours of unfocused effort.
-
-See you next time.
 ---
 
 ## Social Copy

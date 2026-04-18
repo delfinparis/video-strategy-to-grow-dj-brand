@@ -29,16 +29,13 @@ Operationally critical but lowest virality ceiling in the series; essential infr
 
 ## Full Script (Spoken)
 
-Every transaction mistake that's ever cost you a client, a deal, or a sleepless night came down to one thing -- you trusted your memory instead of a system. [ON-SCREEN: "You trusted your memory instead of a system"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Every transaction mistake that's ever cost you a client, a deal, or a sleepless night came down to one thing -- you trusted your memory instead of a system.
 Here's the reality of a real estate transaction. There are sixty-plus steps between executed contract and closing. Missing one can delay a closing, kill a deal, or expose you to liability. Most agents track all of this in their head or across a scattered email thread.
-That works -- until it doesn't. And when it breaks down, it always breaks down at the worst possible moment. [ON-SCREEN: "It always breaks down at the worst possible moment"]
-Here's the fix. Ask Claude: "Create a complete transaction coordination checklist for a residential purchase deal in [your state]. Include every step from executed contract to closing, broken into phases, with who's responsible for each step and the typical deadline." [ON-SCREEN: "Complete transaction checklist -- phases, responsibilities, deadlines"]
+That works -- until it doesn't. And when it breaks down, it always breaks down at the worst possible moment.
+Here's the fix. Ask Claude: "Create a complete transaction coordination checklist for a residential purchase deal in [your state]. Include every step from executed contract to closing, broken into phases, with who's responsible for each step and the typical deadline."
 Customize it for your market. Turn it into a repeatable checklist in your CRM. Run every single deal through it.
 Systems aren't for beginners. Systems are what separate agents who scale from agents who just survive.
-Do you have a written transaction checklist -- or is it all in your head? Tell me honestly. [ON-SCREEN: Written checklist or all in your head?]
-See you next time.
-
+Do you have a written transaction checklist -- or is it all in your head? Tell me honestly.
 ## Producer Note
 "Sixty-plus steps" is a specific number that lands with weight -- verify it's accurate for a typical residential transaction before filming. The "systems separate scalers from survivors" reframe is strong. Pairs with Script #23 (SOPs) for a systems-focused week.
 

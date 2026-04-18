@@ -20,8 +20,6 @@ Build a two-page document you send to every new buyer or seller at the start of 
 Ask Claude: "Write a warm, professional document covering how I communicate and my typical response times, the transaction timeline and what happens at each stage, the client's responsibilities, and the three most common surprises in real estate and how I handle them."
 
 Send it before the first showing. Setting expectations isn't defensive. It's the first act of excellent client service.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -21,8 +21,6 @@ Marisa Kashino wrote a bestselling novel about a woman who goes unhinged trying 
 You're not managing transactions. You're managing people at their absolute breaking point.
 
 Do this before your next offer: Sit with your buyer for 10 minutes and set boundaries on what you will and won't do to win.
-
-See you next time.
 ---
 
 ## Social Copy

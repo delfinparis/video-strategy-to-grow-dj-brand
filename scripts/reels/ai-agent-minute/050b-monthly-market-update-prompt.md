@@ -20,8 +20,6 @@ Become the trusted source in twenty minutes a month. Pull your local MLS data --
 Give it to Claude: "Write a two-paragraph market update for homeowners in my market that explains what these numbers mean for a seller and a buyer. Make it conversational, not statistical. End with one specific actionable insight."
 
 Send it to your entire database. Every month. Without fail. That consistency is what makes you the first call when they're ready to move.
-
-See you next time.
 ---
 
 ## Social Copy

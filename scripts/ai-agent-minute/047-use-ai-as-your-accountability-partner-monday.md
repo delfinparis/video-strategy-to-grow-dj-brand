@@ -29,16 +29,13 @@ Accountability is the #1 thing solo agents lack; AI as a non-judgmental accounta
 
 ## Full Script (Spoken)
 
-The number one reason agents don't hit their goals isn't lack of knowledge. It's lack of follow-through. And accountability is the only thing that fixes it. [ON-SCREEN: "It's lack of follow-through -- not lack of knowledge"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+The number one reason agents don't hit their goals isn't lack of knowledge. It's lack of follow-through. And accountability is the only thing that fixes it.
 Here's the accountability gap most agents live in. They either work completely alone with no one checking if they prospected today -- or they pay for a coach they go weeks without talking to. In between, there's nothing holding them to the commitments they made to themselves.
-And every week that passes without accountability is a week where good intentions stayed intentions. [ON-SCREEN: "Good intentions stayed intentions"]
-Here's a system that costs nothing. Every Monday morning, open Claude and type your three commitments for the week -- specific, measurable, with a deadline. Then on Friday, come back and tell Claude exactly what you did. Type: "Give me honest, direct feedback on my follow-through this week and help me understand why I dropped the ball on anything I didn't complete." [ON-SCREEN: "Monday commitments → Friday honest review"]
+And every week that passes without accountability is a week where good intentions stayed intentions.
+Here's a system that costs nothing. Every Monday morning, open Claude and type your three commitments for the week -- specific, measurable, with a deadline. Then on Friday, come back and tell Claude exactly what you did. Type: "Give me honest, direct feedback on my follow-through this week and help me understand why I dropped the ball on anything I didn't complete."
 No judgment. No coaching fees. Just clarity.
 You don't need a cheerleader. You need something that remembers what you promised and asks you about it. AI does that at zero cost.
-What's one commitment you made to yourself this week that you didn't keep? Be honest below. [ON-SCREEN: What commitment did you not keep this week?]
-See you next time.
-
+What's one commitment you made to yourself this week that you didn't keep? Be honest below.
 ## Producer Note
 "Zero cost" is a strong closing note -- it undercuts the objection before it forms. The Monday/Friday ritual is immediately actionable and the kind of system people save and screenshot. Strong candidate for a mindset week anchor.
 

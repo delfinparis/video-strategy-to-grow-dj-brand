@@ -17,8 +17,6 @@ If you're still chasing clients, you've already lost.
 *[Agent Tip of the Day bumper]*
 
 Jay Cannone is top one percent in Fairfield County luxury. He stopped selling years ago. His rule: Marketing is attracting. Selling is convincing. When you market right, clients come pre-sold. They've seen your content. They trust your expertise. By the time they call, you're not pitching -- you're consulting. Think about your last five deals. How many came to you versus how many did you have to convince? That ratio is your real scorecard.
-
-See you next time.
 ---
 
 ## Social Copy

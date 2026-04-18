@@ -20,8 +20,6 @@ Here's a three-touch sequence that actually re-engages ghosted leads.
 Give Claude your lead's profile and type: "Write a three-touch re-engagement sequence built entirely on value -- no asks. Touch one: a relevant market update for their area. Touch two: a specific property matching what they wanted. Touch three: a low-pressure check-in -- 'I want to make sure I'm still being helpful.'"
 
 Every message gives them a reason to respond. None of them makes them feel guilty for going quiet.
-
-See you next time.
 ---
 
 ## Social Copy

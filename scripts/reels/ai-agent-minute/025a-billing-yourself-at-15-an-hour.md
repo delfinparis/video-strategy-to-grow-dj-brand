@@ -22,8 +22,6 @@ And here's why most agents hire at the wrong time -- they wait until they're dro
 The right time to hire isn't when you're overwhelmed. It's when the math tells you to. Most agents hire out of desperation. Top producers hire out of data.
 
 Try this: Open Claude and type "Calculate my real hourly rate based on my commission income and hours worked. Then show me which tasks I should stop doing myself."
-
-See you next time.
 ---
 
 ## Social Copy

@@ -19,8 +19,6 @@ Every agent has access to the same MLS data. But almost nobody knows how to actu
 Tech analyst Chris Linsell says: feed ChatGPT your local sold comps, days on market, and price trends. Ask it: "What pattern am I missing?" Or: "Why are homes under 300K moving faster in this zip code?"
 
 It'll spot the trend you've been staring past for three months. Pull your last 90 days of sold data tonight. Ask one question. That's your listing presentation for tomorrow.
-
-See you next time.
 ---
 
 ## Social Copy

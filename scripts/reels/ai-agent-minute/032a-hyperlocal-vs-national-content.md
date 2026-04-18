@@ -22,8 +22,6 @@ Most agents post about mortgage rates and general buying tips -- and it blends i
 The agents who dominate local markets online aren't louder. They're more specific.
 
 Here's what I'd do. Open Claude and type: "Help me create a month of hyperlocal social content for my neighborhood that no national brand could replicate."
-
-See you next time.
 ---
 
 ## Social Copy

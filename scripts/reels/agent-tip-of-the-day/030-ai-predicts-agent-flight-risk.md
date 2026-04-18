@@ -21,8 +21,6 @@ There's a tool called Corded that scans production trends, social signals, and c
 Here's what to do this week: If you're a team leader or broker, go to Corded's website and run your market. Look at who's flagged. If you're an agent, tell your broker about it -- because if your competitor finds this first, they're recruiting with a sniper rifle while you're using a phone book.
 
 Either way, the brokerages using AI for recruiting intelligence are building rosters faster than the ones still guessing. Don't be the one still guessing.
-
-See you next time.
 ---
 
 ## Social Copy

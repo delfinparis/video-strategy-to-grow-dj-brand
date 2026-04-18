@@ -22,8 +22,6 @@ Here's the shift: stop defining success as booking an appointment. Define it as 
 You go from dreading rejection to counting connections. Without a ritual, prospecting is a fresh decision every morning. And fresh decisions get vetoed.
 
 Try this: Open Claude and type "Build me a 30-minute daily prospecting system I can actually stick to." You'll have one by lunch.
-
-See you next time.
 ---
 
 ## Social Copy

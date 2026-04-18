@@ -20,8 +20,6 @@ You've memorized your cold call script -- so why does it fall apart the second s
 Open Claude and type: "Act as a skeptical FSBO owner who's had three bad experiences with real estate agents. I'm about to cold call you. Push back hard and stay in character."
 
 Run it out loud. Ten times. Claude will throw objections you've never heard. When you pick up the real phone, nothing surprises you. Confidence isn't talent -- it's reps. AI just made them free.
-
-See you next time.
 ---
 
 ## Social Copy

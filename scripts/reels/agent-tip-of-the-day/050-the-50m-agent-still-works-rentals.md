@@ -17,8 +17,6 @@ The agent doing fifty million a year still works rentals.
 *[Agent Tip of the Day bumper]*
 
 Most agents think the path to luxury is saying no to small deals. Kristee Leonard in Austin does the opposite. She still takes rental clients. Still works with first-time buyers. One rental client from California turned into multiple referrals. She's not doing it to be nice. She's doing it because it's a referral engine that compounds. You're not stuck because you're taking small deals. You're stuck because you're half-assing them while waiting for the big one.
-
-See you next time.
 ---
 
 ## Social Copy

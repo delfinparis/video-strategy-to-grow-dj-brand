@@ -21,8 +21,6 @@ Notice the tightness. Name it silently -- "I feel threatened." Take three breath
 That pause between feeling and reacting -- that's where you keep your top performers.
 
 Before your next team meeting, practice this sequence once. So when someone challenges your strategy, you have a choice -- not just a reflex.
-
-See you next time.
 ---
 
 ## Social Copy

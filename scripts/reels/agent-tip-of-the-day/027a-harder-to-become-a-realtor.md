@@ -21,8 +21,6 @@ Chris Linsell says Texas requires 180 hours to get licensed. California, 135. Bu
 That's less time than it takes to become a licensed barber. And these people are representing someone's $400,000 life decision.
 
 Do this today: Pick the one skill you're weakest at and spend 30 minutes working on it this week. Raise your own bar.
-
-See you next time.
 ---
 
 ## Social Copy

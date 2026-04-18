@@ -20,8 +20,6 @@ Want to break into luxury real estate? Ask Claude to build you a ninety-day luxu
 It should define: the specific neighborhoods to focus on first, how to build market expertise before you have listings, the five luxury marketing elements to develop -- photography, listing presentations, video, print, and digital presence -- and a target list of luxury-adjacent clients already in your network.
 
 You start with people who already trust you. AI builds the plan to earn the rest.
-
-See you next time.
 ---
 
 ## Social Copy

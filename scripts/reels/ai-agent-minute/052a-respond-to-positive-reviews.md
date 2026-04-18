@@ -22,8 +22,6 @@ People on the fence about calling you don't just read your reviews. They read ho
 Give every review to Claude and type: "Write a response that references something specific from this review, reinforces one key value I provided, and feels genuinely human -- not corporate."
 
 Here's what I'd do. Open Claude and type: "Write me three different responses to positive reviews that feel personal, not templated."
-
-See you next time.
 ---
 
 ## Social Copy

@@ -20,8 +20,6 @@ Categorize your top one hundred contacts into three tiers. A for most likely to 
 Give Claude the tiers and type: "Build a twelve-month touchpoint calendar for each tier -- frequency, contact type like call, text, handwritten note, email, or pop-by -- and what message theme fits each time of year. Make the A-tier feel truly personalized and frequent."
 
 You now have a scheduled referral generation system. Not hope. A system.
-
-See you next time.
 ---
 
 ## Social Copy

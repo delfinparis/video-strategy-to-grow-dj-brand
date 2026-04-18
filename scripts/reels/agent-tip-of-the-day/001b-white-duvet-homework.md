@@ -21,8 +21,6 @@ Amanda Pendleton at Zillow found that listings with white linens get 30% more en
 Here's your homework: Go to Target today. Buy two white duvets -- ten bucks each. Keep them in your trunk. Use them on your next three listings before the photographer shows up.
 
 You'll see more saves, more showings booked, and more buyer interest -- from a twenty-dollar investment that takes five minutes to set up.
-
-See you next time.
 ---
 
 ## Social Copy

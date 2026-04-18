@@ -29,15 +29,12 @@ Competitive intelligence prep is smart; less urgency than #8 (listing prep) but 
 
 ## Full Script (Spoken)
 
-You're walking into listing appointments without knowing who else is being interviewed -- and that's like playing poker without looking at your own cards. [ON-SCREEN: "Like playing poker without looking at your cards"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+You're walking into listing appointments without knowing who else is being interviewed -- and that's like playing poker without looking at your own cards.
 Here's the reality. Sellers typically interview two or three agents. The ones who consistently win know who they're competing against -- their recent production in the neighborhood, how they present themselves online, their reviews, their weaknesses. Most agents never look any of this up.
-So they show up with a folder and hope. The top producers show up with a strategy. [ON-SCREEN: "Most agents show up with a folder. Top producers show up with a strategy."]
-Here's how to build the strategy. Use Perplexity to research your likely competition -- their recent sales in the neighborhood, their online positioning, their Google reviews, their average days on market. Then take that into Claude and type: "Given how this competitor positions themselves, give me three specific ways I can differentiate in my listing presentation without ever mentioning them by name." [ON-SCREEN: "3 ways to differentiate without mentioning them by name"]
+So they show up with a folder and hope. The top producers show up with a strategy.
+Here's how to build the strategy. Use Perplexity to research your likely competition -- their recent sales in the neighborhood, their online positioning, their Google reviews, their average days on market. Then take that into Claude and type: "Given how this competitor positions themselves, give me three specific ways I can differentiate in my listing presentation without ever mentioning them by name."
 You walk in knowing things they don't know you know.
 Do you research your competition before a listing appointment? Yes or no --
-See you next time.
-
 ## Producer Note
 The contrast line "folder and hope vs. strategy" is the sharpest addition -- consider making it the on-screen callout. Two-tool workflow (Perplexity + Claude) needs a beat that makes it feel simple, not complicated.
 

@@ -22,8 +22,6 @@ You ask AI to "write a post about real estate" and wonder why it sounds like eve
 Most agents use AI to replace their voice. Top producers use it to amplify it. There's a massive difference.
 
 Here's the fix: Paste five of your own emails or posts into Claude and say "Learn my voice, then write my next market update in that style." Night and day difference.
-
-See you next time.
 ---
 
 ## Social Copy

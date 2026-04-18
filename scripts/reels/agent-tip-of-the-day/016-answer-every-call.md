@@ -19,8 +19,6 @@ Karina Chavez answered a 7 PM call last Tuesday. It turned into a $480,000 listi
 A past client's coworker whose agent went dark during inspection. She needed someone who'd actually pick up. Most agents saw a random evening number and let it ring. Karina answered on the second ring.
 
 People don't want to leave voicemails about six-figure decisions. They want a human. Right now. Go into your phone settings. Turn off "Silence Unknown Callers." Answer every call for seven days. See what happens.
-
-See you next time.
 ---
 
 ## Social Copy

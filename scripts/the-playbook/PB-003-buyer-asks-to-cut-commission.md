@@ -22,17 +22,17 @@ status: "ready"
 ## Script (~50 seconds)
 
 ### SCENARIO (0:00-0:05)
-Your buyer just asked if you'll cut your commission. Maybe nicely. Maybe not. Here's the play. [ON-SCREEN: "Here's the play."]
+Your buyer just asked if you'll cut your commission. Maybe nicely. Maybe not. Here's the play.
 
 ### DON'T (0:05-0:12)
-Don't defend the number. Don't list everything you do. Don't get defensive. Don't immediately agree to a discount because you're afraid of losing them. All four are the trap. [ON-SCREEN: "Don't defend. Don't list. Don't fold."]
+Don't defend the number. Don't list everything you do. Don't get defensive. Don't immediately agree to a discount because you're afraid of losing them. All four are the trap.
 
 ### DO (0:12-0:35)
 Instead, ask one question and then stop talking. The question is:
 
 "What part of what I do do you want me to do less of?"
 
-Then go quiet. Don't fill the silence. Let them sit with it. [ON-SCREEN: "What part do you want me to do less of?"]
+Then go quiet. Don't fill the silence. Let them sit with it.
 
 ### WHY (0:35-0:48)
 Here's what that does. The commission conversation isn't about price. It's about value perception. When you ask them to define what they want you to do less of, you force them to look at the actual work, not the percentage. Most buyers can't name a single thing because they haven't thought about what you do beyond opening doors.
@@ -40,7 +40,7 @@ Here's what that does. The commission conversation isn't about price. It's about
 You don't defend the number. You ask them to define the work. The conversation usually ends with the buyer saying "no, I want all of it." That's the move.
 
 ### TRY THIS (0:48-0:55)
-Try this exact question on your next consultation. [ON-SCREEN: "Ask the question. Stop talking."]
+Try this exact question on your next consultation.
 
 **Estimated Duration:** ~55 seconds
 

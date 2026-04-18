@@ -19,8 +19,6 @@ Top producers treat wins and losses the same way -- data points. Monday morning 
 Your income isn't determined by your best month or your worst month. It's determined by whether you do the same activities every day regardless of how you feel.
 
 What's the one activity you skip when things go well? That's your leak. Fix it this week.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -20,8 +20,6 @@ You're leaving ninety percent of your content's value on the table every time yo
 Give Claude any long-form content -- a video transcript, podcast clip, or newsletter. Type: "Turn this into one LinkedIn post, three Instagram captions, five short text insights, and one email subject line. Preserve the core idea -- adapt the tone for each platform."
 
 In fifteen minutes, one piece of content becomes a full week across every channel. Create once. Distribute everywhere.
-
-See you next time.
 ---
 
 ## Social Copy

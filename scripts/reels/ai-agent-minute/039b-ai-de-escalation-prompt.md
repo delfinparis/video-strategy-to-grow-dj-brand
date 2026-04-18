@@ -22,8 +22,6 @@ Describe exactly what happened and type: "How should I respond to de-escalate, p
 Pick the one that fits. Execute it calmly. Never send an emotional response in real time.
 
 Difficult clients don't need a reactive agent. They need a calm, strategic one. Claude helps you be that every time.
-
-See you next time.
 ---
 
 ## Social Copy

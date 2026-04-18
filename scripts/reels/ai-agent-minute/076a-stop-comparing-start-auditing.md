@@ -20,8 +20,6 @@ You looked at another agent's Instagram today and felt bad about yourself. Every
 Here's what it's costing you. You're measuring your behind-the-scenes against their highlight reel. And the agents who scroll the most tend to produce the least. That's not a coincidence.
 
 Next time comparison hits, stop scrolling and open Claude instead. I'll show you what to do with it.
-
-See you next time.
 ---
 
 ## Social Copy

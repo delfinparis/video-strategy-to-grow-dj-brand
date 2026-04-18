@@ -22,8 +22,6 @@ You do everything from memory. Client onboarding, listing appointments, transact
 You can't sell, scale, or step away from a business that only lives in your brain.
 
 Here's what I'd do. Open Claude and type: "I'm going to describe how I run my business out loud. Turn my answers into a written SOP I can hand to someone else."
-
-See you next time.
 ---
 
 ## Social Copy

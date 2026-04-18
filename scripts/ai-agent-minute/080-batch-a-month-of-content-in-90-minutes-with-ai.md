@@ -29,16 +29,13 @@ Batching content is valuable but competes with #78 (rainy day fund) and #51 (rep
 
 ## Full Script (Spoken)
 
-The reason most agents quit social media after three weeks is they're creating content one post at a time. That's entirely the wrong approach. [ON-SCREEN: "Creating one post at a time is the wrong approach"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+The reason most agents quit social media after three weeks is they're creating content one post at a time. That's entirely the wrong approach.
 Here's the painful loop most agents are stuck in. You sit down to figure out what to post today, spend twenty minutes staring at a blank screen, produce something mediocre, hate the whole process, skip tomorrow, skip the day after, and three weeks later you've abandoned another attempt at consistency.
-That loop isn't a willpower problem. It's a workflow problem. [ON-SCREEN: "It's not a willpower problem. It's a workflow problem."]
-Here's the fix. Once a month, sit down with Claude for ninety minutes. Type: "I'm a real estate agent. My five content themes are [list them]. My audience is buyers and sellers in [your market]. Generate thirty post ideas with a hook, body copy, and a CTA for each." Pick your twenty favorites. Refine them in the same session. Schedule them out. [ON-SCREEN: "Generate 30 posts with hook, body copy, and CTA"]
+That loop isn't a willpower problem. It's a workflow problem.
+Here's the fix. Once a month, sit down with Claude for ninety minutes. Type: "I'm a real estate agent. My five content themes are [list them]. My audience is buyers and sellers in [your market]. Generate thirty post ideas with a hook, body copy, and a CTA for each." Pick your twenty favorites. Refine them in the same session. Schedule them out.
 You just handled an entire month of social media. In one sitting.
 Most agents post when inspired. The top producers post on a schedule. AI makes that possible without burning out.
 How many days a week are you posting right now?
-See you next time.
-
 ## Producer Note
 The "loop" description in the problem section (stare → mediocre → hate → skip → abandon) is a perfect mirror moment -- every agent will recognize it. Mild overlap with Script #26 (content calendar strategy) -- keep this on the batching mechanic, Script #26 on strategic planning.
 

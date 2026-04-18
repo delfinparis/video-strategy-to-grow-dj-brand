@@ -22,8 +22,6 @@ Spend one hour with Claude. Type: "Generate thirty pieces of evergreen real esta
 Save them in a Google Doc. On the days you have nothing to say -- pull from the fund. You never go dark again.
 
 Inspiration is optional. Systems are not. AI builds the system that shows up even when you don't feel like it.
-
-See you next time.
 ---
 
 ## Social Copy

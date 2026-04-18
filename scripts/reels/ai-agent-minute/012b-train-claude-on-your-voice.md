@@ -22,8 +22,6 @@ Paste three to five examples of content you've written -- captions, emails, text
 Do this once. Save it as a Claude Project. Every piece of content after that actually sounds like you -- at scale.
 
 AI is a force multiplier for your voice. Not a replacement for it.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -21,8 +21,6 @@ Eithan Davidov closes over 100 deals a year in Queens. He uses AI completely dif
 Here's exactly what to do: After your next listing appointment or client call, pull out your phone. Record a two-minute voice memo -- just ramble about what happened, what the client needs, what you want to say in the follow-up. Then drop that transcription into ChatGPT and say: "Organize my thoughts into a follow-up email. Keep my voice. Don't add anything I didn't say."
 
 What you'll get back sounds like you -- because it is you. Just clearer. Your clients will actually respond because it doesn't read like every other agent's AI-generated template.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -22,8 +22,6 @@ Before any negotiation call, give Claude the full deal picture -- offer price, i
 Then type: "Draft three negotiation scenarios ranked by likelihood, with the strongest talking points for each one."
 
 Walk into that call with a game plan. Your client is counting on you to think clearly under pressure. Do the hard thinking before the pressure arrives.
-
-See you next time.
 ---
 
 ## Social Copy

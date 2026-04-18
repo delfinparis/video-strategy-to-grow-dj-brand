@@ -22,8 +22,6 @@ Too many tools stops you from going deep on any of them. Here's the fix.
 List every tool you're subscribed to. Give it to Claude and type: "For a solo agent doing X deals per year, which of these tools overlap, which should I cut immediately, and what's the one missing capability with the highest ROI?"
 
 Then actually cancel what it tells you to cut.
-
-See you next time.
 ---
 
 ## Social Copy

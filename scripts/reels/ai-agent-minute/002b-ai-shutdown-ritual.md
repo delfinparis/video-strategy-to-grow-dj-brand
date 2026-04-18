@@ -20,8 +20,6 @@ Here's a ten-minute ritual that will change your mornings.
 Each evening, tell Claude what you got done, what's still open, and what tomorrow needs. Then type: "Sort my open items by priority, "
 
 Then close the laptop. The loops are closed. Your brain can actually rest. How you end today determines how you start tomorrow.
-
-See you next time.
 ---
 
 ## Social Copy

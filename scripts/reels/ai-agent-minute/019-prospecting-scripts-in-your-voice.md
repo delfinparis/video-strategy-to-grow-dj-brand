@@ -20,8 +20,6 @@ The reason most prospecting scripts feel fake is because they are. They were wri
 Here's the fix. Tell Claude: "I'm a real estate agent. I tend to be warm and conversational. I call sphere contacts and my goal is to start a real conversation -- not close on the first call. Write me an opening sixty seconds that sounds like me talking naturally -- not a script. Give me three variations so I can find the one that fits."
 
 Practice the one that fits until it's automatic. Authenticity is a competitive advantage. AI helps you find yours.
-
-See you next time.
 ---
 
 ## Social Copy

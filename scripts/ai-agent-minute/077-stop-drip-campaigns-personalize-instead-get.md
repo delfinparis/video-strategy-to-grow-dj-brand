@@ -29,16 +29,13 @@ Strong premise but the comment-to-DM CTA mechanism requires setup before filming
 
 ## Full Script (Spoken)
 
-Your CRM drip campaign is quietly killing your business -- and I'm going to show you the two-minute Claude prompt that fixes it. [ON-SCREEN: "Your drip campaign is killing your business"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Your CRM drip campaign is quietly killing your business -- and I'm going to show you the two-minute Claude prompt that fixes it.
 Generic 'just checking in' messages tell every buyer the same thing: you don't remember who they are. Today's clients can smell mass automation instantly. It goes straight to delete.
-And here's the part most agents miss -- it's not a follow-up problem. It's a listening problem. [ON-SCREEN: "It's not a follow-up problem. It's a listening problem."]
-Here's the fix. After every lead call, spend sixty seconds dictating notes into your phone -- what they're looking for, their timeline, their biggest fear. Then paste those notes into Claude and type: "Write a personalized follow-up message that references exactly what this person told me. Sound like I was paying close attention to every word." [ON-SCREEN: "Write a personalized follow-up that references exactly what this person told me"]
+And here's the part most agents miss -- it's not a follow-up problem. It's a listening problem.
+Here's the fix. After every lead call, spend sixty seconds dictating notes into your phone -- what they're looking for, their timeline, their biggest fear. Then paste those notes into Claude and type: "Write a personalized follow-up message that references exactly what this person told me. Sound like I was paying close attention to every word."
 Not a template. A message that proves you listened.
 Most agents send more messages. Top producers send more human ones -- at scale. Open Claude after your next call. This takes ninety seconds.
-Comment "FOLLOW-UP" below and I'll send you the exact prompt I use for this. [ON-SCREEN: Comment "FOLLOW-UP" for the prompt]
-See you next time.
-
+Comment "FOLLOW-UP" below and I'll send you the exact prompt I use for this.
 ## Producer Note
 Confirm the comment-to-DM delivery mechanism before filming -- do you have a tool set up (ManyChat, etc.) or are you manually replying? Don't film until that's nailed down.
 

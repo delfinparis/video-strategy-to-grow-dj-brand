@@ -21,8 +21,6 @@ Chase Craig -- two billion in sales -- puts it this way: Are you asking for mone
 When you give gold bars, they start answering.
 
 Do this today: Before your next database call, look up one personal detail about them. Ask about it first. Give before you take.
-
-See you next time.
 ---
 
 ## Social Copy

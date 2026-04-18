@@ -20,8 +20,6 @@ Use Claude as a weekly mental check-in. Every Sunday, type: "I'm going to answer
 Answer honestly. Then ask: "Summarize any patterns you see across four weeks."
 
 You can't fix what you refuse to see. And you can't see it if you never stop to look. Taking care of yourself isn't soft -- it's the most strategic thing you can do for the business you built.
-
-See you next time.
 ---
 
 ## Social Copy

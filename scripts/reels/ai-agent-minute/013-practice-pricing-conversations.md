@@ -22,8 +22,6 @@ An agent overprices because they fear losing the listing. The house sits ninety 
 Here's the fix. Tell Claude: "Act as a seller who believes their home is worth fifty thousand more than comps support. I need to walk you toward the right price without losing the listing. Push back like a real seller would."
 
 Run this weekly. Ten minutes. By the real conversation, the words come naturally. Telling a seller the truth is the most valuable thing you can do.
-
-See you next time.
 ---
 
 ## Social Copy

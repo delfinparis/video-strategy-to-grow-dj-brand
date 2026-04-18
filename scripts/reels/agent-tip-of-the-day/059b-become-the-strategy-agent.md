@@ -17,8 +17,6 @@ If working harder isn't working better, here's why. You've been optimizing for s
 *[Agent Tip of the Day bumper]*
 
 On your next deal, read every document the other agents won't. Board minutes. HOA financials. Pending assessments. Find the one thing nobody else caught. Then record a sixty-second video explaining it and post it. That's how you become the strategy agent.
-
-See you next time.
 ---
 
 ## Social Copy

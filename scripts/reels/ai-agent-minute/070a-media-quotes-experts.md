@@ -22,14 +22,12 @@ Local journalists and podcasters are constantly looking for expert sources for r
 One quote in a respected local publication gives you credibility that no amount of boosted Instagram posts can replicate. But journalists don't find you. You find them first.
 
 Try this: Open Claude and type "Write me five pitch emails to local journalists that position me as a go-to source for real estate stories."
-
-See you next time.
 ---
 
 ## Social Copy
 
 ### Instagram
-**Caption:** Local media needs expert sources on real estate every single week. One quote permanently elevates your profile.
+**Caption:** Local media needs expert sources on real estate every single week. One quote permanently raises your profile.
 **Hashtags:** #RealEstateAI #MediaPR #AIAgentMinute #RealtorBranding #LocalMedia #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent #ArtificialIntelligence
 
 ### TikTok
@@ -38,13 +36,13 @@ See you next time.
 
 ### YouTube Shorts
 **Title:** Local Media Quotes Real Estate Experts Every Week -- Why Not You?
-**Description:** Local media needs expert sources on real estate every single week. One quote permanently elevates your profile.
+**Description:** Local media needs expert sources on real estate every single week. One quote permanently raises your profile.
 **Hashtags:** #RealEstateAI #MediaPR #AIAgentMinute #RealtorBranding #LocalMedia
 
 ### Facebook
-**Caption:** Local media needs expert sources on real estate every single week. One quote permanently elevates your profile.
+**Caption:** Local media needs expert sources on real estate every single week. One quote permanently raises your profile.
 **Hashtags:** #RealEstateAI #MediaPR #AIAgentMinute #RealtorBranding #LocalMedia #AIforRealtors
 
 ### LinkedIn
-**Caption:** Local media needs expert sources on real estate every single week. One quote permanently elevates your profile.
+**Caption:** Local media needs expert sources on real estate every single week. One quote permanently raises your profile.
 **Hashtags:** #RealEstateAI #MediaPR #AIAgentMinute #RealEstate #ProfessionalDevelopment

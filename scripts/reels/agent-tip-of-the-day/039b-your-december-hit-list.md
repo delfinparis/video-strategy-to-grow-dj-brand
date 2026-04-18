@@ -19,8 +19,6 @@ What you do in the next few months sets up your entire next year. While they're 
 January 1st, you wake up with ten warm conversations already going. They wake up cold.
 
 Open your CRM right now. Filter for anyone who closed between 2020 and 2022. That's your December hit list. The question is: will you work it, or will someone else?
-
-See you next time.
 ---
 
 ## Social Copy

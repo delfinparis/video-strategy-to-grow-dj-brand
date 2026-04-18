@@ -20,8 +20,6 @@ Before any showing, give Claude the property address and type: "Pull comparable 
 Sixty seconds. You walk in with context. Your buyer sees an expert who did their homework.
 
 The most prepared agent in the room wins the most loyal clients.
-
-See you next time.
 ---
 
 ## Social Copy

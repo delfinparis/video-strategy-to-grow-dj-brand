@@ -20,8 +20,6 @@ Before any appraisal is scheduled, give your buyer a brief scenarios guide built
 Prompt: "Write a plain-English guide for a buyer covering: what an appraisal actually measures, what happens at value, above value, and below value, and the three paths forward if it comes in low -- renegotiate price, cover the gap, or walk away. Make it calm and clear, not alarmist."
 
 Send it before the appraisal happens. A prepared client doesn't panic. A panicking client can blow up months of work in forty-eight hours.
-
-See you next time.
 ---
 
 ## Social Copy

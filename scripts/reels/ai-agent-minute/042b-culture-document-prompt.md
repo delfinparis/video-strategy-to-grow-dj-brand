@@ -20,8 +20,6 @@ Ask Claude to help you write a real team culture document -- not a mission state
 Prompt: "Help me write a team culture document defining: behaviors we celebrate and reward, behaviors that aren't acceptable, how conflicts get resolved, how decisions get made, communication norms, and what success actually means here."
 
 Share it with every current and prospective team member. A defined culture document is a recruiting tool, a retention tool, and an accountability tool -- all built in one afternoon.
-
-See you next time.
 ---
 
 ## Social Copy

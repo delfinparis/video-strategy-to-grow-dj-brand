@@ -19,8 +19,6 @@ Three agents in your office aren't waiting for a national MLS. They've got Phoen
 Here's the move: open your CRM. Filter by "Referred Out - Geographic." Pick the top market. Google that city's MLS subscriber access. Most are forty to sixty bucks a month. Buy it. Next client who asks about that market? You're the expert now, not the referral source.
 
 That's not a tech problem anymore. That's a decision problem.
-
-See you next time.
 ---
 
 ## Social Copy

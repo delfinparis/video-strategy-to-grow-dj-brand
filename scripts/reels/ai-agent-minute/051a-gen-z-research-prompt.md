@@ -22,8 +22,6 @@ Use Perplexity to search "Gen Z home buying behavior and communication preferenc
 Gen Z is making fifty percent more income than Boomers were at their age. They can afford homes. Can you afford to ignore them?
 
 Try this: Open Claude and type "Help me understand how Gen Z homebuyers research and communicate differently -- and how I need to adapt."
-
-See you next time.
 ---
 
 ## Social Copy

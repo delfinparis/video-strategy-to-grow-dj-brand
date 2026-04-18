@@ -20,8 +20,6 @@ Want warm referrals from lenders, attorneys, and financial advisors on a schedul
 Give Claude your list of partner types and type: "Build a twelve-month referral partner outreach plan. Include a first-contact message for each professional type, a quarterly value-add touchpoint sequence, and a value calendar of things I can give each partner before I ever ask for a referral."
 
 Give value first. The referrals follow. Every time.
-
-See you next time.
 ---
 
 ## Social Copy

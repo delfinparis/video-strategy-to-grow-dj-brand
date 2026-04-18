@@ -17,8 +17,6 @@ New agents spend six months preparing. Top producers spend six days doing.
 *[Agent Tip of the Day bumper]*
 
 You're waiting to feel ready. The perfect script, the perfect market, the perfect confidence. Meanwhile someone who started last week just closed their first deal. Connie Mahan -- REALTOR of the Year in Central Florida -- got the advice that changed everything: "Get in and do. The rest figures itself out." Your first ten conversations will be terrible. That's the point. You can't learn swimming from a book. You're not unprepared. You're untested. There's a difference.
-
-See you next time.
 ---
 
 ## Social Copy

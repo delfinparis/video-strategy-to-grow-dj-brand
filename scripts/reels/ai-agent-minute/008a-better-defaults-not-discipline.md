@@ -19,11 +19,9 @@ The top producers you admire aren't more disciplined than you. They've built bet
 
 On your best days, you do the hard things. On your bad days, you don't. And the bad days are exactly when the important work needs to happen.
 
-The agents who prospect every day and review their pipeline without fail haven't unlocked superior willpower. They've built a structure that makes skipping harder than doing. The gap isn't knowledge. It's structure.
+The agents who prospect every day and review their pipeline without fail haven't found superior willpower. They've built a structure that makes skipping harder than doing. The gap isn't knowledge. It's structure.
 
 Here's what I'd do. Open Claude and say "Audit my daily routine and tell me where I'm relying on willpower instead of systems." The answer will surprise you.
-
-See you next time.
 ---
 
 ## Social Copy

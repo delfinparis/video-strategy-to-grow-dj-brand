@@ -22,8 +22,6 @@ The ask feels awkward. The client doesn't know what to say. So the moment passes
 Fix it. Tell Claude: "Write a post-closing message asking for a sixty-second phone video. Include three prompts: 'What were you most worried about before we started?' 'What surprised you most?' 'Who would you recommend me to?' Add simple filming instructions."
 
 Giving clients a script isn't cheesy -- it's a relief. They want to help. Just tell them how.
-
-See you next time.
 ---
 
 ## Social Copy

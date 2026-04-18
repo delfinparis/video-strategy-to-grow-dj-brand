@@ -17,13 +17,11 @@ Here's how to fix your Google Business Profile in one afternoon.
 
 *[AI Agent Minute bumper]*
 
-Ask Claude: "Give me a complete checklist for an optimized real estate agent Google Business profile -- including photo types, service categories, post frequency, and review response best practices."
+Ask Claude: "Give me a complete checklist for an optimized real estate agent Google Business profile -- including photo types, service categories, post frequency, and review response proven approaches."
 
 Complete that checklist. Then ask Claude to write your first five profile posts and a review response template for every star rating.
 
 One afternoon of work. Free local leads for months.
-
-See you next time.
 ---
 
 ## Social Copy

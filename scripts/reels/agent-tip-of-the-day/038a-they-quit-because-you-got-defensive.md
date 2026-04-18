@@ -23,8 +23,6 @@ You won the argument. You lost the relationship.
 Paul Salter's reframe: "Feeling attacked doesn't mean you're weak. It means something inside you is asking for attention."
 
 Do this today: Think about the last piece of feedback that stung. Ask yourself -- what if they were right? Sit with that for 90 seconds.
-
-See you next time.
 ---
 
 ## Social Copy

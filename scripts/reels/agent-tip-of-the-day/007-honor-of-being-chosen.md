@@ -19,8 +19,6 @@ The $50 million producer who still answers her phone at 9 PM just said something
 Kristee Leonard, 18 years in luxury real estate: "For someone to choose you, it is an honor." Not a transaction. Not a commission check. An honor. Every person who calls you passed on a hundred other agents. They didn't choose your brand. They chose you. That's not pressure. That's privilege.
 
 When's the last time you answered the phone like it was an honor? Try it tomorrow.
-
-See you next time.
 ---
 
 ## Social Copy

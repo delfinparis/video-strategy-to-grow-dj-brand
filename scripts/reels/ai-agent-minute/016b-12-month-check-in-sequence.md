@@ -20,8 +20,6 @@ Here's how to never lose a past client to silence again.
 Tell Claude: "Write twelve monthly check-in messages for a past real estate client. Month one: a personalized move-in note. Month three: a home value update. Month six: a seasonal maintenance checklist. Month twelve: an anniversary message with a market update. Write all twelve in a warm, personal tone that sounds like me."
 
 Load them into your CRM. Set them to send automatically. Your clients feel remembered without you lifting a finger. Your past clients are your most valuable asset. AI makes sure you never lose one to neglect.
-
-See you next time.
 ---
 
 ## Social Copy

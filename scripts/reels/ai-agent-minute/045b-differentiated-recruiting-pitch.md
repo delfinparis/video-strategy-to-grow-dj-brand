@@ -20,8 +20,6 @@ Answer four questions honestly: What specific type of agent is your team designe
 Give Claude your answers and ask: "Turn these into a differentiated recruiting pitch that attracts the right agents and naturally filters out the wrong ones."
 
 The best pitch doesn't appeal to every agent -- it speaks so directly to one type that they feel like you wrote it for them.
-
-See you next time.
 ---
 
 ## Social Copy

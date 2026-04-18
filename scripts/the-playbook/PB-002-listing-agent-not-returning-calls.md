@@ -22,23 +22,23 @@ status: "ready"
 ## Script (~45 seconds)
 
 ### SCENARIO (0:00-0:04)
-Your buyer wants to write an offer. The listing agent isn't calling you back. Voicemails. Texts. Nothing. Here's the play. [ON-SCREEN: "Here's the play."]
+Your buyer wants to write an offer. The listing agent isn't calling you back. Voicemails. Texts. Nothing. Here's the play.
 
 ### DON'T (0:04-0:10)
-Don't keep calling. Don't get aggressive. Don't escalate to their managing broker yet. All three make you the agent they want to ignore harder. [ON-SCREEN: "Stop chasing."]
+Don't keep calling. Don't get aggressive. Don't escalate to their managing broker yet. All three make you the agent they want to ignore harder.
 
 ### DO (0:10-0:32)
 Instead, send one text with this exact structure:
 
 "Hi [name]. Working on an offer for your listing at [address]. Want to make sure I have the most accurate showing instructions and any seller preferences before I write it. What's the best number to reach you in the next two hours?"
 
-That's the whole text. [ON-SCREEN: "I'm writing an offer. What's your best number?"]
+That's the whole text.
 
 ### WHY (0:32-0:44)
 Here's what that does. It tells the listing agent there's actual money on the table, not a tire-kicker. It gives them a specific window so they don't need to commit to anything beyond two hours. And it asks for their input, which lowers their guard. Listing agents aren't ignoring you because they're rude. They're ignoring you because everything else in their inbox feels like a waste of time. Stop chasing them as a buyer's agent. Start being someone whose call is worth answering.
 
 ### TRY THIS (0:44-0:50)
-Send this exact text the next time someone goes silent. [ON-SCREEN: "Send this next time someone goes silent."]
+Send this exact text the next time someone goes silent.
 
 **Estimated Duration:** ~50 seconds
 

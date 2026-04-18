@@ -20,8 +20,6 @@ Here's how to replace meetings with real training. Pick your three most-coached 
 For each one, ask Claude: "Build a structured learning module that includes a one-page written framework the agent keeps, five roleplay scenarios with varying difficulty, three self-assessment questions, and one practical assignment to complete before the next meeting."
 
 You build each module once. Your team uses it forever. Every new agent who joins gets it automatically. One afternoon of work.
-
-See you next time.
 ---
 
 ## Social Copy

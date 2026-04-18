@@ -20,8 +20,6 @@ A negative review you never responded to tells future clients something much wor
 For negative reviews, give Claude the review and type: "Help me write a calm, accountable response that shows future clients how I handle difficult situations professionally."
 
 How you respond to criticism is the strongest trust signal you can send. Future clients are reading it right now.
-
-See you next time.
 ---
 
 ## Social Copy

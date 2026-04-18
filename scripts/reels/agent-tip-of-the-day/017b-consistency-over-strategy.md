@@ -17,8 +17,6 @@ Your sphere doesn't refer you. Not because they don't like you -- because they f
 *[Agent Tip of the Day bumper]*
 
 Tonight, text three past clients: "Hey, been thinking about you. How's [something specific you remember]? Let's grab coffee soon." Send it. That's day one of your 18-month commitment. Tomorrow, three more. Start the clock.
-
-See you next time.
 ---
 
 ## Social Copy

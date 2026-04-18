@@ -20,8 +20,6 @@ One email a year. That's what your database got from you. Invisible for eleven m
 Here's how to make it take twenty minutes. Give Claude one local market stat, one seasonal home tip, one personal story, and a recent listing. Type: "Weave these into a five-paragraph email that feels like it came from a person -- conversational, warm, not a template."
 
 Consistency over perfection. Every single time.
-
-See you next time.
 ---
 
 ## Social Copy

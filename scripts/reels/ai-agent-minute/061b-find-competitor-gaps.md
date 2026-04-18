@@ -22,8 +22,6 @@ Use Perplexity to pull intel on your top five competitors -- this year's product
 Bring it all into Claude and type: "Based on how these agents position themselves, identify three gaps or underserved angles I could own heading into next year."
 
 You might find nobody is serving a specific price range, neighborhood, or client type. That's your opening.
-
-See you next time.
 ---
 
 ## Social Copy

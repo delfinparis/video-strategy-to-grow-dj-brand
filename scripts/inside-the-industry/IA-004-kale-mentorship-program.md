@@ -20,15 +20,15 @@ kale_signaling: true
 
 ## Status: READY -- Reframed as Secondhand Observation (2026-04-14)
 
-**Rule 1 history (important for future writers):** The first draft of this script framed the observation as "I sat in on a specific mentorship conversation" — implying D.J. personally witnessed a session with two named-role agents. That framing was a fabrication risk under Rule 1 because D.J. does not train agents or sit in on mentorship sessions; his role is VP of Business Development, which is separate from the mentorship program itself.
+**Rule 1 history (important for future writers):** The first draft of this script framed the observation as "I sat in on a specific mentorship conversation" -- implying D.J. personally witnessed a session with two named-role agents. That framing was a fabrication risk under Rule 1 because D.J. does not train agents or sit in on mentorship sessions; his role is VP of Business Development, which is separate from the mentorship program itself.
 
 The 2026-04-14 rewrite replaced that framing with honest secondhand observation: D.J. talks to Kale mentors and mentees constantly as part of his Business Development role, and the pattern in the script is what he hears reported from both sides. That is defensible, true, and preserves the core insight (mentorship is about decisions, not techniques) without requiring a fabricated first-person witness claim.
 
 **Rule 1 clearance:** Every claim in the current script traces to one of the following real sources:
 
-1. **Kale's mentorship program structure** (~25 mentors, close to 100 mentees, voluntary pairing, real schedules) — D.J. Paris direct observation as VP of Business Development, independently verifiable within Kale
-2. **The decisions-not-techniques insight** — pattern reported to D.J. by Kale mentors and mentees in ongoing Business Development conversations; also cross-referenced against 700+ Keeping It Real Podcast interviews where the same pattern surfaces from top-producer guests
-3. **"Most brokerages sell training" contrast** — D.J. Paris qualitative observation from competitor brokerage positioning in the Chicago market
+1. **Kale's mentorship program structure** (~25 mentors, close to 100 mentees, voluntary pairing, real schedules) -- D.J. Paris direct observation as VP of Business Development, independently verifiable within Kale
+2. **The decisions-not-techniques insight** -- pattern reported to D.J. by Kale mentors and mentees in ongoing Business Development conversations; also cross-referenced against 700+ Keeping It Real Podcast interviews where the same pattern surfaces from top-producer guests
+3. **"Most brokerages sell training" contrast** -- D.J. Paris qualitative observation from competitor brokerage positioning in the Chicago market
 
 **Future improvement (Alternative A from the fabrication conversation):** For even stronger credibility, D.J. should begin collecting weekly mentor success stories directly from Kale mentors and mentees. Once that system is running (see `docs/mentor-stories-collection.md`), future Kale-signaling scripts can anchor to specific named moments reported by real people, which is the strongest possible version of this script. IA-004 in its current secondhand-observation form is the fallback until real story collection starts feeding the pipeline.
 

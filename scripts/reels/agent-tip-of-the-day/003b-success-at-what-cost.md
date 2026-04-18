@@ -21,8 +21,6 @@ Garrett Maroon was top 1% in Virginia. Then he fired 60% of his database. Droppe
 Tonight: open your client list. Find three clients who drain your energy and refer zero business back. Tomorrow morning, refer them to another agent. Just three.
 
 What you'll get is counterintuitive -- fewer clients, more income, and you actually start building the business you wanted when you got into this.
-
-See you next time.
 ---
 
 ## Social Copy

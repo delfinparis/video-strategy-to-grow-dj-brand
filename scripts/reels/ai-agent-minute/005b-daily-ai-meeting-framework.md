@@ -23,8 +23,6 @@ When you're stuck: "Here's the problem -- help me think through it from three an
 Before bed: "Here's what I got done -- set me up for tomorrow."
 
 Same Claude. Completely different results. AI doesn't compound on its own. Your use of it does.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -20,8 +20,6 @@ Your drip campaign is quietly killing your business. Generic "just checking in" 
 Here's the fix. After every lead call, dictate quick notes into your phone. Paste them into Claude and type: "Write a personalized follow-up that references exactly what this person told me. Sound like I was paying close attention."
 
 Not a template. A message that proves you listened. Ninety seconds.
-
-See you next time.
 ---
 
 ## Social Copy

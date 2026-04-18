@@ -22,8 +22,6 @@ The onsite sales agent is friendly, professional, and entirely paid by the perso
 Without you, the buyer signs a contract they don't fully understand.
 
 Try this: Open Claude and type "Build me a new construction buyer's guide I can give clients before they visit a model home without their own agent."
-
-See you next time.
 ---
 
 ## Social Copy

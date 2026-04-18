@@ -22,8 +22,6 @@ Most agents either panic alongside the client, give a vague "rates always come d
 A client who loses confidence doesn't pause -- they disappear for months. Most agents try to predict the market. Top producers help clients decide despite it. That's a completely different skill.
 
 Try this: Open Claude and type "Help me explain interest rate changes to anxious buyers in a way that builds confidence instead of fear."
-
-See you next time.
 ---
 
 ## Social Copy

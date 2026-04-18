@@ -22,8 +22,6 @@ The average agent follows up three times, gets silence, and marks the lead cold.
 Your next deal is already in your database. You just stopped showing up.
 
 Here's what I'd do. Open Claude and type: "Write me a re-engagement sequence for leads that went cold six months ago. Make it feel personal, not automated."
-
-See you next time.
 ---
 
 ## Social Copy

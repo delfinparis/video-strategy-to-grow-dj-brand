@@ -20,8 +20,6 @@ Here's how to fix your LinkedIn in one sitting. Ask Claude: "Rewrite my LinkedIn
 Your headline should describe what you help people do -- not your title. Your about section should open with a story, not credentials. Your featured section should include your best market content and client testimonials.
 
 Give Claude the raw material and it writes every section. Then commit to one post per week. LinkedIn compounds slowly. But it compounds.
-
-See you next time.
 ---
 
 ## Social Copy

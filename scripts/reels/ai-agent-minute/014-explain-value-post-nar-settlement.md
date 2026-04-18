@@ -20,8 +20,6 @@ Buyers are signing representation agreements before you show them a single house
 Ask Claude: "Write a clear, confident explanation of what I do as a buyer's agent, why a representation agreement actually protects the buyer -- not just me -- and what compensation looks like in plain English. Make it sound like a real person, not a legal disclosure."
 
 Then have Claude play a skeptical buyer and push back. Practice until it feels like a conversation, not a pitch.
-
-See you next time.
 ---
 
 ## Social Copy

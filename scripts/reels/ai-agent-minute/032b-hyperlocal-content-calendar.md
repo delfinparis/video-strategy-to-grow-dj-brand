@@ -20,8 +20,6 @@ Use Perplexity to research your target neighborhoods -- new restaurants, school 
 Then bring it into Claude: "Build me a sixty-day hyperlocal content calendar using this research. Every post should position me as someone who actually lives and breathes this neighborhood -- not just sells houses in it."
 
 Being the neighborhood expert online isn't just a brand strategy. It's a lead generation engine that runs without ad spend.
-
-See you next time.
 ---
 
 ## Social Copy

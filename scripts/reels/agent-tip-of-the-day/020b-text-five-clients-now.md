@@ -17,8 +17,6 @@ Someone with half your knowledge and twice your hustle is closing your deal righ
 *[Agent Tip of the Day bumper]*
 
 Open your phone. Text five past clients this exact message: "Quick question -- who do you know thinking about moving in the next six months?" Send it before this video ends. That's forty-five seconds of work that beats four hours of planning.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -19,8 +19,6 @@ Your listing descriptions are costing you days on market.
 While you're copy-pasting "spacious kitchen" and "abundant natural light," agents using AI are selling faster. D.J. Paris fed his condo's details into an AI tool. Thirty seconds later he had copy that was emotionally resonant and specific. Result? Sold in two days.
 
 Every extra day your listing sits is another day a buyer questions the price. Take your weakest listing description right now. Run it through ChatGPT with: "Write this like you're selling a dream, not a house."
-
-See you next time.
 ---
 
 ## Social Copy

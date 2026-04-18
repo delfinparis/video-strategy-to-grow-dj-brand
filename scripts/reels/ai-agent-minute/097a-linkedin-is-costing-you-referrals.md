@@ -22,8 +22,6 @@ Most agent LinkedIn profiles read like a bad resume. Job title, brokerage name, 
 The professionals in your area who get transferred, inherit money, or get promoted -- they research agents on LinkedIn before Google.
 
 Try this: Open Claude and type "Rewrite my LinkedIn profile so agents in other markets actually want to send me referrals. Here's what I have now." Then paste it.
-
-See you next time.
 ---
 
 ## Social Copy

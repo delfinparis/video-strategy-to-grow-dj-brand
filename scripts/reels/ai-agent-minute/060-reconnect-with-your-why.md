@@ -20,8 +20,6 @@ Motivation runs out. Every single time. The agents who last aren't more motivate
 Set aside thirty minutes with Claude. Type: "Ask me these four questions and help me turn my answers into a personal mission statement: Why did I get into real estate? What does success actually give me? What would I regret most if I quit? Who am I doing this for?"
 
 Print what Claude builds. Put it where you'll see it on the hard days. Clarity about your why doesn't make hard days easy. It makes them worthwhile.
-
-See you next time.
 ---
 
 ## Social Copy

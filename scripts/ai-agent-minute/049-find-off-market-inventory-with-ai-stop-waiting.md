@@ -29,15 +29,12 @@ Off-market inventory is the most-asked-about buyer concern in tight markets; a t
 
 ## Full Script (Spoken)
 
-"There's nothing to show my buyers." That statement is costing you deals -- because it's not entirely true. [ON-SCREEN: "It's not entirely true"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+"There's nothing to show my buyers." That statement is costing you deals -- because it's not entirely true.
 Here's the real difference between agents who thrive in low inventory and agents who stall. The agents who keep producing aren't finding inventory that everyone else missed on the MLS. They're generating inventory -- through direct outreach, relationships, and strategies that most agents never try because the MLS makes it too easy to just wait.
-Most agents wait for listings to appear. Top producers go find them before they're listed. [ON-SCREEN: "Go find them before they're listed"]
-Here's the system. Ask Claude to build you a ten-point off-market inventory strategy for your specific market. Type: "Generate a strategy that includes: targeted letters to homeowners in specific neighborhoods who might consider selling, scripts for calling expireds from two and three years ago, an approach for connecting with probate attorneys and estate sale companies, and social media posts that attract would-be sellers who haven't listed yet." [ON-SCREEN: "10-point off-market strategy -- letters, expireds, probate, social"]
+Most agents wait for listings to appear. Top producers go find them before they're listed.
+Here's the system. Ask Claude to build you a ten-point off-market inventory strategy for your specific market. Type: "Generate a strategy that includes: targeted letters to homeowners in specific neighborhoods who might consider selling, scripts for calling expireds from two and three years ago, an approach for connecting with probate attorneys and estate sale companies, and social media posts that attract would-be sellers who haven't listed yet."
 Low inventory is the default excuse for slow business. It doesn't have to be yours.
-What's your best strategy for finding off-market inventory right now? Share it below -- let's crowdsource this. [ON-SCREEN: What's your best off-market strategy?]
-See you next time.
-
+What's your best strategy for finding off-market inventory right now? Share it below -- let's crowdsource this.
 ## Producer Note
 "Let's crowdsource this" in the CTA is a smart addition -- invites peer-to-peer sharing in the comments and increases engagement quality. The ten-point framework gives the tip real substance. No accuracy issues.
 

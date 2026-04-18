@@ -22,8 +22,6 @@ When business is slow, you prospect hard. When it picks up, you stop prospecting
 Most agents live in this cycle their entire career and never realize they're the ones causing it.
 
 Try this: Open Claude and type "Help me set a pipeline floor -- the minimum number of active conversations I need to never go through a dry spell again."
-
-See you next time.
 ---
 
 ## Social Copy

@@ -21,8 +21,6 @@ You wake up. Check your phone. Respond to clients. Show houses. Write contracts.
 Garrett Maroon -- top 1%, all referral-based -- asked himself one question that changed everything: "Are we going to live on purpose or on accident?"
 
 Do this tonight: Write down what you want your life to look like in three years. Not your business -- your life. Then ask if your current path leads there.
-
-See you next time.
 ---
 
 ## Social Copy

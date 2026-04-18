@@ -19,8 +19,6 @@ What if the rage isn't the problem? What if it's your body telling you that perf
 You've built a career. You don't need to prove you can do everything anymore.
 
 Tomorrow before 10am: find the listing photo you almost deleted because the lighting was off. Post it with this caption: "Not every listing is magazine-ready. Still sold."
-
-See you next time.
 ---
 
 ## Social Copy

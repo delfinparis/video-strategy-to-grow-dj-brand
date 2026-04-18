@@ -20,8 +20,6 @@ Every buyer problem you've ever dealt with -- the ghosting, the cold feet, the u
 Before any buyer consultation, give Claude their profile -- first-time buyer, price range, timeline, market. Then type: "Give me the ten most important questions to ask this buyer, the five market realities they need to hear before we start looking, and two scenarios where buyers like them typically get frustrated."
 
 Walk in with real structure. Not a blank stare. Save yourself thirty hours of frustration.
-
-See you next time.
 ---
 
 ## Social Copy

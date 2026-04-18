@@ -22,8 +22,6 @@ What looks like laziness is actually self-protection. When you conflate a "no" t
 And the sad part? Most of those "nos" had nothing to do with you at all.
 
 Here's what I'd do. Open Claude and type: "Help me reframe how I think about rejection in real estate. Give me a mental model that makes the next call easier."
-
-See you next time.
 ---
 
 ## Social Copy

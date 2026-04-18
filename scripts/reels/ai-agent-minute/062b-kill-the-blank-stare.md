@@ -22,8 +22,6 @@ Before filming, give Claude your topic and type: "Give me five possible opening 
 Then say it out loud three times. Not to be perfect. Just to hear yourself say the words.
 
 Claude gets you past the blank page so you can get past the blank stare.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -22,8 +22,6 @@ Post consistently for two weeks, run out of ideas, skip three days, feel guilty,
 This isn't a discipline problem. It's a content infrastructure problem. You built a posting habit without building a reserve. Most agents post from inspiration. Top producers post from inventory.
 
 Here's what I'd do. Open Claude and type: "Help me design a Sunday evening reset routine so Monday morning runs on autopilot."
-
-See you next time.
 ---
 
 ## Social Copy

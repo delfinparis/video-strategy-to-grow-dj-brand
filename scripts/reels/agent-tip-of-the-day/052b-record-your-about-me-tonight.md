@@ -17,8 +17,6 @@ Here's what an About Me video does: Before the consult, they've already heard yo
 *[Agent Tip of the Day bumper]*
 
 Tonight, open your phone's camera. Record three minutes. Who you are, why you do this, one story that proves it. Tomorrow morning, upload it to YouTube with your name in the title. Then text the link to your last three leads who went cold. That's the whole play.
-
-See you next time.
 ---
 
 ## Social Copy

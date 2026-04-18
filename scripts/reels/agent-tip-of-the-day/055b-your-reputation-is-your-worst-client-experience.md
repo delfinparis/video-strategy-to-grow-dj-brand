@@ -17,8 +17,6 @@ Your reputation isn't built on your biggest deal. It's built on your most incons
 *[Agent Tip of the Day bumper]*
 
 Pull your last ten clients. Honest question: if someone looked at your effort level across all ten, would they see one standard or two? If it's two, you already know what to fix. Text your lowest-price client right now and ask if they need anything. That's how you close the gap.
-
-See you next time.
 ---
 
 ## Social Copy

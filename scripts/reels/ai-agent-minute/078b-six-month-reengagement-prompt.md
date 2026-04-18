@@ -20,8 +20,6 @@ Want to revive dead leads tonight? Give Claude a lead's info -- area of interest
 Then type: "Write a six-touch, six-month re-engagement sequence. Each message provides real value -- a neighborhood update, a market insight, a useful tip. No message should ask if they're still looking."
 
 Every touch makes them think: this agent actually pays attention. Find five dead leads tonight and run this.
-
-See you next time.
 ---
 
 ## Social Copy

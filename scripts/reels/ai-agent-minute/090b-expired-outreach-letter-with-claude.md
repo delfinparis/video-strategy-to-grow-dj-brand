@@ -20,8 +20,6 @@ Want to actually convert expired listings? Give Claude the listing history -- da
 Then type: "Draft a personalized outreach letter that acknowledges their frustration, identifies three reasons similar homes sat on the market, and proposes a genuinely different approach. Don't sound confident. Sound thoughtful."
 
 Then ask for a follow-up call script that opens with a question -- not a pitch. Thoughtful beats confident every time with expired sellers.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -20,8 +20,6 @@ Your team's compensation model is either attracting the agents you want or quiet
 Here's the fix. Give Claude your cost per lead, close rate, average commission, per-agent overhead, and training investment. Then type: "Calculate the floor split where my team stays profitable, how it compares to market rates, and what a tiered structure looks like that rewards production growth."
 
 The best comp model isn't the most generous. It's the one that's sustainable and motivating at the same time.
-
-See you next time.
 ---
 
 ## Social Copy

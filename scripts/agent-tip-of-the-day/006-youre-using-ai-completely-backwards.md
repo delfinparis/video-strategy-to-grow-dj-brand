@@ -38,7 +38,7 @@ His rule: 'I use AI to clean up my thoughts instead of generate them.' Here's wh
 *Production: Screen recording: voice memo transcription being pasted into ChatGPT with prompt visible: 'Organize these thoughts, keep my voice.' Show before/after side by side. Highlight the preserved personality in the 'after.'*
 
 ### REFRAME (0:38-0:50)
-Because here's what nobody tells you -- the bottleneck isn't ideas. You have plenty of those. The bottleneck is turning the chaos in your head into something you can actually send. AI as a thought-cleaner? That's the unlock.
+Because here's what nobody tells you -- the bottleneck isn't ideas. You have plenty of those. The bottleneck is turning the chaos in your head into something you can actually send. AI as a thought-cleaner? That's the move.
 
 *Production: Close-up of Eithan speaking directly to camera. Cut to visual metaphor: cluttered desk transforming to organized workspace.*
 

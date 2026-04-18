@@ -20,8 +20,6 @@ Here's how to build a routine that works even on your worst days.
 Ask Claude: "Design my minimal viable daily routine -- five to eight specific actions that move my real estate business forward every day regardless of mood. Then give me an environment design checklist: reminders, calendar blocks, and friction-removal tactics that make my routine automatic, not optional."
 
 The goal isn't a perfect day. It's a consistent one. This takes twenty minutes to build and pays back for years. You don't need more motivation -- you need a routine that doesn't require any.
-
-See you next time.
 ---
 
 ## Social Copy

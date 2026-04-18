@@ -22,8 +22,6 @@ And every time you hear them, you say "of course, take your time" -- and you los
 The agents who handle this effortlessly aren't smarter. They just rehearsed more. Stop winging it.
 
 Here's what I'd do. Open Claude and type: "Give me the three most common buyer and seller objections and help me build a confident, natural response for each one."
-
-See you next time.
 ---
 
 ## Social Copy

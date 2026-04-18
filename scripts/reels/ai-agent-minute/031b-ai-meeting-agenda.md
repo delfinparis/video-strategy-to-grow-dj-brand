@@ -20,8 +20,6 @@ Before every team meeting, give Claude your team's weekly numbers, top three pri
 Prompt: "Generate a forty-five minute meeting agenda with: a wins celebration segment, a metrics review, one focused training topic, decision items that need the whole team, and specific next actions for each person. Make it tight -- no filler."
 
 Send it the day before so everyone comes prepared. Run to the agenda. End on time. A well-run meeting multiplies productivity. A bad one drains it.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -22,8 +22,6 @@ If you serve them at the same level as every other transaction, you're leaving m
 Most agents give everyone the same experience. Top producers give their best advocates a completely different one. Your best clients don't need more marketing. They need more appreciation.
 
 Here's what I'd do. Open Claude and type: "Help me design a VIP experience for my top 10 clients that keeps me unforgettable."
-
-See you next time.
 ---
 
 ## Social Copy

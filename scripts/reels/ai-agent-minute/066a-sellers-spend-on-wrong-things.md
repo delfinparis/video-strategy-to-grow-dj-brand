@@ -22,8 +22,6 @@ Most agents give sellers a general list of things to fix and hope for the best. 
 Most agents tell sellers what to do. Top producers give them a roadmap that makes it impossible to do it wrong.
 
 Here's what I'd do. Open Claude and type: "Build me a seller prep playbook that shows exactly where to spend money before listing -- and where not to."
-
-See you next time.
 ---
 
 ## Social Copy

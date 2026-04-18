@@ -19,8 +19,6 @@ You don't need another course. You need to stop preparing.
 Connie Mahan went from restaurant management to REALTOR of the Year in Central Florida. Her advice: "Get in and do and the rest will figure itself out."
 
 You take your first listing. You mess up the photos. You panic. You call someone. You learn. The agents who wait for perfect are still waiting. The ones who started messy? They're closing deals.
-
-See you next time.
 ---
 
 ## Social Copy

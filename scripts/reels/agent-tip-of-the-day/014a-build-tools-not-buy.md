@@ -21,8 +21,6 @@ I built a custom mortgage affordability calculator for my agents last month. 47 
 Do this tonight: Think of one tool your clients always ask about -- a closing cost estimator, a neighborhood comparison sheet, anything. Open ChatGPT and ask it to build it. Copy the code into Carrd. You'll have it live before bed.
 
 Your clients will think you hired a developer. Your competitors will wonder how you move so fast. And it cost you zero dollars.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -20,8 +20,6 @@ Want buyers who actually write offers instead of disappearing? Build a five-part
 Prompt: "Write five brief buyer education pieces in plain English. Topics: how offers work, what inspections tell you, how to handle counteroffers, what happens between contract and closing, and what to expect on closing day."
 
 Send one per week after the first consultation. Educated buyers close faster, stress less, and refer more.
-
-See you next time.
 ---
 
 ## Social Copy

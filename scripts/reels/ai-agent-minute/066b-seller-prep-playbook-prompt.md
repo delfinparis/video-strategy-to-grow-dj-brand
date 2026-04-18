@@ -20,8 +20,6 @@ Ask Claude to generate a Seller Prep Playbook for your market and price range.
 Type: "Include the ten highest-ROI improvements before listing, a room-by-room decluttering checklist, what buyers in my market care most about right now, and the three most common mistakes sellers make that quietly reduce their final sale price."
 
 Turn it into a clean PDF. Give it to every seller at the listing appointment. A prepared home sells faster and for more money. A prepared seller trusts you more.
-
-See you next time.
 ---
 
 ## Social Copy

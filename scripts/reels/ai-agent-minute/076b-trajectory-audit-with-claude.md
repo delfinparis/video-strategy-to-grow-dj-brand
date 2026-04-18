@@ -20,8 +20,6 @@ Instead of scrolling Instagram, try this. Open Claude and share your stats from 
 Then type: "Write me a progress narrative -- a paragraph showing how far I've actually come, grounded in these real numbers."
 
 Read that instead of scrolling. The only timeline that matters is yours.
-
-See you next time.
 ---
 
 ## Social Copy

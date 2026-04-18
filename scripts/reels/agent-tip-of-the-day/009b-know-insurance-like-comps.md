@@ -17,8 +17,6 @@ Know insurance like you know comps. If you can't name three carriers who'll writ
 *[Agent Tip of the Day bumper]*
 
 Call three insurance brokers this week. Ask what's actually insurable in your market right now. If you're not having this conversation before escrow, your competition is.
-
-See you next time.
 ---
 
 ## Social Copy

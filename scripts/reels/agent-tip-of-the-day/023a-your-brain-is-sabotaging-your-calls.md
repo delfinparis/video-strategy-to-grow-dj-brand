@@ -23,8 +23,6 @@ So every time you try something risky -- calling a cold lead, saying no to a 9pm
 You're not lazy. You're wired for survival.
 
 Do this tomorrow morning: Make one prospecting call before you check email. Break the avoidance pattern before your brain has time to build it.
-
-See you next time.
 ---
 
 ## Social Copy

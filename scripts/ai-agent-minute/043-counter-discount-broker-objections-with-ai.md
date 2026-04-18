@@ -29,16 +29,13 @@ Discount broker pressure is real and growing; agents need language and Claude pr
 
 ## Full Script (Spoken)
 
-Your prospect just said "We're thinking of using Redfin -- it's cheaper." Here's what most agents say wrong. [ON-SCREEN: "Here's what most agents say wrong"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Your prospect just said "We're thinking of using Redfin -- it's cheaper." Here's what most agents say wrong.
 The moment you get defensive about your fee, you've already lost. You've framed this as a price debate -- and in a price debate, cheaper wins. You should never have to defend your commission. You should make the value of full representation so clear that the price comparison becomes irrelevant.
-Most agents defend what they charge. Top producers demonstrate what they deliver. [ON-SCREEN: "Defend what you charge vs. demonstrate what you deliver"]
-Here's how to build that demonstration. Use Perplexity to pull data on discount versus full-service agents in your market -- list-to-sale price ratios, average days on market, buyer satisfaction scores. Then bring that into Claude and type: "Write me a two-minute response to the Redfin objection that's entirely data-driven, never defensive, and always focused on the client's outcome -- not my commission." [ON-SCREEN: "Data-driven. Never defensive. Always about their outcome."]
+Most agents defend what they charge. Top producers demonstrate what they deliver.
+Here's how to build that demonstration. Use Perplexity to pull data on discount versus full-service agents in your market -- list-to-sale price ratios, average days on market, buyer satisfaction scores. Then bring that into Claude and type: "Write me a two-minute response to the Redfin objection that's entirely data-driven, never defensive, and always focused on the client's outcome -- not my commission."
 Practice it until you can deliver it without a single note.
 The agents who lose to discount brokers talk about price. The agents who win talk about results.
 Have you ever lost a client to a discount brokerage?
-See you next time.
-
 ## Producer Note
 The "defend vs. demonstrate" contrast line is the sharpest in this script -- make it the on-screen callout. Market data availability via Perplexity will vary by location -- caveat that agents should verify what's available in their specific market before filming. Pairs with Scripts #11 and #42 for a "defending your value" mini-series.
 

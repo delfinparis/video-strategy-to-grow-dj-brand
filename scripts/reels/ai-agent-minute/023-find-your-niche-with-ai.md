@@ -22,8 +22,6 @@ When you try to serve everyone, you're memorable to no one. A niche doesn't shri
 Ask Claude: "Help me find my niche. Ask me: What clients do I enjoy most? What neighborhoods do I know best? What life transition do I understand deeply -- divorce, relocation, first-time buyers? What does my best client look like?" Give honest answers. Let Claude find the patterns.
 
 Be the obvious choice for someone -- not an option for everyone.
-
-See you next time.
 ---
 
 ## Social Copy

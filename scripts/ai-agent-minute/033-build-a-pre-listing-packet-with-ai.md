@@ -29,16 +29,13 @@ Pre-listing packets are a known best practice that most agents skip; Claude buil
 
 ## Full Script (Spoken)
 
-The listing appointment starts before you ring the doorbell. Most agents don't know that. [ON-SCREEN: "Starts before you ring the doorbell"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+The listing appointment starts before you ring the doorbell. Most agents don't know that.
 Here's what the seller is doing right now. They Googled you, they looked at your reviews, and they've formed an opinion. They also have three other agents coming this week. Most agents show up with a folder and a CMA and start from zero -- trying to build credibility in forty-five minutes while simultaneously trying to close the listing. That's a hard way to win.
-The agents who consistently win listings change the dynamic before they arrive. [ON-SCREEN: "They change the dynamic before they arrive"]
-Here's how. Two days before any listing appointment, email the seller a pre-listing packet built with Claude. Type: "Create a pre-listing packet I can send two days before a listing appointment. Include: my bio written as a compelling story -- not a credential list, the comparable sales framing my pricing approach, three testimonials from sellers in similar situations, a one-page overview of my marketing process, and the five questions I'll be asking them during the appointment." [ON-SCREEN: "Bio + comps + testimonials + marketing overview + your 5 questions"]
+The agents who consistently win listings change the dynamic before they arrive.
+Here's how. Two days before any listing appointment, email the seller a pre-listing packet built with Claude. Type: "Create a pre-listing packet I can send two days before a listing appointment. Include: my bio written as a compelling story -- not a credential list, the comparable sales framing my pricing approach, three testimonials from sellers in similar situations, a one-page overview of my marketing process, and the five questions I'll be asking them during the appointment."
 The seller reads this before you arrive. By the time you ring the doorbell, they already feel like they know you.
 You're not walking in for an audition. You're walking in for a conversation. That's a completely different appointment.
 Do you send anything to sellers before you arrive?
-See you next time.
-
 ## Producer Note
 "Not an audition -- a conversation" is the clearest articulation of the value here. Top-15 candidate -- this is an immediately actionable, differentiated tactic most agents have never tried. Film in the first half of the series.
 

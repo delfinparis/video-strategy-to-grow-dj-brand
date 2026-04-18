@@ -19,8 +19,6 @@ If you want different results, you don't need another motivational speech. You n
 Tomorrow morning, before you check email, open your CRM. Find three clients you haven't talked to in 90 days. Call the first one. Not to sell -- just to check in.
 
 One call. Tomorrow. Do it.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -20,8 +20,6 @@ The listing appointment is won before you ever walk in the door. That seller has
 Here's what top listing agents do the night before. Give Claude the property address, neighborhood comps, and the seller's name. Then type: "Generate the five most likely objections I'll face at this specific listing appointment, a response to each one, and three value-differentiators specific to this property and neighborhood."
 
 Walk in knowing what they'll push back on -- with your answer already ready. Fifteen minutes of prep. Highest-ROI fifteen minutes in listing sales.
-
-See you next time.
 ---
 
 ## Social Copy

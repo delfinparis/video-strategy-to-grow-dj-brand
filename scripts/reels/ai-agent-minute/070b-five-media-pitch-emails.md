@@ -19,9 +19,7 @@ Ask Claude: "Draft five targeted media pitch emails positioning me as a local re
 
 Each pitch should offer a specific, timely angle. Not "I'm a great agent" -- "here's the take I can give you on the rate environment right now."
 
-Send all five this week. One yes permanently elevates your profile.
-
-See you next time.
+Send all five this week. One yes permanently raises your profile.
 ---
 
 ## Social Copy

@@ -29,16 +29,13 @@ Burnout recognition is a permission-slip script; agents rarely acknowledge this 
 
 ## Full Script (Spoken)
 
-Burnout in real estate doesn't announce itself. It sneaks up on you -- and by the time you notice, you're already three months deep. [ON-SCREEN: "By the time you notice, you're already three months deep"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Burnout in real estate doesn't announce itself. It sneaks up on you -- and by the time you notice, you're already three months deep.
 Here's what it actually looks like before you call it burnout. You're still showing up. You're still closing deals. But you're getting shorter with clients. You're procrastinating on calls you used to make without thinking. You're dreading Sunday nights in a way you didn't two years ago. You're grinding -- but the engine sounds different.
-Most agents push through those signals because they always have. That's exactly how a career ends quietly. [ON-SCREEN: "That's exactly how a career ends quietly"]
-Here's a simple thing that helps. Use Claude as a weekly mental check-in. Every Sunday, type: "I'm going to answer five questions about my week. Ask me: What drained my energy? What energized me? What am I avoiding? What do I resent? What would I change if I could? Then summarize any patterns you see across four weeks." [ON-SCREEN: "5 weekly questions → 4-week pattern summary"]
+Most agents push through those signals because they always have. That's exactly how a career ends quietly.
+Here's a simple thing that helps. Use Claude as a weekly mental check-in. Every Sunday, type: "I'm going to answer five questions about my week. Ask me: What drained my energy? What energized me? What am I avoiding? What do I resent? What would I change if I could? Then summarize any patterns you see across four weeks."
 You can't fix what you refuse to see. And you can't see it if you never stop to look.
 Taking care of yourself isn't soft. It's the most strategic thing you can do for the business you built.
-Scale of one to ten -- how energized are you about your business right now? Be honest below. [ON-SCREEN: How energized are you -- 1 to 10?]
-See you next time.
-
+Scale of one to ten -- how energized are you about your business right now? Be honest below.
 ## Producer Note
 The mirror moment ("shorter with clients, dreading Sunday nights, grinding but the engine sounds different") is precise and will resonate deeply with veteran agents. The 1 -- 10 CTA is frictionless and will generate high response volume. Film during a mindset week -- not a skills week, this tone is different.
 

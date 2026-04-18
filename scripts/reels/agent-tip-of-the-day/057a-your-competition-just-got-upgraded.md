@@ -19,8 +19,6 @@ One company now controls one in five agents in America.
 Compass just acquired Anywhere Real Estate. That's 300,000 agents -- Century 21, Coldwell Banker, Corcoran, ERA -- all under one system. Chris Linsell, real estate tech analyst, puts it this way: Bob at Century 21 isn't just Bob anymore. He's got AI writing his listings, automated follow-ups, and a design team cranking out his content. You're not competing against Bob. You're competing against Bob plus a tech team he doesn't even pay for.
 
 Do this today: Learn one new AI tool or feature you haven't tried. The agents who adapt first don't just survive -- they lead.
-
-See you next time.
 ---
 
 ## Social Copy

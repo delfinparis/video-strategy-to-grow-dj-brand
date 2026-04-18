@@ -22,8 +22,6 @@ Include week-by-week training milestones, a system-by-system resource checklist,
 Claude builds the first draft in minutes. You refine it once. Every new agent gets the same structured experience from day one.
 
 Onboarding isn't HR. It's your retention strategy.
-
-See you next time.
 ---
 
 ## Social Copy

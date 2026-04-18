@@ -22,8 +22,6 @@ Ask Claude: "Build me a reusable investment property analysis template that calc
 Then use Perplexity to pull current rental comps for any specific property -- takes four minutes. Attach this analysis to every investor presentation.
 
 You become the first agent they call. Not because you're luckier -- because you show up with the numbers. AI helps you speak investor without a finance degree.
-
-See you next time.
 ---
 
 ## Social Copy

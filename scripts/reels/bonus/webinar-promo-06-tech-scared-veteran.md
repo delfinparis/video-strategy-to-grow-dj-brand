@@ -14,7 +14,7 @@ registration_url: "keepingitrealwebinar.com"
 
 > **On-Screen Text (0:00):** "AI isn't for me. I'm not a tech person."
 
-## Script (Direct to camera -- warm, reassuring, then empowering)
+## Script (Direct to camera -- warm, reassuring, then encouraging)
 
 "AI isn't for me. I'm not a tech person." I hear this every single week from agents who've been in the business 10, 15, 20 years. Agents who've built incredible careers on relationships and referrals. And I get it -- the tech world feels like it's speaking a different language.
 
@@ -60,5 +60,5 @@ Code REAL. keepingitrealwebinar.com. First 200 free. Link in bio.
 **Hashtags:** #RealEstateAI #AIForRealtors #RealEstateVeteran #RealEstateAgent #RelationshipMarketing #NeverStopLearning
 
 ### LinkedIn
-**Caption:** The most common thing I hear from experienced agents: "AI isn't for me." But if you've built a career on relationships, AI doesn't replace that -- it supercharges it. Maintaining 500 contacts without dropping one. Personalized follow-ups at scale. On April 7th, I'm hosting a free live event -- five strategies, no jargon, built for agents at every tech comfort level. First 200 free. Code REAL at keepingitrealwebinar.com.
+**Caption:** The most common thing I hear from experienced agents: "AI isn't for me." But if you've built a career on relationships, AI doesn't replace that -- it amplifies it. Maintaining 500 contacts without dropping one. Personalized follow-ups at scale. On April 7th, I'm hosting a free live event -- five strategies, no jargon, built for agents at every tech comfort level. First 200 free. Code REAL at keepingitrealwebinar.com.
 **Hashtags:** #RealEstateAI #AIForRealtors #RealEstate #RelationshipBuilding #ProfessionalDevelopment

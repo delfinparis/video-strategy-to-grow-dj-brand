@@ -29,16 +29,13 @@ Data-driven but requires agents to have enough history to audit; better as mid-s
 
 ## Full Script (Spoken)
 
-Most agents have no idea which of their lead sources actually makes them money -- they're genuinely guessing with their own business. [ON-SCREEN: "Most agents are guessing with their own business"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Most agents have no idea which of their lead sources actually makes them money -- they're genuinely guessing with their own business.
 Here's the uncomfortable question. If someone asked you right now for your cost per closed deal by lead source -- Zillow, Facebook, farming, referrals -- could you answer? In twelve years of talking to agents on my podcast, the honest answer is almost always no. And without that number, every marketing decision is a coin flip.
-That means you could be spending thousands on sources that never close -- and not even know it. [ON-SCREEN: "You could be spending thousands on sources that never close"]
-Here's the fix. Export your last twenty-four months of closed deals from your CRM -- include the lead source field. Paste it into Claude and type: "Analyze these lead sources by volume, conversion rate, and average commission. Which source has the best ROI -- and which should I cut immediately?" [ON-SCREEN: "Which source has the best ROI -- and which should I cut?"]
+That means you could be spending thousands on sources that never close -- and not even know it.
+Here's the fix. Export your last twenty-four months of closed deals from your CRM -- include the lead source field. Paste it into Claude and type: "Analyze these lead sources by volume, conversion rate, and average commission. Which source has the best ROI -- and which should I cut immediately?"
 Claude will find patterns you've been too busy to spot.
 Top producers don't spend more on leads. They spend smarter -- because they track everything. You can run this audit tonight in under thirty minutes.
 When's the last time you audited your lead source ROI?
-See you next time.
-
 ## Producer Note
 The podcast credibility signal ("twelve years talking to agents") is naturally deployed here -- keep it. Requires agents to have CRM data with lead source fields -- consider adding a one-liner caveat for agents whose CRM tracking is incomplete.
 

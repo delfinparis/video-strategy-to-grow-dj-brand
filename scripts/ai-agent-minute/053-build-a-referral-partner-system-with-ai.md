@@ -29,15 +29,12 @@ Referral partner relationships are the most scalable lead source; systematic out
 
 ## Full Script (Spoken)
 
-The best lead you can get is one that comes from a professional who already vouches for you. Most agents have no system for building those relationships. [ON-SCREEN: "No system for building those relationships"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+The best lead you can get is one that comes from a professional who already vouches for you. Most agents have no system for building those relationships.
 Here's the problem with how most agents approach referral partners. They think about them when they need a referral -- not when they can give one. So every interaction feels transactional. The lender, the attorney, the financial advisor all pick up the phone, feel the ask coming, and quietly keep their referrals to themselves. A one-way relationship isn't a relationship. It's a network of people who don't call you back.
-Most agents ask for referrals. Top producers build referral relationships -- which is a completely different thing. [ON-SCREEN: "Asking for referrals vs. building referral relationships"]
-Here's the system. Give Claude a list of the professional types you want as referral partners -- lenders, divorce attorneys, estate attorneys, financial advisors, relocation coordinators. Type: "Build a twelve-month referral partner outreach plan. Include a first-contact message for each professional type, a quarterly value-add touchpoint sequence, and a 'value calendar' of things I can give each partner before I ever ask for a referral." [ON-SCREEN: "First contact + quarterly touchpoints + value calendar before any ask"]
+Most agents ask for referrals. Top producers build referral relationships -- which is a completely different thing.
+Here's the system. Give Claude a list of the professional types you want as referral partners -- lenders, divorce attorneys, estate attorneys, financial advisors, relocation coordinators. Type: "Build a twelve-month referral partner outreach plan. Include a first-contact message for each professional type, a quarterly value-add touchpoint sequence, and a 'value calendar' of things I can give each partner before I ever ask for a referral."
 Referral relationships are built on giving, not asking. AI helps you systematize the giving so the asking never feels like a burden.
 Who's your most reliable referral source right now?
-See you next time.
-
 ## Producer Note
 The "network of people who don't call you back" line is sharp and true -- keep it. The "value calendar before any ask" framing is the specific element that differentiates this from generic networking advice. No accuracy issues.
 

@@ -22,8 +22,6 @@ You're still showing up. Still closing deals. But you're getting shorter with cl
 Most agents push through those signals because they always have. That's exactly how a career ends quietly.
 
 Here's what I'd do. Open Claude and type: "Help me build a weekly burnout check-in -- five questions I answer every Friday to catch problems before they become crises."
-
-See you next time.
 ---
 
 ## Social Copy

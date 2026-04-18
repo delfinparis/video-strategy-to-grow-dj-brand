@@ -20,8 +20,6 @@ Pick one process. Your listing appointment workflow. Do a voice brain dump into 
 Paste it into Claude: "Turn this into a clean step-by-step SOP with a checklist I can hand to an assistant or follow myself."
 
 Do one process a week. In ten weeks, you have a documented business. Written systems make your business sellable, scalable, and survivable. AI makes building them take thirty minutes.
-
-See you next time.
 ---
 
 ## Social Copy

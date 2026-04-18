@@ -19,8 +19,6 @@ No pitch. No objection handling. No convincing someone you're worth the commissi
 That's the difference between interruption marketing and being the answer to someone's search.
 
 What's the one question buyers in your market are Googling right now? Make a video answering it. That's your first YouTube lead.
-
-See you next time.
 ---
 
 ## Social Copy

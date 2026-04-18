@@ -2,18 +2,18 @@
 series: "AI Agent Minute"
 original_script: "022"
 reel_number: 1 of 2
-title: "Stop Fixing What's Broken -- Double Down on What's Working"
+title: "Stop Fixing What's Broken -- Go Deeper on What's Working"
 target_duration: "24 seconds"
 ai_tool: "Claude"
 ---
 
-# Stop Fixing What's Broken -- Double Down on What's Working
+# Stop Fixing What's Broken -- Go Deeper on What's Working
 
-> **On-Screen Text:** Almost none double down on what's right
+> **On-Screen Text:** Almost none go deeper on what's right
 
 ## Script (Spoken)
 
-Most agents spend all their energy fixing what's wrong. Almost none spend time doubling down on what's right.
+Most agents spend all their energy fixing what's wrong. Almost none spend time going deeper on what's right.
 
 *[AI Agent Minute bumper]*
 
@@ -22,8 +22,6 @@ The two or three things quietly working in your business -- the lead source that
 Most agents grow by adding new things. Top producers often grow by doing more of what already works. Growth doesn't always come from something new.
 
 Try this: Open Claude and type "Here's everything I do in my real estate business. " Then list it all.
-
-See you next time.
 ---
 
 ## Social Copy
@@ -37,7 +35,7 @@ See you next time.
 **Hashtags:** #RealEstateAgent #BusinessStrategy #RealtorLife #GrowthMindset
 
 ### YouTube Shorts
-**Title:** Stop Fixing What's Broken -- Double Down on What's Working
+**Title:** Stop Fixing What's Broken -- Go Deeper on What's Working
 **Description:** What if the answer isn't a new strategy -- but more of what's already working? Most agents never audit their wins.
 **Hashtags:** #RealEstateAgent #BusinessStrategy #RealtorLife #GrowthMindset #RealEstateBusiness
 

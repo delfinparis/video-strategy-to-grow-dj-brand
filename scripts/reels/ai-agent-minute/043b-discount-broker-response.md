@@ -20,8 +20,6 @@ Use Perplexity to pull data on discount versus full-service agents in your marke
 Then tell Claude: "Write me a two-minute response to the Redfin objection that's entirely data-driven, never defensive, and always focused on the client's outcome -- not my commission."
 
 Practice it until you can deliver it without a single note. The agents who lose to discount brokers talk about price. The agents who win talk about results.
-
-See you next time.
 ---
 
 ## Social Copy

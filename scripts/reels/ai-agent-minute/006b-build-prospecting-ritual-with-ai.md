@@ -20,8 +20,6 @@ Here's how to never skip prospecting again.
 Ask Claude: "Design my thirty-minute morning prospecting ritual with a two-minute mindset warm-up, a realistic daily target, a script refresh for the first call so I don't start cold, a win tracker that counts conversations not just appointments, and a two-minute debrief."
 
 Same process, same time, every morning. Consistency builds confidence faster than any motivation hack. This takes fifteen minutes to build in Claude. Do it today.
-
-See you next time.
 ---
 
 ## Social Copy

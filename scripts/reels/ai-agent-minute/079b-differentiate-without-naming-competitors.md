@@ -20,8 +20,6 @@ Once you've researched your listing appointment competition, here's the next mov
 Take what you found into Claude and type: "Given how this competitor positions themselves, give me three specific ways I can differentiate in my listing presentation without ever mentioning them by name."
 
 You walk in knowing things they don't know you know. That's how top producers win listing appointments consistently.
-
-See you next time.
 ---
 
 ## Social Copy

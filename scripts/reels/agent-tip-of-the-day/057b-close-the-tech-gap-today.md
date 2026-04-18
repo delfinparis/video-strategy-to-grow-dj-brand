@@ -17,8 +17,6 @@ If your competition just got AI tools, automated follow-ups, and a marketing eng
 *[Agent Tip of the Day bumper]*
 
 Here's what you do today. Open your CRM. If you don't have automated follow-up running for every lead, set up one sequence before tomorrow. Start with past clients who closed twelve or more months ago. Three emails, two weeks apart. That's the gap you close first. One sequence. Do it today.
-
-See you next time.
 ---
 
 ## Social Copy

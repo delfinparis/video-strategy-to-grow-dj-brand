@@ -29,16 +29,12 @@ Pricing conversations are the single most feared skill for new agents; AI rolepl
 
 ## Full Script (Spoken)
 
-The most expensive conversation in real estate isn't about commission. It's about price -- and most agents are too afraid to have it. [ON-SCREEN: "Most agents are too afraid to have it"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+The most expensive conversation in real estate isn't about commission. It's about price -- and most agents are too afraid to have it.
 Here's the costly cycle most agents stay stuck in. An agent overprices a listing because they're afraid to lose the appointment by telling the seller the truth. The house sits for ninety days. The seller blames the agent. The listing expires. Everyone loses months they can't get back.
-And the agent does it again at the next appointment -- because they still haven't built the courage to say what the comps actually say. [ON-SCREEN: "They still haven't built the courage to say what the comps say"]
-Here's how you build it before the appointment. Tell Claude: "Act as a seller who believes their home is worth fifty thousand more than the comps support, and who is emotionally attached to every inch of it. I need to walk you toward the right price without losing the listing. Push back exactly the way they would." [ON-SCREEN: "Act as a seller who believes their home is worth $50k more than comps"]
+And the agent does it again at the next appointment -- because they still haven't built the courage to say what the comps actually say.
+Here's how you build it before the appointment. Tell Claude: "Act as a seller who believes their home is worth fifty thousand more than the comps support, and who is emotionally attached to every inch of it. I need to walk you toward the right price without losing the listing. Push back exactly the way they would."
 Run this every week. Ten minutes. By the time you're in the real conversation, the words come naturally.
 Telling a seller the truth about price is the most valuable thing you can do for them. AI helps you find the nerve to do it.
-
-See you next time.
-
 ## Producer Note
 Runs slightly long -- cut "every inch of it" and "Ten minutes" section if needed. The CTA with "I'm not judging" will drive high, vulnerable comments -- respond to these personally for max engagement. Top-10 candidate.
 

@@ -22,8 +22,6 @@ They're not unhappy. They're busy, don't know what to say, and nobody made it si
 Most agents hope clients leave reviews. Top producers make leaving a review the easiest thing the client does all week.
 
 Try this: Open Claude and type "Build me a review request system with exact timing and message templates for every closing."
-
-See you next time.
 ---
 
 ## Social Copy

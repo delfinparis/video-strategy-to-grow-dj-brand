@@ -21,8 +21,6 @@ Garrett Maroon built a top 1% business in Virginia. Then his daughter asked why 
 His volume dropped from 47 deals to 32. But he coached every one of his son's baseball games. And made more per transaction.
 
 Do this tonight: Write down the one area of your life that's suffering because of your business. Acknowledging it is step one.
-
-See you next time.
 ---
 
 ## Social Copy

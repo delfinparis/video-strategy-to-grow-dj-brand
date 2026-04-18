@@ -19,8 +19,6 @@ The agents who work the most aren't the ones who earn the most. The ones who des
 Garrett mapped his ideal week first -- family dinners, gym, date nights -- then built his client systems around that. Fewer transactions. Higher income. Actual life outside real estate.
 
 You're not lazy for wanting boundaries. You're strategic.
-
-See you next time.
 ---
 
 ## Social Copy

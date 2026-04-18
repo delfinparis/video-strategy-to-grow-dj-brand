@@ -22,8 +22,6 @@ Ask Perplexity for the top five real estate news stories from the past week -- n
 You start every week fully briefed. You become the agent who always knows what's happening -- because you built a system to make sure you do.
 
 Twenty minutes. Every Monday. That's the whole investment.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -20,8 +20,6 @@ Here's how to stop guessing with your marketing budget. Every quarter, bring Cla
 Type: "Allocate my budget across channels based on my production stage, target client type, and conversion history."
 
 Then build a simple tracker -- lead source, cost, leads generated, closings attributed, ROI. Review it every ninety days. Let the data decide where next quarter's budget goes. Not your gut.
-
-See you next time.
 ---
 
 ## Social Copy

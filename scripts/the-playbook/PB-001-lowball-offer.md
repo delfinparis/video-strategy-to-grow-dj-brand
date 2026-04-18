@@ -22,21 +22,21 @@ status: "ready"
 ## Script (~45 seconds)
 
 ### SCENARIO (0:00-0:04)
-You just got a lowball offer on your listing. Your seller is insulted. You are frustrated. Here's the play. [ON-SCREEN: "Here's the play."]
+You just got a lowball offer on your listing. Your seller is insulted. You are frustrated. Here's the play.
 
 ### DON'T (0:04-0:10)
-Don't fire back with an angry counter. Don't reject it. Don't write a passive-aggressive note. All three feel good for ten seconds and damage the deal for the rest of its life. [ON-SCREEN: "Don't counter angry."]
+Don't fire back with an angry counter. Don't reject it. Don't write a passive-aggressive note. All three feel good for ten seconds and damage the deal for the rest of its life.
 
 ### DO (0:10-0:30)
 Instead, text the buyer's agent this exact phrase: "My seller is curious what brought your buyer to this number. Anything we should know?"
 
-That's it. No counter yet. No emotion. Just the question. [ON-SCREEN: "My seller is curious what brought your buyer to this number."]
+That's it. No counter yet. No emotion. Just the question.
 
 ### WHY (0:30-0:42)
 Here's what that does. You're not negotiating. You're asking the other agent to teach their own client why the offer is weak. More often than not, the buyer's agent comes back quickly with context, with a softening, or with a real number. You move the conversation without spending any of your own leverage.
 
 ### TRY THIS (0:42-0:50)
-Try it on your next lowball. [ON-SCREEN: "Try it on your next lowball."]
+Try it on your next lowball.
 
 **Estimated Duration:** ~50 seconds
 

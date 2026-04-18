@@ -22,8 +22,6 @@ Splits, taxes, marketing, software, mileage, staging, referral fees -- a two-hun
 Here's the fix. Give Claude your last twelve months of income and expenses. Type: "Calculate my real net profit per deal and per year. What are my highest-cost line items? Where am I spending money that isn't generating a return?"
 
 Then make one decision based on what you find. Just one. Revenue is vanity. Profit is sanity.
-
-See you next time.
 ---
 
 ## Social Copy

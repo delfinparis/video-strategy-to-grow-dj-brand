@@ -22,8 +22,6 @@ You have dozens of happy past clients who would refer you in a heartbeat -- if y
 The problem isn't asking. It's asking with no context, no specificity, and no story about who you're trying to help.
 
 Try this: Open Claude and type "Write me five referral request messages that don't sound desperate -- one for each type of client relationship."
-
-See you next time.
 ---
 
 ## Social Copy

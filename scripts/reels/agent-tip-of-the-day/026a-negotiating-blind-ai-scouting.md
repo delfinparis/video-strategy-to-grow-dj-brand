@@ -21,8 +21,6 @@ Tim Burrell -- attorney, RE/MAX Hall of Fame -- feeds AI the other agent's name 
 How aggressive they counter. What concessions they make. Where they cave. As Tim puts it: "It's like walking into a poker game knowing everyone's tells."
 
 Do this before your next negotiation: Spend 15 minutes researching the other side. Their agent's recent deals, the seller's timeline -- anything that gives you leverage.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -22,8 +22,6 @@ Most agents collect sign-in sheets, send a generic "thanks for stopping by" emai
 After your open house, type quick notes about each visitor into Claude -- what they said, what caught their eye. Then: "Write a personalized follow-up for each visitor that references our specific conversation and includes a tailored listing recommendation."
 
 Not a template. A message that makes them think: this agent remembered me.
-
-See you next time.
 ---
 
 ## Social Copy

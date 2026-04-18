@@ -20,8 +20,6 @@ You accidentally trained your clients to treat your time as free. The more avail
 Here's the fix. Ask Claude: "Write a warm, professional one-page document that sets clear response time standards, defines what's a real emergency versus what can wait, and explains how I work best. Make it feel like a system -- not a boundary."
 
 Send it to every new client at the start. It's not a boundary. It's a system. And systems are how great agents protect the time that makes them great.
-
-See you next time.
 ---
 
 ## Social Copy

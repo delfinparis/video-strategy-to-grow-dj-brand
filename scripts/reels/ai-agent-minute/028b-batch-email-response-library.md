@@ -20,8 +20,6 @@ Batch your email to two windows -- ten AM and four PM. Nothing in between.
 Then spend thirty minutes with Claude building your response library. Prompt: "Write twenty of my most common email responses -- client updates, offer acknowledgments, vendor coordination, meeting confirmations -- in a warm, professional tone that sounds like me."
 
 Save them. Customize each one in thirty seconds. Your inbox now takes minutes, not your entire morning.
-
-See you next time.
 ---
 
 ## Social Copy

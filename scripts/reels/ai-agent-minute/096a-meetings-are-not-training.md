@@ -22,8 +22,6 @@ Most team leaders run "training" as a weekly meeting where they talk and agents 
 Real skill development requires structured practice, written frameworks agents can reference after, and clear benchmarks. Every skill gap that doesn't close is a deal that doesn't close.
 
 Here's what I'd do. Open Claude and type: "Design three 20-minute training modules my agents can complete on their own -- prospecting, presentations, and negotiations."
-
-See you next time.
 ---
 
 ## Social Copy

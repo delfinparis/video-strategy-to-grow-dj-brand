@@ -20,8 +20,6 @@ Break the feast-or-famine cycle by building a "pipeline floor" -- the minimum pr
 Tell Claude: "If I want a floor of two closings every month, what is the minimum daily prospecting calls, weekly appointments, and monthly new lead adds I need to maintain consistently -- starting today?"
 
 Then ask Claude to block that activity into your weekly schedule. The busy season is exactly when you must protect your prospecting time. That's the only thing that ends the cycle.
-
-See you next time.
 ---
 
 ## Social Copy

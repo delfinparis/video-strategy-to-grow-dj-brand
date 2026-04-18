@@ -17,8 +17,6 @@ If you've been telling yourself you're "just not a video person" -- you're not w
 *[Agent Tip of the Day bumper]*
 
 Here's your assignment. Open your notes app. Write one sentence that starts with "Most agents don't tell buyers that..." and finish it with something true about your market this week. Tomorrow at 9 AM, stand in the place that sentence is about, hit record, and say it out loud. That's video one.
-
-See you next time.
 ---
 
 ## Social Copy

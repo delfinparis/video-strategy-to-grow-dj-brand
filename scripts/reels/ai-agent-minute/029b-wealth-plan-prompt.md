@@ -22,8 +22,6 @@ Sit down with Claude for a wealth planning session. Give it your average annual 
 Prompt: "Outline the minimum I should set aside for taxes each month, a basic investment framework for self-employed agents, and strategies to convert commission income into lasting wealth."
 
 This is general direction, not financial advice -- but it's the conversation most agents never start.
-
-See you next time.
 ---
 
 ## Social Copy

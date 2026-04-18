@@ -19,8 +19,6 @@ Gen Z closed 30% more purchases last year than the year before. They're buying -
 Tonight: open Instagram. Record one 30-second video walking through a neighborhood -- the coffee shop, the dog park, the bike lane. Post it with: "DM me for the full tour."
 
 If you get three DMs by tomorrow, you just found your Gen Z strategy.
-
-See you next time.
 ---
 
 ## Social Copy

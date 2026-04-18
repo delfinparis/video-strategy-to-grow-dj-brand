@@ -20,8 +20,6 @@ Spend one hour with Claude. Type: "Run me through a complete annual business pla
 The "ask me as you go" part is the key. It turns Claude into a planning partner, not a template generator.
 
 Print it. Review monthly. Adjust quarterly.
-
-See you next time.
 ---
 
 ## Social Copy

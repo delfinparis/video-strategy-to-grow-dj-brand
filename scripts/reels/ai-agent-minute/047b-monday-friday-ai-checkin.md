@@ -20,8 +20,6 @@ Every Monday morning, open Claude and type your three commitments for the week -
 Friday, come back and tell Claude exactly what you did. Prompt: "Give me honest, direct feedback on my follow-through this week and help me understand why I dropped the ball on anything I didn't complete."
 
 No judgment. No coaching fees. Just clarity. You don't need a cheerleader. You need something that remembers what you promised and asks you about it. Claude does that at zero cost.
-
-See you next time.
 ---
 
 ## Social Copy

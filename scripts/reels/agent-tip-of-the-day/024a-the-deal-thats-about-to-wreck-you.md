@@ -21,8 +21,6 @@ Michael Thornton does $30 million a year. He told me: "The biggest threat to you
 Here's his fix: Write down three daily non-negotiables -- calls, follow-ups, CRM updates -- and do them every single day regardless of how you feel. Tape them to your monitor. Win or lose, the list doesn't change.
 
 What happens is your pipeline stops swinging. Three months from now, you'll have consistent closings instead of rollercoaster months -- because you stopped letting emotions run your schedule.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -20,8 +20,6 @@ Here's how to know if it's time to hire.
 List every task you did last week and how long each one took. Give that to Claude and type: "Sort these into tasks that require my expertise versus tasks a part-time assistant could handle. Estimate the cost of hiring someone for the second category -- and the opportunity cost of me continuing to do them myself."
 
 The math will tell you if it's time. Your first hire isn't a cost. It's the investment that turns you from an agent into a business owner.
-
-See you next time.
 ---
 
 ## Social Copy

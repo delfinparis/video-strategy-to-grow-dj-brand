@@ -21,8 +21,6 @@ Retirees comparing Phoenix, Boise, and Raleigh. Investors asking about cap rates
 Real estate tech analyst Chris Linsell says it's time for a national MLS. But smart agents aren't waiting. They're building their own.
 
 Here's your move: Find one agent in a market your buyers keep asking about. Send them a DM today. That's your referral network starting.
-
-See you next time.
 ---
 
 ## Social Copy

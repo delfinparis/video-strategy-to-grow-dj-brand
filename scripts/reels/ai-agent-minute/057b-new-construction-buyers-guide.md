@@ -20,8 +20,6 @@ Want to be the agent new construction buyers trust? Build the guide.
 Ask Claude: "Build me a New Construction Buyer's Guide covering why the onsite agent isn't their advocate, what a buyer's agent negotiates in a new build, what to inspect at each construction milestone, questions to ask before signing the builder contract, and what warranty terms are negotiable."
 
 Give it to every buyer who mentions new construction. They'll call every other agent -- and send this to you.
-
-See you next time.
 ---
 
 ## Social Copy

@@ -22,8 +22,6 @@ Tell Claude: "Write an outreach sequence for a FSBO seller where I never ask for
 Touch one: a free market analysis or staging checklist. No pitch. Just value. Touches two and three build on that trust.
 
 The FSBO who eventually lists almost always lists with the agent who helped them most.
-
-See you next time.
 ---
 
 ## Social Copy

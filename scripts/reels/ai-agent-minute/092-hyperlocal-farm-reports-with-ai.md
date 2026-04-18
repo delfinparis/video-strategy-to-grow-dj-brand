@@ -22,8 +22,6 @@ Every homeowner in your farm gets three mailers a month -- same postcard, same g
 Here's the fix. Use Perplexity to pull hyperlocal data -- recent sales, days on market, price-per-square-foot trends. Then tell Claude: "Write a one-page neighborhood market report in a conversational tone. Make it feel like the agent writing this actually lives down the street."
 
 That's the mailer they put on the refrigerator.
-
-See you next time.
 ---
 
 ## Social Copy

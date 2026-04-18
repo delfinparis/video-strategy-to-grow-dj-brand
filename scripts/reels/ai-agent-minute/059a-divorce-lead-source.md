@@ -22,8 +22,6 @@ These attorneys need agents who can handle emotionally charged transactions, pro
 That relationship is usually available -- because nobody ever tries to build it.
 
 Try this: Open Claude and type "Write me a compassionate outreach sequence for divorce attorneys that positions me as a resource, not a salesperson."
-
-See you next time.
 ---
 
 ## Social Copy

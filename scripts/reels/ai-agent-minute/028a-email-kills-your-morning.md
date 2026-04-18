@@ -22,8 +22,6 @@ You opened your inbox, started reacting, ninety minutes disappeared, and by ten 
 Email is the enemy of income-producing activity. It's just disguised as productivity. The top ten percent of agents haven't checked email first thing in years.
 
 Here's what I'd do. Open Claude and type: "Build me an email response template library for the 10 messages I get most often so I can reply in under 60 seconds."
-
-See you next time.
 ---
 
 ## Social Copy

@@ -48,7 +48,7 @@ Tonight before bed: Open your notes app. Type two sentences. Sentence one: 'What
 *Production: Paul looking directly at camera, slight lean in. Final frame: iPhone notes app open with those two prompts visible as text overlay. Paul's voice continues over the visual: 'Just stop lying to yourself first.'*
 
 ## Social Media
-**Caption:** The breakthrough starts with the lie. Paul Salter on why honest communication with yourself unlocks everything else.
+**Caption:** The breakthrough starts with the lie. Paul Salter on why honest communication with yourself opens everything else.
 **Hashtags:** #RealEstateMindset #BurnoutRecovery #TopProducer #RealEstateCoach #HonestConversation
 **Share Trigger:** identity
 

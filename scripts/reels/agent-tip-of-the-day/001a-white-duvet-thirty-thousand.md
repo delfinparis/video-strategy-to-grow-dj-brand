@@ -19,8 +19,6 @@ A white duvet in your trunk could be worth thirty thousand dollars.
 Amanda Pendleton at Zillow analyzed millions of listings and found something wild: listings with white linens get 30% more engagement. Not better homes. Just whiter sheets. Ten bucks at Target. Five minutes before the photographer shows up. Swap out the floral comforter for crisp white. Suddenly the bedroom looks bigger, cleaner, more aspirational. Buyers scroll slower. They save. They book the showing.
 
 Do this today: Walk through your next listing and find the one thing a $200 fix could transform. Start small.
-
-See you next time.
 ---
 
 ## Social Copy

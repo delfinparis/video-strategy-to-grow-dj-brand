@@ -19,30 +19,27 @@ day: "Sunday (bonus)"
 ## Script
 
 ### HOOK (0:00-0:03)
-Mortgage rates just dropped below six percent for the first time in three and a half years. Here's what you should be doing right now. [ON-SCREEN: "Rates below 6% -- first time in 3.5 years"]
+Mortgage rates just dropped below six percent for the first time in three and a half years. Here's what you should be doing right now.
 
 ### SETUP (0:03-0:12)
 This is D.J. Paris -- Keeping It Real Podcast, Kale Realty.
 
-Last week Freddie Mac reported the thirty-year fixed hit five point nine eight percent. That's down almost a full point from a year ago, and nearly two points from the peak of seven point seven nine in October twenty-three. [ON-SCREEN: "5.98% → down from 7.79% peak"]
+Last week Freddie Mac reported the thirty-year fixed hit five point nine eight percent. That's down almost a full point from a year ago, and nearly two points from the peak of seven point seven nine in October twenty-three.
 
 ### INSIGHT (0:12-0:38)
 So what should you actually be doing with this information? Three things.
 
-One -- call your past buyers. Anyone who bought in twenty-three or twenty-four at seven percent? They can refinance and save hundreds a month. That's not a cold call. That's a favor. [ON-SCREEN: "1. Call your past buyers"]
+One -- call your past buyers. Anyone who bought in twenty-three or twenty-four at seven percent? They can refinance and save hundreds a month. That's not a cold call. That's a favor.
 
-Two -- call your fence-sitters. You know exactly who they are. The ones who said "we're waiting for rates to come down." Well -- they came down. Send them this video. Remove the excuse. [ON-SCREEN: "2. Call your fence-sitters"]
+Two -- call your fence-sitters. You know exactly who they are. The ones who said "we're waiting for rates to come down." Well -- they came down. Send them this video. Remove the excuse.
 
-Three -- talk to renters. Monthly payments just hit a two-year low. For a lot of renters, the math now works for the first time. Run the numbers for them. [ON-SCREEN: "3. Talk to renters"]
+Three -- talk to renters. Monthly payments just hit a two-year low. For a lot of renters, the math now works for the first time. Run the numbers for them.
 
 ### REFRAME (0:38-0:50)
-Here's the thing most agents get wrong. They hear rate news and post a graphic. That's not a strategy -- that's a screensaver. The agents who win right now are the ones who pick up the phone and make this news personal to someone specific. [ON-SCREEN: "Don't post a graphic. Pick up the phone."]
+Here's the thing most agents get wrong. They hear rate news and post a graphic. That's not a strategy -- that's a screensaver. The agents who win right now are the ones who pick up the phone and make this news personal to someone specific.
 
 ### CTA (0:50-0:60)
 Pick five people from each of those three groups. That's fifteen calls. Do it today -- before every other agent in your market sees this same headline.
-
-See you next time. [ON-SCREEN: "15 calls. Today."]
-
 **Word Count:** ~235 | **Estimated Duration:** ~62 seconds
 
 ## Data Source

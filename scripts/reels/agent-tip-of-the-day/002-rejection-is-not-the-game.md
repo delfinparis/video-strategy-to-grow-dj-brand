@@ -16,11 +16,9 @@ Your college roommate just bought a house. They didn't call you.
 
 *[Agent Tip of the Day bumper]*
 
-That knot in your stomach? Bari Mill felt it too. She's now a $40 million producer in Chicago. Her team lead told her something that changed everything: stop obsessing over the three people who didn't hire you. Double down on the thirty who might. Those three had reasons you'll never understand. The thirty are watching to see if you quit or keep going.
+That knot in your stomach? Bari Mill felt it too. She's now a $40 million producer in Chicago. Her team lead told her something that changed everything: stop obsessing over the three people who didn't hire you. Focus on the thirty who might. Those three had reasons you'll never understand. The thirty are watching to see if you quit or keep going.
 
 Grieve for five minutes. Then get back on the phone.
-
-See you next time.
 ---
 
 ## Social Copy

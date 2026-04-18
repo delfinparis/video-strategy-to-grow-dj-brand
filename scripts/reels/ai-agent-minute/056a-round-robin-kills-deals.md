@@ -22,8 +22,6 @@ A new agent handed a luxury relocation lead will almost certainly lose it. An ex
 And the agents who get mismatched leads don't just lose the deal -- they lose confidence. The compounding cost is bigger than the lost commission.
 
 Here's what I'd do. Open Claude and type: "Help me design a lead routing system for my team that matches leads to agents based on skill and fit, not luck."
-
-See you next time.
 ---
 
 ## Social Copy

@@ -19,8 +19,6 @@ In a business full of shortcuts, being the agent who shows up consistently and t
 Right now, open your phone. Find the client conversation you've been avoiding -- the one with bad news or a dropped ball. Text them: "Can we talk tomorrow at 9am? I owe you an update."
 
 Send it before this video ends.
-
-See you next time.
 ---
 
 ## Social Copy

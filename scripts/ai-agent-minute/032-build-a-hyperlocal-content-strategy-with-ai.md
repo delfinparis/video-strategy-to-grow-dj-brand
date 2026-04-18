@@ -29,15 +29,11 @@ Hyperlocal content is the #1 proven organic lead gen strategy; Claude makes it s
 
 ## Full Script (Spoken)
 
-National real estate content competes with everyone. Hyperlocal content competes with almost no one. That gap is your entire opportunity. [ON-SCREEN: "Hyperlocal content competes with almost no one"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+National real estate content competes with everyone. Hyperlocal content competes with almost no one. That gap is your entire opportunity.
 Here's why most agents' content never builds a real audience. They post about broad topics -- mortgage rates, national trends, general buying tips -- because they're easy to create and feel relevant. But that content blends into thousands of identical posts from agents nationwide. There's no reason for anyone in your specific market to follow you instead of a thousand other agents saying the exact same things.
-The agents who dominate local markets online aren't louder. They're more specific. [ON-SCREEN: "Not louder. More specific."]
-Here's the strategy. Use Perplexity to research your target neighborhoods this week -- new restaurants opening, school rating changes, upcoming development, walkability trends, micro-market stats that aren't showing up anywhere else. Then bring it into Claude and type: "Build me a sixty-day hyperlocal content calendar using this research. Every post should position me as someone who actually lives and breathes this neighborhood -- not just sells houses in it." [ON-SCREEN: "Lives and breathes this neighborhood -- not just sells houses in it"]
+The agents who dominate local markets online aren't louder. They're more specific.
+Here's the strategy. Use Perplexity to research your target neighborhoods this week -- new restaurants opening, school rating changes, upcoming development, walkability trends, micro-market stats that aren't showing up anywhere else. Then bring it into Claude and type: "Build me a sixty-day hyperlocal content calendar using this research. Every post should position me as someone who actually lives and breathes this neighborhood -- not just sells houses in it."
 Being the neighborhood expert online isn't just a brand strategy. It's a lead generation engine that runs without ad spend.
-
-See you next time.
-
 ## Producer Note
 The CTA asking for a hyperlocal fact will generate genuinely interesting, market-specific comments that could seed future content ideas. "Not louder, more specific" is the quotable contrast line. Watch overlap with Script #6 (farm mailers) -- this is the digital version; keep them clearly differentiated.
 

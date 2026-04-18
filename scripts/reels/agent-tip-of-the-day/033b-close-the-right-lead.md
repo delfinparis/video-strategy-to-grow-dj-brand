@@ -21,8 +21,6 @@ Jill Preschel has done over $2 billion in NYC luxury transactions. Her rule: "Th
 Do this today: Pull up your last five closed deals. Write down which ones drained you versus energized you. Then write three red flags they had in common -- that's your "no" filter going forward.
 
 What changes is you stop wasting months on bad-fit clients and start attracting the ones that actually build your business. Fewer deals, higher quality, better referrals.
-
-See you next time.
 ---
 
 ## Social Copy

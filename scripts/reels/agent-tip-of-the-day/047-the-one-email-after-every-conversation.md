@@ -19,8 +19,6 @@ The agents closing two billion plus in luxury deals do this after every single c
 Jill Preschel learned this from private equity partners: after every call, showing, or negotiation, send one email. "Here's what we discussed. Here's what we agreed on. Here's the next step." That's it. The email isn't rude. It's a receipt. It kills the "I thought you said" arguments. It keeps you in control of the narrative. And it makes you the one pro in a sea of amateurs.
 
 Next conversation today -- send the summary. Three bullets. Thirty seconds.
-
-See you next time.
 ---
 
 ## Social Copy

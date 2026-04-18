@@ -20,8 +20,6 @@ After a rough prospecting session, paste the specific call that shook you into C
 Type: "Help me reframe this from a psychological distance. Give me three alternative explanations for why this person said no that have absolutely nothing to do with my competence or my value."
 
 Claude will give you a perspective shift you couldn't give yourself in that moment. Rejection processing is a skill. AI helps you build it faster than experience alone ever could.
-
-See you next time.
 ---
 
 ## Social Copy

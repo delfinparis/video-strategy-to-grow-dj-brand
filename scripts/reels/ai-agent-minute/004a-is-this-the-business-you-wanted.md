@@ -22,8 +22,6 @@ The years go by. The hustle becomes habit. And somewhere in there, the original 
 Most agents have never stopped to ask: is this business giving me the life I wanted? That's not a business problem. That's a direction problem.
 
 Here's what I'd do. Open Claude and type: "Help me figure out if the real estate business I've built is actually the one I want." Answer honestly. You'll have more clarity in ten minutes than most agents get in ten years.
-
-See you next time.
 ---
 
 ## Social Copy

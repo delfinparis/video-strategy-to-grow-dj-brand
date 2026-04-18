@@ -29,15 +29,11 @@ Rate anxiety is the current market's dominant buyer blocker; agents who can hand
 
 ## Full Script (Spoken)
 
-Your client just texted you: "Rates went up again. We're thinking of waiting." What do you say in the next sixty seconds? [ON-SCREEN: "What do you say in the next 60 seconds?"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+Your client just texted you: "Rates went up again. We're thinking of waiting." What do you say in the next sixty seconds?
 Here's what most agents do. They either panic alongside the client, give a vague "rates always come down eventually" answer, or launch into something that sounds like they Googled it that morning. None of those build confidence. And a client who loses confidence doesn't pause -- they disappear for months.
-Most agents try to predict the market. Top producers help clients decide despite it. [ON-SCREEN: "Help clients decide despite the market -- not predict it"]
-Here's the fix. Once a month, pull current rate data from Perplexity, bring it into Claude, and type: "Prepare response frameworks for these three conversations: 'Should we wait for rates to drop?' 'Rates are too high to buy right now.' 'We're going to rent instead.' Each framework needs a simple math example, one local market data point, and a closing line that leaves the client feeling informed -- not pressured." [ON-SCREEN: "3 frameworks -- math example, local data, confident close"]
+Most agents try to predict the market. Top producers help clients decide despite it.
+Here's the fix. Once a month, pull current rate data from Perplexity, bring it into Claude, and type: "Prepare response frameworks for these three conversations: 'Should we wait for rates to drop?' 'Rates are too high to buy right now.' 'We're going to rent instead.' Each framework needs a simple math example, one local market data point, and a closing line that leaves the client feeling informed -- not pressured."
 Practice those frameworks until they're automatic. Your job isn't to predict rates. It's to help clients make confident decisions with real information.
-
-See you next time.
-
 ## Producer Note
 Time-sensitive -- rate anxiety is a live issue in this market. Film soon. The opening scenario ("your client just texted") is a strong mirror moment because it's specific and present-tense. The CTA will generate a useful ongoing content bank of rate questions to address.
 

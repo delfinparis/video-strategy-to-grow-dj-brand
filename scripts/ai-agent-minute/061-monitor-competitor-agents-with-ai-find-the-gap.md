@@ -29,15 +29,12 @@ Competitive intelligence is sophisticated positioning content; attracts the anal
 
 ## Full Script (Spoken)
 
-You're competing against agents you've never even looked up. In a market this competitive -- that's a real problem. [ON-SCREEN: "Competing against agents you've never looked up"]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
+You're competing against agents you've never even looked up. In a market this competitive -- that's a real problem.
 Here's the reality. Most agents have only a vague sense of who their real competition is. They know the obvious names but have never actually studied their online presence, their production numbers, their messaging, or their reviews. You cannot differentiate yourself from competition you haven't studied. So most agents compete on instinct -- and then wonder why they keep losing the same types of listings.
-The agents who dominate their market know exactly who they're up against -- and exactly where those agents are weak. [ON-SCREEN: "They know exactly where those agents are weak"]
-Here's the thirty-minute research process. Use Perplexity to pull intel on your top five competitors -- their recent production in your target neighborhoods, their social media positioning, their Google and Zillow reviews, their average days on market. Then bring it all into Claude and type: "Based on how these agents position themselves, identify three gaps or underserved angles I could own in this market." [ON-SCREEN: "3 gaps I could own that my competition is leaving open"]
+The agents who dominate their market know exactly who they're up against -- and exactly where those agents are weak.
+Here's the thirty-minute research process. Use Perplexity to pull intel on your top five competitors -- their recent production in your target neighborhoods, their social media positioning, their Google and Zillow reviews, their average days on market. Then bring it all into Claude and type: "Based on how these agents position themselves, identify three gaps or underserved angles I could own in this market."
 You might find that nobody is serving a specific price range, neighborhood, or client type. And that's your opening.
 Do you research your competition?
-See you next time.
-
 ## Producer Note
 " The "competing on instinct, then wondering why" mirror moment is accurate and will resonate. No accuracy issues.
 

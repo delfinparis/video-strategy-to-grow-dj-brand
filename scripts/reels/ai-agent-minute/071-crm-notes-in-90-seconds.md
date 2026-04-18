@@ -20,8 +20,6 @@ Six months from now, you'll stare at a lead in your CRM with zero context. Becau
 Here's the ninety-second fix. Right after any call or showing, record a sixty-second voice memo -- what they said, what they care about, where they are in the process. Paste it into Claude and type: "Reformat this into clean CRM notes with a summary, next action, and follow-up date."
 
 Your database is your retirement account. Treat every note like a deposit.
-
-See you next time.
 ---
 
 ## Social Copy

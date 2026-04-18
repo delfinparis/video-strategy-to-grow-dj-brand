@@ -19,8 +19,6 @@ Your buyers aren't walking away from the house. They're walking away from you.
 Carrie McCormick -- top one percent in Chicago luxury -- says buyers don't reject homes. They reject uncertainty. Buyer asks why a listing is priced at 2.1 million. Weak agent says "market analysis supports it." Carrie says: "Two comps closed at 1.95. Inventory dropped forty percent. We're launching a 72-hour social blitz with a broker event Tuesday. Here's the timeline." One agent gave a number. One gave certainty. Guess who got the listing.
 
 Do this before your next showing: Prepare three sentences about the listing that eliminate confusion. Buyers reject uncertainty -- not homes.
-
-See you next time.
 ---
 
 ## Social Copy

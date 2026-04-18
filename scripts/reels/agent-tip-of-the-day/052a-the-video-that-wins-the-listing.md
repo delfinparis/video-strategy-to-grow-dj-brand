@@ -19,8 +19,6 @@ You're invisible on Google. And that's why you're losing listings to agents with
 Kim Rittberg says the one video that turns strangers into clients is the one you're not making. It's your About Me video. Not a listing tour. Not a market update. The video that answers: "What makes you different?" When a seller Googles three agents, two have bios. One has a video. Guess who gets the call. You're either on video or you're invisible.
 
 Do this tonight: Record a 60-second "About Me" video. Not perfect -- just real. Use it in your next listing presentation.
-
-See you next time.
 ---
 
 ## Social Copy

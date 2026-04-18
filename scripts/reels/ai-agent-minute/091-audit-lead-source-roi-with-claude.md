@@ -22,8 +22,6 @@ Could you Zillow, Facebook, farming, referrals? Be honest. Almost nobody can.
 Here's the fix. Export your last twenty-four months of closed deals from your CRM. Paste it into Claude and type: "Analyze these lead sources by volume, conversion rate, and average commission. Which has the best ROI -- and which should I cut immediately?"
 
 Run this audit tonight.
-
-See you next time.
 ---
 
 ## Social Copy

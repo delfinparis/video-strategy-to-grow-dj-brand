@@ -29,15 +29,12 @@ Strong hook but significant overlap with #88 (investor return analysis); space t
 
 ## Full Script (Spoken)
 
-Real estate investors are among the most loyal, highest-repeat clients in this industry -- and most agents lose them in the first conversation because they don't speak the language. [ON-SCREEN: Investors = most loyal clients. Most agents lose them immediately.]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
-Here's why it goes wrong. An investor asks you to evaluate a rental property. You pull comps and talk about the finishes. They wanted to know the cap rate, the cash-on-cash return, the rent-to-price ratio, and the neighborhood's five-year appreciation trend. Two different conversations. Most agents who try to work with investors fail because they present investment properties the same way they'd present a family home to a first-time buyer -- and investors know immediately when they're talking to someone who doesn't understand their world. [ON-SCREEN: Investor asks about cap rate. Agent talks about the kitchen.]
+Real estate investors are among the most loyal, highest-repeat clients in this industry -- and most agents lose them in the first conversation because they don't speak the language.
+Here's why it goes wrong. An investor asks you to evaluate a rental property. You pull comps and talk about the finishes. They wanted to know the cap rate, the cash-on-cash return, the rent-to-price ratio, and the neighborhood's five-year appreciation trend. Two different conversations. Most agents who try to work with investors fail because they present investment properties the same way they'd present a family home to a first-time buyer -- and investors know immediately when they're talking to someone who doesn't understand their world.
 And here's what that costs you -- investors talk to each other. Lose one and you've lost the referral network behind them.
-Here's the fix. Use Perplexity to pull current rental market data for your city: average rents by neighborhood, vacancy rates, price-to-rent ratios, cap rate ranges. Then ask Claude to build you an investor buyer consultation framework that speaks their language -- ROI, risk, exit strategy, and cash flow projections. Practice presenting one property as an investment analysis before you sit down with your first investor client. You'll be the only agent they've met who actually showed up prepared. [ON-SCREEN: Prompt → "Build me an investor consultation framework covering cap rate, cash-on-cash return, ROI, risk, and exit strategy."]
+Here's the fix. Use Perplexity to pull current rental market data for your city: average rents by neighborhood, vacancy rates, price-to-rent ratios, cap rate ranges. Then ask Claude to build you an investor buyer consultation framework that speaks their language -- ROI, risk, exit strategy, and cash flow projections. Practice presenting one property as an investment analysis before you sit down with your first investor client. You'll be the only agent they've met who actually showed up prepared.
 An investor who trusts you doesn't buy one property -- they buy many, and they send their friends. AI helps you earn that first conversation.
 Do you currently work with real estate investors?
-"See you next time."
-
 ## Producer Note
 Pairs naturally with Script #88 (investment property analysis reports) -- consider airing these one week apart rather than back-to-back. Verify that Perplexity can surface cap rate data for specific cities reliably before filming.
 

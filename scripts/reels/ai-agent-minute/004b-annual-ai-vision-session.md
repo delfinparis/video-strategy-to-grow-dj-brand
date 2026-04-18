@@ -20,8 +20,6 @@ The most valuable thing you'll do with AI all year takes thirty minutes.
 Sit down with Claude and answer five questions: What does my ideal business look like in five years -- specifically? What does my ideal work week look like? What clients do I love serving? What would I eliminate tomorrow? What did I originally want this business to give me -- and is it?
 
 Then type: "Turn my honest answers into a one-page business design document." Review it quarterly. Build toward it weekly. AI makes you productive -- but this makes you intentional.
-
-See you next time.
 ---
 
 ## Social Copy

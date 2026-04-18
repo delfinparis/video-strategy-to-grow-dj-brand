@@ -22,8 +22,6 @@ Most agents do whatever feels most urgent -- which is almost never the most impo
 Tell Claude your annual income goal, average commission, and lead-to-close conversion rate. Type: "Work backward and calculate how many prospecting hours, appointments, and follow-up blocks I need weekly. Then build a time-blocked schedule around those numbers."
 
 A schedule built by math. Not guilt.
-
-See you next time.
 ---
 
 ## Social Copy

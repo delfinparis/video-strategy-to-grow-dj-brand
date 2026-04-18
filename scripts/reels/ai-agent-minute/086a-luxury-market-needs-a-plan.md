@@ -22,8 +22,6 @@ Most agents assume you need luxury connections first -- a lucky referral that fa
 Referrals don't convert when the agent isn't ready for the conversation.
 
 Here's what I'd do. Open Claude and type: "Build me a 90-day luxury market entry strategy -- the exact steps to go from zero luxury listings to being taken seriously."
-
-See you next time.
 ---
 
 ## Social Copy

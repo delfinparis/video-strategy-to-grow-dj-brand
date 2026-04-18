@@ -20,8 +20,6 @@ Pre-foreclosure outreach done right isn't predatory. It's one of the most genuin
 Ask Claude: "Write a homeowner outreach system for someone in pre-foreclosure. Include a letter that leads with empathy and options -- not a pitch, a list of what I can offer including short sale expertise, cash buyer network, and flexible timeline, and a follow-up sequence for homeowners who need time to process."
 
 The agent who reaches out with empathy before the bank does something irreversible is doing real work.
-
-See you next time.
 ---
 
 ## Social Copy

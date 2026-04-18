@@ -21,8 +21,6 @@ Jeff Biebuyck sells luxury in Calabasas and Hidden Hills. When his hyper-local m
 Here's your move this week: Map three adjacent markets where your skills transfer. Research the lead costs and competition level. Pick one and test it for 90 days.
 
 You go from hoping your zip code recovers to actively building revenue in multiple markets. That's the difference between defending territory and building a business.
-
-See you next time.
 ---
 
 ## Social Copy

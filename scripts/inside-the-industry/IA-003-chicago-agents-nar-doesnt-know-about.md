@@ -29,7 +29,7 @@ First. Chicago agents are not waiting for the settlements to be over. They adapt
 Second. The next wave of pressure is coming from inside the brokerages, not from lawsuits. When one company now controls one in five agents in some markets, the real antitrust conversation is about mergers, not about commission rules. Chicago agents at independent brokerages feel this every day. Most of NAR's public messaging still acts like the threat is external.
 
 ### POINT 3 (0:36-0:48)
-Third. The agents who are thriving in Chicago right now are the ones with the most specific voice, not the biggest following. National thought leaders don't move the needle here. Local expertise does. NAR should be amplifying local voices, not competing with them.
+Third. The agents who are thriving in Chicago right now are the ones with the most specific voice, not the biggest following. National thought leaders don't change the outcome here. Local expertise does. NAR should be amplifying local voices, not competing with them.
 
 ### CLOSE (0:48-0:60)
 Chicago agents don't need a bigger NAR. We need a louder one. One that says the quiet parts out loud.
@@ -53,7 +53,7 @@ First. Chicago agents are not waiting for the settlements to be over. They adapt
 
 Second. The next wave of pressure is coming from inside the brokerages, not from lawsuits. When one company now controls roughly one in five agents in some markets, the real antitrust conversation is about mergers, not commission rules. Chicago agents at independent brokerages feel this every single day. Most of NAR's public messaging still treats the threat as external when the biggest structural shift is actually internal consolidation.
 
-Third. The agents who are thriving in Chicago right now are the ones with the most specific voice, not the biggest following. National thought leaders do not move the needle here. Local expertise does. NAR should be amplifying local voices, not trying to compete with them.
+Third. The agents who are thriving in Chicago right now are the ones with the most specific voice, not the biggest following. National thought leaders do not change the outcome here. Local expertise does. NAR should be amplifying local voices, not trying to compete with them.
 
 Chicago agents do not need a bigger organization. They need a louder one. One that says the quiet parts out loud.
 
@@ -69,7 +69,7 @@ If NAR called me today and asked what Chicago agents actually need, here's what 
 
 2. The real antitrust story is brokerage consolidation, not commission rules. One company now controls 1 in 5 agents in some markets.
 
-3. Local voices move the needle, not national ones. Amplify us, don't compete with us.
+3. Local voices actually matter, not national ones. Amplify us, don't compete with us.
 
 Chicago agents don't need a bigger NAR. We need a louder one.
 
@@ -105,7 +105,7 @@ First. Chicago agents are not waiting for the settlements to be over. They adapt
 
 Second. The next wave of pressure is coming from inside the brokerages, not from lawsuits. When one company now controls roughly one in five agents in some markets, the real antitrust story is about mergers, not commission rules. Chicago agents at independent brokerages feel this every day. Most of NAR's messaging still treats the threat as external when the biggest shift is actually internal consolidation.
 
-Third. The agents thriving in Chicago right now are the ones with the most specific voice, not the biggest following. National thought leaders don't move the needle here. Local expertise does. NAR should be amplifying local voices, not competing with them.
+Third. The agents thriving in Chicago right now are the ones with the most specific voice, not the biggest following. National thought leaders don't change the outcome here. Local expertise does. NAR should be amplifying local voices, not competing with them.
 
 Chicago agents don't need a bigger organization. They need a louder one. One that says the quiet parts out loud.
 

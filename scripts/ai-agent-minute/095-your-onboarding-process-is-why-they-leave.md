@@ -29,15 +29,12 @@ Team Leader niche only; the 'they blame you' line is the sharpest moment; good f
 
 ## Full Script (Spoken)
 
-The agents who leave your team in the first ninety days don't leave because the split was wrong. They leave because nobody helped them figure out what to do on day two. [ON-SCREEN: They don't leave for the split. They leave because they felt lost.]
-"This is D.J. Paris with Keeping It Real Podcast and Kale Realty -- and here's your AI Agent Minute."
-Most team leaders spend thousands of dollars recruiting an agent and almost nothing building the experience that makes them stay. The new agent joins excited, gets dropped into the chaos, figures things out alone -- and quietly starts looking for something better before they've closed their first deal. [ON-SCREEN: Recruiting cost vs. onboarding investment = $0]
+The agents who leave your team in the first ninety days don't leave because the split was wrong. They leave because nobody helped them figure out what to do on day two.
+Most team leaders spend thousands of dollars recruiting an agent and almost nothing building the experience that makes them stay. The new agent joins excited, gets dropped into the chaos, figures things out alone -- and quietly starts looking for something better before they've closed their first deal.
 And here's the part most leaders miss -- the agent doesn't blame themselves when they leave. They blame you.
-Here's the fix. Ask Claude: "Build me a ninety-day agent onboarding program. Include week-by-week training milestones, a system-by-system resource checklist, a mentor pairing structure, weekly manager check-in questions, and the specific metrics that define a successfully onboarded agent." Claude builds you a first draft in minutes. You refine it once. Every new agent gets the same structured experience from day one -- no more figuring it out alone. [ON-SCREEN: Prompt → "Build me a 90-day agent onboarding program with week-by-week milestones, resource checklists, mentor structure, and graduation metrics."]
+Here's the fix. Ask Claude: "Build me a ninety-day agent onboarding program. Include week-by-week training milestones, a system-by-system resource checklist, a mentor pairing structure, weekly manager check-in questions, and the specific metrics that define a successfully onboarded agent." Claude builds you a first draft in minutes. You refine it once. Every new agent gets the same structured experience from day one -- no more figuring it out alone.
 In twelve years of interviewing top team leaders on Keeping It Real, the ones with the lowest turnover all said the same thing: onboarding isn't an HR function -- it's a retention strategy. The investment you make in a new agent's first ninety days determines whether they're still on your team in year three.
 What's the biggest gap in how you currently onboard new agents?
-"See you next time."
-
 ## Producer Note
 Strong "film this soon" candidate for team leader audience -- the "they blame you" line is the shareable moment; verify if any specific retention stat (e.g., "agents who go through structured onboarding are X% more likely to stay") can be sourced for added specificity.
 

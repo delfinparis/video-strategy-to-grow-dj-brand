@@ -22,8 +22,6 @@ Answer four questions honestly: Why did you get into real estate? What do you lo
 Then tell Claude: "Turn these answers into a bio that reads like a real person wrote it. Make the first line stop a scroll."
 
 Your bio isn't a resume. It's your first sales conversation. Make it count.
-
-See you next time.
 ---
 
 ## Social Copy

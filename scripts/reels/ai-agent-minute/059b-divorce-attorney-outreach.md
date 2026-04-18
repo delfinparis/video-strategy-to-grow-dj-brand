@@ -20,8 +20,6 @@ One strong relationship with the right divorce attorney generates five to ten de
 Ask Claude: "Draft a divorce attorney outreach package -- a professional introduction letter explaining my experience with emotionally complex transactions, a one-page overview of how I handle divorce sales including dual dynamics and court-ordered timelines, and three anonymized case study summaries."
 
 Identify five family law attorneys in your market. Send it this week. This isn't predatory -- it's one of the most helpful things an agent can do.
-
-See you next time.
 ---
 
 ## Social Copy

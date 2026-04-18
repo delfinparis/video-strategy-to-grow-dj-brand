@@ -22,8 +22,6 @@ An investor asks you to evaluate a rental property. You pull a CMA showing what 
 If you can't give them that, they'll find an agent who can -- and that agent will have them for life. Investors buy repeatedly. Lose one and you've lost a decade of deals.
 
 Try this: Paste a property listing into Claude and say "Run the numbers -- cap rate, cash-on-cash return, and monthly cash flow." That's what investors actually want from you.
-
-See you next time.
 ---
 
 ## Social Copy

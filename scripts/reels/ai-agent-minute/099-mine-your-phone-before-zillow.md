@@ -22,8 +22,6 @@ Half your sphere doesn't even know you're in real estate. And the agents who go 
 Open Claude and list your contact categories -- neighbors, former coworkers, college friends. Type: "Write a personal, non-salesy outreach message for each group explaining why I got into real estate. Not a mass announcement -- individual messages that feel like they came from a friend."
 
 Your sphere just needs to be reminded you exist.
-
-See you next time.
 ---
 
 ## Social Copy

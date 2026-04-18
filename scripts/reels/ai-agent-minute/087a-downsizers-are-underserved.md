@@ -22,8 +22,6 @@ A senior leaving a home they've lived in for thirty years isn't a routine transa
 And their adult children are watching how you handle it. They're your next buyers.
 
 Try this: Open Claude and type "Help me build a downsizer client guide that covers the emotional and practical needs most agents completely miss."
-
-See you next time.
 ---
 
 ## Social Copy

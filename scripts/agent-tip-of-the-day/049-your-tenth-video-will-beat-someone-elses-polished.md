@@ -33,7 +33,7 @@ Kim Rittberg trains agents who've tried video and quit. She was a Netflix market
 *Production: B-roll of Kim coaching an agent through filming, cut with shots of agents deleting draft videos on their phones*
 
 ### INSIGHT (0:12-0:38)
-She showed me one agent's progression. Video one: 'Um, so... homes are selling fast.' Stiff. Generic. Video five: still awkward, but she mentioned the new traffic pattern on Maple that's killing showings. Video twelve: she's walking a buyer through why that traffic actually creates opportunity three blocks over. Same person. Twelve reps. Kim calls it MSR -- Mindset, Skill set, Repetition. But here's what she actually means. Video one, you're thinking 'I should do this.' Video twelve, you're thinking 'I'm the only agent who's going to explain this.' That shift -- from obligation to authority -- that's the mindset unlock. The skill set and reps follow.
+She showed me one agent's progression. Video one: 'Um, so... homes are selling fast.' Stiff. Generic. Video five: still awkward, but she mentioned the new traffic pattern on Maple that's killing showings. Video twelve: she's walking a buyer through why that traffic actually creates opportunity three blocks over. Same person. Twelve reps. Kim calls it MSR -- Mindset, Skill set, Repetition. But here's what she actually means. Video one, you're thinking 'I should do this.' Video twelve, you're thinking 'I'm the only agent who's going to explain this.' That shift -- from obligation to authority -- that's the mindset shift. The skill set and reps follow.
 
 *Production: Show actual progression: split-screen of three videos from same agent, timestamps visible. Text overlays of her evolution: 'Generic → Specific → Authoritative.' End on Kim's face saying the mindset line*
 

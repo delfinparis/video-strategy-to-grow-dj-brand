@@ -22,8 +22,6 @@ Most agents have only a vague sense of who their real competition is. They know 
 Most agents compete on instinct -- and then wonder why they keep losing the same types of listings.
 
 Here's what I'd do. Open Claude and type: "Help me research my top three competitors and show me exactly where I can differentiate."
-
-See you next time.
 ---
 
 ## Social Copy

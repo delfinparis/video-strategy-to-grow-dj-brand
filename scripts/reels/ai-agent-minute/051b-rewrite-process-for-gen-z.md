@@ -20,8 +20,6 @@ If you approach Gen Z buyers the way you approach Boomers, you'll lose them befo
 Paste your Gen Z research into Claude and type: "Help me rewrite my buyer consultation, my follow-up process, and my communication style specifically for a Gen Z first-time buyer."
 
 You'll get a complete playbook adapted for how they actually want to be communicated with. Not how you've always done it.
-
-See you next time.
 ---
 
 ## Social Copy

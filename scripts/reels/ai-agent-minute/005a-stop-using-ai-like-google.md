@@ -22,8 +22,6 @@ The agents getting the most from AI aren't using it for occasional tasks. They'v
 And the gap between occasional users and daily users compounds every single month. Every month you wait is a month the other group gets further ahead.
 
 Try this: Open Claude tomorrow morning and say "Help me plan my day -- here are my 3 priorities." Use it like a partner, not a search bar.
-
-See you next time.
 ---
 
 ## Social Copy

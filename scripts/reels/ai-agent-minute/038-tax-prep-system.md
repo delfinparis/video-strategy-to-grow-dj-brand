@@ -22,8 +22,6 @@ You don't track deductions. You skip quarterly payments. You don't set aside the
 Fix it today. Tell Claude: "Give me every deductible expense category for a self-employed real estate agent in my state, then build me a monthly expense tracking template for a spreadsheet."
 
 Every dollar you fail to track is a dollar you hand to the IRS for free.
-
-See you next time.
 ---
 
 ## Social Copy

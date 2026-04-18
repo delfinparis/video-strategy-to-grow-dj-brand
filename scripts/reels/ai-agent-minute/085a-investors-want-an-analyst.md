@@ -22,8 +22,6 @@ An investor asks you to evaluate a rental property. You pull comps and talk abou
 And investors talk to each other. Lose one -- you lose the referral network behind them.
 
 Try this: Open Claude and type "Help me build an investor consultation package that positions me as an analyst, not just an agent who opens doors."
-
-See you next time.
 ---
 
 ## Social Copy
