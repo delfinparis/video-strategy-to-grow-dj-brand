@@ -12,12 +12,13 @@ status: "ready"
 
 # NAR Just Reached Out to Me Directly. Here's Why That Matters.
 
-> **WOW: Earned inside-the-industry observation: D.J. was in the room. NAR Just Reached Out to Me Directly. Here's Why That Matters.**
+> **WOW: Earned inside-the-industry observation -- the largest real estate organization in the country has a comms department, state associations, and national media partnerships, and they still reached out to one working-agent content creator directly before their $52M settlement dropped. That's a power-shift signal.**
 
 **Pillar:** Inside the Industry | **Type:** Access (Type A)
 **Primary Platform:** LinkedIn | **Post Date:** Saturday, May 2, 2026
 
-> **Strongest Line:** "If NAR is reaching out directly to working agents to shape the narrative, that tells you where real influence lives right now."
+## Shareable Moment
+> "Audience and voice are the same thing now. That's the shift the rest of the industry hasn't caught up to yet."
 
 ## Script (45-60 seconds)
 
@@ -38,10 +39,21 @@ Audience and voice are the same thing now. That's the shift the rest of the indu
 **Estimated Duration:** ~58 seconds
 
 ## Data Source
-- NAR reached out to D.J. Paris directly via email (April 2026) requesting content about the Tuccori settlement
-- Outreach came from NAR communications leadership
-- D.J. was previously invited to NAR influencer event as 1 of ~12 nationally
-- Context: NAR has official communication channels (press releases, REALTOR Magazine, state/local associations) but chose to supplement with direct creator outreach
+
+- **Claim:** "NAR reached out to me directly"
+  - Source: D.J. Paris firsthand email from NAR communications leadership (April 2026). Part of the ongoing NAR influencer partnership documented in project memory (nar_partnership).
+  - Who was measured: D.J. as recipient; NAR Communications department as sender
+  - Status: confirmed
+
+- **Claim:** "Before their last settlement dropped"
+  - Source: The settlement referenced is NAR's Tuccori buyer-side settlement announced 2026-04-10 ($52.25M, RISMedia). D.J.'s outreach was received before the public announcement.
+  - Status: confirmed
+
+- **Claim:** "NAR has a communications department, partnerships with national media, state associations with millions of followers"
+  - Source: Verified. NAR Communications leadership appointed May 2025 (Bennett Richardson SVP, Raffi Williams VP). State/local REALTOR associations collectively represent ~1.5M members.
+  - Status: confirmed (public facts about NAR's existing channels)
+
+- **Supporting context:** D.J. was previously invited to NAR's 2026 influencer event as 1 of ~12 content creators nationally, covered in IA-001. This direct outreach is a continuation of that relationship.
 
 ## Social Media
 

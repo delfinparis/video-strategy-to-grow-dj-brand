@@ -13,13 +13,14 @@ status: "ready"
 
 # Here's the Play When Your Buyer Asks You to Cut Your Commission
 
-> **WOW: Tactical specificity: exact words to say when here's the play when your buyer asks you to cut your commission. Real Buyer Consult scenario, word-for-word response.**
+> **WOW: Tactical specificity -- the one-line question to ask a commission-cutting buyer, then go silent. Reframes the conversation from percentage to work, and most buyers can't name a single thing they'd cut.**
 
 **Series:** The Playbook | **Scenario Category:** Buyer Consult
 **Primary Platform:** Personal LI / Personal IG / Personal FB
 **Post Date:** Wednesday, May 6, 2026
 
-> **Strongest Line:** "You don't defend the number. You ask them to define the work."
+## Shareable Moment
+> "You don't defend the number. You ask them to define the work."
 
 ## Script (~50 seconds)
 
@@ -46,11 +47,21 @@ Try this exact question on your next consultation.
 
 **Estimated Duration:** ~55 seconds
 
-## Source / Credibility Anchor
-- Pattern from Keeping It Real Podcast top-producer guests on commission conversations
-- Reference: Tim Burrell (negotiation, scripts 018, 022, 026)
-- Reference: Connie Mahan (coaching, script 013, 025, 056)
-- Reverse-engineered from a pattern D.J. Paris has heard from at least 15 top producers across the 700-episode archive
+## Data Source
+
+- **Claim (the exact question, "What part of what I do do you want me to do less of?"):**
+  - Source: D.J. Paris synthesis of top-producer commission-conversation patterns across multiple KIR interviews. The exact phrasing is D.J.'s distillation.
+  - Status: confirmed as synthesized; presented in script as "the play," not as a verbatim quote from a specific guest
+
+- **Claim:** "The commission conversation isn't about price. It's about value perception."
+  - Source: D.J. Paris synthesis of pattern across top-producer guest interviews and brokerage-leadership observation at Kale Realty
+  - Status: confirmed as D.J.'s operational observation
+
+- **Supporting references:**
+  - Tim Burrell (KIR 2026-01-05) -- negotiation specialist, broader pattern on questioning vs. countering; also referenced in PB-001
+  - Connie Mahan (KIR 2025-12-30) -- coaching-oriented guest whose interviews reinforce value-based framing of commission conversations
+
+- **Pattern framing note:** An earlier draft described this as "a pattern D.J. has heard from at least 15 top producers." Per Rule 1, specific counts of "observed across X interviews" require D.J. to be able to name at least 3. Only Tim Burrell and Connie Mahan are named here; softened to qualitative framing ("across multiple top-producer interviews") rather than claiming a specific number.
 
 ## Social Media
 
