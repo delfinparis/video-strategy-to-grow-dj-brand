@@ -49,14 +49,18 @@ OUTPUT_DIR = REPO_ROOT / "data" / "news-briefs"
 STATE_FILE = OUTPUT_DIR / ".seen-stories.json"
 
 # RSS feeds ordered roughly by signal quality for the industry-insider brand.
+# Sources behind paywalls, malformed-XML feeds, or unreliable direct RSS are
+# routed through Google News RSS with site-specific queries. Google News
+# indexes headlines even for paywalled content (e.g., Inman), is zero-maintenance,
+# and carries zero TOS or credential-storage risk vs. direct scraping.
 # If a feed breaks, the script still runs and notes the failure in the brief.
 FEEDS = [
-    ("Inman", "https://www.inman.com/feed/"),
+    ("Inman (via Google News)", "https://news.google.com/rss/search?q=site:inman.com&hl=en-US&gl=US&ceid=US:en"),
     ("HousingWire", "https://www.housingwire.com/feed/"),
-    ("Real Estate News", "https://www.realestatenews.com/feed"),
+    ("Real Estate News (via Google News)", "https://news.google.com/rss/search?q=site:realestatenews.com&hl=en-US&gl=US&ceid=US:en"),
     ("RISMedia", "https://www.rismedia.com/feed/"),
-    ("NAR Realtor Magazine", "https://magazine.realtor/feed"),
-    ("Crain's Chicago Real Estate", "https://www.chicagobusiness.com/real-estate/rss"),
+    ("NAR Realtor Magazine (via Google News)", "https://news.google.com/rss/search?q=site:magazine.realtor&hl=en-US&gl=US&ceid=US:en"),
+    ("Crain's Chicago Real Estate (via Google News)", "https://news.google.com/rss/search?q=site:chicagobusiness.com+real+estate&hl=en-US&gl=US&ceid=US:en"),
     ("Zillow Research", "https://www.zillow.com/research/feed/"),
     ("Redfin News", "https://www.redfin.com/news/feed/"),
 ]

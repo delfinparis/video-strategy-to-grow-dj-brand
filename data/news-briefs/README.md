@@ -124,36 +124,34 @@ Each `YYYY-MM-DD.md` file contains:
 
 ## Feeds currently configured
 
-Defined in `scripts/news_brief.py` as the `FEEDS` list:
+Defined in `scripts/news_brief.py` as the `FEEDS` list. All working as of 2026-04-18:
 
-| Source | URL | Status |
+| Source | Type | URL |
 | --- | --- | --- |
-| Inman | `https://www.inman.com/feed/` | **needs URL verification** (currently failing to parse) |
-| HousingWire | `https://www.housingwire.com/feed/` | Working |
-| Real Estate News | `https://www.realestatenews.com/feed` | **needs URL verification** |
-| RISMedia | `https://www.rismedia.com/feed/` | Working |
-| NAR Realtor Magazine | `https://magazine.realtor/feed` | **needs URL verification** |
-| Crain's Chicago Real Estate | `https://www.chicagobusiness.com/real-estate/rss` | **needs URL verification** |
-| Zillow Research | `https://www.zillow.com/research/feed/` | Working |
-| Redfin News | `https://www.redfin.com/news/feed/` | Working |
+| Inman | Google News RSS | `https://news.google.com/rss/search?q=site:inman.com&hl=en-US&gl=US&ceid=US:en` |
+| HousingWire | Direct RSS | `https://www.housingwire.com/feed/` |
+| Real Estate News | Google News RSS | `https://news.google.com/rss/search?q=site:realestatenews.com&hl=en-US&gl=US&ceid=US:en` |
+| RISMedia | Direct RSS | `https://www.rismedia.com/feed/` |
+| NAR Realtor Magazine | Google News RSS | `https://news.google.com/rss/search?q=site:magazine.realtor&hl=en-US&gl=US&ceid=US:en` |
+| Crain's Chicago Real Estate | Google News RSS | `https://news.google.com/rss/search?q=site:chicagobusiness.com+real+estate&hl=en-US&gl=US&ceid=US:en` |
+| Zillow Research | Direct RSS | `https://www.zillow.com/research/feed/` |
+| Redfin News | Direct RSS | `https://www.redfin.com/news/feed/` |
+
+**Why Google News for 4 of 8:** Four outlets (Inman, Real Estate News, NAR Magazine, Crain's Chicago) either paywall their RSS feeds, return malformed XML, or have moved feed URLs with no stable alternative. Google News RSS indexes their content, is maintenance-free, covers paywalled content, and carries no TOS or credential-storage risk vs. scraping. Direct RSS is still used where it works reliably.
 
 ---
 
-## Known issues
-
-### 4 of 8 feeds failing on first run
-
-Inman, Real Estate News, NAR Realtor Magazine, and Crain's Chicago all return "not well-formed XML" errors. Most likely causes:
-
-1. **URL has changed** — the outlet moved the feed location. Visit the outlet's website and look for an RSS icon or "/feed", "/rss", or "/feed/" at common paths.
-2. **Feed requires a user-agent** — some outlets block default Python user-agents. Add a User-Agent header to the `feedparser.parse()` call in `fetch_stories()`.
-3. **Feed returns HTML** (e.g., paywall page) instead of XML — this is common on outlets that restrict feed access.
-
-To fix: visit each failing outlet in your browser, search for "rss" in the page source or check `[outlet]/feed`, `[outlet]/rss`, `[outlet]/feed/`. Update the `FEEDS` list in `scripts/news_brief.py`. Re-run and verify.
-
-### Adding or removing feeds
+## Adding or removing feeds
 
 Edit the `FEEDS` list at the top of `scripts/news_brief.py`. Each entry is a `(name, url)` tuple.
+
+### Adding another Google News site-specific feed
+
+```python
+("Site Name (via Google News)", "https://news.google.com/rss/search?q=site:example.com&hl=en-US&gl=US&ceid=US:en"),
+```
+
+Use `+real+estate` or similar keyword filters if the site has a lot of non-real-estate content (see Crain's Chicago example).
 
 ### Tuning relevance
 
