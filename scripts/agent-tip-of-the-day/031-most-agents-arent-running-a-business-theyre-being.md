@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Most agents aren't running a business....
 
+> **WOW: Tactical specificity + earned observation from Garrett Maroon: most agents aren't running a business.**
+
 **Guest:** Garrett Maroon | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 31 of 62
 **Post Date:** Tuesday, May 05, 2026

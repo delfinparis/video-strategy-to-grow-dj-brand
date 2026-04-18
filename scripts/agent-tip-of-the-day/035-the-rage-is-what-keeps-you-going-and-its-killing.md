@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The rage is what keeps you...
 
+> **WOW: Tactical specificity + earned observation from Marisa Kashino: the rage is what keeps you.**
+
 **Guest:** Marisa Kashino | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 35 of 62
 **Post Date:** Thursday, May 14, 2026

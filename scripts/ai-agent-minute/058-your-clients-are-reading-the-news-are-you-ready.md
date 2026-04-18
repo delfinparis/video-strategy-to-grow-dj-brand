@@ -14,6 +14,8 @@ day: "Monday"
 
 # Your Clients Are Reading the News. Are You Ready to Discuss It?
 
+> **WOW: Tactical specificity: names Perplexity + Claude and gives the exact prompt to your clients are reading the news. are you ready to discuss it?.**
+
 **Category:** Personal Brand / Market | **Avatar:** All | **AI Tool:** Perplexity + Claude
 **Score:** 7.0 | **Rank:** 58 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, July 06, 2026
@@ -34,7 +36,7 @@ Real estate moves fast. Rate decisions. NAR policy changes. New legislation. Loc
 And here's the flip side -- the agent who always has a smart take on the latest market news becomes the agent clients call first. Not just when they're ready to transact. Whenever they have a question.
 Here's the fix. Build a twenty-minute Monday morning market intelligence routine. Ask Perplexity for the top five real estate news stories from the past week -- national and local. Then ask Claude to summarize each in two sentences and suggest how you'd explain each one to a client in plain language. You start every week fully briefed. You become the agent who always seems to know what's happening -- because you built a system to make sure you do.
 Twenty minutes every Monday. That's the whole investment. Open Claude and Perplexity this Monday morning -- you'll be glad you did by your first client call.
-What's the most recent real estate news story a client asked you about? Tell me the topic below.
+What's the most recent real estate news story a client asked you about?
 ## Producer Note
 The "last person to know in your own industry" hook is strong -- D.J. should deliver it with a slight wince for maximum mirror moment effect. No accuracy concerns. Good broad appeal across all avatars.
 

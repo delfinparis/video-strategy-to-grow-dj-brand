@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Build A Wealth Plan With AI -- Commissions Are Fuel, Not Destination
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a wealth plan -- commissions are fuel, not destination.**
+
 **Category:** Money & Business | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Claude
 **Score:** 7.6 | **Rank:** 29 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Wednesday, April 29, 2026

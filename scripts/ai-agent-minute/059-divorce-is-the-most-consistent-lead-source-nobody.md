@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Divorce Is the Most Consistent Lead Source Nobody Pursues
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to divorce is the most consistent lead source nobody pursues.**
+
 **Category:** Lead Gen / Conversion | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 59 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, July 08, 2026
@@ -34,7 +36,6 @@ Family law attorneys need real estate agents on call -- agents who can handle em
 And here's the opportunity -- that relationship is usually available because most agents never try to build it.
 Here's the fix. Ask Claude to help you build a divorce attorney outreach package. It includes: a professional introduction letter that explains your experience with high-stakes, emotionally complex transactions; a one-page overview of how you specifically handle the challenges of a divorce sale -- dual representation dynamics, court-ordered timelines, asset valuation; and three anonymized case examples that demonstrate your competence. Identify five family law attorneys in your market. Send the package this week. One strong relationship with the right attorney generates five to ten deals a year -- in any market.
 Divorce clients need the most competent, patient agent in the room. AI helps you position yourself as exactly that -- before you ever meet one.
-Have you ever worked on a real estate transaction involving a divorce?
 ## Producer Note
 Distinctive niche -- no other script in the batch covers referral relationships with non-real-estate professionals. Strong specificity. No accuracy concerns; divorce as second most common reason to sell is well-documented. Film this -- it will generate strong comment engagement.
 

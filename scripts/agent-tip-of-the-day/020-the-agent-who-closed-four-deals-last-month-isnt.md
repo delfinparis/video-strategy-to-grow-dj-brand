@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The agent who closed four deals...
 
+> **WOW: Tactical specificity + earned observation from Kristee Leonard: the agent who closed four deals.**
+
 **Guest:** Kristee Leonard | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 9 | **Rank:** 20 of 62
 **Post Date:** Thursday, April 09, 2026

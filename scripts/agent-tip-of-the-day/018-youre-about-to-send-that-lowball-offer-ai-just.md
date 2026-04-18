@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # You're about to send that lowball...
 
+> **WOW: Tactical specificity + earned observation from Tim Burrell: you're about to send that lowball.**
+
 **Guest:** Tim Burrell | **Avatar:** Stuck Intermediate | **Pillar:** Ai Agent
 **Score:** 9 | **Rank:** 18 of 62
 **Post Date:** Saturday, April 04, 2026

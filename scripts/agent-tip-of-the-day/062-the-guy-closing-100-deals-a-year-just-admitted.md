@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The guy closing 100 deals a...
 
+> **WOW: Tactical specificity + earned observation from Eithan Davidov: the guy closing 100 deals a.**
+
 **Guest:** Eithan Davidov | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 7 | **Rank:** 62 of 62
 **Post Date:** Thursday, July 16, 2026

@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Your listing descriptions are costing you...
 
+> **WOW: Tactical specificity + earned observation from D.J. Paris: your listing descriptions are costing you.**
+
 **Guest:** D.J. Paris | **Avatar:** Stuck Intermediate | **Pillar:** Ai Agent
 **Score:** 8 | **Rank:** 40 of 62
 **Post Date:** Tuesday, May 26, 2026

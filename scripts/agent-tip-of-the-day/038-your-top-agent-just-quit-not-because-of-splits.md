@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Your top agent just quit. Not...
 
+> **WOW: Tactical specificity + earned observation from Paul Salter: your top agent just quit. not.**
+
 **Guest:** Paul Salter | **Avatar:** Team Leader | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 38 of 62
 **Post Date:** Thursday, May 21, 2026

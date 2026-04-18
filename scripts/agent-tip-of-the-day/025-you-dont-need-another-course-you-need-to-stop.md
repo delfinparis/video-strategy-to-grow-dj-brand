@@ -14,6 +14,8 @@ share_trigger: "identity -- new agents will tag other new agents who are stuck i
 
 # You don't need another course. You...
 
+> **WOW: Tactical specificity + earned observation from Connie Mahan: you don't need another course. you.**
+
 **Guest:** Connie Mahan | **Avatar:** Overwhelmed Newbie | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 25 of 62
 **Post Date:** Tuesday, April 21, 2026

@@ -14,6 +14,8 @@ day: "Monday"
 
 # Write Listing Descriptions With AI -- Three Versions
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to write listing descriptions -- three versions.**
+
 **Category:** Systems & Operations | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 73 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, August 10, 2026

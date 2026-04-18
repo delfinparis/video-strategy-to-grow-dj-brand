@@ -14,6 +14,8 @@ day: "Friday"
 
 # Downsizers Are the Most Loyal Clients Nobody Serves Well
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to downsizers are the most loyal clients nobody serves well.**
+
 **Category:** Systems / Market | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Claude
 **Score:** 6.6 | **Rank:** 87 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Friday, September 11, 2026
@@ -34,7 +36,7 @@ Here's what most agents miss. A senior leaving a home they've lived in for thirt
 And here's what's at stake -- that client's adult children are watching how you handle it. They're buyers.
 Here's the fix. Ask Claude to help you build a "Senior and Downsizer Client Guide" -- a resource you give to every client navigating this transition. It should include: the emotional stages of leaving a long-term home, the financial considerations unique to downsizing, resources for estate sale services and senior relocation specialists, senior-friendly housing options in your area, and a full transition checklist from initial conversation to move-out day. Give this guide to every relevant client. You become the agent who actually prepared.
 The agent who guides a senior through the biggest transition of their life doesn't just get one deal -- they get the whole family. For years.
-Have you worked with a downsizing client? Tell me the most challenging part of that experience.
+Have you worked with a downsizing client?
 ## Producer Note
 Strong niche appeal -- Baby Boomer demographic is massive and underserved in agent-focused content. The adult-children-are-watching line is the hidden shareable moment. Consider featuring this in a "specialized client" themed week.
 

@@ -14,6 +14,8 @@ day: "Friday"
 
 # Turn Your Best Deals Into Case Studies With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to turn your best deals into case studies.**
+
 **Category:** Systems / Personal Brand | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Claude
 **Score:** 7.4 | **Rank:** 36 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, May 15, 2026
@@ -34,7 +36,6 @@ Here's what's happening to your most valuable professional experiences. Multiple
 Most agents have an impressive track record that no one knows about.
 Here's how to fix that. After any complex or successful deal, spend ten minutes talking into your phone: the situation, the challenge, what you did, what the outcome was for the client. Then paste that into Claude and type: "Turn this into a professional case study: one paragraph each for the challenge, my approach, and the result. Add a placeholder for a client quote. Keep it under two hundred fifty words."
 Collect ten of these. Use them in listing presentations. Put them on your website. Post them to social media. Real proof closes more deals than any marketing copy ever written.
-What's the most complex deal you've ever closed?
 ## Producer Note
 The "exists only in your memory" line is the core mirror moment -- accurate and slightly painful for every experienced agent who's never documented their best work. The CTA will generate rich stories in the comments. Strong for aspiring top producers.
 

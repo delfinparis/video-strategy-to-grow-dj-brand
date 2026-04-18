@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Plan Your Marketing Budget With AI -- Track ROI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to plan your marketing budget -- track ROI.**
+
 **Category:** Money & Business | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.7 | **Rank:** 83 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, September 02, 2026

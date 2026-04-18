@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Your Onboarding Process Is Why They Leave
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your onboarding process is why they leave.**
+
 **Category:** Systems / Team Leader | **Avatar:** Team Leader | **AI Tool:** Claude
 **Score:** 6.4 | **Rank:** 95 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, September 30, 2026
@@ -34,7 +36,6 @@ Most team leaders spend thousands of dollars recruiting an agent and almost noth
 And here's the part most leaders miss -- the agent doesn't blame themselves when they leave. They blame you.
 Here's the fix. Ask Claude: "Build me a ninety-day agent onboarding program. Include week-by-week training milestones, a system-by-system resource checklist, a mentor pairing structure, weekly manager check-in questions, and the specific metrics that define a successfully onboarded agent." Claude builds you a first draft in minutes. You refine it once. Every new agent gets the same structured experience from day one -- no more figuring it out alone.
 In twelve years of interviewing top team leaders on Keeping It Real, the ones with the lowest turnover all said the same thing: onboarding isn't an HR function -- it's a retention strategy. The investment you make in a new agent's first ninety days determines whether they're still on your team in year three.
-What's the biggest gap in how you currently onboard new agents?
 ## Producer Note
 Strong "film this soon" candidate for team leader audience -- the "they blame you" line is the shareable moment; verify if any specific retention stat (e.g., "agents who go through structured onboarding are X% more likely to stay") can be sourced for added specificity.
 

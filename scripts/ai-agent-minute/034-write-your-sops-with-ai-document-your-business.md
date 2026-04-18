@@ -14,6 +14,8 @@ day: "Monday"
 
 # Write Your SOPs With AI -- Document Your Business
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to write your sops -- document your business.**
+
 **Category:** Systems & Operations | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Claude
 **Score:** 7.4 | **Rank:** 34 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, May 11, 2026

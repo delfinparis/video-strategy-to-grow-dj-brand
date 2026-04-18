@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # A 40-year veteran just told me...
 
+> **WOW: Tactical specificity + earned observation from Jay Cannone: a 40-year veteran just told me.**
+
 **Guest:** Jay Cannone | **Avatar:** Overwhelmed Newbie | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 29 of 62
 **Post Date:** Thursday, April 30, 2026

@@ -14,6 +14,8 @@ day: "Monday"
 
 # Build A Math-Based Weekly Schedule With AI -- Not Habit
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a math-based weekly schedule -- not habit.**
+
 **Category:** Time & Productivity | **Avatar:** Stuck Intermediate / Forgotten Middle | **AI Tool:** Claude
 **Score:** 6.4 | **Rank:** 94 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, September 28, 2026

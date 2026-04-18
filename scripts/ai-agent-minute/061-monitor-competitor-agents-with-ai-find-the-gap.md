@@ -14,6 +14,8 @@ day: "Monday"
 
 # Monitor Competitor Agents With AI -- Find The Gap They're Missing
 
+> **WOW: Tactical specificity: names Perplexity / Claude and gives the exact prompt to monitor competitor agents -- find the gap they're missing.**
+
 **Category:** Market & Industry | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Perplexity / Claude
 **Score:** 6.9 | **Rank:** 61 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, July 13, 2026
@@ -34,7 +36,6 @@ Here's the reality. Most agents have only a vague sense of who their real compet
 The agents who dominate their market know exactly who they're up against -- and exactly where those agents are weak.
 Here's the thirty-minute research process. Use Perplexity to pull intel on your top five competitors -- their recent production in your target neighborhoods, their social media positioning, their Google and Zillow reviews, their average days on market. Then bring it all into Claude and type: "Based on how these agents position themselves, identify three gaps or underserved angles I could own in this market."
 You might find that nobody is serving a specific price range, neighborhood, or client type. And that's your opening.
-Do you research your competition?
 ## Producer Note
 " The "competing on instinct, then wondering why" mirror moment is accurate and will resonate. No accuracy issues.
 

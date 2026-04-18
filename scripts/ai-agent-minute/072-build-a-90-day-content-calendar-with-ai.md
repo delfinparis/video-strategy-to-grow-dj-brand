@@ -14,6 +14,8 @@ day: "Friday"
 
 # Build A 90-Day Content Calendar With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a 90-day content calendar.**
+
 **Category:** Systems & Operations | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 72 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Friday, August 07, 2026
@@ -35,7 +37,6 @@ Most agents post when inspired. The top producers post on a plan -- and that pla
 Here's how to build the plan. Sit down with Claude and type: "Help me build a ninety-day content calendar. My five content pillars are [list them]. I post [X] times a week. My two main goals are [leads/recruiting/both]. Generate a week-by-week plan with content type, topic, hook, and CTA for each post."
 Print it. Put it on your wall. Execute it. Come back in ninety days and see what actually worked.
 Content that compounds is content that was planned. Spontaneous posts generate spontaneous results -- which is to say, almost none.
-Do you have a content calendar right now -- or are you figuring it out day by day?
 ## Producer Note
 Mild overlap with Script #17 (content batching) -- keep this focused on the strategic planning angle, Script #17 on the batching mechanic. Don't film these in the same week. "Print it, put it on your wall" is a genuinely actionable close.
 

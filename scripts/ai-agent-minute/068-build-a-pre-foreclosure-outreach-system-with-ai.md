@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Build A Pre-Foreclosure Outreach System With AI
 
+> **WOW: Tactical specificity: names Perplexity / Claude and gives the exact prompt to build a pre-foreclosure outreach system.**
+
 **Category:** Lead Generation / Market | **Avatar:** Aspiring Top Producer | **AI Tool:** Perplexity / Claude
 **Score:** 6.9 | **Rank:** 68 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, July 29, 2026
@@ -34,7 +36,6 @@ Here's the reality most agents don't know. Pre-foreclosure properties are docume
 Most agents ignore this lead source because they don't know how to approach it correctly.
 Here's the fix. Ask Claude to build a compassionate pre-foreclosure outreach system. Type: "Write a homeowner outreach system for someone in pre-foreclosure. Include: a letter that leads with empathy and options -- not a pitch, a list of what I can genuinely offer them -- short sale expertise, cash buyer network, flexible timeline, and a follow-up sequence for homeowners who need time to process."
 Done right, this isn't predatory. It's genuinely one of the most helpful things an agent can do for a homeowner in crisis.
-Do you work pre-foreclosure leads?
 ## Producer Note
 The "compassionate" reframe is what makes this script work -- it's a legitimate lead source that most agents avoid because it feels opportunistic, and the script directly addresses that. Narrower audience but high resonance for aspiring top producers. No accuracy issues.
 

@@ -12,6 +12,8 @@ status: "ready"
 
 # I Spent a Day in a Room With NAR's Executive Team. Here's What I Noticed.
 
+> **WOW: Earned inside-the-industry observation: D.J. was in the room. I Spent a Day in a Room With NAR's Executive Team. Here's What I Noticed.**
+
 **Pillar:** Inside the Industry | **Type:** Access (Type A)
 **Primary Platform:** LinkedIn | **Post Date:** Saturday, April 25, 2026
 

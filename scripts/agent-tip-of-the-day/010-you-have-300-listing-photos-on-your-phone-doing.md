@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # You have 300 listing photos on...
 
+> **WOW: Tactical specificity + earned observation from Courtney Poulos: you have 300 listing photos on.**
+
 **Guest:** Courtney Poulos | **Avatar:** Stuck Intermediate | **Pillar:** Ai Agent
 **Score:** 9 | **Rank:** 10 of 62
 **Post Date:** Tuesday, March 17, 2026

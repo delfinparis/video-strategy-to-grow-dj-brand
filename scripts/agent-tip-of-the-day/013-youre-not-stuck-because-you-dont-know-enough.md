@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # You're not stuck because you don't...
 
+> **WOW: Tactical specificity + earned observation from Connie Mahan: you're not stuck because you don't.**
+
 **Guest:** Connie Mahan | **Avatar:** Overwhelmed Newbie | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 13 of 62
 **Post Date:** Tuesday, March 24, 2026

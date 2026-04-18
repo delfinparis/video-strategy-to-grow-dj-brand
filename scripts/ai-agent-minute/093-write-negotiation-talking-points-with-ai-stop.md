@@ -14,6 +14,8 @@ day: "Friday"
 
 # Write Negotiation Talking Points With AI -- Stop Improvising
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to write negotiation talking points -- stop improvising.**
+
 **Category:** Conversion & Sales Skills | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.4 | **Rank:** 93 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Friday, September 25, 2026

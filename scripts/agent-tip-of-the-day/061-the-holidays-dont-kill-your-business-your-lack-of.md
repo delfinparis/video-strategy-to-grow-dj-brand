@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The holidays don't kill your business....
 
+> **WOW: Tactical specificity + earned observation from Paul Salter: the holidays don't kill your business.**
+
 **Guest:** Paul Salter | **Avatar:** Stuck Intermediate | **Pillar:** Real Talk
 **Score:** 7 | **Rank:** 61 of 62
 **Post Date:** Tuesday, July 14, 2026

@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Prep Buyer Consultations With AI -- Set Expectations
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to prep buyer consultations -- set expectations.**
+
 **Category:** Conversion & Sales Skills | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.6 | **Rank:** 89 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, September 16, 2026
@@ -35,7 +37,6 @@ Three months in, the deal falls apart. And they're not sure why. But you are.
 Here's the fix. Before any buyer consultation, give Claude their profile -- first-time buyer, price range, timeline, the market they're shopping -- and type: "Give me the ten most important questions I should ask this buyer, the five market realities they need to hear before we start looking, and two scenarios where buyers in their situation typically get frustrated."
 Walk in with a real structure. Not a blank stare.
 A great buyer consultation saves you thirty hours of frustration later. Claude helps you run one every single time.
-Do you have a formal buyer consultation process -- or do you wing it?
 ## Producer Note
 The "three months in, the deal falls apart -- and you know why" re-hook lands well. Pair with Script #67 (Buyer Education Series) in a buyer-focused week. The CTA invites honest self-assessment and will generate quality comments.
 

@@ -14,6 +14,8 @@ day: "Monday"
 
 # Fix Feast-Or-Famine Income With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to fix feast-or-famine income.**
+
 **Category:** Money & Business | **Avatar:** Stuck Intermediate | **AI Tool:** Claude
 **Score:** 7.3 | **Rank:** 37 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, May 18, 2026
@@ -35,7 +37,7 @@ Most agents live in this cycle for their entire career and never realize they're
 Here's how to break it. Ask Claude to help you build a "pipeline floor" -- the minimum prospecting activity you will do every single week, no matter how busy you are. Type: "If I want a floor of two closings every month, what is the minimum daily prospecting calls, weekly appointments, and monthly new lead adds I need to maintain consistently -- starting today?"
 Then ask Claude to build that activity as a non-negotiable block in your weekly schedule.
 The busy season is exactly when you must protect your prospecting time. That's the only thing that ends the cycle.
-Are you currently in a feast or a famine? Tell me where you're at.
+Are you currently in a feast or a famine?
 ## Producer Note
 The "you're the one creating it" agitation line will sting in the best way -- it flips the victim narrative into an agency narrative. Runs slightly long -- trim the "panic hits again" sentence if needed. Strong emotional arc throughout.
 

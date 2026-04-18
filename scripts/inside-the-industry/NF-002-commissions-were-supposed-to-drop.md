@@ -11,6 +11,8 @@ status: "ready"
 
 # Commissions Were Supposed to Drop. They Didn't.
 
+> **WOW: Surprising statistic + earned observation: Commissions Were Supposed to Drop. They Didn't. Real news, real numbers, named sources.**
+
 **Pillar:** Market Intelligence | **Avatars:** All
 **Post Date:** Sunday, April 12, 2026
 

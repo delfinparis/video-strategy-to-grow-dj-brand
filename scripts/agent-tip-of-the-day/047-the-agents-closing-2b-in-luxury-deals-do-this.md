@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # The agents closing $2B+ in luxury...
 
+> **WOW: Tactical specificity + earned observation from Jill Preschel: the agents closing $2b+ in luxury.**
+
 **Guest:** Jill Preschel | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 47 of 62
 **Post Date:** Thursday, June 11, 2026

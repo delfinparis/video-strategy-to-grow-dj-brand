@@ -14,6 +14,8 @@ share_trigger: "identity -- validates agents who work 'all levels' while challen
 
 # The agent doing $50 million a...
 
+> **WOW: Tactical specificity + earned observation from Kristee Leonard: the agent doing $50 million a.**
+
 **Guest:** Kristee Leonard | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 50 of 62
 **Post Date:** Thursday, June 18, 2026

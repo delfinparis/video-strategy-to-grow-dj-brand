@@ -14,6 +14,8 @@ day: "Friday"
 
 # The Veteran's Problem Isn't Doing Too Little
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to the veteran's problem isn't doing too little.**
+
 **Category:** Mindset / Veteran | **Avatar:** Burned-Out Veteran | **AI Tool:** Claude
 **Score:** 7.4 | **Rank:** 30 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Friday, May 01, 2026

@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Your tenth video will beat someone...
 
+> **WOW: Tactical specificity + earned observation from Kim Rittberg: your tenth video will beat someone.**
+
 **Guest:** Kim Rittberg | **Avatar:** Stuck Intermediate | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 49 of 62
 **Post Date:** Tuesday, June 16, 2026

@@ -14,6 +14,8 @@ day: "Friday"
 
 # Create A Seller Prep Playbook With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to create a seller prep playbook.**
+
 **Category:** Client Management | **Avatar:** Stuck Intermediate / Forgotten Middle | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 66 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, July 24, 2026

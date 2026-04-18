@@ -14,6 +14,8 @@ day: "Friday"
 
 # Mine Your Phone Before Zillow -- Your Sphere Is Your First Lead Source
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to mine your phone before zillow -- your sphere is your first lead source.**
+
 **Category:** Lead Generation | **Avatar:** Overwhelmed Newbie | **AI Tool:** Claude
 **Score:** 6.1 | **Rank:** 99 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Friday, October 09, 2026
@@ -34,7 +36,6 @@ Here's what actually happens. The panic sets in, you think you need to buy leads
 And the agents who go broke in year one almost always made the same mistake -- they bought strangers while their sphere went quiet.
 Here's the fix. Open Claude and list your contact categories -- neighbors, former coworkers, college connections, gym people. Then type: "Write a personal, non-salesy outreach message for each of these groups explaining why I got into real estate. Not a mass announcement -- individual messages that feel like they came from a friend." Then ask it for ten conversation starters for reconnecting with someone you haven't spoken to in a year. Not pitches. Real conversations.
 Your sphere doesn't need to be sold to. It just needs to be reminded you exist.
-How many contacts in your phone right now have no idea you're in real estate?
 ## Producer Note
 Runs slightly long -- trim "gym people" or the second agitation line on delivery. Best for platforms with high new-agent traffic. The comment CTA ("
 

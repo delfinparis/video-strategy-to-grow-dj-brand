@@ -14,6 +14,8 @@ share_trigger: "debate"
 
 # A real estate tech analyst just...
 
+> **WOW: Tactical specificity + earned observation from Chris Linsell: a real estate tech analyst just.**
+
 **Guest:** Chris Linsell | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 27 of 62
 **Post Date:** Saturday, April 25, 2026

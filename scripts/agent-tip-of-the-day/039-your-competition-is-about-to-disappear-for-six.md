@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Your competition is about to disappear...
 
+> **WOW: Tactical specificity + earned observation from Carrie McCormick: your competition is about to disappear.**
+
 **Guest:** Carrie McCormick | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 39 of 62
 **Post Date:** Saturday, May 23, 2026

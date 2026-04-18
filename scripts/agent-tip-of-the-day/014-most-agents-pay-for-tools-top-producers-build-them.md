@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Most agents pay for tools. Top...
 
+> **WOW: Tactical specificity + earned observation from D.J. Paris: most agents pay for tools. top.**
+
 **Guest:** D.J. Paris | **Avatar:** Stuck Intermediate | **Pillar:** Ai Agent
 **Score:** 9 | **Rank:** 14 of 62
 **Post Date:** Thursday, March 26, 2026

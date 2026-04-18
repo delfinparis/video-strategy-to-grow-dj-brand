@@ -14,6 +14,8 @@ day: "Monday"
 
 # Convert Open House Visitors With AI Follow-Up
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to convert open house visitors follow-up.**
+
 **Category:** Lead Generation | **Avatar:** All | **AI Tool:** Claude
 **Score:** 5.7 | **Rank:** 100 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, October 12, 2026

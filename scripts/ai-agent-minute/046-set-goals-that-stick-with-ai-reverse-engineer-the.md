@@ -14,6 +14,8 @@ day: "Monday"
 
 # Set Goals That Stick With AI -- Reverse-Engineer The Number
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to set goals that stick -- reverse-engineer the number.**
+
 **Category:** Mindset & Motivation | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 46 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, June 08, 2026
@@ -35,7 +37,6 @@ And hope is not a production strategy.
 Here's how to turn a wish into a math equation. Tell Claude your income goal for the year and your average commission. Then type: "Calculate exactly how many closed deals, active clients, appointments, and prospecting calls I need per month, per week, and per day to hit this number. Then build me a simple weekly scorecard I can fill out every Friday to see if I'm on pace."
 Now your goal isn't on a whiteboard. It's in your calendar. Every day.
 A goal without a daily activity attached to it is just an expensive disappointment. Build yours with AI this week.
-What's your deal goal for this year?
 ## Producer Note
 "Hope is not a production strategy" is punchy and quotable -- consider making it the on-screen callout. " Pairs with Scripts #20 and #79 as a planning trilogy.
 

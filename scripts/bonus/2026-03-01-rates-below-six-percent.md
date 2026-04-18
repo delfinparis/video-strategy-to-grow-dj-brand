@@ -11,6 +11,8 @@ day: "Sunday (bonus)"
 
 # Rates Below 6% -- 3 Calls Every Agent Should Make Right Now
 
+> **WOW: Tactical specificity + earned observation from D.J. Paris: rates below 6% -- 3 calls every agent should make right now.**
+
 **Guest:** D.J. Paris | **Avatar:** All | **Pillar:** Market Intelligence
 **Post Date:** Sunday, March 1, 2026 (Bonus -- timely market script)
 

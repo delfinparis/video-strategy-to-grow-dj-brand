@@ -14,6 +14,8 @@ day: "Friday"
 
 # Quiet Imposter Syndrome With AI -- Build A Competency File
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to quiet imposter syndrome -- build a competency file.**
+
 **Category:** Mindset & Motivation | **Avatar:** Overwhelmed Newbie | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 75 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Friday, August 14, 2026

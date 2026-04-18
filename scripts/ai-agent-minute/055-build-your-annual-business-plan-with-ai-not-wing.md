@@ -14,6 +14,8 @@ day: "Monday"
 
 # Build Your Annual Business Plan With AI -- Not Wing It
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build your annual business plan -- not wing it.**
+
 **Category:** Money / Systems | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 55 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, June 29, 2026

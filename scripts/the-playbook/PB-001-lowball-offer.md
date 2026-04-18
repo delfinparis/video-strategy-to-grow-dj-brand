@@ -13,6 +13,8 @@ status: "ready"
 
 # Here's the Play When You Get a Lowball Offer
 
+> **WOW: Tactical specificity: exact words to say when here's the play when you get a lowball offer. Real Negotiation scenario, word-for-word response.**
+
 **Series:** The Playbook | **Scenario Category:** Negotiation
 **Primary Platform:** Personal LI / Personal IG / Personal FB
 **Post Date:** Wednesday, April 22, 2026

@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Write Hyperlocal Farm Reports With AI -- Be The Mailbox Expert
 
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to write hyperlocal farm reports -- be the mailbox expert.**
+
 **Category:** Lead Generation | **Avatar:** Stuck Intermediate | **AI Tool:** Claude / Perplexity
 **Score:** 6.4 | **Rank:** 92 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, September 23, 2026

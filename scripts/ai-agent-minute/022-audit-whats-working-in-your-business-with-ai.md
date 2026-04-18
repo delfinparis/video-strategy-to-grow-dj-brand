@@ -14,6 +14,8 @@ day: "Monday"
 
 # Audit What's Working In Your Business With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to audit what's working in your business.**
+
 **Category:** Personal Brand / Mindset | **Avatar:** Burned-Out Veteran / Forgotten Middle | **AI Tool:** Claude
 **Score:** 7.7 | **Rank:** 22 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Monday, April 13, 2026
@@ -34,7 +36,6 @@ Here's what happens when you only focus on what's broken. You develop tunnel vis
 Most agents grow by adding new things. Top producers often grow by doing more of what already works.
 Here's the audit. List your last twenty closed deals and where each came from. List the client types who were easiest and most enjoyable to serve. List the marketing you've done that actually produced measurable results. Give that to Claude and type: "Identify the patterns: which lead sources are already working best for me, which client types are my strongest fit, and which of my activities has the highest return for the effort I put in. Then tell me: what would happen if I committed to doubling down on just the top three for ninety days?"
 Growth doesn't always come from doing something new. Sometimes it comes from finally seeing clearly what you're already doing right.
-What's the one thing in your business working better than everything else?
 ## Producer Note
 Runs long -- needs to be trimmed to approximately 115 seconds on delivery. Cut "They just keep doing their quiet, efficient work while you pour energy into trying to fix everything else" -- it's good but not essential. The CTA asking "what's working better than everything else" will generate positive, shareable comments -- unusually strong engagement potential because it invites success stories rather than problems.
 

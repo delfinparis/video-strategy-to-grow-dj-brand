@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # A white duvet in your trunk...
 
+> **WOW: Tactical specificity + earned observation from Amanda Pendleton: a white duvet in your trunk.**
+
 **Guest:** Amanda Pendleton | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 10 | **Rank:** 1 of 62
 **Post Date:** Tuesday, February 24, 2026
@@ -43,7 +45,7 @@ You're already staging the kitchen counters. You're already telling sellers to h
 *Production: Show quick cuts of typical staging activities (clearing counters, removing personal items), then back to the white duvet in trunk. End on agent closing trunk with confident look.*
 
 ### CTA (0:50-0:60)
-So here's your homework: Buy two white duvets this week. Keep them in your car. Use them on your next three listings. Then tell me if your engagement numbers don't change.
+So here's your homework: Buy two white duvets this week. Keep them in your car. Use them on your next three listings.
 
 *Production: Direct to camera. Text overlay: '2 white duvets = 30% more engagement.' Fade to podcast logo with 'Full episode: link in bio.'*
 

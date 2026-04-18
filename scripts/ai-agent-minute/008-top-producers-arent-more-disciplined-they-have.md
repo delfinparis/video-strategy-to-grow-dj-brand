@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Top Producers Aren't More Disciplined. They Have Better Defaults.
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to top producers aren't more disciplined. they have better defaults.**
+
 **Category:** Mindset / Systems | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.6 | **Rank:** 8 of 100 | **Tier:** 1 (Must-Film-First)
 **Post Date:** Wednesday, March 11, 2026

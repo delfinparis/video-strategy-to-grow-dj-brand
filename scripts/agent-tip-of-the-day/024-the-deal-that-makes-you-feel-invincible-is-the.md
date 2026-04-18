@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The deal that makes you feel...
 
+> **WOW: Tactical specificity + earned observation from Michael Thornton: the deal that makes you feel.**
+
 **Guest:** Michael Thornton | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 9 | **Rank:** 24 of 62
 **Post Date:** Saturday, April 18, 2026

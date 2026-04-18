@@ -14,6 +14,8 @@ day: "Friday"
 
 # Catch Burnout Early With AI -- Before It Costs You Everything
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to catch burnout early -- before it costs you everything.**
+
 **Category:** Mindset & Motivation | **Avatar:** Burned-Out Veteran / Forgotten Middle | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 48 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, June 12, 2026

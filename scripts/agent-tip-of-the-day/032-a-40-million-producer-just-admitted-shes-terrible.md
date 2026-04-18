@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # A $40 million producer just admitted...
 
+> **WOW: Tactical specificity + earned observation from Bari Mill: a $40 million producer just admitted.**
+
 **Guest:** Bari Mill | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 32 of 62
 **Post Date:** Thursday, May 07, 2026

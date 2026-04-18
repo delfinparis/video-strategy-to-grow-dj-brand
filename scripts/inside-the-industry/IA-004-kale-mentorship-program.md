@@ -13,6 +13,8 @@ kale_signaling: true
 
 # I Sat In On a Kale Mentorship Conversation This Week
 
+> **WOW: Earned inside-the-industry observation: D.J. was in the room. I Sat In On a Kale Mentorship Conversation This Week.**
+
 **Pillar:** Inside the Industry | **Type:** Access (Type A) | **Kale-Signaling Variant**
 **Primary Platform:** LinkedIn | **Post Date:** TBD
 

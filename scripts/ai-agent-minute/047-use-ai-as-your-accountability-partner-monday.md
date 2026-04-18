@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Use AI As Your Accountability Partner -- Monday Check-In
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to use AI as your accountability partner -- monday check-in.**
+
 **Category:** Mindset & Motivation | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 47 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, June 10, 2026

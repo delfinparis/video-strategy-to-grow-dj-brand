@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Your content is invisible because you're...
 
+> **WOW: Tactical specificity + earned observation from Kim Rittberg: your content is invisible because you're.**
+
 **Guest:** Kim Rittberg | **Avatar:** Stuck Intermediate | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 54 of 62
 **Post Date:** Saturday, June 27, 2026

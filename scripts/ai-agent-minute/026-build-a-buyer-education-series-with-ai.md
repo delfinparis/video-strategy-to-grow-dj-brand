@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Build A Buyer Education Series With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a buyer education series.**
+
 **Category:** Conversion / Market | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.6 | **Rank:** 26 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Wednesday, April 22, 2026

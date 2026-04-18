@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The clients you say NO to...
 
+> **WOW: Tactical specificity + earned observation from Jill Preschel: the clients you say no to.**
+
 **Guest:** Jill Preschel | **Avatar:** Aspiring Top Producer | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 33 of 62
 **Post Date:** Saturday, May 09, 2026

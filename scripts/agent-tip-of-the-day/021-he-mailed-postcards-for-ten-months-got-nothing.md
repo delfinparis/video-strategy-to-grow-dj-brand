@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # He mailed postcards for ten months....
 
+> **WOW: Tactical specificity + earned observation from Jay Cannone: he mailed postcards for ten months.**
+
 **Guest:** Jay Cannone | **Avatar:** Stuck Intermediate | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 21 of 62
 **Post Date:** Saturday, April 11, 2026

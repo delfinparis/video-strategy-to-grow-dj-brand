@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Insurance is killing more deals than...
 
+> **WOW: Tactical specificity + earned observation from Jeff Biebuyck: insurance is killing more deals than.**
+
 **Guest:** Jeff Biebuyck | **Avatar:** Stuck Intermediate | **Pillar:** Market Intelligence
 **Score:** 9 | **Rank:** 9 of 62
 **Post Date:** Saturday, March 14, 2026

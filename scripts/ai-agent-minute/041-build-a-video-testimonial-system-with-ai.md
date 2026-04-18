@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Build A Video Testimonial System With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a video testimonial system.**
+
 **Category:** Conversion / Personal Brand | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.3 | **Rank:** 41 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, May 27, 2026
@@ -34,7 +36,6 @@ Here's why agents don't collect video testimonials even from clients who would h
 Most agents have happy clients and no video proof. The ones who do have it built a system.
 Here's the system. Ask Claude to build a frictionless video testimonial request. Type: "Write a post-closing message asking a client for a sixty-second phone video testimonial. Include: three specific questions to prompt what they should say -- 'What were you most worried about before we started?' 'What surprised you most?' 'Who would you recommend me to?' -- simple phone filming instructions, and a genuine thank-you. Make the ask feel natural, not like a form."
 Giving clients a script isn't cheesy -- most people genuinely don't know what to say, and having a guide is actually a relief.
-How many video testimonials do you currently have?
 ## Producer Note
 "Giving them a script isn't cheesy" is the objection-handling moment that will make agents feel permission to do this -- important line, keep it. The three specific questions are genuinely good and worth making on-screen callouts.
 

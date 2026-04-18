@@ -14,6 +14,8 @@ day: "Monday"
 
 # Audit Your Lead Source ROI With AI -- Stop Guessing
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to audit your lead source ROI -- stop guessing.**
+
 **Category:** Lead Generation | **Avatar:** Forgotten Middle | **AI Tool:** Claude
 **Score:** 6.3 | **Rank:** 91 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, September 21, 2026
@@ -35,7 +37,6 @@ That means you could be spending thousands on sources that never close -- and no
 Here's the fix. Export your last twenty-four months of closed deals from your CRM -- include the lead source field. Paste it into Claude and type: "Analyze these lead sources by volume, conversion rate, and average commission. Which source has the best ROI -- and which should I cut immediately?"
 Claude will find patterns you've been too busy to spot.
 Top producers don't spend more on leads. They spend smarter -- because they track everything. You can run this audit tonight in under thirty minutes.
-When's the last time you audited your lead source ROI?
 ## Producer Note
 The podcast credibility signal ("twelve years talking to agents") is naturally deployed here -- keep it. Requires agents to have CRM data with lead source fields -- consider adding a one-liner caveat for agents whose CRM tracking is incomplete.
 

@@ -14,6 +14,8 @@ day: "Monday"
 
 # Automate Post-Closing Client Check-Ins With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to automate post-closing client check-ins.**
+
 **Category:** Systems & Operations | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.9 | **Rank:** 16 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Monday, March 30, 2026

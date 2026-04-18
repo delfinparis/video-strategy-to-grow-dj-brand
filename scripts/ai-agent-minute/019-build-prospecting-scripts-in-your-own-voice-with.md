@@ -14,6 +14,8 @@ day: "Monday"
 
 # Build Prospecting Scripts In Your Own Voice With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build prospecting scripts in your own voice.**
+
 **Category:** Mindset / Lead Gen | **Avatar:** Overwhelmed Newbie / Stuck Intermediate | **AI Tool:** Claude
 **Score:** 7.7 | **Rank:** 19 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Monday, April 06, 2026

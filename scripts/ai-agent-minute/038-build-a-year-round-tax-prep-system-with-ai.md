@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Build A Year-Round Tax Prep System With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a year-round tax prep system.**
+
 **Category:** Money & Business | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.3 | **Rank:** 38 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, May 20, 2026
@@ -35,7 +37,7 @@ Most agents handle taxes reactively -- in March, in a panic. Top producers handl
 Here's how to build the system right now. Open Claude and type: "Give me a comprehensive list of every deductible expense category for a self-employed real estate agent in [your state]. Then build me a monthly expense tracking template I can use in a spreadsheet."
 Do this today. Set a quarterly calendar reminder to review it and make an estimated tax payment. Never be surprised by April again.
 Every dollar you fail to track is a dollar you hand to the IRS for free. You earned it. Keep it.
-Did you have an unexpected tax bill last April? Yes or no -- you don't have to say the amount.
+Did you have an unexpected tax bill last April?
 ## Producer Note
 Add a brief caption note that this is general guidance and not tax advice -- consult a CPA. The "yes or no, you don't have to say the amount" CTA is clever -- low barrier, high participation. Film this in Q4 or January for maximum relevance; it has some seasonality.
 

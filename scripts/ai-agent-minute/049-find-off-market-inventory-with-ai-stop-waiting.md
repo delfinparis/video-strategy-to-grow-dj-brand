@@ -14,6 +14,8 @@ day: "Monday"
 
 # Find Off-Market Inventory With AI -- Stop Waiting For MLS
 
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to find off-market inventory -- stop waiting for MLS.**
+
 **Category:** Market & Industry | **Avatar:** All | **AI Tool:** Claude / Perplexity
 **Score:** 7.0 | **Rank:** 49 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, June 15, 2026

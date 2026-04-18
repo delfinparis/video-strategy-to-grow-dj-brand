@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # AI now knows which agents are...
 
+> **WOW: Tactical specificity + earned observation from Unknown Guest: AI now knows which agents are.**
+
 **Guest:** Unknown Guest | **Avatar:** Team Leader | **Pillar:** Ai Agent
 **Score:** 8 | **Rank:** 30 of 62
 **Post Date:** Saturday, May 02, 2026

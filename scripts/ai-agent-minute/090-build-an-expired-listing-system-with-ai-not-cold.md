@@ -14,6 +14,8 @@ day: "Friday"
 
 # Build An Expired Listing System With AI -- Not Cold-Start Every One -- Convert More Sellers Who Got Burned
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build an expired listing system -- not cold-start every one -- convert more sellers who got burned.**
+
 **Category:** Lead Generation / Systems | **Avatar:** Aspiring Top Producer | **AI Tool:** Claude
 **Score:** 7.4 | **Rank:** 90 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Friday, September 18, 2026

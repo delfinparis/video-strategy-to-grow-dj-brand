@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Karina Chavez answered a 7pm call...
 
+> **WOW: Tactical specificity + earned observation from Karina Chavez: karina chavez answered a 7pm call.**
+
 **Guest:** Karina Chavez | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 9 | **Rank:** 16 of 62
 **Post Date:** Tuesday, March 31, 2026

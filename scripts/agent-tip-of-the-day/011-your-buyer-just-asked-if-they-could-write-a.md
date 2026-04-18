@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Your buyer just asked if they...
 
+> **WOW: Tactical specificity + earned observation from Marisa Kashino: your buyer just asked if they.**
+
 **Guest:** Marisa Kashino | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 11 of 62
 **Post Date:** Thursday, March 19, 2026

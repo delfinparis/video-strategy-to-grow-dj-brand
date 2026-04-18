@@ -14,6 +14,8 @@ day: "Friday"
 
 # Build A Pre-Listing Packet With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a pre-listing packet.**
+
 **Category:** Conversion / Systems | **Avatar:** Intermediate / Forgotten Middle | **AI Tool:** Claude
 **Score:** 7.4 | **Rank:** 33 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Friday, May 08, 2026

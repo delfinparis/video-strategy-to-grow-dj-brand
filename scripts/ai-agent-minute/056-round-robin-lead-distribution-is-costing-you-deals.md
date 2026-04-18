@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Round-Robin Lead Distribution Is Costing You Deals
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to round-robin lead distribution is costing you deals.**
+
 **Category:** Systems / Lead Gen | **Avatar:** Team Leader / Aspiring Top Producer | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 56 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, July 01, 2026
@@ -34,7 +36,7 @@ Most teams distribute leads by round-robin or whoever answers the phone first. T
 And the agents who get mismatched leads don't just lose the deal -- they lose confidence. The compounding cost is bigger than the single lost commission.
 Here's the fix. Ask Claude to help you build a lead routing matrix. You give it your lead types -- price range, buyer versus seller, urgency level, neighborhood, first-time versus experienced client -- and your agent profiles: experience level, strengths, current workload, and language capabilities. Claude builds you a simple decision tree your admin runs every time a new lead comes in. The right lead goes to the right agent -- every time, not just when someone gets lucky.."]
 Lead quality matters. Lead-to-agent fit matters just as much. Most teams optimize for the first and ignore the second. You can fix that today.
-Does your team have a formal lead routing process right now, or is it still first-come-first-served? Tell me honestly.
+Does your team have a formal lead routing process right now, or is it still first-come-first-served?
 ## Producer Note
 Highly practical -- the "agent loses confidence" agitation point is strong and underused in the original. No overlap with other scripts. No accuracy concerns.
 

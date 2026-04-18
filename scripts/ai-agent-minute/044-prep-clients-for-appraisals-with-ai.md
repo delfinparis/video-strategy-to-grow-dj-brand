@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Prep Clients For Appraisals With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to prep clients for appraisals.**
+
 **Category:** Market / Systems | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.1 | **Rank:** 44 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, June 03, 2026
@@ -35,7 +37,6 @@ The low appraisal didn't kill the deal. The surprise did.
 Here's the fix. Before any appraisal is scheduled, give your buyer a brief "Appraisal Scenarios" guide built with Claude. Type: "Write a plain-English guide for a buyer that covers: what an appraisal actually measures, what happens at value, above value, and below value, and the three specific paths forward if it comes in low -- renegotiate price, cover the gap, or walk away. Make it calm and clear -- not alarmist."
 Brief your client on this before the appraisal happens. Not after.
 A prepared client doesn't panic. A panicking client can blow up months of work in forty-eight hours.
-Have you ever lost a deal to a low appraisal?
 ## Producer Note
 "The low appraisal didn't kill the deal -- the surprise did" is the best single line in this script and possibly the most quotable line in this entire batch. Put it on screen. Strong practical value for agents at all levels.
 

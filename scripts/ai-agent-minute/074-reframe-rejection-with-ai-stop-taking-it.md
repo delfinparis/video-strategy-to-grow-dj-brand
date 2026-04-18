@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Reframe Rejection With AI -- Stop Taking It Personally
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to reframe rejection -- stop taking it personally.**
+
 **Category:** Mindset & Motivation | **Avatar:** Overwhelmed Newbie / Stuck Intermediate | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 74 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, August 12, 2026
@@ -35,7 +37,6 @@ And the sad part is -- most of those "nos" had nothing to do with you at all.
 Here's something that actually helps. After a rough prospecting session, paste the specific call that shook you into Claude and type: "Help me reframe this from a psychological distance. Give me three alternative explanations for why this person said no that have absolutely nothing to do with my competence or my value."
 Claude will give you a perspective shift you couldn't give yourself in that moment.
 Rejection processing is a skill. AI helps you build it faster than experience alone ever could.
-What's the rejection that stuck with you the longest?
 ## Producer Note
 "You check email instead. You reorganize your desk." -- this mirror moment is specific and accurate enough that agents will feel called out. The "you're not alone in this" CTA close will drive vulnerable comments. Pairs with Script #29 for a mindset week.
 

@@ -14,6 +14,8 @@ day: "Monday"
 
 # Counter Discount Broker Objections With AI
 
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to counter discount broker objections.**
+
 **Category:** Market & Industry | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Claude / Perplexity
 **Score:** 7.1 | **Rank:** 43 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, June 01, 2026
@@ -35,7 +37,6 @@ Most agents defend what they charge. Top producers demonstrate what they deliver
 Here's how to build that demonstration. Use Perplexity to pull data on discount versus full-service agents in your market -- list-to-sale price ratios, average days on market, buyer satisfaction scores. Then bring that into Claude and type: "Write me a two-minute response to the Redfin objection that's entirely data-driven, never defensive, and always focused on the client's outcome -- not my commission."
 Practice it until you can deliver it without a single note.
 The agents who lose to discount brokers talk about price. The agents who win talk about results.
-Have you ever lost a client to a discount brokerage?
 ## Producer Note
 The "defend vs. demonstrate" contrast line is the sharpest in this script -- make it the on-screen callout. Market data availability via Perplexity will vary by location -- caveat that agents should verify what's available in their specific market before filming. Pairs with Scripts #11 and #42 for a "defending your value" mini-series.
 

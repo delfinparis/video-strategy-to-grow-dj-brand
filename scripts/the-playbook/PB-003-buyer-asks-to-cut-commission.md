@@ -13,6 +13,8 @@ status: "ready"
 
 # Here's the Play When Your Buyer Asks You to Cut Your Commission
 
+> **WOW: Tactical specificity: exact words to say when here's the play when your buyer asks you to cut your commission. Real Buyer Consult scenario, word-for-word response.**
+
 **Series:** The Playbook | **Scenario Category:** Buyer Consult
 **Primary Platform:** Personal LI / Personal IG / Personal FB
 **Post Date:** Wednesday, May 6, 2026

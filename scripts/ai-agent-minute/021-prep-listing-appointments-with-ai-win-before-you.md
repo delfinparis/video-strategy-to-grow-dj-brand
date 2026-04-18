@@ -14,6 +14,8 @@ day: "Friday"
 
 # Prep Listing Appointments With AI -- Win Before You Walk In
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to prep listing appointments -- win before you walk in.**
+
 **Category:** Conversion & Sales Skills | **Avatar:** Stuck Intermediate / Forgotten Middle | **AI Tool:** Claude
 **Score:** 7.6 | **Rank:** 21 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Friday, April 10, 2026
@@ -35,7 +37,6 @@ Meanwhile the top listing agents in every market I've talked to in twelve years 
 Here's what that looks like. The night before any listing appointment, give Claude the property address, recent neighborhood comps, and the seller's name. Then type: "Generate the five most likely objections I'll face at this specific listing appointment, a response to each one, and three value-differentiators specific to this property and neighborhood."
 Walk in knowing what they'll push back on. With your answer already ready.
 This prep takes fifteen minutes. It is the highest-ROI fifteen minutes in listing sales.
-What's the most common objection you face at listing appointments?
 ## Producer Note
 Top-10 candidate -- film in week one. The "homework the night before" framing is the kind of simple habit story that agents will share with colleagues. Credibility signal (twelve years of interviews) lands naturally here.
 

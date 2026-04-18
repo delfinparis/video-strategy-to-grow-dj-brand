@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Build Transaction Checklists With AI -- Stop Trusting Memory
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build transaction checklists -- stop trusting memory.**
+
 **Category:** Systems & Operations | **Avatar:** Stuck Intermediate / Forgotten Middle | **AI Tool:** Claude
 **Score:** 6.7 | **Rank:** 98 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, October 07, 2026
@@ -35,7 +37,7 @@ That works -- until it doesn't. And when it breaks down, it always breaks down a
 Here's the fix. Ask Claude: "Create a complete transaction coordination checklist for a residential purchase deal in [your state]. Include every step from executed contract to closing, broken into phases, with who's responsible for each step and the typical deadline."
 Customize it for your market. Turn it into a repeatable checklist in your CRM. Run every single deal through it.
 Systems aren't for beginners. Systems are what separate agents who scale from agents who just survive.
-Do you have a written transaction checklist -- or is it all in your head? Tell me honestly.
+Do you have a written transaction checklist -- or is it all in your head?
 ## Producer Note
 "Sixty-plus steps" is a specific number that lands with weight -- verify it's accurate for a typical residential transaction before filming. The "systems separate scalers from survivors" reframe is strong. Pairs with Script #23 (SOPs) for a systems-focused week.
 

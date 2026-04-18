@@ -14,6 +14,8 @@ day: "Monday"
 
 # Build A Review Request System With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a review request system.**
+
 **Category:** Personal Brand / Systems | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.3 | **Rank:** 40 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, May 25, 2026
@@ -34,7 +36,6 @@ Here's what's happening when clients don't leave reviews. They're not unhappy. T
 Most agents hope clients leave reviews. Top producers make leaving a review the easiest thing their client does all week.
 Here's the system. Ask Claude to build a five-step review request sequence. Type: "Write a review request system for a real estate agent that includes: the optimal timing for each ask after closing, the exact email version, a text version, and a follow-up for non-responders. Each message should include a direct link placeholder, a one-sentence prompt telling the client what to mention, and a genuine thank-you. Make it feel personal -- not automated."
 The easier you make it, the more reviews you get. The more reviews you get, the more clients find you before they ever call.
-How many Google reviews do you currently have?
 ## Producer Note
 "Not their fault, it's yours" is a strong hook line because it's mildly accusatory without being mean -- it reframes responsibility without shame. The "one-sentence prompt telling the client what to mention" is a specific tactic most agents have never tried -- highlight it on screen.
 

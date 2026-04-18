@@ -12,6 +12,8 @@ status: "ready"
 
 # NAR Just Reached Out to Me Directly. Here's Why That Matters.
 
+> **WOW: Earned inside-the-industry observation: D.J. was in the room. NAR Just Reached Out to Me Directly. Here's Why That Matters.**
+
 **Pillar:** Inside the Industry | **Type:** Access (Type A)
 **Primary Platform:** LinkedIn | **Post Date:** Saturday, May 2, 2026
 

@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Your database doesn't answer because they...
 
+> **WOW: Tactical specificity + earned observation from Chase Craig: your database doesn't answer because they.**
+
 **Guest:** Chase Craig | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 41 of 62
 **Post Date:** Thursday, May 28, 2026

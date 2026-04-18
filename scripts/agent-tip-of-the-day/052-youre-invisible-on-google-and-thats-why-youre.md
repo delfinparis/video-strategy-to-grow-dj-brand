@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # You're invisible on Google. And that's...
 
+> **WOW: Tactical specificity + earned observation from Kim Rittberg: you're invisible on google. and that's.**
+
 **Guest:** Kim Rittberg | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 52 of 62
 **Post Date:** Tuesday, June 23, 2026

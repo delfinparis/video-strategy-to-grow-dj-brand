@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # You're getting better at the wrong...
 
+> **WOW: Tactical specificity + earned observation from Courtney Poulos: you're getting better at the wrong.**
+
 **Guest:** Courtney Poulos | **Avatar:** Stuck Intermediate | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 45 of 62
 **Post Date:** Saturday, June 06, 2026

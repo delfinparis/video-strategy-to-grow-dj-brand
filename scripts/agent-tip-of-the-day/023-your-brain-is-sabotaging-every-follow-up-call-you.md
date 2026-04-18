@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Your brain is sabotaging every follow-up...
 
+> **WOW: Tactical specificity + earned observation from Paul Salter: your brain is sabotaging every follow-up.**
+
 **Guest:** Paul Salter | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 23 of 62
 **Post Date:** Thursday, April 16, 2026

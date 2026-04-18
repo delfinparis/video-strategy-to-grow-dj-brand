@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Your college roommate just bought a...
 
+> **WOW: Tactical specificity + earned observation from Bari Mill: your college roommate just bought a.**
+
 **Guest:** Bari Mill | **Avatar:** Overwhelmed Newbie | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 2 of 62
 **Post Date:** Thursday, February 26, 2026

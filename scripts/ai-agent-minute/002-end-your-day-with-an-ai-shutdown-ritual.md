@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # End Your Day With An AI Shutdown Ritual
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to end your day with an AI shutdown ritual.**
+
 **Category:** Time & Productivity | **Avatar:** Stuck Intermediate / Forgotten Middle | **AI Tool:** Claude
 **Score:** 8.3 | **Rank:** 2 of 100 | **Tier:** 1 (Must-Film-First)
 **Post Date:** Wednesday, February 25, 2026
@@ -35,7 +37,6 @@ You're not just carrying work home. You're carrying the feeling that you're alwa
 Here's the fix. Build a ten-minute end-of-day ritual with Claude as your debrief partner. Each evening, tell Claude what you got done, what's still open, and what tomorrow needs. Then type: "Sort my open items by priority, "
 Then close the laptop. The loops are closed. Your brain can actually rest.
 How you end today determines how you start tomorrow. Ten minutes with AI gives you back your evenings.
-Do you have an end-of-day shutdown ritual -- or do you just stop?
 ## Producer Note
 "They stop better" is the best hook in the productivity category -- unexpected and immediately intriguing. The addition of "you're not just carrying work home, you're carrying the feeling that you're always behind" is the mirror moment that will make agents pause. Top-5 candidate. Film in week one.
 

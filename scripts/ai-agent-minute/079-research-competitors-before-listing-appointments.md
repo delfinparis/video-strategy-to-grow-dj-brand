@@ -14,6 +14,8 @@ day: "Monday"
 
 # Research Competitors Before Listing Appointments With AI
 
+> **WOW: Tactical specificity: names Perplexity / Claude and gives the exact prompt to research competitors before listing appointments.**
+
 **Category:** Conversion & Sales Skills | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Perplexity / Claude
 **Score:** 6.7 | **Rank:** 79 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, August 24, 2026
@@ -34,7 +36,7 @@ Here's the reality. Sellers typically interview two or three agents. The ones wh
 So they show up with a folder and hope. The top producers show up with a strategy.
 Here's how to build the strategy. Use Perplexity to research your likely competition -- their recent sales in the neighborhood, their online positioning, their Google reviews, their average days on market. Then take that into Claude and type: "Given how this competitor positions themselves, give me three specific ways I can differentiate in my listing presentation without ever mentioning them by name."
 You walk in knowing things they don't know you know.
-Do you research your competition before a listing appointment? Yes or no --
+Do you research your competition before a listing appointment?
 ## Producer Note
 The contrast line "folder and hope vs. strategy" is the sharpest addition -- consider making it the on-screen callout. Two-tool workflow (Perplexity + Claude) needs a beat that makes it feel simple, not complicated.
 

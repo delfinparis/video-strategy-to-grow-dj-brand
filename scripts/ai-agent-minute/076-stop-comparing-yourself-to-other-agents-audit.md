@@ -14,6 +14,8 @@ day: "Monday"
 
 # Stop Comparing Yourself To Other Agents -- Audit Your Own Progress
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to stop comparing yourself to other agents -- audit your own progress.**
+
 **Category:** Mindset & Motivation | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 76 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, August 17, 2026

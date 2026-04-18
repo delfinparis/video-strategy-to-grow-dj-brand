@@ -14,6 +14,8 @@ day: "Friday"
 
 # Repurpose One Piece Of Content Into A Week Of Posts
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to repurpose one piece of content into a week of posts.**
+
 **Category:** Personal Brand & Marketing | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 63 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, July 17, 2026

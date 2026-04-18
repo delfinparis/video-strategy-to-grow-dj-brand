@@ -14,6 +14,8 @@ day: "Monday"
 
 # Practice Pricing Conversations With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to practice pricing conversations.**
+
 **Category:** Conversion & Sales Skills | **Avatar:** Newbie / Intermediate | **AI Tool:** Claude
 **Score:** 7.9 | **Rank:** 13 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Monday, March 23, 2026

@@ -14,6 +14,8 @@ day: "Friday"
 
 # Run A Weekly Business Review With AI -- Fifteen Minutes
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to run a weekly business review -- fifteen minutes.**
+
 **Category:** Time & Productivity | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Claude
 **Score:** 6.7 | **Rank:** 81 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Friday, August 28, 2026
@@ -35,7 +37,6 @@ What they're missing is the fifteen-minute habit that separates people who grow 
 Here's exactly what it looks like. Every Friday, give Claude your week's numbers and type: "Compare my actual activity against my weekly targets, identify my single biggest gap, and give me the one adjustment that would have the highest impact next week."
 That's it. Fifteen minutes.
 Fifteen minutes of focused reflection with AI is worth more than fifteen hours of unfocused effort. Start this Friday.
-When's the last time you actually looked at your weekly production numbers?
 ## Producer Note
 The credibility signal ("hundreds of top producers in twelve years") is earned and naturally deployed. "Start this Friday" is the "you can do this today" close -- keep it. Pairs with Scripts #30 and #79 as a planning-and-measurement trilogy.
 

@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # That client comment that ruined your...
 
+> **WOW: Tactical specificity + earned observation from Paul Salter: that client comment that ruined your.**
+
 **Guest:** Paul Salter | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 19 of 62
 **Post Date:** Tuesday, April 07, 2026

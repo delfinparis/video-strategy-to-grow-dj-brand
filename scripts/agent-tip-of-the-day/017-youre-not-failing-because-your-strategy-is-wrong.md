@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # You're not failing because your strategy...
 
+> **WOW: Tactical specificity + earned observation from Garrett Maroon: you're not failing because your strategy.**
+
 **Guest:** Garrett Maroon | **Avatar:** Stuck Intermediate | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 17 of 62
 **Post Date:** Thursday, April 02, 2026

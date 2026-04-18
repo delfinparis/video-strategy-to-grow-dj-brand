@@ -14,6 +14,8 @@ day: "Monday"
 
 # Use AI To Build The Business You Actually Want
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to use AI to build the business you actually want.**
+
 **Category:** All Categories -- Capstone | **Avatar:** All | **AI Tool:** Claude
 **Score:** 8.1 | **Rank:** 4 of 100 | **Tier:** 1 (Must-Film-First)
 **Post Date:** Monday, March 02, 2026
@@ -34,7 +36,7 @@ Here's what happens to most agents. The years go by. Production fluctuates. The 
 That's not a business problem. That's a direction problem. And it's the most important one to solve.
 Here's the most valuable thing I can suggest you do with AI. Once a year -- January works well -- sit down with Claude for a two-hour business vision session. Answer the questions most agents never make time for: What does my ideal business look like in five years -- specifically, not vaguely? What does an ideal work week look like, hour by hour? What clients do I genuinely love serving? What would I eliminate tomorrow if I could? And most importantly -- what did I originally want this business to give me, and is it currently doing that? Ask Claude to turn your honest answers into a one-page business design document. Review it every quarter. Build toward it every week.
 AI can make you more productive. But the real gift -- the one most agents never use -- is using it to get more intentional. So the business you're building is actually the one you want.
-What does your ideal real estate business look like -- really? Not the polished version. The real one. I read every single comment.
+What does your ideal real estate business look like -- really? Not the polished version. The real one.
 ## Producer Note
 The capstone -- this is the highest-scoring script in the batch and should be treated as a milestone post (episode 100, series anniversary, or New Year launch). D.J. should deliver this one with more personal warmth and slightly slower pace than other scripts. The CTA will generate the longest comment thread in the series. Film this as a special -- slightly different setting or framing if possible.
 

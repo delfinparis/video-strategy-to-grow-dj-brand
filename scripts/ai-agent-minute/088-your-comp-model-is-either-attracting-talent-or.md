@@ -14,6 +14,8 @@ day: "Monday"
 
 # Your Comp Model Is Either Attracting Talent or Repelling It
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to your comp model is either attracting talent or repelling it.**
+
 **Category:** Money / Systems | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Claude
 **Score:** 6.6 | **Rank:** 88 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, September 14, 2026
@@ -34,7 +36,7 @@ Here's how most team comp models get built: a team leader looks at what another 
 And here's the real cost -- a compensation model that's wrong on either end breeds resentment. Too little and agents leave. Too much and you resent them.
 Here's the fix. Ask Claude to build a compensation model analysis for your team. Give it: your average cost per lead, your team's close rate on those leads, your average commission per deal, your per-agent overhead, and your annual training investment per agent. Ask Claude to calculate: the floor split at which your team remains profitable, how your current model compares to market rates, and what a tiered structure might look like that rewards production growth. Math first. Model second.
 The best compensation model isn't the most generous one -- it's the one that's sustainable for the team and motivating for the agent at the same time. AI helps you find that number.
-Do you know your actual cost per closed deal on your team right now? Yes or no -- be honest.
+Do you know your actual cost per closed deal on your team right now? Yes or no.
 ## Producer Note
 Niche audience (team leaders only) but high value for that segment. The "resentment breeds in both directions" agitation is the most emotionally resonant addition. Consider pairing with Script #82 in a team leader themed week.
 

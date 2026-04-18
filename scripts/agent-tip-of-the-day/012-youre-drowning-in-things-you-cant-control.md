@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # You're drowning in things you can't...
 
+> **WOW: Tactical specificity + earned observation from Chase Craig: you're drowning in things you can't.**
+
 **Guest:** Chase Craig | **Avatar:** Overwhelmed Newbie | **Pillar:** Top Producer Secrets
 **Score:** 9 | **Rank:** 12 of 62
 **Post Date:** Saturday, March 21, 2026

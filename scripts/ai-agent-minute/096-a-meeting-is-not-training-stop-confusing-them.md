@@ -14,6 +14,8 @@ day: "Friday"
 
 # A Meeting Is Not Training. Stop Confusing Them.
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to a meeting is not training. stop confusing them.**
+
 **Category:** Systems / Team Leader | **Avatar:** Team Leader | **AI Tool:** Claude
 **Score:** 6.3 | **Rank:** 96 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Friday, October 02, 2026
@@ -34,7 +36,7 @@ Most team leaders run "training" as a weekly meeting where they talk and agents 
 And here's what it's costing you -- every skill gap that doesn't close is a deal that doesn't close.
 Here's the fix. Pick your three most-coached skill gaps -- objection handling, listing presentations, buyer consultations. For each one, ask Claude to build a structured learning module that includes: a one-page written framework the agent keeps, five roleplay scenarios with varying difficulty, three self-assessment questions, and one practical assignment to complete before the next meeting. You build each module once. Your team uses it forever -- and every new agent who joins gets it automatically. with a framework, 5 roleplay scenarios, 3 self-assessment questions, and one practical assignment."]
 Your agents rise to the level of the training you give them. AI helps you build training that's actually worth rising to -- in one afternoon.
-What skill gap are you coaching on your team over and over without it sticking? Tell me the topic -- I want to hear what's most common.
+What skill gap are you coaching on your team over and over without it sticking?
 ## Producer Note
 Solid but the least viral of the team leader batch -- consider pairing it in a themed "team leader week" rather than leading with it. No accuracy concerns.
 

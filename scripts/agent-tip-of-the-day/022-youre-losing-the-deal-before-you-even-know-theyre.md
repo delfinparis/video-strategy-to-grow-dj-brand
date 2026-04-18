@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # You're losing the deal before you...
 
+> **WOW: Tactical specificity + earned observation from Tim Burrell: you're losing the deal before you.**
+
 **Guest:** Tim Burrell | **Avatar:** Stuck Intermediate | **Pillar:** Ai Agent
 **Score:** 9 | **Rank:** 22 of 62
 **Post Date:** Tuesday, April 14, 2026

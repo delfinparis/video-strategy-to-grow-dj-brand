@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Most agents are converting leads. Sarah...
 
+> **WOW: Tactical specificity + earned observation from Sarah Meslowski: most agents are converting leads. sarah.**
+
 **Guest:** Sarah Meslowski | **Avatar:** Overwhelmed Newbie | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 37 of 62
 **Post Date:** Tuesday, May 19, 2026

@@ -14,6 +14,8 @@ day: "Monday"
 
 # Handle 'I Want To Think About It' With AI Practice
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to handle 'i want to think about it' practice.**
+
 **Category:** Conversion & Sales Skills | **Avatar:** All | **AI Tool:** Claude
 **Score:** 8.7 | **Rank:** 1 of 100 | **Tier:** 1 (Must-Film-First)
 **Post Date:** Monday, February 23, 2026

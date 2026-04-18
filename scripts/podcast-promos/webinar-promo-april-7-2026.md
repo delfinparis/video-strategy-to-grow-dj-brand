@@ -11,6 +11,8 @@ registration_url: "keepingitrealwebinar.com"
 # Keeping It Real Podcast -- Webinar Promo Script
 ## "You're Doing AI 100% Wrong" -- April 7, 2026
 
+> **WOW: Tactical specificity + contrarian take: 5 specific ways most agents are using AI wrong, with what to do instead. Free access with code REAL.**
+
 **Target Duration:** 5 -- 7 minutes
 **Promo Code:** REAL (free access -- sponsored)
 **Registration:** keepingitrealwebinar.com

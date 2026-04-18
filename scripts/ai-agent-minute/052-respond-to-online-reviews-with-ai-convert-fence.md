@@ -14,6 +14,8 @@ day: "Monday"
 
 # Respond To Online Reviews With AI -- Convert Fence-Sitters
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to respond to online reviews -- convert fence-sitters.**
+
 **Category:** Personal Brand & Marketing | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 52 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, June 22, 2026
@@ -33,7 +35,7 @@ Your online reviews aren't just feedback -- they're your sales team. And most ag
 Here's what most agents miss. Potential clients who are on the fence about calling you don't just read your reviews -- they read how you responded to them. A thoughtful, warm, specific response to a five-star review signals personality, professionalism, and how you treat people. A generic "thanks for your kind words!" signals that you copy-pasted something and moved on. And a negative review you never responded to? That signals something much worse.
 Most agents treat reviews like a report card. Top producers treat them like a first conversation with their next client.
 Here's the fix. For every new review you receive, give it to Claude and type: "Write a response that references something specific from this review, reinforces one key value I provided, and feels genuinely human -- not corporate or templated." For negative reviews, type: "Help me write a calm, accountable response that shows future clients how I handle difficult situations professionally."
-How you respond tells future clients more about you than the review itself. Do you respond to every review you receive? Yes, no, or sometimes --
+How you respond tells future clients more about you than the review itself. Do you respond to every review you receive?
 ## Producer Note
 "Your reviews are your sales team -- unsupervised" is a genuinely strong hook. The negative review response prompt is a specific and valuable addition that most agents genuinely need. No accuracy issues.
 

@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # You're lying to yourself about one...
 
+> **WOW: Tactical specificity + earned observation from Paul Salter: you're lying to yourself about one.**
+
 **Guest:** Paul Salter | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 15 of 62
 **Post Date:** Saturday, March 28, 2026

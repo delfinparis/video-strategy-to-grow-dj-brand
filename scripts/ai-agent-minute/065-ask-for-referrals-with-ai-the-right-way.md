@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Ask For Referrals With AI -- The Right Way
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to ask for referrals -- the right way.**
+
 **Category:** Client Management | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 65 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, July 22, 2026
@@ -35,7 +37,6 @@ The problem isn't asking. It's asking with no context, no specificity, and no st
 Here's the fix. Ask Claude to write five different referral request messages for different moments: right after closing, the six-month check-in, the one-year anniversary, a casual text version, and a social media post the client could actually share. Each one should type: "Be specific about who I'm trying to help, make it easy for the client to take action, and feel personal -- not like a mass message."
 Load them into your CRM. Actually send them.
 Asking for a referral isn't awkward. Not asking when your client would be happy to help you -- that's the real waste.
-When's the last time you explicitly asked a past client for a referral?
 ## Producer Note
 Runs slightly long -- trim the "by the time they park the car" line if needed. The five-version referral system is highly actionable and specific. The "load them in your CRM, actually send them" close is blunt and effective -- very D.J.
 

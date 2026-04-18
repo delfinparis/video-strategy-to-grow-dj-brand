@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # The Luxury Market Isn't Closed. You Just Never Built a Plan.
 
+> **WOW: Tactical specificity: names Claude + Perplexity and gives the exact prompt to the luxury market isn't closed. you just never built a plan.**
+
 **Category:** Lead Gen / Conversion | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Claude + Perplexity
 **Score:** 6.6 | **Rank:** 86 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, September 09, 2026
@@ -34,7 +36,7 @@ Here's the trap most agents fall into: they assume you need luxury connections f
 And here's what it costs you -- every year you wait is another year of sub-million-dollar transactions compounding in the wrong direction.
 Here's the fix. Ask Claude to build you a ninety-day luxury market entry strategy. It should define: the specific neighborhoods or price ranges to focus on first, how to build market expertise before you have listings there, the five luxury-specific marketing elements to develop -- photography standard, listing presentation quality, video, print collateral, and digital presence -- and a target list of luxury-adjacent clients already in your existing network who may be underserved by their current agent. You start with people who already trust you.
 Luxury clients don't find agents randomly. They choose agents who already appear to belong in their world. AI helps you build that appearance -- and then the substance to back it up.
-What's genuinely holding you back from pursuing a higher price point right now? Tell me honestly -- I read every comment.
+What's genuinely holding you back from pursuing a higher price point right now?
 ## Producer Note
 Good mid-tier performer. The "referrals don't convert when the agent isn't ready" line is the strongest addition. No overlap concerns. No accuracy issues.
 

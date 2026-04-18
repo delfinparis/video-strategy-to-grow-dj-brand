@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The $200K listing is killing your...
 
+> **WOW: Tactical specificity + earned observation from Kristee Leonard: the $200k listing is killing your.**
+
 **Guest:** Kristee Leonard | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 55 of 62
 **Post Date:** Tuesday, June 30, 2026

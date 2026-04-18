@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # If you're still chasing clients, you've...
 
+> **WOW: Tactical specificity + earned observation from Jay Cannone: if you're still chasing clients, you've.**
+
 **Guest:** Jay Cannone | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 46 of 62
 **Post Date:** Tuesday, June 09, 2026

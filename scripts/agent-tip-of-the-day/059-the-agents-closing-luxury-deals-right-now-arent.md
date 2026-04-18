@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The agents closing luxury deals right...
 
+> **WOW: Tactical specificity + earned observation from Carrie McCormick: the agents closing luxury deals right.**
+
 **Guest:** Carrie McCormick | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 7 | **Rank:** 59 of 62
 **Post Date:** Thursday, July 09, 2026

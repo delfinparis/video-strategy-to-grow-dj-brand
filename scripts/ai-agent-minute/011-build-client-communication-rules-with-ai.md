@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Build Client Communication Rules With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build client communication rules.**
+
 **Category:** Time & Productivity | **Avatar:** Burned-Out Veteran / Forgotten Middle | **AI Tool:** Claude
 **Score:** 7.9 | **Rank:** 11 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Wednesday, March 18, 2026
@@ -34,7 +36,6 @@ Here's what happened to most veteran agents. They built a reputation on being av
 And the cruelest part? The more available you are for everyone, the less present you can be for the clients who actually deserve your best.
 Here's the fix. Ask Claude to write a "communication expectations" document you send every new client at the start of the relationship. Type: "Write a warm, professional one-page document that sets clear response time standards, defines what constitutes a real emergency versus what can wait, and explains how I work best. It should feel like a system -- not a boundary."
 It's not a boundary. It's a system. And systems are how great agents protect the time that makes them great.
-Have you ever lost a deal because you were too busy managing everyone's small requests?
 ## Producer Note
 Runs slightly long -- trim the "cruelest part" sentence if needed. The "not a boundary, it's a system" reframe is the most quotable line in this script and in the top five of the entire batch. Top-15 candidate. High resonance with burned-out veteran segment.
 

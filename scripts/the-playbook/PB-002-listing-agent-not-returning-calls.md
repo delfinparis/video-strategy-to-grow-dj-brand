@@ -13,6 +13,8 @@ status: "ready"
 
 # Here's the Play When the Listing Agent Won't Return Your Calls
 
+> **WOW: Tactical specificity: exact words to say when here's the play when the listing agent won't return your calls. Real Co-op Agent Communication scenario, word-for-word response.**
+
 **Series:** The Playbook | **Scenario Category:** Co-op Agent Communication
 **Primary Platform:** Personal LI / Personal IG / Personal FB
 **Post Date:** Wednesday, April 29, 2026

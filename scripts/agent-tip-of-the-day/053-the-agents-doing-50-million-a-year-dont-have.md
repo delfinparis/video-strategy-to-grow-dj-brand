@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The agents doing $50 million a...
 
+> **WOW: Tactical specificity + earned observation from Kristee Leonard: the agents doing $50 million a.**
+
 **Guest:** Kristee Leonard | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 53 of 62
 **Post Date:** Thursday, June 25, 2026

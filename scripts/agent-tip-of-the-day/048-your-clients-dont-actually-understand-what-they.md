@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Your clients don't actually understand what...
 
+> **WOW: Tactical specificity + earned observation from Karina Chavez: your clients don't actually understand what.**
+
 **Guest:** Karina Chavez | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 48 of 62
 **Post Date:** Saturday, June 13, 2026

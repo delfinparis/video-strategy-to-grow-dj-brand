@@ -14,6 +14,8 @@ day: "Friday"
 
 # Competing on Split Is a Race You'll Lose
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to competing on split is a race you'll lose.**
+
 **Category:** Systems / Team Leader | **Avatar:** Team Leader | **AI Tool:** Claude
 **Score:** 7.1 | **Rank:** 45 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, June 05, 2026

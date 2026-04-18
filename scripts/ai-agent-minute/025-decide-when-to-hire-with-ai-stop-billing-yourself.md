@@ -14,6 +14,8 @@ day: "Monday"
 
 # Decide When To Hire With AI -- Stop Billing Yourself On The Wrong Work
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to decide when to hire -- stop billing yourself on the wrong work.**
+
 **Category:** Money & Business | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Claude
 **Score:** 7.7 | **Rank:** 25 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Monday, April 20, 2026

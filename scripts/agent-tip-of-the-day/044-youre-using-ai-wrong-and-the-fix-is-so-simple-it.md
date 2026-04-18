@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # You're using AI wrong. And the...
 
+> **WOW: Tactical specificity + earned observation from Michael Thornton: you're using AI wrong. and the.**
+
 **Guest:** Michael Thornton | **Avatar:** Stuck Intermediate | **Pillar:** Ai Agent
 **Score:** 8 | **Rank:** 44 of 62
 **Post Date:** Thursday, June 04, 2026

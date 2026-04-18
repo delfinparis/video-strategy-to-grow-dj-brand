@@ -14,6 +14,8 @@ day: "Friday"
 
 # Build A SOI Touchpoint Calendar With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a SOI touchpoint calendar.**
+
 **Category:** Systems / Lead Gen | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 54 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, June 26, 2026

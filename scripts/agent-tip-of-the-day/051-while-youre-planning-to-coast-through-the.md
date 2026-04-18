@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # While you're planning to coast through...
 
+> **WOW: Tactical specificity + earned observation from Paul Salter: while you're planning to coast through.**
+
 **Guest:** Paul Salter | **Avatar:** Stuck Intermediate | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 51 of 62
 **Post Date:** Saturday, June 20, 2026

@@ -14,6 +14,8 @@ day: "Monday"
 
 # Investors Don't Want a Realtor. They Want an Analyst.
 
+> **WOW: Tactical specificity: names Perplexity + Claude and gives the exact prompt to investors don't want a realtor. they want an analyst.**
+
 **Category:** Market / Lead Gen | **Avatar:** Aspiring Top Producer | **AI Tool:** Perplexity + Claude
 **Score:** 6.7 | **Rank:** 85 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, September 07, 2026
@@ -34,7 +36,6 @@ Here's why it goes wrong. An investor asks you to evaluate a rental property. Yo
 And here's what that costs you -- investors talk to each other. Lose one and you've lost the referral network behind them.
 Here's the fix. Use Perplexity to pull current rental market data for your city: average rents by neighborhood, vacancy rates, price-to-rent ratios, cap rate ranges. Then ask Claude to build you an investor buyer consultation framework that speaks their language -- ROI, risk, exit strategy, and cash flow projections. Practice presenting one property as an investment analysis before you sit down with your first investor client. You'll be the only agent they've met who actually showed up prepared.
 An investor who trusts you doesn't buy one property -- they buy many, and they send their friends. AI helps you earn that first conversation.
-Do you currently work with real estate investors?
 ## Producer Note
 Pairs naturally with Script #88 (investment property analysis reports) -- consider airing these one week apart rather than back-to-back. Verify that Perplexity can surface cap rate data for specific cities reliably before filming.
 

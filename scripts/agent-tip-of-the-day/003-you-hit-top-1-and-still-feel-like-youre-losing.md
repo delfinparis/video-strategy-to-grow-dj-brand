@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # You hit top 1% and still...
 
+> **WOW: Tactical specificity + earned observation from Garrett Maroon: you hit top 1% and still.**
+
 **Guest:** Garrett Maroon | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 3 of 62
 **Post Date:** Saturday, February 28, 2026

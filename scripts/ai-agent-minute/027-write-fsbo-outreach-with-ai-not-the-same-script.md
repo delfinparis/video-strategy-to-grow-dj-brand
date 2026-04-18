@@ -14,6 +14,8 @@ day: "Friday"
 
 # Write FSBO Outreach With AI -- Not The Same Script Everyone Sends
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to write FSBO outreach -- not the same script everyone sends.**
+
 **Category:** Lead Generation / Personal Brand | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.4 | **Rank:** 27 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Friday, April 24, 2026
@@ -34,7 +36,6 @@ Here's why FSBO outreach fails. Most agents lead with the commission objection -
 Most agents pitch FSBOs. Top producers help them first and earn the listing later.
 Here's the system. Ask Claude to build a three-touch FSBO sequence using the "consultation-first" model. Touch one: offer something genuinely useful -- a free market analysis, a staging checklist, or a document guide for FSBO sellers. No pitch. No "let me show you why you need me." Just value. Touches two and three build on that. Type: "Write an outreach sequence for a FSBO seller where I never ask for the listing until the third message -- and every touch earns the right to send the next one."
 The FSBO who eventually lists with an agent almost always lists with the one who helped them most before asking for anything.
-Have you ever converted a FSBO?
 ## Producer Note
 Runs slightly long -- trim "helps-to-fail" beat on delivery. The "help first, earn the listing later" contrast is the clearest articulation of why FSBO outreach works or doesn't. CTA will surface good stories.
 

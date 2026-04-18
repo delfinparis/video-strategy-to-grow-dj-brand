@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Prep Every Showing In 60 Seconds With AI
 
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to prep every showing in 60 seconds.**
+
 **Category:** Time / Systems | **Avatar:** All | **AI Tool:** Claude / Perplexity
 **Score:** 7.4 | **Rank:** 35 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, May 13, 2026
@@ -35,7 +37,6 @@ Most agents show up to showings with the MLS information. Top producers show up 
 Here's the sixty-second prep. Before any showing, give Claude the property address and type: "Pull: comparable sales within a quarter mile in the last ninety days with price per square foot, the price trend for this neighborhood over the last twelve months, any public records worth knowing about this property, and two smart questions I should ask the listing agent."
 You walk in with context. Your buyer sees an expert who did their homework. That trust is hard to break once you've built it.
 The most prepared agent in the room wins the most loyal clients. Sixty seconds with AI makes you that agent every time.
-What's the first thing you currently do to prepare for a showing?
 ## Producer Note
 "Reading the brochure" is a precise and slightly embarrassing mirror moment -- keep it. Runs slightly long -- trim on delivery if needed. The "sixty seconds" hook is specific enough to be credible and low-barrier.
 

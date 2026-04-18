@@ -14,6 +14,8 @@ day: "Friday"
 
 # Handle Difficult Clients With AI -- Respond Strategically
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to handle difficult clients -- respond strategically.**
+
 **Category:** Client Management | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.3 | **Rank:** 39 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, May 22, 2026
@@ -35,7 +37,6 @@ The worst thing you can do with a difficult client is respond in real time, from
 Here's the fix. When a difficult client situation comes up -- before you respond -- bring it to Claude. Describe exactly what happened and type: "How should I respond to this situation to de-escalate, preserve the relationship, and keep the deal on track? Give me three communication approaches based on what the client's emotional state is likely to be."
 Pick the one that fits. Execute it calmly. Never send an emotional response in real time.
 Difficult clients don't need a reactive agent. They need a calm, strategic one. AI helps you be that -- every single time.
-What's the most difficult client situation you've ever navigated?
 ## Producer Note
 "No names needed" in the CTA is an important trust signal that will get more honest, detailed responses. The "never respond in real time from emotion" line is immediately actionable and quotable. Strong client management anchor script.
 

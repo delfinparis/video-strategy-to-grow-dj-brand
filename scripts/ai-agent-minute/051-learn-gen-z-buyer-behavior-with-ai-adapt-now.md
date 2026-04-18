@@ -14,6 +14,8 @@ day: "Friday"
 
 # Learn Gen Z Buyer Behavior With AI -- Adapt Now
 
+> **WOW: Tactical specificity: names Perplexity / Claude and gives the exact prompt to learn gen z buyer behavior -- adapt now.**
+
 **Category:** Market & Industry | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Perplexity / Claude
 **Score:** 7.0 | **Rank:** 51 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, June 19, 2026
@@ -34,7 +36,6 @@ Here's the gap most agents are missing. Gen Z buyers have done twelve hours of r
 Most agents know one generation well. The top producers adapt their approach to whoever is in front of them.
 Here's how to adapt. Use Perplexity to pull current research on Gen Z home-buying behavior -- what they value, how they communicate, what their actual financial profile looks like. Then bring that into Claude and type: "Based on this research, help me rewrite my buyer consultation, my follow-up process, and my communication style specifically for a Gen Z first-time buyer."
 Here's the number that should get your attention: Gen Z is making fifty percent more income than Boomers were at their age. They can afford homes. The question is whether you can afford to ignore them.
-Have you worked with a Gen Z buyer?
 ## Producer Note
 Verify the "50% more income than Boomers at their age" stat before filming -- widely cited but source should be confirmed. The stat is the most shareable moment in the script and worth the verification effort. This is a forward-looking script with growing relevance over time.
 

@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Batch A Month Of Content In 90 Minutes With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to batch a month of content in 90 minutes.**
+
 **Category:** Time & Productivity | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.7 | **Rank:** 80 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, August 26, 2026
@@ -35,7 +37,6 @@ That loop isn't a willpower problem. It's a workflow problem.
 Here's the fix. Once a month, sit down with Claude for ninety minutes. Type: "I'm a real estate agent. My five content themes are [list them]. My audience is buyers and sellers in [your market]. Generate thirty post ideas with a hook, body copy, and a CTA for each." Pick your twenty favorites. Refine them in the same session. Schedule them out.
 You just handled an entire month of social media. In one sitting.
 Most agents post when inspired. The top producers post on a schedule. AI makes that possible without burning out.
-How many days a week are you posting right now?
 ## Producer Note
 The "loop" description in the problem section (stare → mediocre → hate → skip → abandon) is a perfect mirror moment -- every agent will recognize it. Mild overlap with Script #26 (content calendar strategy) -- keep this on the batching mechanic, Script #26 on strategic planning.
 

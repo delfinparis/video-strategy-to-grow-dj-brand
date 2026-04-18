@@ -14,6 +14,8 @@ day: "Friday"
 
 # Build A VIP Client Experience With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a vip client experience.**
+
 **Category:** Client Management | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.6 | **Rank:** 24 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Friday, April 17, 2026

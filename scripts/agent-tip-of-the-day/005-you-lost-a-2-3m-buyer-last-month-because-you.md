@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # You lost a $2.3M buyer last...
 
+> **WOW: Tactical specificity + earned observation from Chris Linsell: you lost a $2.3m buyer last.**
+
 **Guest:** Chris Linsell | **Avatar:** Stuck Intermediate | **Pillar:** Market Intelligence
 **Score:** 9 | **Rank:** 5 of 62
 **Post Date:** Thursday, March 05, 2026

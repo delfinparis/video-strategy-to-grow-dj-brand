@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # While your competition is posting 'Out...
 
+> **WOW: Tactical specificity + earned observation from Paul Salter: while your competition is posting 'out.**
+
 **Guest:** Paul Salter | **Avatar:** Aspiring Top Producer | **Pillar:** Top Producer Secrets
 **Score:** 9 | **Rank:** 4 of 62
 **Post Date:** Tuesday, March 03, 2026

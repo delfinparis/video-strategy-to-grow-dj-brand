@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Gen Z is making 50% more...
 
+> **WOW: Tactical specificity + earned observation from Amanda Pendleton: gen z is making 50% more.**
+
 **Guest:** Amanda Pendleton | **Avatar:** Stuck Intermediate | **Pillar:** Market Intelligence
 **Score:** 8 | **Rank:** 28 of 62
 **Post Date:** Tuesday, April 28, 2026

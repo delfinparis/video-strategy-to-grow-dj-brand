@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Get On Camera With AI Prep -- Kill The Blank Stare
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to get on camera prep -- kill the blank stare.**
+
 **Category:** Personal Brand & Marketing | **Avatar:** Forgotten Middle / Burned-Out Veteran | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 62 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, July 15, 2026

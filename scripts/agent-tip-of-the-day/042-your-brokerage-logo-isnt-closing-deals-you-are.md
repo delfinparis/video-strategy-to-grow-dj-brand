@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # Your brokerage logo isn't closing deals....
 
+> **WOW: Tactical specificity + earned observation from Chris Linsell: your brokerage logo isn't closing deals.**
+
 **Guest:** Chris Linsell | **Avatar:** Stuck Intermediate | **Pillar:** Real Talk
 **Score:** 8 | **Rank:** 42 of 62
 **Post Date:** Saturday, May 30, 2026

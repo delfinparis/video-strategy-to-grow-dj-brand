@@ -14,6 +14,8 @@ day: "Friday"
 
 # You Don't Dread Prospecting. You Dread Having No System.
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to you don't dread prospecting. you dread having no system.**
+
 **Category:** Mindset / Lead Gen | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.8 | **Rank:** 6 of 100 | **Tier:** 1 (Must-Film-First)
 **Post Date:** Friday, March 06, 2026

@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Rewrite Your Agent Bio With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to rewrite your agent bio.**
+
 **Category:** Personal Brand / Lead Gen | **Avatar:** All | **AI Tool:** Claude
 **Score:** 7.7 | **Rank:** 17 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Wednesday, April 01, 2026
@@ -34,7 +36,7 @@ Here's what the typical agent bio looks like. "John has been helping buyers and 
 Most bios prove the agent exists. Top producer bios make you want to call before you've even finished reading.
 Here's the fix. Ask Claude to help you rewrite your bio using a story-first framework. Give it the honest answers to: Why did you get into real estate? What do you love about this work? Who do you serve best -- and why are you better for them than anyone else? What's one thing you believe about real estate that most agents would disagree with? Type: "Turn these answers into a bio that reads like a real person wrote it -- because one did. Make the first line stop a scroll."
 Your bio isn't a resume. It's your first sales conversation.
-Read your current bio right now -- does it actually sound like you? Yes or no.
+Read your current bio right now -- does it actually sound like you?
 ## Producer Note
 Runs slightly long -- trim the "nobody reads past the first sentence" elaboration on delivery. The "John" example is smart -- it's specific enough to be funny without calling anyone out. Top-15 candidate. High share potential.
 

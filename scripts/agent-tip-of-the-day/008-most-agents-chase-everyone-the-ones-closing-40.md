@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Most agents chase everyone. The ones...
 
+> **WOW: Tactical specificity + earned observation from Bari Mill: most agents chase everyone. the ones.**
+
 **Guest:** Bari Mill | **Avatar:** Overwhelmed Newbie | **Pillar:** Top Producer Secrets
 **Score:** 9 | **Rank:** 8 of 62
 **Post Date:** Thursday, March 12, 2026

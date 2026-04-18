@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Every agent has access to the...
 
+> **WOW: Tactical specificity + earned observation from Chris Linsell: every agent has access to the.**
+
 **Guest:** Chris Linsell | **Avatar:** Stuck Intermediate | **Pillar:** Ai Agent
 **Score:** 8 | **Rank:** 36 of 62
 **Post Date:** Saturday, May 16, 2026

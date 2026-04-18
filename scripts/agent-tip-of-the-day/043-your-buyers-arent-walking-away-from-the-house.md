@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Your buyers aren't walking away from...
 
+> **WOW: Tactical specificity + earned observation from Carrie McCormick: your buyers aren't walking away from.**
+
 **Guest:** Carrie McCormick | **Avatar:** Stuck Intermediate | **Pillar:** Top Producer Secrets
 **Score:** 8 | **Rank:** 43 of 62
 **Post Date:** Tuesday, June 02, 2026

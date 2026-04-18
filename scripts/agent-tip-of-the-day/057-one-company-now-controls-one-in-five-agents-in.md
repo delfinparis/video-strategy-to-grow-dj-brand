@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # One company now controls one in...
 
+> **WOW: Tactical specificity + earned observation from Chris Linsell: one company now controls one in.**
+
 **Guest:** Chris Linsell | **Avatar:** Stuck Intermediate | **Pillar:** Market Intelligence
 **Score:** 7 | **Rank:** 57 of 62
 **Post Date:** Saturday, July 04, 2026

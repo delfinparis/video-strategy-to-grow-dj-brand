@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # The $50 million producer who still...
 
+> **WOW: Tactical specificity + earned observation from Kristee Leonard: the $50 million producer who still.**
+
 **Guest:** Kristee Leonard | **Avatar:** Burned Out Veteran | **Pillar:** Real Talk
 **Score:** 9 | **Rank:** 7 of 62
 **Post Date:** Tuesday, March 10, 2026

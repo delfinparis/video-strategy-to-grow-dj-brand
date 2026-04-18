@@ -14,6 +14,8 @@ day: "Monday"
 
 # Set Client Expectations Upfront With AI -- Prevent The Nightmare Client
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to set client expectations upfront -- prevent the nightmare client.**
+
 **Category:** Client Management | **Avatar:** Burned-Out Veteran / All | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 64 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Monday, July 20, 2026

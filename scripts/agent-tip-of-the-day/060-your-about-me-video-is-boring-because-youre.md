@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # Your about me video is boring...
 
+> **WOW: Tactical specificity + earned observation from Kim Rittberg: your about me video is boring.**
+
 **Guest:** Kim Rittberg | **Avatar:** Overwhelmed Newbie | **Pillar:** Top Producer Secrets
 **Score:** 7 | **Rank:** 60 of 62
 **Post Date:** Saturday, July 11, 2026

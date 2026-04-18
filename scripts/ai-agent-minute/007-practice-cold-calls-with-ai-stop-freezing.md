@@ -14,6 +14,8 @@ day: "Monday"
 
 # Practice Cold Calls With AI -- Stop Freezing
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to practice cold calls -- stop freezing.**
+
 **Category:** Lead Generation | **Avatar:** Stuck Intermediate | **AI Tool:** Claude
 **Score:** 7.9 | **Rank:** 7 of 100 | **Tier:** 1 (Must-Film-First)
 **Post Date:** Monday, March 09, 2026

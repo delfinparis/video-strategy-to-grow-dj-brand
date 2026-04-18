@@ -14,6 +14,8 @@ day: "Monday"
 
 # Run Team Meetings With AI -- Not Wing The Agenda
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to run team meetings -- not wing the agenda.**
+
 **Category:** Systems / Time | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Claude
 **Score:** 7.3 | **Rank:** 31 of 100 | **Tier:** 2 (High Priority)
 **Post Date:** Monday, May 04, 2026
@@ -34,7 +36,7 @@ Here's what a bad team meeting looks like. Status updates that could have been a
 Most team leaders run meetings by feel. The ones with real team traction run them on a structure.
 Here's the fix. Before every team meeting, give Claude your team's weekly numbers, your top three priorities, and any open issues from last week. Type: "Generate a forty-five minute meeting agenda with: a wins celebration segment, a metrics review, one focused training topic, the decision items that actually need the whole team, and specific next actions for each person. Make it tight -- no filler." Send it the day before so everyone comes prepared. Run to the agenda. End on time.
 A well-run team meeting multiplies your team's productivity. A poorly-run one drains it. The difference is always the agenda.
-What's the biggest time-waster in your current team meetings? Tell me honestly.
+What's the biggest time-waster in your current team meetings?
 ## Producer Note
 The "does anyone have anything else?" detail is the mirror moment -- every team leader will recognize it painfully. Narrower audience (team leaders) but high resonance within that segment. CTA will generate candid, specific answers.
 

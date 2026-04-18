@@ -14,6 +14,8 @@ day: "Friday"
 
 # Reconnect With Your Why Using AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to reconnect with your why using AI.**
+
 **Category:** Mindset & Motivation | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 60 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, July 10, 2026
@@ -35,7 +37,6 @@ Most agents push through on willpower. The ones who stay in the game for decades
 Here's how to find it. Set aside thirty minutes with Claude for what I call a "why excavation." Type: "Ask me these four questions and then help me turn my answers into a personal mission statement for my business: Why did I get into real estate? What does success in this business actually give me -- specifically? What would I regret most if I quit? Who am I doing this for?"
 Ask Claude to turn your answers into one paragraph. Print it. Put it somewhere you'll see it on the hard days.
 Clarity about your why doesn't make hard days easy. It makes them worthwhile.
-When's the last time you actually thought about why you're doing this?
 ## Producer Note
 Runs slightly long -- trim "year three, or year five, or year ten" to "year three or year ten" on delivery. This is one of the most emotionally resonant scripts in the entire series -- save it for a moment when the audience is established and trusts D.J. Don't open with this one. The "why excavation" framing is distinctive and ownable.
 

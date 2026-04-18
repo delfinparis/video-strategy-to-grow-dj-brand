@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Take CRM Notes With AI In 90 Seconds
 
+> **WOW: Tactical specificity: names Claude (voice-to-text) and gives the exact prompt to take CRM notes in 90 seconds.**
+
 **Category:** Systems & Operations | **Avatar:** Stuck Intermediate / Forgotten Middle | **AI Tool:** Claude (voice-to-text)
 **Score:** 6.9 | **Rank:** 71 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Wednesday, August 05, 2026

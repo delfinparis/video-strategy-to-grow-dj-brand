@@ -12,6 +12,8 @@ status: "ready"
 
 # What I'd Tell NAR About Chicago Agents if They Asked Me Today
 
+> **WOW: Earned inside-the-industry observation: D.J. was in the room. What I'd Tell NAR About Chicago Agents if They Asked Me Today.**
+
 **Pillar:** Inside the Industry | **Type:** Access (Type A)
 **Primary Platform:** LinkedIn | **Post Date:** Saturday, May 9, 2026
 

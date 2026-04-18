@@ -14,6 +14,8 @@ day: "Monday"
 
 # Local Media Quotes Experts. Why Isn't That You?
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to local media quotes experts. why isn't that you?.**
+
 **Category:** Lead Gen / Personal Brand | **Avatar:** All | **AI Tool:** Claude
 **Score:** 6.9 | **Rank:** 70 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, August 03, 2026
@@ -34,7 +36,6 @@ Local journalists, podcasters, and bloggers are constantly looking for expert so
 And here's the thing -- journalists don't find you. You have to find them first.
 Here's the fix. Ask Claude to draft five targeted media pitch emails: one for a local newspaper real estate section, one for a personal finance or housing podcast, one for a local lifestyle blog, one for a neighborhood-focused newsletter, and one for a radio or TV station's money segment. Each pitch positions you as an expert source on one specific, timely topic that's relevant to their audience. Not "I'm a great agent" -- "here's the angle I can give you on the rate environment right now." Specific, helpful, on deadline. Send all five this week. One yes permanently raises your profile.."]
 You don't have to be famous to get media coverage. You just have to be useful to the right journalist at the right moment. AI helps you make that happen.
-Have you ever been quoted in local media?
 ## Producer Note
 Excellent tactical tip with clear immediate action. The "one yes permanently raises your profile" line is the urgency driver. Trim by 5-8 words if needed. No accuracy concerns.
 

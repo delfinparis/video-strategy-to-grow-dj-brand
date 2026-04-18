@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Send Monthly Market Updates With AI -- Become The Source
 
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to send monthly market updates -- become the source.**
+
 **Category:** Market & Industry | **Avatar:** All | **AI Tool:** Claude / Perplexity
 **Score:** 7.0 | **Rank:** 50 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, June 17, 2026
@@ -34,7 +36,7 @@ Here's what's happening to your database right now. Your past clients and sphere
 The agent who becomes the most trusted source of local market information gets the most calls when it's time to buy or sell.
 Here's how to become that agent in twenty minutes a month. Pull your local MLS data -- average sale price, days on market, list-to-sale ratio, active inventory. Give it to Claude and type: "Write a two-paragraph market update for homeowners in [your market] that explains what these numbers mean for a seller and a buyer. Make it conversational, not statistical. End with one specific actionable insight."
 Send it to your entire database. Every month. Without fail.
-Are you sending regular market updates to your database right now? Yes or no --
+Are you sending regular market updates to your database right now?
 ## Producer Note
 Runs slightly long -- trim "without fail" section or the cable news description if needed. The "most trusted source = most calls" equation is the sharpest line. Pairs with Script #72 (monthly newsletter) -- space these at least three weeks apart; they serve the same purpose through different channels.
 

@@ -14,6 +14,8 @@ share_trigger: "utility"
 
 # You're negotiating blind. And the other...
 
+> **WOW: Tactical specificity + earned observation from Tim Burrell: you're negotiating blind. and the other.**
+
 **Guest:** Tim Burrell | **Avatar:** Aspiring Top Producer | **Pillar:** Ai Agent
 **Score:** 8 | **Rank:** 26 of 62
 **Post Date:** Thursday, April 23, 2026

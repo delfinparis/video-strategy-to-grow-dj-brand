@@ -14,6 +14,8 @@ day: "Monday"
 
 # Audit Your Tech Stack With AI -- Cut What You Don't Use
 
+> **WOW: Tactical specificity: names Claude / Perplexity and gives the exact prompt to audit your tech stack -- cut what you don't use.**
+
 **Category:** Systems & Operations | **Avatar:** Forgotten Middle / Burned-Out Veteran | **AI Tool:** Claude / Perplexity
 **Score:** 6.7 | **Rank:** 82 of 100 | **Tier:** 4 (Deep Catalog)
 **Post Date:** Monday, August 31, 2026
@@ -35,7 +37,6 @@ And the worst part? The overwhelm of having too many tools often stops agents fr
 Here's the fix. List every tool you're currently subscribed to and how often you actually use each one. Give that list to Claude and type: "For a solo real estate agent doing [X] deals per year, which of these tools overlap, which should I cut immediately, and what's the one missing capability that would have the highest ROI?"
 Then actually cancel what it tells you to cut. And go all in on what stays.
 One tool mastered is worth ten tools barely touched. Most agents have it exactly backwards.
-How many software tools are you currently paying for?
 ## Producer Note
 "No judgment" in the CTA is a smart addition -- lowers the barrier to commenting. The "overwhelm stops you from going deep" agitation line is the best addition here. No accuracy issues.
 

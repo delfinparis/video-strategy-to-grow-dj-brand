@@ -14,6 +14,8 @@ day: "Wednesday"
 
 # Build A Referral Partner System With AI
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to build a referral partner system.**
+
 **Category:** Systems / Lead Gen | **Avatar:** Forgotten Middle / Aspiring Top Producer | **AI Tool:** Claude
 **Score:** 7.0 | **Rank:** 53 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Wednesday, June 24, 2026

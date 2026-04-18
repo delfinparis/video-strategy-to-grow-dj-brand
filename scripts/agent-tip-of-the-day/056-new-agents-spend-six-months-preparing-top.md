@@ -14,6 +14,8 @@ share_trigger: "identity"
 
 # New agents spend six months preparing....
 
+> **WOW: Tactical specificity + earned observation from Connie Mahan: new agents spend six months preparing.**
+
 **Guest:** Connie Mahan | **Avatar:** Overwhelmed Newbie | **Pillar:** Real Talk
 **Score:** 7 | **Rank:** 56 of 62
 **Post Date:** Thursday, July 02, 2026

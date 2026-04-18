@@ -14,6 +14,8 @@ day: "Friday"
 
 # Culture Isn't What's On Your Website. It's Tuesday at 3pm.
 
+> **WOW: Tactical specificity: names Claude and gives the exact prompt to culture isn't what's on your website. it's tuesday at 3pm.**
+
 **Category:** Systems / Mindset | **Avatar:** Aspiring Top Producer / Team Leader | **AI Tool:** Claude
 **Score:** 7.3 | **Rank:** 42 of 100 | **Tier:** 3 (Strong Catalog)
 **Post Date:** Friday, May 29, 2026
@@ -34,7 +36,7 @@ Most team leaders talk about their culture in recruiting conversations -- and th
 And here's what it costs you -- top agents choose teams based on culture as much as commission. They're talking to each other. Word travels.
 Here's the fix. Ask Claude to help you write a real team culture document -- not a mission statement, a working document. It should define: the specific behaviors you celebrate and reward, the behaviors that aren't acceptable and what happens when they occur, how conflicts get resolved, how decisions get made, what communication norms look like on your team, and what it actually means to succeed here. Share it with every current and prospective team member. When culture is written down, it becomes a real thing instead of an intention.
 A defined culture document is a recruiting tool, a retention tool, and an accountability tool -- all in one afternoon with Claude.
-Does your team have a written culture document? Yes, in progress, or never done it -- tell me where you are.
+Does your team have a written culture document? Yes, in progress, or never done it --.
 ## Producer Note
 The hook is one of the most quotable lines in the batch -- high share potential beyond real estate into general business audiences. Consider this as a crossover post for LinkedIn. No accuracy concerns.
 
