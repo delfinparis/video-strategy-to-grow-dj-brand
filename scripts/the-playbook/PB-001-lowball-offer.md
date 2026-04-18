@@ -13,13 +13,14 @@ status: "ready"
 
 # Here's the Play When You Get a Lowball Offer
 
-> **WOW: Tactical specificity: exact words to say when here's the play when you get a lowball offer. Real Negotiation scenario, word-for-word response.**
+> **WOW: Tactical specificity -- the exact text to send the buyer's agent after a lowball, word-for-word, that turns them into your inside coach instead of your adversary.**
 
 **Series:** The Playbook | **Scenario Category:** Negotiation
 **Primary Platform:** Personal LI / Personal IG / Personal FB
 **Post Date:** Wednesday, April 22, 2026
 
-> **Strongest Line:** "You're not negotiating. You're asking the other agent to teach their own client why the offer is weak."
+## Shareable Moment
+> "You're not negotiating. You're asking the other agent to teach their own client why the offer is weak."
 
 ## Script (~45 seconds)
 
@@ -42,10 +43,18 @@ Try it on your next lowball.
 
 **Estimated Duration:** ~50 seconds
 
-## Source / Credibility Anchor
-- Pattern observed across multiple top-producer guests on Keeping It Real Podcast
-- Reference: Tim Burrell (negotiation specialist, scripts 018, 022, 026 in archive)
-- D.J. Paris direct observation: top producers don't burn leverage on the first response
+## Data Source
+
+- **Claim (exact phrase "My seller is curious what brought your buyer to this number. Anything we should know?"):**
+  - Source: Synthesis / D.J. Paris observation across multiple top-producer interviews on the Keeping It Real Podcast. The exact phrase is D.J.'s distillation of the pattern, not a verbatim quote from any single guest.
+  - Who was measured: Pattern observed in negotiation behavior of top-producer guests including Tim Burrell (KIR 2026-01-05, negotiation specialist). Script framing is consistent with Burrell's broader philosophy of asking questions rather than countering emotionally.
+  - Status: confirmed as synthesized tactic; the phrase is presented as "the play" not as a direct quote
+
+- **Claim ("More often than not, the buyer's agent comes back quickly with context, with a softening, or with a real number"):**
+  - Source: D.J. observation across multiple top-producer guest interviews. Previously fabricated in draft as "nine times out of ten, within twenty minutes" -- that specific fabrication was caught and replaced with qualitative framing before publishing. Documented in the Known Past Failures section of the editorial standard (Rule 1).
+  - Status: confirmed qualitatively; deliberately not quantified per Rule 1
+
+- **Supporting reference:** Tim Burrell interview, Keeping It Real Podcast 2026-01-05. Agent Tip of the Day scripts 018, 022, 026 in this repo reference Burrell's tactical negotiation patterns.
 
 ## Social Media
 

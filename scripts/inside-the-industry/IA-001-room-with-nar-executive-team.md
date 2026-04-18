@@ -12,12 +12,13 @@ status: "ready"
 
 # I Spent a Day in a Room With NAR's Executive Team. Here's What I Noticed.
 
-> **WOW: Earned inside-the-industry observation: D.J. was in the room. I Spent a Day in a Room With NAR's Executive Team. Here's What I Noticed.**
+> **WOW: Earned inside-the-industry observation -- one of about a dozen content creators invited nationally, D.J. sat in a closed room with NAR's SVP Marketing (Bennett Richardson), VP Comms (Raffi Williams), and CEO (Nykia Wright). The observation runs counter to how most agents perceive NAR right now.**
 
 **Pillar:** Inside the Industry | **Type:** Access (Type A)
 **Primary Platform:** LinkedIn | **Post Date:** Saturday, April 25, 2026
 
-> **Strongest Line:** "They're not in a bunker. They're in a listening posture."
+## Shareable Moment
+> "They're not in a bunker. They're in a listening posture."
 
 ## Script (45-60 seconds)
 
@@ -38,11 +39,25 @@ They're not in a bunker. They're in a listening posture. That's a very different
 **Estimated Duration:** ~60 seconds
 
 ## Data Source
-- Personal observation from NAR influencer event (late March 2026)
-- ~12 content creators invited nationally
-- D.J. Paris attended in person
-- Executive leadership present: Bennett Richardson, Raffi Williams, Nykia Wright
-- NAR subsequently reached out directly requesting content around the April 10 Tuccori settlement
+
+- **Claim:** "NAR put me in a closed room with their entire executive leadership team"
+  - Source: D.J. Paris firsthand attendance at NAR's 2026 influencer event
+  - Who was measured: D.J. and ~12 other content creators invited nationally
+  - Status: confirmed (D.J.'s firsthand experience; part of NAR's 2026 influencer program)
+
+- **Claim:** "One of about a dozen content creators invited nationally"
+  - Source: Matches D.J.'s documented NAR influencer partnership ("1 of 12 nationally")
+  - Status: confirmed
+
+- **Claim:** "Bennett Richardson, Raffi Williams, Nykia Wright -- the whole senior team"
+  - Source: Verified NAR executive roster
+    - Bennett Richardson: SVP Marketing & Communications, NAR (appointed May 2025, per NAR Newsroom + [HousingWire 2025-05-29](https://www.housingwire.com/articles/nar-hires-new-strategic-communications-leaders-bennett-richardson-raffi-williams/))
+    - Raffi Williams: VP Communications, NAR (appointed May 2025, same sources)
+    - Nykia Wright: CEO, NAR (quoted in RISMedia's 2026-04-10 $52.25M Tuccori settlement announcement)
+  - Who was measured: Named current NAR executives confirmed in senior roles
+  - Status: confirmed
+
+- **Supporting context:** NAR subsequently reached out to D.J. directly requesting content around the 2026-04-10 Tuccori settlement announcement. That ongoing relationship is documented in the project memory (nar_partnership) and is the subject of IA-002.
 
 ## Social Media
 

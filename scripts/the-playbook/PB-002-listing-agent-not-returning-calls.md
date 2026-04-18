@@ -13,13 +13,14 @@ status: "ready"
 
 # Here's the Play When the Listing Agent Won't Return Your Calls
 
-> **WOW: Tactical specificity: exact words to say when here's the play when the listing agent won't return your calls. Real Co-op Agent Communication scenario, word-for-word response.**
+> **WOW: Tactical specificity -- the exact text to send a ghosting listing agent, word-for-word, that signals real money and requests a two-hour response window so their triage puts you at the top of the stack.**
 
 **Series:** The Playbook | **Scenario Category:** Co-op Agent Communication
 **Primary Platform:** Personal LI / Personal IG / Personal FB
 **Post Date:** Wednesday, April 29, 2026
 
-> **Strongest Line:** "Stop chasing them as a buyer's agent. Start being someone whose call is worth answering."
+## Shareable Moment
+> "Stop chasing them as a buyer's agent. Start being someone whose call is worth answering."
 
 ## Script (~45 seconds)
 
@@ -44,10 +45,17 @@ Send this exact text the next time someone goes silent.
 
 **Estimated Duration:** ~50 seconds
 
-## Source / Credibility Anchor
-- Pattern across multiple Keeping It Real Podcast guests on agent-to-agent communication
-- D.J. Paris direct observation from running a brokerage: listing agents prioritize callbacks based on perceived seriousness, not chronological order
-- Cross-reference: Karina Chavez's phone-answering content (script 016)
+## Data Source
+
+- **Claim (the exact text template):**
+  - Source: D.J. Paris synthesis of top-producer agent-to-agent communication patterns observed across multiple KIR interviews. The exact phrasing is D.J.'s distillation, not a verbatim quote.
+  - Status: confirmed as synthesized; presented in script as "the play," not as a named guest's words
+
+- **Claim:** "Listing agents are not ignoring you because they are rude. They are ignoring you because everything else in their inbox feels like a waste of time."
+  - Source: D.J. Paris observation from running a brokerage (VP Business Development, Kale Realty). Supported by pattern across KIR guest interviews where listing agents describe triaging by perceived buyer seriousness.
+  - Status: confirmed as D.J.'s operational observation
+
+- **Supporting reference:** Karina Chavez (KIR 2025-12-09), "Always answer your phone. You never know what you're going to get." Related pattern on phone-answering behavior referenced in Agent Tip 016 and IS-002 in this repo.
 
 ## Social Media
 
