@@ -60,7 +60,7 @@ Nine stages. Leading indicators (top of funnel) update weekly; lagging indicator
 | 4e | Pixel audiences — TikTok | custom audience size | TikTok Ads Mgr | Sunday | +10 / week | leading |
 | 5 | Retargeting ad → joinkale.com | click-through from retargeting ads | ad platforms | monthly | 20 / month | mid |
 | 6 | joinkale.com visits | total + from-retargeting referrer | joinkale.com GA4 | Sunday | 40 / week | mid |
-| 7 | Webinar signups | signup form completions | whatever hosts the webinar | monthly | 8 / month | mid |
+| 7 | Webinar signups | Zoom registration count | Zoom webinar admin (export CSV weekly) | Sunday | 2 / week (8 / month) | mid |
 | 8 | Book-a-calls | calendar bookings tagged as recruiting | Close CRM activity + calendar tool | weekly | 2 / week | **lagging** |
 | 9 | Kale signed agents | new agents signed attributable to content funnel | Close CRM opportunity closed-won | monthly | 1 / month stretch; 3 / 90-day test | **North Star** |
 
@@ -129,14 +129,15 @@ Extends the existing Sunday metrics ritual in [`../../data/README.md`](../../dat
 
 Prerequisites for the dashboard to actually produce numbers. Work through before or during pivot week 1 (Apr 20–25):
 
-- [ ] **Verify tapthis.co analytics.** Confirm GA4 (or equivalent) is installed and capturing page views + UTM params. If not, install.
+- [x] **tapthis.co analytics.** GA4 installed and capturing page views + UTM params (confirmed 2026-04-19).
+- [x] **Retargeting ad campaigns are live.** Creative = 15-second walk-and-talk scripts at [`delfinparis/sales-workflow/ads/meta-google-15sec-walk-and-talk-scripts.md`](https://github.com/delfinparis/sales-workflow/blob/main/ads/meta-google-15sec-walk-and-talk-scripts.md). 6 scripts total (4 cold prospecting, 2 remarketing). **Reshoot scheduled 2026-04-19** to refresh creative before the pivot starts driving new pixel volume.
 - [ ] **Verify all 5 pixels fire on tapthis.co page load.** Use each platform's pixel-helper tool (Meta Pixel Helper, Google Tag Assistant, LinkedIn Insight Tag tester, Reddit Pixel Helper, TikTok Pixel Helper) to confirm.
 - [ ] **Confirm custom audiences exist on all 5 platforms** with "visited tapthis.co in last 30 days" as the inclusion rule.
 - [ ] **Add UTM-tagging convention to the Fri AI Tip post template.** Every publish goes out with the correct `utm_source`/`utm_campaign`. One-time edit to [`the-playbook-format.md`](../the-playbook-format.md) or a new `ai-tip-of-the-week-standard.md`.
 - [ ] **Add `content_attribution` custom field to Close CRM leads** with the 6 enum values above. Brief Jennica + Ana on the tagging rule (check with user first).
 - [ ] **Create** [`../../data/funnel-metrics/`](../../data/funnel-metrics/) directory and a README describing the weekly CSV format.
+- [ ] **Zoom webinar export.** Confirm D.J. has admin access to pull registration CSV weekly. If a standing weekly webinar schedule doesn't exist yet, decide cadence (once/week vs twice/month) as part of stage 7 instrumentation.
 - [ ] **Optional:** write [`../../scripts/funnel_report.py`](../../scripts/) that reads the weekly CSVs and emits a rolling 4-week + 13-week comparison table. Parallel to `analyze_posts.py`, not replacing it.
-- [ ] **Optional:** retargeting ad campaigns. The pixels collect an audience whether or not retargeting ads are running. But stages 5–7 of the funnel are zero without live retargeting ads. Budget + creative for a basic always-on retargeting campaign ≈ separate decision, out of scope for this spec.
 
 ---
 
@@ -149,12 +150,12 @@ Prerequisites for the dashboard to actually produce numbers. Work through before
 
 ---
 
-## Open Questions (resolve before pivot week 1)
+## Open Questions — Resolved 2026-04-19
 
-1. **Does tapthis.co currently have GA4 installed?** Unknown as of 2026-04-19. Blocks stage 3 measurement.
-2. **Which tool hosts the webinar?** Affects how webinar signups (stage 7) are pulled into the weekly CSV.
-3. **Are retargeting ad campaigns currently live or paused?** Pixels still collect audiences either way, but mid-funnel stages (5–7) depend on live ads.
-4. **Who owns the Sunday dashboard pull?** D.J. personally, or delegate to Jennica/Ana? 10 minutes is light but it's a recurring weekly commitment.
+1. ~~Does tapthis.co have GA4?~~ **Yes.** Stage 3 measurement unblocked.
+2. ~~Which tool hosts the webinar?~~ **Zoom.** Stage 7 source = Zoom admin CSV export, pulled Sunday.
+3. ~~Are retargeting ad campaigns live?~~ **Yes, but creative is being refreshed.** Current 15-second ads (scripts in [`sales-workflow/ads/`](https://github.com/delfinparis/sales-workflow/blob/main/ads/meta-google-15sec-walk-and-talk-scripts.md)) reshooting 2026-04-19. Expect a ~1-week delay before fresh creative replaces old in active campaigns.
+4. ~~Who owns the Sunday pull?~~ **D.J.** ~10 min/week, added to his existing Sunday metrics ritual.
 
 ---
 
