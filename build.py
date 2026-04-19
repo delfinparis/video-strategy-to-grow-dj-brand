@@ -922,16 +922,17 @@ def main():
         tip_files_written += 1
     print(f"   Wrote {tip_files_written} Agent Tip files")
 
-    # --- Step 8: Write calendar ---
-    print("8. Writing master calendar...")
-    ai_33_date, tip_62_date, ai_100_date = write_master_calendar(calendar, SCHEDULE_DIR)
-    print(f"   AI Tier 1+2 done: {ai_33_date}")
-    print(f"   Agent Tips exhaust: {tip_62_date}")
-    print(f"   AI all 100 done: {ai_100_date}")
+    # --- Step 8: Write calendar --- (DISABLED post-2026-04-18 pivot)
+    # schedule/master-calendar.md is hand-maintained under the new 4 NF + 1 AI Tip + 1 KIR
+    # cadence. See docs/strategy/2026-04-18-pillar-pivot-decision.md. The AIAM/Tip generator
+    # below writes the old M/W/F + T/Th/Sa schedule, which no longer reflects reality.
+    # Re-enable only if a generator is built that covers the post-pivot cadence.
+    print("8. Writing master calendar... SKIPPED (post-pivot: hand-maintained)")
+    ai_33_date = tip_62_date = ai_100_date = None
 
-    # --- Step 9: Write weekly breakdown ---
-    print("9. Writing weekly breakdown...")
-    write_weekly_breakdown(calendar, polished_scripts, ranked_tips, SCHEDULE_DIR)
+    # --- Step 9: Write weekly breakdown --- (DISABLED post-2026-04-18 pivot)
+    # Same reason: schedule/weekly-breakdown.md is hand-maintained under the new cadence.
+    print("9. Writing weekly breakdown... SKIPPED (post-pivot: hand-maintained)")
 
     # --- Step 10: Write rankings ---
     print("10. Writing rankings files...")

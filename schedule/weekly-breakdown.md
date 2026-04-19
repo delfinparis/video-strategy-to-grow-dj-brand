@@ -1,6 +1,12 @@
 # Weekly Breakdown
 
-**Schedule:** 6 days/week | AI Agent Minute (M/W/F) | Agent Tip of the Day (T/Th/Sa)
+> **Superseded post-2026-04-18 pivot.** The source of truth for current scheduling is [`master-calendar.md`](master-calendar.md). The pre-pivot M/W/F + T/Th/Sa cadence below ran Feb 23 – Apr 18, 2026 and is retained as historical record only. `build.py` no longer writes this file (step 9 disabled 2026-04-19). See [`../docs/strategy/2026-04-18-pillar-pivot-decision.md`](../docs/strategy/2026-04-18-pillar-pivot-decision.md) for the governing decision.
+
+---
+
+## Pre-Pivot Historical Record
+
+**Schedule (Feb 23 – Apr 18, 2026):** 6 days/week | AI Agent Minute (M/W/F) | Agent Tip of the Day (T/Th/Sa)
 
 ---
 
