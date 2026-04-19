@@ -105,6 +105,8 @@ KIR podcast promo       ─┘   (Meta, Google, LinkedIn, Reddit, TikTok)
 **Leading indicator:** weekly tapthis.co clicks (feeds the retargeting audience).
 **Lagging indicator:** Kale book-a-call volume 30-90 days later.
 
+Full spec (metrics per stage, attribution model, Sunday ritual, alert thresholds): [`docs/analytics/recruiting-funnel-dashboard.md`](docs/analytics/recruiting-funnel-dashboard.md).
+
 ---
 
 ## By the Numbers (as of 2026-04-19)
@@ -138,7 +140,8 @@ Success, reversal, and adjustment criteria are defined in [`docs/strategy/2026-0
 
 - **[2026-04-18 Pillar Pivot Decision](docs/strategy/2026-04-18-pillar-pivot-decision.md) — current governing document**
 - [2026-04-18 Cross-Surface Analytics Synthesis](docs/analytics/2026-04-18-cross-surface-synthesis.md) — the data that drove the pivot
-- [Master Calendar](schedule/master-calendar.md) *(rewrite scheduled 2026-04-25)*
+- [Recruiting Funnel Dashboard (spec)](docs/analytics/recruiting-funnel-dashboard.md) — metrics per stage + Sunday review ritual
+- [Master Calendar](schedule/master-calendar.md) — post-pivot schedule through 2026-07-19
 - [Content → Recruiting Integration](docs/content-recruiting-integration.md)
 - [Editorial Standards](docs/editorial-standards.md) — required reading before writing any script
 - [Inside the Industry Standard](docs/series/inside-the-industry-standard.md) — primary series standard
