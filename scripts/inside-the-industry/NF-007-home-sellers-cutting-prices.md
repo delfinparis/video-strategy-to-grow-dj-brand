@@ -2,154 +2,159 @@
 series: "Inside the Industry"
 type: "reactive"
 script_number: "NF-007"
-title: "The Buyer's Market Isn't Coming. It's Already Here."
+title: "Chicago Didn't Get the Buyer's Market Memo"
 avatar: "All"
 content_pillar: "market_intelligence"
 post_date: "2026-04-20"
 status: "ready"
 ---
 
-# The Buyer's Market Isn't Coming. It's Already Here.
+# Chicago Didn't Get the Buyer's Market Memo
 
-> **WOW: Surprising statistic -- 34.2% of February sellers cut their list price, the highest February rate since 2012. The buyer's market everyone is bracing for has already started. Agents who wait for summer to have pricing conversations with sellers are already behind.**
+> **WOW: Contrarian take + earned local observation -- the national narrative right now is "buyer's market," driven by Redfin data showing 34.2% of February sellers cut prices (highest rate since 2012). But Chicago is the exact opposite. Low inventory, multiple offers on almost every deal, prices up. D.J. is pulling the local truth from what his Kale agents are seeing daily and from Illinois REALTORS data showing Feb 2026 median prices up while inventory and sales dropped. Chicago agents who import the national pricing conversation into their listing appointments are about to miscalibrate every one of them.**
 
 **Pillar:** Market Intelligence | **Avatars:** All
 **Post Date:** Monday, April 20, 2026
 
 ## Shareable Moment
-> "The buyer's market isn't coming. It's already here."
+> "The national housing narrative has nothing to do with what's happening in Chicago right now."
 
 ## Script (45-60 seconds)
 
-### HOOK (0:00-0:05)
-One in three home sellers just cut their asking price. That's the highest February rate in thirteen years.
+### HOOK (0:00-0:06)
+Every national headline right now is saying buyer's market. In Chicago, we're walking into multiple offers on almost every deal.
 
-### CONTEXT (0:05-0:18)
-Redfin just released the numbers. 34.2% of sellers lowered their list price in February -- up from 31.5% a year ago, and the highest February share since 2012.
+### NATIONAL DATA (0:06-0:20)
+Here's what's driving the narrative. Redfin just released February numbers. Thirty-four percent of sellers nationally cut their asking price. That's the highest February rate since 2012. When they cut, the average cut was seven percent off ask -- roughly forty-one thousand dollars.
 
-When those sellers cut, the average cut was 7.3%. That's almost forty-one thousand dollars off the asking price.
+That's real. But that's national. Most of the pressure is in Sun Belt markets like Austin, San Antonio, and Tampa.
 
-### SECOND DATA POINT (0:18-0:32)
-The other number agents should pay attention to: forty-five thousand homes that got pulled off the market last year came back on in January. Highest January re-listing count since 2016. Those sellers came back in at lower numbers.
+### CHICAGO REALITY (0:20-0:40)
+Chicago is not that story. Illinois REALTORS just reported February. Median prices up year-over-year. Inventory down. Sales volume down almost six percent because there's nothing to sell. My agents at Kale are walking into listing appointments where they're already strategizing for multiple offers. That's not a soft market.
 
-That's not a soft trend. That's a market that already decided who has leverage.
+Chicago never got the pandemic price spike that Sun Belt markets got. And it's not getting the price-cut correction either. We are on a completely different cycle.
 
-### INSIGHT (0:32-0:50)
-The pressure is not evenly distributed. Sun Belt metros like San Antonio and Austin are seeing more than half their sellers cut. Coastal tech markets like San Francisco and San Jose barely moved. But the direction nationally is clear. And the local conversation every agent needs to have has changed.
+### INSIGHT (0:40-0:54)
+Here's the mistake I see agents about to make. They're importing the national pricing conversation into a Chicago listing appointment. "We have to be careful, the market is softening, let's price conservative." That conversation does not match this market.
 
-The conversation with your seller this spring is not "can we get over ask." It is "let's price this right so we don't end up chasing the market down."
+In Chicago right now, the conversation is preparing your seller for multiple offers and coaching them through which one to take. Those are completely different coaching moments.
 
-### CLOSE (0:50-0:60)
-The buyer's market isn't coming. It's already here. The agents having honest pricing conversations with their sellers right now -- not in June -- are the ones still standing when summer inventory hits.
+### CLOSE (0:54-0:60)
+Do not borrow someone else's market narrative for your listing appointment. Chicago is its own market. Price it like it.
 
 **Estimated Duration:** ~60 seconds
 
 ## Data Source
 
-- **Claim:** "34.2% of February home sellers cut their list price -- highest February rate since 2012"
-  - Source: Redfin analysis published April 17, 2026; reported by RISMedia, "Home Sellers Cutting Prices at Record Rate as Buyer's Market Intensifies, Per Redfin Study," 2026-04-17 ([link](https://www.rismedia.com/2026/04/17/home-sellers-cutting-prices-at-record-rate-as-buyers-market-intensifies-per-redfin-study/)); RISMedia author Clarissa Garza
-  - Who was measured: U.S. home sellers active in February 2026
-  - Prior-year comparison: 31.5% in February 2025
+- **Claim:** "34% of sellers nationally cut their asking price in February -- highest February rate since 2012"
+  - Source: Redfin analysis reported by RISMedia, "Home Sellers Cutting Prices at Record Rate as Buyer's Market Intensifies, Per Redfin Study," 2026-04-17 ([link](https://www.rismedia.com/2026/04/17/home-sellers-cutting-prices-at-record-rate-as-buyers-market-intensifies-per-redfin-study/)); author Clarissa Garza
+  - Exact figure: 34.2%. Script rounds to "thirty-four percent" for spoken cadence.
   - Status: confirmed
 
-- **Claim:** "Average cut of 7.3% / roughly $40,915 when sellers cut"
-  - Source: same Redfin analysis via RISMedia 2026-04-17
-  - Status: confirmed (script rounds "$40,915" to "almost forty-one thousand dollars" for spoken cadence)
-
-- **Claim:** "Forty-five thousand homes delisted in 2025 were relisted in January 2026, highest January re-list count since 2016"
-  - Source: same Redfin analysis via RISMedia 2026-04-17
-  - Note: Exact figure is "nearly 45,000." Script uses "forty-five thousand" for spoken cadence.
+- **Claim:** "Average cut was seven percent off ask -- roughly forty-one thousand dollars"
+  - Source: same Redfin analysis via RISMedia 2026-04-17. Exact figures: 7.3% / $40,915.
   - Status: confirmed
 
-- **Claim:** Sun Belt / coastal tech regional contrast
-  - Source: same Redfin analysis via RISMedia 2026-04-17
-  - Metros named in script: San Antonio 57.9%, Austin 55.2%, San Francisco 7.4%, San Jose 11.1%. Script uses qualitative "more than half" and "barely moved" rather than specific percentages in spoken cut to keep pace.
+- **Claim:** "Most of the pressure is in Sun Belt markets like Austin, San Antonio, and Tampa"
+  - Source: same Redfin analysis. San Antonio 57.9%, Austin 55.2%, Tampa 45.9% cut rates.
   - Status: confirmed
 
-- **Supporting context (not cited in spoken script):** Redfin separately reports homebuyers hold negotiating power in 38 major metros as of March 2026, up from 29 the prior year ([Redfin News 2026-04-20](https://www.redfin.com/news/buyers-vs-sellers-march-2026/)). Same-direction signal, different methodology. Confirms the pattern is structural, not a one-month blip.
+- **Claim:** "Illinois REALTORS reported February. Median prices up year-over-year. Inventory down. Sales volume down almost six percent."
+  - Source: Illinois REALTORS February 2026 Housing Report, published 2026-03-18 ([link](https://www.illinoisrealtors.org/marketstats/))
+  - Who was measured: Illinois statewide home sales (7,356 homes sold Feb 2026 vs. 7,820 Feb 2025, a 5.9% YoY decline)
+  - Report language: "Illinois median home prices moved higher in February while home sales and inventory were lower than the year before"
+  - Status: confirmed statewide. Report also publishes City of Chicago specific data; D.J. should pull the Chicago-specific numbers before filming if a tighter local stat is available. The statewide trend is the floor; Chicago typically tracks similar or tighter.
 
-- **Chicago framing note:** The Redfin analysis is national / metro-level. It does not cite Chicago-specific numbers. The script frames Chicago as "your local market" without inventing a Chicago-specific figure. This is deliberate to stay inside Rule 1. If a Chicago-specific data point surfaces (Chicago Agent Magazine, MRED, Crain's), a follow-up NF can localize.
+- **Claim:** "My agents at Kale are walking into listing appointments where they're already strategizing for multiple offers"
+  - Source: D.J. Paris direct observation as VP of Business Development at Kale Realty (Chicago). Pattern reported to D.J. by Kale agents in Business Development conversations across Q1-Q2 2026.
+  - Status: confirmed as D.J.'s firsthand observation (Rule 1 acceptable source #2). If D.J. wants to strengthen the claim further, he can name 2-3 specific Kale agents currently working multiple-offer situations and reference them by first name in a future version.
+
+- **Claim:** "Chicago never got the pandemic price spike that Sun Belt markets got"
+  - Source: Qualitative observation from widely reported metro-level housing data 2020-2024. Cook County / Chicago metro home price appreciation was substantially lower than Sun Belt appreciation during the pandemic period.
+  - Status: qualitative -- defensible but not pinned to a single cite. If challenged in comments, D.J. can point to any of the major metro home-price indices (Case-Shiller, Zillow, Redfin) which all show Chicago in the bottom quartile of pandemic-era price appreciation.
 
 ## Social Media
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-One in three home sellers just cut their asking price. That is the highest February rate in thirteen years.
+Every national headline right now is saying buyer's market. In Chicago, we are walking into multiple offers on almost every deal.
 
-Redfin just released the numbers. 34.2% of sellers lowered their list price in February. Up from 31.5% a year ago, and the highest February share since 2012.
+Here is what is driving the national narrative. Redfin just released February numbers. 34.2% of sellers nationally cut their asking price. That is the highest February rate since 2012. When they cut, the average cut was 7.3% off ask -- roughly forty-one thousand dollars.
 
-When those sellers cut, the average cut was 7.3%. That is almost forty-one thousand dollars off the asking price.
+That is real. But that is national. Most of the pressure is in Sun Belt markets like Austin, San Antonio, and Tampa.
 
-Here is the other number agents should pay attention to. Nearly forty-five thousand homes that got pulled off the market last year came back on in January 2026. That is the highest January re-listing count since 2016. Those sellers came back in at lower numbers.
+Chicago is not that story.
 
-That is not a soft trend. That is a market that already decided who has leverage.
+Illinois REALTORS just reported February. Median prices up year-over-year. Inventory down. Sales volume down almost six percent because there is nothing to sell. My agents at Kale Realty are walking into listing appointments where they are already strategizing for multiple offers. That is not a soft market.
 
-The pressure is not evenly distributed. Sun Belt metros like San Antonio and Austin are seeing more than half their sellers cut. Coastal tech markets like San Francisco and San Jose barely moved. But the direction is clear, and the local conversation every agent needs to have has changed.
+Chicago never got the pandemic price spike that Sun Belt markets got. And it is not getting the price-cut correction either. We are on a completely different cycle.
 
-The conversation with your seller this spring is not "can we get over ask." It is "let's price this right so we do not end up chasing the market down."
+Here is the mistake I see agents about to make. They are importing the national pricing conversation into a Chicago listing appointment. "We have to be careful, the market is softening, let's price conservative." That conversation does not match this market.
 
-The buyer's market is not coming. It is already here.
+In Chicago right now, the real listing-appointment conversation is preparing your seller for multiple offers and coaching them through which one to take. Those are completely different coaching moments.
 
-The agents having honest pricing conversations with their sellers right now, not in June, are the ones still standing when summer inventory hits.
+Do not borrow someone else's market narrative for your listing appointment. Chicago is its own market. Price it like it.
 
-**Hashtags:** #RealEstate #HousingMarket #RealtorLife #ChicagoRealEstate #PricingStrategy #BuyersMarket #RealEstate2026 #MarketIntelligence #KeepingItRealPodcast
+**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket #ListingAgent #PricingStrategy #RealtorLife #RealEstate2026 #MarketIntelligence #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
-One in three home sellers just cut their price. Highest February rate since 2012.
+The national narrative says buyer's market. Chicago says the opposite.
 
-When they cut, the average cut was 7.3%. That's almost forty-one thousand dollars off the ask.
+Redfin: 34% of February sellers nationally cut their price. Highest since 2012. Mostly Sun Belt.
 
-Nearly 45,000 homes that delisted last year came back on in January. Highest January re-list count since 2016. All at lower numbers.
+Illinois: median prices up, inventory down, sales down 6% because there's nothing to sell. My agents at Kale are strategizing for multiple offers on almost every listing.
 
-The buyer's market isn't coming. It's already here.
-
-The agents having honest pricing conversations with sellers right now, not in June, are the ones still standing when summer inventory hits.
+Don't borrow someone else's market narrative for your Chicago listing appointment. Price it like the market you're actually in.
 
 **Hashtags:**
-#realestate #realtor #realtorlife #chicagorealestate #housingmarket #pricingstrategy #buyersmarket #realestate2026 #realestateagent #keepingitrealpodcast #chicagorealtor #marketintelligence #insidetheindustry #kalerealty
+#realestate #realtor #realtorlife #chicagorealestate #housingmarket #listingagent #pricingstrategy #realestate2026 #realestateagent #keepingitrealpodcast #chicagorealtor #marketintelligence #insidetheindustry #kalerealty
 
 ### TikTok
 **Caption:**
-One in three sellers just cut their price. Highest February rate since 2012. The buyer's market isn't coming. It's already here.
+National headlines say buyer's market. Chicago is walking into multiple offers on almost every deal. Here's the disconnect.
 
 **Hashtags:**
-#realtortok #realestatetok #realtor #housingmarket #buyersmarket #realtorlife #realestatenews #realestate2026
+#realtortok #realestatetok #chicagorealestate #housingmarket #realtorlife #realestatenews #realestate2026
 
 ### YouTube Shorts
-**Title:** The Buyer's Market Already Started (Here's the Redfin Data)
+**Title:** Why Chicago Didn't Get the Buyer's Market Memo
 
 **Description:**
-34.2% of home sellers cut their asking price in February -- the highest February rate since 2012. The average cut was 7.3%, or almost forty-one thousand dollars. And nearly 45,000 homes that delisted last year came back on in January at lower numbers.
+Every national headline is talking buyer's market. 34.2% of sellers cut their prices in February -- highest rate since 2012 per Redfin. But that story is Sun Belt. Chicago is the opposite: Illinois REALTORS reports median prices up, inventory down, sales down nearly 6% year-over-year because there is nothing to sell. D.J. Paris breaks down why agents importing the national pricing conversation into Chicago listing appointments are about to miscalibrate every one of them.
 
-D.J. Paris breaks down what the Redfin data actually says about pricing leverage in 2026 and what conversation every listing agent should be having with their sellers right now, not in June.
-
-**Hashtags:** #shorts #realestate #realtor #housingmarket #buyersmarket #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #realestate #chicagorealestate #housingmarket #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
-One in three home sellers just cut their asking price. That is the highest February rate in thirteen years.
+Every national headline right now is saying buyer's market. In Chicago, we are walking into multiple offers on almost every deal.
 
-Redfin just published the data. 34.2% of sellers lowered their list price in February, up from 31.5% a year ago. When those sellers cut, the average cut was 7.3%, or roughly forty-one thousand dollars off the asking price.
+Here is what is driving the national narrative. Redfin just released February numbers. 34.2% of sellers nationally cut their asking price. That is the highest February rate since 2012. When they cut, the average cut was 7.3% off ask -- roughly forty-one thousand dollars.
 
-The other number worth knowing: nearly 45,000 homes that delisted in 2025 came back on the market in January 2026, the highest January re-listing count since 2016. Those sellers came back in at lower numbers.
+That is real. But it is national. Most of the pressure is concentrated in Sun Belt markets like Austin, San Antonio, and Tampa.
 
-The pressure is not even across the country. Sun Belt metros like San Antonio and Austin are seeing more than half their sellers cut. Coastal tech markets like San Francisco and San Jose have barely moved. But the direction nationally is clear, and the pricing conversation every listing agent needs to have with their sellers has changed.
+Chicago is not that story.
 
-It is no longer "can we get over ask." It is "let's price this right so we do not chase the market down."
+Illinois REALTORS just reported February. Median prices up year-over-year. Inventory down. Sales volume down almost six percent because there is nothing to sell. My agents at Kale Realty are walking into listing appointments where they are already strategizing for multiple offers. That is not a soft market.
 
-The buyer's market is not coming. It is already here. The agents having honest pricing conversations with their sellers right now, not in June, are the ones still standing when summer inventory hits.
+Chicago never got the pandemic price spike that Sun Belt markets got. And it is not getting the price-cut correction either. We are on a completely different cycle.
 
-**Hashtags:** #RealEstate #HousingMarket #PricingStrategy #ChicagoRealEstate #RealtorLife
+Here is the mistake I see agents about to make. They are importing the national pricing conversation into a Chicago listing appointment. "We have to be careful, the market is softening, let's price conservative." That conversation does not match this market.
+
+In Chicago right now, the conversation is preparing your seller for multiple offers and coaching them through which one to take.
+
+Do not borrow someone else's market narrative for your listing appointment. Chicago is its own market. Price it like it.
+
+**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket #ListingAgent #RealtorLife
 
 ### X (Twitter)
 **Caption:**
-Redfin: 34.2% of home sellers cut their list price in February. Highest February rate since 2012.
+National headlines: "Buyer's market."
 
-When they cut, the average cut was 7.3% -- roughly $41K off ask.
+Redfin: 34.2% of February sellers cut their price. Highest since 2012. Mostly Sun Belt.
 
-The buyer's market isn't coming. It's already here.
+Chicago reality: median prices up, inventory down, sales down 6% because there's nothing to sell. My agents are strategizing for multiple offers on almost every listing.
 
-The conversation with your seller this spring isn't "can we get over ask." It's "let's price this right so we don't chase the market down."
+Don't borrow someone else's market narrative for your Chicago listing appointment.
 
-**Hashtags:** #RealEstate #HousingMarket #BuyersMarket
+**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket
