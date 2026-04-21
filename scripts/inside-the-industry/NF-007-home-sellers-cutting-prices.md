@@ -19,30 +19,21 @@ status: "ready"
 ## Shareable Moment
 > "The national housing narrative has nothing to do with what's happening in Chicago right now."
 
-## Script (45-60 seconds)
+## Script (~30 seconds)
 
-### HOOK (0:00-0:06)
-Every national headline right now is saying buyer's market. In Chicago, we're walking into multiple offers on almost every deal.
+### HOOK (0:00-0:05)
+Every national headline says buyer's market. In Chicago, we're walking into multiple offers on almost every deal.
 
-### NATIONAL DATA (0:06-0:20)
-Here's what's driving the narrative. Redfin just released February numbers. Thirty-four percent of sellers nationally cut their asking price. That's the highest February rate since 2012. When they cut, the average cut was seven percent off ask -- roughly forty-one thousand dollars.
+### DATA (0:05-0:17)
+Redfin says thirty-four percent of sellers nationally cut their price in February -- highest rate since 2012. Mostly Sun Belt. Illinois just reported the opposite. Prices up, inventory down, sales down six percent because there's nothing to sell. My agents at Kale are strategizing for multiple offers on almost every listing.
 
-That's real. But that's national. Most of the pressure is in Sun Belt markets like Austin, San Antonio, and Tampa.
+### MISTAKE (0:17-0:25)
+Here's the mistake agents are about to make. Importing the national pricing conversation into a Chicago listing appointment. "Let's price conservative, the market's softening." Wrong market.
 
-### CHICAGO REALITY (0:20-0:40)
-Chicago is not that story. Illinois REALTORS just reported February. Median prices up year-over-year. Inventory down. Sales volume down almost six percent because there's nothing to sell. My agents at Kale are walking into listing appointments where they're already strategizing for multiple offers. That's not a soft market.
+### CLOSE (0:25-0:30)
+Don't borrow someone else's market narrative. Chicago is its own market. Price it like it.
 
-Chicago never got the pandemic price spike that Sun Belt markets got. And it's not getting the price-cut correction either. We are on a completely different cycle.
-
-### INSIGHT (0:40-0:54)
-Here's the mistake I see agents about to make. They're importing the national pricing conversation into a Chicago listing appointment. "We have to be careful, the market is softening, let's price conservative." That conversation does not match this market.
-
-In Chicago right now, the conversation is preparing your seller for multiple offers and coaching them through which one to take. Those are completely different coaching moments.
-
-### CLOSE (0:54-0:60)
-Do not borrow someone else's market narrative for your listing appointment. Chicago is its own market. Price it like it.
-
-**Estimated Duration:** ~60 seconds
+**Estimated Duration:** ~30 seconds
 
 ## Data Source
 
