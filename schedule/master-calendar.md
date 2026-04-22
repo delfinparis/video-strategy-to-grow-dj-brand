@@ -39,7 +39,7 @@
 | AI Tip of the Week (AIT) | 1 (AIT-001) | 1x/week (Fri) | Fri slots after Apr 24 pull from 100 AIAM bank |
 | KIR Podcast Promo | 0 fresh | 1x/week (Mon) | Each Mon drops the week's new episode; one stale webinar promo in repo |
 | AIAM (frozen) | 100 | — | Not posting new; feeds AI Tip of the Week selection |
-| Agent Tip of the Day | 62 | — | Curation pending; retain named-guest credential tips only |
+| Agent Tip of the Day | 62 + 2 (064a/064b, ready) | — | 064a/064b inserted into Mon/Tue 4/20-4/21 as AI-tells variants; older curation pending |
 
 ---
 
@@ -67,21 +67,23 @@ AI Agent Minute and Agent Tip reels posted Apr 4–17 are backfilled in [`../dat
 
 | Date | Day | Slot | Script | Notes |
 |---|---|---|---|---|
-| Apr 20 | Mon | KIR Promo | TBD | This week's episode drop — new script needed |
-| Apr 21 | Tue | IIR — NF | [NF-006 — Five Brokerages Settled Scoreboard](../scripts/inside-the-industry/NF-006-five-brokerages-settled-scoreboard.md) | **Pivot day 1** |
+| Apr 20 | Mon | ATOTD | [ATOTD 064a — Stop Letting ChatGPT Write Your Emails](../scripts/reels/agent-tip-of-the-day/064a-stop-letting-chatgpt-write-your-emails.md) | Inserted 2026-04-20 -- KIR Promo slot retired (low value to recruiting audience per DJ) |
+| Apr 21 | Tue | ATOTD | [ATOTD 064b — Keep AI Off Your Voicemail](../scripts/reels/agent-tip-of-the-day/064b-keep-ai-off-your-voicemail.md) | Inserted 2026-04-20 -- displaces NF-006 to Thu |
 | Apr 22 | Wed | The Playbook | [PB-001 — Lowball Offer](../scripts/the-playbook/PB-001-lowball-offer.md) | Wed Playbook rotation |
-| Apr 23 | Thu | IIR — NF | TBD | From news brief |
+| Apr 23 | Thu | IIR — NF | [NF-006 — Five Brokerages Settled Scoreboard](../scripts/inside-the-industry/NF-006-five-brokerages-settled-scoreboard.md) | Displaced from Tue 4/21 by 064b insert |
 | Apr 24 | Fri | AI Tip | [AIT-001 — I Want to Think About It (Claude Roleplay)](../scripts/ai-tip-of-the-week/001-i-want-to-think-about-it-claude-roleplay.md) | First Fri → tapthis.co |
 | Apr 25 | Sat | IIR — IA | [IA-001 — Room With NAR Executive Team](../scripts/inside-the-industry/IA-001-room-with-nar-executive-team.md) | Sat IA substitute |
+
+**Unscheduled bonus NFs filmed but not yet slotted:** [NF-007 (Chicago vs buyer's market)](../scripts/inside-the-industry/NF-007-home-sellers-cutting-prices.md) and [NF-008 (eXp / Zillow RESPA)](../scripts/inside-the-industry/NF-008-exp-zillow-respa-next-wave.md). Both filmed 2026-04-20. Slot into next available TBD NF slots (Apr 28 Tue and Apr 30 Thu) before those go stale.
 
 ### Week 10: Apr 27 – May 02, 2026
 
 | Date | Day | Slot | Script | Notes |
 |---|---|---|---|---|
 | Apr 27 | Mon | KIR Promo | TBD | |
-| Apr 28 | Tue | IIR — NF | TBD | |
+| Apr 28 | Tue | IIR — NF | [NF-007 — Chicago Didn't Get the Buyer's Market Memo](../scripts/inside-the-industry/NF-007-home-sellers-cutting-prices.md) | Filmed 4/20; slot here before it goes stale |
 | Apr 29 | Wed | The Playbook | [PB-002 — Listing Agent Won't Return Calls](../scripts/the-playbook/PB-002-listing-agent-not-returning-calls.md) | |
-| Apr 30 | Thu | IIR — NF | TBD | |
+| Apr 30 | Thu | IIR — NF | [NF-008 — Commission Chapter Is Closing, Kickback Chapter Is Opening (eXp RESPA)](../scripts/inside-the-industry/NF-008-exp-zillow-respa-next-wave.md) | Filmed 4/20; RESPA case is still active, still relevant |
 | May 01 | Fri | AI Tip | [AIT-002 — Re-engage Ghosted Leads (3-Touch Sequence)](../scripts/ai-tip-of-the-week/002-re-engage-ghosted-leads-three-touch-sequence.md) | CTA variant: "Tip #2 of 570 at tapthis.co" |
 | May 02 | Sat | IIR — IA | [IA-002 — NAR Reached Out to Me Directly](../scripts/inside-the-industry/IA-002-nar-reached-out-to-me.md) | |
 
