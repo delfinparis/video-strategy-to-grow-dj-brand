@@ -6,8 +6,8 @@ title: "Keep AI Off Your Voicemail"
 target_duration: "45 seconds"
 avatar: "The Stuck Intermediate, New Licensee, The Forgotten Middle"
 primary_platform: "Personal IG / LinkedIn / TikTok"
-post_date: "TBD"
-status: "draft"
+post_date: "2026-04-21"
+status: "ready"
 shareable_moment: "Your voicemail greeting is the first thing a new client ever hears from you. If it sounds like a robot, they assume you will too."
 ---
 

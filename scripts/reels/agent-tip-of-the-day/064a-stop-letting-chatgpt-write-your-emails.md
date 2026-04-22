@@ -6,8 +6,8 @@ title: "Stop Letting ChatGPT Write Your Emails"
 target_duration: "35 seconds"
 avatar: "The Stuck Intermediate, New Licensee, The Forgotten Middle"
 primary_platform: "Personal IG / LinkedIn / TikTok"
-post_date: "TBD"
-status: "draft"
+post_date: "2026-04-20"
+status: "ready"
 shareable_moment: "The pile-on list of AI tells: em dashes, 'I hope this email finds you well,' 'In today's market,' 'I wanted to reach out.' Every agent watching has written every one of those sentences."
 ---
 
