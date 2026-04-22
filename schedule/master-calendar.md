@@ -82,7 +82,7 @@ AI Agent Minute and Agent Tip reels posted Apr 4–17 are backfilled in [`../dat
 | Apr 28 | Tue | IIR — NF | TBD | |
 | Apr 29 | Wed | The Playbook | [PB-002 — Listing Agent Won't Return Calls](../scripts/the-playbook/PB-002-listing-agent-not-returning-calls.md) | |
 | Apr 30 | Thu | IIR — NF | TBD | |
-| May 01 | Fri | AI Tip | TBD — select from AIAM | |
+| May 01 | Fri | AI Tip | [AIT-002 — Re-engage Ghosted Leads (3-Touch Sequence)](../scripts/ai-tip-of-the-week/002-re-engage-ghosted-leads-three-touch-sequence.md) | CTA variant: "Tip #2 of 570 at tapthis.co" |
 | May 02 | Sat | IIR — IA | [IA-002 — NAR Reached Out to Me Directly](../scripts/inside-the-industry/IA-002-nar-reached-out-to-me.md) | |
 
 ### Week 11: May 04 – May 09, 2026
@@ -93,7 +93,7 @@ AI Agent Minute and Agent Tip reels posted Apr 4–17 are backfilled in [`../dat
 | May 05 | Tue | IIR — NF | TBD | |
 | May 06 | Wed | The Playbook | [PB-003 — Buyer Asks to Cut Commission](../scripts/the-playbook/PB-003-buyer-asks-to-cut-commission.md) | Playbook pilot bench ends here |
 | May 07 | Thu | IIR — NF | TBD | |
-| May 08 | Fri | AI Tip | TBD — select from AIAM | |
+| May 08 | Fri | AI Tip | [AIT-003 — Train Claude to Write in Your Voice](../scripts/ai-tip-of-the-week/003-train-claude-to-write-in-your-voice.md) | CTA variant: "Grab this prompt and my whole library at tapthis.co" |
 | May 09 | Sat | IIR — IA | [IA-003 — Chicago Agents NAR Doesn't Know About](../scripts/inside-the-industry/IA-003-chicago-agents-nar-doesnt-know-about.md) | |
 
 ### Week 12: May 11 – May 16, 2026
@@ -104,7 +104,7 @@ AI Agent Minute and Agent Tip reels posted Apr 4–17 are backfilled in [`../dat
 | May 12 | Tue | IIR — IS | [IS-001 — What AI Still Can't Fix](../scripts/inside-the-industry/IS-001-what-ai-still-cant-fix.md) | Tue IS backfill |
 | May 13 | Wed | IIR — NF | TBD | Playbook bench exhausted; NF primary |
 | May 14 | Thu | IIR — NF | TBD | |
-| May 15 | Fri | AI Tip | TBD — select from AIAM | |
+| May 15 | Fri | AI Tip | [AIT-004 — 10-Minute AI Shutdown Ritual](../scripts/ai-tip-of-the-week/004-ai-shutdown-ritual-close-the-loops.md) | CTA variant: baseline "Full prompt plus 569 more at tapthis.co" |
 | May 16 | Sat | IIR — IA | [IA-004 — Kale Mentorship Program](../scripts/inside-the-industry/IA-004-kale-mentorship-program.md) | Last IA script in inventory |
 
 ### Week 13: May 18 – May 23, 2026
