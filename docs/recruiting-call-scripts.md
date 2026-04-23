@@ -253,10 +253,10 @@ After every call (answered or voicemail), update Close immediately:
 1. **Last Contact Date** - Close auto-updates this when you log a call
 2. **Latest Source** - leave as-is unless they re-engaged from a different channel
 3. **Notes** - write 2-3 sentences capturing:
-   - What they said about [topic]
-   - Any pain points they mentioned about their current brokerage (even casually)
-   - Whether they were warm/neutral/cold
-   - What you committed to send them as follow-up
+ - What they said about [topic]
+ - Any pain points they mentioned about their current brokerage (even casually)
+ - Whether they were warm/neutral/cold
+ - What you committed to send them as follow-up
 4. **Next Action** - set to specific date for the next touch (per the cadence table above)
 5. **DJ Outreach Status** - usually stays "DJ Working" unless you're handing off to Ana
 

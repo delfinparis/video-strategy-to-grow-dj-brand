@@ -20,7 +20,7 @@ What's one way you're attracting clients instead of chasing them?
 
 If you're still chasing clients, you've already lost 🎯
 
-Jay Cannone (top 1% producer) stopped "selling" years ago. His game-changer: Marketing attracts. Selling convinces. When you market right, clients come pre-sold.
+Jay Cannone (top 1% producer) stopped "selling" years ago. His shift: Marketing attracts. Selling convinces. When you market right, clients come pre-sold.
 
 Check your last 5 deals-how many came TO you vs. how many did you have to convince? That ratio is your real scorecard.
 

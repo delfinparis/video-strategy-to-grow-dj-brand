@@ -10,7 +10,7 @@ People can instantly tell when AI wrote your real estate content. And here's the
 
 Most agents ask AI to "write a post about real estate" and wonder why it sounds exactly like every other robotic post in their feed. The top producers? They use AI completely differently. They train it to write in THEIR voice first.
 
-Here's the game-changer: Before asking Claude to write anything, paste 3-5 examples of content YOU actually wrote. Then say "Analyze my writing style and write in that exact voice." Save it as a Claude Project. Every piece of content after that will actually sound like you.
+Before asking Claude to write anything, paste 3-5 examples of content YOU actually wrote. Then say "Analyze my writing style and write in that exact voice." Save it as a Claude Project. Every piece of content after that will actually sound like you.
 
 AI should amplify your voice, not replace it. Does your current AI content actually sound like you when you read it back?
 

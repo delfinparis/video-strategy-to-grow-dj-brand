@@ -10,7 +10,7 @@ Most real estate agents abandon social media after just three weeks. The reason?
 
 Here's the brutal truth: sitting down daily to figure out "what should I post today" is a recipe for burnout. You stare at a blank screen for 20 minutes, create something mediocre, hate the process, then skip the next day... and the cycle repeats until you quit entirely.
 
-The solution is simple but game-changing. Once a month, spend 90 minutes with AI tools like Claude. Generate 30 post ideas complete with hooks, body copy, and CTAs. Pick your favorites, refine them, and schedule the entire month. Done.
+The solution is simple but . Once a month, spend 90 minutes with AI tools like Claude. Generate 30 post ideas complete with hooks, body copy, and CTAs. Pick your favorites, refine them, and schedule the entire month. Done.
 
 Top producers don't post when inspired – they post on schedule. AI makes this possible without the overwhelm.
 
@@ -40,7 +40,7 @@ POV: You've been doing social media the hard way this whole time 😅 90 minutes
 
 ### LINKEDIN
 
-The statistics are telling: most real estate professionals abandon their social media efforts within three weeks. But it's not a commitment issue-it's a workflow problem.
+Most real estate professionals abandon their social media efforts within three weeks. The problem isn't commitment. It's workflow.
 
 The daily grind of content creation is unsustainable. Sitting down each day wondering "what should I post today" leads to decision fatigue, mediocre content, and eventual burnout. This approach treats symptoms, not the root cause.
 

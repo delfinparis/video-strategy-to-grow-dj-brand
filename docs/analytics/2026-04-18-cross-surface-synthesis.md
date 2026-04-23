@@ -157,7 +157,7 @@ Based on the platform data, the KPI priority is:
 - [ ] Re-run this analysis in 30 days to confirm IG Personal and LI Personal reach recovery
 - [ ] Decide on IS-002 fabrication pull-or-replace action
 - [ ] Begin using [`data/publishing-log.csv`](../../data/publishing-log.csv) + [`data/metrics/`](../../data/metrics/) for ongoing weekly tracking
-- [ ] Identify what the "5-Minute Rule" post was (1,485 impressions on LI Personal - still the unexplained outlier; understanding it could unlock a repeatable pattern)
+- [ ] Identify what the "5-Minute Rule" post was (1,485 impressions on LI Personal - still the unexplained outlier; understanding it could reveal a repeatable pattern)
 
 ---
 

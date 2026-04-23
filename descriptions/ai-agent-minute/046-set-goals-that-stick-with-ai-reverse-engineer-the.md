@@ -10,7 +10,7 @@ By March, 67% of people have already forgotten the goals they set in January. So
 
 Here's the brutal truth: "I want to close 50 deals this year" isn't a goal-it's a wish. And wishes don't pay the mortgage. The agents who actually hit their numbers? They reverse-engineer the math. They know exactly how many calls today equal closed deals in 90 days.
 
-D.J. Paris from Keeping It Real Podcast breaks down how to use AI to turn your annual goal into daily actions that actually move the needle. No more hoping the market cooperates. No more expensive disappointments.
+D.J. Paris from Keeping It Real Podcast breaks down how to use AI to turn your annual goal into daily actions that actually make a difference. No more hoping the market cooperates. No more expensive disappointments.
 
 What's your deal goal for this year? Let's turn it into a daily action plan.
 

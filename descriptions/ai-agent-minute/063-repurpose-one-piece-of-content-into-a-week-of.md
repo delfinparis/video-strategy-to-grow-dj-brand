@@ -10,7 +10,7 @@ You're leaving 90% of your content's value on the table every time you post some
 
 Here's the math that changes everything: One podcast episode, video, or newsletter contains enough material for an entire week of social media content across every platform. The agents who show up most consistently aren't creating more - they're repurposing smarter.
 
-DJ Paris breaks down the exact workflow that takes one piece of content and turns it into ten different posts. It's not about working harder, it's about working strategically. One asset, distributed everywhere, adapted for each platform's unique audience.
+DJ Paris breaks down the exact workflow that takes one piece of content and turns it into ten different posts. It's about working strategically, not working harder. One asset, distributed everywhere, adapted for each platform's unique audience.
 
 The best part? This entire process takes just 15 minutes with the right AI prompt. Create once, distribute everywhere - that's how the most consistent creators actually do it.
 
@@ -46,7 +46,7 @@ Here's what I've learned from analyzing the most consistent creators in our indu
 
 The math is simple but powerful. While most agents create one post and move on, top producers create one asset and systematically turn it into ten different pieces of content. Each adapted for its platform, each serving its specific audience.
 
-DJ Paris shares the exact 15-minute workflow that transforms any long-form content into LinkedIn posts, Instagram captions, standalone insights, and email subject lines. It's not about working harder - it's about strategic multiplication.
+DJ Paris shares the exact 15-minute workflow that transforms any long-form content into LinkedIn posts, Instagram captions, standalone insights, and email subject lines. It's about strategic multiplication, not working harder.
 
 What's the most valuable piece of content you've created that your audience never fully experienced?
 

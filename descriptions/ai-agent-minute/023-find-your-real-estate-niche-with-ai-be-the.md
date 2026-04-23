@@ -10,7 +10,7 @@ Most agents think niching down means turning away business. The truth? When you 
 
 D.J. Paris from Keeping It Real Podcast breaks down why "I work with all buyers and sellers" is the most forgettable sentence in real estate marketing. Plus, he shares a brilliant AI prompt to help you discover your perfect niche using Claude.
 
-Here's the game-changer: A niche doesn't shrink your market - it sharpens your message so the right people find you faster. When you become the obvious choice for a specific group, you actually generate MORE business, not less.
+A niche doesn't shrink your market - it sharpens your message so the right people find you faster. When you become the obvious choice for a specific group, you actually generate MORE business, not less.
 
 If you had to specialize in just one type of client (first-time buyers, luxury sellers, relocating families, etc.) - who would it be and why?
 
@@ -48,7 +48,7 @@ The fear of niching down is real. Agents worry they'll turn away business. But h
 
 D.J. Paris shares a powerful AI discovery process using Claude to identify your perfect niche based on your natural strengths, preferred clients, and unique story. The goal isn't to exclude - it's to excel.
 
-If you had to choose one specialty that leverages your unique background and expertise, what would it be?
+If you had to choose one specialty that uses your unique background and expertise, what would it be?
 
 #RealEstate #PersonalBranding #BusinessStrategy #RealEstateMarketing #ProfessionalDevelopment
 

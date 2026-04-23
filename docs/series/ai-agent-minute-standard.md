@@ -62,11 +62,11 @@ One sentence near the reframe that names why this tip matters this month, not in
 AI Agent Minute scripts must move through these beats in this order. No brand intro. No "See you next time" sign-off. The tip itself is the sign-off.
 
 ```
-1. HOOK              - First spoken sentence. Stops scroll. Opens a loop. No warm-up.
-2. MIRROR MOMENT     - Name the specific business pain, with time/place, in second person.
-3. AGITATION         - What the pain is costing. Specific, not abstract.
-4. THE AI FIX        - Tool named. Exact prompt delivered in spoken quotes.
-5. REFRAME           - Why this matters. Why now. One credibility signal max.
+1. HOOK - First spoken sentence. Stops scroll. Opens a loop. No warm-up.
+2. MIRROR MOMENT - Name the specific business pain, with time/place, in second person.
+3. AGITATION - What the pain is costing. Specific, not abstract.
+4. THE AI FIX - Tool named. Exact prompt delivered in spoken quotes.
+5. REFRAME - Why this matters. Why now. One credibility signal max.
 6. HERE'S WHAT YOU DO NOW - Exact action at the viewer's own life. Executable in the next hour.
 ```
 

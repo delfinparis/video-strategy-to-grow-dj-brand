@@ -24,7 +24,7 @@ The most underserved clients in real estate are also the most loyal - if you kno
 
 Downsizing seniors aren't just another transaction. They're navigating one of life's biggest emotional transitions, and most agents completely miss this.
 
-Here's the game-changer: Their adult children are watching how you handle it. Get it right, and you don't just get one client - you get the whole family for years.
+Their adult children are watching how you handle it. Get it right, and you don't just get one client - you get the whole family for years.
 
 What's the hardest part about serving downsizing clients? Drop it below 👇
 

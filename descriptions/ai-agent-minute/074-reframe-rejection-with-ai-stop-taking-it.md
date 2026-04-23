@@ -10,7 +10,7 @@ Most real estate agents quit not because they can't sell, but because they can't
 
 D.J. Paris breaks down why fear of rejection isn't laziness-it's self-protection. When you start treating every "no" as a personal attack, you stop prospecting altogether. You check email instead. You reorganize your desk. Sound familiar?
 
-The game-changer? Using AI to reframe those tough conversations. After a rough prospecting session, Claude can give you three alternative explanations for why someone said no that have nothing to do with your competence. It's like having a therapist for your business mindset.
+The shift? Using AI to reframe those tough conversations. After a rough prospecting session, Claude can give you three alternative explanations for why someone said no that have nothing to do with your competence. It's like having a therapist for your business mindset.
 
 Rejection processing is a skill, and AI helps you build it faster than experience alone ever could.
 

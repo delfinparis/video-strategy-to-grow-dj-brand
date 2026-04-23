@@ -10,7 +10,7 @@
 
 Most agents work in isolation with no one checking if they actually prospected today, or they pay for expensive coaching they barely use. There's a massive gap where good intentions just stay intentions, week after week.
 
-Here's a game-changing system that costs absolutely nothing: Use AI as your accountability partner. Every Monday, tell Claude your three specific commitments for the week. Every Friday, come back and report exactly what you accomplished. Ask for honest feedback on where you dropped the ball.
+Here's a system that costs absolutely nothing: Use AI as your accountability partner. Every Monday, tell Claude your three specific commitments for the week. Every Friday, come back and report exactly what you accomplished. Ask for honest feedback on where you dropped the ball.
 
 No judgment, no coaching fees, just crystal-clear accountability that remembers every promise you made to yourself.
 

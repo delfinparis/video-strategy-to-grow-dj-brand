@@ -10,7 +10,7 @@ Most agents closing $40 million per year aren't working harder than you. They're
 
 Bari Mill cracked the code when she stopped chasing everyone and started showing up in ONE world: Chicago finance professionals. She joined their networking group, listened instead of pitching, and became THE agent they think of. One connection led to four referrals within months.
 
-Here's the thing - you don't need a thousand leads. You need twenty people who trust you in one specific world. One group. One monthly meetup. One conversation that changes everything.
+- you don't need a thousand leads. You need twenty people who trust you in one specific world. One group. One monthly meetup. One conversation that changes everything.
 
 Tonight, Google "[your city] + [your industry] networking group" and RSVP to something happening this month. That's literally how this starts.
 

@@ -10,7 +10,7 @@ The average agent sits three open houses a month and converts zero of them into 
 
 Here's what D.J. Paris from Keeping It Real Podcast discovered: Open houses give you something most lead sources never will - actual face-to-face conversations. Yet most agents collect a sign-in sheet, send a generic follow-up email, and wonder why the leads go cold.
 
-The game-changer? Spending 5 minutes after each open house typing visitor notes into Claude AI, then asking it to craft personalized follow-ups that reference the actual conversations you had. Not templates. Messages that make people think "this agent actually remembered me."
+The shift? Spending 5 minutes after each open house typing visitor notes into Claude AI, then asking it to craft personalized follow-ups that reference the actual conversations you had. Not templates. Messages that make people think "this agent actually remembered me."
 
 What's your current open house follow-up strategy? Are you converting visitors into clients?
 
@@ -44,7 +44,7 @@ The data is stark: The average agent hosts multiple open houses monthly but conv
 
 Here's the insight that's changing everything: Open houses provide something rare in our digital world - genuine face-to-face interactions with potential buyers. Yet most agents collect contact information, send a generic follow-up email, and wonder why leads evaporate.
 
-The strategic shift involves leveraging AI for personalized follow-up. After each open house, document specific conversation details in Claude AI, then generate tailored messages that reference actual discussions. Not templates - personalized communications that demonstrate genuine attention and care.
+The strategic shift involves using AI for personalized follow-up. After each open house, document specific conversation details in Claude AI, then generate tailored messages that reference actual discussions. Not templates - personalized communications that demonstrate genuine attention and care.
 
 This approach transforms a typical 2% open house conversion rate into something significantly higher by treating prospects like humans, not data points.
 

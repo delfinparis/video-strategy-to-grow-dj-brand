@@ -34,7 +34,7 @@ Market updates are table stakes; the 'become the source' positioning makes it ab
 If your clients are getting their market information from the news instead of from you -- you've already lost your position as their trusted advisor.
 Here's what's happening to your database right now. Your past clients and sphere are reading Zillow headlines and watching cable news segments about the housing market -- content that's often alarmist, out of context, and completely irrelevant to what's actually happening in your specific neighborhood. They're forming opinions about the market without you. And when they're ready to move, they might not think to call you first.
 The agent who becomes the most trusted source of local market information gets the most calls when it's time to buy or sell.
-Here's how to become that agent in twenty minutes a month. Pull your local MLS data -- average sale price, days on market, list-to-sale ratio, active inventory. Give it to Claude and type: "Write a two-paragraph market update for homeowners in [your market] that explains what these numbers mean for a seller and a buyer. Make it conversational, not statistical. End with one specific actionable insight."
+Here's how to become that agent in twenty minutes a month. Pull your local MLS data -- average sale price, days on market, list-to-sale ratio, active inventory. Give it to Claude and type: "Write a two-paragraph market update for homeowners in [your market] that explains what these numbers mean for a seller and a buyer. Make it conversational, not statistical. End with one specific action steps."
 Send it to your entire database. Every month. Without fail.
 Are you sending regular market updates to your database right now?
 ## Producer Note

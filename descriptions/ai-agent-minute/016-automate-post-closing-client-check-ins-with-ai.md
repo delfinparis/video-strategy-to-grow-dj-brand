@@ -10,7 +10,7 @@
 
 Most agents vanish after closing. You send a thank-you gift, then disappear into thin air. Six months later, when your past client's neighbor needs a realtor recommendation, they can't remember your last name. Not because you did bad work-because you went silent.
 
-Here's the game-changer: Use AI to build a 12-month automated check-in sequence. Personal messages, market updates, maintenance tips-all scheduled to send automatically. Your clients feel remembered without you lifting a finger.
+Use AI to build a 12-month automated check-in sequence. Personal messages, market updates, maintenance tips-all scheduled to send automatically. Your clients feel remembered without you lifting a finger.
 
 Your past clients are your goldmine. Don't lose them to your own silence.
 

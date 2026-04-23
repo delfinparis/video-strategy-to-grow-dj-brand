@@ -10,7 +10,7 @@ By the time you recognize burnout, you're already three months deep into it. Mos
 
 The real signs? You're still showing up, still closing deals, but you're getting shorter with clients. You're procrastinating on calls you used to make without thinking. You're dreading Sunday nights in a way you didn't two years ago. The grind continues, but something feels off.
 
-D.J. Paris from Keeping It Real Podcast shares a game-changing weekly check-in using Claude AI. Five simple questions every Sunday that help you spot patterns before they become problems. Because you can't fix what you refuse to see.
+D.J. Paris from Keeping It Real Podcast shares a weekly check-in using Claude AI. Five simple questions every Sunday that help you spot patterns before they become problems. Because you can't fix what you refuse to see.
 
 Taking care of yourself isn't soft - it's the most strategic move for the business you built. Scale of 1-10, how energized are you about your business right now?
 

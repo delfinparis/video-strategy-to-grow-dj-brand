@@ -10,7 +10,7 @@ After interviewing hundreds of top producers over 12 years, I discovered one hab
 
 Most agents aren't measuring anything. They work hard but wonder why they stay stuck at the same production level year after year. The difference? Top producers look at their numbers every Friday - leads in, appointments set, offers written, deals closed - and adjust course.
 
-Here's the game-changer: Ask Claude to "Compare my actual activity against my weekly targets, identify my single biggest gap, and give me the one adjustment that would have the highest impact next week." Fifteen minutes of focused reflection beats fifteen hours of unfocused effort.
+Ask Claude to "Compare my actual activity against my weekly targets, identify my single biggest gap, and give me the one adjustment that would have the highest impact next week." Fifteen minutes of focused reflection beats fifteen hours of unfocused effort.
 
 When's the last time you actually looked at your weekly production numbers? Be honest!
 

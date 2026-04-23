@@ -61,27 +61,27 @@ Create `~/Library/LaunchAgents/com.djparis.newsbrief.plist`:
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>Label</key>
-  <string>com.djparis.newsbrief</string>
-  <key>ProgramArguments</key>
-  <array>
-    <string>/usr/bin/python3</string>
-    <string>/Users/djparis/video-strategy-to-grow-dj-brand/scripts/news_brief.py</string>
-  </array>
-  <key>StartCalendarInterval</key>
-  <dict>
-    <key>Hour</key><integer>6</integer>
-    <key>Minute</key><integer>30</integer>
-  </dict>
-  <key>EnvironmentVariables</key>
-  <dict>
-    <key>ANTHROPIC_API_KEY</key>
-    <string>sk-ant-api03-...</string>
-  </dict>
-  <key>StandardOutPath</key>
-  <string>/tmp/newsbrief.log</string>
-  <key>StandardErrorPath</key>
-  <string>/tmp/newsbrief-err.log</string>
+ <key>Label</key>
+ <string>com.djparis.newsbrief</string>
+ <key>ProgramArguments</key>
+ <array>
+ <string>/usr/bin/python3</string>
+ <string>/Users/djparis/video-strategy-to-grow-dj-brand/scripts/news_brief.py</string>
+ </array>
+ <key>StartCalendarInterval</key>
+ <dict>
+ <key>Hour</key><integer>6</integer>
+ <key>Minute</key><integer>30</integer>
+ </dict>
+ <key>EnvironmentVariables</key>
+ <dict>
+ <key>ANTHROPIC_API_KEY</key>
+ <string>sk-ant-api03-...</string>
+ </dict>
+ <key>StandardOutPath</key>
+ <string>/tmp/newsbrief.log</string>
+ <key>StandardErrorPath</key>
+ <string>/tmp/newsbrief-err.log</string>
 </dict>
 </plist>
 ```
@@ -95,9 +95,9 @@ Now each morning at 6:30am your brief is ready before you wake up.
 ## Command-line options
 
 ```bash
-python3 scripts/news_brief.py --lookback 24   # only stories from last 24h
-python3 scripts/news_brief.py --no-llm        # skip Claude triage (free, faster)
-python3 scripts/news_brief.py --all           # include previously-seen stories
+python3 scripts/news_brief.py --lookback 24 # only stories from last 24h
+python3 scripts/news_brief.py --no-llm # skip Claude triage (free, faster)
+python3 scripts/news_brief.py --all # include previously-seen stories
 ```
 
 The script tracks which story links it has already surfaced in prior runs and skips them by default, so you don't see the same story every day. Use `--all` to override.

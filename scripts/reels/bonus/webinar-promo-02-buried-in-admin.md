@@ -42,7 +42,7 @@ Five strategies. Live demos. 500-plus prompts -- free. Code REAL at keepingitrea
 ## Social Copy
 
 ### Instagram
-**Caption:** You're not behind because you're lazy. You're behind because you're doing the work of five people with zero leverage. On April 7th I'm showing agents how to get back 19 hours a week with AI -- the real systems, not the listing description stuff. 5 strategies. Live demos. 500+ prompts free. First 200 seats free with code REAL at keepingitrealwebinar.com. Link in bio.
+**Caption:** You're not behind because you're lazy. You're behind because you're doing the work of five people with zero use. On April 7th I'm showing agents how to get back 19 hours a week with AI -- the real systems, not the listing description stuff. 5 strategies. Live demos. 500+ prompts free. First 200 seats free with code REAL at keepingitrealwebinar.com. Link in bio.
 **Hashtags:** #RealEstateAI #AIForRealtors #RealEstateAgent #RealtorLife #AgentLife #SoloAgent #RealEstateProductivity #AIProductivity #RealEstateTraining #WorkSmarter
 
 ### TikTok
@@ -55,7 +55,7 @@ Five strategies. Live demos. 500-plus prompts -- free. Code REAL at keepingitrea
 **Hashtags:** #RealEstateAI #AIForRealtors #RealEstateAgent #Productivity #AIProductivity
 
 ### Facebook
-**Caption:** If you're a real estate agent doing your own marketing, admin, CRM updates, social media, and follow-ups -- you don't have a motivation problem. You have a leverage problem. On April 7th I'm doing a free live event showing you how AI handles the stuff that's burying you. 5 strategies. Live demos. 500+ free prompts. Code REAL at keepingitrealwebinar.com. First 200 seats free.
+**Caption:** If you're a real estate agent doing your own marketing, admin, CRM updates, social media, and follow-ups -- you don't have a motivation problem. You have a use problem. On April 7th I'm doing a free live event showing you how AI handles the stuff that's burying you. 5 strategies. Live demos. 500+ free prompts. Code REAL at keepingitrealwebinar.com. First 200 seats free.
 **Hashtags:** #RealEstateAI #AIForRealtors #RealEstateAgent #SoloAgent #RealEstateProductivity #WorkSmarter
 
 ### LinkedIn

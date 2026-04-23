@@ -10,7 +10,7 @@ Your GCI is a lie you tell yourself. That $200K year? After splits, taxes, marke
 
 D.J. Paris breaks down why most agents celebrate the wrong number and how AI can help you calculate your REAL profit per deal in minutes. Top producers don't measure gross income - they obsess over net profit.
 
-Here's the game-changer: Use Claude AI to analyze your last 12 months of income and expenses. Ask it to show you your actual net profit per deal and identify where you're bleeding money. The results might shock you.
+Use Claude AI to analyze your last 12 months of income and expenses. Ask it to show you your actual net profit per deal and identify where you're bleeding money. The results might shock you.
 
 Revenue is vanity. Profit is sanity. Most agents have never run this math.
 

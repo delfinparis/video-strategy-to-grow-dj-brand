@@ -22,7 +22,7 @@ Confidence on cold calls isn't talent. It's reps. AI just made unlimited practic
 
 Most agents memorize scripts but never actually practice handling objections out loud. The moment someone pushes back, they freeze.
 
-Here's the game-changer: Tell Claude to act as a skeptical FSBO owner and run mock calls. Practice the same call 10 times with AI throwing different objections each time.
+Tell Claude to act as a skeptical FSBO owner and run mock calls. Practice the same call 10 times with AI throwing different objections each time.
 
 What's your biggest cold call fear? Drop it below 👇
 

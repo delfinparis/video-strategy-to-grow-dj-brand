@@ -104,10 +104,10 @@ The highest-quality recruiting platform because the audience is professionally e
 2. Filter to "All" and review the last 7 days
 3. List every reaction, comment, share, and profile view from the week
 4. For each engager, click their profile and check:
-   - Greater Chicago location (or strong Chicago tie)
-   - Title contains "agent," "broker," "team lead," "producer," or similar
-   - NOT already in Close
-   - NOT already a Kale agent
+ - Greater Chicago location (or strong Chicago tie)
+ - Title contains "agent," "broker," "team lead," "producer," or similar
+ - NOT already in Close
+ - NOT already a Kale agent
 5. Score for A-agent likelihood (production volume, years in business, team size, listings on profile)
 6. **Target: 5-7 qualified adds per week**
 
@@ -121,10 +121,10 @@ Instagram is harder to qualify because the algorithm distributes 72% of reach to
 2. Review the last 7 days of likes, comments, and saves on Reels and posts
 3. Filter for accounts that look like real estate professionals (bio mentions agent, broker, listings)
 4. For each potential lead, check:
-   - Bio contains real estate keywords
-   - Bio mentions Chicago, Chicagoland, or specific Chicago neighborhoods
-   - Linked website is a real estate brokerage or agent profile
-   - Recent posts are real estate content
+ - Bio contains real estate keywords
+ - Bio mentions Chicago, Chicagoland, or specific Chicago neighborhoods
+ - Linked website is a real estate brokerage or agent profile
+ - Recent posts are real estate content
 5. **Target: 2-3 qualified adds per week**
 
 **The hard part for Instagram:** getting their phone number. Two paths:
@@ -144,9 +144,9 @@ Personal Facebook has the highest Chicago concentration of any platform (74.2%),
 2. Review the last 7 days of posts (especially the highest-engagement ones)
 3. For each post, click the reaction/comment count to see who engaged
 4. For each engager, ask three questions:
-   - Are they already in your sphere? If yes, skip - recruit them through a different channel
-   - Are they a real estate professional in Chicago? Check their profile
-   - Are they NOT already in Close? Check
+ - Are they already in your sphere? If yes, skip - recruit them through a different channel
+ - Are they a real estate professional in Chicago? Check their profile
+ - Are they NOT already in Close? Check
 5. **Target: 1-3 qualified adds per week**
 
 **Special advantage of Facebook:** phone numbers are often visible on the profile if you're already friends. If not friends, send a connection request with a short note and add them to Close as soon as they accept.
@@ -345,7 +345,7 @@ Honest section. The Daily Operating System exists because D.J.'s bottom-three Cl
 
 If the Frog (the daily recruitment call block) doesn't happen, nothing in this bridge doc matters. The Smart View in Close sits there untouched. The warm list goes stale. The content engine generates leads that nobody calls. The whole system breaks at that single point of failure.
 
-**The single highest-leverage action in this entire integration is not content, not strategy, not CRM configuration. It is D.J. actually opening Close at 9am every day and making the dials from the Smart View before doing anything else.**
+**The single highest-use action in this entire integration is not content, not strategy, not CRM configuration. It is D.J. actually opening Close at 9am every day and making the dials from the Smart View before doing anything else.**
 
 The support structures exist (Petros accountability, calendar blocks, pre-commitment, the Ambush Zone for shiny objects). The bridge this document defines makes the dial block EASIER by pre-building the list. But the block itself is the choke point.
 

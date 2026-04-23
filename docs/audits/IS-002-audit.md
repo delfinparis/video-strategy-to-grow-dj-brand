@@ -122,29 +122,29 @@ Tomorrow morning, pick up one call you'd normally skip. See what happens.
 ## Data Source
 
 - **Claim:** "After 700 podcast interviews with top producers..."
-  - Source: Keeping It Real Podcast, 2015-2026, 700+ episodes
-  - Who was measured: Real estate agents interviewed by D.J. Paris
-  - Status: confirmed
+ - Source: Keeping It Real Podcast, 2015-2026, 700+ episodes
+ - Who was measured: Real estate agents interviewed by D.J. Paris
+ - Status: confirmed
 
 - **Claim:** "agents doing $40, $50 million a year"
-  - Source: Kristee Leonard ($50M producer, KIR episode referenced in archive - verify episode number and date)
-  - Source: Bari Mill ($40M producer, KIR episode referenced in archive - verify episode number and date)
-  - Who was measured: Named podcast guests
-  - Status: confirmed on production volume, verify episode citations before filming
+ - Source: Kristee Leonard ($50M producer, KIR episode referenced in archive - verify episode number and date)
+ - Source: Bari Mill ($40M producer, KIR episode referenced in archive - verify episode number and date)
+ - Who was measured: Named podcast guests
+ - Status: confirmed on production volume, verify episode citations before filming
 
 - **Claim:** "That 6:47 call was someone about to sign with the agent who picks up."
-  - Source: Karina Chavez (KIR episode on evening call responsiveness - verify episode number)
-  - Who was measured: Named podcast guest describing her own business
-  - Status: Pattern is confirmed from multiple guests; the 6:47pm specific framing is composite. If we want to keep a specific time in the script, attribute to Karina's actual episode. Otherwise reframe to "an evening call."
+ - Source: Karina Chavez (KIR episode on evening call responsiveness - verify episode number)
+ - Who was measured: Named podcast guest describing her own business
+ - Status: Pattern is confirmed from multiple guests; the 6:47pm specific framing is composite. If we want to keep a specific time in the script, attribute to Karina's actual episode. Otherwise reframe to "an evening call."
 
 - **Claim (guest quote):** "I don't know what deal is in that call until I pick it up."
-  - Source: **NEEDS VERIFICATION.** D.J. to identify the specific podcast guest and episode before filming. If the quote is composite or reconstructed, it must be replaced with either (a) a verbatim quote from a specific named guest, or (b) a paraphrased version clearly framed as "the way top producers describe it to me" without quotation marks.
-  - Status: **placeholder**
+ - Source: **NEEDS VERIFICATION.** D.J. to identify the specific podcast guest and episode before filming. If the quote is composite or reconstructed, it must be replaced with either (a) a verbatim quote from a specific named guest, or (b) a paraphrased version clearly framed as "the way top producers describe it to me" without quotation marks.
+ - Status: **placeholder**
 
 - **Claim:** "almost every top producer I've interviewed still does"
-  - Source: Synthesis from named guests above plus broader pattern across KIR archive
-  - Who was measured: D.J.'s observation across ~700 guest interviews
-  - Status: confirmed as a qualitative pattern; deliberately not quantified per Rule 1
+ - Source: Synthesis from named guests above plus broader pattern across KIR archive
+ - Who was measured: D.J.'s observation across ~700 guest interviews
+ - Status: confirmed as a qualitative pattern; deliberately not quantified per Rule 1
 
 - **Template note:** This script replaces the original "X% Club" template. The real "9% Club" LinkedIn post (4/1/2026, 651 impressions on Personal LI) used a verifiable 9% number from a specific source. The "6% Club" in the original IS-002 draft fabricated the 6/94 split to mimic the template structure. That is the exact failure mode the editorial standard was written to prevent.
 

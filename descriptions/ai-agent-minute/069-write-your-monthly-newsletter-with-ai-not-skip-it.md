@@ -44,7 +44,7 @@ The harsh reality? When a referral opportunity arises, you're not the first name
 
 D.J. Paris from Keeping It Real Podcast demonstrates how AI can transform this common failure point into a competitive advantage. Using Claude AI, agents can create meaningful monthly newsletters in just 20 minutes by combining four simple elements: one local market insight, one seasonal home maintenance tip, one personal business story, and one recent success or listing.
 
-The key is consistency over perfection. Monthly touchpoints build the top-of-mind awareness that drives referrals and repeat business. It's not about perfect design or corporate messaging - it's about genuine, regular connection.
+The key is consistency over perfection. Monthly touchpoints build the top-of-mind awareness that drives referrals and repeat business. It's about genuine, regular connection, not perfect design or corporate messaging.
 
 How often do you communicate with your entire database via email - monthly, occasionally, or only during the holidays?
 

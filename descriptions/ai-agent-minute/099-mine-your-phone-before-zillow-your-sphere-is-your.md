@@ -54,4 +54,4 @@ Here's my question: How many contacts in your phone right now have no idea you'r
 
 **Title:** Mine Your Phone Before Zillow - Your Sphere Is Your First Lead Source
 
-**Description:** New agents spend thousands on Zillow leads while 500 contacts in their phone don't know they do real estate. DJ Paris reveals why your sphere should be your first lead source and the AI prompt to unlock it. Subscribe for daily real estate tips. #realestate #leadgeneration #sphereofinfluence #realtortips #djparis
+**Description:** New agents spend thousands on Zillow leads while 500 contacts in their phone don't know they do real estate. DJ Paris reveals why your sphere should be your first lead source and the AI prompt to tap into it. Subscribe for daily real estate tips. #realestate #leadgeneration #sphereofinfluence #realtortips #djparis

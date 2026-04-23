@@ -8,7 +8,7 @@
 
 The gap between a house that sells in 5 days versus 90 days? It's almost always preparation. Most sellers are flying blind, spending money on the wrong improvements while missing what today's buyers actually care about.
 
-D.J. Paris from Keeping It Real Podcast just dropped a game-changer: using AI to create a comprehensive "Seller Prep Playbook" that eliminates the guesswork. Instead of giving sellers a generic to-do list, top agents are now providing detailed roadmaps with the highest-ROI improvements, room-by-room decluttering guides, and market-specific buyer preferences.
+D.J. Paris from Keeping It Real Podcast just shared this: using AI to create a comprehensive "Seller Prep Playbook" that eliminates the guesswork. Instead of giving sellers a generic to-do list, top agents are now providing detailed roadmaps with the highest-ROI improvements, room-by-room decluttering guides, and market-specific buyer preferences.
 
 The secret sauce? Ask Claude for a playbook that includes the 10 highest-ROI improvements, decluttering checklists, current buyer priorities, and the 3 most common seller mistakes that quietly tank sale prices. Turn it into a PDF and watch your listing appointments transform.
 
@@ -46,7 +46,7 @@ The gap between 5-day sales and 90-day sits? Always preparation.
 
 Here's what separates homes that sell in 5 days from those that languish for 90: preparation. Yet most real estate professionals are still handing sellers generic checklists and hoping for the best.
 
-The challenge isn't just that sellers are emotionally attached to their homes-it's that they genuinely don't know what today's buyers prioritize. They'll spend thousands on improvements that don't move the needle while ignoring the details that actually drive offers.
+The challenge isn't just that sellers are emotionally attached to their homes-it's that they genuinely don't know what today's buyers prioritize. They'll spend thousands on improvements that don't make a difference while ignoring the details that actually drive offers.
 
 D.J. Paris from Keeping It Real Podcast shares a strategic approach that's changing how top producers handle pre-listing preparation. Instead of general advice, they're using AI tools like Claude to create comprehensive "Seller Prep Playbooks" tailored to their specific markets and price points.
 

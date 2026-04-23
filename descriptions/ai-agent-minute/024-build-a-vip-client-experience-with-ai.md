@@ -10,7 +10,7 @@ Twenty percent of your past clients generate eighty percent of your referrals. Y
 
 Your best clients aren't just customers-they're unpaid marketing partners who talk about you at dinner parties and send referrals without being asked. But they need more than standard service to keep championing your business.
 
-D.J. Paris from Keeping It Real Podcast breaks down how to use AI to build a systematic VIP experience that turns your top advocates into referral machines. It's not about more marketing-it's about genuine appreciation delivered consistently.
+D.J. Paris from Keeping It Real Podcast breaks down how to use AI to build a systematic VIP experience that turns your top advocates into referral machines. The answer isn't more marketing. It's genuine appreciation, delivered consistently.
 
 Which past client would send you referrals all year if you just stayed in better touch?
 

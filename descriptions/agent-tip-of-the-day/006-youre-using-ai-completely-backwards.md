@@ -42,7 +42,7 @@ POV: You've been using AI completely backwards this whole time 🤯 Stop asking 
 
 Most real estate professionals are approaching AI from the wrong angle entirely.
 
-Eithan Davidov, who closes over 100 transactions annually in Queens, shared a perspective that completely reframes how agents should leverage artificial intelligence: "I use AI to clean up my thoughts instead of generate them."
+Eithan Davidov, who closes over 100 transactions annually in Queens, shared a perspective that completely reframes how agents should use artificial intelligence: "I use AI to clean up my thoughts instead of generate them."
 
 While the majority of agents are asking ChatGPT to write their emails, social posts, and scripts (resulting in generic, robotic content), successful agents like Eithan use AI as an organizational tool. The process is simple but powerful: record a voice memo after a client interaction, transcribe those raw thoughts, then ask AI to structure and organize-not create-the content.
 

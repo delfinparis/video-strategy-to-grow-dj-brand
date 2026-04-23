@@ -8,7 +8,7 @@
 
 Most agents lose deals and have no idea why. They think the other side just "got cold feet" or "went with someone else." But Tim Burrell, a top producer in Raleigh, discovered the real reason: we're terrible at reading digital tone.
 
-Here's his game-changer: He runs every negotiation email through ChatGPT with a custom prompt that detects frustration levels on a 1-10 scale. When it flags a 6 or higher, he picks up the phone instead of typing back. The AI catches tone shifts that kill deals before they happen.
+His approach: He runs every negotiation email through ChatGPT with a custom prompt that detects frustration levels on a 1-10 scale. When it flags a 6 or higher, he picks up the phone instead of typing back. The AI catches tone shifts that kill deals before they happen.
 
 Think about your last deal that died unexpectedly. You probably sent 2-3 emails that week that landed wrong, but you didn't know it until it was too late. This catches email number one.
 

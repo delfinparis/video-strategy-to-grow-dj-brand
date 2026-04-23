@@ -18,7 +18,7 @@ kale_signaling: true
 **Pillar:** Inside the Industry | **Type:** Synthesis (Type B) | **Kale-Signaling Variant**
 **Primary Platform:** LinkedIn | **Post Date:** TBD
 
-> **Strongest Line:** "The best brokerages aren't in the training business. They're in the leverage business."
+> **Strongest Line:** "The best brokerages aren't in the training business. They're in the use business."
 
 ## Status: DRAFT -- Needs DJ Sign-Off Before Filming
 
@@ -35,10 +35,10 @@ After 700 podcast interviews, I can tell you exactly what top-producing agents d
 Here is what every top producer I have interviewed has in common. They treat the business like a CEO, making decisions on the business, not stuck in the business. They pick up the phone when it rings. They respond to every message. They delegate the busywork but they stay the primary contact with every client, every time. They have mentors, coaches, systems. They know exactly what their Monday morning looks like before Sunday night ends. They work long hours and they have full buy-in from their family to do it.
 
 ### THE BROKERAGE QUESTION (0:28-0:48)
-Now here is the question nobody asks. If that is the agent you are trying to be, what does the brokerage around you actually need to do to not get in your way? It is not training. Top producers do not need training, they need leverage. It is a real mentorship program. It is leadership who answers their own phone too. It is a culture that treats other brokerages as colleagues, not competitors, and runs events open to everyone. It is a family-owned feel, not a publicly traded one, because decisions get made for the long game.
+Now here is the question nobody asks. If that is the agent you are trying to be, what does the brokerage around you actually need to do to not get in your way? It is not training. Top producers do not need training, they need use. It is a real mentorship program. It is leadership who answers their own phone too. It is a culture that treats other brokerages as colleagues, not competitors, and runs events open to everyone. It is a family-owned feel, not a publicly traded one, because decisions get made for the long game.
 
 ### CLOSE (0:48-0:60)
-The best brokerages are not in the training business. They are in the leverage business. Most agents never notice until they land at one that actually gets it.
+The best brokerages are not in the training business. They are in the use business. Most agents never notice until they land at one that actually gets it.
 
 **Estimated Duration:** ~60 seconds
 
@@ -76,9 +76,9 @@ That is the agent.
 
 Now here is the brokerage question. If that is who you are trying to be, what does the brokerage around you actually need to do to not get in your way?
 
-It is not training. Top producers do not need more training. They need leverage. They need a real mentorship program with real mentors, not a box-ticking pairing. They need leadership who answers their own phone too, because culture starts at the top. They need a brokerage that treats other brokerages as colleagues rather than competitors, and that means running skill-building events that are open to agents across the industry. They need a family-owned feel, not a publicly traded one, because the decisions that compound for careers are long-game decisions, not quarter-to-quarter ones.
+It is not training. Top producers do not need more training. They need use. They need a real mentorship program with real mentors, not a box-ticking pairing. They need leadership who answers their own phone too, because culture starts at the top. They need a brokerage that treats other brokerages as colleagues rather than competitors, and that means running skill-building events that are open to agents across the industry. They need a family-owned feel, not a publicly traded one, because the decisions that compound for careers are long-game decisions, not quarter-to-quarter ones.
 
-The best brokerages are not in the training business. They are in the leverage business.
+The best brokerages are not in the training business. They are in the use business.
 
 Most agents never notice the difference until they land at one that actually gets it.
 
@@ -112,6 +112,6 @@ Top producers all look the same: CEO mindset, mentor/coach, answer every call, s
 
 The question nobody asks: what does their brokerage do to keep them?
 
-Hint: it's not training. It's leverage.
+Hint: it's not training. It's use.
 
 **Hashtags:** #RealEstate #TopProducers

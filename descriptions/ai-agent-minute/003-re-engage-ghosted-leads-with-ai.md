@@ -24,7 +24,7 @@ Your ghosted leads aren't gone – your last message just gave them no reason to
 
 D.J. Paris reveals why "just following up" kills deals and how top producers use AI to bring dead leads back to life.
 
-The game-changer? Stop chasing and start delivering value. His 3-touch sequence: market update → perfect property match → low-pressure check-in. No guilt, no pressure, just pure value that makes them want to respond.
+The shift? Stop chasing and start delivering value. His 3-touch sequence: market update → perfect property match → low-pressure check-in. No guilt, no pressure, just pure value that makes them want to respond.
 
 How many ghosted leads are in your CRM right now? Drop that number below 👇
 

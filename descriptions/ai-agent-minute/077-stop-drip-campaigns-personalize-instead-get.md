@@ -10,7 +10,7 @@ Your CRM drip campaign is quietly killing your deals - and here's the brutal tru
 
 Today's clients spot mass automation instantly. It goes straight to the trash. But here's what separates the top 1% of producers: they're not sending MORE messages, they're sending more HUMAN ones.
 
-D.J. Paris from Kale Realty just dropped a game-changing 2-minute Claude prompt that turns your robotic follow-ups into personalized conversations that actually get responses. The secret? It's not a follow-up problem - it's a listening problem.
+D.J. Paris from Kale Realty shared a 2-minute Claude prompt that turns robotic follow-ups into personalized conversations that actually get responses. The real problem isn't your follow-up. It's that you're not listening.
 
 What's your biggest challenge with lead follow-up right now?
 

@@ -10,7 +10,7 @@ Most real estate agents start thinking about negotiation strategy while they're 
 
 Top producers know the secret: they build their negotiation plan before they ever dial. They map out scenarios, prepare talking points, and walk in with a game plan instead of hoping their gut instincts will save the day.
 
-Here's what I've learned after 700+ podcast episodes with top agents: the best negotiations happen before the call even starts. When you're juggling client priorities, seller motivations, and market leverage in real time, improvisation leaves money on the table.
+Here's what I've learned after 700+ podcast episodes with top agents: the best negotiations happen before the call even starts. When you're juggling client priorities, seller motivations, and market use in real time, improvisation leaves money on the table.
 
 Your clients hired you to think clearly under pressure. AI tools like Claude can help you do that hard thinking ahead of time, not in the moment when it's too late.
 

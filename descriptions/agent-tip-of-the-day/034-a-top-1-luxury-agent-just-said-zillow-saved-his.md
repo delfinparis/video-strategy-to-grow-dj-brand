@@ -10,7 +10,7 @@ A top 1% luxury agent in Calabasas just said something that'll make traditional 
 
 Jeff Biebuyck was watching his hyper-local luxury market contract. While other agents doubled down on their precious zip codes, he did the exact opposite. He used Zillow Flex not as lead gen, but as a geographic expansion strategy to spread his team across ALL of Greater LA.
 
-The result? While competitors waited for their micro-markets to recover, Jeff's team was closing deals in six different areas. It's not about the platform - it's about thinking like a business owner instead of a territory defender.
+The result? While competitors waited for their micro-markets to recover, Jeff's team was closing deals in six different areas. The platform wasn't the point. Thinking like a business owner instead of a territory defender was.
 
 Your market doesn't owe you deals. Expansion isn't betrayal.
 
@@ -42,7 +42,7 @@ Top 1% luxury agent said Zillow SAVED his team - here's the plot twist that kept
 
 When Jeff Biebuyck's luxury market in Calabasas started contracting, he faced the same choice every team leader confronts: double down or diversify.
 
-Most agents chose to fight harder for fewer deals in their precious zip codes. Jeff took a different approach. He leveraged Zillow Flex not as a lead generation tool, but as a geographic expansion strategy to position his team across Greater Los Angeles.
+Most agents chose to fight harder for fewer deals in their precious zip codes. Jeff took a different approach. He used Zillow Flex not as a lead generation tool, but as a geographic expansion strategy to position his team across Greater Los Angeles.
 
 The insight here isn't about the platform-it's about the mindset shift from territory defender to business owner. While competitors waited for their micro-markets to recover, Jeff's team was actively closing transactions in six different areas.
 

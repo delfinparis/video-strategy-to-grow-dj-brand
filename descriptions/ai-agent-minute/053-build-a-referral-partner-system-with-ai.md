@@ -10,7 +10,7 @@ Most real estate agents have a "network of people who don't call you back" - and
 
 D.J. Paris breaks down why the best lead sources aren't built on asking for referrals, but on systematically giving value first. When you flip the script from "what can you do for me" to "what can I do for you," those lenders, attorneys, and financial advisors suddenly start picking up your calls.
 
-The game-changer? Using AI to build a 12-month referral partner system that focuses on giving value BEFORE you ever make an ask. It's the difference between transactional interactions and actual relationships that generate consistent warm leads.
+The shift? Using AI to build a 12-month referral partner system that focuses on giving value BEFORE you ever make an ask. It's the difference between transactional interactions and actual relationships that generate consistent warm leads.
 
 Who's your most reliable referral source right now, and what type of professional are they?
 

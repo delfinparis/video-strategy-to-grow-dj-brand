@@ -14,7 +14,7 @@
 
 **AI Agent Minute:** #1: Handle 'I Want To Think About It' With A | #2: End Your Day With An AI Shutdown Ritual | #3: Re-Engage Ghosted Leads With AI
 
-**Agent Tip:** #1: A white duvet in your trunk could b (Amanda Pendleton) | #2: Your college roommate just bought a (Bari Mill) | #3: You hit top 1% and still feel like  (Garrett Maroon)
+**Agent Tip:** #1: A white duvet in your trunk could b (Amanda Pendleton) | #2: Your college roommate just bought a (Bari Mill) | #3: You hit top 1% and still feel like (Garrett Maroon)
 
 **Avatar Coverage:** All, Burned Out Veteran, Overwhelmed Newbie, Stuck Intermediate, Stuck Intermediate / Forgotten Middle
 
@@ -22,7 +22,7 @@
 
 ## Week 2 (Mar 02 - Mar 07, 2026)
 
-**AI Agent Minute:** #4: Use AI To Build The Business You Actuall | #5: Most Agents Use AI Like Google. The Top  | #6: You Don't Dread Prospecting. You Dread H
+**AI Agent Minute:** #4: Use AI To Build The Business You Actuall | #5: Most Agents Use AI Like Google. The Top | #6: You Don't Dread Prospecting. You Dread H
 
 **Agent Tip:** #4: While your competition is posting ' (Paul Salter) | #5: You lost a $2.3M buyer last month b (Chris Linsell) | #6: You're using AI completely backward (Eithan Davidov)
 
@@ -34,7 +34,7 @@
 
 **AI Agent Minute:** #7: Practice Cold Calls With AI - Stop Freez | #8: Top Producers Aren't More Disciplined. T | #9: Investors Don't Want a CMA. They Want a 
 
-**Agent Tip:** #7: The $50 million producer who still  (Kristee Leonard) | #8: Most agents chase everyone. The one (Bari Mill) | #9: Insurance is killing more deals tha (Jeff Biebuyck)
+**Agent Tip:** #7: The $50 million producer who still (Kristee Leonard) | #8: Most agents chase everyone. The one (Bari Mill) | #9: Insurance is killing more deals tha (Jeff Biebuyck)
 
 **Avatar Coverage:** All, Burned Out Veteran, Overwhelmed Newbie, Stuck Intermediate
 
@@ -54,7 +54,7 @@
 
 **AI Agent Minute:** #13: Practice Pricing Conversations With AI | #14: Explain Your Value Post-NAR Settlement W | #15: Calculate Your Real Profit Per Deal With
 
-**Agent Tip:** #13: You're not stuck because you don't  (Connie Mahan) | #14: Most agents pay for tools. Top prod (D.J. Paris) | #15: You're lying to yourself about one  (Paul Salter)
+**Agent Tip:** #13: You're not stuck because you don't (Connie Mahan) | #14: Most agents pay for tools. Top prod (D.J. Paris) | #15: You're lying to yourself about one (Paul Salter)
 
 **Avatar Coverage:** All, Burned Out Veteran, Newbie / Intermediate, Overwhelmed Newbie, Stuck Intermediate, Stuck Intermediate / Forgotten Middle
 
@@ -94,7 +94,7 @@
 
 **AI Agent Minute:** #25: Decide When To Hire With AI - Stop Billi | #26: Build A Buyer Education Series With AI | #27: Write FSBO Outreach With AI - Not The Sa
 
-**Agent Tip:** #25: You don't need another course. You  (Connie Mahan) | #26: You're negotiating blind. And the o (Tim Burrell) | #27: A real estate tech analyst just sai (Chris Linsell)
+**Agent Tip:** #25: You don't need another course. You (Connie Mahan) | #26: You're negotiating blind. And the o (Tim Burrell) | #27: A real estate tech analyst just sai (Chris Linsell)
 
 **Avatar Coverage:** All, Aspiring Top Producer, Burned Out Veteran, Forgotten Middle / Aspiring Top Producer, Overwhelmed Newbie
 
@@ -102,7 +102,7 @@
 
 ## Week 10 (Apr 27 - May 02, 2026)
 
-**AI Agent Minute:** #28: Stop Living In Your Inbox - Batch Email  | #29: Build A Wealth Plan With AI - Commission | #30: The Veteran's Problem Isn't Doing Too Li
+**AI Agent Minute:** #28: Stop Living In Your Inbox - Batch Email | #29: Build A Wealth Plan With AI - Commission | #30: The Veteran's Problem Isn't Doing Too Li
 
 **Agent Tip:** #28: Gen Z is making 50% more income tha (Amanda Pendleton) | #29: A 40-year veteran just told me he's (Jay Cannone) | #30: AI now knows which agents are about (Unknown Guest)
 
@@ -122,9 +122,9 @@
 
 ## Week 12 (May 11 - May 16, 2026)
 
-**AI Agent Minute:** #34: Write Your SOPs With AI - Document Your  | #35: Prep Every Showing In 60 Seconds With AI | #36: Turn Your Best Deals Into Case Studies W
+**AI Agent Minute:** #34: Write Your SOPs With AI - Document Your | #35: Prep Every Showing In 60 Seconds With AI | #36: Turn Your Best Deals Into Case Studies W
 
-**Agent Tip:** #34: A top 1% luxury agent just said Zil (Jeff Biebuyck) | #35: The rage is what keeps you going. A (Marisa Kashino) | #36: Every agent has access to the same  (Chris Linsell)
+**Agent Tip:** #34: A top 1% luxury agent just said Zil (Jeff Biebuyck) | #35: The rage is what keeps you going. A (Marisa Kashino) | #36: Every agent has access to the same (Chris Linsell)
 
 **Avatar Coverage:** All, Aspiring Top Producer / Team Leader, Burned Out Veteran, Forgotten Middle / Aspiring Top Producer, Stuck Intermediate, Team Leader
 
@@ -132,7 +132,7 @@
 
 ## Week 13 (May 18 - May 23, 2026)
 
-**AI Agent Minute:** #37: Fix Feast-Or-Famine Income With AI | #38: Build A Year-Round Tax Prep System With  | #39: Handle Difficult Clients With AI - Respo
+**AI Agent Minute:** #37: Fix Feast-Or-Famine Income With AI | #38: Build A Year-Round Tax Prep System With | #39: Handle Difficult Clients With AI - Respo
 
 **Agent Tip:** #37: Most agents are converting leads. S (Sarah Meslowski) | #38: Your top agent just quit. Not becau (Paul Salter) | #39: Your competition is about to disapp (Carrie McCormick)
 
@@ -152,9 +152,9 @@
 
 ## Week 15 (Jun 01 - Jun 06, 2026)
 
-**AI Agent Minute:** #43: Counter Discount Broker Objections With  | #44: Prep Clients For Appraisals With AI | #45: Competing on Split Is a Race You'll Lose
+**AI Agent Minute:** #43: Counter Discount Broker Objections With | #44: Prep Clients For Appraisals With AI | #45: Competing on Split Is a Race You'll Lose
 
-**Agent Tip:** #43: Your buyers aren't walking away fro (Carrie McCormick) | #44: You're using AI wrong. And the fix  (Michael Thornton) | #45: You're getting better at the wrong  (Courtney Poulos)
+**Agent Tip:** #43: Your buyers aren't walking away fro (Carrie McCormick) | #44: You're using AI wrong. And the fix (Michael Thornton) | #45: You're getting better at the wrong (Courtney Poulos)
 
 **Avatar Coverage:** All, Forgotten Middle / Aspiring Top Producer, Stuck Intermediate, Team Leader
 
@@ -162,7 +162,7 @@
 
 ## Week 16 (Jun 08 - Jun 13, 2026)
 
-**AI Agent Minute:** #46: Set Goals That Stick With AI - Reverse-E | #47: Use AI As Your Accountability Partner -  | #48: Catch Burnout Early With AI - Before It 
+**AI Agent Minute:** #46: Set Goals That Stick With AI - Reverse-E | #47: Use AI As Your Accountability Partner - | #48: Catch Burnout Early With AI - Before It 
 
 **Agent Tip:** #46: If you're still chasing clients, yo (Jay Cannone) | #47: The agents closing $2B+ in luxury d (Jill Preschel) | #48: Your clients don't actually underst (Karina Chavez)
 
@@ -174,7 +174,7 @@
 
 **AI Agent Minute:** #49: Find Off-Market Inventory With AI - Stop | #50: Send Monthly Market Updates With AI - Be | #51: Learn Gen Z Buyer Behavior With AI - Ada
 
-**Agent Tip:** #49: Your tenth video will beat someone  (Kim Rittberg) | #50: The agent doing $50 million a year  (Kristee Leonard) | #51: While you're planning to coast thro (Paul Salter)
+**Agent Tip:** #49: Your tenth video will beat someone (Kim Rittberg) | #50: The agent doing $50 million a year (Kristee Leonard) | #51: While you're planning to coast thro (Paul Salter)
 
 **Avatar Coverage:** All, Forgotten Middle / Aspiring Top Producer, Stuck Intermediate
 
@@ -192,7 +192,7 @@
 
 ## Week 19 (Jun 29 - Jul 04, 2026)
 
-**AI Agent Minute:** #55: Build Your Annual Business Plan With AI  | #56: Round-Robin Lead Distribution Is Costing | #57: The Builder's Agent Works For The Builde
+**AI Agent Minute:** #55: Build Your Annual Business Plan With AI | #56: Round-Robin Lead Distribution Is Costing | #57: The Builder's Agent Works For The Builde
 
 **Agent Tip:** #55: The $200K listing is killing your $ (Kristee Leonard) | #56: New agents spend six months prepari (Connie Mahan) | #57: One company now controls one in fiv (Chris Linsell)
 
@@ -222,7 +222,7 @@
 
 ## Week 22 (Jul 20 - Jul 25, 2026)
 
-**AI Agent Minute:** #64: Set Client Expectations Upfront With AI  | #65: Ask For Referrals With AI - The Right Wa | #66: Create A Seller Prep Playbook With AI
+**AI Agent Minute:** #64: Set Client Expectations Upfront With AI | #65: Ask For Referrals With AI - The Right Wa | #66: Create A Seller Prep Playbook With AI
 
 **Avatar Coverage:** All, Burned-Out Veteran / All, Stuck Intermediate / Forgotten Middle
 
@@ -230,7 +230,7 @@
 
 ## Week 23 (Jul 27 - Aug 01, 2026)
 
-**AI Agent Minute:** #67: Build A Relocation Welcome Packet With A | #68: Build A Pre-Foreclosure Outreach System  | #69: Write Your Monthly Newsletter With AI - 
+**AI Agent Minute:** #67: Build A Relocation Welcome Packet With A | #68: Build A Pre-Foreclosure Outreach System | #69: Write Your Monthly Newsletter With AI - 
 
 **Avatar Coverage:** All, Aspiring Top Producer, Forgotten Middle / Aspiring Top Producer
 
@@ -246,7 +246,7 @@
 
 ## Week 25 (Aug 10 - Aug 15, 2026)
 
-**AI Agent Minute:** #73: Write Listing Descriptions With AI - Thr | #74: Reframe Rejection With AI - Stop Taking  | #75: Quiet Imposter Syndrome With AI - Build 
+**AI Agent Minute:** #73: Write Listing Descriptions With AI - Thr | #74: Reframe Rejection With AI - Stop Taking | #75: Quiet Imposter Syndrome With AI - Build 
 
 **Avatar Coverage:** All, Overwhelmed Newbie, Overwhelmed Newbie / Stuck Intermediate
 
@@ -254,7 +254,7 @@
 
 ## Week 26 (Aug 17 - Aug 22, 2026)
 
-**AI Agent Minute:** #76: Stop Comparing Yourself To Other Agents  | #77: Stop Drip Campaigns - Personalize Instea | #78: Revive Dead Leads With AI - Your Next De
+**AI Agent Minute:** #76: Stop Comparing Yourself To Other Agents | #77: Stop Drip Campaigns - Personalize Instea | #78: Revive Dead Leads With AI - Your Next De
 
 **Avatar Coverage:** All, Forgotten Middle
 
@@ -294,7 +294,7 @@
 
 ## Week 31 (Sep 21 - Sep 26, 2026)
 
-**AI Agent Minute:** #91: Audit Your Lead Source ROI With AI - Sto | #92: Write Hyperlocal Farm Reports With AI -  | #93: Write Negotiation Talking Points With AI
+**AI Agent Minute:** #91: Audit Your Lead Source ROI With AI - Sto | #92: Write Hyperlocal Farm Reports With AI - | #93: Write Negotiation Talking Points With AI
 
 **Avatar Coverage:** All, Forgotten Middle, Stuck Intermediate
 
@@ -302,7 +302,7 @@
 
 ## Week 32 (Sep 28 - Oct 03, 2026)
 
-**AI Agent Minute:** #94: Build A Math-Based Weekly Schedule With  | #95: Your Onboarding Process Is Why They Leav | #96: A Meeting Is Not Training. Stop Confusin
+**AI Agent Minute:** #94: Build A Math-Based Weekly Schedule With | #95: Your Onboarding Process Is Why They Leav | #96: A Meeting Is Not Training. Stop Confusin
 
 **Avatar Coverage:** Stuck Intermediate / Forgotten Middle, Team Leader
 

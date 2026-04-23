@@ -40,7 +40,7 @@ Investors don't want a realtor - they want an analyst 📊 Here's how to speak t
 
 ### LINKEDIN
 
-Most real estate professionals miss one of the highest-value client segments in our industry: investors. And it's not because investors are hard to find - it's because we're having the wrong conversation from day one.
+Most real estate professionals miss one of the highest-value client segments in our industry: investors. And because we're having the wrong conversation from day one, not because investors are hard to find.
 
 Here's what typically happens: An investor inquires about a rental property. They're thinking cap rates, cash-on-cash returns, rent-to-price ratios. The agent responds with information about finishes, school districts, and neighborhood charm. Two people, two completely different languages.
 

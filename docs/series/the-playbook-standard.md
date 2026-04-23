@@ -51,11 +51,11 @@ The WHY beat also serves as the reframe - it shifts how the viewer thinks about 
 The Playbook scripts move through these beats in this order.
 
 ```
-1. SCENARIO    - First spoken sentences. Drop the viewer mid-situation. No setup.
-2. DON'T       - What most agents do wrong (mirror moment + contrast).
-3. DO          - The exact words to say, in quotes.
-4. WHY         - The psychology. Why these specific words work.
-5. TRY THIS    - "Here's what you do now." Specific application.
+1. SCENARIO - First spoken sentences. Drop the viewer mid-situation. No setup.
+2. DON'T - What most agents do wrong (mirror moment + contrast).
+3. DO - The exact words to say, in quotes.
+4. WHY - The psychology. Why these specific words work.
+5. TRY THIS - "Here's what you do now." Specific application.
 ```
 
 ### Beat length guidance (for a 40-second script)

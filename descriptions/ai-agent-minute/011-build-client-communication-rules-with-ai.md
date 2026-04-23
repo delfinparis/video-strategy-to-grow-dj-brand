@@ -10,7 +10,7 @@ Every "yes" you say to the wrong thing is a "no" to something that actually matt
 
 The result? You're fielding 9 PM texts, weekend calls for non-emergencies, and on-demand showings that could wait. Meanwhile, your best clients get whatever energy you have left.
 
-D.J. Paris from Keeping It Real Podcast shares a simple AI hack using Claude to create a "communication expectations" document. It's not about setting boundaries - it's about creating systems that let you serve your top clients at the highest level.
+D.J. Paris from Keeping It Real Podcast shares a simple AI hack using Claude to create a "communication expectations" document. It's about creating systems that let you serve your top clients at the highest level, not setting boundaries.
 
 Have you ever lost a deal because you were too spread thin managing everyone's small requests?
 
@@ -22,7 +22,7 @@ Every wrong "yes" is a "no" to something that actually matters - and most agents
 
 You built your rep on being available 24/7. Now clients expect weekend calls, 9 PM texts, and instant everything. You accidentally trained people to treat your time as free.
 
-The fix? Use Claude to create a "communication expectations" document for new clients. It's not a boundary - it's a system. And systems protect the time that makes you great.
+The fix? Use Claude to create a "communication expectations" document for new clients. A system, not a boundary. And systems protect the time that makes you great.
 
 Have you ever lost a deal from being too spread thin? Drop it below 👇
 

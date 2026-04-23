@@ -51,29 +51,29 @@ Here's what you do now. Tomorrow morning, pick up one call you'd normally skip. 
 ## Data Source
 
 - **Claim:** "After 700 podcast interviews with top producers"
-  - Source: Keeping It Real Podcast, 2015-2026, 700+ episodes
-  - Who was measured: Real estate agents interviewed by D.J. Paris
-  - Status: confirmed
+ - Source: Keeping It Real Podcast, 2015-2026, 700+ episodes
+ - Who was measured: Real estate agents interviewed by D.J. Paris
+ - Status: confirmed
 
 - **Claim:** "Kristee Leonard doing $50 million a year"
-  - Source: KIR episode "The Gift Of Desperation," 2026-01-22, Kristee Leonard
-  - Who was measured: Named podcast guest, Austin TX, founder of The Leader's Real Estate
-  - Status: confirmed ($50M annual volume stated in episode intro)
+ - Source: KIR episode "The Gift Of Desperation," 2026-01-22, Kristee Leonard
+ - Who was measured: Named podcast guest, Austin TX, founder of The Leader's Real Estate
+ - Status: confirmed ($50M annual volume stated in episode intro)
 
 - **Claim:** "Bari Mill doing $40 million"
-  - Source: KIR episode "From Division 1 Soccer To 40M in Year Six," 2025-12-10, Bari Mill
-  - Who was measured: Named podcast guest, Chicago, on track to close $40M
-  - Status: confirmed
+ - Source: KIR episode "From Division 1 Soccer To 40M in Year Six," 2025-12-10, Bari Mill
+ - Who was measured: Named podcast guest, Chicago, on track to close $40M
+ - Status: confirmed
 
 - **Claim (guest quote):** "Always answer your phone. You never know what you're going to get."
-  - Source: KIR episode "90 Referrals Each Year & Converting Motels Into Homes," 2025-12-09, Karina Chavez
-  - Who was measured: Named podcast guest, Keller Williams
-  - Status: confirmed (paraphrased from transcript; original context was Chavez describing her phone responsiveness philosophy)
+ - Source: KIR episode "90 Referrals Each Year & Converting Motels Into Homes," 2025-12-09, Karina Chavez
+ - Who was measured: Named podcast guest, Keller Williams
+ - Status: confirmed (paraphrased from transcript; original context was Chavez describing her phone responsiveness philosophy)
 
 - **Claim:** "almost every top producer I've interviewed still does"
-  - Source: Synthesis from Kristee Leonard, Bari Mill, Karina Chavez, and broader pattern across KIR archive
-  - Who was measured: D.J.'s observation across ~700 guest interviews
-  - Status: confirmed as a qualitative pattern; deliberately not quantified per editorial standard Rule 1
+ - Source: Synthesis from Kristee Leonard, Bari Mill, Karina Chavez, and broader pattern across KIR archive
+ - Who was measured: D.J.'s observation across ~700 guest interviews
+ - Status: confirmed as a qualitative pattern; deliberately not quantified per editorial standard Rule 1
 
 - **Note on the original draft:** The original "6% Club" version of this script fabricated a 6%/94% split to mimic the template structure of the real "9% Club" LinkedIn post. That fabrication is the exact failure mode the editorial standard was written to prevent. This rewrite strips the fabricated numbers and uses qualitative framing throughout.
 

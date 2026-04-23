@@ -22,7 +22,7 @@ Have you ever worked on a divorce-related real estate transaction? What made it 
 
 🚨 Divorce = 2nd most common reason people sell. How many divorce attorneys do YOU know? 
 
-Most agents avoid these complex transactions, but here's the thing - one strong relationship with the right family law attorney generates 5-10 deals per year. Every year. Regardless of market conditions.
+Most agents avoid these complex transactions. But one strong relationship with the right family law attorney generates 5-10 deals per year. Every year. Regardless of market conditions.
 
 D.J. Paris breaks down exactly how to use AI to build a divorce attorney outreach package that positions you as THE agent for emotionally complex, high-stakes transactions. It's an untapped goldmine.
 

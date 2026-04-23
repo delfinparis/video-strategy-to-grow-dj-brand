@@ -10,7 +10,7 @@ The low appraisal didn't kill the deal - the surprise did.
 
 Most agents let appraisal results hit their buyers like a freight train, turning a manageable situation into a deal-killing panic. Your client calls their uncle who "knows real estate" and suddenly months of work are circling the drain.
 
-Here's the thing: prepared clients don't panic. They understand that appraisals can come in at value, above, or below - and they know the three paths forward if it's low. D.J. Paris breaks down exactly how to use AI to create an "Appraisal Scenarios" guide that keeps your deals on track.
+prepared clients don't panic. They understand that appraisals can come in at value, above, or below - and they know the three paths forward if it's low. D.J. Paris breaks down exactly how to use AI to create an "Appraisal Scenarios" guide that keeps your deals on track.
 
 Two minutes of preparation can save you from losing a deal in the final stretch.
 

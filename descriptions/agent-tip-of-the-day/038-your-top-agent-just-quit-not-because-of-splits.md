@@ -8,7 +8,7 @@
 
 Your top agent didn't quit because of commission splits. They quit because three weeks ago, you got defensive when they questioned your pricing strategy in front of the whole team. You won the argument, but you lost the relationship.
 
-Performance coach Paul Salter reveals the real pattern that's bleeding talent from real estate teams: leaders who can't regulate their emotions when challenged. That tightness in your chest when someone questions your authority? It's not weakness-it's information asking for attention.
+Performance coach Paul Salter reveals the real pattern that's bleeding talent from real estate teams: leaders who can't regulate their emotions when challenged. That tightness in your chest when someone questions your authority? Information asking for attention, not weakness.
 
 The fix is surprisingly simple: a 90-second technique before every team meeting. Notice the feeling, name it silently ("I feel threatened"), take three breaths, then ask "What if they're right?" That pause between feeling and reacting is where you keep your top performers.
 

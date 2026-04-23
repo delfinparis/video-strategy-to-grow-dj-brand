@@ -44,7 +44,7 @@ Static listing photos are the silent killer of real estate marketing ROI.
 
 Consider this: A $2M property listing posted as a static photo generated 47 impressions. The same property, transformed into an AI-generated video using existing photos, reached thousands and got shared organically by potential buyers.
 
-Courtney Poulos, a top LA agent, shared her game-changing approach with DJ Paris on the Keeping It Real Podcast. She takes listing photos already in her camera roll and runs them through AI tools that create cinematic walkthroughs with motion, transitions, and music. Total time investment: 90 seconds to upload, 2 minutes to render.
+Courtney Poulos, a top LA agent, shared her approach with DJ Paris on the Keeping It Real Podcast. She takes listing photos already in her camera roll and runs them through AI tools that create cinematic walkthroughs with motion, transitions, and music. Total time investment: 90 seconds to upload, 2 minutes to render.
 
 The math is simple: Every closed listing represents 50+ pieces of content you already own. The competitive advantage goes to agents who understand that automation, not creation, is the content bottleneck in 2024.
 

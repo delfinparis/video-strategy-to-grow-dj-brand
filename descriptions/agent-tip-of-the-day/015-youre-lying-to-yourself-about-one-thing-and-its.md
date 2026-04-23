@@ -60,4 +60,4 @@ What's the biggest disconnect between what you say you want and what you're actu
 
 **Title:** You're Lying to Yourself About This (Costing You $300K/Year)
 
-**Description:** Paul Salter reveals why top real estate agents burn out - it's not the work, it's the lies they tell themselves about their goals. This $8M producer's breakthrough will change how you think about success. Subscribe for daily real estate tips. #RealEstate #TopProducer #RealEstateCoach #BurnoutRecovery #RealtorTips
+**Description:** Paul Salter reveals why top real estate agents burn out. The work isn't what breaks them. The lies they tell themselves about their goals are. This $8M producer's breakthrough will change how you think about success. Subscribe for daily real estate tips. #RealEstate #TopProducer #RealEstateCoach #BurnoutRecovery #RealtorTips

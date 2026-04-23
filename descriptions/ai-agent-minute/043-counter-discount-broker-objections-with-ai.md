@@ -22,7 +22,7 @@ The moment you defend your commission, you've already lost the client to discoun
 
 Most agents get trapped arguing about price when a prospect mentions Redfin or other discount options. But top producers? They completely reframe the conversation around results and data.
 
-D.J. Paris breaks down exactly how to use AI to build responses that make your value so clear that price becomes irrelevant. It's not about what you charge - it's about what you deliver.
+D.J. Paris breaks down exactly how to use AI to build responses that make your value so clear that price becomes irrelevant. It's about what you deliver, not what you charge.
 
 Ever lost a client to a discount broker? Drop their exact objection below 👇
 
@@ -44,7 +44,7 @@ Every experienced agent has heard this objection. And here's what separates the 
 
 The moment you start justifying your fee, you've positioned yourself in a race to the bottom. Instead, top producers demonstrate value so clearly that price comparisons become irrelevant. They use market data, satisfaction scores, and outcome metrics to shift the entire conversation.
 
-D.J. Paris demonstrates how agents can leverage AI tools like Perplexity and Claude to build data-driven responses that focus entirely on client outcomes - not commission structures. The key insight? Defend what you charge versus demonstrate what you deliver. Those are fundamentally different approaches that yield dramatically different results.
+D.J. Paris demonstrates how agents can use AI tools like Perplexity and Claude to build data-driven responses that focus entirely on client outcomes - not commission structures. The key insight? Defend what you charge versus demonstrate what you deliver. Those are fundamentally different approaches that yield dramatically different results.
 
 What's been your most effective strategy for handling discount broker objections without getting pulled into price debates?
 

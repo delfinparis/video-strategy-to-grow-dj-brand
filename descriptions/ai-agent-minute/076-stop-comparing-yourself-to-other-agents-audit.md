@@ -10,7 +10,7 @@ The agents who scroll social media the most tend to produce the least in their b
 
 Every real estate agent has done it - looked at another agent's highlight reel and felt terrible about their own behind-the-scenes reality. But here's what that comparison is actually costing you: it's pulling your focus away from building your own business at the exact moment you need it most.
 
-D.J. Paris from Keeping It Real Podcast shares a game-changing AI hack to break the comparison trap. Instead of scrolling when you feel that spiral coming on, audit your own trajectory using real numbers. The only timeline that actually matters is yours.
+D.J. Paris from Keeping It Real Podcast shares a AI hack to break the comparison trap. Instead of scrolling when you feel that spiral coming on, audit your own trajectory using real numbers. The only timeline that actually matters is yours.
 
 What's one metric in your real estate business that's genuinely better than it was a year ago?
 

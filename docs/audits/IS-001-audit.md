@@ -37,13 +37,13 @@ Both polished in this rewrite.
 
 ### LOW - Shareable Moment
 
-Renamed from "Strongest Line" and updated to the stronger memorable line ("AI gives you leverage. Experience gives you judgment. One of those takes twenty years.").
+Renamed from "Strongest Line" and updated to the stronger memorable line ("AI gives you use. Experience gives you judgment. One of those takes twenty years.").
 
 ---
 
 ## Close assessment
 
-Current close: *"AI gives you leverage. Experience gives you judgment. One of those takes twenty years."*
+Current close: *"AI gives you use. Experience gives you judgment. One of those takes twenty years."*
 
 This is a **memorable-line close** (Rule 4 pattern 1) -- arguably the strongest close in the entire Inside the Industry series. Already a protected-signature candidate if it continues to resonate. Compliant. Keep.
 

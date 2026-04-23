@@ -56,11 +56,11 @@ Every script should identify one reason a viewer would share it. Document this i
 Agent Tip of the Day scripts move through these beats in this order.
 
 ```
-1. HOOK        - First spoken sentence. Stops scroll. Opens a loop.
-2. SETUP       - Who is the guest? What's the context? (2-3 sentences max)
-3. INSIGHT     - The tip itself. Exact words, exact action, or exact frame.
-4. REFRAME     - Why this matters. Connect to the viewer's business.
-5. CLOSE       - "Here's what you do now." Specific, immediate action.
+1. HOOK - First spoken sentence. Stops scroll. Opens a loop.
+2. SETUP - Who is the guest? What's the context? (2-3 sentences max)
+3. INSIGHT - The tip itself. Exact words, exact action, or exact frame.
+4. REFRAME - Why this matters. Connect to the viewer's business.
+5. CLOSE - "Here's what you do now." Specific, immediate action.
 ```
 
 ### Beat length guidance (for a 40-second script)

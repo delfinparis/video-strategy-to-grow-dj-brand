@@ -44,7 +44,7 @@ Your brain is literally sabotaging your follow-up calls to keep you "safe" 🧠 
 
 Your subconscious mind controls 90% of your decisions. And it has one job: keep you alive. Not successful. Alive.
 
-Performance coach Paul Salter explains why high-performing agents still struggle with follow-up calls, boundary-setting, and database management. It's not a discipline problem-it's evolutionary wiring.
+Performance coach Paul Salter explains why high-performing agents still struggle with follow-up calls, boundary-setting, and database management. Evolutionary wiring, not a discipline problem.
 
 Every time you attempt something your brain perceives as risky-cold calling, saying no to demanding clients, raising your rates-your subconscious reads it as danger and pulls you back to familiar, predictable patterns.
 
@@ -60,6 +60,6 @@ What business-building activity does your brain convince you to avoid most often
 
 **Title:** Your Brain Sabotages Every Follow-Up Call (Here's Why)
 
-**Description:** Performance coach Paul Salter reveals why your subconscious mind actively prevents follow-up calls and database touches. It's not broken-it's keeping you safe, not successful. Subscribe for daily real estate tips.
+**Description:** Performance coach Paul Salter reveals why your subconscious mind actively prevents follow-up calls and database touches. You're not broken. Your brain is just wired to keep you safe, not successful. Subscribe for daily real estate tips.
 
 #RealEstateMindset #RealtorTips #FollowUpCalls #BurnoutRecovery #PerformanceCoaching

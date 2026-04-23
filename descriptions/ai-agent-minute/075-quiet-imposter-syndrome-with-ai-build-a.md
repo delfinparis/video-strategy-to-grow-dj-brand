@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Every top producer I've interviewed felt like a fraud when they started. That imposter syndrome voice telling you you're not qualified? It's not a personality flaw - it's just a gap between your standards and your evidence.
+Every top producer I've interviewed felt like a fraud when they started. That imposter syndrome voice telling you you're not qualified? Just a gap between your standards and your evidence, not a personality flaw.
 
 Here's the breakthrough: You can actually close that gap on purpose. D.J. Paris from Keeping It Real Podcast shares how to use AI to build a "competence inventory" - a running document of everything you actually know and have accomplished. Update it weekly with every training, transaction support, and question you've answered correctly.
 

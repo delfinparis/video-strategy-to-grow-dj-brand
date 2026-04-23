@@ -42,9 +42,9 @@ Every morning, millions of real estate professionals make the same productivity-
 
 Here's what the data shows: agents who check email before 9 AM spend an average of 90 minutes reacting to other people's priorities instead of focusing on income-producing activities. By 10 AM, their day belongs to everyone else's agenda.
 
-The top 10% of agents discovered something different years ago. They batch email processing to just two windows daily and leverage AI tools like Claude to create personalized response libraries. What used to take 90 minutes of reactive morning time now takes 5 minutes of focused processing.
+The top 10% of agents discovered something different years ago. They batch email processing to just two windows daily and use AI tools like Claude to create personalized response libraries. What used to take 90 minutes of reactive morning time now takes 5 minutes of focused processing.
 
-D.J. Paris from Keeping It Real Podcast breaks down this game-changing productivity system that can literally transform your production numbers. The fix isn't about better email management-it's about protecting your prime prospecting hours.
+D.J. Paris from Keeping It Real Podcast breaks down this productivity system that can literally transform your production numbers. The fix isn't about better email management-it's about protecting your prime prospecting hours.
 
 What time do you typically check email in the morning? And more importantly, what income-producing activity could you be doing instead?
 

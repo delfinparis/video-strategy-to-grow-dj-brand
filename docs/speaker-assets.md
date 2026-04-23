@@ -327,9 +327,9 @@ Conference organizers and brokerage owners will ask for a "one-sheet" or "speake
 - **Signature line (prominent, large type):** "I've never practiced real estate. I've interviewed 700 of the people who have."
 - **Signature talk title:** I've Never Practiced Real Estate: What 700 Interviews and a Seat Inside NAR Taught Me About Where Real Estate Goes Next
 - **3-bullet description:**
-  - What NAR leadership is actually prioritizing
-  - What top producers are actually doing differently
-  - Where the real risk and opportunity are hiding
+ - What NAR leadership is actually prioritizing
+ - What top producers are actually doing differently
+ - Where the real risk and opportunity are hiding
 - **Length options:** 20 min panel / 30 min short keynote / 45-60 min full keynote / 90 min workshop
 - **Testimonial (target):** One quote from a podcast guest, Kale leader, or NAR contact. Get this within the first 30 days of the speaker rollout.
 - **Contact:** Email and speaker page URL

@@ -10,7 +10,7 @@ Every transaction mistake that's ever cost you a client, a deal, or a sleepless 
 
 Most agents track everything in their head or scattered email threads. That works... until it doesn't. And when it breaks down, it ALWAYS breaks down at the worst possible moment.
 
-Here's the game-changer: Use AI to build your bulletproof transaction checklist. Get every step, every deadline, every responsibility mapped out for your state and market. Turn it into a repeatable system in your CRM.
+Use AI to build your bulletproof transaction checklist. Get every step, every deadline, every responsibility mapped out for your state and market. Turn it into a repeatable system in your CRM.
 
 Systems aren't for beginners - they're what separate agents who scale from agents who just survive.
 
@@ -46,7 +46,7 @@ The reality? There are 60+ critical steps between an executed contract and closi
 
 This approach works until it doesn't. And the breakdown always happens at the worst possible moment - usually when your biggest deal of the quarter is on the line.
 
-The solution isn't working harder or developing a better memory. It's leveraging AI to create comprehensive transaction checklists tailored to your market, complete with phases, responsibilities, and deadlines. Then systematizing it in your CRM for every deal.
+The solution isn't working harder or developing a better memory. It's using AI to create comprehensive transaction checklists tailored to your market, complete with phases, responsibilities, and deadlines. Then systematizing it in your CRM for every deal.
 
 Systems aren't training wheels for new agents - they're the infrastructure that separates scalable businesses from those stuck in survival mode.
 

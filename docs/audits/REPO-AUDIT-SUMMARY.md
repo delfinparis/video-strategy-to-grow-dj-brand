@@ -65,9 +65,9 @@ Most scripts have a `## Data Source` section, but the format is inconsistent. Th
 
 ```markdown
 - [Claim as written in script]
-  - Source: [exact publication name, year]
-  - Who was measured: [agents / consumers / listings / etc.]
-  - Status: [confirmed / unverified / placeholder]
+ - Source: [exact publication name, year]
+ - Who was measured: [agents / consumers / listings / etc.]
+ - Status: [confirmed / unverified / placeholder]
 ```
 
 **Only IS-002 has been reformatted to this standard.** The other ~180 main-series scripts still have prose-style Data Source sections. This needs a per-script manual pass.

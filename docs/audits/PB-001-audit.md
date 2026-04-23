@@ -51,7 +51,7 @@ Textbook "here's what you do now" close per universal Rule 4. Compliant. Keep.
 | SCENARIO (drop viewer mid-situation) | ✅ | "You just got a lowball offer on your listing. Your seller is insulted. You are frustrated." |
 | DON'T (what most agents do wrong) | ✅ | Three specific wrong moves named |
 | DO (exact words in quotes) | ✅ | Verbatim phrase in quotes |
-| WHY (psychology behind the words) | ✅ | Explains the leverage mechanic |
+| WHY (psychology behind the words) | ✅ | Explains the use mechanic |
 | TRY THIS (concrete close) | ✅ | "Try it on your next lowball." |
 
 All beats present. Structure is textbook.

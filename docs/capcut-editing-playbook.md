@@ -47,12 +47,12 @@ A jump cut removes the dead space between thoughts - the breath, the pause, the 
 1. **Import your clip** into a new project (9:16 vertical)
 2. **Play through once** without touching anything - just listen for the rhythm
 3. **Second pass - split aggressively:**
-   - Tap the clip on the timeline
-   - Position the playhead at the exact frame where the dead space begins
-   - Tap **Split**
-   - Move the playhead to where the next clean word starts
-   - Tap **Split** again
-   - **Delete** the middle chunk
+ - Tap the clip on the timeline
+ - Position the playhead at the exact frame where the dead space begins
+ - Tap **Split**
+ - Move the playhead to where the next clean word starts
+ - Tap **Split** again
+ - **Delete** the middle chunk
 4. **Repeat** through the entire clip. You'll typically make 15–30 cuts on a 60-second reel
 5. **Third pass - watch it back.** If any cut feels jarring (audio pops, head jumps too hard), nudge the cut point 2–3 frames in either direction until it feels invisible
 
@@ -114,9 +114,9 @@ HOOK (first 1–2 sentences)
 ├── Zoom: None - wide establishes authority and confidence
 ├── [ON-SCREEN] text appears here - that's your visual change
 │
-│   Example: "Those five words have cost you more commission
-│   than any market downturn ever will."
-│   → No cut. No zoom. Just the line + text overlay.
+│ Example: "Those five words have cost you more commission
+│ than any market downturn ever will."
+│ → No cut. No zoom. Just the line + text overlay.
 
 BRAND INTRO
 ├── Framing: Stay WIDE
@@ -124,31 +124,31 @@ BRAND INTRO
 ├── Zoom: None - this should feel like a reset, not a moment
 ├── Cut IMMEDIATELY after "...AI Agent Minute." into the next beat
 │
-│   "This is D.J. Paris with Keeping It Real Podcast
-│   and Kale Realty - and here's your AI Agent Minute."
-│   → Hard cut after this. New energy starts.
+│ "This is D.J. Paris with Keeping It Real Podcast
+│ and Kale Realty - and here's your AI Agent Minute."
+│ → Hard cut after this. New energy starts.
 
 PROBLEM / SETUP (~15–20 sec)
 ├── Framing: Start WIDE, zoom to MEDIUM (110%) halfway through
 ├── Cuts: 2–4 jump cuts - this section builds tension, remove all dead air
 ├── Zoom IN on the pain point sentence
 │
-│   Example: "You go from showing houses to making dinner
-│   with thirty open loops running in your head."
-│   → Zoom to 110% on "thirty open loops"
+│ Example: "You go from showing houses to making dinner
+│ with thirty open loops running in your head."
+│ → Zoom to 110% on "thirty open loops"
 
 MIRROR MOMENT (the re-hook line)
 ├── Framing: ZOOM to 115–120%
 ├── Cuts: NONE - this is a single clean take, let conviction land
 ├── [ON-SCREEN] text reinforces - that's enough visual change
 │
-│   Example: "You're not just carrying work home.
-│   You're carrying the feeling that you're always behind."
-│   → Tight. No cuts. Let it breathe.
+│ Example: "You're not just carrying work home.
+│ You're carrying the feeling that you're always behind."
+│ → Tight. No cuts. Let it breathe.
 │
-│   ⚠️ THIS IS YOUR 15-SECOND RE-HOOK.
-│   40% of viewers drop around second 12–15.
-│   The zoom + the mirror line is what keeps them.
+│ ⚠️ THIS IS YOUR 15-SECOND RE-HOOK.
+│ 40% of viewers drop around second 12–15.
+│ The zoom + the mirror line is what keeps them.
 
 AI FIX (~15–20 sec)
 ├── Framing: Zoom BACK OUT to WIDE - signals fresh section
@@ -156,27 +156,27 @@ AI FIX (~15–20 sec)
 ├── Zoom IN again on the specific prompt or action step
 ├── [ON-SCREEN] shows the prompt text - major visual anchor
 │
-│   Example: "Sort my open items by priority, tell me what
-│   can wait or be delegated, and write my top three tasks."
-│   → Zoom to 115% when showing the prompt on screen
+│ Example: "Sort my open items by priority, tell me what
+│ can wait or be delegated, and write my top three tasks."
+│ → Zoom to 115% when showing the prompt on screen
 
 REFRAME (~10 sec)
 ├── Framing: MEDIUM zoom (110–115%) - intimate but not intense
 ├── Cuts: 1–2 max. This is emotional, not informational.
 ├── Let the strongest line play uncut
 │
-│   Example: "Objection handling is a muscle. The agents who
-│   don't freeze are the ones who practiced until it felt automatic."
-│   → One take. Maybe one cut after "muscle." if there's a pause.
+│ Example: "Objection handling is a muscle. The agents who
+│ don't freeze are the ones who practiced until it felt automatic."
+│ → One take. Maybe one cut after "muscle." if there's a pause.
 
 CTA (~8 sec)
 ├── Framing: ZOOM to 120% - tight, direct, personal
 ├── Cuts: NONE. One clean take, eyes to camera.
 ├── [ON-SCREEN] shows the question
 │
-│   Example: "What's the objection you dread most?
-│   Drop it below."
-│   → Tight zoom, direct delivery, no edit.
+│ Example: "What's the objection you dread most?
+│ Drop it below."
+│ → Tight zoom, direct delivery, no edit.
 
 CLOSE
 ├── Framing: Zoom BACK to WIDE
@@ -200,10 +200,10 @@ HOOK (0:00–0:03)
 ├── Zoom: None
 ├── B-roll may open here (e.g., trunk popping open for duvet script)
 │
-│   Example: "A white duvet in your trunk could be worth
-│   thirty thousand dollars."
-│   → If opening on B-roll, hard cut to DJ on "thirty thousand."
-│   → If opening on DJ, no cut - just the line.
+│ Example: "A white duvet in your trunk could be worth
+│ thirty thousand dollars."
+│ → If opening on B-roll, hard cut to DJ on "thirty thousand."
+│ → If opening on DJ, no cut - just the line.
 
 SETUP (0:03–0:12)
 ├── Framing: WIDE for DJ talking, cut to guest headshot
@@ -211,10 +211,10 @@ SETUP (0:03–0:12)
 ├── Zoom: None on DJ - the visual switch to guest IS your engagement beat
 ├── Guest headshot + name/title overlay does the work here
 │
-│   Example: "Amanda Pendleton analyzes millions of listings
-│   at Zillow. And she found something wild."
-│   → Cut to Amanda headshot on "Amanda Pendleton"
-│   → Cut back to DJ on "something wild"
+│ Example: "Amanda Pendleton analyzes millions of listings
+│ at Zillow. And she found something wild."
+│ → Cut to Amanda headshot on "Amanda Pendleton"
+│ → Cut back to DJ on "something wild"
 
 INSIGHT (0:12–0:38)
 ├── This is the longest section - 26 seconds. MOST VULNERABLE TO DROP-OFF.
@@ -224,13 +224,13 @@ INSIGHT (0:12–0:38)
 ├── The B-roll provides visual variety, so DJ talking sections need fewer zooms
 ├── ZOOM IN on the guest's key quote or strongest data point
 │
-│   Example: "'I would probably keep a white duvet in my trunk.'"
-│   → Zoom to 115% when delivering the guest quote
-│   → This is their moment - the zoom honors it
+│ Example: "'I would probably keep a white duvet in my trunk.'"
+│ → Zoom to 115% when delivering the guest quote
+│ → This is their moment - the zoom honors it
 │
-│   ⚠️ RE-HOOK AT 0:15. If you have a strong line near second 15,
-│   pair it with either a zoom change or a B-roll cut.
-│   Don't let 0:12–0:18 be flat talking head with no visual change.
+│ ⚠️ RE-HOOK AT 0:15. If you have a strong line near second 15,
+│ pair it with either a zoom change or a B-roll cut.
+│ Don't let 0:12–0:18 be flat talking head with no visual change.
 
 REFRAME (0:38–0:50)
 ├── Framing: MEDIUM zoom (110–115%) - back to DJ, intimate
@@ -238,9 +238,9 @@ REFRAME (0:38–0:50)
 ├── No B-roll - this should be DJ direct to camera, undistracted
 ├── Zoom IN slightly on the "here's the truth" sentence
 │
-│   Example: "This is the same thing - except nobody's doing
-│   it yet. Which means you get the advantage right now."
-│   → 115% zoom, clean take, eye contact.
+│ Example: "This is the same thing - except nobody's doing
+│ it yet. Which means you get the advantage right now."
+│ → 115% zoom, clean take, eye contact.
 
 CTA (0:50–0:60)
 ├── Framing: ZOOM to 120% - tight, direct
@@ -248,9 +248,9 @@ CTA (0:50–0:60)
 ├── Text overlay animates in with the action items
 ├── End card: podcast logo + "Full episode: link in bio"
 │
-│   Example: "Buy two white duvets this week. Keep them in
-│   your car. Use them on your next three listings."
-│   → Tight zoom, direct delivery, text overlay with steps.
+│ Example: "Buy two white duvets this week. Keep them in
+│ your car. Use them on your next three listings."
+│ → Tight zoom, direct delivery, text overlay with steps.
 ```
 
 **Total for a ~60-sec Agent Tip: ~10–15 cuts, 3–4 zoom changes.** (Fewer than AI Agent Minute because B-roll does more of the visual work.)

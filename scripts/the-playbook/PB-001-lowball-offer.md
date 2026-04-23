@@ -36,7 +36,7 @@ Instead, text the buyer's agent this exact phrase: "My seller is curious what br
 That's it. No counter yet. No emotion. Just the question.
 
 ### WHY (0:30-0:42)
-Here's what that does. You're not negotiating. You're asking the other agent to teach their own client why the offer is weak. More often than not, the buyer's agent comes back quickly with context, with a softening, or with a real number. You move the conversation without spending any of your own leverage.
+Here's what that does. You're not negotiating. You're asking the other agent to teach their own client why the offer is weak. More often than not, the buyer's agent comes back quickly with context, with a softening, or with a real number. You move the conversation without spending any of your own use.
 
 ### TRY THIS (0:42-0:50)
 Try it on your next lowball.
@@ -46,13 +46,13 @@ Try it on your next lowball.
 ## Data Source
 
 - **Claim (exact phrase "My seller is curious what brought your buyer to this number. Anything we should know?"):**
-  - Source: Synthesis / D.J. Paris observation across multiple top-producer interviews on the Keeping It Real Podcast. The exact phrase is D.J.'s distillation of the pattern, not a verbatim quote from any single guest.
-  - Who was measured: Pattern observed in negotiation behavior of top-producer guests including Tim Burrell (KIR 2026-01-05, negotiation specialist). Script framing is consistent with Burrell's broader philosophy of asking questions rather than countering emotionally.
-  - Status: confirmed as synthesized tactic; the phrase is presented as "the play" not as a direct quote
+ - Source: Synthesis / D.J. Paris observation across multiple top-producer interviews on the Keeping It Real Podcast. The exact phrase is D.J.'s distillation of the pattern, not a verbatim quote from any single guest.
+ - Who was measured: Pattern observed in negotiation behavior of top-producer guests including Tim Burrell (KIR 2026-01-05, negotiation specialist). Script framing is consistent with Burrell's broader philosophy of asking questions rather than countering emotionally.
+ - Status: confirmed as synthesized tactic; the phrase is presented as "the play" not as a direct quote
 
 - **Claim ("More often than not, the buyer's agent comes back quickly with context, with a softening, or with a real number"):**
-  - Source: D.J. observation across multiple top-producer guest interviews. Previously fabricated in draft as "nine times out of ten, within twenty minutes" -- that specific fabrication was caught and replaced with qualitative framing before publishing. Documented in the Known Past Failures section of the editorial standard (Rule 1).
-  - Status: confirmed qualitatively; deliberately not quantified per Rule 1
+ - Source: D.J. observation across multiple top-producer guest interviews. Previously fabricated in draft as "nine times out of ten, within twenty minutes" -- that specific fabrication was caught and replaced with qualitative framing before publishing. Documented in the Known Past Failures section of the editorial standard (Rule 1).
+ - Status: confirmed qualitatively; deliberately not quantified per Rule 1
 
 - **Supporting reference:** Tim Burrell interview, Keeping It Real Podcast 2026-01-05. Agent Tip of the Day scripts 018, 022, 026 in this repo reference Burrell's tactical negotiation patterns.
 
@@ -72,7 +72,7 @@ That is it. No counter yet. No emotion. Just the question.
 
 Here is what that does. You are not negotiating. You are asking the other agent to teach their own client why the offer is weak. More often than not, the buyer's agent comes back quickly with context, with a softening, or with a real number.
 
-You move the conversation without spending any of your own leverage.
+You move the conversation without spending any of your own use.
 
 Try it on your next lowball offer.
 
@@ -94,7 +94,7 @@ Instead, text the buyer's agent this exact phrase:
 
 You're not negotiating. You're asking the other agent to teach their own client why the offer is weak. More often than not, they come back quickly with context or a better number.
 
-You moved the deal without spending any of your leverage.
+You moved the deal without spending any of your use.
 
 Try it on your next lowball.
 

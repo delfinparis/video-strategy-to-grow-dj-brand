@@ -22,7 +22,7 @@ How many software tools are you currently paying for? (No judgment here!)
 
 The average agent pays for 5 tools they barely use while missing the ONE that could change everything 💸
 
-Tech overwhelm is real. We sign up for every CRM, social scheduler, and lead gen platform that promises to "revolutionize" our business. Two weeks later? We've moved on to the next shiny object.
+Tech overwhelm is real. We sign up for every CRM, social scheduler, and lead gen platform that promises to "change" our business. Two weeks later? We've moved on to the next shiny object.
 
 But here's what's really costing you: Having too many tools stops you from mastering any of them. D.J. Paris shares the AI audit that can cut your software costs in half while boosting your results.
 

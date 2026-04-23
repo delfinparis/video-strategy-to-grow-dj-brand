@@ -47,44 +47,44 @@ If your brokerage has settled, you're covered. If they haven't -- that's a quest
 ## Data Source
 
 - **Claim:** "Five major brokerages settled in three months" / "$89M+ buyer-side total"
-  - Total math: KW $20M + RE/MAX $8.5M + Hanna $8.25M + NAR $52.25M = $89M. Elliman undisclosed, not included.
-  - Source aggregation: individual settlements cited below
-  - Status: confirmed
+ - Total math: KW $20M + RE/MAX $8.5M + Hanna $8.25M + NAR $52.25M = $89M. Elliman undisclosed, not included.
+ - Source aggregation: individual settlements cited below
+ - Status: confirmed
 
 - **Claim:** "NAR paid $418 million in Sitzer/Burnett"
-  - Source: NAR Newsroom announcement 2024-03-15; realestatenews.com, "NAR reaches $418 million deal to settle commissions lawsuits" ([link](https://www.realestatenews.com/2024/03/15/nar-reaches-usd418-million-deal-to-settle-commissions-lawsuits))
-  - Who was measured: NAR (defendant), Sitzer/Burnett home seller plaintiffs
-  - Payment schedule: $197M paid February 2025, $72M February 2026, remainder over ~4 years
-  - Status: confirmed
+ - Source: NAR Newsroom announcement 2024-03-15; realestatenews.com, "NAR reaches $418 million deal to settle commissions lawsuits" ([link](https://www.realestatenews.com/2024/03/15/nar-reaches-usd418-million-deal-to-settle-commissions-lawsuits))
+ - Who was measured: NAR (defendant), Sitzer/Burnett home seller plaintiffs
+ - Payment schedule: $197M paid February 2025, $72M February 2026, remainder over ~4 years
+ - Status: confirmed
 
 - **Claim:** "Keller Williams $20M in Batton (February)"
-  - Source: RISMedia, 2026-02-02 ([link](https://www.rismedia.com/2026/02/02/keller-williams-batton-settlement/))
-  - Status: confirmed
+ - Source: RISMedia, 2026-02-02 ([link](https://www.rismedia.com/2026/02/02/keller-williams-batton-settlement/))
+ - Status: confirmed
 
 - **Claim:** "RE/MAX $8.5M in Batton (March)"
-  - Source: realestatenews.com, 2026-03-25 ([link](https://www.realestatenews.com/2026/03/25/remax-settles-in-batton-commissions-case))
-  - Status: confirmed
+ - Source: realestatenews.com, 2026-03-25 ([link](https://www.realestatenews.com/2026/03/25/remax-settles-in-batton-commissions-case))
+ - Status: confirmed
 
 - **Claim:** "Hanna Holdings $8.25M into Tuccori"
-  - Source: HousingWire, "Howard Hanna settles Tuccori homebuyer commission case"
-  - Who was measured: Hanna Holdings opted into Tuccori (not Batton directly). Hanna also faces a separate Davis case in Pennsylvania.
-  - Status: confirmed
+ - Source: HousingWire, "Howard Hanna settles Tuccori homebuyer commission case"
+ - Who was measured: Hanna Holdings opted into Tuccori (not Batton directly). Hanna also faces a separate Davis case in Pennsylvania.
+ - Status: confirmed
 
 - **Claim:** "Douglas Elliman undisclosed into Tuccori (April)"
-  - Source: RISMedia, 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/douglas-elliman-homebuyer-case-tuccori/))
-  - Status: confirmed (terms explicitly not disclosed by Elliman)
+ - Source: RISMedia, 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/douglas-elliman-homebuyer-case-tuccori/))
+ - Status: confirmed (terms explicitly not disclosed by Elliman)
 
 - **Claim:** "NAR $52.25M into Tuccori (April)"
-  - Source: RISMedia, 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/nar-settles-buyer-lawsuits-52-million/))
-  - Status: confirmed
+ - Source: RISMedia, 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/nar-settles-buyer-lawsuits-52-million/))
+ - Status: confirmed
 
 - **Claim:** "Legal protection for agents at those brokerages"
-  - Source: Each settlement's class release language. The Sitzer/Burnett settlement covered NAR members and affiliated brokerages. The Tuccori opt-in structure extends the release to opt-in defendants and their affiliated agents.
-  - Status: confirmed at the structural level. Specific agent coverage varies per brokerage / per settlement -- if a viewer asks about their specific situation, the accurate answer is "ask your brokerage what the settlement release covers for you."
+ - Source: Each settlement's class release language. The Sitzer/Burnett settlement covered NAR members and affiliated brokerages. The Tuccori opt-in structure extends the release to opt-in defendants and their affiliated agents.
+ - Status: confirmed at the structural level. Specific agent coverage varies per brokerage / per settlement -- if a viewer asks about their specific situation, the accurate answer is "ask your brokerage what the settlement release covers for you."
 
 - **Claim:** "July 28 court approval hearing"
-  - Source: RISMedia, 2026-04-10 ($52M article cited above)
-  - Status: confirmed
+ - Source: RISMedia, 2026-04-10 ($52M article cited above)
+ - Status: confirmed
 
 - **Still pending:** Batton v. NAR -- active litigation with Batton plaintiffs appealing the denial of their preliminary injunction motion to the 7th Circuit. Plaintiffs' expert estimates damages at $3.6B from four MLSs, up to $75B if a nationwide class certifies.
 

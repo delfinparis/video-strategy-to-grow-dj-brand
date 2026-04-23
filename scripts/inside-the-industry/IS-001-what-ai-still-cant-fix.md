@@ -18,7 +18,7 @@ status: "ready"
 **Primary Platform:** LinkedIn | **Post Date:** Wednesday, May 6, 2026
 
 ## Shareable Moment
-> "AI gives you leverage. Experience gives you judgment. One of those takes twenty years."
+> "AI gives you use. Experience gives you judgment. One of those takes twenty years."
 
 ## Script (45-60 seconds)
 
@@ -36,34 +36,34 @@ It's the ability to sit across from someone in the worst moment of their life an
 You cannot prompt your way into that. You earn it by reps.
 
 ### REFRAME (0:42-0:55)
-The agents who survive this next decade won't be the ones with the best prompts. They'll be the ones who've had the hardest conversations. AI gives you leverage. Experience gives you judgment. You need both. But one of them takes twenty years.
+The agents who survive this next decade won't be the ones with the best prompts. They'll be the ones who've had the hardest conversations. AI gives you use. Experience gives you judgment. You need both. But one of them takes twenty years.
 
 ### CLOSE (0:55-0:60)
-AI gives you leverage. Experience gives you judgment. One of those takes twenty years.
+AI gives you use. Experience gives you judgment. One of those takes twenty years.
 
 **Estimated Duration:** ~58 seconds
 
 ## Data Source
 
 - **Claim:** "I teach real estate agents how to use AI"
-  - Source: D.J. Paris direct positioning. Documented in project memory (D.J. Paris profile - real estate AI educator at Kale Realty Chicago) and across the AI Agent Minute series (100 scripts named and scheduled).
-  - Status: confirmed
+ - Source: D.J. Paris direct positioning. Documented in project memory (D.J. Paris profile - real estate AI educator at Kale Realty Chicago) and across the AI Agent Minute series (100 scripts named and scheduled).
+ - Status: confirmed
 
 - **Claim:** "After 700 podcast interviews"
-  - Source: Keeping It Real Podcast, 2015-2026, 700+ episodes
-  - Status: confirmed
+ - Source: Keeping It Real Podcast, 2015-2026, 700+ episodes
+ - Status: confirmed
 
 - **Claim:** "The pattern separating agents who thrive from ones who plateau is earned judgment, not tech, systems, or work ethic"
-  - Source: Synthesis across multiple named guests. Supporting examples:
-    - Garrett Maroon (KIR 2025-11-26): judgment over hustle pattern; referenced in Agent Tip 003 archive
-    - Kristee Leonard (KIR 2026-01-22, $50M producer): still answers her own phone -- judgment-driven operational choice (also referenced in IS-002)
-    - Karina Chavez (KIR 2025-12-09): "Always answer your phone. You never know what you're going to get" -- judgment-driven call prioritization
-  - Who was measured: Qualitative pattern across ~700 guest interviews; named guests above are representative, not exhaustive
-  - Status: confirmed qualitatively. Deliberately not quantified ("almost every top producer," "a career's worth") per Rule 1 qualitative fallback.
+ - Source: Synthesis across multiple named guests. Supporting examples:
+ - Garrett Maroon (KIR 2025-11-26): judgment over hustle pattern; referenced in Agent Tip 003 archive
+ - Kristee Leonard (KIR 2026-01-22, $50M producer): still answers her own phone -- judgment-driven operational choice (also referenced in IS-002)
+ - Karina Chavez (KIR 2025-12-09): "Always answer your phone. You never know what you're going to get" -- judgment-driven call prioritization
+ - Who was measured: Qualitative pattern across ~700 guest interviews; named guests above are representative, not exhaustive
+ - Status: confirmed qualitatively. Deliberately not quantified ("almost every top producer," "a career's worth") per Rule 1 qualitative fallback.
 
 - **Claim:** "Career's worth of deals where something almost went wrong and you figured it out"
-  - Source: Qualitative framing. Prior draft said "800 deals" / "eight hundred deals" -- a specific number not attributed to any single guest. Softened to qualitative per Rule 1 since no named top producer has been confirmed at exactly that volume.
-  - Status: confirmed qualitatively
+ - Source: Qualitative framing. Prior draft said "800 deals" / "eight hundred deals" -- a specific number not attributed to any single guest. Softened to qualitative per Rule 1 since no named top producer has been confirmed at exactly that volume.
+ - Status: confirmed qualitatively
 
 - **Counter-positioning note:** This script is deliberate counter-positioning to the AI Agent Minute series. D.J. teaches AI (credibility) AND argues AI will never replace judgment (contrarian take). The credential-plus-contradiction structure is the scroll-stopper.
 
@@ -77,7 +77,7 @@ And I want to tell you the one thing 700 interviews have taught me that AI will 
 
 People assume I'm bullish on AI replacing parts of this business. I'm not.
 
-I am bullish on AI for the repetitive parts. Research. Prep. Follow-up drafts. Listing descriptions. Time blocking. All of it. That's leverage, and leverage matters.
+I am bullish on AI for the repetitive parts. Research. Prep. Follow-up drafts. Listing descriptions. Time blocking. All of it. That's use, and use matters.
 
 But the actual job? The hardest parts of being a great agent? AI is never going to touch them.
 
@@ -87,7 +87,7 @@ It is the ability to sit across from someone in the worst moment of their life a
 
 You cannot prompt your way into that. You earn it by reps.
 
-The agents who survive this next decade will not be the ones with the best prompts. They will be the ones who have had the hardest conversations. AI gives you leverage. Experience gives you judgment. You need both. But one of them takes twenty years.
+The agents who survive this next decade will not be the ones with the best prompts. They will be the ones who have had the hardest conversations. AI gives you use. Experience gives you judgment. You need both. But one of them takes twenty years.
 
 That is my honest take from 700 interviews in.
 
@@ -135,7 +135,7 @@ And I want to tell you the one thing 700 interviews have taught me that AI will 
 
 People assume I'm bullish on AI replacing parts of this business. I'm not.
 
-I am bullish on AI for the repetitive parts. Research. Prep. Follow-up drafts. Listing descriptions. That's leverage.
+I am bullish on AI for the repetitive parts. Research. Prep. Follow-up drafts. Listing descriptions. That's use.
 
 But the hardest parts of being a great agent? AI is never going to touch them.
 

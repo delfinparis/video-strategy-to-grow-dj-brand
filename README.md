@@ -91,15 +91,15 @@ See [`docs/platform-strategy.md`](docs/platform-strategy.md) for the full distri
 The bridge from content to a Kale conversation:
 
 ```
-Fri AI Tip of the Week  ─┐
-IIR posts w/ soft CTA   ─┼─►  tapthis.co  ─►  5 pixels fire  ─►  30-90d retargeting
-KIR podcast promo       ─┘   (Meta, Google, LinkedIn, Reddit, TikTok)
-                                                      │
-                                                      ▼
-                                             joinkale.com  ─►  webinar  ─►  book-a-call
-                                                                               │
-                                                                               ▼
-                                                                      Close CRM (Jennica → Ana → D.J.)
+Fri AI Tip of the Week ─┐
+IIR posts w/ soft CTA ─┼─► tapthis.co ─► 5 pixels fire ─► 30-90d retargeting
+KIR podcast promo ─┘ (Meta, Google, LinkedIn, Reddit, TikTok)
+ │
+ ▼
+ joinkale.com ─► webinar ─► book-a-call
+ │
+ ▼
+ Close CRM (Jennica → Ana → D.J.)
 ```
 
 **Leading indicator:** weekly tapthis.co clicks (feeds the retargeting audience).
@@ -181,50 +181,50 @@ Produces a daily LLM-triaged top-5 stories brief to `data/news-briefs/YYYY-MM-DD
 
 ```
 video-strategy-to-grow-dj-brand/
-├── README.md                              # This file
-├── build.py                               # Generates AIAM + Agent Tip content
-├── generate_descriptions.py               # Generates platform-specific descriptions
+├── README.md # This file
+├── build.py # Generates AIAM + Agent Tip content
+├── generate_descriptions.py # Generates platform-specific descriptions
 ├── sync_descriptions_to_notion.py
 ├── scripts/
-│   ├── inside-the-industry/               # PRIMARY: IA, IS, NF scripts
-│   ├── the-playbook/                      # Conditional Wed scenarios
-│   ├── ai-tip-of-the-week/                # Fri utility slot → tapthis.co
-│   ├── podcast-promos/                    # Mon KIR episode drops
-│   ├── agent-tip-of-the-day/              # Curation pending
-│   ├── ai-agent-minute/                   # Frozen (100 scripts)
-│   ├── reels/                             # Generated reel assets
-│   ├── bonus/
-│   ├── news_brief.py                      # Daily news-feed triage
-│   └── com.djparis.newsbrief.plist.template
+│ ├── inside-the-industry/ # PRIMARY: IA, IS, NF scripts
+│ ├── the-playbook/ # Conditional Wed scenarios
+│ ├── ai-tip-of-the-week/ # Fri utility slot → tapthis.co
+│ ├── podcast-promos/ # Mon KIR episode drops
+│ ├── agent-tip-of-the-day/ # Curation pending
+│ ├── ai-agent-minute/ # Frozen (100 scripts)
+│ ├── reels/ # Generated reel assets
+│ ├── bonus/
+│ ├── news_brief.py # Daily news-feed triage
+│ └── com.djparis.newsbrief.plist.template
 ├── data/
-│   ├── publishing-log.csv                 # Every post, for attribution
-│   ├── metrics/                           # Weekly snapshots YYYY-WW.csv
-│   └── news-briefs/                       # Daily news briefs
+│ ├── publishing-log.csv # Every post, for attribution
+│ ├── metrics/ # Weekly snapshots YYYY-WW.csv
+│ └── news-briefs/ # Daily news briefs
 ├── descriptions/
-│   ├── ai-agent-minute/
-│   └── agent-tip-of-the-day/
+│ ├── ai-agent-minute/
+│ └── agent-tip-of-the-day/
 ├── schedule/
-│   ├── master-calendar.md
-│   └── weekly-breakdown.md
+│ ├── master-calendar.md
+│ └── weekly-breakdown.md
 ├── rankings/
 ├── docs/
-│   ├── strategy/                          # Pivot decisions and governance
-│   ├── analytics/                         # Cross-surface data + reports
-│   ├── series/                            # Per-series editorial standards
-│   ├── audits/
-│   ├── close-email-templates/
-│   ├── editorial-standards.md             # Universal editorial rules
-│   ├── content-pillars.md
-│   ├── content-recruiting-integration.md
-│   ├── inside-the-industry-playbook.md
-│   ├── the-playbook-format.md
-│   ├── platform-strategy.md
-│   ├── filming-guide.md
-│   ├── capcut-editing-playbook.md
-│   ├── avatars.md
-│   ├── speaker-assets.md
-│   ├── recruiting-call-scripts.md
-│   └── mentor-stories-collection.md
+│ ├── strategy/ # Pivot decisions and governance
+│ ├── analytics/ # Cross-surface data + reports
+│ ├── series/ # Per-series editorial standards
+│ ├── audits/
+│ ├── close-email-templates/
+│ ├── editorial-standards.md # Universal editorial rules
+│ ├── content-pillars.md
+│ ├── content-recruiting-integration.md
+│ ├── inside-the-industry-playbook.md
+│ ├── the-playbook-format.md
+│ ├── platform-strategy.md
+│ ├── filming-guide.md
+│ ├── capcut-editing-playbook.md
+│ ├── avatars.md
+│ ├── speaker-assets.md
+│ ├── recruiting-call-scripts.md
+│ └── mentor-stories-collection.md
 ```
 
 ---

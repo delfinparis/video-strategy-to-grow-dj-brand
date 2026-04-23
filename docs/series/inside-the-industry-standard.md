@@ -8,7 +8,7 @@ This document defines the per-series rules for the **Inside the Industry** serie
 
 ## What Inside the Industry is
 
-A short-form video series where D.J. delivers observations, analysis, and breaking news from inside the real estate industry. This is the series that leverages D.J.'s unique positioning: 700+ podcast interviews, 1 of 12 in NAR's 2026 influencer program, VP of Business Development at a 300+ agent brokerage. No other content creator has this combination of access, archive, and operational perspective.
+A short-form video series where D.J. delivers observations, analysis, and breaking news from inside the real estate industry. This is the series that uses D.J.'s unique positioning: 700+ podcast interviews, 1 of 12 in NAR's 2026 influencer program, VP of Business Development at a 300+ agent brokerage. No other content creator has this combination of access, archive, and operational perspective.
 
 **Core promise to the viewer:** *Something is happening in the industry that matters to your business, and D.J. is closer to it than you are.*
 
@@ -28,10 +28,10 @@ Inside the Industry has three distinct sub-types. Each has its own structure and
 
 **Structure:**
 ```
-1. HOOK           - "I was just in a room with [specific people/org]."
-2. OBSERVATION    - What D.J. saw, heard, or noticed. First-person, specific.
-3. INSIGHT        - What it means for the viewer's business.
-4. CLOSE          - "Here's what you do now." Action tied to the insight.
+1. HOOK - "I was just in a room with [specific people/org]."
+2. OBSERVATION - What D.J. saw, heard, or noticed. First-person, specific.
+3. INSIGHT - What it means for the viewer's business.
+4. CLOSE - "Here's what you do now." Action tied to the insight.
 ```
 
 **The hook for Access scripts** is almost always the credential-plus-access pattern: "I just spent two days with NAR's executive team. Here's what they're not saying publicly." The access IS the scroll-stopper.
@@ -44,11 +44,11 @@ Inside the Industry has three distinct sub-types. Each has its own structure and
 
 **Structure:**
 ```
-1. HOOK           - The pattern stated as a surprising observation.
-2. MIRROR MOMENT  - The viewer recognizes themselves in the wrong side of the pattern.
-3. INSIGHT        - The full pattern, with named guest examples.
-4. REFRAME        - Why this matters now.
-5. CLOSE          - "Here's what you do now." Action tied to the pattern.
+1. HOOK - The pattern stated as a surprising observation.
+2. MIRROR MOMENT - The viewer recognizes themselves in the wrong side of the pattern.
+3. INSIGHT - The full pattern, with named guest examples.
+4. REFRAME - Why this matters now.
+5. CLOSE - "Here's what you do now." Action tied to the pattern.
 ```
 
 **Critical rule for Synthesis scripts: never fabricate the quantification of a pattern.** The IS-002 "6% Club" failure happened here. When D.J. observes that "almost every top producer I've interviewed" does something, that qualitative framing is the correct expression. Do not invent a percentage to make it sound more precise. See universal Rule 1's qualitative fallback table.
@@ -61,10 +61,10 @@ Inside the Industry has three distinct sub-types. Each has its own structure and
 
 **Structure:**
 ```
-1. HOOK           - The headline, stated as a number or surprising fact.
-2. CONTEXT        - What happened and why it matters. Background for agents who missed it.
-3. INSIGHT        - What this means for the viewer's business specifically.
-4. CLOSE          - "Here's what you do now." Action or watchpoint.
+1. HOOK - The headline, stated as a number or surprising fact.
+2. CONTEXT - What happened and why it matters. Background for agents who missed it.
+3. INSIGHT - What this means for the viewer's business specifically.
+4. CLOSE - "Here's what you do now." Action or watchpoint.
 ```
 
 **The hook for News scripts** is almost always the specific-number pattern: "$52 million. That's what NAR just agreed to pay in the Tuccori settlement." The number IS the scroll-stopper. Numbers in NF hooks must be exact and sourced - no rounding, no "roughly," no approximation.

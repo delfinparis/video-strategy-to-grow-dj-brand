@@ -207,7 +207,7 @@ Reference models Steven Bartlett (Diary of a CEO), Ryan Serhant, and Jefferson F
 
 Three acceptable closing patterns for any Inside the Industry script:
 
-1. **Stop on the reframe.** Let the strongest line of the script be the last thing spoken or written. No CTA. Silence is a stronger close than a beg. Example (IS-001): "AI gives you leverage. Experience gives you judgment. One of those takes twenty years." Then cut.
+1. **Stop on the reframe.** Let the strongest line of the script be the last thing spoken or written. No CTA. Silence is a stronger close than a beg. Example (IS-001): "AI gives you use. Experience gives you judgment. One of those takes twenty years." Then cut.
 
 2. **Action ask (not audience ask).** Tell the viewer to do something in their own life, not to engage with you. Example (IS-002): "Tomorrow morning, pick up one call you'd normally skip. See what happens."
 

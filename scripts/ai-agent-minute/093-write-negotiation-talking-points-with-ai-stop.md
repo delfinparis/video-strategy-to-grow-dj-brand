@@ -32,7 +32,7 @@ Negotiation prep is important but less differentiated than objection handling an
 ## Full Script (Spoken)
 
 Most agents negotiate on instinct. Top producers negotiate with a written plan -- and they build it before they ever pick up the phone.
-Here's what happens in a live negotiation. You're juggling your client's priorities, the other side's motivations, and your leverage -- all at once, in real time, under pressure. Most agents improvise. And improvisation under pressure leaves money on the table.
+Here's what happens in a live negotiation. You're juggling your client's priorities, the other side's motivations, and your use -- all at once, in real time, under pressure. Most agents improvise. And improvisation under pressure leaves money on the table.
 Your client hired you to think clearly when things get hard. Most agents wait until they're on the phone to start thinking.
 Here's the fix. Before any negotiation call, spend ten minutes with Claude. Give it the full deal picture -- offer price, inspection issues, competing offers, seller motivation, your buyer's must-haves versus nice-to-haves. Then type: "Draft three negotiation scenarios ranked by likelihood, with the strongest talking points for each one."
 Walk into that call with a game plan. Not gut feel.

@@ -10,7 +10,7 @@ Most real estate agents treat their CRM like a digital graveyard. Records with n
 
 You're literally starting from scratch with leads you already paid to generate. It's like withdrawing money from your retirement account without realizing it.
 
-Here's the game-changer: After every call or showing, spend 60 seconds talking into your voice-to-text app about what happened. Then ask Claude to "Reformat this into clean CRM notes with summary, next action, and follow-up date." Boom. Professional notes in 90 seconds total.
+After every call or showing, spend 60 seconds talking into your voice-to-text app about what happened. Then ask Claude to "Reformat this into clean CRM notes with summary, next action, and follow-up date." Boom. Professional notes in 90 seconds total.
 
 Your database IS your retirement account. Every skipped note is money left on the table.
 

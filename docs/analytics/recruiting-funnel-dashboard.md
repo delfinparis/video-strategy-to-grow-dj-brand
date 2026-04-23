@@ -10,36 +10,36 @@
 
 ```
 Content posted 6x/week (1 Mon KIR + 4 IIR + 1 Fri AI Tip)
-            │
-            ▼  (weekly post views across 6 surfaces - measured in data/metrics/)
-       ┌────┴────┐
-       │         │
-   Hard CTA   Soft mention   (Fri AI Tip = hard CTA; IIR NF = optional soft mention)
-       │         │
-       └────┬────┘
-            ▼  (tapthis.co click - UTM-tagged by script_id + surface)
-     tapthis.co page view
-            │
-            ▼  (5 pixels fire: Meta, Google, LinkedIn, Reddit, TikTok)
-     Retargeting audience (custom audience on each of 5 platforms)
-            │
-            ▼  (30-90 day retargeting ads → joinkale.com)
-     joinkale.com visit
-            │
-            ▼
-     Webinar signup
-            │
-            ▼
-     Webinar attendance
-            │
-            ▼
-     Book-a-call request
-            │
-            ▼
-     Close CRM conversation (Jennica → Ana → D.J.)
-            │
-            ▼
-     Signed Kale agent  ← North Star
+ │
+ ▼ (weekly post views across 6 surfaces - measured in data/metrics/)
+ ┌────┴────┐
+ │ │
+ Hard CTA Soft mention (Fri AI Tip = hard CTA; IIR NF = optional soft mention)
+ │ │
+ └────┬────┘
+ ▼ (tapthis.co click - UTM-tagged by script_id + surface)
+ tapthis.co page view
+ │
+ ▼ (5 pixels fire: Meta, Google, LinkedIn, Reddit, TikTok)
+ Retargeting audience (custom audience on each of 5 platforms)
+ │
+ ▼ (30-90 day retargeting ads → joinkale.com)
+ joinkale.com visit
+ │
+ ▼
+ Webinar signup
+ │
+ ▼
+ Webinar attendance
+ │
+ ▼
+ Book-a-call request
+ │
+ ▼
+ Close CRM conversation (Jennica → Ana → D.J.)
+ │
+ ▼
+ Signed Kale agent ← North Star
 ```
 
 ---
@@ -75,20 +75,20 @@ Nine stages. Leading indicators (top of funnel) update weekly; lagging indicator
 **What we do measure:**
 
 1. **UTM on every tapthis.co link.** Every Friday AI Tip post uses:
-   ```
-   https://tapthis.co?utm_source=<surface>&utm_medium=social&utm_campaign=<script_id>
-   ```
-   Where `<surface>` is `li-personal | fb-personal | ig-personal | fb-biz | tt-biz | yt-biz` and `<script_id>` matches the filename (e.g. `AIT-001` or the AIAM script being promoted that week). Same pattern for any IIR post using a soft tapthis.co mention.
+ ```
+ https://tapthis.co?utm_source=<surface>&utm_medium=social&utm_campaign=<script_id>
+ ```
+ Where `<surface>` is `li-personal | fb-personal | ig-personal | fb-biz | tt-biz | yt-biz` and `<script_id>` matches the filename (e.g. `AIT-001` or the AIAM script being promoted that week). Same pattern for any IIR post using a soft tapthis.co mention.
 
 2. **Close CRM `content_attribution` custom field.** When a lead enters the pipeline, Jennica/Ana tag the source:
-   - `tapthis-co-retargeting` - came in via a retargeting ad after pixel fire
-   - `direct-social` - clicked through from an organic post (no retargeting)
-   - `podcast` - KIR listener inquiry
-   - `nar-referral` - from NAR or industry contact
-   - `direct-referral` - agent-to-agent word of mouth
-   - `unknown` - couldn't determine
+ - `tapthis-co-retargeting` - came in via a retargeting ad after pixel fire
+ - `direct-social` - clicked through from an organic post (no retargeting)
+ - `podcast` - KIR listener inquiry
+ - `nar-referral` - from NAR or industry contact
+ - `direct-referral` - agent-to-agent word of mouth
+ - `unknown` - couldn't determine
 
-   This lets us backfill stage 9 (signed agents) to an attribution bucket for the 90-day review.
+ This lets us backfill stage 9 (signed agents) to an attribution bucket for the 90-day review.
 
 3. **Weekly correlation, not deterministic attribution.** We correlate weekly tapthis.co clicks to weekly joinkale.com visits, and monthly joinkale.com visits to monthly book-a-calls. If the trendlines move together with the expected 30–90 day lag, the funnel is working.
 
@@ -104,10 +104,10 @@ Extends the existing Sunday metrics ritual in [`../../data/README.md`](../../dat
 4. **Close CRM** - query `find_opportunities` or lead search for this week's new leads with `content_attribution` set; count by bucket.
 5. **Log to** [`../../data/funnel-metrics/YYYY-WW.csv`](../../data/funnel-metrics/) - one row per ISO week:
 
-   ```csv
-   week_start,posts_published,tapthis_clicks,pixel_meta,pixel_google,pixel_linkedin,pixel_reddit,pixel_tiktok,joinkale_visits,joinkale_from_retargeting,webinar_signups,book_a_calls,kale_signed,top_utm_campaigns,notes
-   2026-04-20,6,28,1204,980,450,85,65,42,11,2,1,0,"AIT-001 (18); soft-NF-006 (7); other (3)","pivot week 1"
-   ```
+ ```csv
+ week_start,posts_published,tapthis_clicks,pixel_meta,pixel_google,pixel_linkedin,pixel_reddit,pixel_tiktok,joinkale_visits,joinkale_from_retargeting,webinar_signups,book_a_calls,kale_signed,top_utm_campaigns,notes
+ 2026-04-20,6,28,1204,980,450,85,65,42,11,2,1,0,"AIT-001 (18); soft-NF-006 (7); other (3)","pivot week 1"
+ ```
 
 6. **Update** `docs/analytics/YYYY-Qn-funnel-snapshot.md` at the end of each quarter (Jun 30, Sep 30, Dec 31) with the quarter's weekly-CSV data rolled up into a single report.
 

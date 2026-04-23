@@ -10,7 +10,7 @@ Nothing kills your credibility faster than being the last person to know about b
 
 Most agents stay informed "by accident" - catching headlines on their phone or hearing gossip at open houses. That's not a system, and it shows the moment a client asks a question you haven't thought about.
 
-Here's the game-changer: Build a 20-minute Monday morning market intelligence routine using Perplexity and Claude AI. Get the top 5 real estate stories from the past week, then have Claude summarize each in plain language for your clients. You'll become the agent clients call first - not just to transact, but whenever they have questions.
+Build a 20-minute Monday morning market intelligence routine using Perplexity and Claude AI. Get the top 5 real estate stories from the past week, then have Claude summarize each in plain language for your clients. You'll become the agent clients call first - not just to transact, but whenever they have questions.
 
 D.J. Paris from Keeping It Real Podcast breaks down exactly how to build this system in under 20 minutes per week.
 

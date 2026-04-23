@@ -32,7 +32,7 @@ How many Google reviews do you have right now? Drop the number below 👇
 
 ### TIKTOK
 
-POV: You've closed 50+ happy clients but only have 4 Google reviews 💀 It's not them-it's your system (or lack of one)
+POV: You've closed 50+ happy clients but only have 4 Google reviews 💀 The problem isn't them. It's your system (or lack of one).
 
 #realtortok #realestatetok #googlereviews #realtor #realestate #aitools #businesstips #realestateagent #socialpoof #realtorlife
 
@@ -44,7 +44,7 @@ Here's what separates agents with 5 reviews from those with 50+: intentional fol
 
 Think about it: your reviews are working as unpaid sales staff, building trust with prospects before they ever call. Yet most agents treat review collection as an afterthought rather than a revenue-generating system.
 
-The agents crushing it online have learned to leverage AI tools like Claude to build sophisticated follow-up sequences that feel personal while being systematic. They've turned social proof into a predictable business asset.
+The agents crushing it online have learned to use AI tools like Claude to build sophisticated follow-up sequences that feel personal while being systematic. They've turned social proof into a predictable business asset.
 
 What's your current Google review count, and what system (if any) do you have for requesting them?
 

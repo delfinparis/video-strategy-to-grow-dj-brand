@@ -10,7 +10,7 @@ Most listing descriptions are genuinely terrible - and agents know it. They're f
 
 Here's what top agents know: buyers buy stories before they buy houses. Instead of describing features, you need to paint a picture of the lifestyle.
 
-DJ Paris from Keeping It Real Podcast just shared a game-changing AI hack: Give Claude your property details and ask for THREE versions - aspirational, feature-focused, and neighborhood-first. Zero clichés allowed. Pick the best one and you're done in 5 minutes instead of 45.
+DJ Paris from Keeping It Real Podcast just shared a AI hack: Give Claude your property details and ask for THREE versions - aspirational, feature-focused, and neighborhood-first. Zero clichés allowed. Pick the best one and you're done in 5 minutes instead of 45.
 
 What's the worst listing description cliché you've ever seen? I know you have one!
 
