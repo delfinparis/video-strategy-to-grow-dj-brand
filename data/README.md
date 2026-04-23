@@ -37,10 +37,10 @@ publish_date,script_id,surfaces_skipped,notes
 
 **Fields:**
 
-- `publish_date` — `YYYY-MM-DD`.
-- `script_id` — the filename of the script minus `.md` extension. For example, `PB-001-lowball-offer` or `NF-004-the-batton-case-is-still-out-there` or `001-handle-i-want-to-think-about-it-with-ai-practice`.
-- `surfaces_skipped` — semicolon-delimited list of surfaces you *didn't* post to. Empty = all 8 posted. Surface codes: `ig-biz`, `ig-personal`, `fb-biz`, `fb-personal`, `yt-biz`, `li-biz`, `li-personal`, `tt-biz`.
-- `notes` — optional. Anything weird about the day worth remembering.
+- `publish_date` - `YYYY-MM-DD`.
+- `script_id` - the filename of the script minus `.md` extension. For example, `PB-001-lowball-offer` or `NF-004-the-batton-case-is-still-out-there` or `001-handle-i-want-to-think-about-it-with-ai-practice`.
+- `surfaces_skipped` - semicolon-delimited list of surfaces you *didn't* post to. Empty = all 8 posted. Surface codes: `ig-biz`, `ig-personal`, `fb-biz`, `fb-personal`, `yt-biz`, `li-biz`, `li-personal`, `tt-biz`.
+- `notes` - optional. Anything weird about the day worth remembering.
 
 ~20 seconds per post. If you skip a day, skip a row. The system doesn't break.
 
@@ -50,13 +50,13 @@ publish_date,script_id,surfaces_skipped,notes
 
 Every Sunday, snapshot engagement for the past week's posts.
 
-### Step 1 — Metricool biz data
+### Step 1 - Metricool biz data
 
 Open Metricool dashboard. For each of the 5 biz accounts (IG, FB, YT, LI, TT), grab view/like/comment/share/save counts for posts from the last 7 days.
 
 If Metricool's export/CSV download works on your plan, that's the fastest path. If not, screenshot each surface and type numbers in.
 
-### Step 2 — Personal account data
+### Step 2 - Personal account data
 
 Open each personal app (IG, FB, LI) and pull metrics for the same posts.
 
@@ -64,9 +64,9 @@ Open each personal app (IG, FB, LI) and pull metrics for the same posts.
 - **FB Personal:** tap the three-dot menu → View Post Insights (or open via fb.com on desktop)
 - **LI Personal:** click the post, look at the "analytics" eye icon
 
-### Step 3 — Fill in the weekly CSV
+### Step 3 - Fill in the weekly CSV
 
-Create or append to `data/metrics/YYYY-WW.csv` (where YYYY-WW is ISO week — e.g., `2026-17.csv` for the week starting April 20, 2026).
+Create or append to `data/metrics/YYYY-WW.csv` (where YYYY-WW is ISO week - e.g., `2026-17.csv` for the week starting April 20, 2026).
 
 Format:
 
@@ -100,10 +100,10 @@ python3 scripts/analyze_posts.py
 Writes to `docs/analytics/YYYY-MM-DD-report.md` with:
 
 - **Top 10 / Bottom 10 scripts** by engagement rate
-- **Per-surface ranking** — which platforms/accounts are earning their slot
-- **Per-series breakdown** — AIAM vs Agent Tip vs Playbook vs Inside the Industry
-- **Biz vs Personal duplication check** — are your biz accounts getting throttled as duplicates?
-- **One specific recommendation** — data-backed suggestion for your next mix shift
+- **Per-surface ranking** - which platforms/accounts are earning their slot
+- **Per-series breakdown** - AIAM vs Agent Tip vs Playbook vs Inside the Industry
+- **Biz vs Personal duplication check** - are your biz accounts getting throttled as duplicates?
+- **One specific recommendation** - data-backed suggestion for your next mix shift
 
 For a specific month:
 
@@ -115,10 +115,10 @@ python3 scripts/analyze_posts.py --month 2026-04
 
 ## What the KPIs mean
 
-- **Views** — reach. Denominator for engagement. Don't optimize for this alone.
+- **Views** - reach. Denominator for engagement. Don't optimize for this alone.
 - **Engagement rate** = `(likes + comments + shares + saves) / views`. Primary KPI.
-- **Saves** — strongest "this was useful, I'll come back" signal. Especially important for tactical scripts (Agent Tip, Playbook).
-- **Comments from real agents** — not counted separately, but worth watching qualitatively. Comments from your target Chicago audience are the highest-value signal.
+- **Saves** - strongest "this was useful, I'll come back" signal. Especially important for tactical scripts (Agent Tip, Playbook).
+- **Comments from real agents** - not counted separately, but worth watching qualitatively. Comments from your target Chicago audience are the highest-value signal.
 
 ---
 

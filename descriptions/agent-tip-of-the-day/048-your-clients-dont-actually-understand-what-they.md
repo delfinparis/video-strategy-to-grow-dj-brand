@@ -44,7 +44,7 @@ She now prints every loan document and walks through each page with buyers. Not 
 
 The result? When one of her clients faced a medical crisis years later, Karina could remind her that her home equity was exactly the safety net she'd worked so hard to build.
 
-This is the difference between completing transactions and building relationships that span decades. We're not just selling properties—we're selling financial security and peace of mind.
+This is the difference between completing transactions and building relationships that span decades. We're not just selling properties-we're selling financial security and peace of mind.
 
 How are you ensuring your clients truly understand the long-term value of their investment?
 

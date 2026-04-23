@@ -8,7 +8,7 @@
 
 Top 1% producer Jay Cannone hasn't "sold" anyone in years. His secret? When you're marketing right, clients come pre-sold. They've already consumed your content, trust your expertise, and know your values.
 
-By the time they call, you're not pitching—you're consulting. You're not overcoming objections—you're confirming what they already believe. The transaction becomes inevitable because they chose you before they ever met you.
+By the time they call, you're not pitching-you're consulting. You're not overcoming objections-you're confirming what they already believe. The transaction becomes inevitable because they chose you before they ever met you.
 
 Here's the reality check: Look at your last five deals. How many clients came TO you versus how many did you have to convince? That ratio tells you everything about whether you're attracting or exhausting yourself.
 
@@ -22,7 +22,7 @@ If you're still chasing clients, you've already lost 🎯
 
 Jay Cannone (top 1% producer) stopped "selling" years ago. His game-changer: Marketing attracts. Selling convinces. When you market right, clients come pre-sold.
 
-Check your last 5 deals—how many came TO you vs. how many did you have to convince? That ratio is your real scorecard.
+Check your last 5 deals-how many came TO you vs. how many did you have to convince? That ratio is your real scorecard.
 
 What's your best client attraction strategy? Drop it below 👇
 
@@ -42,7 +42,7 @@ If you're exhausted from chasing prospects, you're doing it backwards.
 
 Jay Cannone, a top 1% producer in Fairfield County luxury real estate, shared something that stopped me in my tracks: "Marketing is attracting. Selling is convincing. When you're marketing right, clients come pre-sold."
 
-Think about it—when clients have already consumed your content, trust your expertise, and align with your values, the sales conversation transforms. You're no longer pitching; you're consulting. You're not overcoming objections; you're confirming decisions they've already made.
+Think about it-when clients have already consumed your content, trust your expertise, and align with your values, the sales conversation transforms. You're no longer pitching; you're consulting. You're not overcoming objections; you're confirming decisions they've already made.
 
 Here's the litmus test Jay uses: Look at your last five deals. How many clients came to you versus how many did you have to convince? That ratio reveals whether you're building attraction or burning out from persuasion.
 

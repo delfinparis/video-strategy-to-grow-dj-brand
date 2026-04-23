@@ -42,11 +42,11 @@ POV: You're paying for 5 real estate tools you never use while missing the one t
 
 Most real estate professionals are unknowingly hemorrhaging money on software subscriptions they've forgotten about.
 
-The numbers are staggering: the average agent pays for five tools they barely use while missing the one workflow that could genuinely transform their business. When real estate technology exploded, we all fell into the same trap—signing up for every CRM, transaction platform, and lead generation tool that promised revolutionary results.
+The numbers are staggering: the average agent pays for five tools they barely use while missing the one workflow that could genuinely transform their business. When real estate technology exploded, we all fell into the same trap-signing up for every CRM, transaction platform, and lead generation tool that promised revolutionary results.
 
 The real cost isn't just financial. Having too many underutilized tools creates decision paralysis that prevents us from mastering any single system. We become software collectors instead of business builders.
 
-D.J. Paris from Keeping It Real Podcast demonstrates how artificial intelligence can audit your entire tech stack in minutes, identifying redundancies and gaps with surgical precision. The goal isn't more tools—it's strategic focus on what actually drives revenue.
+D.J. Paris from Keeping It Real Podcast demonstrates how artificial intelligence can audit your entire tech stack in minutes, identifying redundancies and gaps with surgical precision. The goal isn't more tools-it's strategic focus on what actually drives revenue.
 
 One tool mastered delivers exponentially more value than ten tools barely touched. Most professionals have this equation completely backwards.
 

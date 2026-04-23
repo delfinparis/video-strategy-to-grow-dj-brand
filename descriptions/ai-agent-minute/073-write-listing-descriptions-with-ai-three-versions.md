@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-Most listing descriptions are genuinely terrible — and agents know it. They're filled with clichés like "charming" and "cozy," or agents spend 45 minutes agonizing over a single paragraph that still doesn't win showings.
+Most listing descriptions are genuinely terrible - and agents know it. They're filled with clichés like "charming" and "cozy," or agents spend 45 minutes agonizing over a single paragraph that still doesn't win showings.
 
 Here's what top agents know: buyers buy stories before they buy houses. Instead of describing features, you need to paint a picture of the lifestyle.
 
-DJ Paris from Keeping It Real Podcast just shared a game-changing AI hack: Give Claude your property details and ask for THREE versions — aspirational, feature-focused, and neighborhood-first. Zero clichés allowed. Pick the best one and you're done in 5 minutes instead of 45.
+DJ Paris from Keeping It Real Podcast just shared a game-changing AI hack: Give Claude your property details and ask for THREE versions - aspirational, feature-focused, and neighborhood-first. Zero clichés allowed. Pick the best one and you're done in 5 minutes instead of 45.
 
 What's the worst listing description cliché you've ever seen? I know you have one!
 
@@ -18,11 +18,11 @@ What's the worst listing description cliché you've ever seen? I know you have o
 
 ### INSTAGRAM
 
-Most listing descriptions are terrible — filled with "charming," "cozy," "nestled" clichés that signal nobody cared about THIS house.
+Most listing descriptions are terrible - filled with "charming," "cozy," "nestled" clichés that signal nobody cared about THIS house.
 
 Top agents write stories, not descriptions. Buyers buy the lifestyle before the house.
 
-DJ Paris just dropped the ultimate AI hack: Ask Claude for 3 versions of your listing — aspirational, feature-focused, neighborhood-first. Zero clichés. Done in 5 minutes instead of 45.
+DJ Paris just dropped the ultimate AI hack: Ask Claude for 3 versions of your listing - aspirational, feature-focused, neighborhood-first. Zero clichés. Done in 5 minutes instead of 45.
 
 What's the worst listing cliché you've seen? Drop it below!
 ...
@@ -41,7 +41,7 @@ Most real estate professionals spend 45 minutes crafting listing descriptions th
 
 Here's the reality: buyers purchase stories before they purchase houses. Top-performing agents understand this fundamental shift from feature-driven descriptions to narrative-driven marketing.
 
-DJ Paris from Keeping It Real Podcast recently shared a systematic approach using AI that transforms this daily challenge into a competitive advantage. The strategy: provide Claude with property details, neighborhood context, and ideal buyer profile, then request three distinct versions — aspirational, feature-focused, and neighborhood-centric. The constraint: zero real estate clichés, under 200 words each.
+DJ Paris from Keeping It Real Podcast recently shared a systematic approach using AI that transforms this daily challenge into a competitive advantage. The strategy: provide Claude with property details, neighborhood context, and ideal buyer profile, then request three distinct versions - aspirational, feature-focused, and neighborhood-centric. The constraint: zero real estate clichés, under 200 words each.
 
 This approach reduces writing time from 45 minutes to 5 minutes while dramatically improving engagement and showing requests.
 

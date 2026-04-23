@@ -46,7 +46,7 @@ AI gives you leverage. Experience gives you judgment. One of those takes twenty 
 ## Data Source
 
 - **Claim:** "I teach real estate agents how to use AI"
-  - Source: D.J. Paris direct positioning. Documented in project memory (D.J. Paris profile — real estate AI educator at Kale Realty Chicago) and across the AI Agent Minute series (100 scripts named and scheduled).
+  - Source: D.J. Paris direct positioning. Documented in project memory (D.J. Paris profile - real estate AI educator at Kale Realty Chicago) and across the AI Agent Minute series (100 scripts named and scheduled).
   - Status: confirmed
 
 - **Claim:** "After 700 podcast interviews"

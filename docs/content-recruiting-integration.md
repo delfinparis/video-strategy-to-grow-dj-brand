@@ -35,9 +35,9 @@ The Frog is the recruitment call block. The Frog eats first. Always. This docume
 | Daily recruitment call block (the Frog) | 8 | ~1.5-2 hours × 4-5 mornings. 20 warm dials/day out of Close CRM. This is the core. |
 | Daily Courted review (5 min before each call block) | 0.33 | Pick top 5-10 A-agent + flight-risk leads from Courted's daily 30, add to Close |
 | Meeting prep + post-meeting processing | 1.5 | Preparing for scheduled meetings, updating Close, handoffs to Ana |
-| Weekly content-to-call bridge review (Sunday) | 1.25 | 75 min — pull warm engagers across LinkedIn / IG / FB, add to Close |
+| Weekly content-to-call bridge review (Sunday) | 1.25 | 75 min - pull warm engagers across LinkedIn / IG / FB, add to Close |
 | Event planning + invite outreach | 0.5 | Inviting warm leads to the next AI training or tool event |
-| Weekly pipeline review + tracker update | 0.42 | 25 min Sunday before bridge — review last week's metrics |
+| Weekly pipeline review + tracker update | 0.42 | 25 min Sunday before bridge - review last week's metrics |
 
 That's 12 hours. Tight but doable. Every minute is spoken-for, which matches the OS design: pre-committed decisions reduce willpower tax.
 
@@ -54,8 +54,8 @@ D.J.'s warm leads come from two distinct sources that flow into the same Close S
 [Courted.io](https://www.courted.io/) is an AI-powered brokerage talent platform Kale already pays for. It delivers:
 
 - **30 curated agent candidates per day** with quick stats and tailored outreach reasons
-- **Flight risk scoring** based on 190+ data sources — predictive ML that identifies 4 out of 5 agents before they leave their brokerage
-- **Accomplishments dashboard** — real-time alerts when agents hit milestones (closed listings, record months, contract anniversaries)
+- **Flight risk scoring** based on 190+ data sources - predictive ML that identifies 4 out of 5 agents before they leave their brokerage
+- **Accomplishments dashboard** - real-time alerts when agents hit milestones (closed listings, record months, contract anniversaries)
 - **Signals tracked**: contract anniversary dates, activity gaps (lack of pending sales), negative momentum at current brokerage, recent superlatives
 
 D.J.'s daily Courted workflow (5 min before each call block, 20 min/week total):
@@ -65,20 +65,20 @@ D.J.'s daily Courted workflow (5 min before each call block, 20 min/week total):
 3. Filter for: A-agent likelihood (3+ sales/year) + Greater Chicago + flight risk score in top tier
 4. Pick the top 5-10
 5. Add to Close with `Original Source = Courted` and the specific accomplishment or signal in the `Content Source Detail` field
-6. Begin the 9am call block — these leads sit at the top of "DJ Warm Outreach This Week"
+6. Begin the 9am call block - these leads sit at the top of "DJ Warm Outreach This Week"
 
 **Volume from this stream:** 25-50 fresh data-validated leads per week.
 
 #### Coordination with Jennica's Existing Courted Workflow (CRITICAL)
 
-Jennica is already using Courted for her morning SMS routine (per Daily Quick Reference doc) — she pulls celebration superlatives from Courted's daily 30 and sends 20 SMS/day. **D.J. must NOT call leads Jennica has already touched in the last 7 days, or the team creates a double-touch problem that burns trust.**
+Jennica is already using Courted for her morning SMS routine (per Daily Quick Reference doc) - she pulls celebration superlatives from Courted's daily 30 and sends 20 SMS/day. **D.J. must NOT call leads Jennica has already touched in the last 7 days, or the team creates a double-touch problem that burns trust.**
 
 The clean separation:
 
 | Channel | Owner | Lead source from Courted | Approach |
 |---|---|---|---|
 | SMS / text | Jennica | Daily 30 celebration superlatives (volume play) | High volume, low friction, opens the door |
-| Voice calls | D.J. | Top 5-10 of the daily 30 — A-agent + flight risk filtered | Low volume, high value, builds the relationship |
+| Voice calls | D.J. | Top 5-10 of the daily 30 - A-agent + flight risk filtered | Low volume, high value, builds the relationship |
 
 **The 7-day rule:** before D.J. adds a Courted lead to his Close call list, check whether Jennica has touched them via SMS in the last 7 days. If yes, skip and check back at day 14+. If no, proceed.
 
@@ -88,11 +88,11 @@ The clean separation:
 
 ### Stream 2: Content Engagement (Sunday Bridge, Warm, Self-Selected)
 
-This is the missing handoff that makes content work for recruiting. Run once a week — Sunday evening or Monday morning before the week's call blocks begin.
+This is the missing handoff that makes content work for recruiting. Run once a week - Sunday evening or Monday morning before the week's call blocks begin.
 
 The protocol covers three platforms: Personal LinkedIn (highest quality), Personal Instagram (highest reach amplification), and Personal Facebook (highest Chicago concentration). Total weekly time: ~75 minutes.
 
-**Why content engagers are different from Courted leads:** Courted gives you statistically-validated flight risk. Content engagers give you self-selected interest in your voice. Courted is "they're ready to leave." Content is "they already chose to listen to you." Both matter. They feed the same Smart View but use different opening scripts (see [`recruiting-call-scripts.md`](recruiting-call-scripts.md) — Opener A/B/C for content engagers, Opener D for Courted leads).
+**Why content engagers are different from Courted leads:** Courted gives you statistically-validated flight risk. Content engagers give you self-selected interest in your voice. Courted is "they're ready to leave." Content is "they already chose to listen to you." Both matter. They feed the same Smart View but use different opening scripts (see [`recruiting-call-scripts.md`](recruiting-call-scripts.md) - Opener A/B/C for content engagers, Opener D for Courted leads).
 
 ### Part A: Personal LinkedIn (~30 minutes)
 
@@ -129,8 +129,8 @@ Instagram is harder to qualify because the algorithm distributes 72% of reach to
 
 **The hard part for Instagram:** getting their phone number. Two paths:
 
-- **Path A (faster):** Cross-reference the agent's name on LinkedIn — most Chicago real estate agents have a LinkedIn with phone visible
-- **Path B (warmer):** DM them through Instagram first with a soft message ("Hey [Name], saw your engagement on my reel about [topic] — would love to chat. Are you in Chicago?"). When they reply, ask for their number.
+- **Path A (faster):** Cross-reference the agent's name on LinkedIn - most Chicago real estate agents have a LinkedIn with phone visible
+- **Path B (warmer):** DM them through Instagram first with a soft message ("Hey [Name], saw your engagement on my reel about [topic] - would love to chat. Are you in Chicago?"). When they reply, ask for their number.
 
 Default to Path A. Fall back to Path B if you can't find them on LinkedIn.
 
@@ -144,7 +144,7 @@ Personal Facebook has the highest Chicago concentration of any platform (74.2%),
 2. Review the last 7 days of posts (especially the highest-engagement ones)
 3. For each post, click the reaction/comment count to see who engaged
 4. For each engager, ask three questions:
-   - Are they already in your sphere? If yes, skip — recruit them through a different channel
+   - Are they already in your sphere? If yes, skip - recruit them through a different channel
    - Are they a real estate professional in Chicago? Check their profile
    - Are they NOT already in Close? Check
 5. **Target: 1-3 qualified adds per week**
@@ -172,41 +172,41 @@ The daily call target is 20 dials/day × 4 days = 80 dials/week. You cannot sust
 
 Close does not have traditional tags. It uses **Custom Fields** that integrate with Smart Views. Before running the bridge protocol for the first time, create these six Custom Fields in Close (one-time setup):
 
-1. **Original Source** (Dropdown, single select) — first-touch channel, locked. Options: Content — LinkedIn, Content — Instagram, Content — Facebook, Content — YouTube, Content — TikTok, Podcast Guest, Event Attendee, Referral — Existing Agent, Cold Outreach, Inbound — joinkale.com, Association Event, NAR Connection, **Courted (Flight Risk)**, **Courted (Accomplishment)**, Other
-2. **Latest Source** (Dropdown, single select) — most recent re-engagement channel, updates on new touch. Same options as Original Source.
-3. **Content Source Detail** (Text) — specific post/episode reference (e.g. "NF-001 Tuccori post 4/10/26" or "Episode 712 with Carrie McCormick"). Becomes the warm opener in the dial.
-4. **Content Week** (Text) — format `wk15-2026`. Used for weekly content velocity reporting.
-5. **Recruit Tier** (Dropdown, single select) — A-Agent (3-12 sales/year), B-Agent (13+ sales/year), New Licensee, Forgotten Middle (1-5M volume), Unknown
-6. **DJ Outreach Status** (Dropdown, single select) — DJ Working, Handed to Ana, Handed to Jennica, Team Funnel, On Hold
+1. **Original Source** (Dropdown, single select) - first-touch channel, locked. Options: Content - LinkedIn, Content - Instagram, Content - Facebook, Content - YouTube, Content - TikTok, Podcast Guest, Event Attendee, Referral - Existing Agent, Cold Outreach, Inbound - joinkale.com, Association Event, NAR Connection, **Courted (Flight Risk)**, **Courted (Accomplishment)**, Other
+2. **Latest Source** (Dropdown, single select) - most recent re-engagement channel, updates on new touch. Same options as Original Source.
+3. **Content Source Detail** (Text) - specific post/episode reference (e.g. "NF-001 Tuccori post 4/10/26" or "Episode 712 with Carrie McCormick"). Becomes the warm opener in the dial.
+4. **Content Week** (Text) - format `wk15-2026`. Used for weekly content velocity reporting.
+5. **Recruit Tier** (Dropdown, single select) - A-Agent (3-12 sales/year), B-Agent (13+ sales/year), New Licensee, Forgotten Middle (1-5M volume), Unknown
+6. **DJ Outreach Status** (Dropdown, single select) - DJ Working, Handed to Ana, Handed to Jennica, Team Funnel, On Hold
 
 For each qualified lead from Step 3:
 
 - Create the Lead in Close
 - Set Original Source to the specific channel
 - Set Latest Source = same as Original Source at creation (they match at first touch)
-- Set Content Source Detail with the specific post reference — this is what appears as the warm opener reference in Jennica/Ana/D.J.'s notes
+- Set Content Source Detail with the specific post reference - this is what appears as the warm opener reference in Jennica/Ana/D.J.'s notes
 - Set Content Week to the current week (e.g. `wk15-2026`)
 - Set Recruit Tier to your best estimate from the scoring step
 - Set DJ Outreach Status = DJ Working (or Team Funnel if you want the standard Jennica SMS funnel to pick it up)
 - Lead Status: New Lead
 
-**Step 5: Build the week's dial list from Smart Views** (~0 min — automatic once set up)
+**Step 5: Build the week's dial list from Smart Views** (~0 min - automatic once set up)
 
 Create these three Smart Views in Close (one-time setup):
 
-**"DJ Warm Outreach This Week"** — the daily call list D.J. opens at 9am
-- Filter: Original Source is any of [Content — LinkedIn, Content — Instagram, Content — Facebook, Podcast Guest, Event Attendee, **Courted (Flight Risk), Courted (Accomplishment)**]
+**"DJ Warm Outreach This Week"** - the daily call list D.J. opens at 9am
+- Filter: Original Source is any of [Content - LinkedIn, Content - Instagram, Content - Facebook, Podcast Guest, Event Attendee, **Courted (Flight Risk), Courted (Accomplishment)**]
 - AND Last Contact Date is more than 14 days ago OR empty
 - AND Lead Status is not Won, Lost, or Dead
 - AND DJ Outreach Status is "DJ Working" OR empty
 - Sort: Created Date descending (choice-based Custom Fields cannot be used for sorting in Close)
 
-**"A-Agents Not Yet Called"** — prioritization view for high-energy dialing days
+**"A-Agents Not Yet Called"** - prioritization view for high-energy dialing days
 - Filter: Recruit Tier = A-Agent
 - AND Last Contact Date is empty
 - Sort: Created Date descending
 
-**"This Week's Content Adds"** — retrospective for measuring content velocity
+**"This Week's Content Adds"** - retrospective for measuring content velocity
 - Filter: Content Week contains current week (e.g. "wk15-2026")
 - Sort: Created Date descending
 
@@ -218,25 +218,25 @@ When D.J. opens Close on Tuesday morning, the "DJ Warm Outreach This Week" Smart
 
 ## Content Adjustments: Layer 2 Signaling
 
-The current 4-pillar content strategy does top-of-funnel work (Attraction) well. What it doesn't do is signal "Kale exists as a brokerage option for you." That's Layer 2 work — content that plants the seed without being a pitch.
+The current 4-pillar content strategy does top-of-funnel work (Attraction) well. What it doesn't do is signal "Kale exists as a brokerage option for you." That's Layer 2 work - content that plants the seed without being a pitch.
 
 ### The minimum viable Kale-signaling content
 
 Add these content types to the existing 4-pillar rotation. They don't require new pillars. They're variants of existing formats that happen to mention Kale naturally.
 
-**Inside the Industry — Type A variant (~1 per month):**
-> "I sat in on a conversation at Kale this week. Here's what I'm taking from it." — an observation from inside the brokerage, told honestly, without pitching.
+**Inside the Industry - Type A variant (~1 per month):**
+> "I sat in on a conversation at Kale this week. Here's what I'm taking from it." - an observation from inside the brokerage, told honestly, without pitching.
 
-**Agent Tip of the Day — Kale variant (~2 per month):**
+**Agent Tip of the Day - Kale variant (~2 per month):**
 > When a Kale agent is the source of the tip: feature them by name, mention they're at Kale, let the content do the brand work.
 
-**Inside the Industry — Type B variant (~1 per month):**
-> "After 700 interviews, here's what I'm seeing top-performing brokerages do that the rest don't." — the reader infers Kale is one of them without D.J. having to say it.
+**Inside the Industry - Type B variant (~1 per month):**
+> "After 700 interviews, here's what I'm seeing top-performing brokerages do that the rest don't." - the reader infers Kale is one of them without D.J. having to say it.
 
-**AI Agent Minute — Kale variant (~1 per month):**
-> "Here's a tool I built for our agents at Kale" — specific, useful, and transparent about where it came from.
+**AI Agent Minute - Kale variant (~1 per month):**
+> "Here's a tool I built for our agents at Kale" - specific, useful, and transparent about where it came from.
 
-**The Playbook — Kale variant (optional, 1 per quarter):**
+**The Playbook - Kale variant (optional, 1 per quarter):**
 > "Here's the play we use at Kale for [specific tactical scenario]." Only if the play is genuinely distinctive to Kale's approach.
 
 **Volume target:** 3-5 Kale-signaling pieces per month across the four pillars. Not a flood. Just enough to plant seeds.
@@ -269,11 +269,11 @@ The speaker assets were not wasted work. They just get pointed at the higher-pri
 
 From the broader Q2 strategy evaluation, three earlier recommendations get **deferred or removed** under the recruiting-first lens:
 
-1. **YouTube Bartlett-style long-form podcast clipping** — This serves priorities #3 (podcast growth) and #4 (national thought leader reach). It does not serve #1 (Kale recruiting) directly. **Defer until 2027** or until recruiting pipeline is consistently hitting monthly targets and spare cycles exist.
+1. **YouTube Bartlett-style long-form podcast clipping** - This serves priorities #3 (podcast growth) and #4 (national thought leader reach). It does not serve #1 (Kale recruiting) directly. **Defer until 2027** or until recruiting pipeline is consistently hitting monthly targets and spare cycles exist.
 
-2. **Direct conference outreach to Inman / NAR NXT / HousingWire** — Same reason. Conference booking pipeline takes 6-12 months to mature and delivers speaking fees, not Kale recruits. **Defer**.
+2. **Direct conference outreach to Inman / NAR NXT / HousingWire** - Same reason. Conference booking pipeline takes 6-12 months to mature and delivers speaking fees, not Kale recruits. **Defer**.
 
-3. **The 90-day "narrow to one pillar" experiment** — still valid, but the pillar to over-index on becomes **whichever one most efficiently generates recruiting warm leads**. Based on Metricool data, that's Inside the Industry. No change from the original recommendation, just sharper intent.
+3. **The 90-day "narrow to one pillar" experiment** - still valid, but the pillar to over-index on becomes **whichever one most efficiently generates recruiting warm leads**. Based on Metricool data, that's Inside the Industry. No change from the original recommendation, just sharper intent.
 
 ---
 
@@ -298,19 +298,19 @@ This prevents D.J. from accidentally shadow-working leads that should be in the 
 
 ## Metrics That Matter
 
-D.J.'s existing KPI framework tracks the full recruiting funnel. This section only covers the metrics specific to the content-to-recruit bridge — the ones that tell us if the bridge is actually working.
+D.J.'s existing KPI framework tracks the full recruiting funnel. This section only covers the metrics specific to the content-to-recruit bridge - the ones that tell us if the bridge is actually working.
 
 ### Weekly metrics (track in Close tags and a simple spreadsheet)
 
-1. **Content-sourced leads added to Close this week** — target: 5-10
-2. **Content-sourced leads that became first conversations** — target: 2-3 per week
-3. **Content-sourced leads that converted to Ana's nurture** — target: 1-2 per week
-4. **Content-sourced leads that converted to D.J. meetings** — target: 1 per 2 weeks
+1. **Content-sourced leads added to Close this week** - target: 5-10
+2. **Content-sourced leads that became first conversations** - target: 2-3 per week
+3. **Content-sourced leads that converted to Ana's nurture** - target: 1-2 per week
+4. **Content-sourced leads that converted to D.J. meetings** - target: 1 per 2 weeks
 
 ### Monthly metrics
 
-5. **Content-sourced leads that signed with Kale** — target: 1-2 per month initially, scaling to 3-5
-6. **A-agent percentage of content-sourced signs** — target: 60%+
+5. **Content-sourced leads that signed with Kale** - target: 1-2 per month initially, scaling to 3-5
+6. **A-agent percentage of content-sourced signs** - target: 60%+
 
 If after 60 days these numbers aren't moving, something in the bridge is broken and we debug.
 

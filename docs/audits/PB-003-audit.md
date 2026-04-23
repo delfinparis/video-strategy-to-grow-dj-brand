@@ -21,17 +21,17 @@
 
 ## Findings
 
-### CRITICAL — none
+### CRITICAL - none
 
-### HIGH — "at least 15" unsourced specific count (in Data Source only, not spoken)
+### HIGH - "at least 15" unsourced specific count (in Data Source only, not spoken)
 
 **H1. Original Data Source text: "Reverse-engineered from a pattern D.J. Paris has heard from at least 15 top producers."** This is a specific count that Rule 1 requires being able to name at least 3 to support. Only Burrell and Mahan were named. The count itself was not in the spoken script or captions -- only in the internal Data Source section -- but it still needs to be accurate or softened. Softened to "across multiple top-producer interviews" with a note explaining the Rule 1 requirement.
 
-### MEDIUM — WOW line + Data Source format
+### MEDIUM - WOW line + Data Source format
 
 Both polished in this rewrite.
 
-### LOW — Shareable Moment
+### LOW - Shareable Moment
 
 Renamed from "Strongest Line" per series standard.
 

@@ -13,7 +13,7 @@ This script is also the pilot audit used to validate the new editorial standard.
 
 Grouped by severity. Each finding cites the rule it violates.
 
-### CRITICAL — stat fabrications (Rule 1)
+### CRITICAL - stat fabrications (Rule 1)
 
 **C1. "Top 6%" and "94%" are fabricated numbers.** This is the exact failure documented in the editorial standard's "Known past failures" section. The 700-interview pattern that top producers still answer their own phone is real. The specific 6%/94% split is invented to match the "X% Club" template from the real 9% Club LinkedIn post. D.J. has directly flagged this as the IS-002 v1 fabrication.
 
@@ -31,13 +31,13 @@ Every single one of these must be stripped or reframed qualitatively. See Rule 1
 
 **C2. "$100 million dollars a year" in the hook is unsupported.** The Data Source section lists Kristee Leonard ($50M), Bari Mill ($40M), and Karina Chavez (no production volume given). There is no named $100M producer in Data Source, which means the "$100 million" in the hook is likely padding for rhetorical range. Either name a real $100M+ guest in Data Source, or strip the $100M from the hook.
 
-**C3. "One of my guests put it this way: 'I don't know what deal is in that call until I pick it up.'"** This quote is not attributed to a specific named guest in the Data Source section. Either it's a real line from a real guest D.J. can point to on a specific episode — in which case it must be attributed by name — or it's a composite/reconstructed quote, which is a fabrication under Rule 1. **Cannot be shipped until D.J. verifies the source.** Tag for verification before filming.
+**C3. "One of my guests put it this way: 'I don't know what deal is in that call until I pick it up.'"** This quote is not attributed to a specific named guest in the Data Source section. Either it's a real line from a real guest D.J. can point to on a specific episode - in which case it must be attributed by name - or it's a composite/reconstructed quote, which is a fabrication under Rule 1. **Cannot be shipped until D.J. verifies the source.** Tag for verification before filming.
 
-### CRITICAL — Data Source section is non-compliant (Rule 1)
+### CRITICAL - Data Source section is non-compliant (Rule 1)
 
 **C4. Data Source section does not use the required format.** Current entries list guest names and internal script references. The universal standard requires each claim to include source name, publication year (or episode number and date), who was measured, and status (confirmed / unverified / placeholder). Rewrite in the required format.
 
-### HIGH — structural beats missing (Rule 3)
+### HIGH - structural beats missing (Rule 3)
 
 **H1. No mirror moment.** The DATA beat reads as a data dump, not as a mirror moment. A mirror moment puts the viewer in a specific time and place with second person. This script never does. Viewers who have outsourced their phone should feel seen and slightly embarrassed by the mirror; instead they feel lectured to.
 
@@ -47,27 +47,27 @@ Every single one of these must be stripped or reframed qualitatively. See Rule 1
 
 **H4. No WOW gate line in metadata.** The script has a "Strongest Line" blockquote but not the `> **WOW: ...**` gate required by Rule 0. Must be added.
 
-**H5. No Shareable Moment metadata.** Rule 0 requires every script to explicitly flag its shareable moment in metadata. The strongest candidate is the guest quote — but that quote can't be used until C3 is resolved.
+**H5. No Shareable Moment metadata.** Rule 0 requires every script to explicitly flag its shareable moment in metadata. The strongest candidate is the guest quote - but that quote can't be used until C3 is resolved.
 
-### MEDIUM — voice and formatting
+### MEDIUM - voice and formatting
 
 **M1. Hook contains three numbers in one spoken line.** *"agents doing 25, 50, even 100 million dollars a year"* is 3 numbers. Rule 5 caps at 2 per spoken line. Split or cut.
 
 **M2. Hook is marginally slow.** The first spoken sentence is 30+ words before the payload lands ("still do one thing every other agent has outsourced"). Passes the 3-second test barely. Could be tightened for more punch.
 
-### LOW — what's working
+### LOW - what's working
 
-**L1. The close is excellent.** *"Tomorrow morning, pick up one call you'd normally skip. See what happens."* This is already a textbook "here's what you do now" close — it's literally cited in the editorial standard as the example. Keep as-is.
+**L1. The close is excellent.** *"Tomorrow morning, pick up one call you'd normally skip. See what happens."* This is already a textbook "here's what you do now" close - it's literally cited in the editorial standard as the example. Keep as-is.
 
 **L2. The contrast structure is present.** "Top producers do X. Every other agent does Y." Works. Keep the structure; fix the numbers behind it.
 
-**L3. The core observation is real.** Multiple named top producers (Kristee Leonard, Bari Mill, Karina Chavez) from the Data Source support the underlying pattern. The script's problem is not the observation — it's the fabricated quantification wrapped around the observation.
+**L3. The core observation is real.** Multiple named top producers (Kristee Leonard, Bari Mill, Karina Chavez) from the Data Source support the underlying pattern. The script's problem is not the observation - it's the fabricated quantification wrapped around the observation.
 
 ---
 
 ## Proposed rewrite
 
-This rewrite strips every instance of the fabricated "6%/94%" split, reframes qualitatively, adds a mirror moment and agitation, adds the 15-second re-hook, keeps the strong close, and rewrites the Data Source section in the required format. The guest quote is kept *but tagged for verification before filming* — if D.J. can attribute it to a specific episode, it stays; if not, it gets replaced.
+This rewrite strips every instance of the fabricated "6%/94%" split, reframes qualitatively, adds a mirror moment and agitation, adds the 15-second re-hook, keeps the strong close, and rewrites the Data Source section in the required format. The guest quote is kept *but tagged for verification before filming* - if D.J. can attribute it to a specific episode, it stays; if not, it gets replaced.
 
 ```markdown
 ---
@@ -127,13 +127,13 @@ Tomorrow morning, pick up one call you'd normally skip. See what happens.
   - Status: confirmed
 
 - **Claim:** "agents doing $40, $50 million a year"
-  - Source: Kristee Leonard ($50M producer, KIR episode referenced in archive — verify episode number and date)
-  - Source: Bari Mill ($40M producer, KIR episode referenced in archive — verify episode number and date)
+  - Source: Kristee Leonard ($50M producer, KIR episode referenced in archive - verify episode number and date)
+  - Source: Bari Mill ($40M producer, KIR episode referenced in archive - verify episode number and date)
   - Who was measured: Named podcast guests
   - Status: confirmed on production volume, verify episode citations before filming
 
 - **Claim:** "That 6:47 call was someone about to sign with the agent who picks up."
-  - Source: Karina Chavez (KIR episode on evening call responsiveness — verify episode number)
+  - Source: Karina Chavez (KIR episode on evening call responsiveness - verify episode number)
   - Who was measured: Named podcast guest describing her own business
   - Status: Pattern is confirmed from multiple guests; the 6:47pm specific framing is composite. If we want to keep a specific time in the script, attribute to Karina's actual episode. Otherwise reframe to "an evening call."
 

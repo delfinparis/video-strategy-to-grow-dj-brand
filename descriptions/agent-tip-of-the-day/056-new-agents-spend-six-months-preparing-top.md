@@ -52,7 +52,7 @@ Not "study more courses." Not "wait until you feel ready." Just DO.
 
 Connie learned objection handling through door-knocking, buyer psychology through open houses, and confidence through expired listings. The market became her classroom, and action became her curriculum.
 
-The reality? Your first ten client conversations will likely be terrible. But here's the reframe: you're not unprepared—you're untested. There's a crucial difference between knowledge and experience.
+The reality? Your first ten client conversations will likely be terrible. But here's the reframe: you're not unprepared-you're untested. There's a crucial difference between knowledge and experience.
 
 What's one action you could take today that would teach you more than any course or webinar?
 

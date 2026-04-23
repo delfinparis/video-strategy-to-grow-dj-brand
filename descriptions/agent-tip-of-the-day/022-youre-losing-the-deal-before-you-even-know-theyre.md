@@ -44,9 +44,9 @@ Tim Burrell, a top producer in Raleigh, identified this blind spot and built a s
 
 When the AI flags anything above a 6, he switches from email to phone. The result? He catches relationship deterioration before it kills the transaction. Most agents realize there's a problem only after the deal dies, then wonder what they missed.
 
-The insight here isn't just about AI—it's about recognizing that negotiation success often depends on micro-signals we're not trained to catch. Email strips away vocal tone and body language, leaving us to guess at emotional states. That's a dangerous game when six-figure commissions are on the line.
+The insight here isn't just about AI-it's about recognizing that negotiation success often depends on micro-signals we're not trained to catch. Email strips away vocal tone and body language, leaving us to guess at emotional states. That's a dangerous game when six-figure commissions are on the line.
 
-Your last deal that fell apart unexpectedly—what communication red flags do you wish you'd caught earlier?
+Your last deal that fell apart unexpectedly-what communication red flags do you wish you'd caught earlier?
 
 #RealEstate #RealEstateNegotiation #AIForBusiness #ClientCommunication #RealEstateTechnology
 

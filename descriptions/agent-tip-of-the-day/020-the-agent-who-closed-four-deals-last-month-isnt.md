@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-While you're perfecting your CRM setup, another agent just closed four deals by making 47 more calls than you. Kristee Leonard, a $50M producer in Austin, doesn't win on strategy—she wins on reps.
+While you're perfecting your CRM setup, another agent just closed four deals by making 47 more calls than you. Kristee Leonard, a $50M producer in Austin, doesn't win on strategy-she wins on reps.
 
 Here's what separates top producers: While average agents research the perfect approach, top producers are already texting 20 past clients. While others plan content calendars, they're filming quick neighborhood tours on their iPhone. While competitors attend networking events, they're sending handwritten notes to recent clients.
 
@@ -18,7 +18,7 @@ What's one action you could take RIGHT NOW instead of planning it for tomorrow?
 
 ### INSTAGRAM
 
-The agent who closed 4 deals last month made 47 more calls than you—not because they're smarter, but because they outwork smart.
+The agent who closed 4 deals last month made 47 more calls than you-not because they're smarter, but because they outwork smart.
 
 Kristee Leonard ($50M Austin producer) nailed it: "You don't have to be the smartest person in the room. You just have to outwork the smartest person."
 
@@ -38,11 +38,11 @@ Someone with half your knowledge and twice your hustle is closing YOUR deals whi
 
 ### LINKEDIN
 
-The difference between a struggling agent and a $50 million producer isn't intelligence—it's execution rate.
+The difference between a struggling agent and a $50 million producer isn't intelligence-it's execution rate.
 
 Kristee Leonard, an Austin top producer, shared something that stopped me cold: "You don't have to be the smartest person in the room. You just have to outwork the smartest person in the room."
 
-While most agents perfect their CRM setup, top producers make 47 calls. While others craft the perfect marketing strategy, successful agents text 20 past clients asking "who do you know moving this spring?" The gap isn't in knowledge—it's in action velocity.
+While most agents perfect their CRM setup, top producers make 47 calls. While others craft the perfect marketing strategy, successful agents text 20 past clients asking "who do you know moving this spring?" The gap isn't in knowledge-it's in action velocity.
 
 Every hour spent in "preparation mode" is an hour someone else uses to connect with YOUR potential clients. The learning phase isn't a prerequisite for success; it's often an excuse to avoid the discomfort of prospecting.
 
@@ -52,5 +52,5 @@ In your business, what's one thing you keep planning to do instead of just doing
 
 ### YOUTUBE SHORTS
 **Title:** Real Estate Agent Closed 4 Deals With This Simple Strategy
-**Description:** The $50M producer who outworks everyone reveals why reps beat strategy every time. Stop planning, start prospecting—your next deal is one text away. Subscribe for daily real estate tips.
+**Description:** The $50M producer who outworks everyone reveals why reps beat strategy every time. Stop planning, start prospecting-your next deal is one text away. Subscribe for daily real estate tips.
 #RealEstate #RealEstateAgent #TopProducer #Prospecting #RealEstateTips

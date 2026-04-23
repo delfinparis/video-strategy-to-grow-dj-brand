@@ -6,9 +6,9 @@
 
 ### FACEBOOK
 
-Every top producer I've interviewed felt like a fraud when they started. That imposter syndrome voice telling you you're not qualified? It's not a personality flaw — it's just a gap between your standards and your evidence.
+Every top producer I've interviewed felt like a fraud when they started. That imposter syndrome voice telling you you're not qualified? It's not a personality flaw - it's just a gap between your standards and your evidence.
 
-Here's the breakthrough: You can actually close that gap on purpose. D.J. Paris from Keeping It Real Podcast shares how to use AI to build a "competence inventory" — a running document of everything you actually know and have accomplished. Update it weekly with every training, transaction support, and question you've answered correctly.
+Here's the breakthrough: You can actually close that gap on purpose. D.J. Paris from Keeping It Real Podcast shares how to use AI to build a "competence inventory" - a running document of everything you actually know and have accomplished. Update it weekly with every training, transaction support, and question you've answered correctly.
 
 The truth is, you don't need to know everything. You just need to know more than your client. And you already do.
 
@@ -18,13 +18,13 @@ When was the last time you felt like a fraud in this business? I bet it's more r
 
 ### INSTAGRAM
 
-Every top producer felt like a fraud when they started — that voice in your head isn't a personality flaw, it's fixable 📝
+Every top producer felt like a fraud when they started - that voice in your head isn't a personality flaw, it's fixable 📝
 
 D.J. Paris breaks down how to use AI to build a "competence inventory" that tracks your growing expertise. Update it weekly with every win, training, and question you nailed.
 
 Imposter syndrome thrives in the dark. When you can see your actual skills in writing, that voice gets quieter.
 
-When did you last feel like a fraud in real estate? Drop it below — you're not alone 👇
+When did you last feel like a fraud in real estate? Drop it below - you're not alone 👇
 
 ...
 
@@ -40,9 +40,9 @@ Every top producer felt like a fraud when they started 💯 Here's how to quiet 
 
 I've interviewed 700+ real estate professionals, and here's what shocked me: Every single top producer felt like a fraud when they started.
 
-That imposter syndrome voice isn't a character flaw — it's actually a fixable gap between the standards you hold yourself to and the evidence you currently have. You spent months studying for your license, now you're advising people on their biggest financial decision. That gap feels enormous.
+That imposter syndrome voice isn't a character flaw - it's actually a fixable gap between the standards you hold yourself to and the evidence you currently have. You spent months studying for your license, now you're advising people on their biggest financial decision. That gap feels enormous.
 
-But here's what successful agents figured out: You can close that gap systematically. Use AI to build a "competence inventory" — document every transaction you've supported, training completed, and question answered correctly. Update it weekly.
+But here's what successful agents figured out: You can close that gap systematically. Use AI to build a "competence inventory" - document every transaction you've supported, training completed, and question answered correctly. Update it weekly.
 
 The reality? You don't need to know everything. You need to know more than your client, and you already do. When you can see your actual expertise in writing, that inner critic gets much quieter.
 

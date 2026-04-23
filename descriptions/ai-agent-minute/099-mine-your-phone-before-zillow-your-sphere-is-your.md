@@ -6,13 +6,13 @@
 
 ### FACEBOOK
 
-Most new agents are spending thousands on Zillow leads while sitting on 500 untapped contacts in their phone. The agents who go broke in year one almost always make the same mistake — they buy strangers while their sphere goes quiet.
+Most new agents are spending thousands on Zillow leads while sitting on 500 untapped contacts in their phone. The agents who go broke in year one almost always make the same mistake - they buy strangers while their sphere goes quiet.
 
 Here's the reality: your existing contacts don't need to be sold to, they just need to be reminded you exist. Half of them don't even know you're in real estate yet.
 
 D.J. Paris from Keeping It Real Podcast breaks down exactly how to mine your phone BEFORE you spend a dime on lead generation. The simple AI prompt that turns your contact list into your first pipeline.
 
-How many people in your phone right now have no idea you're in real estate? Drop that number below — let's see who's sitting on the biggest goldmine! 👇
+How many people in your phone right now have no idea you're in real estate? Drop that number below - let's see who's sitting on the biggest goldmine! 👇
 
 #RealEstate #LeadGeneration #RealEstateAgent #SphereOfInfluence #KeepingItRealPodcast #RealEstateTips #NewAgent
 
@@ -22,7 +22,7 @@ New agents spend thousands on Zillow leads while 500 untapped contacts sit in th
 
 The agents who go broke in year one? They bought strangers while their sphere went quiet.
 
-Your contacts don't need to be sold to — they need to be reminded you exist. D.J. Paris shows you the exact AI prompt to turn your phone into your first lead pipeline.
+Your contacts don't need to be sold to - they need to be reminded you exist. D.J. Paris shows you the exact AI prompt to turn your phone into your first lead pipeline.
 
 How many people in your contacts have NO idea you're in real estate? Drop that number below! 👇
 
@@ -42,9 +42,9 @@ New real estate agents are making a costly mistake that's bankrupting them in ye
 
 They're spending thousands on Zillow leads while 500+ valuable contacts sit untapped in their phones. The irony? Half of their existing network doesn't even know they're in real estate.
 
-D.J. Paris, VP of Business Development at Kale Realty and host of 700+ episode real estate podcast, breaks down why your sphere of influence should be your first lead source — not your last resort. The data is clear: agents who nurture existing relationships before buying strangers have significantly higher survival rates.
+D.J. Paris, VP of Business Development at Kale Realty and host of 700+ episode real estate podcast, breaks down why your sphere of influence should be your first lead source - not your last resort. The data is clear: agents who nurture existing relationships before buying strangers have significantly higher survival rates.
 
-The solution isn't more complex marketing funnels. It's a simple AI-powered approach to reconnecting with people who already know, like, and trust you. Your sphere doesn't need to be sold to — they need to be reminded you exist.
+The solution isn't more complex marketing funnels. It's a simple AI-powered approach to reconnecting with people who already know, like, and trust you. Your sphere doesn't need to be sold to - they need to be reminded you exist.
 
 Here's my question: How many contacts in your phone right now have no idea you're in real estate? The answer might surprise you.
 

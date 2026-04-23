@@ -3,7 +3,7 @@
 A short-form video content strategy whose **primary purpose is generating warm recruiting leads for Kale Realty** through D.J. Paris's personal social presence and the Keeping It Real Podcast brand.
 
 > **Current phase: Inside the Industry pivot (decided 2026-04-18, 90-day test through 2026-07-19).**
-> Socials are now centered on industry news, access, and synthesis — not a four-pillar mix. See [`docs/strategy/2026-04-18-pillar-pivot-decision.md`](docs/strategy/2026-04-18-pillar-pivot-decision.md) for the full decision and the data that drove it. This README reflects the post-pivot cadence; the next review is 2026-07-19.
+> Socials are now centered on industry news, access, and synthesis - not a four-pillar mix. See [`docs/strategy/2026-04-18-pillar-pivot-decision.md`](docs/strategy/2026-04-18-pillar-pivot-decision.md) for the full decision and the data that drove it. This README reflects the post-pivot cadence; the next review is 2026-07-19.
 
 ---
 
@@ -12,7 +12,7 @@ A short-form video content strategy whose **primary purpose is generating warm r
 > D.J. Paris is the industry insider for real estate agents who don't have time to read 12 real estate newsletters. He sees what's happening across the industry, has a take, and tells you what it means for your business in 60 seconds.
 
 **Podcast promise:** deep interviews with top producers on how to be a better agent.
-**Socials promise:** sharp takes on industry news, access moments, and patterns from 700+ interviews — in 60 seconds or less.
+**Socials promise:** sharp takes on industry news, access moments, and patterns from 700+ interviews - in 60 seconds or less.
 
 The two surfaces answer different questions and don't cannibalize. Both reinforce the same credibility pillars: NAR access, 700-episode podcast archive, Kale operational view.
 
@@ -20,12 +20,12 @@ The two surfaces answer different questions and don't cannibalize. Both reinforc
 
 ## Brand Goals (priority order)
 
-1. **Kale Realty recruiting in Chicago** — primary, most valuable, drives D.J.'s compensation
+1. **Kale Realty recruiting in Chicago** - primary, most valuable, drives D.J.'s compensation
 2. NAR relationship deepening
 3. Keeping It Real Podcast subscriber growth
 4. National thought leader reach
 
-Every strategy decision is filtered through "does this serve #1?" first. The content-to-recruiting bridge is documented in [`docs/content-recruiting-integration.md`](docs/content-recruiting-integration.md) — read that before making any content strategy decision.
+Every strategy decision is filtered through "does this serve #1?" first. The content-to-recruiting bridge is documented in [`docs/content-recruiting-integration.md`](docs/content-recruiting-integration.md) - read that before making any content strategy decision.
 
 ---
 
@@ -33,19 +33,19 @@ Every strategy decision is filtered through "does this serve #1?" first. The con
 
 | Day | Primary slot | Fallback / substitute |
 |---|---|---|
-| **Mon** | KIR Podcast Promo (new episode) | — |
-| **Tue** | **Inside the Industry — News (NF)** | IS (synthesis) if news slow |
-| **Wed** | **Inside the Industry — News (NF)** or **The Playbook** | Whichever is timelier |
-| **Thu** | **Inside the Industry — News (NF)** | — |
-| **Fri** | **AI Tip of the Week → tapthis.co** | — |
-| **Sat** | **Inside the Industry — News (NF)** | IA (Access) when D.J. attended something notable |
-| _Sun_ | _Off_ | — |
+| **Mon** | KIR Podcast Promo (new episode) | - |
+| **Tue** | **Inside the Industry - News (NF)** | IS (synthesis) if news slow |
+| **Wed** | **Inside the Industry - News (NF)** or **The Playbook** | Whichever is timelier |
+| **Thu** | **Inside the Industry - News (NF)** | - |
+| **Fri** | **AI Tip of the Week → tapthis.co** | - |
+| **Sat** | **Inside the Industry - News (NF)** | IA (Access) when D.J. attended something notable |
+| _Sun_ | _Off_ | - |
 
 **Weekly volume:** 6 posts, ~67% news-commentary focus.
 
 - **4 NF slots/week** minimum (Tue, Wed-when-news, Thu, Sat)
 - **1 KIR podcast promo/week** (Mon)
-- **1 AI Tip of the Week/week** (Fri) — the sole slot with a direct tapthis.co CTA
+- **1 AI Tip of the Week/week** (Fri) - the sole slot with a direct tapthis.co CTA
 - **Playbook** = conditional Wed slot (~2x/month when scenario content is timelier than news)
 - **IA (Access)** = opportunistic Sat substitute (~1–2x/month)
 - **IS (Synthesis)** = quiet-week backfill (~2x/month)
@@ -79,8 +79,8 @@ Personal accounts dramatically outperform brand accounts for Kale recruiting. Me
 | **Personal Facebook** | 2,878 | 74.2% Chicago, +122% engagement growth | **#2** |
 | **Personal Instagram** | 7,569 | 16,304 views/30 days, 72.2% non-follower reach | **#3** |
 | **Brand YouTube** (Keeping It Real) | 2,440 | Largest brand audience, 700-episode archive | **#4** |
-| **TikTok (brand)** | — | Strongest engagement-rate surface for IIR content | utility |
-| **Facebook (brand)** | — | Secondary distribution | utility |
+| **TikTok (brand)** | - | Strongest engagement-rate surface for IIR content | utility |
+| **Facebook (brand)** | - | Secondary distribution | utility |
 
 See [`docs/platform-strategy.md`](docs/platform-strategy.md) for the full distribution cascade.
 
@@ -120,7 +120,7 @@ Full spec (metrics per stage, attribution model, Sunday ritual, alert thresholds
 | AI Agent Minute | 100 | Frozen |
 | Podcast promos | 1 | Active, 1x/week |
 
-**Content runway:** Inside the Industry is effectively unlimited — NF is fed by a daily news brief ([`scripts/news_brief.py`](scripts/news_brief.py)), IS is fed by the 700-episode podcast archive, IA by D.J.'s actual industry calendar. Pre-drafted IS queue target: ~6 weeks for slow-news-week backfill.
+**Content runway:** Inside the Industry is effectively unlimited - NF is fed by a daily news brief ([`scripts/news_brief.py`](scripts/news_brief.py)), IS is fed by the 700-episode podcast archive, IA by D.J.'s actual industry calendar. Pre-drafted IS queue target: ~6 weeks for slow-news-week backfill.
 
 ---
 
@@ -138,13 +138,13 @@ Success, reversal, and adjustment criteria are defined in [`docs/strategy/2026-0
 
 ## Quick Links
 
-- **[2026-04-18 Pillar Pivot Decision](docs/strategy/2026-04-18-pillar-pivot-decision.md) — current governing document**
-- [2026-04-18 Cross-Surface Analytics Synthesis](docs/analytics/2026-04-18-cross-surface-synthesis.md) — the data that drove the pivot
-- [Recruiting Funnel Dashboard (spec)](docs/analytics/recruiting-funnel-dashboard.md) — metrics per stage + Sunday review ritual
-- [Master Calendar](schedule/master-calendar.md) — post-pivot schedule through 2026-07-19
+- **[2026-04-18 Pillar Pivot Decision](docs/strategy/2026-04-18-pillar-pivot-decision.md) - current governing document**
+- [2026-04-18 Cross-Surface Analytics Synthesis](docs/analytics/2026-04-18-cross-surface-synthesis.md) - the data that drove the pivot
+- [Recruiting Funnel Dashboard (spec)](docs/analytics/recruiting-funnel-dashboard.md) - metrics per stage + Sunday review ritual
+- [Master Calendar](schedule/master-calendar.md) - post-pivot schedule through 2026-07-19
 - [Content → Recruiting Integration](docs/content-recruiting-integration.md)
-- [Editorial Standards](docs/editorial-standards.md) — required reading before writing any script
-- [Inside the Industry Standard](docs/series/inside-the-industry-standard.md) — primary series standard
+- [Editorial Standards](docs/editorial-standards.md) - required reading before writing any script
+- [Inside the Industry Standard](docs/series/inside-the-industry-standard.md) - primary series standard
 - [The Playbook Format Guide](docs/the-playbook-format.md)
 - [Platform Strategy](docs/platform-strategy.md)
 - [Filming Guide](docs/filming-guide.md) *(to be updated for 4x/week reactive cadence)*

@@ -18,7 +18,7 @@ What's your current one-line answer to "why should I join your team over any oth
 
 ### INSTAGRAM
 
-If your only recruiting differentiator is commission split, you've already lost — someone will always go lower 📉
+If your only recruiting differentiator is commission split, you've already lost - someone will always go lower 📉
 
 The agents worth recruiting aren't choosing teams based on percentages. They're choosing based on whether they believe your team will actually make them better.
 

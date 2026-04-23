@@ -18,7 +18,7 @@ AI should amplify your voice, not replace it. Does your current AI content actua
 
 ### INSTAGRAM
 
-People trust AI content 40% less when they can tell a robot wrote it — here's how to fix that ⬇️
+People trust AI content 40% less when they can tell a robot wrote it - here's how to fix that ⬇️
 
 Most agents use AI to REPLACE their voice. Top producers use it to AMPLIFY their voice. Completely different results.
 
@@ -40,7 +40,7 @@ POV: Your AI content sounds like every other agent's because you're using it wro
 
 Most real estate professionals are unknowingly sabotaging their personal brand with AI-generated content.
 
-The issue isn't using AI — it's HOW they're using it. When prospects can immediately identify AI-written posts, trust drops significantly. In an industry built entirely on relationships and authenticity, this is marketing suicide.
+The issue isn't using AI - it's HOW they're using it. When prospects can immediately identify AI-written posts, trust drops significantly. In an industry built entirely on relationships and authenticity, this is marketing suicide.
 
 I see agents asking AI to "write a post about real estate" and getting frustrated when it sounds generic. Meanwhile, top producers are training AI on their existing writing samples first. They paste 3-5 pieces of content they've personally written, ask Claude to analyze their tone and style, then request content in that exact voice.
 

@@ -12,7 +12,7 @@ Real estate tech analyst Chris Linsell just said what veteran agents are thinkin
 
 The NAR's biggest opportunity isn't member perks or marketing campaigns. It's partnering with state regulators to raise licensing standards BEFORE agents enter the market, not just enforce ethics after they mess up.
 
-If you've watched part-timers ghost clients mid-transaction while your reputation suffers by association, this isn't controversial—it's overdue.
+If you've watched part-timers ghost clients mid-transaction while your reputation suffers by association, this isn't controversial-it's overdue.
 
 What do you think? Should it be harder to get licensed as a real estate agent?
 

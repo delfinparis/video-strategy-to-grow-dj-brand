@@ -10,7 +10,7 @@ Jill Preschel has closed over $2 billion in luxury NYC real estate. Her secret? 
 
 Think about it: A buyer walks in with $8 million liquid and needs to close in 30 days. Most agents start salivating. But Jill's asking different questions. Is this person actually ready? Because urgency without clarity becomes a lawsuit. Budget without alignment becomes a deal that dies at attorney review.
 
-She's not gatekeeping—she's protecting her reputation. That restraint gets her the next referral from developers who know she won't waste their time with tire-kickers in designer shoes.
+She's not gatekeeping-she's protecting her reputation. That restraint gets her the next referral from developers who know she won't waste their time with tire-kickers in designer shoes.
 
 Top producers don't close every lead. They close the RIGHT leads. The ones who walk away from wrong clients get invited to tables where the right ones sit.
 
@@ -46,11 +46,11 @@ Jill Preschel has transacted over $2 billion in luxury NYC real estate. Her coun
 
 Here's the scenario: A qualified buyer with $8 million liquid needs to close in 30 days. Most agents see dollar signs. But Preschel evaluates readiness over resources.
 
-"Urgency without clarity is a lawsuit waiting to happen. Budget without alignment is a deal that dies at attorney review," she explains. She's not being selective to be difficult—she's protecting her reputation and long-term relationships.
+"Urgency without clarity is a lawsuit waiting to happen. Budget without alignment is a deal that dies at attorney review," she explains. She's not being selective to be difficult-she's protecting her reputation and long-term relationships.
 
 This restraint strategy has positioned her as the go-to agent for developers who trust she won't waste time on unqualified prospects, regardless of their net worth.
 
-The best producers understand that saying no to wrong-fit clients creates space for the right opportunities. Quality over quantity isn't just a motto—it's a business model.
+The best producers understand that saying no to wrong-fit clients creates space for the right opportunities. Quality over quantity isn't just a motto-it's a business model.
 
 What criteria do you use to qualify clients beyond their budget?
 

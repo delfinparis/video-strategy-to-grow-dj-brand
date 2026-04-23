@@ -46,11 +46,11 @@ The gap between 5-day sales and 90-day sits? Always preparation.
 
 Here's what separates homes that sell in 5 days from those that languish for 90: preparation. Yet most real estate professionals are still handing sellers generic checklists and hoping for the best.
 
-The challenge isn't just that sellers are emotionally attached to their homes—it's that they genuinely don't know what today's buyers prioritize. They'll spend thousands on improvements that don't move the needle while ignoring the details that actually drive offers.
+The challenge isn't just that sellers are emotionally attached to their homes-it's that they genuinely don't know what today's buyers prioritize. They'll spend thousands on improvements that don't move the needle while ignoring the details that actually drive offers.
 
 D.J. Paris from Keeping It Real Podcast shares a strategic approach that's changing how top producers handle pre-listing preparation. Instead of general advice, they're using AI tools like Claude to create comprehensive "Seller Prep Playbooks" tailored to their specific markets and price points.
 
-The framework is brilliant in its simplicity: request the 10 highest-ROI improvements, room-by-room decluttering protocols, current market buyer preferences, and the three most costly seller mistakes. Package it professionally, present it at listing appointments, and watch your credibility—and results—transform.
+The framework is brilliant in its simplicity: request the 10 highest-ROI improvements, room-by-room decluttering protocols, current market buyer preferences, and the three most costly seller mistakes. Package it professionally, present it at listing appointments, and watch your credibility-and results-transform.
 
 A prepared home doesn't just sell faster; it positions you as the strategic advisor rather than just another agent with opinions.
 

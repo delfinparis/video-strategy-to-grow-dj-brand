@@ -18,15 +18,15 @@ Karina Chavez referenced in Data Source as a related pattern; her 2025-12-09 KIR
 
 ## Findings
 
-### CRITICAL — none
+### CRITICAL - none
 
-### HIGH — none
+### HIGH - none
 
-### MEDIUM — WOW line + Data Source format
+### MEDIUM - WOW line + Data Source format
 
 Both polished in this rewrite.
 
-### LOW — Shareable Moment metadata
+### LOW - Shareable Moment metadata
 
 Renamed from "Strongest Line" per series standard.
 

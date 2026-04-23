@@ -1,4 +1,4 @@
-# AI Agent Minute — Series Standard
+# AI Agent Minute - Series Standard
 
 This document defines the per-series rules for the **AI Agent Minute** series. It builds on [`editorial-standards.md`](../editorial-standards.md), which is the universal standard. Everything in the universal standard applies here. This document only adds what is specific to AI Agent Minute.
 
@@ -6,10 +6,10 @@ This document defines the per-series rules for the **AI Agent Minute** series. I
 
 **Source lineage.** This standard is adapted from the [KIR POLISH_PROMPT.md](https://github.com/delfinparis/keeping-it-real-content-system/blob/main/content/ai-tips-scripts/POLISH_PROMPT.md). Four things from KIR are explicitly not adopted in this repo:
 
-1. The fixed brand intro (*"This is D.J. Paris with Keeping It Real Podcast and Kale Realty..."*) — D.J. no longer uses brand intros.
-2. The `[ON-SCREEN: ...]` callouts — captions.ai auto-captions audio only; written-in overlays do not render.
-3. The "plausible specific" numbers rule — all numbers in this repo must trace to a source (universal Rule 1).
-4. The "specific question" CTA — every AI Agent Minute script ends on a "Here's what you do now" close (universal Rule 4).
+1. The fixed brand intro (*"This is D.J. Paris with Keeping It Real Podcast and Kale Realty..."*) - D.J. no longer uses brand intros.
+2. The `[ON-SCREEN: ...]` callouts - captions.ai auto-captions audio only; written-in overlays do not render.
+3. The "plausible specific" numbers rule - all numbers in this repo must trace to a source (universal Rule 1).
+4. The "specific question" CTA - every AI Agent Minute script ends on a "Here's what you do now" close (universal Rule 4).
 
 Em dashes from the original KIR prompt have been stripped wherever adapted; see universal Rule 5.
 
@@ -31,7 +31,7 @@ Every AI Agent Minute script must include all of these. This is a superset of th
 
 ### 1. A real AI tool, named specifically
 
-Not "AI." Not "an AI assistant." The exact tool: Claude, ChatGPT, Perplexity, Gemini, Cursor, whatever. Name it. Reference the version if it matters (e.g., Claude Opus for long context, ChatGPT o1 for reasoning). If the script does not name a specific tool, it is not AI Agent Minute — it is a mindset piece, and belongs in a different series.
+Not "AI." Not "an AI assistant." The exact tool: Claude, ChatGPT, Perplexity, Gemini, Cursor, whatever. Name it. Reference the version if it matters (e.g., Claude Opus for long context, ChatGPT o1 for reasoning). If the script does not name a specific tool, it is not AI Agent Minute - it is a mindset piece, and belongs in a different series.
 
 ### 2. The exact prompt, shown in quotes in the spoken line
 
@@ -62,17 +62,17 @@ One sentence near the reframe that names why this tip matters this month, not in
 AI Agent Minute scripts must move through these beats in this order. No brand intro. No "See you next time" sign-off. The tip itself is the sign-off.
 
 ```
-1. HOOK              — First spoken sentence. Stops scroll. Opens a loop. No warm-up.
-2. MIRROR MOMENT     — Name the specific business pain, with time/place, in second person.
-3. AGITATION         — What the pain is costing. Specific, not abstract.
-4. THE AI FIX        — Tool named. Exact prompt delivered in spoken quotes.
-5. REFRAME           — Why this matters. Why now. One credibility signal max.
-6. HERE'S WHAT YOU DO NOW — Exact action at the viewer's own life. Executable in the next hour.
+1. HOOK              - First spoken sentence. Stops scroll. Opens a loop. No warm-up.
+2. MIRROR MOMENT     - Name the specific business pain, with time/place, in second person.
+3. AGITATION         - What the pain is costing. Specific, not abstract.
+4. THE AI FIX        - Tool named. Exact prompt delivered in spoken quotes.
+5. REFRAME           - Why this matters. Why now. One credibility signal max.
+6. HERE'S WHAT YOU DO NOW - Exact action at the viewer's own life. Executable in the next hour.
 ```
 
 ### Why this order
 
-The hook earns attention in the first 1.5 seconds, before the viewer knows or cares who D.J. is. The mirror moment makes them feel *seen* — they are not being lectured to, they are being described. The agitation makes them need the fix. The fix is the exact prompt they came for — the moment the video has to earn. The reframe elevates the tactic into a shift. The close hands them a specific action they can execute in the next hour, which is what drives saves (they come back to it) and shares (they send it to a colleague with the same problem).
+The hook earns attention in the first 1.5 seconds, before the viewer knows or cares who D.J. is. The mirror moment makes them feel *seen* - they are not being lectured to, they are being described. The agitation makes them need the fix. The fix is the exact prompt they came for - the moment the video has to earn. The reframe elevates the tactic into a shift. The close hands them a specific action they can execute in the next hour, which is what drives saves (they come back to it) and shares (they send it to a colleague with the same problem).
 
 Think of it like a late-night monologue: the joke lands first, the host owns the room, then the content rolls.
 
@@ -88,7 +88,7 @@ Think of it like a late-night monologue: the joke lands first, the host owns the
 | Here's what you do now | 5-8 | 12-20 |
 | **Total** | **~60s** | **~130-150 words** |
 
-If the draft runs longer, the agitation and reframe are usually the padding. Cut there first. The prompt text itself should rarely be cut — it is the reason the video exists.
+If the draft runs longer, the agitation and reframe are usually the padding. Cut there first. The prompt text itself should rarely be cut - it is the reason the video exists.
 
 ---
 
@@ -101,9 +101,9 @@ Re-hooks that work for this series:
 - *"And here is the part almost every agent misses."*
 - *"But the thing nobody tells you is what happens next."*
 - *"This is the step every agent skips, and it is the one that changes the outcome."*
-- *"Stay with me for ten more seconds — this is the part you're going to screenshot."*
+- *"Stay with me for ten more seconds - this is the part you're going to screenshot."*
 
-Note: "screenshot" is directive but not an engagement ask — it tells the viewer what to do for themselves, not for the channel. Compare to "save this," which is banned.
+Note: "screenshot" is directive but not an engagement ask - it tells the viewer what to do for themselves, not for the channel. Compare to "save this," which is banned.
 
 ---
 
@@ -119,13 +119,13 @@ Every AI Agent Minute draft gets scored on these seven dimensions, 1-10, before 
 | **Emotional Arc** | Does the script move the viewer from curious → seen → uncomfortable → hopeful → motivated → committed? | Every beat shifts emotion. No flat patches. |
 | **Contrast Structure** | Is there a "most agents vs. top producers" moment that creates in-group desire? | At least one contrast line in the hook, problem, or reframe. |
 | **Shareability** | Is there one moment so good the viewer thinks "someone I know needs this"? | One explicit shareable moment flagged in metadata, in the first 30 seconds. |
-| **Voice Match** | Does it sound like D.J. — warm, direct, peer-level — with zero AI-speak from the banned list? | Reads aloud smoothly. Contractions. No passive voice. No banned words. No em dashes. |
+| **Voice Match** | Does it sound like D.J. - warm, direct, peer-level - with zero AI-speak from the banned list? | Reads aloud smoothly. Contractions. No passive voice. No banned words. No em dashes. |
 
 **Score threshold for filming:** a script must score 7/10 or higher on every dimension AND pass every item on the universal pre-commit checklist. A 6 on any dimension means rewrite, not film.
 
 ---
 
-## Script metadata — required front matter
+## Script metadata - required front matter
 
 Every AI Agent Minute script must carry this front matter and these in-doc sections:
 

@@ -1,4 +1,4 @@
-# Agent Tip of the Day — Series Standard
+# Agent Tip of the Day - Series Standard
 
 This document defines the per-series rules for the **Agent Tip of the Day** series. It builds on [`editorial-standards.md`](../editorial-standards.md), which is the universal standard. Everything in the universal standard applies here. This document only adds what is specific to Agent Tip of the Day.
 
@@ -8,7 +8,7 @@ This document defines the per-series rules for the **Agent Tip of the Day** seri
 
 ## What Agent Tip of the Day is
 
-A short-form video series where D.J. delivers one specific, actionable tip drawn from a real podcast guest interview. Every tip is guest-sourced — meaning it came from a named person on a specific episode, not from a generic observation or a composite. The series positions D.J. as the curator of 700+ conversations, handing over the single most useful thing each guest said.
+A short-form video series where D.J. delivers one specific, actionable tip drawn from a real podcast guest interview. Every tip is guest-sourced - meaning it came from a named person on a specific episode, not from a generic observation or a composite. The series positions D.J. as the curator of 700+ conversations, handing over the single most useful thing each guest said.
 
 **Core promise to the viewer:** *In 30 to 45 seconds, you'll leave with one thing a real top producer does that you can try today.*
 
@@ -30,13 +30,13 @@ The Data Source section must include:
 
 If the tip cannot be attributed to a specific guest, it belongs in Inside the Industry (synthesis type), not Agent Tip.
 
-### 2. The "Actual Tip" gate — exact words, exact action, or exact frame
+### 2. The "Actual Tip" gate - exact words, exact action, or exact frame
 
 This series is the strictest application of the universal Rule 0 "Actual Tip" gate. Every script must deliver one of:
 
-- **The exact words to say** — a script, a sentence, a subject line the viewer can copy
-- **The exact action to take** — a specific step with a specific trigger ("when X happens, do Y")
-- **The exact frame shift** — a reframe that changes a decision the viewer is about to make
+- **The exact words to say** - a script, a sentence, a subject line the viewer can copy
+- **The exact action to take** - a specific step with a specific trigger ("when X happens, do Y")
+- **The exact frame shift** - a reframe that changes a decision the viewer is about to make
 
 "Build trust" is not a tip. "Keep a white duvet in your trunk and drape it over the master bed before every showing" is a tip. The specificity is the series.
 
@@ -44,10 +44,10 @@ This series is the strictest application of the universal Rule 0 "Actual Tip" ga
 
 Every script should identify one reason a viewer would share it. Document this in the frontmatter as `share_trigger`. Common triggers for this series:
 
-- **"I do that too"** — the tip validates something the viewer already does
-- **"I never thought of that"** — the tip is surprising and immediately usable
-- **"My colleague needs this"** — the tip solves a problem the viewer sees others having
-- **"This is exactly my problem"** — the tip names a specific pain and solves it
+- **"I do that too"** - the tip validates something the viewer already does
+- **"I never thought of that"** - the tip is surprising and immediately usable
+- **"My colleague needs this"** - the tip solves a problem the viewer sees others having
+- **"This is exactly my problem"** - the tip names a specific pain and solves it
 
 ---
 
@@ -56,11 +56,11 @@ Every script should identify one reason a viewer would share it. Document this i
 Agent Tip of the Day scripts move through these beats in this order.
 
 ```
-1. HOOK        — First spoken sentence. Stops scroll. Opens a loop.
-2. SETUP       — Who is the guest? What's the context? (2-3 sentences max)
-3. INSIGHT     — The tip itself. Exact words, exact action, or exact frame.
-4. REFRAME     — Why this matters. Connect to the viewer's business.
-5. CLOSE       — "Here's what you do now." Specific, immediate action.
+1. HOOK        - First spoken sentence. Stops scroll. Opens a loop.
+2. SETUP       - Who is the guest? What's the context? (2-3 sentences max)
+3. INSIGHT     - The tip itself. Exact words, exact action, or exact frame.
+4. REFRAME     - Why this matters. Connect to the viewer's business.
+5. CLOSE       - "Here's what you do now." Specific, immediate action.
 ```
 
 ### Beat length guidance (for a 40-second script)
@@ -76,7 +76,7 @@ Agent Tip of the Day scripts move through these beats in this order.
 
 ### Why this order
 
-The hook earns attention. The setup gives just enough context so the viewer knows who said this and why it matters (no more). The insight IS the video — the single specific thing the viewer came for. The reframe elevates. The close hands them something to do right now.
+The hook earns attention. The setup gives just enough context so the viewer knows who said this and why it matters (no more). The insight IS the video - the single specific thing the viewer came for. The reframe elevates. The close hands them something to do right now.
 
 ---
 
@@ -113,7 +113,7 @@ One action. One sentence describing it. Executable in the next hour.
 
 ---
 
-## Script metadata — required front matter
+## Script metadata - required front matter
 
 ```markdown
 ---

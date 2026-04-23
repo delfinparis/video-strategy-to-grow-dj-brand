@@ -44,7 +44,7 @@ When Jeff Biebuyck's luxury market in Calabasas started contracting, he faced th
 
 Most agents chose to fight harder for fewer deals in their precious zip codes. Jeff took a different approach. He leveraged Zillow Flex not as a lead generation tool, but as a geographic expansion strategy to position his team across Greater Los Angeles.
 
-The insight here isn't about the platform—it's about the mindset shift from territory defender to business owner. While competitors waited for their micro-markets to recover, Jeff's team was actively closing transactions in six different areas.
+The insight here isn't about the platform-it's about the mindset shift from territory defender to business owner. While competitors waited for their micro-markets to recover, Jeff's team was actively closing transactions in six different areas.
 
 His exact words: "Zillow honestly saved our team... we were able to diversify and spread out across all of Greater Los Angeles."
 

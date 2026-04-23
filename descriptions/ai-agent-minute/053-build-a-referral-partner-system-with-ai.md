@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Most real estate agents have a "network of people who don't call you back" — and it's because they only think about referral partners when they need something, not when they can give something.
+Most real estate agents have a "network of people who don't call you back" - and it's because they only think about referral partners when they need something, not when they can give something.
 
 D.J. Paris breaks down why the best lead sources aren't built on asking for referrals, but on systematically giving value first. When you flip the script from "what can you do for me" to "what can I do for you," those lenders, attorneys, and financial advisors suddenly start picking up your calls.
 
@@ -20,7 +20,7 @@ Who's your most reliable referral source right now, and what type of professiona
 
 Stop asking for referrals. Start building referral relationships. There's a massive difference. 💡
 
-Most agents only think about their "referral partners" when they need something — which is why every interaction feels transactional.
+Most agents only think about their "referral partners" when they need something - which is why every interaction feels transactional.
 
 D.J. Paris shows how to use AI to build a 12-month system that focuses on giving value to lenders, attorneys, and financial advisors BEFORE you ever ask for anything. The result? A network that actually calls you back.
 
@@ -40,9 +40,9 @@ POV: Your "referral partners" are actually just people who don't call you back �
 
 Here's the uncomfortable truth: Most real estate professionals have a "network of people who don't call you back."
 
-The reason? They approach referral relationships backwards — thinking about partners only when they need something, not when they can give something. Every interaction becomes transactional. The lender feels the ask coming. The attorney keeps their referrals to themselves. The financial advisor stops taking your calls.
+The reason? They approach referral relationships backwards - thinking about partners only when they need something, not when they can give something. Every interaction becomes transactional. The lender feels the ask coming. The attorney keeps their referrals to themselves. The financial advisor stops taking your calls.
 
-D.J. Paris from Keeping It Real Podcast nails the distinction: "Most agents ask for referrals. Top producers build referral relationships — which is a completely different thing." The key is systematizing your value-giving using AI tools like Claude to create 12-month outreach plans that focus on what you can offer before you ever make an ask.
+D.J. Paris from Keeping It Real Podcast nails the distinction: "Most agents ask for referrals. Top producers build referral relationships - which is a completely different thing." The key is systematizing your value-giving using AI tools like Claude to create 12-month outreach plans that focus on what you can offer before you ever make an ask.
 
 When you flip from transaction to relationship, warm leads start flowing on schedule instead of by accident. The difference between hoping for referrals and systematically earning them is the difference between struggling and scaling.
 

@@ -42,7 +42,7 @@ Should produce the full brief with ranked top 5 stories and angles. First run co
 
 ## Daily usage
 
-### Option A — Manual (simplest)
+### Option A - Manual (simplest)
 
 ```bash
 cd ~/video-strategy-to-grow-dj-brand
@@ -52,7 +52,7 @@ open data/news-briefs/$(date +%Y-%m-%d).md
 
 Run each morning. Scan the top 5. Pick 1 for that day's NF script (if Tue/Wed/Thu/Sat per the calendar).
 
-### Option B — macOS launchd (automated)
+### Option B - macOS launchd (automated)
 
 Create `~/Library/LaunchAgents/com.djparis.newsbrief.plist`:
 
@@ -108,9 +108,9 @@ The script tracks which story links it has already surfaced in prior runs and sk
 
 Each `YYYY-MM-DD.md` file contains:
 
-1. **Top candidates for NF scripts** (LLM-ranked) — 5 stories with relevance scores and proposed D.J. angles
-2. **Trending** — stories appearing in 3+ outlets (industry-wide coverage = high signal)
-3. **Full story list** — all deduplicated stories in the lookback window, for manual scanning
+1. **Top candidates for NF scripts** (LLM-ranked) - 5 stories with relevance scores and proposed D.J. angles
+2. **Trending** - stories appearing in 3+ outlets (industry-wide coverage = high signal)
+3. **Full story list** - all deduplicated stories in the lookback window, for manual scanning
 
 ---
 
@@ -167,4 +167,4 @@ The LLM triage prompt lives in `scripts/news_brief.py` as `TRIAGE_PROMPT`. If th
 4. **Post:** crosspost to all 6 surfaces
 5. **Log:** add the new post to `data/publishing-log.csv`
 
-The brief never writes scripts for you — it surfaces what's worth writing about.
+The brief never writes scripts for you - it surfaces what's worth writing about.

@@ -12,7 +12,7 @@ Amanda Pendleton from Zillow breaks down the psychology: white linens make rooms
 
 Her advice? Keep a $10 white duvet in your trunk. Five minutes before photos, swap out the floral comforter for crisp white. It's staging 101, but almost nobody's doing it.
 
-You're already telling sellers to clear counters and hide family photos. This is the same principle — except you get the competitive advantage right now.
+You're already telling sellers to clear counters and hide family photos. This is the same principle - except you get the competitive advantage right now.
 
 What's the simplest staging hack that's made the biggest difference in your listings?
 

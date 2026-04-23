@@ -8,7 +8,7 @@
 
 10 months of mailing postcards. Zero calls. Jay Cannone was about to throw in the towel on his marketing efforts and maybe his entire real estate career.
 
-Then month 11 happened. A luxury seller called him out of the blue. When Jay asked why they chose him, the response floored him: "Anybody who sends me these postcards as consistently as you've done for the past ten months—that's who I want to work with."
+Then month 11 happened. A luxury seller called him out of the blue. When Jay asked why they chose him, the response floored him: "Anybody who sends me these postcards as consistently as you've done for the past ten months-that's who I want to work with."
 
 It wasn't about having the prettiest postcard or the cleverest copy. The seller had been watching, testing, waiting to see if Jay would quit like everyone else. That one deal changed everything for Jay, who's now a top 1% producer.
 
@@ -22,7 +22,7 @@ What marketing campaign did you abandon right before it could have paid off?
 
 He mailed postcards for 10 months. Got nothing. Zero calls. Almost went bankrupt. 💔
 
-Month 11 changed everything. A luxury seller called and said: "Anybody who sends me these postcards as consistently as you've done—that's who I want to work with."
+Month 11 changed everything. A luxury seller called and said: "Anybody who sends me these postcards as consistently as you've done-that's who I want to work with."
 
 Jay Cannone is now a top 1% producer. The lesson? Your prospects ARE watching. They're just not ready yet. Consistency = credibility.
 
@@ -42,7 +42,7 @@ What marketing did you quit on too early? Drop it below 👇
 
 Jay Cannone mailed postcards for ten consecutive months and received exactly zero calls. He was ready to quit his marketing efforts entirely.
 
-Then month eleven arrived. A luxury property seller called him directly. When Jay asked why they chose him over other agents, the response was telling: "Anybody who sends me these postcards as consistently as you've done for the past ten months—that's who I want to work with."
+Then month eleven arrived. A luxury property seller called him directly. When Jay asked why they chose him over other agents, the response was telling: "Anybody who sends me these postcards as consistently as you've done for the past ten months-that's who I want to work with."
 
 The seller hadn't been ignoring Jay's postcards. They had been evaluating his consistency, testing whether he would persist when others would quit. That single transaction launched Jay into the top 1% of producers.
 

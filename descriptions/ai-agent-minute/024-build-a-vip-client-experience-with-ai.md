@@ -8,9 +8,9 @@
 
 Twenty percent of your past clients generate eighty percent of your referrals. Yet most agents treat their biggest advocates exactly like every other transaction. That's leaving serious money on the table.
 
-Your best clients aren't just customers—they're unpaid marketing partners who talk about you at dinner parties and send referrals without being asked. But they need more than standard service to keep championing your business.
+Your best clients aren't just customers-they're unpaid marketing partners who talk about you at dinner parties and send referrals without being asked. But they need more than standard service to keep championing your business.
 
-D.J. Paris from Keeping It Real Podcast breaks down how to use AI to build a systematic VIP experience that turns your top advocates into referral machines. It's not about more marketing—it's about genuine appreciation delivered consistently.
+D.J. Paris from Keeping It Real Podcast breaks down how to use AI to build a systematic VIP experience that turns your top advocates into referral machines. It's not about more marketing-it's about genuine appreciation delivered consistently.
 
 Which past client would send you referrals all year if you just stayed in better touch?
 
@@ -22,7 +22,7 @@ Your best clients generate 80% of referrals but get the same service as everyone
 
 Most agents treat all clients equally. Top producers give their biggest advocates a completely different VIP experience.
 
-Use AI to design quarterly check-ins, value-add touchpoints, and milestone moments that make your best clients feel genuinely appreciated—not marketed to.
+Use AI to design quarterly check-ins, value-add touchpoints, and milestone moments that make your best clients feel genuinely appreciated-not marketed to.
 
 Who's that one past client who would refer you to everyone if you just stayed in better touch? Drop their first name below 👇
 
@@ -42,7 +42,7 @@ Here's an uncomfortable truth: 20% of your past clients are responsible for 80% 
 
 Yet most agents serve these VIP clients at exactly the same level as every other transaction. That's one of the most expensive mistakes in real estate.
 
-Your best clients don't need more marketing—they need genuine appreciation delivered consistently. They need quarterly check-ins that add value, milestone moments that make them feel special, and touchpoints throughout the year that remind them why they chose you.
+Your best clients don't need more marketing-they need genuine appreciation delivered consistently. They need quarterly check-ins that add value, milestone moments that make them feel special, and touchpoints throughout the year that remind them why they chose you.
 
 The solution isn't working harder; it's working smarter with systematic appreciation. AI can help you design and deliver a VIP experience that keeps your best advocates engaged year-round.
 

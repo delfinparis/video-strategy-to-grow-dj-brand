@@ -40,13 +40,13 @@ POV: You've been doing social media the hard way this whole time 😅 90 minutes
 
 ### LINKEDIN
 
-The statistics are telling: most real estate professionals abandon their social media efforts within three weeks. But it's not a commitment issue—it's a workflow problem.
+The statistics are telling: most real estate professionals abandon their social media efforts within three weeks. But it's not a commitment issue-it's a workflow problem.
 
 The daily grind of content creation is unsustainable. Sitting down each day wondering "what should I post today" leads to decision fatigue, mediocre content, and eventual burnout. This approach treats symptoms, not the root cause.
 
-Strategic batching changes everything. Dedicate 90 minutes monthly to work with AI tools like Claude. Generate comprehensive content plans—30 posts with hooks, body copy, and calls-to-action tailored to your market. Select the strongest 20, refine them, and schedule your entire month.
+Strategic batching changes everything. Dedicate 90 minutes monthly to work with AI tools like Claude. Generate comprehensive content plans-30 posts with hooks, body copy, and calls-to-action tailored to your market. Select the strongest 20, refine them, and schedule your entire month.
 
-This isn't just about efficiency—it's about consistency. Top-producing agents don't post when inspiration strikes; they maintain systematic presence. AI democratizes this capability, making professional-level content planning accessible to every agent.
+This isn't just about efficiency-it's about consistency. Top-producing agents don't post when inspiration strikes; they maintain systematic presence. AI democratizes this capability, making professional-level content planning accessible to every agent.
 
 What's your current posting frequency, and what's preventing you from being more consistent with your content strategy?
 

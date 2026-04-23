@@ -42,11 +42,11 @@ POV: You're negotiating without a plan while top producers already mapped out 3 
 
 After interviewing 700+ real estate professionals, I've noticed a pattern that separates top producers from everyone else.
 
-Most agents approach negotiations the same way students approach pop quizzes — they wing it and hope for the best. They start thinking about strategy while they're already on the call, juggling client priorities and market dynamics in real time under pressure.
+Most agents approach negotiations the same way students approach pop quizzes - they wing it and hope for the best. They start thinking about strategy while they're already on the call, juggling client priorities and market dynamics in real time under pressure.
 
 Top producers do something different. They treat every negotiation like a chess game, thinking several moves ahead before they ever pick up the phone. They map out scenarios, prepare talking points for each possibility, and walk into those high-stakes conversations with a clear game plan.
 
-The difference isn't talent or experience — it's preparation. Your clients hired you to think clearly when things get complicated. That clarity comes from doing the hard thinking before the pressure arrives, not during it.
+The difference isn't talent or experience - it's preparation. Your clients hired you to think clearly when things get complicated. That clarity comes from doing the hard thinking before the pressure arrives, not during it.
 
 Tools like Claude can help you build that preparation system. Ten minutes of strategic planning can save hours of back-and-forth and potentially thousands of dollars for your clients.
 

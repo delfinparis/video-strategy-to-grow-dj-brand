@@ -20,17 +20,17 @@
 
 ## Findings
 
-### CRITICAL — none. This is already a clean script.
+### CRITICAL - none. This is already a clean script.
 
-### HIGH — none
+### HIGH - none
 
-### MEDIUM — WOW line and Data Source format
+### MEDIUM - WOW line and Data Source format
 
 **M1.** Auto-generated WOW line was redundant ("exact words to say when here's the play when you get a lowball offer"). Polished to specific tactical claim.
 
 **M2.** Data Source was prose-style. Reformatted to standard bullet format with explicit framing that the exact phrase is synthesized, not a direct guest quote.
 
-### LOW — Shareable Moment metadata
+### LOW - Shareable Moment metadata
 
 Was "Strongest Line." Renamed to "Shareable Moment" per series standard.
 

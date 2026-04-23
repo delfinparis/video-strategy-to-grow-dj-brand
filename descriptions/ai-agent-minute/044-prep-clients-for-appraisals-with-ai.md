@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-The low appraisal didn't kill the deal — the surprise did. 
+The low appraisal didn't kill the deal - the surprise did. 
 
 Most agents let appraisal results hit their buyers like a freight train, turning a manageable situation into a deal-killing panic. Your client calls their uncle who "knows real estate" and suddenly months of work are circling the drain.
 
-Here's the thing: prepared clients don't panic. They understand that appraisals can come in at value, above, or below — and they know the three paths forward if it's low. D.J. Paris breaks down exactly how to use AI to create an "Appraisal Scenarios" guide that keeps your deals on track.
+Here's the thing: prepared clients don't panic. They understand that appraisals can come in at value, above, or below - and they know the three paths forward if it's low. D.J. Paris breaks down exactly how to use AI to create an "Appraisal Scenarios" guide that keeps your deals on track.
 
 Two minutes of preparation can save you from losing a deal in the final stretch.
 
@@ -20,7 +20,7 @@ Have you ever lost a deal to a low appraisal that caught your buyer off guard?
 
 ### INSTAGRAM
 
-The low appraisal didn't kill the deal — the surprise did 😱
+The low appraisal didn't kill the deal - the surprise did 😱
 
 Most agents let appraisal results blindside their buyers. Cue the panic calls to family members who "know real estate" 🙄
 
@@ -44,7 +44,7 @@ POV: Your buyer gets a low appraisal and you never prepped them for it 💀 Here
 
 Here's a hard truth: Most real estate deals killed by "low appraisals" actually died from poor client preparation.
 
-The appraisal comes in below contract price. The buyer panics. They call everyone they know for opinions. Family members who haven't bought a home in 15 years suddenly become market experts. Your deal — months in the making — is now on life support.
+The appraisal comes in below contract price. The buyer panics. They call everyone they know for opinions. Family members who haven't bought a home in 15 years suddenly become market experts. Your deal - months in the making - is now on life support.
 
 The real culprit? The element of surprise. Buyers who understand appraisal scenarios ahead of time rarely panic. They know the three paths forward: renegotiate, cover the gap, or walk away with their earnest money.
 

@@ -44,7 +44,7 @@ Here's what the data shows: agents who check email before 9 AM spend an average 
 
 The top 10% of agents discovered something different years ago. They batch email processing to just two windows daily and leverage AI tools like Claude to create personalized response libraries. What used to take 90 minutes of reactive morning time now takes 5 minutes of focused processing.
 
-D.J. Paris from Keeping It Real Podcast breaks down this game-changing productivity system that can literally transform your production numbers. The fix isn't about better email management—it's about protecting your prime prospecting hours.
+D.J. Paris from Keeping It Real Podcast breaks down this game-changing productivity system that can literally transform your production numbers. The fix isn't about better email management-it's about protecting your prime prospecting hours.
 
 What time do you typically check email in the morning? And more importantly, what income-producing activity could you be doing instead?
 

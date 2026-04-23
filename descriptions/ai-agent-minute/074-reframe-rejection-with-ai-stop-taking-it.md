@@ -8,7 +8,7 @@
 
 Most real estate agents quit not because they can't sell, but because they can't handle the "nos." Here's the truth: every rejection feels personal when you're the one making the calls, but 90% of those rejections have absolutely nothing to do with you.
 
-D.J. Paris breaks down why fear of rejection isn't laziness—it's self-protection. When you start treating every "no" as a personal attack, you stop prospecting altogether. You check email instead. You reorganize your desk. Sound familiar?
+D.J. Paris breaks down why fear of rejection isn't laziness-it's self-protection. When you start treating every "no" as a personal attack, you stop prospecting altogether. You check email instead. You reorganize your desk. Sound familiar?
 
 The game-changer? Using AI to reframe those tough conversations. After a rough prospecting session, Claude can give you three alternative explanations for why someone said no that have nothing to do with your competence. It's like having a therapist for your business mindset.
 
@@ -20,7 +20,7 @@ What's the rejection that stuck with you the longest as an agent?
 
 ### INSTAGRAM
 
-Fear of rejection isn't laziness—it's self-protection, and once you understand that, you can do something about it. 💡
+Fear of rejection isn't laziness-it's self-protection, and once you understand that, you can do something about it. 💡
 
 Every "no" you get isn't about YOU, but most agents never believe that. So they stop dialing and start checking email instead. They reorganize their desks. They do anything except prospect.
 

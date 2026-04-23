@@ -1,4 +1,4 @@
-# The Playbook — Series Standard
+# The Playbook - Series Standard
 
 This document defines the per-series rules for **The Playbook** series. It builds on [`editorial-standards.md`](../editorial-standards.md), which is the universal standard. Everything in the universal standard applies here. This document only adds what is specific to The Playbook.
 
@@ -8,7 +8,7 @@ This document defines the per-series rules for **The Playbook** series. It build
 
 ## What The Playbook is
 
-A short-form video series built around real negotiation scenarios agents face. Each script puts the viewer in a specific moment — a lowball offer arrives, a buyer asks you to cut your commission, a listing agent won't return calls — and hands them the exact words to say and the exact reasoning behind those words. The format is SCENARIO → DON'T → DO → WHY → TRY THIS.
+A short-form video series built around real negotiation scenarios agents face. Each script puts the viewer in a specific moment - a lowball offer arrives, a buyer asks you to cut your commission, a listing agent won't return calls - and hands them the exact words to say and the exact reasoning behind those words. The format is SCENARIO → DON'T → DO → WHY → TRY THIS.
 
 **Core promise to the viewer:** *You're in this exact situation right now. Here's what to say, word for word, and why it works.*
 
@@ -24,13 +24,13 @@ Every Playbook script starts from a specific, named scenario: "You just received
 
 Vague scenarios are banned. "A difficult negotiation" is not a Playbook script. "The seller rejects your full-price offer and you need to respond in the next hour" is.
 
-### 2. The DON'T beat — what most agents do wrong
+### 2. The DON'T beat - what most agents do wrong
 
-Before delivering the right words, name the wrong response. This is the contrast structure (universal Rule 3) applied at the series level. The DON'T beat creates the mirror moment — the viewer recognizes their own default reaction and feels the need for a better one.
+Before delivering the right words, name the wrong response. This is the contrast structure (universal Rule 3) applied at the series level. The DON'T beat creates the mirror moment - the viewer recognizes their own default reaction and feels the need for a better one.
 
 The DON'T must be specific. Not "don't be aggressive." Instead: "Don't fire back with 'my client won't accept anything under asking.' That kills the conversation."
 
-### 3. The DO beat — exact words in quotes
+### 3. The DO beat - exact words in quotes
 
 This is the non-negotiable heart of every Playbook script. The viewer must walk away with exact phrasing they can use verbatim. Deliver the words in quotes, spoken aloud:
 
@@ -38,11 +38,11 @@ This is the non-negotiable heart of every Playbook script. The viewer must walk 
 
 If the script does not contain a quotable sentence the viewer can memorize and use in a real conversation, it is not ready.
 
-### 4. The WHY beat — the psychology behind the words
+### 4. The WHY beat - the psychology behind the words
 
 Explain why the exact phrasing works. This is what separates The Playbook from generic scripts-to-memorize content. The viewer should understand the mechanism: "This works because it keeps the door open without agreeing to the terms. You're asking for reasoning, which forces the other side to justify their position."
 
-The WHY beat also serves as the reframe — it shifts how the viewer thinks about the scenario, not just what they say in it.
+The WHY beat also serves as the reframe - it shifts how the viewer thinks about the scenario, not just what they say in it.
 
 ---
 
@@ -51,11 +51,11 @@ The WHY beat also serves as the reframe — it shifts how the viewer thinks abou
 The Playbook scripts move through these beats in this order.
 
 ```
-1. SCENARIO    — First spoken sentences. Drop the viewer mid-situation. No setup.
-2. DON'T       — What most agents do wrong (mirror moment + contrast).
-3. DO          — The exact words to say, in quotes.
-4. WHY         — The psychology. Why these specific words work.
-5. TRY THIS    — "Here's what you do now." Specific application.
+1. SCENARIO    - First spoken sentences. Drop the viewer mid-situation. No setup.
+2. DON'T       - What most agents do wrong (mirror moment + contrast).
+3. DO          - The exact words to say, in quotes.
+4. WHY         - The psychology. Why these specific words work.
+5. TRY THIS    - "Here's what you do now." Specific application.
 ```
 
 ### Beat length guidance (for a 40-second script)
@@ -71,7 +71,7 @@ The Playbook scripts move through these beats in this order.
 
 ### Why this order
 
-The scenario IS the hook — the viewer is already in this situation or will be soon. The DON'T creates the mirror moment (they've done this wrong before). The DO delivers the exact words (the reason they stopped scrolling). The WHY makes the words sticky (they understand the mechanism, so they'll remember the phrasing). The TRY THIS close gives them the next concrete step.
+The scenario IS the hook - the viewer is already in this situation or will be soon. The DON'T creates the mirror moment (they've done this wrong before). The DO delivers the exact words (the reason they stopped scrolling). The WHY makes the words sticky (they understand the mechanism, so they'll remember the phrasing). The TRY THIS close gives them the next concrete step.
 
 ---
 
@@ -79,7 +79,7 @@ The scenario IS the hook — the viewer is already in this situation or will be 
 
 - **Target: 30-45 seconds** (approximately 65-110 spoken words).
 - **Hard cap: 50 seconds** (approximately 110-125 words).
-- Playbook scripts should be tight. The scenario is pre-understood (the viewer is already living it). The words are short (one or two sentences). The why is one paragraph. If it's running long, the WHY is usually the padding — cut there first.
+- Playbook scripts should be tight. The scenario is pre-understood (the viewer is already living it). The words are short (one or two sentences). The why is one paragraph. If it's running long, the WHY is usually the padding - cut there first.
 
 ---
 
@@ -111,11 +111,11 @@ The close must reference the specific scenario so the viewer files it away for t
 
 Playbook scripts should cover these scenario categories over time. Track coverage to ensure the series doesn't cluster in one area:
 
-- **Offer negotiation** — lowball offers, multiple offers, escalation clauses, rejected offers
-- **Commission conversations** — buyer asks to cut, seller questions value, competing agent offers lower rate
-- **Agent-to-agent friction** — listing agent not responding, dual agency questions, disagreements on terms
-- **Client objections** — "I want to think about it," "My friend is an agent," "I can do this myself"
-- **Difficult conversations** — price reductions, deal falling through, inspection issues, appraisal gaps
+- **Offer negotiation** - lowball offers, multiple offers, escalation clauses, rejected offers
+- **Commission conversations** - buyer asks to cut, seller questions value, competing agent offers lower rate
+- **Agent-to-agent friction** - listing agent not responding, dual agency questions, disagreements on terms
+- **Client objections** - "I want to think about it," "My friend is an agent," "I can do this myself"
+- **Difficult conversations** - price reductions, deal falling through, inspection issues, appraisal gaps
 
 ---
 
@@ -130,7 +130,7 @@ In both cases, the Data Source section must follow the universal Rule 1 format. 
 
 ---
 
-## Script metadata — required front matter
+## Script metadata - required front matter
 
 ```markdown
 ---

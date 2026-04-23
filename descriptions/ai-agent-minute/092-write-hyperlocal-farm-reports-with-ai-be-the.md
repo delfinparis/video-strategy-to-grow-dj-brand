@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Most agents send farm mailers that look identical to their competitors — generic postcards with stock photos that homeowners toss without reading. Meanwhile, top producers are using AI to create hyperlocal market reports that actually get kept on kitchen counters.
+Most agents send farm mailers that look identical to their competitors - generic postcards with stock photos that homeowners toss without reading. Meanwhile, top producers are using AI to create hyperlocal market reports that actually get kept on kitchen counters.
 
 D.J. Paris from Keeping It Real Podcast breaks down how to use Perplexity and Claude to pull neighborhood-specific data and turn it into conversational market reports that prove you actually know the area. Instead of farming a neighborhood, you become THE neighborhood expert.
 
@@ -18,7 +18,7 @@ What neighborhood are you currently farming, and what's your biggest challenge w
 
 ### INSTAGRAM
 
-Your farm mailers look exactly like every other agent's — that's why they go straight in the trash 🗑️
+Your farm mailers look exactly like every other agent's - that's why they go straight in the trash 🗑️
 
 Most agents farm a neighborhood. Top producers BECOME the neighborhood.
 
@@ -40,7 +40,7 @@ Your farm mailers go straight to the trash because they look like everyone else'
 
 Every homeowner in your target neighborhood receives 3+ real estate mailers monthly. They all feature the same generic design, stock photography, and basic market statistics. None demonstrate actual neighborhood expertise.
 
-The fundamental issue isn't frequency — it's relevance. Most agents farm neighborhoods without truly understanding what makes each area unique.
+The fundamental issue isn't frequency - it's relevance. Most agents farm neighborhoods without truly understanding what makes each area unique.
 
 D.J. Paris demonstrates how successful agents leverage AI tools like Perplexity and Claude to create hyperlocal market intelligence. Instead of generic postcards, they produce neighborhood-specific reports with recent sales data, days-on-market trends, and upcoming developments that affect property values.
 

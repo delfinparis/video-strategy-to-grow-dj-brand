@@ -27,13 +27,13 @@
 
 ## Findings
 
-### CRITICAL — none
+### CRITICAL - none
 
-### HIGH — Batton vs. Tuccori attribution
+### HIGH - Batton vs. Tuccori attribution
 
 **H1. Original spoken script listed all settlements without distinguishing which case each brokerage settled in.** Keller Williams and RE/MAX settled in Batton. Hanna Holdings, Elliman, and NAR opted into Tuccori. Script now explicitly names the case for each settlement to prevent conflation.
 
-### MEDIUM — Data Source format + WOW line polish
+### MEDIUM - Data Source format + WOW line polish
 
 Both fixed in this rewrite.
 

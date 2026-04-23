@@ -24,15 +24,15 @@ All named executives verified in their actual current roles.
 
 ## Findings
 
-### CRITICAL — none
+### CRITICAL - none
 
-### HIGH — none
+### HIGH - none
 
-### MEDIUM — WOW line polish + Data Source format
+### MEDIUM - WOW line polish + Data Source format
 
 Both fixed in this rewrite. WOW line now names the verified titles (SVP Marketing, VP Comms, CEO).
 
-### LOW — Shareable Moment metadata
+### LOW - Shareable Moment metadata
 
 Renamed from "Strongest Line" to match series standard.
 

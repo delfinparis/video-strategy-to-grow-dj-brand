@@ -1,4 +1,4 @@
-# Pillar Pivot Decision — April 18, 2026
+# Pillar Pivot Decision - April 18, 2026
 
 **Decision:** Pivot short-form social content to **Inside the Industry** as the primary content pillar. Podcast remains the "how to be a better realtor" surface; socials become "takes on news the industry isn't paying attention to but cares about."
 
@@ -24,15 +24,15 @@ The short answer: Inside the Industry is the winning pillar on every engagement-
 | **Inside the Industry (all 3 sub-types)** | Top-10 dominant: 484, 373, 265 impressions | 1,082 (NAR plan), 495 (NF-001) | 567 (NF-003), 316 (IA-002 style) @ **5.70% eng** | 979 (NF-004), 971 (NF-003) | 281 (NF-003), ~360 (NF-001) |
 | Agent Tip of the Day (tactical) | 455, 186 impressions | 623, 545 (Chase Craig) | 549 (duvet), 203 (college roommate) | 11 (!) | 474 (Chase Craig), 227 (duvet) |
 | AI Agent Minute | not in LI top-10 | 281 (AIAM 001) | 169 (AIAM 001) | not in YT top-15 | unknown but modest |
-| KIR podcast promos on LI | 573, 425, 306, 231 impressions | — | — | — | — |
+| KIR podcast promos on LI | 573, 425, 306, 231 impressions | - | - | - | - |
 
 **Key findings driving the pivot:**
 
-1. **Engagement rate leader is Inside the Industry access content.** "NAR C-suite / 11 influencers" (an IA-style post) got **5.70% engagement rate on TikTok** — the highest single-post engagement rate measured anywhere in this analysis.
+1. **Engagement rate leader is Inside the Industry access content.** "NAR C-suite / 11 influencers" (an IA-style post) got **5.70% engagement rate on TikTok** - the highest single-post engagement rate measured anywhere in this analysis.
 2. **Cross-surface reach for Inside the Industry is 2-3x tactical scripts.** NF-003 totaled ~2,830 views across surfaces; tactical scripts averaged 400-1,400.
 3. **Podcast episode promos dominate LinkedIn Personal.** 4 of the top-10 LI posts are KIR episode drops. The audience wants this content, and the posts reinforce "industry insider" positioning.
 4. **AI Agent Minute underperforms its investment.** 100 scripts polished and audited, but AIAM posts rarely crack top-10 on any engagement surface. The pillar represents "AI evangelism" positioning, which dilutes the stronger "industry insider" brand.
-5. **The moat is defensible.** 1 of 12 NAR influencers nationally, 700+ podcast interviews, VP of Business Development at a 700-agent brokerage — no competitor owns this combination. "Industry insider with POV" is genuinely unclaimed space (Inman is newsroom, Tom Ferry is coach, Ryan Serhant is sales).
+5. **The moat is defensible.** 1 of 12 NAR influencers nationally, 700+ podcast interviews, VP of Business Development at a 700-agent brokerage - no competitor owns this combination. "Industry insider with POV" is genuinely unclaimed space (Inman is newsroom, Tom Ferry is coach, Ryan Serhant is sales).
 
 ---
 
@@ -44,7 +44,7 @@ The short answer: Inside the Industry is the winning pillar on every engagement-
 
 **Brand promise (podcast):** Deep interviews with top producers on how to be a better real estate agent.
 
-**Brand promise (socials):** Sharp takes on industry news, access moments, and patterns from 700+ interviews — in 60 seconds or less.
+**Brand promise (socials):** Sharp takes on industry news, access moments, and patterns from 700+ interviews - in 60 seconds or less.
 
 **Why the two don't cannibalize:** They answer different questions. Podcast = "how do I become a better agent?" Socials = "what's happening in the industry and why should I care?" Both surfaces reinforce the same credibility pillars (NAR access, podcast archive, Kale operational view).
 
@@ -66,18 +66,18 @@ The short answer: Inside the Industry is the winning pillar on every engagement-
 
 | Day | Primary slot | Fallback (when primary doesn't fit) |
 | --- | --- | --- |
-| **Mon** | KIR Podcast Promo (new episode) | — |
-| **Tue** | **IIR — News (NF)** | IS (synthesis) if news slow |
-| **Wed** | **IIR — News (NF)** or **The Playbook** | Whichever is timelier |
-| **Thu** | **IIR — News (NF)** | — |
-| **Fri** | **AI Tip of the Week → tapthis.co** | — |
-| **Sat** | **IIR — News (NF)** | **IIR — Access (IA)** if D.J. attended something notable |
+| **Mon** | KIR Podcast Promo (new episode) | - |
+| **Tue** | **IIR - News (NF)** | IS (synthesis) if news slow |
+| **Wed** | **IIR - News (NF)** or **The Playbook** | Whichever is timelier |
+| **Thu** | **IIR - News (NF)** | - |
+| **Fri** | **AI Tip of the Week → tapthis.co** | - |
+| **Sat** | **IIR - News (NF)** | **IIR - Access (IA)** if D.J. attended something notable |
 
 **Target weekly volume:**
 
 - **4 NF slots/week minimum** (Tue, Wed-when-news, Thu, Sat)
 - **1 KIR podcast promo/week** (Mon)
-- **1 AI Tip of the Week/week** (Fri) — drives tapthis.co for recruiting pixel retargeting
+- **1 AI Tip of the Week/week** (Fri) - drives tapthis.co for recruiting pixel retargeting
 - Playbook becomes a **conditional Wed slot** when scenario content is timelier than news (~2x/month)
 - IA (Access) becomes an **opportunistic Sat substitute** when D.J. actually attended something worth a firsthand post (~1-2x/month)
 - IS (Synthesis) becomes a **quiet-week backfill** when no news is worth coverage (~2x/month)
@@ -88,10 +88,10 @@ The short answer: Inside the Industry is the winning pillar on every engagement-
 
 News pillar at 4x/week is viable because "News" is interpreted broadly to include:
 
-1. **Breaking news** — NAR / settlement / brokerage moves (e.g., Tuccori, Batton, Elliman settlements)
-2. **Mid-week takes on ongoing stories** — same story, different angle ("what does Batton mean for agents at non-KW brokerages?")
-3. **Industry trend commentary** — AI adoption, commission structure shifts, MLS developments
-4. **Weekly summary/synthesis** — Saturday "here's what happened this week in real estate"
+1. **Breaking news** - NAR / settlement / brokerage moves (e.g., Tuccori, Batton, Elliman settlements)
+2. **Mid-week takes on ongoing stories** - same story, different angle ("what does Batton mean for agents at non-KW brokerages?")
+3. **Industry trend commentary** - AI adoption, commission structure shifts, MLS developments
+4. **Weekly summary/synthesis** - Saturday "here's what happened this week in real estate"
 
 One major news event (e.g. a settlement drop) can spawn 3-4 posts over 7-10 days from different angles without being repetitive. During genuinely quiet news cycles, IS (synthesis) backfills using the 700-episode archive.
 
@@ -109,13 +109,13 @@ News input is sourced through:
 - **Scope expanded** to include all three sub-types as the core content diet, not just reactive news
 - Access content uses events D.J. actually attends (NAR summits, Kale all-hands, Chicago Realtors events)
 - Synthesis content uses the existing KIR interview archive (700+ episodes; always more patterns to surface)
-- News content is always filtered through D.J.'s perspective — never neutral reporting, always "here's what this means for you"
+- News content is always filtered through D.J.'s perspective - never neutral reporting, always "here's what this means for you"
 - **Sustainability:** essentially unlimited. Access + Synthesis can always produce content when news is quiet.
 
 ### The Playbook → Keep, reframe
 
 - Scenario-based scripts like "how to respond to a lowball offer" are tactical but ALSO industry-tactics content
-- Rename framing: "Inside the Industry: The Playbook" — how top agents actually handle the moment
+- Rename framing: "Inside the Industry: The Playbook" - how top agents actually handle the moment
 - Maintain 1x/week cadence
 - Existing 3 scripts (PB-001, PB-002, PB-003) already in rotation
 
@@ -124,7 +124,7 @@ News input is sourced through:
 - Current 62 scripts range from "generic tactic" to "named-guest insight"
 - Keep only the ones where the guest credential IS the hook: Amanda Pendleton (Zillow), Kristee Leonard ($50M), Bari Mill ($40M), Chase Craig ($2B), Garrett Maroon, Carrie McCormick, Jeff Biebuyck, etc.
 - Retire or mothball the rest (~30 scripts)
-- Reframe retained ones as "Inside the Industry: Top Producer Playbook" — the named-guest access angle turns a generic tip into an industry-insider moment
+- Reframe retained ones as "Inside the Industry: Top Producer Playbook" - the named-guest access angle turns a generic tip into an industry-insider moment
 
 ### AI Agent Minute → Re-homed as AI Tip of the Week (CONFIRMED 2026-04-18)
 
@@ -136,13 +136,13 @@ News input is sourced through:
 - **Cadence:** 1x/week, every Friday
 - **Surfaces:** All 6 retained crosspost surfaces (LI Personal, FB Personal, FB Biz, IG Personal, TT Biz, YT Biz)
 - **Content source:** Curated from the 100 audited AIAM scripts, ~1-2 per week selected for highest broad-appeal quality
-- **Destination:** CTA drives to [tapthis.co](https://tapthis.co) — a landing page hosting 570 AI prompts for realtors (a real, valuable resource, updated regularly)
-- **Retargeting mechanism:** tapthis.co fires **5 pixels** (Meta, Google, LinkedIn, Reddit, TikTok) — creating a retargeting audience that sees Kale recruiting ads across all 5 platforms
+- **Destination:** CTA drives to [tapthis.co](https://tapthis.co) - a landing page hosting 570 AI prompts for realtors (a real, valuable resource, updated regularly)
+- **Retargeting mechanism:** tapthis.co fires **5 pixels** (Meta, Google, LinkedIn, Reddit, TikTok) - creating a retargeting audience that sees Kale recruiting ads across all 5 platforms
 - **Funnel next step:** tapthis.co click → retargeting ads for 30-90 days → joinkale.com → webinar → book-a-call → Kale recruiting conversation
 
 **Positioning framing:**
 
-The AI Tip of the Week is explicitly framed as **"what I teach my agents at Kale"** — not "AI educator content." This framing:
+The AI Tip of the Week is explicitly framed as **"what I teach my agents at Kale"** - not "AI educator content." This framing:
 
 - Reinforces the industry-insider brand (operational credibility from running a 700-agent brokerage)
 - Makes the AI content feel incidental to the brand, not brand-core
@@ -156,14 +156,14 @@ Example caption / CTA variations:
 | *"Grab this prompt and my whole library at tapthis.co."* | Casual, confident | IG Personal, TT Biz |
 | *"Tip #142 of 570. All free at tapthis.co."* | Specificity-forward | TT Biz, YT Biz |
 
-All three are compliant with the no-engagement-ask rule (universal editorial Rule 4) — they're informational ("here's where the value is") rather than directive ("do this for me").
+All three are compliant with the no-engagement-ask rule (universal editorial Rule 4) - they're informational ("here's where the value is") rather than directive ("do this for me").
 
 **Why this re-home works strategically:**
 
 1. **Doesn't dilute the brand.** Industry insider remains primary; AI Tip is a utility slot, 1 of 6 weekly slots.
-2. **Has measurable funnel output** — tapthis.co click volume becomes the leading indicator for retargeting audience size, which becomes the leading indicator for recruiting conversation volume 30-90 days later.
+2. **Has measurable funnel output** - tapthis.co click volume becomes the leading indicator for retargeting audience size, which becomes the leading indicator for recruiting conversation volume 30-90 days later.
 3. **Uses existing content investment.** The 100 audited AIAM scripts are a ready feed of weekly tips (roughly 2 years of Fridays).
-4. **Compounds with the eventual newsletter.** If Phase 2-3 of an "industry brief" newsletter launches (see analytics synthesis), the AI Tip of the Week can live in the newsletter too — two surfaces, one pixel audience, one recruiting funnel.
+4. **Compounds with the eventual newsletter.** If Phase 2-3 of an "industry brief" newsletter launches (see analytics synthesis), the AI Tip of the Week can live in the newsletter too - two surfaces, one pixel audience, one recruiting funnel.
 
 **Script source overlap:** Some of the 100 audited AIAM scripts are already on tapthis.co; some aren't. A one-time review is needed to upload the audited-but-missing subset. See: https://github.com/delfinparis/kale-ai-prompts and https://github.com/delfinparis/realtor-ai-prompts for the tapthis.co source-of-truth repos.
 
@@ -171,7 +171,7 @@ All three are compliant with the no-engagement-ask rule (universal editorial Rul
 
 - Data shows these are consistent LI Personal winners (~230-575 impressions each)
 - Increase from ad-hoc to 2x/week (Monday = new episode drop, Thursday = teaser for upcoming episode)
-- Treats podcast as a built-in access/synthesis content engine — every episode produces multiple social posts
+- Treats podcast as a built-in access/synthesis content engine - every episode produces multiple social posts
 
 ---
 
@@ -211,7 +211,7 @@ Existing followers came for a mixed diet. Some portion (typically 3-8% on nichin
 
 ### Risk 2: Content drought in slow news cycles
 
-If the entire pillar were news (NF), a quiet 2-3 weeks would kill the content pipeline. Access + Synthesis sub-types mitigate this — both have essentially unlimited raw material (your calendar of industry events + your 700-episode archive).
+If the entire pillar were news (NF), a quiet 2-3 weeks would kill the content pipeline. Access + Synthesis sub-types mitigate this - both have essentially unlimited raw material (your calendar of industry events + your 700-episode archive).
 
 **Mitigation:** Pre-plan Synthesis content from the podcast archive as a buffer. Target ~6 weeks of pre-drafted IS scripts in the queue at any time.
 
@@ -271,9 +271,9 @@ The pivot needs to be **reversed or adjusted** if:
 
 ## Related Documents
 
-- [`../analytics/2026-04-18-cross-surface-synthesis.md`](../analytics/2026-04-18-cross-surface-synthesis.md) — the 8-surface data analysis that justifies this pivot
-- [`../series/inside-the-industry-standard.md`](../series/inside-the-industry-standard.md) — the per-series editorial standard that becomes primary
-- [`../editorial-standards.md`](../editorial-standards.md) — universal editorial rules (unchanged)
+- [`../analytics/2026-04-18-cross-surface-synthesis.md`](../analytics/2026-04-18-cross-surface-synthesis.md) - the 8-surface data analysis that justifies this pivot
+- [`../series/inside-the-industry-standard.md`](../series/inside-the-industry-standard.md) - the per-series editorial standard that becomes primary
+- [`../editorial-standards.md`](../editorial-standards.md) - universal editorial rules (unchanged)
 
 ---
 

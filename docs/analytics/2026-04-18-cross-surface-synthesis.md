@@ -1,4 +1,4 @@
-# Cross-Surface Performance Synthesis — April 18, 2026
+# Cross-Surface Performance Synthesis - April 18, 2026
 
 **Period analyzed:** January 18 – April 18, 2026 (90 days, or shorter where a platform's dashboard caps earlier)
 **Surfaces covered:** All 8 crosspost surfaces
@@ -12,8 +12,8 @@ After reviewing performance data from all 8 crosspost surfaces, the data support
 
 1. **LinkedIn Personal is the engagement champion** (1.55%+ engagement rate; highest-value audience; primary recruiting surface).
 2. **FB Personal is the reach + relationship maintenance surface** (1,082 views on the top business post; audience shows up for you, not just tips).
-3. **FB Biz is the click-conversion surface** (~14 link clicks/month — the ONLY Meta business surface driving any link clicks at all).
-4. **IG Biz and LI Biz are dead weight** — both throttled as duplicates of their Personal counterparts, ~0 link clicks combined, and candidates to drop from the crosspost rotation.
+3. **FB Biz is the click-conversion surface** (~14 link clicks/month - the ONLY Meta business surface driving any link clicks at all).
+4. **IG Biz and LI Biz are dead weight** - both throttled as duplicates of their Personal counterparts, ~0 link clicks combined, and candidates to drop from the crosspost rotation.
 5. **Inside the Industry is your winning pillar** across every surface that measures engagement (LinkedIn, TikTok, FB Personal), with news (NF), access (IA), and synthesis (IS) sub-types all performing above average.
 
 **Recommended surface changes:** Drop IG Biz and LI Biz from the crosspost. Keep the other 6.
@@ -39,7 +39,7 @@ After reviewing performance data from all 8 crosspost surfaces, the data support
 
 ## Cross-Surface Reach for Same Scripts
 
-The single cleanest demonstration of why this analysis mattered — same content, radically different performance across surfaces:
+The single cleanest demonstration of why this analysis mattered - same content, radically different performance across surfaces:
 
 | Script | YT Biz | FB Personal | TT Biz | IG Personal | LI Personal | LI Biz | Total |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -52,7 +52,7 @@ The single cleanest demonstration of why this analysis mattered — same content
 
 ### Observations
 
-1. **Chase Craig on YT Biz: 11 views. On IG Personal: 474 views. Same content, 43x difference.** This is exactly the cross-surface blind spot this analysis was built to solve. Without seeing both, you'd conclude the Chase Craig script failed. It didn't — it just fit IG's audience, not YT's.
+1. **Chase Craig on YT Biz: 11 views. On IG Personal: 474 views. Same content, 43x difference.** This is exactly the cross-surface blind spot this analysis was built to solve. Without seeing both, you'd conclude the Chase Craig script failed. It didn't - it just fit IG's audience, not YT's.
 2. **Inside the Industry (NF + IA sub-types) consistently hits 1,500-2,800 cross-surface views per script.** Tactical scripts range 400-1,400. News/industry is 2-3x the cross-surface reach of tactical content.
 3. **YT Biz has the highest per-post reach for news content (971 on $470M Question) but essentially zero engagement on any content.** Reach surface only.
 
@@ -79,7 +79,7 @@ On the same posts, ranked from highest to lowest engagement rate:
 
 The single cleanest insight from this exercise:
 
-> **Every "Biz/Page" account in the crosspost system underperforms its Personal counterpart — except FB Biz, which uniquely converts link clicks via Meta's Page tools.**
+> **Every "Biz/Page" account in the crosspost system underperforms its Personal counterpart - except FB Biz, which uniquely converts link clicks via Meta's Page tools.**
 
 Evidence:
 
@@ -102,10 +102,10 @@ During the per-script premium audit, it was discovered that an earlier version o
 | YouTube Biz | Yes (Apr 13) | 267 views |
 | FB Personal | Yes (Apr 13) | 356 views |
 | LI Biz (KIRP) | Yes (Apr 13) | 59 impressions / 16 views |
-| TikTok Biz | Unknown | — |
-| IG Personal | Unknown | — |
-| IG Biz | Unknown | — |
-| FB Biz | Unknown | — |
+| TikTok Biz | Unknown | - |
+| IG Personal | Unknown | - |
+| IG Biz | Unknown | - |
+| FB Biz | Unknown | - |
 | **LI Personal** | **No** (the real 9% Club is live there) | 661 impressions |
 
 **Estimated audience exposed to fabricated 6%/94% claim:** 700-900 viewers
@@ -119,7 +119,7 @@ During the per-script premium audit, it was discovered that an earlier version o
 Based on the platform data, the KPI priority is:
 
 1. **Primary: Engagement rate** = `(likes + comments + shares + saves) / views`
-2. **Secondary: Saves** (especially for tactical Agent Tip / Playbook content — signals "come back to this later")
+2. **Secondary: Saves** (especially for tactical Agent Tip / Playbook content - signals "come back to this later")
 3. **Tertiary: Comments from real Chicago realtors** (qualitative, highest recruiting signal)
 4. **Denominator: Views** (not optimized for standalone; high views + low engagement is a throttling red flag)
 
@@ -132,15 +132,15 @@ Based on the platform data, the KPI priority is:
 ## Drop / Keep Recommendations
 
 ### Drop
-1. **IG Biz** — 0 link clicks in 90 days, throttled as IG Personal duplicate, marginal reach contribution
-2. **LI Biz (KIRP Company Page)** — ~1,700 total impressions over 90 days, ~25 link clicks, top post got 199 impressions vs. LI Personal's top of 1,485
+1. **IG Biz** - 0 link clicks in 90 days, throttled as IG Personal duplicate, marginal reach contribution
+2. **LI Biz (KIRP Company Page)** - ~1,700 total impressions over 90 days, ~25 link clicks, top post got 199 impressions vs. LI Personal's top of 1,485
 
 ### Keep
 3. LI Personal (engagement champion)
 4. FB Personal (reach + relationships)
 5. FB Biz (click conversion, the surprise winner)
 6. IG Personal (audience-building)
-7. TT Biz (engagement + comments; post more consistently — gaps of 2-3 weeks hurt the algorithm)
+7. TT Biz (engagement + comments; post more consistently - gaps of 2-3 weeks hurt the algorithm)
 8. YT Biz Shorts (pure reach broadcast, low maintenance)
 
 ### Expected upside from the 2 drops
@@ -157,7 +157,7 @@ Based on the platform data, the KPI priority is:
 - [ ] Re-run this analysis in 30 days to confirm IG Personal and LI Personal reach recovery
 - [ ] Decide on IS-002 fabrication pull-or-replace action
 - [ ] Begin using [`data/publishing-log.csv`](../../data/publishing-log.csv) + [`data/metrics/`](../../data/metrics/) for ongoing weekly tracking
-- [ ] Identify what the "5-Minute Rule" post was (1,485 impressions on LI Personal — still the unexplained outlier; understanding it could unlock a repeatable pattern)
+- [ ] Identify what the "5-Minute Rule" post was (1,485 impressions on LI Personal - still the unexplained outlier; understanding it could unlock a repeatable pattern)
 
 ---
 
@@ -173,9 +173,9 @@ Based on the platform data, the KPI priority is:
 
 ## Related Documents
 
-- [`docs/strategy/2026-04-18-pillar-pivot-decision.md`](../strategy/2026-04-18-pillar-pivot-decision.md) — the pillar-pivot decision that follows from this data
-- [`docs/audits/REPO-AUDIT-SUMMARY.md`](../audits/REPO-AUDIT-SUMMARY.md) — the earlier full-repo editorial compliance audit
-- [`data/README.md`](../../data/README.md) — the analytics system this synthesis was derived from
+- [`docs/strategy/2026-04-18-pillar-pivot-decision.md`](../strategy/2026-04-18-pillar-pivot-decision.md) - the pillar-pivot decision that follows from this data
+- [`docs/audits/REPO-AUDIT-SUMMARY.md`](../audits/REPO-AUDIT-SUMMARY.md) - the earlier full-repo editorial compliance audit
+- [`data/README.md`](../../data/README.md) - the analytics system this synthesis was derived from
 
 ---
 
