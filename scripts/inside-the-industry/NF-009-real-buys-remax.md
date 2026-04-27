@@ -17,21 +17,21 @@ status: "ready"
 **Post Date:** Monday, April 20, 2026
 
 ## Shareable Moment
-> "The next wave isn't legacy buying upstarts. It's upstarts with capital buying legacy brands."
+> "Every other legacy franchise just got put on the menu. If you're at one, watch who calls next."
 
 ## Script (~30 seconds)
 
 ### HOOK (0:00-0:05)
-Real Brokerage just bought RE/MAX for 880 million dollars. The upstart bought the legacy giant.
+If you're a RE/MAX agent this morning, you have a new owner. Real Brokerage just bought RE/MAX for 880 million dollars.
 
-### CONTEXT (0:05-0:13)
-Real has been the growth story of the last five years. RE/MAX has 50 years of brand equity and a global franchise. Today, Real is the one writing the check.
+### CONTEXT (0:05-0:12)
+Real Brokerage is barely a decade old. RE/MAX has been around fifty years. The upstart just bought the legacy giant.
 
-### WIN / LOSE (0:13-0:25)
-Who wins? Real shareholders. Real agents who just got a global brand overnight. Who loses? RE/MAX franchisees who signed up for tradition. That model is about to look very different. And every brokerage that thought consolidation was a giant-versus-giant game just got a new playbook.
+### WIN / LOSE (0:12-0:24)
+Who wins? Real agents got a global brand without lifting a finger. Who loses? RE/MAX franchisees who paid into a tradition-based franchise are about to find out what cap-and-stock means whether they signed up for it or not. And every other legacy franchise just got put on the menu.
 
-### CLOSE (0:25-0:30)
-The next wave isn't legacy buying upstarts. It's upstarts with capital buying legacy brands. If you're at RE/MAX, ask leadership what changes next quarter.
+### CLOSE (0:24-0:30)
+This isn't legacy buying upstarts. It's upstarts buying legacy brands for the parts they want. If you're at any legacy franchise, watch who calls next.
 
 **Estimated Duration:** ~30 seconds
 
@@ -61,27 +61,25 @@ The next wave isn't legacy buying upstarts. It's upstarts with capital buying le
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-The Real Brokerage just bought RE/MAX for 880 million dollars.
+If you are a RE/MAX agent this morning, you have a new owner.
 
-The upstart bought the legacy giant.
+Real Brokerage just bought RE/MAX for 880 million dollars.
 
-Real has been the growth story of the last five years -- a public company building on a cap-and-stock model that hardly existed a decade ago. RE/MAX has 50 years of brand equity and a global franchise network. Today, Real is the one writing the check.
+Real Brokerage is barely a decade old. It went public in 2020 on a cap-and-stock model that hardly existed before that. RE/MAX has been around since 1973 with a global franchise network and 50 years of brand equity. Today, the kid is buying the grandparent.
 
-Who wins?
+Here is who wins.
 
-Real shareholders. Real agents, who just got the credibility of a global brand overnight. The cap-and-stock model itself, which now has the legacy distribution to scale into.
+Real agents got a global brand without lifting a finger. Real shareholders just absorbed 50 years of distribution overnight. The cap-and-stock model itself, which a decade ago was a curiosity, just bought the most recognizable franchise brand in the country.
 
-Who loses?
+Here is who loses.
 
-RE/MAX franchisees who signed up for the tradition of an established franchise system. That model is about to look very different.
-
-And every independent brokerage that thought consolidation was a giant-versus-giant publicly traded game between Compass, Anywhere, eXp, and the rest. It is not. It is now upstarts with capital buying legacy brands for the parts they want.
+RE/MAX franchisees who paid into a tradition-based franchise system are about to find out what cap-and-stock means whether they signed up for it or not. And every other legacy franchise -- Coldwell Banker, Century 21, Better Homes, every one of them -- just got put on the menu.
 
 Here is my take.
 
-The next five years of brokerage M&A is not the story we have been told. It is not legacy companies acquiring smaller competitors. It is the alternative-model upstarts, the ones with public-market capital and a structural cost advantage, buying legacy brands for distribution and converting the agents into their model.
+The next five years of brokerage M&A is not legacy companies buying upstarts. It is upstarts with public-market capital buying legacy brands for the parts they want. The distribution. The brand recognition. The agent rolls. And in the process, converting every one of those agents into the new model whether they wanted that or not.
 
-If you are at RE/MAX, ask your franchise leadership what changes next quarter. If you are at any legacy franchise model, the question is not if your brand gets acquired. It is when.
+If you are at RE/MAX, ask your franchise leadership what changes next quarter. If you are at any other legacy franchise, the question is not if your brand gets acquired. It is when. And you should be watching who calls next.
 
 **Hashtags:** #RealEstate #BrokerageNews #REMAX #RealBrokerage #RealEstate2026 #BrokerageConsolidation #ChicagoRealEstate #KeepingItRealPodcast
 
