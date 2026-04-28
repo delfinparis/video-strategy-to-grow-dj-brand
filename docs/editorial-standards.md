@@ -433,6 +433,143 @@ The reels scorecard observation stands: *"If YOU get bored watching your own vid
 
 ---
 
+## Rule 8: Writing Discipline (Anti-AI-Style Prose)
+
+This rule covers the surface-level texture of every line we ship — the stuff that decides whether prose reads like a person who knows what they're doing or like default chatbot output someone pasted in. Rules 1 through 7 cover content rigor, voice, and structure. This rule covers everything you cannot cover with a banned-words list.
+
+### 8.1 Don't optimize to "sound human"
+
+AI text detectors are probabilistic, not proof. Don't manufacture mistakes, slang, fake hedges, or staged messiness to dodge an algorithm. Don't break grammar on purpose. Don't insert random sentence-length wobble. The goal is prose that fits the medium, the audience, and the reader's job. If you do that well, the prose reads as human as a side effect.
+
+The recurring problem in AI-written copy is regularity and mismatch, not any single feature. Use em dashes where they belong (in this repo: never -- see Rule 5). Use commas, colons, semicolons where they belong. Stop reaching for the same connective in the same role across every paragraph.
+
+### 8.2 Specificity must be earned
+
+Every substantial paragraph in a long-form caption, listing, doc, or essay block needs at least one concrete anchor.
+
+**Counts as concrete:**
+
+- A proper noun the reader could look up
+- A specific number that isn't only a date or version
+- A direct quote
+- A named decision, moment, or thread
+- A checkable detail
+- A user-facing or observed consequence
+
+**Does not count:**
+
+- "many," "various," "several," "a lot of"
+- "in ways that mattered," "broad implications," "meaningful changes"
+- "the standard X arc," "as is often the case," "the usual pattern"
+- vague intensifiers in place of claims: "essentially," "fundamentally," "ultimately"
+- milestone names, dates, titles, or feature labels standing alone with no consequence attached
+
+**Specificity theater is banned.** Don't add decorative factuality (invented milestone names, suspiciously exact claims, synthetic quotes) to avoid sounding generic. Fewer verified facts beat many guessed ones every time. This extends Rule 1 from numbers to all decorative specificity.
+
+### 8.3 High-fragility facts: quotes, metrics, future claims, causality
+
+These four categories need source support for the **exact claim**, not just a nearby topic. Treat them with extra discipline.
+
+- **Direct quotes and close paraphrases.** Words attributed to a specific person must be in a transcript or document. "Karina said something like X" without a transcript is a fabrication risk.
+- **Public metrics.** "5.7% engagement rate" needs a source that reports 5.7%, not 5% or "around six percent."
+- **Future claims.** "Releases in April" needs the published roadmap. If the source is old or tentative, say "planned for" or "scheduled for" or cut the date.
+- **Causal claims.** "Caused, drove, proved, enabled, prevented, explained, led directly to" all need source support for the relationship, not just the two facts on either side. If the evidence only supports sequence or correlation, weaken to "coincided with," "appeared alongside," "was followed by," or cut the relationship.
+
+### 8.4 Don't launder analysis through vague authority
+
+Banned without a named source: *experts say, observers note, research suggests, critics argue, many believe.* If you can't name the source and stay within what it actually proves, cut the claim or attribute it. This extends the Rule 1 ban on "studies show" to its full vague-authority family.
+
+### 8.5 Don't narrate hidden mechanisms as fact
+
+Internal logic, unseen motives, back-end behavior, what an algorithm or organization is "really" doing — if the reader couldn't observe it and you can't verify it, don't write it as fact. Replace with the observable consequence.
+
+| Don't write | Write instead |
+| --- | --- |
+| The internal logic finally understood what mattered | After the change, obviously irrelevant outcomes stopped showing up |
+| NAR is positioning itself for | NAR has publicly said... / NAR's recent moves include |
+| The algorithm decided to surface | After the update, posts with X started appearing higher in feed |
+
+### 8.6 Plain-text formatting artifacts
+
+In chat, comments, captions, casual Markdown, and any prose typed straight into a CMS or social composer, prefer **straight ASCII quotes and apostrophes** by default. Smart quotes (curly), curly apostrophes, and single-character ellipses (`…`) read as pasted-from-chatbot signals in casual prose now. They are fine in typeset publication-facing output. If text arrived by copy-paste from a doc or LLM tool, normalize it before posting. This applies to every social caption, every email, every Eventbrite listing, every CMS-pasted block.
+
+### 8.7 Regularity is the real tell
+
+LLM writing usually fails not because of any single phrase but because the same move repeats until it dominates. Watch for:
+
+- Parallel three-part cadence by reflex inside sentences (*clearer, faster, cheaper*)
+- Concession-plus-positive rhythm (*not X, but Y* / *may sound X, but Y*)
+- Paragraph-closing type definitions (*the kind of X where Y*)
+- Identical paragraph arcs (one neat claim sentence at the top, orderly elaboration below, every paragraph)
+- The same punctuation move every paragraph (e.g. every paragraph builds to a colon)
+- The same controlling metaphor or contrast returning until it feels too tidy
+- Stacked mini-sentences for impact in every section
+- Multiple sentences doing list work even when nothing is bulleted
+
+**The test:** Name the single most repeated visible pattern in your draft. If the same move appears three or more times, or dominates two consecutive paragraphs, rewrite at least one occurrence. Three-item parallel lists count even if the sentence isn't a list.
+
+The fix is not random variation. It is breaking the repeated pattern where it starts to dominate.
+
+### 8.8 Catalog prose vs. argument prose
+
+A paragraph mostly composed of names, milestones, categories, feature nouns, or labels is **catalog prose**. A piece where each paragraph maps cleanly to a single bucket — *background, mechanism, impact, response, ending* — is **system-tour prose**. Both feel templated.
+
+For long-form (LinkedIn captions over 4 paragraphs, Eventbrite bodies, retrospectives, planning docs), don't give one paragraph to each milestone or one paragraph to each topic bucket unless that mapping is the actual point. Pick one constraint, one shift, one consequence — and trace it across paragraphs that depend on each other instead of sitting like labeled boxes.
+
+### 8.9 Cohere through reference. Don't perform.
+
+- Use pronouns and continued reference when the reader can track them. Don't restate the full frame in every paragraph.
+- Treat *Furthermore, Moreover, Additionally, Importantly, Notably* as transitions you have to justify, not default sentence starters.
+- No keynote cadence. No mission-statement phrasing. No applause-line endings. No service-desk tone (*Great question, Absolutely, I hope this helps, Feel free to reach out*).
+- Start where the answer starts. Stop where the answer stops.
+
+### 8.10 Calibrate stance to genre
+
+- If the piece is opinion, review, or commentary — Inside the Industry IA/IS, Playbook reframes, podcast take posts — let the writer appear. State a view in one sentence.
+- If the piece is neutral summary or documentation — a Data Source section, a docs page, a meeting note — don't inject first person or attitude to feel human.
+- Don't sand opinion-genre material down to evenly polite neutrality.
+- Don't manufacture stance where the genre doesn't call for it.
+
+### 8.11 Expanded formula-phrase watchlist
+
+Not bans -- places to check whether the writing slipped into formula. Most of these are not in the Rule 5 banned-AI-speak list because they're sentence patterns rather than single words.
+
+Sentence-level moves to scrutinize:
+
+- *It's important to note that, It's worth noting that, When it comes to, In conclusion*
+- *in today's fast-paced world, ever-evolving landscape, at the end of the day*
+- *dive deep into, embark on a journey, navigate (used as a vague metaphor)*
+- *It's not X, it's Y / Not because X, but because Y / What matters is... / The real issue is... / This is not just X, it is Y*
+- *is a testament to, serves as / stands as (when "is" or "has" would be clearer)*
+- *plays a key role / plays a pivotal role*
+- *reflects broader, symbolizes, showcases, highlights, underscores* (when attached to generic significance rather than evidence)
+- Persuasive three-part cadence used by reflex
+- Paragraph-closing *the kind of X where Y*
+- Fake-human hedge chains (*I think... maybe... sort of*) when the uncertainty isn't real
+- Forced register lowering or inserted slang
+- Decorative emoji and checkmark bullets in prose contexts
+
+Note: Rule 3's "Most agents do X. Top producers do Y." contrast structure is intentionally a permitted form of *It's not X, it's Y* in this repo. The rule above bans the formula as a *reflexive* sentence move, not the deliberate contrast pattern that earns its place.
+
+### 8.12 Revision pass for any piece over roughly 150 words
+
+Run these checks in order before committing. They are tripwires, not goals to optimize for. Use them to catch genericity, false specificity, and modular structure -- not to manufacture variation for its own sake.
+
+1. **Register fit.** Format and tone match the medium and the request.
+2. **Concrete-anchor audit.** Every substantial paragraph has at least one concrete anchor (8.2). At least one paragraph in any analysis or commentary is built around a single observed example, not category summary.
+3. **Fact discipline.** Pick the three most fragile factual claims (8.3). If you can't vouch for them, attribute them, soften them, or cut them.
+4. **Source-fit check.** Every cited source actually supports the exact claim, not a nearby topic.
+5. **Regularity tripwire.** Name the single most repeated visible pattern. If it shows up 3+ times or dominates two consecutive paragraphs, rewrite one occurrence.
+6. **Repeated-frame check.** If a central metaphor or contrast appears throughout, decide whether it's a useful motif or a too-neat scaffold. Vary or cut where it's just decoration.
+7. **Stance and voice.** If the genre expects a visible writer, did you state the view? If the genre expects neutrality, did you keep it neutral?
+8. **Developed thought.** For pieces over four paragraphs, identify one place where the prose pauses, doubles back, or notices a concrete detail off the main line. If the piece runs in a perfectly straight line from claim to conclusion, find one moment to break that.
+9. **Shape and spine.** State the organizing principle in five words or fewer and the controlling claim in one sentence. If the shape is just *starting state → changes → verdict* or each paragraph is a single labeled bucket, restructure (8.8).
+10. **Over-correction.** Did you add fake-human moves -- typos, slang, forced asides, random fragments, artificial sentence-length wobble -- just to break a pattern?
+
+These checks are for revision, not visible self-reporting. Do not output the audit unless asked. The audit is for the writer, not the reader.
+
+---
+
 ## Pre-Commit Checklist
 
 Every new script must pass all of these before committing. If any one is "no," the script is not ready.
@@ -495,6 +632,19 @@ Every new script must pass all of these before committing. If any one is "no," t
 - [ ] If over 60 seconds, the script has a 15-second re-hook.
 - [ ] If over 75 seconds, the writer has considered splitting into two scripts and documented why not.
 - [ ] No padding: every sentence advances the arc or is cut.
+
+### Writing discipline (Rule 8)
+
+- [ ] Every substantial paragraph in any long-form caption has at least one concrete anchor.
+- [ ] Zero vague authority ("experts say," "research suggests," "observers note") without a named source.
+- [ ] Zero hidden-mechanism claims (internal logic, unseen motives, what a system is "really" doing) narrated as fact.
+- [ ] Causal language ("caused, drove, proved, enabled, led to") only where the source supports the relationship -- not just sequence or correlation.
+- [ ] Quotes are exact, sourced, and verifiable. Future-tense claims have a published roadmap or are softened to "planned for."
+- [ ] Plain-text contexts (captions, emails, CMS pastes) use straight ASCII quotes and apostrophes -- no smart quotes or single-char ellipses copied from a chatbot.
+- [ ] Regularity tripwire: the most repeated visible pattern doesn't show up 3+ times or dominate two consecutive paragraphs.
+- [ ] No catalog or system-tour prose: paragraphs depend on each other instead of mapping one-to-one with labeled buckets.
+- [ ] Stance matches genre: opinion pieces have a stated view; neutral pieces aren't injected with first person.
+- [ ] No fake-human moves: no manufactured typos, slang, forced asides, or artificial sentence-length wobble.
 
 ### Final read
 
