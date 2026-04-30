@@ -19,24 +19,24 @@ shareable_moment: "I built it for my agents at Kale Realty. Two thousand of you 
 **Destination:** tapthis.co (fires 5-pixel retargeting: Meta / Google / LinkedIn / Reddit / TikTok)
 
 ## Shareable Moment
-> "I built it for my agents at Kale Realty. Two thousand of you have used it since. Now everyone gets it free."
+> "Not one of them gave me an email address, because I never asked."
 
 ## Script (~58 seconds, walk and talk)
 
-### HOOK (0:00-0:08)
-I built it for my agents at Kale Realty. Two thousand of you have used it since. Now everyone gets it free.
+### COLD OPEN (0:00-0:13)
+Every time one of my agents at Kale Realty asked me what to type into ChatGPT, I wrote down the prompt I gave them.
 
-### PRODUCT + PROBLEM (0:08-0:24)
-It's called tapthis.co. A library of 570 AI prompts for real estate agents. Most agents are using AI wrong. They paste a generic prompt and get a generic answer. These are the prompts that actually work.
+### USE-CASE BUILD (0:13-0:30)
+The objection from the buyer who wants the commission cut. The listing prep when the appointment's three hours away. The voice memo from the car after a showing. The lowball offer at nine p.m. on a Friday.
 
-### STORY (0:24-0:43)
-Objection handling. Listing prep. Buyer follow-up. Voice memo cleanup. I built it because I was tired of my agents asking me what to type into ChatGPT. My podcast listeners asked for it, so I opened it up to them. Now I'm opening it up to everyone.
+### THE TURN (0:30-0:42)
+Eventually I had 570 of them. So I built a site. My podcast listeners heard about it. They asked for access. I gave it to them. Two thousand agents have used it since.
 
-### NO CATCH (0:43-0:52)
-The catch? There isn't one. No login. No paywall. No email gate. Just the prompts.
+### THE LINE (0:42-0:48)
+Not one of them gave me an email address, because I never asked. No login. No paywall. No email gate. Just the prompts.
 
-### CLOSE (0:52-0:60)
-Here's what you do now. Type tapthis.co into your phone. Pick one prompt. Use it before your next showing.
+### CLOSE (0:48-0:58)
+Today I'm opening it up to everyone. tapthis.co. Pick one. Use it before your next showing.
 
 **Estimated Duration:** ~58 seconds | **Word Count:** ~145 words
 
@@ -64,66 +64,70 @@ Here's what you do now. Type tapthis.co into your phone. Pick one prompt. Use it
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-I built it for my agents at Kale Realty. Two thousand agents nationwide have used it since I opened it up. Now I am opening it up to everyone.
+Every time one of my agents at Kale Realty asked me what to type into ChatGPT, I wrote down the prompt I gave them.
 
-It is called tapthis.co. A library of 570 AI prompts for real estate agents.
+The objection from the buyer who wants the commission cut. The listing prep when the appointment is three hours away. The voice memo from the car after a showing. The lowball offer at nine on a Friday night.
 
-Most agents are using AI wrong. They paste a generic prompt into ChatGPT and get a generic answer back. These are the prompts that actually work. Objection handling. Listing prep. Buyer follow-up. Voice memo cleanup. The kinds of prompts I wrote because I was tired of my agents asking me what to type into ChatGPT.
+Eventually I had 570 of them. So I built a site.
 
-My podcast listeners asked for it. I opened it up to them. Now everyone gets it.
+My podcast listeners heard about it. They asked for access. I gave it to them. Two thousand agents have used it since.
 
-The catch? There isn't one. No login. No paywall. No email gate. Just the prompts.
+Not one of them gave me an email address. Because I never asked. No login. No paywall. No email gate. Just the prompts.
 
-If you want to use AI better in your business this week, type tapthis.co into your phone, pick one prompt, and use it before your next showing.
+Today I am opening it up to everyone. tapthis.co. Pick one. Use it before your next showing.
 
 **Hashtags:** #RealEstate #AIforRealtors #RealEstateAgent #RealtorTips #ChatGPT #AgentTraining #RealEstateCoaching #ChicagoRealEstate #KaleRealty #KeepingItRealPodcast
 
 ### Instagram
 **Caption:**
-I built it for my Kale agents. Two thousand of you have used it since. Now everyone gets it free.
+Every time one of my Kale agents asked what to type into ChatGPT, I wrote down the prompt I gave them.
 
-tapthis.co. 570 AI prompts for real estate agents. Most agents paste a generic prompt and get a generic answer. These are the prompts that actually work.
+The objection from the buyer who wants the commission cut. The voice memo from the car after a showing. The lowball offer at nine on a Friday night.
 
-Objection handling. Listing prep. Buyer follow-up. Voice memo cleanup.
+Eventually I had 570 of them. I built a site. Two thousand agents have used it since.
 
-The catch? There isn't one. No login. No paywall. No email gate.
+Not one gave me an email. I never asked. No login. No paywall. No email gate. Just the prompts.
 
-Type tapthis.co into your phone. Pick one. Use it before your next showing.
+Today it opens to everyone. tapthis.co. Pick one. Use it before your next showing.
 
 **Hashtags:** #realestate #realtor #realtorlife #aiforrealtors #chatgpt #realestateagent #realestatetech #chicagorealestate #kalerealty #keepingitrealpodcast #realestatemarketing #realestatecoaching
 
 ### TikTok
-**Caption:** I built 570 AI prompts for my Kale agents. Two thousand agents have used it since. Now it's free for everyone. tapthis.co.
+**Caption:** Every time one of my Kale agents asked what to type into ChatGPT, I wrote down the prompt. Eventually I had 570. Two thousand agents have used it since. Today it opens to everyone. tapthis.co.
 **Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #chatgpt #realestateagent
 
 ### YouTube Shorts
-**Title:** I Just Opened tapthis.co to Everyone (Free)
-**Description:** I built tapthis.co for my agents at Kale Realty -- a library of 570 AI prompts for real estate agents. Two thousand agents nationwide have used it since I opened it beyond Kale. Now I am opening it up to everyone. No login, no paywall, no email gate. Just the prompts. Pick one and use it before your next showing.
+**Title:** I Just Opened tapthis.co to Every Real Estate Agent
+**Description:** Every time an agent at my brokerage asked me what to type into ChatGPT, I wrote down the prompt I gave them. The objection from the buyer who wants the commission cut. The voice memo from the car after a showing. The lowball offer at nine on a Friday night. Eventually I had 570 of them. I built a site. Two thousand agents have used it since. Today I am opening it up to every real estate agent. No login, no paywall, no email gate. Just the prompts.
 **Hashtags:** #shorts #realestate #aiforrealtors #chatgpt #realestateagent #realestatetech #realestatecoaching #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
-I built it for my agents at Kale Realty. Two thousand agents nationwide have used it since I opened it up. Now I am opening it up to everyone.
+Every time one of my agents at Kale Realty asked me what to type into ChatGPT, I wrote down the prompt I gave them.
 
-It is called tapthis.co. A library of 570 AI prompts for real estate agents.
+The objection from the buyer who wants the commission cut. The listing prep when the appointment is three hours away. The voice memo from the car after a showing. The lowball offer at nine on a Friday night.
 
-Most agents are using AI wrong. They paste a generic prompt into ChatGPT and get a generic answer back. These are the prompts that actually work. Objection handling. Listing prep. Buyer follow-up. Voice memo cleanup.
+Eventually I had 570 of them. So I built a site.
 
-The catch? There isn't one. No login. No paywall. No email gate. Just the prompts.
+My podcast listeners heard about it and asked for access. I gave it to them. Two thousand agents have used it since.
 
-Type tapthis.co into your phone, pick one prompt, and use it before your next showing.
+Not one of them gave me an email address. Because I never asked. No login. No paywall. No email gate. Just the prompts.
+
+Today I am opening it up to everyone. tapthis.co. Pick one. Use it before your next showing.
 
 **Hashtags:** #RealEstate #AIforRealtors #RealEstateAgent #RealtorLife #ChicagoRealEstate #KaleRealty
 
 ### X (Twitter)
 **Caption:**
-I built it for my agents at Kale Realty.
+Every time one of my Kale agents asked what to type into ChatGPT, I wrote down the prompt.
 
-2,000 agents nationwide have used it since I opened it up.
+Eventually I had 570 of them.
 
-Now everyone gets it free.
+Two thousand agents have used it since I opened it past Kale.
 
-tapthis.co. 570 AI prompts for real estate. No login. No paywall. No email gate.
+Not one gave me an email. I never asked.
+
+Today it opens to everyone. tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors
 
