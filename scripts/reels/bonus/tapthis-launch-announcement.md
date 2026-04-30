@@ -19,26 +19,26 @@ shareable_moment: "I built it for my agents at Kale Realty. Two thousand of you 
 **Destination:** tapthis.co (fires 5-pixel retargeting: Meta / Google / LinkedIn / Reddit / TikTok)
 
 ## Shareable Moment
-> "Not one of them gave me an email address, because I never asked."
+> "Every time one of my agents at Kale Realty asked me what to type into ChatGPT, I wrote down the prompt I gave them."
 
 ## Script (~58 seconds, walk and talk)
 
-### COLD OPEN (0:00-0:13)
+### COLD OPEN (0:00-0:10)
 Every time one of my agents at Kale Realty asked me what to type into ChatGPT, I wrote down the prompt I gave them.
 
-### USE-CASE BUILD (0:13-0:30)
+### USE-CASE BUILD (0:10-0:26)
 The objection from the buyer who wants the commission cut. The listing prep when the appointment's three hours away. The voice memo from the car after a showing. The lowball offer at nine p.m. on a Friday.
 
-### THE TURN (0:30-0:42)
+### THE TURN (0:26-0:39)
 Eventually I had 570 of them. So I built a site. My podcast listeners heard about it. They asked for access. I gave it to them. Two thousand agents have used it since.
 
-### THE LINE (0:42-0:48)
-Not one of them gave me an email address, because I never asked. No login. No paywall. No email gate. Just the prompts.
+### THE OFFER (0:39-0:49)
+Try three prompts free. No login. No signup. After that I ask one thing of you. An email address. That gets you all 570.
 
-### CLOSE (0:48-0:58)
+### CLOSE (0:49-0:58)
 Today I'm opening it up to everyone. tapthis.co. Pick one. Use it before your next showing.
 
-**Estimated Duration:** ~58 seconds | **Word Count:** ~145 words
+**Estimated Duration:** ~58 seconds | **Word Count:** ~140 words
 
 ## Data Source
 
@@ -54,11 +54,11 @@ Today I'm opening it up to everyone. tapthis.co. Pick one. Use it before your ne
   - Source: tapthis.co library size as referenced consistently across the AI Tip of the Week series in this repo (e.g. "Tip #1 of 570 at tapthis.co" in `scripts/ai-tip-of-the-week/001-i-want-to-think-about-it-claude-roleplay.md`).
   - Status: confirmed
 
-- **Claim:** "No login. No paywall. No email gate."
-  - Source: tapthis.co is publicly accessible; the recruiting funnel is driven by retargeting pixels rather than email capture.
-  - Status: confirmed (per repo strategy docs and existing AI Tip of the Week scripts)
+- **Claim:** "Try three prompts free. No login. No signup. After that I ask one thing of you. An email address. That gets you all 570."
+  - Source: D.J. Paris's direct confirmation of the tapthis.co access model. Visitors can use three prompts with no login or signup; after the third, an email address is required to access the rest of the library. No paid tier.
+  - Status: confirmed (D.J. as the source for his own product's access model, corrected from prior "no email gate" framing)
 
-- **CTA compliance note:** "Type tapthis.co into your phone. Pick one prompt. Use it before your next showing." complies with Rule 4 of editorial standards. The action happens in the viewer's own life (use a prompt) rather than asking the viewer to do something for the channel (no follow / save / tag).
+- **CTA compliance note:** "Today I'm opening it up to everyone. tapthis.co. Pick one. Use it before your next showing." complies with Rule 4 of editorial standards. The action happens in the viewer's own life (use a prompt) rather than asking the viewer to do something for the channel (no follow / save / tag).
 
 ## Social Copy
 
@@ -72,7 +72,7 @@ Eventually I had 570 of them. So I built a site.
 
 My podcast listeners heard about it. They asked for access. I gave it to them. Two thousand agents have used it since.
 
-Not one of them gave me an email address. Because I never asked. No login. No paywall. No email gate. Just the prompts.
+Try three prompts free. No login. No signup. After the third, I ask for an email address. That gets you all 570. That is the whole deal.
 
 Today I am opening it up to everyone. tapthis.co. Pick one. Use it before your next showing.
 
@@ -86,19 +86,19 @@ The objection from the buyer who wants the commission cut. The voice memo from t
 
 Eventually I had 570 of them. I built a site. Two thousand agents have used it since.
 
-Not one gave me an email. I never asked. No login. No paywall. No email gate. Just the prompts.
+Try three free. No login. No signup. After the third, give me an email and you get all 570.
 
 Today it opens to everyone. tapthis.co. Pick one. Use it before your next showing.
 
 **Hashtags:** #realestate #realtor #realtorlife #aiforrealtors #chatgpt #realestateagent #realestatetech #chicagorealestate #kalerealty #keepingitrealpodcast #realestatemarketing #realestatecoaching
 
 ### TikTok
-**Caption:** Every time one of my Kale agents asked what to type into ChatGPT, I wrote down the prompt. Eventually I had 570. Two thousand agents have used it since. Today it opens to everyone. tapthis.co.
+**Caption:** Every time one of my Kale agents asked what to type into ChatGPT, I wrote down the prompt. Eventually I had 570. Two thousand agents have used it since. Three free. Then an email. tapthis.co.
 **Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #chatgpt #realestateagent
 
 ### YouTube Shorts
 **Title:** I Just Opened tapthis.co to Every Real Estate Agent
-**Description:** Every time an agent at my brokerage asked me what to type into ChatGPT, I wrote down the prompt I gave them. The objection from the buyer who wants the commission cut. The voice memo from the car after a showing. The lowball offer at nine on a Friday night. Eventually I had 570 of them. I built a site. Two thousand agents have used it since. Today I am opening it up to every real estate agent. No login, no paywall, no email gate. Just the prompts.
+**Description:** Every time an agent at my brokerage asked me what to type into ChatGPT, I wrote down the prompt I gave them. The objection from the buyer who wants the commission cut. The voice memo from the car after a showing. The lowball offer at nine on a Friday night. Eventually I had 570 of them. I built a site. Two thousand agents have used it since. Today I am opening it up to every real estate agent. Three prompts free, then an email gets you all 570.
 **Hashtags:** #shorts #realestate #aiforrealtors #chatgpt #realestateagent #realestatetech #realestatecoaching #keepingitrealpodcast
 
 ### Facebook
@@ -111,7 +111,7 @@ Eventually I had 570 of them. So I built a site.
 
 My podcast listeners heard about it and asked for access. I gave it to them. Two thousand agents have used it since.
 
-Not one of them gave me an email address. Because I never asked. No login. No paywall. No email gate. Just the prompts.
+Try three prompts free. No login. No signup. After the third, I ask for an email. That gets you all 570. That is the whole deal.
 
 Today I am opening it up to everyone. tapthis.co. Pick one. Use it before your next showing.
 
@@ -125,7 +125,7 @@ Eventually I had 570 of them.
 
 Two thousand agents have used it since I opened it past Kale.
 
-Not one gave me an email. I never asked.
+Three free. After that, give me an email and you get all 570.
 
 Today it opens to everyone. tapthis.co.
 
@@ -134,6 +134,5 @@ Today it opens to everyone. tapthis.co.
 ## Notes
 
 - Script lives in `scripts/reels/bonus/` because it is a one-off product announcement, not part of the recurring AI Tip of the Week / Inside the Industry / Agent Tip of the Day rotation.
-- "tapthis.co" is spoken twice -- once in the product introduction, once in the close -- for memorability.
-- The "no login / no paywall / no email gate" trio addresses the skepticism agents bring to any "free" offer. Naming the objection out loud disarms it.
-- Walk-and-talk format keeps the energy human. No screen demo means the URL has to live in the viewer's ear, which is why it gets repeated.
+- The "Three prompts free. No login. No signup. After that I ask one thing of you. An email address." structure addresses the skepticism agents bring to any "free" offer by being honest about the access model up front. The contrast with typical SaaS gates (email required before any value) does the persuasive work without bragging.
+- Walk-and-talk format keeps the energy human. No screen demo means the URL has to live in the viewer's ear, which is why it sits as the punctuation at the end of the close instead of being labeled as a CTA.
