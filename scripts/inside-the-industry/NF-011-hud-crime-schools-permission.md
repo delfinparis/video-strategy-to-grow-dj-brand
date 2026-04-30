@@ -19,7 +19,7 @@ status: "ready"
 ## Shareable Moment
 > "You can hand them the data. You still can't hand them your judgment."
 
-## Script (~30 seconds)
+## Script (~45 seconds)
 
 ### HOOK (0:00-0:05)
 Buyers have been asking you about crime and schools for years. You've been ducking it. HUD just told you to stop.
@@ -30,10 +30,13 @@ April 24th. HUD dropped a Dear Colleague letter. Sharing crime data and school q
 ### THE CATCH (0:13-0:24)
 Here's what most agents are about to miss. HUD said the data is fine. Your opinion of the data is not. Hand them the crime stats. Don't say "bad neighborhood." Hand them the school ratings. Don't say "I wouldn't send my kid there." Data, yes. Judgment, no.
 
-### CLOSE (0:24-0:30)
+### WHY IT MATTERS (0:24-0:35)
+Here's what your buyer is actually asking. Not for you to violate fair housing. For help figuring out if their kids will be safe. The agent who hands them objective data looks like an expert. The agent who says "I can't talk about that" looks like they're hiding something. HUD just handed you the high ground.
+
+### CLOSE (0:35-0:45)
 Build a one-page buyer resource. Crime stats from the city dashboard. School ratings from the state report card. Hand it to every buyer at the start of every search. You just stopped ducking the question. Without crossing the line.
 
-**Estimated Duration:** ~32 seconds
+**Estimated Duration:** ~45 seconds
 
 ## Data Source
 
@@ -79,6 +82,8 @@ School ratings: fine.
 "I wouldn't send my own kid there": still a fair housing violation.
 
 NAR's own guidance puts it plainly: subjective commentary, personal opinions, and hearsay about schools or crime have been cited as evidence of discriminatory intent. The safe harbor is the data itself. The minute you editorialize, the protection is gone.
+
+Here is the part most agents are missing in the conversation about this letter. Your buyer is not trying to put you in a fair housing violation. They are trying to figure out if their kids will be safe and where they will go to school. Two things every buyer with a child is going to ask. The agent who hands them objective data looks like an expert. The agent who says "I can't talk about that" looks like they are hiding something. HUD just handed you the high ground.
 
 So here is the play.
 
