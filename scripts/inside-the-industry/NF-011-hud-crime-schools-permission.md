@@ -118,7 +118,7 @@ HUD just told real estate agents you can talk about crime and schools again. The
 #realtortok #realestatetok #realtor #fairhousing #realestatenews #realtorlife #realestate2026 #buyeragent
 
 ### YouTube Shorts
-**Title:** HUD Just Ended a 40-Year Awkward Moment for Real Estate Agents (Here's the Catch)
+**Title:** HUD Just Changed the Crime and Schools Rule (Here's the Catch)
 
 **Description:**
 April 24, 2026: HUD issued Dear Colleague letter HUD No. 26-028, clarifying that sharing neighborhood crime data and school quality data with prospective homebuyers is not a Fair Housing Act violation. NAR confirmed alignment in their April 29 Washington Report.
