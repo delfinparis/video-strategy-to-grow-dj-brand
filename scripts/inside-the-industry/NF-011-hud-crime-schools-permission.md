@@ -7,6 +7,9 @@ avatar: "All"
 content_pillar: "market_intelligence"
 post_date: "2026-04-29"
 status: "ready"
+heat: 3
+loop_back: "You just stopped ducking it. Without crossing the line."
+stat_anchored: true
 ---
 
 # HUD Just Told You to Stop Ducking the Crime and Schools Question
@@ -22,19 +25,19 @@ status: "ready"
 ## Script (~45 seconds)
 
 ### HOOK (0:00-0:05)
-Buyers have been asking you about crime and schools for years. You've been ducking it. HUD just told you to stop.
+Every agent I've talked to has been ducking the crime and schools question for forty years. HUD just told us to stop.
 
 ### CONTEXT (0:05-0:13)
 April 24th. HUD dropped a Dear Colleague letter. Sharing crime data and school quality data with buyers is not a Fair Housing Act violation. NAR confirmed it this week.
 
 ### THE CATCH (0:13-0:24)
-Here's what most agents are about to miss. HUD said the data is fine. Your opinion of the data is not. Hand them the crime stats. Don't say "bad neighborhood." Hand them the school ratings. Don't say "I wouldn't send my kid there." Data, yes. Judgment, no.
+Here's the part most agents are about to miss. HUD said the data is fine. Your opinion of the data is not. Hand them the crime stats. Don't say "bad neighborhood." Hand them the school ratings. Don't say "I wouldn't send my own kid there." (I shouldn't have to clarify the second one. Apparently I do.) Data, yes. Judgment, no.
 
 ### WHY IT MATTERS (0:24-0:35)
-Here's what your buyer is actually asking. Not for you to violate fair housing. For help figuring out if their kids will be safe. The agent who hands them objective data looks like an expert. The agent who says "I can't talk about that" looks like they're hiding something. HUD just handed you the high ground.
+Here's what your buyer is actually asking. Not for you to violate fair housing. They want to know if their kids will be safe. The agent who hands them objective data looks like an expert. The agent who says "I can't talk about that" looks like they're hiding something. HUD just handed us the high ground.
 
 ### CLOSE (0:35-0:45)
-Build a one-page buyer resource. Crime stats from the city dashboard. School ratings from the state report card. Hand it to every buyer at the start of every search. You just stopped ducking the question. Without crossing the line.
+Build a one-page buyer resource. Crime stats from the city dashboard. School ratings from the state report card. Hand it to every buyer at the start of every search. You just stopped ducking it. Without crossing the line.
 
 **Estimated Duration:** ~45 seconds
 
@@ -67,45 +70,45 @@ Build a one-page buyer resource. Crime stats from the city dashboard. School rat
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-Buyers have been asking you about crime and schools for years. You've been ducking it. HUD just told you to stop.
+Every agent I've talked to in twelve years has been ducking the crime and schools question. HUD just told us to stop.
 
-On April 24, HUD issued a Dear Colleague letter, identifier HUD No. 26-028, that emphasizes it is not a violation of the Fair Housing Act to share information with prospective homebuyers about neighborhood crime rates and school quality data. NAR's Washington Report this week confirmed alignment with that position.
+On April 24, HUD issued a Dear Colleague letter (HUD No. 26-028) that says it's not a Fair Housing Act violation to share neighborhood crime data and school quality data with prospective homebuyers. NAR's Washington Report this week confirmed alignment.
 
-That is the headline. Here is the part most agents are about to miss.
+That's the headline. Here's the part most agents are about to miss.
 
 HUD said the data is fine. Your opinion of the data is not.
 
 Crime stats: fine.
-"That's a bad neighborhood": still a fair housing violation.
+"That's a bad neighborhood": still a Fair Housing violation.
 
 School ratings: fine.
-"I wouldn't send my own kid there": still a fair housing violation.
+"I wouldn't send my own kid there": still a Fair Housing violation. (I shouldn't have to type that sentence in 2026. Apparently I do.)
 
-NAR's own guidance puts it plainly: subjective commentary, personal opinions, and hearsay about schools or crime have been cited as evidence of discriminatory intent. The safe harbor is the data itself. The minute you editorialize, the protection is gone.
+NAR's own guidance puts it plainly. Subjective commentary, personal opinions, and hearsay about schools or crime have been cited as evidence of discriminatory intent. The safe harbor is the data. The minute you editorialize, the protection is gone.
 
-Here is the part most agents are missing in the conversation about this letter. Your buyer is not trying to put you in a fair housing violation. They are trying to figure out if their kids will be safe and where they will go to school. Two things every buyer with a child is going to ask. The agent who hands them objective data looks like an expert. The agent who says "I can't talk about that" looks like they are hiding something. HUD just handed you the high ground.
+Now here's the part I think most of the conversation about this letter is missing. Your buyer isn't trying to put you in a Fair Housing violation. They're trying to figure out if their kids will be safe and where they'll go to school. Two things every buyer with a child is going to ask. The agent who hands them objective data looks like an expert. The agent who says "I can't talk about that" looks like they're hiding something. HUD just handed us the high ground.
 
-So here is the play.
+So here's the play.
 
-Build a one-page buyer resource. Two columns. Left column: a link to your local police department's or city's open crime dashboard. Right column: a link to your state's school report card. That is the document. Nothing else. No commentary. No highlighting. No "by the way."
+Build a one-page buyer resource. Two columns. Left: a link to your local police department's or city's open crime dashboard. Right: a link to your state's school report card. That's the whole document. No commentary. No highlighting. No "by the way."
 
 Hand it to every buyer at the start of every search.
 
-You just stopped ducking the question that has made every buyer consultation feel like a minefield for the last forty years. Without crossing the line.
+You just stopped ducking the question that has made every buyer consultation feel like a minefield for forty years. Without crossing the line.
 
-For Chicago agents, the two sources I'd point to are data.cityofchicago.org for crime and illinoisreportcard.com for schools. Those are the objective public sources. Hand them to your buyer. Let the data do the work.
+For Chicago agents, the two I'd point to are data.cityofchicago.org for crime and illinoisreportcard.com for schools. Hand them to your buyer. Let the data do the work.
 
 **Hashtags:** #RealEstate #FairHousing #BuyerAgent #ChicagoRealEstate #RealtorLife #HUD #NAR #RealEstate2026 #InsideTheIndustry #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
-Buyers have been asking you about crime and schools for years. You've been ducking it. HUD just told you to stop.
+Every agent I've talked to has been ducking the crime and schools question for forty years. HUD just told us to stop.
 
-April 24th. HUD No. 26-028. Sharing crime data and school quality data with buyers is not a Fair Housing Act violation. NAR confirmed.
+April 24. HUD No. 26-028. Sharing crime and school quality data with buyers isn't a Fair Housing Act violation. NAR confirmed.
 
-The catch: data is fine. Your opinion of the data is not. Hand them the crime stats. Don't say "bad neighborhood." Hand them the school ratings. Don't say "I wouldn't send my kid there." Data, yes. Judgment, no.
+The catch most are about to miss: data is fine. Your opinion of the data is not. Hand them the crime stats. Don't say "bad neighborhood." Hand them the school ratings. Don't say "I wouldn't send my kid there." Data, yes. Judgment, no.
 
-Build a one-page buyer resource. Crime stats. School ratings. Nothing else. Hand it to every buyer at the start of every search. You just stopped ducking the question. Without crossing the line.
+Build a one-page buyer resource. Crime stats. School ratings. Nothing else. Hand it to every buyer at the start of every search. You just stopped ducking it. Without crossing the line.
 
 **Hashtags:**
 #realestate #realtor #realtorlife #fairhousing #buyeragent #chicagorealestate #realestate2026 #realestateagent #keepingitrealpodcast #chicagorealtor #insidetheindustry #hud #kalerealty
@@ -121,35 +124,35 @@ HUD just told real estate agents you can talk about crime and schools again. The
 **Title:** HUD Just Changed the Crime and Schools Rule (Here's the Catch)
 
 **Description:**
-April 24, 2026: HUD issued Dear Colleague letter HUD No. 26-028, clarifying that sharing neighborhood crime data and school quality data with prospective homebuyers is not a Fair Housing Act violation. NAR confirmed alignment in their April 29 Washington Report.
+April 24, 2026. HUD issued Dear Colleague letter HUD No. 26-028, clarifying that sharing neighborhood crime data and school quality data with prospective homebuyers isn't a Fair Housing Act violation. NAR confirmed alignment in their April 29 Washington Report.
 
-D.J. Paris on the load-bearing nuance most agents are about to miss: HUD said the data is fine, your opinion of the data is not. Crime stats yes, "bad neighborhood" no. School ratings yes, "I wouldn't send my kid there" no.
+D.J. Paris on the nuance most agents are about to miss. HUD said the data is fine. Your opinion of the data is not. Crime stats yes, "bad neighborhood" no. School ratings yes, "I wouldn't send my kid there" no.
 
-The action: build a one-page buyer resource with public crime dashboard data and state school report card data. Hand it to every buyer at the start of every search. Stop ducking the question without crossing the line.
+The play: build a one-page buyer resource with public crime dashboard data and state school report card data. Hand it to every buyer at the start of every search. Stop ducking the question without crossing the line.
 
 **Hashtags:** #shorts #realestate #fairhousing #hud #nar #buyeragent #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
-Buyers have been asking you about crime and schools for years. You've been ducking it. HUD just told you to stop.
+Every agent I've talked to has been ducking the crime and schools question for forty years. HUD just told us to stop.
 
-On April 24, HUD issued a Dear Colleague letter (HUD No. 26-028) clarifying that it is not a Fair Housing Act violation to share information with prospective homebuyers about neighborhood crime rates and school quality data. NAR's Washington Report this week confirmed alignment.
+On April 24, HUD issued a Dear Colleague letter (HUD No. 26-028) clarifying that it isn't a Fair Housing Act violation to share neighborhood crime data and school quality data with prospective homebuyers. NAR's Washington Report this week confirmed alignment.
 
-Here is the part most agents are about to miss.
+Here's the part most agents are about to miss.
 
 HUD said the data is fine. Your opinion of the data is not. Crime stats: fine. "That's a bad neighborhood": still a violation. School ratings: fine. "I wouldn't send my kid there": still a violation.
 
-The safe harbor is the data itself. The minute you editorialize, the protection is gone.
+The safe harbor is the data. The minute you editorialize, the protection is gone.
 
 The play: build a one-page buyer resource. Crime stats from your local police department's or city's public dashboard. School ratings from your state's school report card. Nothing else. No commentary. No "by the way." Hand it to every buyer at the start of every search.
 
-You just stopped ducking the question. Without crossing the line.
+You just stopped ducking it. Without crossing the line.
 
 **Hashtags:** #RealEstate #FairHousing #BuyerAgent #ChicagoRealEstate #RealtorLife #HUD
 
 ### X (Twitter)
 **Caption:**
-HUD No. 26-028 (April 24): sharing crime stats and school quality data with buyers is not a Fair Housing Act violation. NAR confirmed.
+HUD No. 26-028 (April 24): sharing crime stats and school quality data with buyers isn't a Fair Housing Act violation. NAR confirmed.
 
 The catch most agents will miss: data is fine. Your opinion of the data is not.
 
