@@ -2,16 +2,16 @@
 series: "Inside the Industry"
 type: "reactive"
 script_number: "NF-013"
-title: "The April Jobs Report Just Told You Where Your Next Listing Is"
+title: "The April Jobs Report Just Told You Where Your Next Listing Lives"
 avatar: "All"
 content_pillar: "market_intelligence"
 post_date: "2026-05-06"
 status: "draft"
 ---
 
-# The April Jobs Report Just Told You Where Your Next Listing Is
+# The April Jobs Report Just Told You Where Your Next Listing Lives
 
-> **WOW: Pattern reveal plus contrarian take. The April 2026 BLS jobs report (released this past Friday) showed 115,000 jobs added overall and a 4.3% unemployment rate, but the actionable signal for real estate was buried in the sector mix: healthcare +37,000, transportation and warehousing +30,000, federal government -9,000, manufacturing -2,000. Most agents read the jobs report for Fed and rate-cut clues. The actual play is reading it as a metro-by-metro relocation map. Where jobs are being added, listings are coming. Where jobs are being cut, distressed sales are forming. The jobs report is a leading indicator on local listing inventory three to nine months out, and almost no agent in the country is using it that way.**
+> **WOW: Pattern reveal plus contrarian take. The April 2026 BLS jobs report (released Friday) showed 115,000 jobs added overall and a 4.3% unemployment rate, but the actionable signal for real estate was buried in the sector mix: healthcare +37,000, transportation and warehousing +30,000, federal government -9,000, manufacturing -2,000. Most agents read the jobs report for Fed and rate-cut clues. The actual play is reading it as a metro-by-metro relocation map. Where jobs are being added, listings are coming. Where jobs are being cut, distressed sales are forming. The jobs report is a leading indicator on local listing inventory three to nine months out, and almost no agent in the country is using it that way.**
 
 **Pillar:** Market Intelligence | **Avatars:** All
 **Post Date:** Tuesday, May 6, 2026
@@ -19,32 +19,32 @@ status: "draft"
 ## Shareable Moment
 > "The jobs report isn't a rates story. It's a relocation story."
 
-## Script (~56 seconds)
+## Script (~53 seconds)
 
 ### HOOK (0:00-0:07)
-The April jobs report told you exactly where your next listing is coming from. Most agents missed it.
+Friday's jobs report told you where your next listing lives. Most agents read it like economists.
 
-### CONTEXT (0:07-0:18)
-Friday's print. One hundred fifteen thousand jobs added overall, beating the forecast. Most agents read the headline. Top producers read the sectors.
+### CONTEXT (0:07-0:17)
+The headline was one hundred fifteen thousand jobs, beating the forecast. Most agents read it for Fed clues. Top producers read it for relocations.
 
-### WHY IT MATTERS (0:18-0:32)
-Healthcare added thirty-seven thousand jobs in April. Federal government lost nine thousand. Manufacturing lost ground. Where the hiring is, listings are coming. Where the layoffs are, distressed sales are forming.
+### WHY IT MATTERS (0:17-0:29)
+Healthcare added thirty-seven thousand jobs. Federal government lost nine thousand. Manufacturing lost ground. That's a map. Hiring sectors mean relocations. Layoff sectors mean forced sales.
 
-### WHAT YOU DO NOW (0:32-0:50)
+### WHAT YOU DO NOW (0:29-0:46)
 Here's what you do this week.
 
-One. Pull the BLS sector breakdown for your metro. Find the two sectors hiring most.
+One. Pull the BLS sector breakdown for your metro. The two sectors hiring most are your listing pipeline.
 
-Two. Identify three people in your sphere who work in those sectors. Call one today.
+Two. Pick three people in your sphere who work in those sectors. Call one today.
 
-Three. Watch the layoff announcements in your market. Those are your distressed-listing leads.
+Three. Watch local layoff announcements. Those are your distressed-listing leads.
 
-### CLOSE (0:50-0:56)
-The jobs report isn't a rates story. It's a relocation story. Read the sectors like a listings map. That's where your next deal lives.
+### CLOSE (0:46-0:53)
+The jobs report isn't a rates story. It's a relocation story. Read the sectors like a listings map. That's your next listing.
 
-**Estimated Duration:** ~56 seconds
+**Estimated Duration:** ~53 seconds
 
-**Length justification:** The script earns 56 seconds because the contrarian take requires four beats. The hook frames the misuse. The context anchors the data and lands the explicit contrast structure (most agents vs. top producers) as the 15-second re-hook. The why-it-matters beat translates the sector data into the actionable implication (listings vs. distressed sales). The action layer carries three executable steps that map directly to the implication. Cutting any beat breaks the chain.
+**Length justification:** The script earns 53 seconds because the contrarian take requires four beats. The hook frames the misuse with a directional verb. The context anchors the data and lands the explicit "most agents / top producers" contrast structure as the 15-second re-hook. The why-it-matters beat translates the sector data into the agent payoff, ending on the "that's a map" punchline. The action layer carries three executable steps that route through public, free data. Cutting any beat breaks the chain.
 
 ## Data Source
 
@@ -67,11 +67,11 @@ The jobs report isn't a rates story. It's a relocation story. Read the sectors l
   - Spoken delivery uses qualitative framing ("lost ground") to keep numbers per line under the Rule 5 cap and to avoid stacking three sub-2,000 numbers in one beat that would lose the listener
   - Status: confirmed; exact figure preserved here per Rule 1
 
-- **Claim (qualitative framing):** "Where the hiring is, listings are coming. Where the layoffs are, distressed sales are forming"
+- **Claim (qualitative framing):** "That's a map. Hiring sectors mean relocations. Layoff sectors mean forced sales"
   - Editorial reframe of the sector data, not a numeric claim. The logic chain (job creation in a sector -> relocations -> listing inventory; layoffs in a sector -> forced moves -> distressed sales) is widely understood in market-cycle real estate analysis. The script does not claim a specific lag time in spoken delivery; the WOW gate notes the typical leading-indicator window of three to nine months as context for the writer/reviewer, not as an on-camera number.
   - Status: editorial framing supported by BLS data, not a quoted statistic
 
-- **Claim (qualitative framing):** "Most agents read the headline. Top producers read the sectors"
+- **Claim (qualitative framing):** "Most agents read it for Fed clues. Top producers read it for relocations"
   - Editorial contrast framing per Rule 3. Defensible against the dominant industry coverage of jobs reports, which centers on Fed implications and rate-cut probability rather than sector composition.
   - Status: editorial color, not a stat
 
@@ -82,7 +82,7 @@ The jobs report isn't a rates story. It's a relocation story. Read the sectors l
 - **Cross-reference within series:**
   - NF-012 (`NF-012-rates-arent-the-lever-life-events-are.md`) -- the rates-vs-life-events thesis. NF-013 is the natural sequel: NF-012 says rates aren't the lever, NF-013 names the actual lever (sector hiring) and gives the agent a tool (BLS sector breakdown) to track it.
   - NF-007 (`NF-007-home-sellers-cutting-prices.md`) -- price cuts as symptom; NF-013 frames sector-level layoffs as a leading indicator for the price cuts.
-  - NF-010 (`NF-010-nar-budget-1-in-5.md`) -- NAR membership compression. The +19K quits in real estate and rental and leasing reported in the same April jobs report (not in spoken script) is consistent with the broader industry contraction thesis. Worth a synthesis treatment if pulled into IS.
+  - NF-010 (`NF-010-nar-budget-1-in-5.md`) -- NAR membership compression. The +19,000 quits in real estate and rental and leasing reported in the same April jobs report (not in spoken script) is consistent with the broader industry contraction thesis. Worth a synthesis treatment if pulled into IS.
 
 - **Action layer:** Each of the three actions is executable this week and routes through public, free data the agent already has access to. The BLS publishes metro-level employment data monthly (Local Area Unemployment Statistics and Metropolitan Statistical Area data). WARN notices are state-level mass-layoff disclosures publicly searchable in every state with a WARN Act program. Local layoff announcements appear in regional business journals and local news. None of the actions require a paid product, brokerage program, or proprietary data source.
 
@@ -92,45 +92,43 @@ The jobs report isn't a rates story. It's a relocation story. Read the sectors l
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-The April jobs report told you exactly where your next listing is coming from. Most agents missed it.
+Friday's jobs report told you where your next listing lives. Most agents read it like economists.
 
-Friday's print: 115,000 jobs added overall, beating the 62,000 forecast. The headline is fine. The sectors are the story.
+The headline was 115,000 jobs added, beating the 62,000 forecast. Most agents read it for Fed clues. Top producers read it for relocations.
 
 Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground.
 
-Most agents read the jobs report for Fed and rate-cut clues. Top producers should read it as a metro-by-metro relocation map. Where jobs are being added, listings are coming. Where jobs are being cut, distressed sales are forming.
+That's a map. Hiring sectors mean relocations. Layoff sectors mean forced sales.
 
 The jobs report is a leading indicator on local listing inventory three to nine months out. The agents who treat it that way get a six-month head start on the agents who don't.
 
 Three things every agent should do this week.
 
-One. Pull the BLS sector breakdown for your metro. Find the two sectors hiring most. The BLS publishes metro-level employment data monthly under the Local Area Unemployment Statistics program.
+One. Pull the BLS sector breakdown for your metro. The two sectors hiring most are your listing pipeline. The BLS publishes metro-level employment data monthly under the Local Area Unemployment Statistics program.
 
-Two. Identify three people in your sphere who work in those growing sectors. Call one today.
+Two. Pick three people in your sphere who work in those growing sectors. Call one today.
 
 Three. Watch the WARN notices and layoff announcements in your market. Those are your distressed-listing leads.
 
-The jobs report isn't a rates story. It's a relocation story. Read the sectors like a listings map. That's where your next deal lives.
+The jobs report isn't a rates story. It's a relocation story. Read the sectors like a listings map. That's your next listing.
 
 **Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #JobsReport #ListingAgent
 
 ### Instagram Reels
 **Caption:**
-The April jobs report told you exactly where your next listing is coming from. Most agents missed it.
+Friday's jobs report told you where your next listing lives. Most agents read it like economists.
 
-Friday's print: 115,000 jobs added overall. The headline is fine. The sectors are the story.
+The headline was 115,000 jobs added, beating the forecast. Most agents read it for Fed clues. Top producers read it for relocations.
 
-Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground.
-
-Most agents read the jobs report for Fed clues. Top producers read it as a relocation map. Where jobs are added, listings are coming. Where jobs are cut, distressed sales are forming.
+Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground. Hiring sectors mean relocations. Layoff sectors mean forced sales.
 
 What to do this week.
 
-One. Pull the BLS sector breakdown for your metro. Find the two sectors hiring most.
+One. Pull the BLS sector breakdown for your metro. The two sectors hiring most are your listing pipeline.
 
-Two. Identify three people in your sphere in those sectors. Call one today.
+Two. Pick three people in your sphere in those sectors. Call one today.
 
-Three. Watch the layoff announcements in your market. Those are your distressed-listing leads.
+Three. Watch local layoff announcements. Those are your distressed-listing leads.
 
 The jobs report isn't a rates story. It's a relocation story.
 
@@ -139,34 +137,34 @@ The jobs report isn't a rates story. It's a relocation story.
 
 ### TikTok
 **Caption:**
-The April jobs report just told you where your next listing is. Most agents missed it. Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground. Three moves this week. One, pull the BLS sector breakdown for your metro. Two, identify three people in your sphere in those growing sectors and call one today. Three, watch the layoff announcements. Those are your distressed-listing leads.
+Friday's jobs report told you where your next listing lives. Most agents read it like economists. Healthcare added 37,000 jobs. Federal government lost 9,000. Three moves this week. One, pull the BLS sector breakdown for your metro. The two hiring most are your listing pipeline. Two, pick three people in your sphere who work in those sectors and call one today. Three, watch local layoff announcements. Those are your distressed-listing leads.
 
 **Hashtags:**
 #realtortok #realestatetok #realtor #housingmarket #realtorlife #jobsreport #realestatenews #realestate2026 #insidetheindustry
 
 ### YouTube Shorts
-**Title:** The April Jobs Report Just Told You Where Your Next Listing Is
+**Title:** The April Jobs Report Just Told You Where Your Next Listing Lives
 
 **Description:**
-The April 2026 BLS jobs report dropped Friday: 115,000 jobs added overall, beating the 62,000 forecast. Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground. D.J. Paris breaks down why the headline is the wrong thing to read, and how to use the sector breakdown as a metro-by-metro relocation map for the next six months of listing pipeline.
+The April 2026 BLS jobs report dropped Friday: 115,000 jobs added overall, beating the 62,000 forecast. Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground. Most agents read the jobs report for Fed clues. Top producers read it for relocations. D.J. Paris breaks down how to use the sector breakdown as a metro-by-metro listings map for the next six months of pipeline.
 
 **Hashtags:** #shorts #realestate #housingmarket #jobsreport #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #listingagent
 
 ### Facebook
 **Caption:**
-The April jobs report told you exactly where your next listing is coming from. Most agents missed it.
+Friday's jobs report told you where your next listing lives. Most agents read it like economists.
 
-Friday's print: 115,000 jobs added overall, beating the 62,000 forecast. The headline is fine. The sectors are the story.
+The headline was 115,000 jobs added, beating the 62,000 forecast. Most agents read it for Fed clues. Top producers read it for relocations.
 
 Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground.
 
-Most agents read the jobs report for Fed and rate-cut clues. Top producers should read it as a metro-by-metro relocation map. Where jobs are being added, listings are coming. Where jobs are being cut, distressed sales are forming.
+That's a map. Hiring sectors mean relocations. Layoff sectors mean forced sales.
 
 Three things every agent should do this week.
 
-One. Pull the BLS sector breakdown for your metro. Find the two sectors hiring most.
+One. Pull the BLS sector breakdown for your metro. The two sectors hiring most are your listing pipeline.
 
-Two. Identify three people in your sphere who work in those growing sectors. Call one today.
+Two. Pick three people in your sphere who work in those growing sectors. Call one today.
 
 Three. Watch the WARN notices and layoff announcements in your market. Those are your distressed-listing leads.
 
@@ -176,29 +174,25 @@ The jobs report isn't a rates story. It's a relocation story.
 
 ### X (Twitter)
 **Caption:**
-The April jobs report told you exactly where your next listing is coming from. Most agents missed it.
+Friday's jobs report told you where your next listing lives. Most agents read it like economists.
 
 Healthcare +37,000.
 Federal gov -9,000.
 Manufacturing lost ground.
 
-Most agents read the jobs report for Fed clues. Top producers read it as a relocation map.
-
 Three moves this week:
-1. Pull the BLS sector breakdown for your metro.
-2. Identify three people in your sphere in growing sectors. Call one today.
-3. Watch the layoff announcements. Those are distressed-listing leads.
+1. Pull the BLS sector breakdown for your metro. The top two are your listing pipeline.
+2. Pick three people in your sphere in growing sectors. Call one today.
+3. Watch layoff announcements. Distressed-listing leads.
 
-Read the jobs report like an agent, not an economist.
+Read it like an agent, not an economist.
 
 **Hashtags:** #RealEstate #HousingMarket #JobsReport
 
 ### Threads
 **Post:**
-The April jobs report just told you where your next listing is coming from. Most agents missed it.
+Friday's jobs report told you where your next listing lives. Most agents read it like economists.
 
-Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground.
+Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground. Hiring sectors mean relocations. Layoff sectors mean forced sales.
 
-Most agents read the jobs report for Fed clues. Top producers read it as a relocation map. Where jobs are being added, listings are coming. Where jobs are being cut, distressed sales are forming.
-
-Pull the BLS sector breakdown for your metro this week. The two sectors hiring most are where your listings are coming.
+Pull the BLS sector breakdown for your metro this week. The two sectors hiring most are your listing pipeline.
