@@ -28,7 +28,7 @@ Eighty-one hundred dollars a year. That's what the median new Realtor makes. Nob
 That's from NAR's twenty-twenty-five Member Profile. Realtors with sixteen years or more make seventy-nine thousand. Ten times the income. On the same career label.
 
 ### WHY IT MATTERS (0:17-0:27)
-The industry sells the dream of real estate. The data shows the survival filter. The median rookie can't pay rent on what real estate pays. That's why the new-agent share keeps shrinking.
+The industry sells the dream of real estate. The data shows the survival filter. The median rookie isn't making a living on what real estate pays. That's why the new-agent share keeps shrinking.
 
 ### WHAT YOU DO NOW (0:27-0:47)
 Here's what you do this week.
