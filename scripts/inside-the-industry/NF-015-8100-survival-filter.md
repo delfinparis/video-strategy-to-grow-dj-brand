@@ -27,10 +27,10 @@ Eighty-one hundred dollars a year. That's what the median new Realtor makes. Nob
 ### CONTEXT (0:07-0:17)
 That's from NAR's twenty-twenty-five Member Profile. Realtors with sixteen years or more make seventy-nine thousand. Ten times the income. On the same career label.
 
-### WHY IT MATTERS (0:17-0:27)
-The industry sells the dream of real estate. The data shows the survival filter. The median rookie isn't making a living on what real estate pays. That's why the new-agent share keeps shrinking.
+### WHY IT MATTERS (0:17-0:29)
+The industry sells the dream of real estate. The data shows the survival filter. A lot of those rookies are part-time. Even part-time, they aren't making a living on what real estate pays. Going part-time is the on-ramp to leaving the business.
 
-### WHAT YOU DO NOW (0:27-0:47)
+### WHAT YOU DO NOW (0:29-0:49)
 Here's what you do this week.
 
 One. If you're a brokerage leader, look at your last two years of recruits. Most of them are making rookie money. Plan your training spend accordingly.
@@ -39,12 +39,12 @@ Two. If you're a top producer, stop competing with rookies on price. You compete
 
 Three. If you're a new agent, name the gap. The first two years are a survival filter. Plan for it.
 
-### CLOSE (0:47-0:55)
+### CLOSE (0:49-0:57)
 The industry sells the dream. The data shows the grind. The first two years aren't a meritocracy. They're a survival filter.
 
-**Estimated Duration:** ~55 seconds
+**Estimated Duration:** ~57 seconds
 
-**Length justification:** The script earns 55 seconds because the action layer addresses three audience tiers (brokerage leader, top producer, new agent) that genuinely need different framings of the same stat. Compressing to one tier would lose either the recruiting-math wake-up call (broker), the competitive reframe (producer), or the permission slip (rookie). The 15-second re-engagement lands on "The industry sells the dream. The data shows the survival filter" inside the WHY IT MATTERS beat. The close repeats the dream-grind contrast as the segment's rhetorical spine.
+**Length justification:** The script earns 57 seconds because the action layer addresses three audience tiers (brokerage leader, top producer, new agent) that genuinely need different framings of the same stat, and the WHY IT MATTERS beat names the part-time mechanism that makes the cohort math work. Compressing to one tier would lose either the recruiting-math wake-up call (broker), the competitive reframe (producer), or the permission slip (rookie). The 15-second re-engagement lands on "The industry sells the dream. The data shows the survival filter" inside the WHY IT MATTERS beat. The close repeats the dream-grind contrast as the segment's rhetorical spine.
 
 ## Data Source
 
@@ -67,9 +67,14 @@ The industry sells the dream. The data shows the grind. The first two years aren
   - Editorial reframe, not a numeric claim. Defensible against the multi-year NAR data showing the share of members with two years of experience or less falling (15% in 2025, down from 18% in 2024) while the share with sixteen-plus years of experience rises (46% in 2025, up from 42% in 2024).
   - Status: editorial framing supported by NAR data, not a quoted statistic
 
-- **Claim (qualitative framing):** "The new-agent share keeps shrinking"
+- **Claim (qualitative framing):** "The new-agent share keeps shrinking" (referenced in earlier draft; superseded in the polished spoken script by the part-time on-ramp framing)
   - Source: NAR 2025 Member Profile. The share of members with two years of experience or less fell to 15% from 18% in the prior year. Median Realtor age rose from 55 to 57. The share of agents under 40 fell from 17% to 11%.
-  - Status: confirmed as directionally accurate; spoken script uses qualitative framing ("keeps shrinking") rather than a specific year-over-year percentage point
+  - Status: confirmed as directionally accurate
+
+- **Claim (qualitative framing):** "A lot of those rookies are part-time. Going part-time is the on-ramp to leaving the business"
+  - Cohort composition note: NAR's reporting for Realtors with two years of experience or less includes both full-time and part-time agents. NAR's Member Profile has historically shown that a meaningful share of low-tenure Realtors are part-time, and that median hours-worked rises with tenure. The $8,100 median does not exclusively reflect full-time professional income; it reflects the income distribution across the entire rookie cohort.
+  - Editorial framing: this is load-bearing for the take, not a weakening of it. Acknowledging the part-time share strengthens the survival-filter thesis -- the agents who can't make full-time real estate work go part-time, and a substantial share of those leave within a few years. The script handles this in two spoken beats ("A lot of those rookies are part-time. Even part-time, they aren't making a living on what real estate pays") rather than burying it in the Data Source.
+  - Status: qualitative framing supported by NAR cohort data; no specific part-time percentage asserted in the spoken script
 
 - **Cross-reference within series:**
   - NF-010 (`NF-010-nar-budget-1-in-5.md`) -- NAR is budgeting for 1.2 million members in 2026, down from 1.491 million today. NF-015 names the human-level mechanism for that compression: the rookie income math doesn't work, so new agents leave.
@@ -89,6 +94,8 @@ The industry sells the dream. The data shows the grind. The first two years aren
 The median new Realtor makes $8,100 a year. That's the number nobody puts on the recruiting flyer.
 
 That comes from NAR's 2025 Member Profile. Realtors with two years of experience or less have a median gross income of $8,100. Realtors with sixteen years or more have a median of $78,900. Ten times the income, on the same career label.
+
+Worth knowing: a lot of those rookies are part-time, and the cohort figure includes them. Even so, the gap is structural. Going part-time is the on-ramp to leaving the business. Agents who can't make full-time real estate work go part-time first, and a substantial share leave within a few years.
 
 The industry sells the dream of real estate. The data shows the survival filter.
 
@@ -143,6 +150,8 @@ Per NAR's 2025 Member Profile, the median gross income for Realtors with two yea
 The median new Realtor makes $8,100 a year. That's the number nobody puts on the recruiting flyer.
 
 That comes from NAR's 2025 Member Profile. Realtors with two years of experience or less have a median gross income of $8,100. Realtors with sixteen years or more have a median of $78,900. Ten times the income, on the same career label.
+
+A lot of those rookies are part-time, and the cohort figure includes them. Even so, the gap is structural. Going part-time is the on-ramp to leaving the business.
 
 The industry sells the dream of real estate. The data shows the survival filter.
 
