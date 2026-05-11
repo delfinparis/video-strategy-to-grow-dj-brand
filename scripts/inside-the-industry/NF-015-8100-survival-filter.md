@@ -27,10 +27,10 @@ Eighty-one hundred dollars a year. That's what the median new Realtor makes. Nob
 ### CONTEXT (0:07-0:17)
 That's from NAR's twenty-twenty-five Member Profile. Realtors with sixteen years or more make seventy-nine thousand. Ten times the income. On the same career label.
 
-### WHY IT MATTERS (0:17-0:29)
-The industry sells the dream of real estate. The data shows the survival filter. A lot of those rookies are part-time. Even part-time, they aren't making a living on what real estate pays. Going part-time is the on-ramp to leaving the business.
+### WHY IT MATTERS (0:17-0:32)
+The industry sells the dream of real estate. The data shows the survival filter. The median Realtor works thirty-five hours a week. A lot of those rookies are part-time. Even part-time, they aren't making a living on what real estate pays. Going part-time is the on-ramp to leaving the business.
 
-### WHAT YOU DO NOW (0:29-0:49)
+### WHAT YOU DO NOW (0:32-0:52)
 Here's what you do this week.
 
 One. If you're a brokerage leader, look at your last two years of recruits. Most of them are making rookie money. Plan your training spend accordingly.
@@ -39,12 +39,12 @@ Two. If you're a top producer, stop competing with rookies on price. You compete
 
 Three. If you're a new agent, name the gap. The first two years are a survival filter. Plan for it.
 
-### CLOSE (0:49-0:57)
+### CLOSE (0:52-1:00)
 The industry sells the dream. The data shows the grind. The first two years aren't a meritocracy. They're a survival filter.
 
-**Estimated Duration:** ~57 seconds
+**Estimated Duration:** ~60 seconds
 
-**Length justification:** The script earns 57 seconds because the action layer addresses three audience tiers (brokerage leader, top producer, new agent) that genuinely need different framings of the same stat, and the WHY IT MATTERS beat names the part-time mechanism that makes the cohort math work. Compressing to one tier would lose either the recruiting-math wake-up call (broker), the competitive reframe (producer), or the permission slip (rookie). The 15-second re-engagement lands on "The industry sells the dream. The data shows the survival filter" inside the WHY IT MATTERS beat. The close repeats the dream-grind contrast as the segment's rhetorical spine.
+**Length justification:** The script earns 60 seconds because the action layer addresses three audience tiers (brokerage leader, top producer, new agent) that genuinely need different framings of the same stat, and the WHY IT MATTERS beat names two compounding mechanisms behind the cohort math (35-hour median plus part-time on-ramp) that make the survival filter visible to the listener. Compressing to one tier would lose either the recruiting-math wake-up call (broker), the competitive reframe (producer), or the permission slip (rookie). The 15-second re-engagement lands on "The median Realtor works thirty-five hours a week" inside the WHY IT MATTERS beat. The close repeats the dream-grind contrast as the segment's rhetorical spine.
 
 ## Data Source
 
@@ -62,6 +62,12 @@ The industry sells the dream. The data shows the grind. The first two years aren
 - **Claim:** "Ten times the income"
   - Math: $78,900 / $8,100 = 9.74. Rounding to "ten times" is a Rule 1-compliant qualitative simplification of the ratio. The exact multiplier is preserved here for the audit trail.
   - Status: derived from sourced numbers
+
+- **Claim:** "The median Realtor works thirty-five hours a week"
+  - Source: NAR 2025 Member Profile ([link](https://www.nar.realtor/infographics/2025-nar-member-profile-fast-facts))
+  - Who was measured: NAR-member Realtors, self-reported weekly hours worked in real estate
+  - Editorial note: 35 hours is below the conventional 40-hour full-time threshold used by most U.S. employment definitions. The script does not state that explicitly to keep the line tight, but the framing ("even the industry average is borderline part-time") in the LinkedIn and Facebook captions makes the implication visible to a reader.
+  - Status: confirmed
 
 - **Claim (qualitative framing):** "The industry sells the dream of real estate. The data shows the survival filter"
   - Editorial reframe, not a numeric claim. Defensible against the multi-year NAR data showing the share of members with two years of experience or less falling (15% in 2025, down from 18% in 2024) while the share with sixteen-plus years of experience rises (46% in 2025, up from 42% in 2024).
@@ -95,7 +101,7 @@ The median new Realtor makes $8,100 a year. That's the number nobody puts on the
 
 That comes from NAR's 2025 Member Profile. Realtors with two years of experience or less have a median gross income of $8,100. Realtors with sixteen years or more have a median of $78,900. Ten times the income, on the same career label.
 
-Worth knowing: a lot of those rookies are part-time, and the cohort figure includes them. Even so, the gap is structural. Going part-time is the on-ramp to leaving the business. Agents who can't make full-time real estate work go part-time first, and a substantial share leave within a few years.
+Worth knowing: NAR's same Member Profile reports the median Realtor works 35 hours a week. Even the industry average is borderline part-time. A lot of those rookies are part-time, and the cohort figure includes them. Even so, the gap is structural. Going part-time is the on-ramp to leaving the business.
 
 The industry sells the dream of real estate. The data shows the survival filter.
 
@@ -151,7 +157,7 @@ The median new Realtor makes $8,100 a year. That's the number nobody puts on the
 
 That comes from NAR's 2025 Member Profile. Realtors with two years of experience or less have a median gross income of $8,100. Realtors with sixteen years or more have a median of $78,900. Ten times the income, on the same career label.
 
-A lot of those rookies are part-time, and the cohort figure includes them. Even so, the gap is structural. Going part-time is the on-ramp to leaving the business.
+NAR's same Member Profile reports the median Realtor works 35 hours a week. Even the industry average is borderline part-time. A lot of those rookies are part-time, and the cohort figure includes them. Going part-time is the on-ramp to leaving the business.
 
 The industry sells the dream of real estate. The data shows the survival filter.
 
