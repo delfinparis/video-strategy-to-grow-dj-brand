@@ -2,49 +2,46 @@
 series: "Inside the Industry"
 type: "reactive"
 script_number: "NF-015"
-title: "The Median New Realtor Makes $8,100 a Year. Nobody Puts That on the Recruiting Flyer."
+title: "The Median New Realtor Makes $8,100 a Year. Here's How to Stop Being the Median."
 avatar: "All"
 content_pillar: "market_intelligence"
 post_date: "2026-05-06"
 status: "draft"
 ---
 
-# The Median New Realtor Makes $8,100 a Year. Nobody Puts That on the Recruiting Flyer.
+# The Median New Realtor Makes $8,100 a Year. Here's How to Stop Being the Median.
 
-> **WOW: Surprising statistic plus permission slip plus pattern reveal. NAR's 2025 Member Profile reports the median gross income for Realtors with two years of experience or less is $8,100. For Realtors with sixteen-plus years of experience, the median is $78,900. That is roughly a ten-times income gap by tenure, on the same career label. The industry sells the dream of real estate; the data shows the survival filter. Most non-agents and a lot of brand-new agents have no idea the rookie median is this low. The script lands as a permission slip for new agents to acknowledge the gap, a wake-up call for brokerage leaders doing recruiting math, and a perspective shift for top producers thinking about their real competition.**
+> **WOW: Surprising statistic plus tactical specificity. NAR's 2025 Member Profile reports the median gross income for Realtors with two years of experience or less is $8,100. The median for sixteen-plus year veterans is $78,900. The gap is real, and it isn't accidental. The agents who break through it do three things the median rookie isn't doing: they pick brokerages that actively develop new agents, they generate enough real conversations to fill a pipeline, and they specialize early. The script is built as direct coaching to the rookie cohort. The three actions in WHAT YOU DO NOW are concrete and executable this week. The implicit positioning -- "find a brokerage that specializes in helping you cross the gap" -- is on-brand for the Kale Realty operating model without naming Kale on camera.**
 
 **Pillar:** Market Intelligence | **Avatars:** All
 **Post Date:** Tuesday, May 6, 2026
 
 ## Shareable Moment
-> "The industry sells the dream. The data shows the grind."
+> "If your brokerage gives you splits and a logo, that's not enough."
 
-## Script (~55 seconds)
+## Script (~60 seconds)
 
 ### HOOK (0:00-0:07)
-Eighty-one hundred dollars a year. That's what the median new Realtor makes. Nobody puts that on the recruiting flyer.
+Eighty-one hundred dollars a year. That's the median new Realtor income. If that sounds familiar, here's how to stop being the median.
 
-### CONTEXT (0:07-0:17)
-That's from NAR's twenty-twenty-five Member Profile. Realtors with sixteen years or more make seventy-nine thousand. Ten times the income. On the same career label.
+### CONTEXT (0:07-0:18)
+That's from NAR's twenty-twenty-five Member Profile. Realtors with sixteen years or more make seventy-nine thousand. Ten times the income. On the same career label. The gap isn't an accident. The agents who broke through it did three things the median rookie isn't doing.
 
-### WHY IT MATTERS (0:17-0:32)
-The industry sells the dream of real estate. The data shows the survival filter. The median Realtor works thirty-five hours a week. A lot of those rookies are part-time. Even part-time, they aren't making a living on what real estate pays. Going part-time is the on-ramp to leaving the business.
-
-### WHAT YOU DO NOW (0:32-0:52)
+### WHAT YOU DO NOW (0:18-0:52)
 Here's what you do this week.
 
-One. If you're a brokerage leader, look at your last two years of recruits. Most of them are making rookie money. Plan your training spend accordingly.
+One. Re-evaluate your brokerage. Are you at one that specializes in getting new agents past the rookie hump, or are you a number on their roster? Real mentorship. Real leadership access. Real training. If your current shop gives you splits and a logo, that's not enough.
 
-Two. If you're a top producer, stop competing with rookies on price. You compete with the survivors. Price yourself that way.
+Two. Audit your conversations from this past week. Not lookers, not leads. Real conversations about real estate. At the rookie level, this is a conversation volume game. If you can't list ten people by name, that's the gap.
 
-Three. If you're a new agent, name the gap. The first two years are a survival filter. Plan for it.
+Three. Pick a niche this month. Geographic, demographic, transaction type. Anything specific. The rookie who specializes for twelve months outearns the rookie trying to be everything to everyone.
 
 ### CLOSE (0:52-1:00)
-The industry sells the dream. The data shows the grind. The first two years aren't a meritocracy. They're a survival filter.
+You're not the median. The median is the average of everyone who stayed and everyone who's about to leave. Pick one of these three this week. Stop being the median.
 
 **Estimated Duration:** ~60 seconds
 
-**Length justification:** The script earns 60 seconds because the action layer addresses three audience tiers (brokerage leader, top producer, new agent) that genuinely need different framings of the same stat, and the WHY IT MATTERS beat names two compounding mechanisms behind the cohort math (35-hour median plus part-time on-ramp) that make the survival filter visible to the listener. Compressing to one tier would lose either the recruiting-math wake-up call (broker), the competitive reframe (producer), or the permission slip (rookie). The 15-second re-engagement lands on "The median Realtor works thirty-five hours a week" inside the WHY IT MATTERS beat. The close repeats the dream-grind contrast as the segment's rhetorical spine.
+**Length justification:** The script earns 60 seconds because the action layer carries three tactical plays, each requiring enough specificity to be executable this week without a follow-up. Compressing any of the three actions loses the "exact action" gate -- the brokerage re-evaluation needs the specific criteria (mentorship, leadership access, training, beyond splits-and-a-logo), the conversation audit needs the specific definition (not lookers, not leads), and the niche play needs the specific framing (twelve-month commitment, three categories). The 15-second re-engagement lands on "The gap isn't an accident" inside the CONTEXT beat. The close re-callbacks the hook with "stop being the median."
 
 ## Data Source
 
@@ -63,134 +60,130 @@ The industry sells the dream. The data shows the grind. The first two years aren
   - Math: $78,900 / $8,100 = 9.74. Rounding to "ten times" is a Rule 1-compliant qualitative simplification of the ratio. The exact multiplier is preserved here for the audit trail.
   - Status: derived from sourced numbers
 
-- **Claim:** "The median Realtor works thirty-five hours a week"
-  - Source: NAR 2025 Member Profile ([link](https://www.nar.realtor/infographics/2025-nar-member-profile-fast-facts))
-  - Who was measured: NAR-member Realtors, self-reported weekly hours worked in real estate
-  - Editorial note: 35 hours is below the conventional 40-hour full-time threshold used by most U.S. employment definitions. The script does not state that explicitly to keep the line tight, but the framing ("even the industry average is borderline part-time") in the LinkedIn and Facebook captions makes the implication visible to a reader.
-  - Status: confirmed
+- **Claim (qualitative framing):** "The gap isn't an accident. The agents who broke through it did three things the median rookie isn't doing"
+  - Editorial framing for the coaching arc. Defensible against D.J.'s 700-plus podcast interview archive, where the recurring patterns among agents who broke through low-production years align with the three actions named: brokerage development quality, conversation volume, and early specialization.
+  - Status: editorial framing supported by interview-archive observation, not a quoted statistic
 
-- **Claim (qualitative framing):** "The industry sells the dream of real estate. The data shows the survival filter"
-  - Editorial reframe, not a numeric claim. Defensible against the multi-year NAR data showing the share of members with two years of experience or less falling (15% in 2025, down from 18% in 2024) while the share with sixteen-plus years of experience rises (46% in 2025, up from 42% in 2024).
-  - Status: editorial framing supported by NAR data, not a quoted statistic
+- **Claim (qualitative framing):** "If your current shop gives you splits and a logo, that's not enough"
+  - Editorial color, not a numeric claim. The framing is the script's shareable moment and the implicit Kale-signaling line. Kale Realty's operating model -- active mentorship program, leadership accessibility, family-owned long-game culture -- maps directly to the criteria named in the spoken action ("real mentorship, real leadership access, real training").
+  - Status: editorial color, not a stat
 
-- **Claim (qualitative framing):** "The new-agent share keeps shrinking" (referenced in earlier draft; superseded in the polished spoken script by the part-time on-ramp framing)
-  - Source: NAR 2025 Member Profile. The share of members with two years of experience or less fell to 15% from 18% in the prior year. Median Realtor age rose from 55 to 57. The share of agents under 40 fell from 17% to 11%.
-  - Status: confirmed as directionally accurate
+- **Claim (qualitative framing):** "At the rookie level, this is a conversation volume game. If you can't list ten people by name, that's the gap"
+  - Editorial coaching framing. The "ten people" is a coaching benchmark / target, not a measured statistic about what the median agent does. It is a planning prompt the viewer can act on, not a quantitative claim about the population.
+  - Status: action prompt, not a stat
 
-- **Claim (qualitative framing):** "A lot of those rookies are part-time. Going part-time is the on-ramp to leaving the business"
-  - Cohort composition note: NAR's reporting for Realtors with two years of experience or less includes both full-time and part-time agents. NAR's Member Profile has historically shown that a meaningful share of low-tenure Realtors are part-time, and that median hours-worked rises with tenure. The $8,100 median does not exclusively reflect full-time professional income; it reflects the income distribution across the entire rookie cohort.
-  - Editorial framing: this is load-bearing for the take, not a weakening of it. Acknowledging the part-time share strengthens the survival-filter thesis -- the agents who can't make full-time real estate work go part-time, and a substantial share of those leave within a few years. The script handles this in two spoken beats ("A lot of those rookies are part-time. Even part-time, they aren't making a living on what real estate pays") rather than burying it in the Data Source.
-  - Status: qualitative framing supported by NAR cohort data; no specific part-time percentage asserted in the spoken script
+- **Claim (qualitative framing):** "The rookie who specializes for twelve months outearns the rookie trying to be everything to everyone"
+  - Editorial framing supported by the broader real estate coaching literature and D.J.'s interview-archive observation. The "twelve months" is a commitment-window framing, not a measured comparison. No specific income-uplift number is claimed.
+  - Status: editorial framing, not a stat
 
 - **Cross-reference within series:**
-  - NF-010 (`NF-010-nar-budget-1-in-5.md`) -- NAR is budgeting for 1.2 million members in 2026, down from 1.491 million today. NF-015 names the human-level mechanism for that compression: the rookie income math doesn't work, so new agents leave.
-  - NF-011 (`NF-011-listing-presentations-dont-matter.md`) and NF-014 (`NF-014-ai-killed-the-slow-agent.md`) -- both work the consumer-behavior side of the industry shift. NF-015 works the supply side: who is staying in the business, who is leaving, and why.
+  - NF-010 (`NF-010-nar-budget-1-in-5.md`) -- NAR's projected 2026 membership compression. NF-015 reframes the macro contraction as a per-agent coaching opportunity: the agents who cross the rookie gap stay; the ones who don't, leave.
+  - IS-004 (`IS-004-brokerages-that-keep-top-producers.md`) -- the synthesis on what brokerages do that actually keep top producers. NF-015's first action (brokerage re-evaluation) maps to the same operating-model criteria from a different audience angle: IS-004 names what brokerages do; NF-015 tells the agent to look for those things.
 
-- **Action layer:** Each of the three tiered actions is executable this week.
-  - The brokerage-leader action (review two years of recruit cohort against training spend) routes through internal data the broker already has.
-  - The top-producer action (reframe competitive set as "survivors only") is a pricing and positioning decision the producer fully controls.
-  - The new-agent action (name the gap, plan for the filter) is a permission slip plus a planning prompt. No paid product, no vendor pitch.
+- **Action layer:**
+  - Action 1 (brokerage re-evaluation) is a values audit the agent fully controls. The criteria named (mentorship, leadership access, training) are observable and verifiable for any brokerage the agent considers.
+  - Action 2 (conversation audit) is an internal review of the agent's prior week. No paid product. No vendor pitch. Pure activity discipline.
+  - Action 3 (niche selection) is a positioning decision the agent makes themselves. No marketing tool required. The "this month" framing prevents indefinite deferral.
+  - Kale-signaling note: Action 1 is on-brand for Kale Realty's operating model (active mentorship, leadership accessibility, training programs) without naming Kale on camera. The LinkedIn byline ("VP Business Development, Kale Realty") carries the brand signal; the script carries the editorial framing.
 
-- **Fabrication audit:** Every number in the spoken script traces to NAR's 2025 Member Profile. The "eighty-one hundred dollars" is exact. The "seventy-nine thousand" is a Rule 1-compliant spoken rounding of $78,900 (preserved exactly in Data Source). The "ten times" is a derived ratio from those two sourced figures. The "two years" is exact tenure language from NAR's reporting categories. No invented percentages. No fabricated cohort numbers. The "industry sells the dream / data shows the grind" reframe is interpretive editorial, not statistical.
+- **Fabrication audit:** Every number in the spoken script traces to NAR's 2025 Member Profile or is a coaching benchmark explicitly framed as a planning prompt rather than a measured statistic. The "$8,100" is exact. The "$78,900" is exact (spoken as "seventy-nine thousand" per Rule 5 cadence preference). The "ten times" is a derived ratio. The "ten people," "twelve months," and "this month" are action targets, not claims about cohort behavior. No invented percentages. No "studies show." The "splits and a logo" critique and the "median is the average of everyone who stayed and everyone who's about to leave" framing are interpretive editorial.
 
 ## Social Media
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-The median new Realtor makes $8,100 a year. That's the number nobody puts on the recruiting flyer.
+$8,100. That's the median new Realtor income, per NAR's 2025 Member Profile. If that number sounds familiar, this one is for you.
 
-That comes from NAR's 2025 Member Profile. Realtors with two years of experience or less have a median gross income of $8,100. Realtors with sixteen years or more have a median of $78,900. Ten times the income, on the same career label.
+The 16+ year veterans in the same report make $78,900. Ten times the income, on the same career label. The gap isn't an accident. The agents who broke through it did three things the median rookie isn't doing.
 
-Worth knowing: NAR's same Member Profile reports the median Realtor works 35 hours a week. Even the industry average is borderline part-time. A lot of those rookies are part-time, and the cohort figure includes them. Even so, the gap is structural. Going part-time is the on-ramp to leaving the business.
+Three things to do this week if you're stuck at rookie production.
 
-The industry sells the dream of real estate. The data shows the survival filter.
+One. Re-evaluate your brokerage. The single biggest variable in whether a new agent breaks through is whether their brokerage specializes in helping them break through. Not the splits. Not the logo. Active development. Real mentorship with real mentors. Real leadership access. Real training programs designed to get new agents past year two. If your current shop gives you splits and a logo, that's not enough.
 
-Three audiences should be hearing this differently this week.
+Two. Audit your conversations from this past week. Not lookers, not leads. Real conversations about real estate with actual people. At the rookie level, this is a conversation volume game. If you can't list ten people you had a real estate conversation with this week, that's where the income gap is hiding.
 
-If you're a brokerage leader, look at your last two years of recruits. Most of them are making rookie money. The recruiting model that brought volume but no production is the model that's killing your P&L. Plan your training spend accordingly.
+Three. Pick a niche this month. Geographic, demographic, transaction type. Anything specific. The rookie who specializes for twelve months outearns the rookie trying to be everything to everyone. Specialization is the shortcut to expertise. Expertise is the shortcut to referrals.
 
-If you're a top producer, stop competing with rookies on price. You compete with the survivors. The agents who made it past year two are the only real competition you have. Price your services that way.
+You're not the median. The median is the average of everyone who stayed and everyone who's about to leave. Pick one of these three this week. Stop being the median.
 
-If you're a new agent, name the gap. The first two years aren't a meritocracy. They're a survival filter. Plan for the filter, not for the headline income.
-
-The industry sells the dream. The data shows the grind. The first two years aren't a meritocracy. They're a survival filter.
-
-**Hashtags:** #RealEstate #Realtor #RealtorIncome #BrokerageStrategy #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #NewAgents
+**Hashtags:** #RealEstate #Realtor #NewAgents #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #BrokerageStrategy #RealtorTraining
 
 ### Instagram Reels
 **Caption:**
-The median new Realtor makes $8,100 a year. That's the number nobody puts on the recruiting flyer.
+$8,100. The median new Realtor income. If that sounds familiar, here's how to stop being the median.
 
-NAR's 2025 Member Profile. Realtors with two years or less make $8,100. Sixteen-plus year veterans make $78,900. Ten times the income, on the same career label.
+16+ year veterans make $78,900. Ten times the income, on the same career label. The gap isn't an accident.
 
-The industry sells the dream. The data shows the survival filter.
+Three things to do this week.
 
-For brokerage leaders. Look at your last two years of recruits. Most are making rookie money. Plan your training spend accordingly.
+One. Re-evaluate your brokerage. Are you at one that specializes in getting new agents past the rookie hump, or are you a number on their roster? Real mentorship. Real leadership access. Real training. If they give you splits and a logo, that's not enough.
 
-For top producers. Stop competing with rookies on price. You compete with the survivors. Price yourself that way.
+Two. Audit your conversations from this past week. Not lookers, not leads. Real conversations about real estate. If you can't list ten people by name, that's the gap.
 
-For new agents. Name the gap. The first two years are a survival filter. Plan for it.
+Three. Pick a niche this month. Geographic, demographic, transaction type. The rookie who specializes outearns the rookie trying to be everything to everyone.
 
-The industry sells the dream. The data shows the grind.
+You're not the median. Pick one this week. Stop being the median.
 
 **Hashtags:**
-#realestate #realtor #realtorlife #newagent #chicagorealestate #realestate2026 #realestateagent #keepingitrealpodcast #chicagorealtor #insidetheindustry #kalerealty #realtorincome
+#realestate #realtor #realtorlife #newagent #chicagorealestate #realestate2026 #realestateagent #keepingitrealpodcast #chicagorealtor #insidetheindustry #kalerealty #realtortraining
 
 ### TikTok
 **Caption:**
-The median new Realtor makes 8,100 dollars a year. That's the number nobody puts on the recruiting flyer. Sixteen-plus year veterans make 78,900. Ten times the income, on the same career label. The industry sells the dream. The data shows the grind. The first two years aren't a meritocracy. They're a survival filter.
+$8,100 is the median new Realtor income. If that sounds familiar, here's how to stop being the median. Three moves this week. One, re-evaluate your brokerage. If they give you splits and a logo, that's not enough. Two, audit your conversations from the past week. Not lookers, not leads. Real conversations. If you can't list ten by name, that's the gap. Three, pick a niche this month. The rookie who specializes outearns the rookie trying to be everything.
 
 **Hashtags:**
 #realtortok #realestatetok #realtor #newagent #realtorlife #realestatenews #realestate2026 #insidetheindustry
 
 ### YouTube Shorts
-**Title:** The Median New Realtor Makes $8,100 a Year. Nobody Puts That on the Flyer.
+**Title:** The Median New Realtor Makes $8,100 a Year. Here's How to Stop Being the Median.
 
 **Description:**
-Per NAR's 2025 Member Profile, the median gross income for Realtors with two years of experience or less is $8,100. The median for Realtors with sixteen-plus years is $78,900. That's roughly a ten times income gap by tenure, on the same career label. D.J. Paris breaks down why the industry sells the dream while the data shows the survival filter, plus what brokerage leaders, top producers, and new agents should each do with this number.
+$8,100 is what the median new Realtor makes per NAR's 2025 Member Profile. 16+ year veterans make $78,900. Ten times the income, on the same career label. If that gap sounds familiar, this video is for you. D.J. Paris breaks down the three things the agents who broke through the rookie income gap did differently, starting with the one nobody wants to hear: your brokerage matters more than you think.
 
-**Hashtags:** #shorts #realestate #realtor #newagent #realtorincome #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #realestate #realtor #newagent #realtortraining #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
-The median new Realtor makes $8,100 a year. That's the number nobody puts on the recruiting flyer.
+$8,100. That's the median new Realtor income, per NAR's 2025 Member Profile. If that number sounds familiar, this one is for you.
 
-That comes from NAR's 2025 Member Profile. Realtors with two years of experience or less have a median gross income of $8,100. Realtors with sixteen years or more have a median of $78,900. Ten times the income, on the same career label.
+The 16+ year veterans make $78,900. Ten times the income, on the same career label. The gap isn't an accident. The agents who broke through it did three things the median rookie isn't doing.
 
-NAR's same Member Profile reports the median Realtor works 35 hours a week. Even the industry average is borderline part-time. A lot of those rookies are part-time, and the cohort figure includes them. Going part-time is the on-ramp to leaving the business.
+Three things to do this week.
 
-The industry sells the dream of real estate. The data shows the survival filter.
+One. Re-evaluate your brokerage. Are you at one that specializes in getting new agents past the rookie hump, or are you a number on their roster? Real mentorship. Real leadership access. Real training. If your current shop gives you splits and a logo, that's not enough.
 
-Three audiences should be hearing this differently this week.
+Two. Audit your conversations from this past week. Not lookers, not leads. Real conversations about real estate. If you can't list ten people you had a real estate conversation with this week, that's where the gap is hiding.
 
-If you're a brokerage leader, look at your last two years of recruits. Most are making rookie money. Plan your training spend accordingly.
+Three. Pick a niche this month. Geographic, demographic, transaction type. The rookie who specializes for twelve months outearns the rookie trying to be everything to everyone.
 
-If you're a top producer, stop competing with rookies on price. You compete with the survivors. Price yourself that way.
+You're not the median. Pick one of these three this week. Stop being the median.
 
-If you're a new agent, name the gap. The first two years are a survival filter. Plan for it.
-
-The industry sells the dream. The data shows the grind.
-
-**Hashtags:** #RealEstate #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #NewAgents
+**Hashtags:** #RealEstate #Realtor #NewAgents #RealtorLife #ChicagoRealEstate #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
-The median new Realtor makes $8,100 a year.
+$8,100. The median new Realtor income.
 
-The median 16+ year veteran makes $78,900.
+If that's you, three moves this week:
 
-That's a 10x gap on the same career label.
+1. Re-evaluate your brokerage. Splits and a logo aren't enough. Look for real mentorship, leadership access, and training.
 
-The industry sells the dream. The data shows the survival filter.
+2. Audit your conversations from the past week. Not leads. Real conversations. If you can't list 10 by name, that's the gap.
 
-The first two years aren't a meritocracy. They're a filter.
+3. Pick a niche this month. The rookie who specializes outearns the one trying to be everything.
 
-**Hashtags:** #RealEstate #Realtor #RealtorIncome
+Stop being the median.
+
+**Hashtags:** #RealEstate #Realtor #NewAgents
 
 ### Threads
 **Post:**
-The median new Realtor makes $8,100 a year. That's the number nobody puts on the recruiting flyer.
+$8,100 is the median new Realtor income. If that sounds familiar, here's how to stop being the median.
 
-Sixteen-plus year veterans make $78,900. Ten times the income, on the same career label.
+Re-evaluate your brokerage. If they give you splits and a logo, that's not enough.
 
-The industry sells the dream. The data shows the survival filter. The first two years aren't a meritocracy. They're a filter.
+Audit your conversations from the past week. If you can't list ten by name, that's the gap.
+
+Pick a niche this month. The rookie who specializes outearns the one trying to be everything.
+
+Pick one this week.
