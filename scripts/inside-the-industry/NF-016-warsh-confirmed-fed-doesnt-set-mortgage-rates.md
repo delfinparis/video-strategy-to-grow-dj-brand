@@ -19,32 +19,32 @@ status: "draft"
 ## Shareable Moment
 > "The Fed doesn't set mortgage rates."
 
-## Script (~58 seconds)
+## Script (~57 seconds)
 
 ### HOOK (0:00-0:08)
-Fifty-four to forty-five. Kevin Warsh just got confirmed as the next Fed chair. Your clients are about to ask you if rates are dropping. Most agents will get this wrong.
+Fifty-four to forty-five. Kevin Warsh just got confirmed as the next Fed chair. Your clients will ask if rates are dropping. Most agents will get this wrong.
 
 ### CONTEXT (0:08-0:18)
 The Fed doesn't set mortgage rates. Mortgage rates track the ten-year Treasury. The Fed cut rates in twenty-twenty-four. Mortgage rates went up.
 
 ### WHY IT MATTERS (0:18-0:28)
-Warsh wants to cut. The committee won't let him cut fast. April CPI just hit three-point-eight percent. Inflation is the gatekeeper. Markets are pricing in zero cuts this year.
+Warsh wants to cut. The committee won't let him. April CPI just hit three-point-eight percent. Inflation is the gatekeeper. Markets are pricing zero cuts this year.
 
 ### WHAT YOU DO NOW (0:28-0:52)
 Here's what you do this week.
 
-One. Retire "wait until rates drop" as your client follow-up. The people who used that script three years ago are still waiting.
+One. Retire "wait until rates drop" as your follow-up. The agents who used it three years ago are still waiting.
 
-Two. Lead with affordability, not rates. Marry the house, date the rate. The right home now beats the wrong home next year.
+Two. Lead with affordability, not rates. Marry the house, date the rate.
 
-Three. Be the agent who explains it. When your buyer asks about the new Fed chair, say "the Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
+Three. When your buyer asks about the Fed chair, say this. "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
 
-### CLOSE (0:52-0:58)
-New Fed chair. Same rate reality. The agent who already explained this wins the relationship.
+### CLOSE (0:52-0:57)
+New Fed chair. Same rate reality. Be the agent who already explained it before they had to ask.
 
-**Estimated Duration:** ~58 seconds
+**Estimated Duration:** ~57 seconds
 
-**Length justification:** The script earns 58 seconds because the contrarian take requires four beats and the action layer needs the verbatim script in Action 3 to be useful. The hook anchors the news and sets up the in-group / out-group dynamic. The context delivers the core misconception (Fed vs. bond market) with a defensible historical example (2024 cut, mortgages up) inside ten seconds. The why-it-matters names the gatekeeper (inflation, CPI 3.8 percent) and the consequence (markets pricing zero cuts). The action layer carries three executable plays, with the third action handing the agent the exact words to say to a client this week. The 15-second re-engagement lands on "The Fed cut rates in twenty-twenty-four. Mortgage rates went up" inside the CONTEXT beat. The close re-callbacks the title.
+**Length justification:** The script earns 57 seconds because the contrarian take requires four beats and the action layer needs the verbatim script in Action 3 to be useful. The hook anchors the news with a specific number (the confirmation tally) and sets up the in-group / out-group dynamic. The context delivers the core misconception (Fed vs. bond market) with a defensible historical example (2024 cut, mortgages up) in ten seconds. The why-it-matters names the gatekeeper (inflation at 3.8 percent) and the consequence (markets pricing zero cuts). The action layer hands the agent a thirty-word verbatim script in Action 3 -- the segment's actual deliverable. The 15-second re-engagement lands on "The Fed cut rates in twenty-twenty-four. Mortgage rates went up." inside the CONTEXT beat. The close re-callbacks the title and lands as imperative, not observation.
 
 ## Production Notes
 
@@ -76,7 +76,7 @@ New Fed chair. Same rate reality. The agent who already explained this wins the 
   - Source: U.S. News, May 13, 2026 (April 2026 CPI release)
   - Status: confirmed; this is the hottest reading in nearly three years per the source
 
-- **Claim:** "Markets are pricing in zero cuts this year"
+- **Claim:** "Markets are pricing zero cuts this year"
   - Source: CNN, May 13, 2026 (fed-funds futures pricing as of confirmation)
   - Status: confirmed as of post date; market pricing moves with new data and the framing should be re-verified if filming is delayed more than seven days.
 
@@ -84,7 +84,7 @@ New Fed chair. Same rate reality. The agent who already explained this wins the 
   - Editorial reframe of the underlying data. Defensible against the CPI print and the FOMC dual-mandate structure (price stability + maximum employment). When CPI is running at 3.8 percent against a 2 percent target, the FOMC's room to cut is structurally limited regardless of who chairs the committee.
   - Status: editorial framing supported by source data
 
-- **Claim (qualitative framing):** "The committee won't let him cut fast"
+- **Claim (qualitative framing):** "The committee won't let him"
   - Editorial reframe. Defensible against the FOMC's twelve-vote structure (chair + seven governors + four rotating regional presidents). A chair does not unilaterally set rates. The current committee composition, combined with the inflation print, makes a fast cutting cycle structurally unlikely. Markets agree (zero cuts priced).
   - Status: editorial framing supported by FOMC structure and market pricing
 
@@ -105,49 +105,49 @@ New Fed chair. Same rate reality. The agent who already explained this wins the 
 - **Action layer:**
   - Action 1 (retire the "wait until rates drop" follow-up) routes through the agent's own CRM and follow-up cadence. No paid product needed.
   - Action 2 ("marry the house, date the rate") is a positioning shift the agent makes in their next listing presentation or buyer consultation. No tool required.
-  - Action 3 (the explicit script for a buyer question about the Fed chair) is a verbatim line the agent can deploy this week. The 30-word script is the deliverable.
+  - Action 3 (the verbatim script for a buyer question about the Fed chair) is a thirty-word line the agent can deploy this week. The script is the deliverable.
 
-- **Fabrication audit:** Every number in the spoken script traces to a named source published this week. "Fifty-four to forty-five" is the Senate confirmation tally. "Three-point-eight percent" is the April CPI. "Twenty-twenty-four" is the year of the September Fed cut referenced. "Sixty days" is a coaching benchmark explicitly framed as a planning horizon, not a measured statistic. No invented percentages. No "studies show." The "Fed doesn't set mortgage rates" claim is structural monetary-policy mechanics, not a contrarian opinion. The "inflation is the gatekeeper" and "won't let him cut fast" reframes are interpretive editorial supported by the CPI print and the FOMC's twelve-vote structure.
+- **Fabrication audit:** Every number in the spoken script traces to a named source published this week. "Fifty-four to forty-five" is the Senate confirmation tally. "Three-point-eight percent" is the April CPI. "Twenty-twenty-four" is the year of the September Fed cut referenced. "Sixty days" is a coaching benchmark explicitly framed as a planning horizon, not a measured statistic. No invented percentages. No "studies show." The "Fed doesn't set mortgage rates" claim is structural monetary-policy mechanics, not a contrarian opinion. The "inflation is the gatekeeper" and "committee won't let him" reframes are interpretive editorial supported by the CPI print and the FOMC's twelve-vote structure.
 
 ## Social Media
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-54-45. Kevin Warsh just got confirmed as the next Fed chair. Your clients are about to ask you if rates are dropping. Most agents will get this wrong.
+54-45. Kevin Warsh just got confirmed as the next Fed chair. Your clients will ask if rates are dropping. Most agents will get this wrong.
 
 Here is what is actually happening and what to say to buyers this week.
 
-The Fed does not set mortgage rates. The Fed sets the federal funds rate, which is what banks charge each other overnight. Mortgage rates track the 10-year Treasury yield. The 10-year is driven by inflation expectations and the bond market. When the Fed did a surprise cut in 2024, long-term mortgage rates went up because the bond market read it as inflationary. So even if Warsh gets the cut he wants, mortgages might not follow. They might move the wrong way.
+The Fed does not set mortgage rates. The Fed sets the federal funds rate, which is what banks charge each other overnight. Mortgage rates track the 10-year Treasury yield, and the 10-year is driven by inflation expectations and the bond market. When the Fed did a surprise cut in 2024, long-term mortgage rates went up because the bond market read it as inflationary. So even if Warsh gets the cut he wants, mortgages might not follow. They might move the wrong way.
 
-And right now, Warsh probably isn't getting the cut. April CPI just hit 3.8 percent. That is the hottest inflation print in nearly three years. The FOMC has 12 votes, not one. With inflation this hot, the committee is not in a rush to cut. Markets are pricing in zero cuts for the rest of 2026.
+And right now, Warsh probably isn't getting the cut. April CPI just hit 3.8 percent. That is the hottest inflation print in nearly three years. The FOMC has 12 votes, not one. With inflation this hot, the committee is not in a rush to cut. Markets are pricing zero cuts for the rest of 2026.
 
 Three things you do with this.
 
 One. Retire the "wait until rates drop" client follow-up. The agents who used that script three years ago are still waiting. It is the laziest play in the business and it is not coming back.
 
-Two. Lead with affordability, not rates. Marry the house, date the rate. The right home at today's rate, refinanced later if rates ever drop, beats the wrong home next year at a rate that probably didn't drop anyway.
+Two. Lead with affordability, not rates. Marry the house, date the rate.
 
-Three. Be the agent who can explain it. When your buyer asks what the new Fed chair means for their closing, you don't say "great question, let me ask my lender." You say "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days. Let's talk about what we are actually doing."
+Three. When your buyer asks about the new Fed chair, say this. "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days. Let's talk about what we are actually doing."
 
-New Fed chair. Same rate reality. The agent who already explained this wins the relationship.
+New Fed chair. Same rate reality. Be the agent who already explained it before they had to ask.
 
 **Hashtags:** #RealEstate #Realtor #MortgageRates #HousingMarket #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #FederalReserve
 
 ### Instagram Reels
 **Caption:**
-54-45. Kevin Warsh just got confirmed as the next Fed chair. Your clients are about to ask you if rates are dropping. Most agents will get this wrong.
+54-45. Kevin Warsh just got confirmed as the next Fed chair. Your clients will ask if rates are dropping. Most agents will get this wrong.
 
 The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury. The Fed cut rates in 2024 and mortgage rates went up.
 
-Warsh wants to cut. The committee won't let him cut fast. April CPI just hit 3.8 percent. Inflation is the gatekeeper.
+Warsh wants to cut. The committee won't let him. April CPI just hit 3.8 percent. Inflation is the gatekeeper.
 
 Three things to do this week.
 
-One. Retire "wait until rates drop" as your follow-up. The people who used that three years ago are still waiting.
+One. Retire "wait until rates drop" as your follow-up. The agents who used it three years ago are still waiting.
 
 Two. Lead with affordability. Marry the house, date the rate.
 
-Three. Be the agent who explains it. When your buyer asks about the new Fed chair, say "the Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
+Three. When your buyer asks about the Fed chair, say this. "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
 
 New Fed chair. Same rate reality.
 
@@ -156,7 +156,7 @@ New Fed chair. Same rate reality.
 
 ### TikTok
 **Caption:**
-The Fed has a new chair. Your clients are about to ask if rates are dropping. The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury. Fed cut rates in 2024 and mortgage rates went up. April CPI just hit 3.8 percent. Three moves this week. One, retire "wait until rates drop." Two, lead with affordability. Marry the house, date the rate. Three, when your buyer asks about the new Fed chair, say "the Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
+54-45. Kevin Warsh just got confirmed as Fed chair. Your clients will ask if rates are dropping. The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury. Fed cut rates in 2024 and mortgage rates went up. Three moves. One, retire "wait until rates drop." Two, marry the house, date the rate. Three, when your buyer asks about the Fed chair, say "the Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
 
 **Hashtags:**
 #realtortok #realestatetok #realtor #mortgagerates #realtorlife #housingmarket #realestatenews #realestate2026 #fedchair
@@ -165,17 +165,17 @@ The Fed has a new chair. Your clients are about to ask if rates are dropping. Th
 **Title:** New Fed Chair. Same Mortgage Rates. Here's Why.
 
 **Description:**
-Kevin Warsh was confirmed today as the next Fed chair, 54-45. Buyers will ask if rates are dropping. The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury. The Fed cut rates in 2024 and mortgage rates went up. April CPI hit 3.8 percent and markets are pricing in zero cuts for the rest of 2026. D.J. Paris breaks down what to say to clients this week and the three plays every agent should run with the new Fed chair news.
+Kevin Warsh was confirmed today as the next Fed chair, 54-45. Buyers will ask if rates are dropping. The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury. The Fed cut rates in 2024 and mortgage rates went up. April CPI hit 3.8 percent and markets are pricing zero cuts for the rest of 2026. D.J. Paris breaks down the three plays every agent should run with the new Fed chair news, plus the exact thirty-word line to say to a buyer who asks about it this week.
 
 **Hashtags:** #shorts #realestate #realtor #mortgagerates #housingmarket #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #fedchair
 
 ### Facebook
 **Caption:**
-54-45. Kevin Warsh just got confirmed as the next Fed chair. Your clients are about to ask you if rates are dropping. Most agents will get this wrong.
+54-45. Kevin Warsh just got confirmed as the next Fed chair. Your clients will ask if rates are dropping. Most agents will get this wrong.
 
 The Fed does not set mortgage rates. Mortgage rates track the 10-year Treasury. The Fed cut rates in 2024 and mortgage rates went up because the bond market read the cut as inflationary.
 
-Warsh wants to cut. April CPI just hit 3.8 percent, the hottest reading in nearly three years. The FOMC has 12 votes, not one. Markets are pricing in zero cuts for the rest of 2026.
+Warsh wants to cut. April CPI just hit 3.8 percent, the hottest reading in nearly three years. The FOMC has 12 votes, not one. Markets are pricing zero cuts for the rest of 2026.
 
 Three things to do this week.
 
@@ -183,9 +183,9 @@ One. Retire "wait until rates drop" as your client follow-up. The agents who use
 
 Two. Lead with affordability, not rates. Marry the house, date the rate.
 
-Three. Be the agent who explains it. When your buyer asks about the new Fed chair, say "the Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
+Three. When your buyer asks about the new Fed chair, say this. "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
 
-New Fed chair. Same rate reality.
+New Fed chair. Same rate reality. Be the agent who already explained it before they had to ask.
 
 **Hashtags:** #RealEstate #Realtor #MortgageRates #HousingMarket #RealtorLife #ChicagoRealEstate #RealEstate2026
 
@@ -197,9 +197,9 @@ The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury.
 
 Fed cut rates in 2024. Mortgage rates went up.
 
-April CPI just hit 3.8%. Markets are pricing in zero cuts for 2026.
+April CPI just hit 3.8%. Markets are pricing zero cuts for 2026.
 
-What to say to your buyer this week: "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
+When your buyer asks about the Fed chair, say: "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
 
 New Fed chair. Same rate reality.
 
@@ -211,6 +211,6 @@ New Fed chair. Same rate reality.
 
 The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury. The Fed cut rates in 2024 and mortgages went up.
 
-April CPI just hit 3.8 percent. Inflation is the gatekeeper. Markets are pricing in zero cuts for 2026.
+April CPI just hit 3.8 percent. Inflation is the gatekeeper.
 
-When your buyer asks what the new Fed chair means for their closing, say "the Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
+When your buyer asks about the Fed chair, say: "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
