@@ -34,7 +34,7 @@ Not "we will punish Chicago to spite Zillow." The threat is conditional. Display
 ### Short-term winners
 - **Compass.** The private-exclusive funnel (Phase 1 private, Phase 2 coming soon, Phase 3 MLS) becomes more valuable if non-Compass agents cannot see Compass's premium Chicago inventory on the largest portal.
 - **Realtor.com, Redfin, Homes.com.** They pick up consumer share by default.
-- **MRED.** Demonstrates leverage and cements its relevance in the post-Clear-Cooperation environment.
+- **MRED.** Proves it has bargaining power and cements its relevance in the post-Clear-Cooperation environment.
 
 ### Short-term losers
 - **Independent sellers and small brokerages.** Listing reach shrinks. No private network to offset the loss.
