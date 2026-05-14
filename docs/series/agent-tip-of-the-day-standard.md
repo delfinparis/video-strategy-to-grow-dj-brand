@@ -127,6 +127,9 @@ post_date: "[YYYY-MM-DD]"
 day: "[day of week]"
 source_file: "[KIR episode reference if available]"
 share_trigger: "[one of: 'I do that too' / 'I never thought of that' / 'My colleague needs this' / 'This is exactly my problem']"
+heat: [1-5]
+loop_back: "[final line that recontextualizes the hook]"
+stat_anchored: [true/false]
 status: "[ready / needs-verification / draft]"
 ---
 

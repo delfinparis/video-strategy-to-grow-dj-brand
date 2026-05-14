@@ -153,12 +153,13 @@ This is an explicit override of the KIR POLISH_PROMPT's "writing for muted viewe
 
 ### What the first line must do
 
-The first spoken line must do one of these four things. No other opens qualify:
+The first spoken line must do one of these five things. No other opens qualify:
 
 1. **State a surprising specific.** A real number, a real name, a real moment. "I watched a $50M producer miss a listing because of one text." Specific beats abstract every time.
 2. **Name the viewer's private problem out loud.** The thing they feel but won't say. "You are losing listings to agents who are worse than you are." This only works if the statement is actually true for the target avatar.
 3. **Make a contrarian claim the viewer expects you not to make.** "I teach AI to agents. I am not bullish on AI replacing this job." The pattern interrupt is the tension between the credential and the claim.
 4. **Drop the viewer mid-story.** No setup. "She answered a 7pm call on a Tuesday. Two weeks later she had the listing." The story has to be real and the rest of the script has to unpack it.
+5. **Name a professional cohort.** Address one specific group out loud as the opening. "New licensees -- your first year is being wasted on the wrong activity." "Brokerage owners -- stop running a recruiting funnel that ends at the offer." Cohort callouts produce both defenders and critics in the comments because the named cohort feels addressed and the unnamed cohort feels excluded. The cohort must be professional (role, experience tier, market segment) -- never demographic. See Rule 9.4.
 
 ### The Curiosity Gap: open a loop the viewer must close
 
@@ -570,6 +571,114 @@ These checks are for revision, not visible self-reporting. Do not output the aud
 
 ---
 
+## Rule 9: Engagement Mechanics — Loop-Back, Heat, and Cadence
+
+Rules 0 through 8 govern what makes a script worth watching. This rule governs what makes a script worth re-watching, comment-worthy without being rage-bait, and how to keep daily cadence honest when the research well runs dry. Inherited from the May 2026 short-form research pass — Hoyos, Hormozi, Welsh, Hook Point, and platform retention data.
+
+### 9.1 The Loop-Back Close
+
+Every script's final spoken line must do one job beyond the "Here's what you do now" action: **it must make the hook hit harder on rewatch.**
+
+YouTube Shorts has counted replays as additional views since March 31, 2025. A video where the closing line recontextualizes the hook -- so the viewer needs to hear the hook again *with the new meaning attached* -- compounds algorithmically in a way a clean linear ending does not. On Reels and TikTok, the loop-back drives a replay even where it isn't counted as a separate view, lifting completion rate and watch time.
+
+The loop-back is not a new beat. It is a discipline applied to the existing close. The "Here's what you do now" action stays. The final sentence after the action should reframe or echo the first sentence, advanced by what the script just delivered.
+
+**Test:** Read the first spoken line. Then read the last spoken line. Does the last line make a stranger want to hear the first line again, knowing what they now know? If no, the close is incomplete.
+
+**Example (script 065):**
+
+- Hook: *"Listing presentations don't matter."*
+- Close: *"Be the only call. The presentation takes care of itself."*
+
+Rewatching the hook with that frame loaded changes what it means. The presentation isn't unimportant in some abstract sense -- it's irrelevant because the decision happened earlier. The loop-back doesn't need to repeat the hook's words. It needs to lock the hook's *meaning*.
+
+### 9.2 The Heat Register
+
+Every script has a register on the contrarian scale. Pick it before drafting. The register changes what kind of comments and reactions the script will produce.
+
+| Heat | Posture | Comment volume | Risk |
+| --- | --- | --- | --- |
+| 1 | Tip-of-the-day, no controversy | Low | Low reach |
+| 2 | Pattern reveal, mild reframe | Low-mid | Safe |
+| 3 | Defensible reframe of conventional wisdom | Mid | Manageable |
+| **3.5** | **Defensible contrarian -- cites a source, names the wrong default** | **High** | **Default register** |
+| 4 | Names a coaching cohort or industry behavior pattern as wrong | High | Visible disagreement |
+| 5 | Names a person, brand, or specific product as wrong | Highest | Public conflict |
+
+**Default register: 3.5.** Script 065 sits there. That's where the brand earns reach without burning relationships.
+
+**Dial-up cadence:** allow a 4 or 5 register at most once per week. More than that and the brand becomes the controversy, not the credibility.
+
+**Dial-down cadence:** if the script is lifting from a guest tip with no contrarian load (most Agent Tip of the Day scripts in the back catalog), publish at register 2-3. Don't manufacture controversy that isn't there. Specificity carries the script at low heat.
+
+The writer documents the register in the script frontmatter under `heat` so the reviewer can audit register cadence across the publishing schedule.
+
+### 9.3 Stat Cadence and the Stat-Light Fallback
+
+Real, citeable statistics (NAR-grade, sourced and current) are realistically available for roughly half of daily publishing. The discipline is to never force a stat into a script when no real stat is available -- that is how the IS-002 fabrication happened (Rule 1, "Known past failures").
+
+**Cadence:** plan for stat-anchored hooks roughly every other day. On stat-light days, the hook draws from one of the other Rule 2 hook types. The reservoir below is sourced from the brand's own assets, so a stat-light day never needs an invented number.
+
+**Fallback hook reservoir for stat-light days:**
+
+- A specific guest moment from a named episode. *"On the podcast last week, a $40M producer told me she's terrible at prospecting."*
+- A specific Kale Realty observation. *"I run a brokerage of 250 agents. The ones who left this year all did the same thing in their last six months."*
+- A specific market shift the viewer has felt. *"Every agent I've talked to since the NAR settlement has the same complaint about buyer agreements."*
+- A first-person confession. *"I was wrong about open houses for nine years."*
+- A named-cohort callout (Rule 2 type 5).
+
+Each of these is sourced -- to a guest, a brokerage observation, an industry event, or D.J.'s own experience -- and avoids the fabrication risk that comes from forcing a percentage into a hook on a day no real stat surfaced.
+
+The writer documents `stat_anchored: true/false` in frontmatter so the reviewer can audit the every-other-day cadence and confirm no stat-light script tried to fake a number.
+
+### 9.4 Named-Cohort Callout (Rule 2 Type 5) — guidance
+
+Rule 2 added a fifth allowed first-line type: addressing a professional cohort by name as the opening. This subsection documents how to use it without crossing into rage-bait.
+
+**Allowed:**
+
+- Role-based cohort: "New licensees," "Brokerage owners," "Solo agents," "Team leaders," "Property managers."
+- Experience-tier cohort: "Agents in your first year," "Agents at five-year plateaus," "Top producers who feel stuck."
+- Market-segment cohort: "Luxury agents," "Investor-focused agents," "Suburban listing agents."
+
+**Banned (crosses into rage bait under TikTok's September 2025 community-guidelines update):**
+
+- Demographic cohort: age groups, genders, ethnicities, geographic stereotypes.
+- Insulting cohort framing: "Lazy agents," "Bad agents," "Agents too dumb to..." -- the cohort name itself can't be the insult.
+- Cohort vs cohort framing where one cohort is being attacked: "Agents over 50 are killing this industry" is rage bait. "Agents over 50 know one thing the rest of us forgot" is a permission slip.
+
+**The structural test:** if the named cohort's members read the script, do they feel addressed (positively or critically), or do they feel attacked? Addressed is allowed. Attacked is not.
+
+### 9.5 Per-Platform Engagement Signal Map
+
+Engagement asks remain banned (Rule 4). But different platforms reward different *passive* signals, and the script can be tuned to surface the one each platform weights without ever asking for it.
+
+| Platform | The signal that compounds | What in the script produces it without asking |
+| --- | --- | --- |
+| Instagram Reels | Saves | A specific tactic (exact words, exact action, exact frame) the viewer wants to remember before their next listing appointment |
+| TikTok | Completion rate over 50% | Density. No padding. Loop-back close that drives rewatches. |
+| YouTube Shorts | Replays (counted as views since 2025-03-31) | Loop-back close. Tight under 45 seconds. |
+| LinkedIn | Comments and dwell time | Defensible contrarian register (3.5+). One small intentional opening that invites a "well actually" reply without making the script wrong. |
+| Facebook | Shares within private groups | A line a broker would forward to a team member or a coach would forward to a student. |
+
+D.J.'s working assumption that these scripts will not be shared the way consumer entertainment is shared is correct. Educational tip content is shared *narrowly* (broker to new agent, coach to mentee) and *saved* broadly (agent saves for next listing appointment). The script's job is to deserve both, not to ask for either.
+
+The `share_trigger` frontmatter field is a quality check on whether a viewer would forward the script unprompted. It is never a viewer-facing CTA.
+
+### 9.6 New frontmatter fields
+
+Add three new optional fields to the script frontmatter (existing scripts grandfathered until next compliance pass):
+
+```yaml
+heat: [1-5]                  # Register on the contrarian dial. Default 3.5.
+loop_back: "[final line that recontextualizes the hook]"
+stat_anchored: [true/false]  # Was the hook anchored on a real, sourced statistic?
+```
+
+These fields exist so the reviewer can audit register cadence (no more than one 4-5 per week), loop-back compliance (every script lands the rewatch), and stat cadence (roughly half stat-anchored, no fabrications on stat-light days).
+
+---
+
 ## Pre-Commit Checklist
 
 Every new script must pass all of these before committing. If any one is "no," the script is not ready.
@@ -645,6 +754,13 @@ Every new script must pass all of these before committing. If any one is "no," t
 - [ ] No catalog or system-tour prose: paragraphs depend on each other instead of mapping one-to-one with labeled buckets.
 - [ ] Stance matches genre: opinion pieces have a stated view; neutral pieces aren't injected with first person.
 - [ ] No fake-human moves: no manufactured typos, slang, forced asides, or artificial sentence-length wobble.
+
+### Engagement mechanics (Rule 9)
+
+- [ ] Loop-back test passes: read the first spoken line, then the last. The last line makes the first line hit harder on rewatch.
+- [ ] Heat register is documented in frontmatter; default 3.5; a heat-4 or heat-5 script has not been published in the last seven days.
+- [ ] Stat cadence: if `stat_anchored: true`, the stat passes Rule 1 verification. If `stat_anchored: false`, the hook uses one of the four sourced-fallback types in 9.3.
+- [ ] If the hook uses the named-cohort callout (Rule 2 type 5), the cohort is professional (role, experience tier, market segment), not demographic, and the cohort name itself is not the insult.
 
 ### Final read
 
