@@ -10,7 +10,7 @@ One company now controls one in five real estate agents in America. Let that sin
 
 Compass just acquired Anywhere Real Estate – that means 300,000 agents at Century 21, Coldwell Banker, Better Homes and Gardens, Corcoran, and ERA now have access to billion-dollar tech tools they never paid for. AI listing descriptions, automated follow-ups, professional marketing materials – all handed to them overnight.
 
-Your competition just got a massive upgrade. But here's the thing: you don't need their budget to compete. You just need to be smarter about the tools you already have access to.
+Your competition just got a massive upgrade. You don't need their budget to compete. You just need to be smarter about the tools you already have access to.
 
 D.J. Paris breaks down exactly what this means for independent agents and gives you the one system to build this week that levels the playing field.
 
@@ -34,7 +34,7 @@ What's the one tech tool you wish you had access to? Drop it below 👇
 
 ### TIKTOK
 
-1 in 5 agents just got a billion-dollar tech upgrade overnight 😳 Time to level up your game
+1 in 5 agents just got a billion-dollar tech upgrade overnight 😳 Time to improve your game
 
 #realtortok #realestatetok #realestate #realestateagent #realtorlife #agentlife #realestatenews #realestatetech #compass
 

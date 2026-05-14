@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Most real estate agents spend 90% of their energy fixing what's broken in their business. But here's what D.J. Paris from Keeping It Real Podcast discovered: top producers don't grow by adding new things — they grow by doubling down on what already works.
+Most real estate agents spend 90% of their energy fixing what's broken in their business. But here's what D.J. Paris from Keeping It Real Podcast discovered: top producers don't grow by adding new things - they grow by doubling down on what already works.
 
 Think about it. While you're scrambling to fix your slowest lead source or learn a new skill, the lead sources that convert best and the client types you serve effortlessly are getting ignored. They're quietly doing their job while you pour energy into everything else.
 
@@ -43,7 +43,7 @@ D.J. Paris from Keeping It Real Podcast makes a compelling point. While you're s
 
 The solution? A simple AI-powered audit. Analyze your last 20 closed deals, identify which sources and client types are already your strongest fit, then commit to doubling down on just the top three for 90 days.
 
-Top producers don't always grow by adding new strategies. They often grow by finally seeing clearly what they're already doing right — and scaling it.
+Top producers don't always grow by adding new strategies. They often grow by finally seeing clearly what they're already doing right - and scaling it.
 
 What's the one lead source or business activity that's consistently outperforming everything else for you?
 

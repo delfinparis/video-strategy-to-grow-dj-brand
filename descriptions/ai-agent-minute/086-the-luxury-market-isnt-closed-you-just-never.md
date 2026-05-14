@@ -18,7 +18,7 @@ What's genuinely holding you back from pursuing higher price points right now?
 
 ### INSTAGRAM
 
-Luxury clients don't stumble into their agent — they choose someone who already appears to belong in their world 💎
+Luxury clients don't stumble into their agent - they choose someone who already appears to belong in their world 💎
 
 The biggest mistake? Waiting for a lucky referral instead of building a real strategy. When that referral finally comes, you're not ready for the conversation.
 
@@ -40,7 +40,7 @@ POV: You're still waiting for a luxury referral while doing zero prep work for w
 
 Here's an uncomfortable truth about the luxury real estate market: it's not closed to you because you lack connections. It's closed to you because you never built a plan to enter it.
 
-Most agents fall into the same trap — waiting for that perfect luxury referral while developing zero expertise or credibility in the space. When the opportunity finally arrives, they're unprepared for the conversation. Luxury clients choose agents who already appear to belong in their world.
+Most agents fall into the same trap - waiting for that perfect luxury referral while developing zero expertise or credibility in the space. When the opportunity finally arrives, they're unprepared for the conversation. Luxury clients choose agents who already appear to belong in their world.
 
 The cost of waiting? Every year of sub-million-dollar transactions compounds in the wrong direction while you hope for lucky breaks that may never come.
 

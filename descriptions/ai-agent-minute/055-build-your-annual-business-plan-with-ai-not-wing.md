@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-Agents who plan their year outperform agents who don't by a massive margin. This isn't motivational fluff — it's pure math.
+Agents who plan their year outperform agents who don't by a massive margin. This isn't motivational fluff - it's pure math.
 
 Most agents start January saying "I want more deals" then spend 12 months reacting to whatever comes their way. By December, they're genuinely confused about what they were even working toward. Not because they didn't hustle. Because they were hustling without a roadmap.
 
-D.J. Paris from Keeping It Real Podcast breaks down how to use AI (specifically Claude) to build a complete annual business plan in just one hour. We're talking last year's numbers, this year's goals, lead sources, marketing calendar, skill gaps, and monthly milestones — the whole system.
+D.J. Paris from Keeping It Real Podcast breaks down how to use AI (specifically Claude) to build a complete annual business plan in just one hour. We're talking last year's numbers, this year's goals, lead sources, marketing calendar, skill gaps, and monthly milestones - the whole system.
 
 One hour of planning beats a hundred hours of unfocused grinding. The math on this isn't even close.
 
@@ -26,7 +26,7 @@ Most agents start the year with good intentions but no actual plan. They say "mo
 
 D.J. Paris shows exactly how to use Claude AI to build your complete annual business plan in 60 minutes. Last year's numbers → this year's goals → lead sources → marketing plan → skill gaps → monthly milestones. Print it. Review monthly. Adjust quarterly.
 
-Do you have a written business plan for this year? Drop it below — yes, in progress, or haven't started? 👇
+Do you have a written business plan for this year? Drop it below - yes, in progress, or haven't started? 👇
 
 ...
 
@@ -40,13 +40,13 @@ Most agents wing it all year then wonder why they're not hitting goals 😅 Here
 
 ### LINKEDIN
 
-The difference between agents who plan their year and those who don't isn't motivation — it's measurable performance. And the gap isn't small.
+The difference between agents who plan their year and those who don't isn't motivation - it's measurable performance. And the gap isn't small.
 
 Here's what I see happen every January: agents set vague intentions ("more deals, more income") then immediately get pulled into reactive mode. By March, the goal feels abstract. By December, they're genuinely unsure what they were working toward all year.
 
 D.J. Paris from Keeping It Real Podcast has a different approach. Spend one focused hour with Claude AI building a complete annual business plan. Not just income goals, but the reverse-engineered path: required deal volume, top lead sources, marketing calendar with budget, skill gaps to close, and monthly milestones for course correction.
 
-The agents who grow don't just work harder — they work with a map. One hour of strategic planning delivers more ROI than a hundred hours of unfocused effort.
+The agents who grow don't just work harder - they work with a map. One hour of strategic planning delivers more ROI than a hundred hours of unfocused effort.
 
 What's your experience with annual business planning? Game-changer or time waster?
 
@@ -56,4 +56,4 @@ What's your experience with annual business planning? Game-changer or time waste
 
 **Title:** How Real Estate Agents Build Annual Business Plans With AI (60 Minutes)
 
-**Description:** Most agents wing their year then wonder why goals don't happen. D.J. Paris shows how to use Claude AI to build a complete annual business plan in just 60 minutes — from income goals to monthly milestones. Subscribe for daily real estate tips. #realestate #businessplanning #realtor #aitools #productivity
+**Description:** Most agents wing their year then wonder why goals don't happen. D.J. Paris shows how to use Claude AI to build a complete annual business plan in just 60 minutes - from income goals to monthly milestones. Subscribe for daily real estate tips. #realestate #businessplanning #realtor #aitools #productivity

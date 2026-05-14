@@ -7,7 +7,7 @@
 
 ## Subject
 
-The @properties case — happy to walk you through what it means
+The @properties case - happy to walk you through what it means
 
 ## Body
 

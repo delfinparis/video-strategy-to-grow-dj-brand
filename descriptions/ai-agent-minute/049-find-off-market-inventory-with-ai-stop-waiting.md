@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Most agents blame low inventory for lost deals. But here's what top producers know: they're not finding hidden MLS gems everyone else missed — they're creating their own inventory pipeline.
+Most agents blame low inventory for lost deals. But here's what top producers know: they're not finding hidden MLS gems everyone else missed - they're creating their own inventory pipeline.
 
 The difference? While average agents wait for listings to appear, high performers are already talking to homeowners who haven't even decided to sell yet. They're building relationships with probate attorneys, reconnecting with old expireds, and using targeted outreach that most agents never try.
 
@@ -18,7 +18,7 @@ What's your go-to method for finding off-market properties? Let's share strategi
 
 ### INSTAGRAM
 
-Stop blaming low inventory for lost deals — top agents CREATE their own pipeline before properties hit MLS 🎯
+Stop blaming low inventory for lost deals - top agents CREATE their own pipeline before properties hit MLS 🎯
 
 Most agents wait for listings to appear. High performers find them BEFORE they're listed. The secret? AI-powered outreach strategies that connect you with homeowners who haven't even decided to sell yet.
 
@@ -44,7 +44,7 @@ I hear this from agents constantly in tight markets. But here's the reality: the
 
 They're generating it through systematic outreach and relationship-building that most agents never attempt because waiting for MLS listings feels easier.
 
-The data is clear — agents who proactively create their own inventory pipeline through direct outreach, expired follow-ups, probate connections, and targeted social media consistently outperform their peers, even in the tightest markets.
+The data is clear - agents who proactively create their own inventory pipeline through direct outreach, expired follow-ups, probate connections, and targeted social media consistently outperform their peers, even in the tightest markets.
 
 D.J. Paris from Keeping It Real Podcast demonstrates how AI can help you build a comprehensive 10-point off-market strategy that goes far beyond hoping the perfect listing appears tomorrow.
 

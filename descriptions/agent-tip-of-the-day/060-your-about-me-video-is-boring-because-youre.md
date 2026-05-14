@@ -42,11 +42,11 @@ Your "about me" video isn't generating leads because you're highlighting the wro
 
 Most real estate professionals lead with awards, designations, and years of experience. But prospects scroll past these industry accolades without engaging. Former TV producer Kim Rittberg, who's coached hundreds of agents, reveals the missing piece.
 
-The most effective "about me" videos don't showcase plaques—they showcase client outcomes. The family you helped secure their first home $30,000 under asking price. The seller you negotiated an extra week for, saving them storage costs and stress. The buyers you guided through multiple offers without them losing confidence.
+The most effective "about me" videos don't showcase plaques-they showcase client outcomes. The family you helped secure their first home $30,000 under asking price. The seller you negotiated an extra week for, saving them storage costs and stress. The buyers you guided through multiple offers without them losing confidence.
 
 Here's the truth: Nobody hires you because you won Rookie of the Year. They hire you because they believe you can solve their specific problem. The fastest way to build that confidence? Demonstrate you've already delivered results for someone in their exact situation.
 
-Before your next video, document three specific client wins with measurable outcomes. That's your script—not your resume.
+Before your next video, document three specific client wins with measurable outcomes. That's your script-not your resume.
 
 What client success story would resonate most with your ideal prospects?
 

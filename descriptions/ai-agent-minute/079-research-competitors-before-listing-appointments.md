@@ -44,7 +44,7 @@ Sellers typically interview 2-3 agents, yet the majority of agents walk in compl
 
 D.J. Paris from Keeping It Real Podcast demonstrates a strategic approach using AI tools to research competitors' recent neighborhood production, online positioning, client reviews, and market performance. The key insight? Use this intelligence to differentiate your presentation without ever mentioning competitors by name.
 
-This isn't about playing dirty—it's about being prepared. In a competitive market, preparation separates professionals from participants. When you understand how your competition positions themselves, you can strategically highlight your unique value propositions.
+This isn't about playing dirty-it's about being prepared. In a competitive market, preparation separates professionals from participants. When you understand how your competition positions themselves, you can strategically highlight your unique value propositions.
 
 What's your pre-appointment research process? Do you go in prepared or wing it?
 

@@ -38,11 +38,11 @@ Your closed deals should be working for you forever, not just living in your mem
 
 ### LINKEDIN
 
-Your most challenging deals are your best marketing assets — but only if you document them properly.
+Your most challenging deals are your best marketing assets - but only if you document them properly.
 
 Most real estate professionals have closed impressive transactions that showcase their expertise: complex multiple-offer situations, deals that nearly fell apart but were saved through creative problem-solving, distressed properties requiring exceptional client management. Yet these powerful proof points exist only in memory, invisible to future prospects.
 
-This creates a massive missed opportunity. At listing appointments, on websites, in social media content — agents need concrete evidence of their competence, not just testimonials and marketing copy. Case studies that detail the challenge, approach, and outcome provide exactly that proof.
+This creates a massive missed opportunity. At listing appointments, on websites, in social media content - agents need concrete evidence of their competence, not just testimonials and marketing copy. Case studies that detail the challenge, approach, and outcome provide exactly that proof.
 
 The solution D.J. Paris outlines is elegantly simple: spend 10 minutes voice-recording the details after any complex deal, then use AI tools like Claude to structure it into a professional case study format. The result is marketing content that actually converts because it demonstrates real-world results.
 

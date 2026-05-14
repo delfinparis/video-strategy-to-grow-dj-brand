@@ -65,9 +65,9 @@ Most scripts have a `## Data Source` section, but the format is inconsistent. Th
 
 ```markdown
 - [Claim as written in script]
-  - Source: [exact publication name, year]
-  - Who was measured: [agents / consumers / listings / etc.]
-  - Status: [confirmed / unverified / placeholder]
+ - Source: [exact publication name, year]
+ - Who was measured: [agents / consumers / listings / etc.]
+ - Status: [confirmed / unverified / placeholder]
 ```
 
 **Only IS-002 has been reformatted to this standard.** The other ~180 main-series scripts still have prose-style Data Source sections. This needs a per-script manual pass.
@@ -86,13 +86,13 @@ Any script with a specific number, percentage, or named guest needs its claims c
 
 The auto-generated WOW lines satisfy the structural requirement (each names a criterion + specificity). A few read awkwardly because the title had unusual punctuation. D.J. can refine individual ones for sharpness.
 
-**Suggested polish targets:** scripts where the title is a sentence fragment or ends with ellipsis — the WOW line may read clunky.
+**Suggested polish targets:** scripts where the title is a sentence fragment or ends with ellipsis - the WOW line may read clunky.
 
 ### 4. "Here's what you do now" close construction
 
 After stripping engagement asks, some scripts have a weakened close. In most cases, the final surviving sentence is still a reasonable at-the-viewer's-life observation. But some scripts would be stronger with an explicit `Here's what you do now. [concrete action].` rewrite of the close.
 
-**Priority for close rewrites:** scripts where the close was entirely an engagement ask, and the only remaining close is the reframe from the preceding beat. Those scripts now end on a reframe with no action — they're still compliant (the reframe counts as an acceptable close per Rule 4 pattern 1) but would be stronger with an explicit action close.
+**Priority for close rewrites:** scripts where the close was entirely an engagement ask, and the only remaining close is the reframe from the preceding beat. Those scripts now end on a reframe with no action - they're still compliant (the reframe counts as an acceptable close per Rule 4 pattern 1) but would be stronger with an explicit action close.
 
 ---
 
@@ -136,12 +136,12 @@ After stripping engagement asks, some scripts have a weakened close. In most cas
 
 ## Commits (chronological)
 
-1. `32bca3b` — Initial editorial standard rewrite + AIAM per-series + IS-002 pilot audit
-2. `4299937` — IS-002 fully rewritten with verified Karina Chavez quote attribution
-3. `2a66f2f` — Per-series standards for Agent Tip, The Playbook, Inside the Industry
-4. `ece7ff0` — Mechanical audit across all 465 scripts (brand intros, `[ON-SCREEN]`, etc.)
-5. `8b30d23` — WOW gates on 181 main-series scripts + engagement-ask close strip
-6. _(this commit)_ — WOW gates on 284 reels + On-Screen Text blockquote strip + close audit
+1. `32bca3b` - Initial editorial standard rewrite + AIAM per-series + IS-002 pilot audit
+2. `4299937` - IS-002 fully rewritten with verified Karina Chavez quote attribution
+3. `2a66f2f` - Per-series standards for Agent Tip, The Playbook, Inside the Industry
+4. `ece7ff0` - Mechanical audit across all 465 scripts (brand intros, `[ON-SCREEN]`, etc.)
+5. `8b30d23` - WOW gates on 181 main-series scripts + engagement-ask close strip
+6. _(this commit)_ - WOW gates on 284 reels + On-Screen Text blockquote strip + close audit
 
 ---
 
@@ -176,4 +176,4 @@ When ready to do the remaining editorial work:
 | [`scripts/fix_closes.py`](../../scripts/fix_closes.py) | Smart engagement-ask stripper |
 | [`scripts/strip_onscreen_text_v2.py`](../../scripts/strip_onscreen_text_v2.py) | Strips `> **On-Screen Text:**` blockquotes (reels variant) |
 
-All are idempotent — safe to re-run after new scripts are added to the repo.
+All are idempotent - safe to re-run after new scripts are added to the repo.

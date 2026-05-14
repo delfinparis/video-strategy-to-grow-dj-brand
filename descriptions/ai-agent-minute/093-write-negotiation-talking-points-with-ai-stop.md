@@ -10,7 +10,7 @@ Most real estate agents start thinking about negotiation strategy while they're 
 
 Top producers know the secret: they build their negotiation plan before they ever dial. They map out scenarios, prepare talking points, and walk in with a game plan instead of hoping their gut instincts will save the day.
 
-Here's what I've learned after 700+ podcast episodes with top agents: the best negotiations happen before the call even starts. When you're juggling client priorities, seller motivations, and market leverage in real time, improvisation leaves money on the table.
+Here's what I've learned after 700+ podcast episodes with top agents: the best negotiations happen before the call even starts. When you're juggling client priorities, seller motivations, and market use in real time, improvisation leaves money on the table.
 
 Your clients hired you to think clearly under pressure. AI tools like Claude can help you do that hard thinking ahead of time, not in the moment when it's too late.
 
@@ -42,11 +42,11 @@ POV: You're negotiating without a plan while top producers already mapped out 3 
 
 After interviewing 700+ real estate professionals, I've noticed a pattern that separates top producers from everyone else.
 
-Most agents approach negotiations the same way students approach pop quizzes — they wing it and hope for the best. They start thinking about strategy while they're already on the call, juggling client priorities and market dynamics in real time under pressure.
+Most agents approach negotiations the same way students approach pop quizzes - they wing it and hope for the best. They start thinking about strategy while they're already on the call, juggling client priorities and market dynamics in real time under pressure.
 
 Top producers do something different. They treat every negotiation like a chess game, thinking several moves ahead before they ever pick up the phone. They map out scenarios, prepare talking points for each possibility, and walk into those high-stakes conversations with a clear game plan.
 
-The difference isn't talent or experience — it's preparation. Your clients hired you to think clearly when things get complicated. That clarity comes from doing the hard thinking before the pressure arrives, not during it.
+The difference isn't talent or experience - it's preparation. Your clients hired you to think clearly when things get complicated. That clarity comes from doing the hard thinking before the pressure arrives, not during it.
 
 Tools like Claude can help you build that preparation system. Ten minutes of strategic planning can save hours of back-and-forth and potentially thousands of dollars for your clients.
 

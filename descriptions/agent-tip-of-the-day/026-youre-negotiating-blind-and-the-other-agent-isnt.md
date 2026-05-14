@@ -36,7 +36,7 @@ What's the toughest negotiation you've faced? Drop it below 👇
 
 ### TIKTOK
 
-POV: You've been negotiating blind while top producers already know your every move 👀 Time to level up with AI research! 
+POV: You've been negotiating blind while top producers already know your every move 👀 Time to improve with AI research! 
 
 #realtortok #realestatetok #negotiation #aitools #realestateagent #topproducer #realtor #propertydeals #chatgpt #realestatelife
 

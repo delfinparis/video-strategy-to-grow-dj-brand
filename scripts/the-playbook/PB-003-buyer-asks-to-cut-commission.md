@@ -50,16 +50,16 @@ Try this exact question on your next consultation.
 ## Data Source
 
 - **Claim (the exact question, "What part of what I do do you want me to do less of?"):**
-  - Source: D.J. Paris synthesis of top-producer commission-conversation patterns across multiple KIR interviews. The exact phrasing is D.J.'s distillation.
-  - Status: confirmed as synthesized; presented in script as "the play," not as a verbatim quote from a specific guest
+ - Source: D.J. Paris synthesis of top-producer commission-conversation patterns across multiple KIR interviews. The exact phrasing is D.J.'s distillation.
+ - Status: confirmed as synthesized; presented in script as "the play," not as a verbatim quote from a specific guest
 
 - **Claim:** "The commission conversation isn't about price. It's about value perception."
-  - Source: D.J. Paris synthesis of pattern across top-producer guest interviews and brokerage-leadership observation at Kale Realty
-  - Status: confirmed as D.J.'s operational observation
+ - Source: D.J. Paris synthesis of pattern across top-producer guest interviews and brokerage-leadership observation at Kale Realty
+ - Status: confirmed as D.J.'s operational observation
 
 - **Supporting references:**
-  - Tim Burrell (KIR 2026-01-05) -- negotiation specialist, broader pattern on questioning vs. countering; also referenced in PB-001
-  - Connie Mahan (KIR 2025-12-30) -- coaching-oriented guest whose interviews reinforce value-based framing of commission conversations
+ - Tim Burrell (KIR 2026-01-05) -- negotiation specialist, broader pattern on questioning vs. countering; also referenced in PB-001
+ - Connie Mahan (KIR 2025-12-30) -- coaching-oriented guest whose interviews reinforce value-based framing of commission conversations
 
 - **Pattern framing note:** An earlier draft described this as "a pattern D.J. has heard from at least 15 top producers." Per Rule 1, specific counts of "observed across X interviews" require D.J. to be able to name at least 3. Only Tim Burrell and Connie Mahan are named here; softened to qualitative framing ("across multiple top-producer interviews") rather than claiming a specific number.
 

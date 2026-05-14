@@ -35,7 +35,7 @@ And let me answer the question you're already thinking: "What's the catch?" Ther
 
 Now let me tell you who needs to be in this room. And I guarantee you're about to hear yourself.
 
-**If you're a new agent** -- first year or two -- doing all the things they told you to do. Cold calling. Door knocking. Posting on Instagram like your life depends on it. And you're watching agents who got their license the same month as you somehow close three deals while you're still trying to get someone to return a text. You don't have a work ethic problem. You have a leverage problem. I'm going to show you how to compete with 10-year veterans using tools that didn't exist 18 months ago.
+**If you're a new agent** -- first year or two -- doing all the things they told you to do. Cold calling. Door knocking. Posting on Instagram like your life depends on it. And you're watching agents who got their license the same month as you somehow close three deals while you're still trying to get someone to return a text. You don't have a work ethic problem. You have a use problem. I'm going to show you how to compete with 10-year veterans using tools that didn't exist 18 months ago.
 
 **If you're doing 4 to 15 deals a year** -- congrats, you've got a real business. But you're also the marketing department, the admin, the social media manager, the CRM updater, and the person who stays up until 11 PM writing follow-up emails you should've sent three days ago. There aren't enough hours in your day because you're spending half of them on stuff AI can do better and faster. I'm going to hand you back 19 hours a week. That's two and a half workdays. I'll pause so you can do that math and get excited.
 

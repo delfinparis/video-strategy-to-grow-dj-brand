@@ -48,7 +48,7 @@ While most new agents get stuck in perpetual preparation mode, Connie chose impe
 
 The pattern is clear: agents who wait for perfect conditions are still waiting. The ones who started messy are the ones closing deals today.
 
-The market doesn't reward readiness—it rewards repetition. Every fumbled script, every nervous call, every imperfect listing becomes your real education.
+The market doesn't reward readiness-it rewards repetition. Every fumbled script, every nervous call, every imperfect listing becomes your real education.
 
 What's the one action in your business that you keep postponing until you feel "ready enough"?
 

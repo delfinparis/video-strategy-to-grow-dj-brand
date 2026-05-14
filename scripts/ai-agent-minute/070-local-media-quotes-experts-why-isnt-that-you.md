@@ -33,7 +33,7 @@ Media positioning is a genuine differentiator; the five-pitch-emails-this-week a
 
 Every time a local news outlet quotes a real estate expert, it could be you. Most agents assume that door is closed without ever knocking on it.
 Local journalists, podcasters, and bloggers are constantly looking for expert sources for real estate stories. Mortgage rate pieces. Inventory reports. Buyer vs. seller market takes. They need someone credible and quotable -- and they're often working on deadline with nobody to call. An agent who gets quoted even once in a respected local publication gains credibility that no amount of boosted Instagram posts can replicate. But most agents assume you need to already be famous to get this kind of coverage. You don't.
-And here's the thing -- journalists don't find you. You have to find them first.
+And remember -- journalists don't find you. You have to find them first.
 Here's the fix. Ask Claude to draft five targeted media pitch emails: one for a local newspaper real estate section, one for a personal finance or housing podcast, one for a local lifestyle blog, one for a neighborhood-focused newsletter, and one for a radio or TV station's money segment. Each pitch positions you as an expert source on one specific, timely topic that's relevant to their audience. Not "I'm a great agent" -- "here's the angle I can give you on the rate environment right now." Specific, helpful, on deadline. Send all five this week. One yes permanently raises your profile.."]
 You don't have to be famous to get media coverage. You just have to be useful to the right journalist at the right moment. AI helps you make that happen.
 ## Producer Note

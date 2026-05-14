@@ -22,7 +22,7 @@ What's your biggest follow-up challenge? How do you stay consistent when it feel
 
 The guy closing 100 deals a year just admitted what he hates most about his job (and it's not what you think) 🤯
 
-Eithan Davidov doesn't hate cold calls or tough negotiations. He hates follow-up. But here's the thing – he does it anyway because "the fortune is in the follow-up."
+Eithan Davidov doesn't hate cold calls or tough negotiations. He hates follow-up. And he does it anyway, because "the fortune is in the follow-up."
 
 Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready. That's where deals live or die.
 

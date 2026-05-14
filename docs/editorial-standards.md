@@ -5,9 +5,9 @@ This document defines the non-negotiable content rules for every script and soci
 These rules exist because real agents make real business decisions based on content we publish. Accuracy, voice integrity, and scroll-stopping quality are not aesthetic preferences. They are the foundation of the brand and the relationship with every reader.
 
 **How this standard was built.** It merges three sources:
-- The **[Coffee Talk system prompt](https://github.com/delfinparis/coffeetalk-episode-registry/blob/main/system-prompt.md)** — the rigor: banned AI-speak, stat integrity, authenticity rules, numbers-in-dialogue.
-- The **[KIR POLISH_PROMPT.md](https://github.com/delfinparis/keeping-it-real-content-system/blob/main/content/ai-tips-scripts/POLISH_PROMPT.md)** — the engagement mechanics: curiosity gap, mirror moment, re-hook, problem-agitation-solution, contrast structure, emotional arc, shareable moment, "why now" urgency.
-- **D.J. Paris's enforcement rules** — no fabricated stats, no engagement asks, no em-dashes, "D.J. Paris" with periods, and the CTA is always a "here's what you do now" action at the viewer's own life.
+- The **[Coffee Talk system prompt](https://github.com/delfinparis/coffeetalk-episode-registry/blob/main/system-prompt.md)** - the rigor: banned AI-speak, stat integrity, authenticity rules, numbers-in-dialogue.
+- The **[KIR POLISH_PROMPT.md](https://github.com/delfinparis/keeping-it-real-content-system/blob/main/content/ai-tips-scripts/POLISH_PROMPT.md)** - the engagement mechanics: curiosity gap, mirror moment, re-hook, problem-agitation-solution, contrast structure, emotional arc, shareable moment, "why now" urgency.
+- **D.J. Paris's enforcement rules** - no fabricated stats, no engagement asks, no em-dashes, "D.J. Paris" with periods, and the CTA is always a "here's what you do now" action at the viewer's own life.
 
 Where the three sources conflict, this document owns the resolution. Specifically: the KIR polish prompt has been adapted to strip em-dashes, ban "plausible specific" invented numbers, kill all on-screen-text-only hooks (captions.ai renders audio only), and replace the "ask a specific question" CTA with the stricter "here's what you do now" close.
 
@@ -15,7 +15,7 @@ Where the three sources conflict, this document owns the resolution. Specificall
 
 ## Rule 0: The WOW Gate
 
-**Before a script gets written, it has to earn the write.** If the script is not going to make a scrolling agent stop and say "wait, what?" — don't write it. Ship fewer, sharper videos. Do not fill a slot.
+**Before a script gets written, it has to earn the write.** If the script is not going to make a scrolling agent stop and say "wait, what?" - don't write it. Ship fewer, sharper videos. Do not fill a slot.
 
 ### The 8 clip-worthy criteria
 
@@ -57,7 +57,7 @@ If the script is a tip (Agent Tip of the Day, The Playbook, reels), it has to de
 - **The exact action to take** (a specific step, a specific tool, a specific trigger)
 - **The exact frame shift** (a reframe that changes a decision the viewer is about to make)
 
-Generic advice is banned. "Build trust" is not a tip. "Send this one text to every past client this Friday: [exact words]" is a tip. If you can't fill in the exact words, exact action, or exact frame, you don't have a tip yet — you have a topic. Keep researching.
+Generic advice is banned. "Build trust" is not a tip. "Send this one text to every past client this Friday: [exact words]" is a tip. If you can't fill in the exact words, exact action, or exact frame, you don't have a tip yet - you have a topic. Keep researching.
 
 ---
 
@@ -67,11 +67,11 @@ Generic advice is banned. "Build trust" is not a tip. "Send this one text to eve
 
 ### Acceptable sources
 
-1. **A verifiable external source** — a news article, research report, court filing, Metricool export, LinkedIn analytics export, MLS data, NAR publication, etc. The source must be nameable with a publication year.
-2. **D.J. Paris's direct observation** from a specific, citeable interaction — a podcast guest by name, the NAR influencer event, a Kale Realty internal observation. The observation must be tied to a real named person or a real named moment, not a composite.
-3. **Math performed on real data** — e.g. "5.7% engagement rate" calculated from actual impressions and engagements in a LinkedIn analytics export. Show the math in the Data Source section.
+1. **A verifiable external source** - a news article, research report, court filing, Metricool export, LinkedIn analytics export, MLS data, NAR publication, etc. The source must be nameable with a publication year.
+2. **D.J. Paris's direct observation** from a specific, citeable interaction - a podcast guest by name, the NAR influencer event, a Kale Realty internal observation. The observation must be tied to a real named person or a real named moment, not a composite.
+3. **Math performed on real data** - e.g. "5.7% engagement rate" calculated from actual impressions and engagements in a LinkedIn analytics export. Show the math in the Data Source section.
 
-### Stat integrity — hard rules
+### Stat integrity - hard rules
 
 These are inherited from the Coffee Talk standard and enforced here with equal weight.
 
@@ -84,7 +84,7 @@ These are inherited from the Coffee Talk standard and enforced here with equal w
 
 ### Explicit override: the "plausible specific" rule is banned here
 
-The KIR POLISH_PROMPT ("Hyper-Specific Numbers" principle) instructs writers: *"If you don't have a real stat, use a plausible specific ('spend seven minutes instead of forty-five') rather than a vague one."* **That rule is banned in this repo.** Plausible-but-invented specifics are fabrications by another name. When a real number is not available, use qualitative framing (see below) — not an invented specific.
+The KIR POLISH_PROMPT ("Hyper-Specific Numbers" principle) instructs writers: *"If you don't have a real stat, use a plausible specific ('spend seven minutes instead of forty-five') rather than a vague one."* **That rule is banned in this repo.** Plausible-but-invented specifics are fabrications by another name. When a real number is not available, use qualitative framing (see below) - not an invented specific.
 
 ### What counts as a fabrication
 
@@ -109,7 +109,7 @@ Every script in this repo has a `## Data Source` section. **Every number, percen
   - Status: [confirmed / unverified / placeholder]
 ```
 
-If a claim is in the script but not in the Data Source — or is in the Data Source but marked `unverified` or `placeholder` — it is not ready to ship. Either cite it or strip it before committing.
+If a claim is in the script but not in the Data Source - or is in the Data Source but marked `unverified` or `placeholder` - it is not ready to ship. Either cite it or strip it before committing.
 
 The Data Source section must be filled in BEFORE the spoken script is drafted, not after. Research first, then write. When research and writing happen in the same pass, the writer reaches for numbers that sound right to fit the sentence rhythm. That is how fabrications happen.
 
@@ -163,7 +163,7 @@ The first spoken line must do one of these five things. No other opens qualify:
 
 ### The Curiosity Gap: open a loop the viewer must close
 
-The hook's job isn't just to stop the scroll. It is to create a tension that can only be resolved by watching to the end. The strongest hooks do both — they stop the scroll AND promise a specific payoff the viewer needs to see delivered.
+The hook's job isn't just to stop the scroll. It is to create a tension that can only be resolved by watching to the end. The strongest hooks do both - they stop the scroll AND promise a specific payoff the viewer needs to see delivered.
 
 - **Weak:** "Your CRM drip campaign is costing you business."
 - **Strong (open loop):** "Your CRM drip campaign is costing you business. And I'm going to show you the exact text that fixes it in the next thirty seconds."
@@ -175,7 +175,7 @@ The second version stops the scroll AND makes the viewer need to see the text. B
 - It cannot start with "So," "Alright," "Here's the thing," "Hey guys," or any other throat-clear.
 - It cannot be a rhetorical question the viewer doesn't care about yet. "Have you ever wondered..." is dead.
 - It cannot be context-setting that delays the hook. If a credential matters, the hook weaponizes it ("I teach AI to agents, and...") rather than introducing it ("Hi, I'm D.J., and I teach AI to agents. Today we are going to talk about...").
-- It cannot live only in an on-screen text overlay. See above — captions.ai only renders audio.
+- It cannot live only in an on-screen text overlay. See above - captions.ai only renders audio.
 
 ### The 3-second test
 
@@ -183,7 +183,7 @@ Read the first spoken line aloud. In under three seconds, does it make a strange
 
 ### The 15-second re-hook
 
-Viewer retention data shows a second major drop-off point at 15 to 20 seconds. Every script over 20 seconds must place a re-engagement line at roughly the 15-second mark — a phrase that re-establishes stakes, deepens curiosity, or teases what's coming. This is inherited from the KIR POLISH_PROMPT.
+Viewer retention data shows a second major drop-off point at 15 to 20 seconds. Every script over 20 seconds must place a re-engagement line at roughly the 15-second mark - a phrase that re-establishes stakes, deepens curiosity, or teases what's coming. This is inherited from the KIR POLISH_PROMPT.
 
 **Re-hook phrases that work:**
 
@@ -201,7 +201,7 @@ The re-hook doesn't need to be dramatic. It just needs to remind the viewer ther
 - **Named-guest hook:** "A $40 million producer just told me she's terrible at prospecting. She still answers her phone at 7pm."
 - **Cost-of-inaction lead:** "Your top agent is about to quit. Not because of splits."
 
-These are patterns, not templates. Do not mass-produce them — they lose force when they repeat across consecutive posts.
+These are patterns, not templates. Do not mass-produce them - they lose force when they repeat across consecutive posts.
 
 ---
 
@@ -211,16 +211,16 @@ After the hook, the script must move the viewer through a specific structural ar
 
 ### The arc
 
-1. **Hook** — see Rule 2. Stops the scroll, opens a loop.
+1. **Hook** - see Rule 2. Stops the scroll, opens a loop.
 2. **Problem (the Mirror Moment).** Name the specific mistake or pain the viewer is living. Use second person. Use time and place. Not "most agents struggle with follow-up" but "It's Tuesday morning. You have fourteen leads in your CRM you haven't touched in three weeks. You open the compose window. You stare at it. You close it. You tell yourself you'll do it tomorrow." The viewer who has lived that Tuesday morning will not scroll.
-3. **Agitation.** Name what the problem is costing them. Not the abstract cost — the specific cost. The referral that never came. The listing that went to someone worse. The client that Googled them and picked the other agent. The viewer needs to feel the weight of the problem before the solution will feel valuable.
+3. **Agitation.** Name what the problem is costing them. Not the abstract cost - the specific cost. The referral that never came. The listing that went to someone worse. The client that Googled them and picked the other agent. The viewer needs to feel the weight of the problem before the solution will feel valuable.
 4. **The fix.** Deliver the exact words, exact action, or exact frame shift (see Rule 0's "Actual Tip" gate). This is what they stayed for. Reward them with specificity, not generality.
 5. **Reframe.** Why this matters to their business or their life. This is the line that turns a tactic into a shift in how they see their work.
 6. **"Here's what you do now" close.** See Rule 4.
 
 ### Contrast structure: the single highest-performing pattern
 
-"Most agents do X. Top producers do Y." This pattern works because it creates an immediate in-group / out-group dynamic. The viewer wants to belong to the top group. Use it at least once per script — in the hook, the problem, or the reframe.
+"Most agents do X. Top producers do Y." This pattern works because it creates an immediate in-group / out-group dynamic. The viewer wants to belong to the top group. Use it at least once per script - in the hook, the problem, or the reframe.
 
 Examples:
 
@@ -234,18 +234,18 @@ Map the emotional state of the viewer at each beat. If the script does not move 
 
 | Beat | Target emotion |
 | --- | --- |
-| Hook | *Startled / curious* — "wait, what?" |
-| Problem / Mirror Moment | *Seen / validated* — "that's exactly me" |
-| Agitation | *Uncomfortable* — "I need to fix this" |
-| Fix | *Hopeful / relieved* — "I can actually do this" |
-| Reframe | *Motivated* — "this matters more than I realized" |
-| Close | *Committed* — "I'm doing this right now" |
+| Hook | *Startled / curious* - "wait, what?" |
+| Problem / Mirror Moment | *Seen / validated* - "that's exactly me" |
+| Agitation | *Uncomfortable* - "I need to fix this" |
+| Fix | *Hopeful / relieved* - "I can actually do this" |
+| Reframe | *Motivated* - "this matters more than I realized" |
+| Close | *Committed* - "I'm doing this right now" |
 
 ### The shareable moment
 
 The most shared short-form content contains one moment so good the viewer immediately thinks "someone I know needs to see this." Usually one of:
 
-- A stat that is shocking or counterintuitive (and sourced — see Rule 1)
+- A stat that is shocking or counterintuitive (and sourced - see Rule 1)
 - A contrast that perfectly captures a frustration they share with colleagues
 - A specific tactic so concrete they feel guilty not forwarding it
 - A permission slip that validates something they felt but never heard out loud
@@ -260,13 +260,13 @@ This doesn't have to be heavy-handed. One sentence near the reframe: "And with t
 
 ---
 
-## Rule 4: The "Here's What You Do Now" Close — No Engagement Asks
+## Rule 4: The "Here's What You Do Now" Close - No Engagement Asks
 
 **The close is always an action at the viewer's own life.** Not at the channel. Not a question. Not a plea for engagement. The tip earns the close.
 
 ### The rule
 
-Every script ends with one variant of *"Here's what you do now"* — a specific, immediate action the viewer takes in their own business or day, tied directly to the tip they just heard. The action happens offscreen, in their life. They don't owe the channel anything back.
+Every script ends with one variant of *"Here's what you do now"* - a specific, immediate action the viewer takes in their own business or day, tied directly to the tip they just heard. The action happens offscreen, in their life. They don't owe the channel anything back.
 
 Examples of the "Here's what you do now" close:
 
@@ -297,13 +297,13 @@ The KIR POLISH_PROMPT says the CTA should be *"a direct question that makes some
 
 ### Why
 
-Every engagement ask signals "I am at the stage where I need you to do something for me." The brand D.J. is building — with a senior Chicago real estate audience, a direct NAR relationship, and 700 podcast episodes worth of credibility — is positioned as the opposite. He is the person you should already be following because of who he is and what he has access to. Asking for the follow undercuts that position every time.
+Every engagement ask signals "I am at the stage where I need you to do something for me." The brand D.J. is building - with a senior Chicago real estate audience, a direct NAR relationship, and 700 podcast episodes worth of credibility - is positioned as the opposite. He is the person you should already be following because of who he is and what he has access to. Asking for the follow undercuts that position every time.
 
 Reference creators to model: Steven Bartlett (Diary of a CEO), Ryan Serhant, Jefferson Fisher. None of them end their best content with "follow for more." Their content earns engagement through sharpness.
 
 ### Podcast mentions are different
 
-You can say *"I cover shifts like this weekly on the Keeping It Real Podcast"* or *"More from inside the industry on the Keeping It Real Podcast."* These are informational — they tell the reader where else to find D.J. — without asking them to do anything. That is fine.
+You can say *"I cover shifts like this weekly on the Keeping It Real Podcast"* or *"More from inside the industry on the Keeping It Real Podcast."* These are informational - they tell the reader where else to find D.J. - without asking them to do anything. That is fine.
 
 The test: does the phrase DIRECT the reader to take an action for your benefit, or INFORM them that more content exists? Informational is fine. Directive is banned.
 
@@ -313,7 +313,7 @@ The test: does the phrase DIRECT the reader to take an action for your benefit, 
 
 These rules apply to every spoken line and every caption. They are inherited from the Coffee Talk editorial standard and the KIR POLISH_PROMPT, merged.
 
-### Banned AI-speak — merged list
+### Banned AI-speak - merged list
 
 Never use these words or phrases in any script, caption, or post. They signal generated text and kill the voice on any platform.
 
@@ -329,11 +329,11 @@ Never use these words or phrases in any script, caption, or post. They signal ge
 
 > really, basically, kind of, you know, like, right?, hey guys, today I want to talk about, in this video, let me tell you about
 
-If you catch yourself about to use any of these, stop and rewrite the line from scratch. If the sentence falls apart when you remove the AI-speak word, the sentence had no idea in it — that is the real signal.
+If you catch yourself about to use any of these, stop and rewrite the line from scratch. If the sentence falls apart when you remove the AI-speak word, the sentence had no idea in it - that is the real signal.
 
 ### Punctuation
 
-- **Never use em dashes (—) or en dashes (–).** Use two hyphens (`--`), a period, or a comma, or restructure the sentence. Em dashes are the single most widely recognized AI-writing tell. Zero exceptions in scripts, captions, or stage directions. This overrides the KIR POLISH_PROMPT's "dashes for natural pauses and breaths" guidance.
+- **Never use em dashes (-) or en dashes (–).** Use two hyphens (`--`), a period, or a comma, or restructure the sentence. Em dashes are the single most widely recognized AI-writing tell. Zero exceptions in scripts, captions, or stage directions. This overrides the KIR POLISH_PROMPT's "dashes for natural pauses and breaths" guidance.
 - **No ellipses (...) for stylistic effect.** If a thought trails off, write the trailing off in words.
 - **No ALL CAPS for emphasis.** If a word needs emphasis, restructure the sentence so the emphasis falls naturally when spoken aloud.
 
@@ -351,7 +351,7 @@ If you catch yourself about to use any of these, stop and rewrite the line from 
 - **Numbers under 10 must be spelled out in dialogue.** "Three offers," not "3 offers." "Five minutes," not "5 minutes." This reads more naturally when spoken aloud and transcribes cleaner in captions.ai.
 - **Percentages expressed as "X in Y" wherever possible.** "One in four" lands harder than "25 percent." "Nine out of ten" hits differently than "90 percent." Use the ratio form unless the percentage itself is the story.
 
-### Credibility signals — wear the authority lightly
+### Credibility signals - wear the authority lightly
 
 D.J. has interviewed 700+ top-producing agents over 12+ years and sits as 1 of 12 in NAR's 2026 influencer program. This is enormous authority. It must be deployed naturally, not as a credential dump. Weave in at most one credibility signal per script, conversationally.
 
@@ -359,7 +359,7 @@ D.J. has interviewed 700+ top-producing agents over 12+ years and sits as 1 of 1
 - **Natural:** "I've interviewed over 700 agents on the Keeping It Real Podcast. This came up in almost every conversation about lead gen."
 - **Forced (avoid):** "As the host of a top real estate podcast with 3.2 million downloads..."
 
-### Pacing — write for delivery, not reading
+### Pacing - write for delivery, not reading
 
 - **Short punchy sentences for emphasis.** Like this.
 - **Longer sentences for explanation, where the viewer needs to process the idea and follow the logic through to its conclusion.**
@@ -415,7 +415,7 @@ At a natural delivery pace of roughly 130-150 spoken words per minute:
 
 ### The length discipline
 
-- A script longer than 45 seconds must have a documented reason — in the script metadata — why it earned the extra length. "The topic is complex" is not a reason. "This is a four-beat story and cutting a beat kills the payoff" is a reason.
+- A script longer than 45 seconds must have a documented reason - in the script metadata - why it earned the extra length. "The topic is complex" is not a reason. "This is a four-beat story and cutting a beat kills the payoff" is a reason.
 - A script longer than 60 seconds must have a 15-second re-hook in the spoken line to catch the drift point.
 - A script longer than 75 seconds should probably be two scripts. Before committing, ask: can this be split into two videos with a shared through-line? Usually yes, and usually better.
 - If a tip can be told in 30 seconds and the draft is 60 seconds, the draft is wrong. Cut it.
@@ -701,7 +701,7 @@ Every new script must pass all of these before committing. If any one is "no," t
 
 ### Hook and structure
 
-- [ ] First spoken line passes the 3-second test — it earns the next breath without throat-clearing.
+- [ ] First spoken line passes the 3-second test - it earns the next breath without throat-clearing.
 - [ ] First spoken line is one of the four allowed hook types in Rule 2.
 - [ ] The hook opens a curiosity loop that the rest of the script must close.
 - [ ] No script relies on on-screen-text-only hooks. The pattern interrupt lives in the spoken audio (captions.ai constraint).
@@ -729,7 +729,7 @@ Every new script must pass all of these before committing. If any one is "no," t
 
 ### Close
 
-- [ ] The close is a "Here's what you do now" action at the viewer's own life — not a question, not an engagement ask.
+- [ ] The close is a "Here's what you do now" action at the viewer's own life - not a question, not an engagement ask.
 - [ ] The action is executable in the next hour, not "someday."
 - [ ] Zero engagement asks across spoken script AND all platform captions (LinkedIn, Instagram, Facebook, TikTok, YouTube Shorts, X).
 - [ ] Zero "follow me," "subscribe," "save this," "tag a broker," "let me know in the comments," or "what's your take" phrases.
@@ -777,7 +777,7 @@ This document applies to every series in the repository:
 - **AI Agent Minute** (Pillar 1)
 - **Agent Tip of the Day** (Pillar 2)
 - **The Playbook** (Pillar 3)
-- **Inside the Industry** (Pillar 4) — all sub-types (IA, IS, NF)
+- **Inside the Industry** (Pillar 4) - all sub-types (IA, IS, NF)
 - **Reels and bonus content**
 
 And every platform surface within each script:
@@ -796,6 +796,6 @@ No exceptions. No carve-outs.
 
 ## When in Doubt
 
-If you're not sure whether a claim is supported, whether a phrase crosses the line into engagement-asking, or whether a hook really earns the next breath — default to the more conservative choice. Cut the number. Cut the ask. Rewrite the hook. The content is always stronger when every line has earned its place.
+If you're not sure whether a claim is supported, whether a phrase crosses the line into engagement-asking, or whether a hook really earns the next breath - default to the more conservative choice. Cut the number. Cut the ask. Rewrite the hook. The content is always stronger when every line has earned its place.
 
 When a reader or a future version of yourself reads this repo in six months, they should be able to trace every number to a source, every close to a "here's what you do now" action, and every hook to a reason a stranger would stop scrolling. If they can't, we failed.

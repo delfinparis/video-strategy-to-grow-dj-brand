@@ -6,7 +6,7 @@ This document defines the system for collecting real anecdotes from Kale mentors
 
 ## Why This Exists
 
-D.J. is VP of Business Development at Kale Realty. His job is not coaching or mentorship — those happen inside the mentorship program, which D.J. doesn't personally lead or sit in on. That created a content problem: every Kale-signaling script that tried to reference "what I saw in a mentorship session" was either false or had to be rewritten as secondhand observation.
+D.J. is VP of Business Development at Kale Realty. His job is not coaching or mentorship - those happen inside the mentorship program, which D.J. doesn't personally lead or sit in on. That created a content problem: every Kale-signaling script that tried to reference "what I saw in a mentorship session" was either false or had to be rewritten as secondhand observation.
 
 The fix is structural, not editorial. Instead of D.J. inventing mentorship anecdotes or dancing around the framing, Kale's real mentors share real stories directly with D.J. every week. He reports what he's told, naming the person who told it. That's the Bartlett observer model applied to his own brokerage.
 
@@ -28,8 +28,8 @@ Create a simple Google Form or Notion form with these fields:
 
 1. **Your name** (mentor or mentee)
 2. **Role** (mentor / mentee / both)
-3. **The moment** — In 2-3 sentences, what was the specific conversation or decision you want to share? Be concrete. Not "I helped her with her business," but "Last Tuesday we talked through whether she should take an overpriced listing from her sphere, and here's what we landed on."
-4. **The insight** — What was the one thing either of you learned or decided that you think other agents would benefit from hearing?
+3. **The moment** - In 2-3 sentences, what was the specific conversation or decision you want to share? Be concrete. Not "I helped her with her business," but "Last Tuesday we talked through whether she should take an overpriced listing from her sphere, and here's what we landed on."
+4. **The insight** - What was the one thing either of you learned or decided that you think other agents would benefit from hearing?
 5. **Can D.J. share this publicly?** (yes / yes with my name changed / no, just for internal use)
 6. **If yes, can D.J. quote you by name?** (yes / prefer first name only / prefer anonymous but attributed as "a Kale mentor / mentee")
 
@@ -45,7 +45,7 @@ This method produces the richest content because voice memos capture natural lan
 
 **Method C: Monthly mentor meetup with story prompt (highest volume, lowest D.J. effort)**
 
-If Kale already runs a monthly mentor meetup, add a 10-minute block to the end of the meeting: *"Before we break, everyone — share one conversation you had with your mentee this month that stuck with you. 60 seconds each."*
+If Kale already runs a monthly mentor meetup, add a 10-minute block to the end of the meeting: *"Before we break, everyone - share one conversation you had with your mentee this month that stuck with you. 60 seconds each."*
 
 Record the segment (with consent). Transcribe the 10 minutes. That's ~10-15 real stories per month without any individual ask required. Mentors enjoy sharing wins, so the social dynamic in the room actually helps rather than hurts.
 
@@ -80,7 +80,7 @@ Target inventory: 8-12 active stories at any given time, with fresh additions ev
 
 The mentor stories become source material for scripts across all four pillars:
 
-### Inside the Industry Type A (Access) — Primary use case
+### Inside the Industry Type A (Access) - Primary use case
 
 Replaces the old "I sat in on a session" framing with honest secondhand reporting:
 
@@ -92,15 +92,15 @@ that stuck with me was [insight]."
 
 That's 100% honest. D.J. is reporting what he was told, by whom, and what he took from it. Same emotional hook as a fabricated first-person observation, stronger because it names a real person and gives them credit.
 
-### Agent Tip of the Day — Kale variant
+### Agent Tip of the Day - Kale variant
 
 A mentor tells D.J. about a specific tactic that worked for their mentee. The Agent Tip script features the mentor by name (with permission), describes the tactic, and credits the source. Cross-brokerage credibility because a real Kale mentor said it.
 
-### The Playbook — Scenario variant
+### The Playbook - Scenario variant
 
 A mentee describes a specific difficult situation they navigated with mentor guidance. The Playbook script uses that real scenario as the template, credits the mentee (with permission), and walks through the play.
 
-### Inside the Industry Type B (Synthesis) — Pattern over time
+### Inside the Industry Type B (Synthesis) - Pattern over time
 
 Over a quarter of collected stories, patterns emerge. D.J. reports those patterns qualitatively: *"After collecting 50 mentor stories at Kale this quarter, I noticed something. Almost every breakthrough conversation starts with the same kind of question."* That's a real synthesis from a real dataset, not a fabrication.
 
@@ -130,7 +130,7 @@ Stories that don't have permission for public use can still feed D.J.'s own unde
 ### Week 2
 
 1. Send the form link Friday morning in the mentor channel.
-2. Follow up Monday morning with everyone who didn't respond — not pushy, just a single reminder.
+2. Follow up Monday morning with everyone who didn't respond - not pushy, just a single reminder.
 3. Log whatever comes in to the story inventory.
 4. Start using the first real story in a new IA-004 variant or a future Kale-signaling script.
 

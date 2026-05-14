@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-While most agents are switching to vacation mode and checking out for the summer, top producers like Carrie McCormick ($300M Chicago producer) are gearing up for their biggest opportunity window. Slow stretches aren't downtime — they're hunting season.
+While most agents are switching to vacation mode and checking out for the summer, top producers like Carrie McCormick ($300M Chicago producer) are gearing up for their biggest opportunity window. Slow stretches aren't downtime - they're hunting season.
 
 Here's her exact play: She filters her CRM for everyone who bought during the pandemic. These homeowners now have equity, rates dropped to 6%, and they're finally willing to consider giving up those 3% mortgages. While competitors ease into long weekends, she's making actual calls and booking appointments.
 
@@ -18,7 +18,7 @@ What's your database strategy right now? Are you working your pandemic buyer lis
 
 ### INSTAGRAM
 
-Your competition disappears for 6 weeks every summer — here's how top producers capitalize 🎯
+Your competition disappears for 6 weeks every summer - here's how top producers capitalize 🎯
 
 Carrie McCormick ($300M producer) doesn't coast. She calls 2020-2022 buyers whose equity is up, rates dropped to 6%, and they're ready to move.
 
@@ -44,7 +44,7 @@ Carrie McCormick sees this differently. As a $300 million producer in Chicago, s
 
 Her approach is surgical: filter the CRM for 2020-2022 buyers. These homeowners now have significant equity, mortgage rates dropped to 6%, and they're finally psychologically ready to give up those 3% pandemic mortgages. She's making calls, booking appointments, and building momentum while her competition takes long weekends.
 
-The business principle is clear: what you do during slow stretches sets up your entire next quarter. When everyone ramps back up, she arrives with either a loaded pipeline or — well, she always has a loaded pipeline.
+The business principle is clear: what you do during slow stretches sets up your entire next quarter. When everyone ramps back up, she arrives with either a loaded pipeline or - well, she always has a loaded pipeline.
 
 How are you positioning yourself while your market is quiet?
 

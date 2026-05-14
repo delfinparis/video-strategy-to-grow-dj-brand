@@ -44,7 +44,7 @@ But here's what separates her from agents who burn out: her perspective on clien
 
 Consider this: every person who contacts you passed on dozens of other agents. They didn't choose your brokerage, your marketing, or your brand. They chose YOU personally. Most agents lose sight of this privilege after a few successful years, starting to see client calls as interruptions rather than the foundation of their business.
 
-Kristee's approach isn't just about client service—it's about sustainable success. When you view each interaction as an honor rather than an obligation, your energy, authenticity, and results naturally follow.
+Kristee's approach isn't just about client service-it's about sustainable success. When you view each interaction as an honor rather than an obligation, your energy, authenticity, and results naturally follow.
 
 How do you frame client interactions in your mind? As honors or obligations?
 

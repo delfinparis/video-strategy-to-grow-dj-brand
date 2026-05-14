@@ -20,17 +20,17 @@
 
 ## Findings
 
-### CRITICAL — none. This is already a clean script.
+### CRITICAL - none. This is already a clean script.
 
-### HIGH — none
+### HIGH - none
 
-### MEDIUM — WOW line and Data Source format
+### MEDIUM - WOW line and Data Source format
 
 **M1.** Auto-generated WOW line was redundant ("exact words to say when here's the play when you get a lowball offer"). Polished to specific tactical claim.
 
 **M2.** Data Source was prose-style. Reformatted to standard bullet format with explicit framing that the exact phrase is synthesized, not a direct guest quote.
 
-### LOW — Shareable Moment metadata
+### LOW - Shareable Moment metadata
 
 Was "Strongest Line." Renamed to "Shareable Moment" per series standard.
 
@@ -51,7 +51,7 @@ Textbook "here's what you do now" close per universal Rule 4. Compliant. Keep.
 | SCENARIO (drop viewer mid-situation) | ✅ | "You just got a lowball offer on your listing. Your seller is insulted. You are frustrated." |
 | DON'T (what most agents do wrong) | ✅ | Three specific wrong moves named |
 | DO (exact words in quotes) | ✅ | Verbatim phrase in quotes |
-| WHY (psychology behind the words) | ✅ | Explains the leverage mechanic |
+| WHY (psychology behind the words) | ✅ | Explains the use mechanic |
 | TRY THIS (concrete close) | ✅ | "Try it on your next lowball." |
 
 All beats present. Structure is textbook.

@@ -34,7 +34,7 @@ What's the biggest opportunity that came from answering an unexpected call? Drop
 
 ### TIKTOK
 
-Answered at 7pm Tuesday, listed by Thursday 📱 Your phone isn't ringing less—you're just not answering
+Answered at 7pm Tuesday, listed by Thursday 📱 Your phone isn't ringing less-you're just not answering
 
 #realtortok #realestatetok #realtor #realtortips #topproducer #answeryourphone #realestateagent #listingagent #realestatebusiness #realestatesuccess
 
@@ -46,9 +46,9 @@ As a top 1% producer in Albuquerque who built her business entirely on referrals
 
 Here's the business reality: people don't want to leave voicemails about six-figure decisions. They want immediate human connection and will move to the next agent in their contacts within minutes, not hours.
 
-If you're plateaued at your current production level, audit your missed calls from last week. How many went to voicemail because you were "busy"? Each unanswered call represents potential lost revenue—one could've been worth $15,000+ in commission.
+If you're plateaued at your current production level, audit your missed calls from last week. How many went to voicemail because you were "busy"? Each unanswered call represents potential lost revenue-one could've been worth $15,000+ in commission.
 
-The most successful agents understand that availability isn't just customer service—it's competitive advantage. When everyone else is screening calls, being the agent who picks up sets you apart instantly.
+The most successful agents understand that availability isn't just customer service-it's competitive advantage. When everyone else is screening calls, being the agent who picks up sets you apart instantly.
 
 What's the most valuable opportunity that came from answering an unexpected call in your business?
 
@@ -58,4 +58,4 @@ What's the most valuable opportunity that came from answering an unexpected call
 
 **Title:** Real Estate Agent Gets $480K Listing From 7pm Phone Call
 
-**Description:** Top producer Karina Chavez answered her phone at 7pm on Tuesday and had a $480,000 listing by Thursday. Most agents ignore evening calls, but people don't leave voicemails about six-figure decisions—they call the next agent. Subscribe for daily real estate tips. #RealEstateAgent #RealtorTips #TopProducer #RealEstateBusiness #ListingAgent
+**Description:** Top producer Karina Chavez answered her phone at 7pm on Tuesday and had a $480,000 listing by Thursday. Most agents ignore evening calls, but people don't leave voicemails about six-figure decisions-they call the next agent. Subscribe for daily real estate tips. #RealEstateAgent #RealtorTips #TopProducer #RealEstateBusiness #ListingAgent

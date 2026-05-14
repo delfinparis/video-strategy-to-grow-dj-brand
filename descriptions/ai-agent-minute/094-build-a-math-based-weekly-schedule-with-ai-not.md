@@ -40,9 +40,9 @@ POV: You realize your "busy" schedule isn't actually making you money 💀 Time 
 
 Most real estate professionals confuse motion with progress. They're busy all day but can't explain why their income isn't growing.
 
-The breakthrough insight? You don't have a time management problem—you have a schedule design problem. Successful agents don't work harder; they work within a structure built on actual conversion mathematics.
+The breakthrough insight? You don't have a time management problem-you have a schedule design problem. Successful agents don't work harder; they work within a structure built on actual conversion mathematics.
 
-D.J. Paris demonstrates how AI can calculate your exact weekly requirements—prospecting hours, appointment blocks, follow-up time—based on your income goals and current conversion rates. No more guessing if you're doing enough.
+D.J. Paris demonstrates how AI can calculate your exact weekly requirements-prospecting hours, appointment blocks, follow-up time-based on your income goals and current conversion rates. No more guessing if you're doing enough.
 
 Within 15 minutes, you can have a time-blocked schedule designed by data, not habit or guilt. It's the difference between hoping you'll hit your goals and engineering the path to achieve them.
 

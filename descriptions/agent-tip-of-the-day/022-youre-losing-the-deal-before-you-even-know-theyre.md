@@ -8,7 +8,7 @@
 
 Most agents lose deals and have no idea why. They think the other side just "got cold feet" or "went with someone else." But Tim Burrell, a top producer in Raleigh, discovered the real reason: we're terrible at reading digital tone.
 
-Here's his game-changer: He runs every negotiation email through ChatGPT with a custom prompt that detects frustration levels on a 1-10 scale. When it flags a 6 or higher, he picks up the phone instead of typing back. The AI catches tone shifts that kill deals before they happen.
+His approach: He runs every negotiation email through ChatGPT with a custom prompt that detects frustration levels on a 1-10 scale. When it flags a 6 or higher, he picks up the phone instead of typing back. The AI catches tone shifts that kill deals before they happen.
 
 Think about your last deal that died unexpectedly. You probably sent 2-3 emails that week that landed wrong, but you didn't know it until it was too late. This catches email number one.
 
@@ -44,9 +44,9 @@ Tim Burrell, a top producer in Raleigh, identified this blind spot and built a s
 
 When the AI flags anything above a 6, he switches from email to phone. The result? He catches relationship deterioration before it kills the transaction. Most agents realize there's a problem only after the deal dies, then wonder what they missed.
 
-The insight here isn't just about AI—it's about recognizing that negotiation success often depends on micro-signals we're not trained to catch. Email strips away vocal tone and body language, leaving us to guess at emotional states. That's a dangerous game when six-figure commissions are on the line.
+The insight here isn't just about AI-it's about recognizing that negotiation success often depends on micro-signals we're not trained to catch. Email strips away vocal tone and body language, leaving us to guess at emotional states. That's a dangerous game when six-figure commissions are on the line.
 
-Your last deal that fell apart unexpectedly—what communication red flags do you wish you'd caught earlier?
+Your last deal that fell apart unexpectedly-what communication red flags do you wish you'd caught earlier?
 
 #RealEstate #RealEstateNegotiation #AIForBusiness #ClientCommunication #RealEstateTechnology
 

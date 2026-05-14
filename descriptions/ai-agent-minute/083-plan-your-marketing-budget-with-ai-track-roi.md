@@ -6,23 +6,23 @@
 
 ### FACEBOOK
 
-Most real estate agents spend marketing dollars the same way people buy gym memberships — optimistically, without ever checking if it's actually working. The result? Thousands wasted every year on "feel good" marketing that never pays back.
+Most real estate agents spend marketing dollars the same way people buy gym memberships - optimistically, without ever checking if it's actually working. The result? Thousands wasted every year on "feel good" marketing that never pays back.
 
-In this eye-opening episode, D.J. Paris breaks down exactly how top producers use AI to track every marketing dollar and multiply their ROI. No more spending on faith or because a colleague "swears by it" — this is about cold, hard data that actually scales your business.
+In this eye-opening episode, D.J. Paris breaks down exactly how top producers use AI to track every marketing dollar and multiply their ROI. No more spending on faith or because a colleague "swears by it" - this is about cold, hard data that actually scales your business.
 
 The simple tracking system he shares takes 10 minutes to set up but can save you thousands in wasted spend. Plus, he reveals the quarterly review process that separates top producers from everyone else.
 
-What percentage of your current marketing spend do you actually track for ROI? Be honest — we've all been there!
+What percentage of your current marketing spend do you actually track for ROI? Be honest - we've all been there!
 
 #RealEstate #MarketingROI #RealEstateAgent #PropertyMarketing #RealEstateBusiness #KeepingItRealPodcast #RealEstateSuccess
 
 ### INSTAGRAM
 
-Most agents spend on marketing like gym memberships — optimistically, without tracking if it works 💸
+Most agents spend on marketing like gym memberships - optimistically, without tracking if it works 💸
 
 Faith doesn't scale. Data does.
 
-D.J. Paris reveals the simple AI system top producers use to track every marketing dollar and multiply ROI. No more guessing what works — this is about cold evidence that actually grows your business.
+D.J. Paris reveals the simple AI system top producers use to track every marketing dollar and multiply ROI. No more guessing what works - this is about cold evidence that actually grows your business.
 
 What % of your marketing spend do you actually track? Drop it below 👇
 
@@ -32,17 +32,17 @@ What % of your marketing spend do you actually track? Drop it below 👇
 
 ### TIKTOK
 
-Most agents spend marketing $ like gym memberships — optimistically without tracking if it works 😅 Time to get data-driven!
+Most agents spend marketing $ like gym memberships - optimistically without tracking if it works 😅 Time to get data-driven!
 
 #realtortok #realestatetok #marketingtips #realestate #realestateagent #businesstips #realtortips #marketingROI #realestatecoach #propertymarketing
 
 ### LINKEDIN
 
-Here's an uncomfortable truth: Most real estate professionals spend marketing dollars the same way people purchase gym memberships — with optimism, but without any system to track whether it's delivering results.
+Here's an uncomfortable truth: Most real estate professionals spend marketing dollars the same way people purchase gym memberships - with optimism, but without any system to track whether it's delivering results.
 
 I see agents every day throwing thousands at lead sources, direct mail campaigns, and digital ads because they "feel like" it's working, or because a colleague recommended it. Meanwhile, they have zero data on actual ROI.
 
-The difference between average producers and top performers isn't just budget size — it's evidence-based decision making. Top producers don't spend on instinct; they spend on data.
+The difference between average producers and top performers isn't just budget size - it's evidence-based decision making. Top producers don't spend on instinct; they spend on data.
 
 In this episode, D.J. Paris shares a simple AI-powered system for quarterly budget allocation and ROI tracking that can save you thousands in wasted marketing spend. The tracking framework takes minutes to implement but fundamentally changes how you invest in business growth.
 

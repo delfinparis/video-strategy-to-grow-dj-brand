@@ -46,7 +46,7 @@ Michael Thornton, who produces $30 million annually in Wheaton, Illinois, discov
 
 The conversation is simple: "How can I use you better for my real estate business?" The AI responds with workflows, prompts, and strategies he never considered. It's like having a personal AI coach that evolves with his business needs.
 
-The compound effect is remarkable. His content now appears as source material when prospects search AI about his local market. He's not just leveraging technology – he's learning from it how to stay ahead of it.
+The compound effect is remarkable. His content now appears as source material when prospects search AI about his local market. He's not just using technology – he's learning from it how to stay ahead of it.
 
 This mindset shift from "AI as tool" to "AI as coach" represents a fundamental change in how top producers approach technology. They don't just use it; they let it shape their expertise.
 

@@ -21,9 +21,9 @@ Inside the Industry exists to do the job that utility content cannot: position D
 
 The series is modeled after three reference creators:
 
-- **Steven Bartlett (Diary of a CEO)** — borrows authority from access to high-status guests rather than self-declaring expertise
-- **Ryan Serhant** — combines industry takes, personal humanity, and education in a single content matrix
-- **"School of Hard Knocks" interview clips** — proves that signaling access (not having a huge following) is the engine of authority content
+- **Steven Bartlett (Diary of a CEO)** - borrows authority from access to high-status guests rather than self-declaring expertise
+- **Ryan Serhant** - combines industry takes, personal humanity, and education in a single content matrix
+- **"School of Hard Knocks" interview clips** - proves that signaling access (not having a huge following) is the engine of authority content
 
 ---
 
@@ -113,16 +113,16 @@ Every Inside the Industry script is one of three types. The type is set in front
 
 ## The X% Club Template
 
-A reusable hook structure pioneered by D.J.'s "The 9% Club" post (4/1/2026), which drove 651 impressions on Personal LinkedIn — 62% of that week's total reach from a single post.
+A reusable hook structure pioneered by D.J.'s "The 9% Club" post (4/1/2026), which drove 651 impressions on Personal LinkedIn - 62% of that week's total reach from a single post.
 
 **The structure:**
 
-1. **Counter-intuitive statistical hook** — "The X% Club: Why (100-X)% of agents are [missing outcome]"
-2. **Validation that the thing works** — "the data has been consistent for years"
-3. **The adoption gap** — "fewer than 1 in N actually do it"
-4. **Reframe away from awareness** — "not a lack of awareness, but practical barriers"
-5. **Named specific barriers** — list 3 concrete reasons
-6. **Low-friction CTA** — "one [small action], [small time investment]"
+1. **Counter-intuitive statistical hook** - "The X% Club: Why (100-X)% of agents are [missing outcome]"
+2. **Validation that the thing works** - "the data has been consistent for years"
+3. **The adoption gap** - "fewer than 1 in N actually do it"
+4. **Reframe away from awareness** - "not a lack of awareness, but practical barriers"
+5. **Named specific barriers** - list 3 concrete reasons
+6. **Low-friction CTA** - "one [small action], [small time investment]"
 
 **Why it works on Personal LinkedIn:**
 
@@ -156,12 +156,12 @@ These two platforms have the highest concentration of D.J.'s actual target audie
 
 **Distribution sequence for any Inside the Industry script:**
 
-1. **Personal LinkedIn** (primary) — full long-form post text
-2. **Personal Facebook** (secondary) — adapted from LinkedIn, slightly more conversational
-3. **Personal Instagram (Reel)** — 60-second video version with caption
-4. **TikTok** — 45-60 second video version with stronger hook
-5. **YouTube Shorts** — 60-second video, search-optimized title
-6. **X (Twitter)** — distilled to 280 chars, opinion-forward
+1. **Personal LinkedIn** (primary) - full long-form post text
+2. **Personal Facebook** (secondary) - adapted from LinkedIn, slightly more conversational
+3. **Personal Instagram (Reel)** - 60-second video version with caption
+4. **TikTok** - 45-60 second video version with stronger hook
+5. **YouTube Shorts** - 60-second video, search-optimized title
+6. **X (Twitter)** - distilled to 280 chars, opinion-forward
 
 The script files include all six platform versions. LinkedIn is the canonical version because that's where the audience converts.
 
@@ -207,7 +207,7 @@ Reference models Steven Bartlett (Diary of a CEO), Ryan Serhant, and Jefferson F
 
 Three acceptable closing patterns for any Inside the Industry script:
 
-1. **Stop on the reframe.** Let the strongest line of the script be the last thing spoken or written. No CTA. Silence is a stronger close than a beg. Example (IS-001): "AI gives you leverage. Experience gives you judgment. One of those takes twenty years." Then cut.
+1. **Stop on the reframe.** Let the strongest line of the script be the last thing spoken or written. No CTA. Silence is a stronger close than a beg. Example (IS-001): "AI gives you use. Experience gives you judgment. One of those takes twenty years." Then cut.
 
 2. **Action ask (not audience ask).** Tell the viewer to do something in their own life, not to engage with you. Example (IS-002): "Tomorrow morning, pick up one call you'd normally skip. See what happens."
 

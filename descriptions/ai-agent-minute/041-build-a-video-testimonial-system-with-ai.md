@@ -10,7 +10,7 @@ Most real estate agents have dozens of happy clients but zero video testimonials
 
 The problem isn't that clients won't do it - it's that we make it awkward and complicated. We don't give them a script, we don't make the ask feel natural, and we let the moment pass when the deal closes.
 
-D.J. Paris from Keeping It Real Podcast breaks down the exact system top agents use to collect video testimonials consistently. It's not about hoping clients film something - it's about having a frictionless process that makes it easy for them to say yes.
+D.J. Paris from Keeping It Real Podcast breaks down the exact system top agents use to collect video testimonials consistently. It's about having a frictionless process that makes it easy for them to say yes, not hoping clients film something.
 
 The secret? Give them three specific questions to answer and simple filming instructions. Most people actually WANT to help you succeed - they just need to know what to say.
 
