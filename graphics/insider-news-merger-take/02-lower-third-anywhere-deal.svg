@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+
+  <rect x="60" y="1240" width="12" height="280" fill="#F2C94C"/>
+
+  <rect x="72" y="1240" width="948" height="280" fill="#0B1220"/>
+
+  <rect x="72" y="1518" width="948" height="2" fill="#F2C94C" opacity="0.5"/>
+
+  <text x="120" y="1310"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="26" font-weight="700" letter-spacing="6" fill="#F2C94C">BREAKING DOWN THE DEAL</text>
+
+  <text x="120" y="1395"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="58" font-weight="800" fill="#FFFFFF">COMPASS ACQUIRED</text>
+  <text x="120" y="1460"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="58" font-weight="800" fill="#FFFFFF">ANYWHERE</text>
+
+  <text x="120" y="1505"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="26" font-weight="600" letter-spacing="4" fill="#9CA3AF">2026   ·   $1.6 BILLION</text>
+</svg>
