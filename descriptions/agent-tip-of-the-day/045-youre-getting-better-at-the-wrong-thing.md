@@ -6,15 +6,15 @@
 
 ### FACEBOOK
 
-The mechanic you never question. The doctor whose advice you follow without hesitation. The hairstylist you've been seeing for ten years. They're not better salespeople — they're more trusted people.
+The mechanic you never question. The doctor whose advice you follow without hesitation. The hairstylist you've been seeing for ten years. They're not better salespeople - they're more trusted people.
 
 Courtney Poulos, recognized leader by LA Business Journal, just flipped everything we know about real estate sales: "The art of sales is not in my ability to sell. It's in the clients' ability or desire to trust me."
 
-While you're perfecting your pitch and memorizing objection handlers, your competition is building relationships. Trust isn't built in a presentation — it's built in how you show up before the pitch ever happens.
+While you're perfecting your pitch and memorizing objection handlers, your competition is building relationships. Trust isn't built in a presentation - it's built in how you show up before the pitch ever happens.
 
 What if you stopped trying to get better at convincing people and started getting better at being the kind of person people don't need to be convinced by?
 
-Think about your last three lost deals — was it really your pitch that failed, or was trust never built in the first place?
+Think about your last three lost deals - was it really your pitch that failed, or was trust never built in the first place?
 
 #RealEstate #RealEstateAgent #TrustOverTactics #SalesMindset #TopProducer #RealEstateSales #ListingAgent
 
@@ -22,7 +22,7 @@ Think about your last three lost deals — was it really your pitch that failed,
 
 Stop perfecting your pitch. Start building trust. (This changes everything.) 🎯
 
-The mechanic you never question. The doctor you follow without hesitation. They're not better salespeople — they're more trusted people.
+The mechanic you never question. The doctor you follow without hesitation. They're not better salespeople - they're more trusted people.
 
 Courtney Poulos drops truth: "The art of sales is not in my ability to sell. It's in the clients' ability to trust me." While you're memorizing scripts, your competition is building relationships.
 
@@ -44,7 +44,7 @@ I asked Courtney Poulos, recognized leader by LA Business Journal, what separate
 
 "The art of sales is not in my ability to sell. It's in the clients' ability or desire to trust me."
 
-Think about the professionals you never question — your mechanic, your doctor, your hairstylist of ten years. They're not better salespeople. They're more trusted people. Trust isn't built in a presentation. It's built in how you show up before the pitch ever happens.
+Think about the professionals you never question - your mechanic, your doctor, your hairstylist of ten years. They're not better salespeople. They're more trusted people. Trust isn't built in a presentation. It's built in how you show up before the pitch ever happens.
 
 While most agents perfect their scripts and objection handlers, top producers focus on becoming the kind of person clients don't need to be convinced by. They invest in relationships, not closing techniques.
 

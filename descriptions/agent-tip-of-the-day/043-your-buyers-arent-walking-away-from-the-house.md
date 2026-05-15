@@ -12,7 +12,7 @@ When the buyer asked why the house was priced at $2.1M, the other agent said "ma
 
 One agent gave a number. One gave certainty. Guess who got the listing?
 
-As this top 1% Chicago luxury producer puts it: "Buyers don't reject homes. They reject uncertainty." The next time a buyer ghosts after a showing, it's not the house - it's that you gave them a price without a plan.
+As this top 1% Chicago luxury producer puts it: "Buyers don't reject homes. They reject uncertainty." The next time a buyer ghosts after a showing, remember: they didn't walk away from the house. They walked away from a price without a plan.
 
 What's your go-to strategy for turning pricing conversations into certainty for your clients?
 

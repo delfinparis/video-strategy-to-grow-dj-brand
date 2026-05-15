@@ -45,7 +45,7 @@ Your 10th messy video will beat someone's polished 1st one every time. Most agen
 
 Most real estate professionals abandon video content after their third attempt. But data from Netflix marketer Kim Rittberg reveals a crucial insight: your tenth imperfect video will consistently outperform a competitor's polished debut.
 
-She documented one agent's progression from generic "homes are selling fast" messaging to confidently explaining how a new traffic pattern creates hidden opportunities in adjacent neighborhoods. The transformation wasn't about production value—it was about mindset evolution.
+She documented one agent's progression from generic "homes are selling fast" messaging to confidently explaining how a new traffic pattern creates hidden opportunities in adjacent neighborhoods. The transformation wasn't about production value-it was about mindset evolution.
 
 The shift happens between video one ("I should do this") and video twelve ("I'm the only agent explaining this specific insight"). That's the difference between content created from obligation versus authority.
 

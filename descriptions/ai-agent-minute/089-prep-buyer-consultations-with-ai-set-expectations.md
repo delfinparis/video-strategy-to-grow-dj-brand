@@ -38,13 +38,13 @@ Every buyer problem you've dealt with started in the first conversation you neve
 ### LINKEDIN
 The pattern is predictable: agents rush to start showing properties, skip the comprehensive buyer consultation, and then wonder why deals fall apart three months later.
 
-Here's what I've learned after 700+ podcast episodes interviewing top real estate professionals: every buyer challenge—ghosting, cold feet, unrealistic expectations—traces back to an incomplete initial conversation.
+Here's what I've learned after 700+ podcast episodes interviewing top real estate professionals: every buyer challenge-ghosting, cold feet, unrealistic expectations-traces back to an incomplete initial conversation.
 
 The math is simple: invest one hour in a structured buyer consultation or spend 30+ hours dealing with the consequences later. Most agents choose door number two without realizing it.
 
 DJ Paris from Keeping It Real Podcast demonstrates how artificial intelligence can help agents prepare bulletproof consultations that set proper expectations from day one. The key is using AI to anticipate the right questions, market realities, and potential friction points before they derail your transaction.
 
-What's your approach to buyer consultations—structured process or adapt on the fly?
+What's your approach to buyer consultations-structured process or adapt on the fly?
 
 #realestate #realestatesales #buyeragent #aitools #realestatecoaching
 

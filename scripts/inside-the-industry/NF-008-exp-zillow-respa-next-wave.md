@@ -38,31 +38,31 @@ The commission chapter is closing. The kickback chapter is just opening. Ask you
 ## Data Source
 
 - **Claim:** "Taylor v. Zillow -- consolidated class-action lawsuit"
-  - Source: RISMedia, "COURT REPORT: eXp Looped Into Zillow RESPA Suit," 2026-04-20 ([link](https://www.rismedia.com/2026/04/20/court-report-exp-zillow-respa/)); author Clarissa Garza
-  - Case status: consolidated class-action filed late 2025, federal court, Judge James L. Robart presiding
-  - Status: confirmed
+ - Source: RISMedia, "COURT REPORT: eXp Looped Into Zillow RESPA Suit," 2026-04-20 ([link](https://www.rismedia.com/2026/04/20/court-report-exp-zillow-respa/)); author Clarissa Garza
+ - Case status: consolidated class-action filed late 2025, federal court, Judge James L. Robart presiding
+ - Status: confirmed
 
 - **Claim:** "Zillow is steering buyers to its own mortgage arm and charging agents for those same leads -- RESPA kickback territory"
-  - Source: same RISMedia 2026-04-20. Plaintiffs allege two RESPA violations: (1) Zillow unlawfully steers buyers toward its home loan programs, and (2) directing buyer inquiries to agents who paid for leads is "deceptive" and violates consumer protection statutes.
-  - Status: confirmed (characterization of plaintiff allegations, not a finding of fact)
+ - Source: same RISMedia 2026-04-20. Plaintiffs allege two RESPA violations: (1) Zillow unlawfully steers buyers toward its home loan programs, and (2) directing buyer inquiries to agents who paid for leads is "deceptive" and violates consumer protection statutes.
+ - Status: confirmed (characterization of plaintiff allegations, not a finding of fact)
 
 - **Claim:** "eXp got added to the amended complaint this week because of YouTube videos promoting Zillow Flex"
-  - Source: same RISMedia 2026-04-20. Filing states: "eXp's official YouTube channel has at least 10 videos promoting Zillow Flex."
-  - Status: confirmed
+ - Source: same RISMedia 2026-04-20. Filing states: "eXp's official YouTube channel has at least 10 videos promoting Zillow Flex."
+ - Status: confirmed
 
 - **Claim:** "This isn't a commission lawsuit. It's a kickback and steering lawsuit."
-  - Source: RESPA = Real Estate Settlement Procedures Act, which governs kickbacks and referral fees in residential real estate transactions. Distinct from Sherman Act antitrust claims that drove the Sitzer/Burnett, Tuccori, and Batton commission cases.
-  - Status: confirmed as accurate legal framing
+ - Source: RESPA = Real Estate Settlement Procedures Act, which governs kickbacks and referral fees in residential real estate transactions. Distinct from Sherman Act antitrust claims that drove the Sitzer/Burnett, Tuccori, and Batton commission cases.
+ - Status: confirmed as accurate legal framing
 
 - **Other defendants named in filings (not in spoken script but context for Data Source):**
-  - Real Brokerage (filed motion to compel arbitration)
-  - Frano Team, Florida-based (filed motion to compel arbitration)
-  - Zillow (primary defendant; has denied allegations)
-  - Judge Robart ordered plaintiffs on April 17 to show cause by April 24 to avoid dismissal of the consolidated second amended complaint. Status of the case is fluid; this claim may shift by week's end.
+ - Real Brokerage (filed motion to compel arbitration)
+ - Frano Team, Florida-based (filed motion to compel arbitration)
+ - Zillow (primary defendant; has denied allegations)
+ - Judge Robart ordered plaintiffs on April 17 to show cause by April 24 to avoid dismissal of the consolidated second amended complaint. Status of the case is fluid; this claim may shift by week's end.
 
 - **Contrast with prior NFs in the series:**
-  - NF-001 through NF-006 covered commission-side settlements (Tuccori, Batton, Sitzer/Burnett). Those are wrapping up.
-  - NF-008 deliberately pivots the lawsuit series to a new dimension -- RESPA / kickbacks -- to signal to readers that "the lawsuits are over" is a misread of where exposure now sits.
+ - NF-001 through NF-006 covered commission-side settlements (Tuccori, Batton, Sitzer/Burnett). Those are wrapping up.
+ - NF-008 deliberately pivots the lawsuit series to a new dimension -- RESPA / kickbacks -- to signal to readers that "the lawsuits are over" is a misread of where exposure now sits.
 
 ## Social Media
 

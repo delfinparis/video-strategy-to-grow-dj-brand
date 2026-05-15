@@ -38,7 +38,7 @@ Your biggest wins are secretly destroying your business 📈📉 This $30M agent
 
 ### LINKEDIN
 
-Michael Thornton generates $30 million annually in real estate volume. According to him, the greatest threat to an agent's business isn't market volatility or increased competition—it's their own emotional inconsistency.
+Michael Thornton generates $30 million annually in real estate volume. According to him, the greatest threat to an agent's business isn't market volatility or increased competition-it's their own emotional inconsistency.
 
 The pattern is predictable: close a significant deal, feel invincible, then ease off prospecting activities for weeks. Conversely, lose a listing or buyer, spiral into self-doubt, and avoid making calls because you're "not in the right headspace." Both responses systematically destroy your pipeline.
 

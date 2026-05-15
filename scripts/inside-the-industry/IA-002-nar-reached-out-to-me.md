@@ -41,17 +41,17 @@ Audience and voice are the same thing now. That's the shift the rest of the indu
 ## Data Source
 
 - **Claim:** "NAR reached out to me directly"
-  - Source: D.J. Paris firsthand email from NAR communications leadership (April 2026). Part of the ongoing NAR influencer partnership documented in project memory (nar_partnership).
-  - Who was measured: D.J. as recipient; NAR Communications department as sender
-  - Status: confirmed
+ - Source: D.J. Paris firsthand email from NAR communications leadership (April 2026). Part of the ongoing NAR influencer partnership documented in project memory (nar_partnership).
+ - Who was measured: D.J. as recipient; NAR Communications department as sender
+ - Status: confirmed
 
 - **Claim:** "Before their last settlement dropped"
-  - Source: The settlement referenced is NAR's Tuccori buyer-side settlement announced 2026-04-10 ($52.25M, RISMedia). D.J.'s outreach was received before the public announcement.
-  - Status: confirmed
+ - Source: The settlement referenced is NAR's Tuccori buyer-side settlement announced 2026-04-10 ($52.25M, RISMedia). D.J.'s outreach was received before the public announcement.
+ - Status: confirmed
 
 - **Claim:** "NAR has a communications department, partnerships with national media, state associations with millions of followers"
-  - Source: Verified. NAR Communications leadership appointed May 2025 (Bennett Richardson SVP, Raffi Williams VP). State/local REALTOR associations collectively represent ~1.5M members.
-  - Status: confirmed (public facts about NAR's existing channels)
+ - Source: Verified. NAR Communications leadership appointed May 2025 (Bennett Richardson SVP, Raffi Williams VP). State/local REALTOR associations collectively represent ~1.5M members.
+ - Status: confirmed (public facts about NAR's existing channels)
 
 - **Supporting context:** D.J. was previously invited to NAR's 2026 influencer event as 1 of ~12 content creators nationally, covered in IA-001. This direct outreach is a continuation of that relationship.
 

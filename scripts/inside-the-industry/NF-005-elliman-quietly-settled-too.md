@@ -40,41 +40,41 @@ Five major settlements in three months. The industry has decided: this chapter i
 ## Data Source
 
 - **Claim:** "Douglas Elliman just settled a lawsuit -- undisclosed terms"
-  - Source: RISMedia, "Douglas Elliman Settles Homebuyer Antitrust Claims in Tuccori," 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/douglas-elliman-homebuyer-case-tuccori/)); cross-referenced with realestatenews.com, "NAR, Elliman Opt Into Tuccori Homebuyer Settlement," 2026-04-10 ([link](https://www.realestatenews.com/2026/04/10/nar-elliman-opt-into-tuccori-homebuyer-settlement))
-  - Who was measured: Douglas Elliman (defendant); Tuccori buyer plaintiffs
-  - Key quote from source: "No details regarding the Douglas Elliman settlement amount have been made public."
-  - Status: confirmed
+ - Source: RISMedia, "Douglas Elliman Settles Homebuyer Antitrust Claims in Tuccori," 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/douglas-elliman-homebuyer-case-tuccori/)); cross-referenced with realestatenews.com, "NAR, Elliman Opt Into Tuccori Homebuyer Settlement," 2026-04-10 ([link](https://www.realestatenews.com/2026/04/10/nar-elliman-opt-into-tuccori-homebuyer-settlement))
+ - Who was measured: Douglas Elliman (defendant); Tuccori buyer plaintiffs
+ - Key quote from source: "No details regarding the Douglas Elliman settlement amount have been made public."
+ - Status: confirmed
 
 - **Claim:** "Within hours of NAR's announcement"
-  - Source: realestatenews.com 2026-04-10 (same link)
-  - Detail: NAR announced April 10; Elliman court filing was on Thursday of the same week. Script uses "within hours" conservatively since exact timing is not publicly stated.
-  - Status: confirmed (adjacent same-week filings)
+ - Source: realestatenews.com 2026-04-10 (same link)
+ - Detail: NAR announced April 10; Elliman court filing was on Thursday of the same week. Script uses "within hours" conservatively since exact timing is not publicly stated.
+ - Status: confirmed (adjacent same-week filings)
 
 - **Claim:** "Resolving buyer-side claims that weren't covered by their previous seller-side settlement"
-  - Source: RISMedia 2026-04-10 (quoted language: "allows Douglas Elliman to resolve residential homebuyer claims that were not covered by a previous settlement")
-  - Status: confirmed
+ - Source: RISMedia 2026-04-10 (quoted language: "allows Douglas Elliman to resolve residential homebuyer claims that were not covered by a previous settlement")
+ - Status: confirmed
 
 - **Claim:** "Keller Williams settled Batton for $20 million in February"
-  - Source: RISMedia, "Keller Williams Reaches $20M Settlement in Batton," 2026-02-02
-  - Status: confirmed
+ - Source: RISMedia, "Keller Williams Reaches $20M Settlement in Batton," 2026-02-02
+ - Status: confirmed
 
 - **Claim:** "RE/MAX for $8.5 million in March"
-  - Source: realestatenews.com, "RE/MAX Settles in Batton Commissions Case," 2026-03-25
-  - Structure: $1.5M upon preliminary approval, remainder on final
-  - Status: confirmed
+ - Source: realestatenews.com, "RE/MAX Settles in Batton Commissions Case," 2026-03-25
+ - Structure: $1.5M upon preliminary approval, remainder on final
+ - Status: confirmed
 
 - **Claim:** "Hanna Holdings opted into Tuccori for $8.25 million"
-  - Source: HousingWire, "Howard Hanna settles Tuccori homebuyer commission case" ([link](https://www.housingwire.com/articles/hanna-holdings-tuccori-settlement/))
-  - Who was measured: Hanna Holdings (defendant) opting into Tuccori settlement (NOT Batton directly). Hanna faces a separate Davis case in Pennsylvania.
-  - Status: confirmed. Script now explicitly names Tuccori for this line so it doesn't conflate with Batton.
+ - Source: HousingWire, "Howard Hanna settles Tuccori homebuyer commission case" ([link](https://www.housingwire.com/articles/hanna-holdings-tuccori-settlement/))
+ - Who was measured: Hanna Holdings (defendant) opting into Tuccori settlement (NOT Batton directly). Hanna faces a separate Davis case in Pennsylvania.
+ - Status: confirmed. Script now explicitly names Tuccori for this line so it doesn't conflate with Batton.
 
 - **Claim:** "Tuccori opt-in deadline: April 13, 2026"
-  - Source: realestatenews.com 2026-04-10
-  - Status: confirmed
+ - Source: realestatenews.com 2026-04-10
+ - Status: confirmed
 
 - **Claim:** "NAR $52.25 million" (in captions)
-  - Source: RISMedia 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/nar-settles-buyer-lawsuits-52-million/))
-  - Status: confirmed
+ - Source: RISMedia 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/nar-settles-buyer-lawsuits-52-million/))
+ - Status: confirmed
 
 ## Social Media
 

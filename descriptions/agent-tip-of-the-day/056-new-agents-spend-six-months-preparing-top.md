@@ -26,7 +26,7 @@ Stop studying. Start doing. New agents spend 6 months preparing while top produc
 
 You're waiting for perfect confidence, perfect scripts, perfect market conditions. Meanwhile, someone licensed last week just closed their first deal.
 
-REALTOR of the Year Connie Mahan's game-changing advice: "Get in and do. The rest will figure itself out." Not study more. Not wait. DO.
+REALTOR of the Year Connie Mahan's advice: "Get in and do. The rest will figure itself out." Not study more. Not wait. DO.
 
 Your first 10 conversations will be terrible - and that's exactly the point. You're not unprepared, you're untested. There's a difference.
 
@@ -52,7 +52,7 @@ Not "study more courses." Not "wait until you feel ready." Just DO.
 
 Connie learned objection handling through door-knocking, buyer psychology through open houses, and confidence through expired listings. The market became her classroom, and action became her curriculum.
 
-The reality? Your first ten client conversations will likely be terrible. But here's the reframe: you're not unprepared—you're untested. There's a crucial difference between knowledge and experience.
+The reality? Your first ten client conversations will likely be terrible. But here's the reframe: you're not unprepared-you're untested. There's a crucial difference between knowledge and experience.
 
 What's one action you could take today that would teach you more than any course or webinar?
 

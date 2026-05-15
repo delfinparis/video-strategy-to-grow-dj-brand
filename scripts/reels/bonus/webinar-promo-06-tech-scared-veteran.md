@@ -45,7 +45,7 @@ Code REAL. keepingitrealwebinar.com. First 200 free. Link in bio.
 ## Social Copy
 
 ### Instagram
-**Caption:** "I'm not a tech person." I hear this every week from agents with 15+ years in the business. Agents who built empires on relationships. Here's the thing -- if you can send a text, you can do everything I'm teaching on April 7th. And what if AI could help you maintain 500 relationships without dropping one? I built part of this event for you. 5 strategies. No jargon. First 200 free -- code REAL at keepingitrealwebinar.com. Link in bio.
+**Caption:** "I'm not a tech person." I hear this every week from agents with 15+ years in the business. Agents who built empires on relationships. -- if you can send a text, you can do everything I'm teaching on April 7th. And what if AI could help you maintain 500 relationships without dropping one? I built part of this event for you. 5 strategies. No jargon. First 200 free -- code REAL at keepingitrealwebinar.com. Link in bio.
 **Hashtags:** #RealEstateAI #AIForRealtors #RealEstateVeteran #RealEstateAgent #RealtorLife #RelationshipMarketing #DatabaseMarketing #AIProductivity #RealEstateTraining #NeverStopLearning
 
 ### TikTok

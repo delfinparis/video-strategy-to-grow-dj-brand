@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Most new real estate agents think they need more training. Connie Mahan—REALTOR of the Year and broker owner—closed her first deal before finishing her first training module. Her secret? She moved while everyone else was studying.
+Most new real estate agents think they need more training. Connie Mahan-REALTOR of the Year and broker owner-closed her first deal before finishing her first training module. Her secret? She moved while everyone else was studying.
 
 "Get in and do, and the rest will figure itself out," she says. She called expired listings with sweaty palms, door-knocked neighborhoods where she mispronounced street names, and hosted open houses where only two people showed up. Every messy moment taught her more than any course ever could.
 
@@ -24,7 +24,7 @@ You're not stuck because you don't know enough. You're stuck because you won't m
 
 Connie Mahan closed her first deal BEFORE finishing her training. She called expired listings with sweaty palms and hosted open houses where only 2 people showed up. Every messy moment taught her more than courses ever could.
 
-The truth? Confidence doesn't create action—action creates confidence. Tomorrow at 9am, call 3 expired listings. Script: "Hi, I saw your home didn't sell. I'd love 5 minutes to tell you what I'd do differently."
+The truth? Confidence doesn't create action-action creates confidence. Tomorrow at 9am, call 3 expired listings. Script: "Hi, I saw your home didn't sell. I'd love 5 minutes to tell you what I'd do differently."
 
 What's one scary action you're going to take this week? Drop it below 👇
 
@@ -46,7 +46,7 @@ Connie Mahan, REALTOR of the Year and broker owner in Central Florida, closed he
 
 "Get in and do, and the rest will figure itself out," she told me. While other agents were perfecting scripts and taking additional certifications, she was calling expired listings with sweaty palms, door-knocking neighborhoods where she mispronounced street names, and hosting sparsely attended open houses.
 
-Every uncomfortable conversation taught her more about the business than any classroom could. The harsh reality? You don't learn real estate in theory—you learn it through taking action, making mistakes, and adjusting course.
+Every uncomfortable conversation taught her more about the business than any classroom could. The harsh reality? You don't learn real estate in theory-you learn it through taking action, making mistakes, and adjusting course.
 
 If you're waiting to feel confident before prospecting, you have it backwards. Confidence is the result of action, not the prerequisite for it. The agent who makes fifty imperfect calls will always outperform the one still rehearsing the perfect pitch.
 

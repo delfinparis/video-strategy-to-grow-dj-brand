@@ -10,7 +10,7 @@ Eithan Davidov closes over 100 deals a year in Queens, and he's cracked the code
 
 While everyone else is asking ChatGPT to write their emails and posts (and wondering why everything sounds robotic), Eithan uses AI as a thought-cleaner, not a thought-creator. His rule: "I use AI to clean up my thoughts instead of generate them."
 
-Here's how it works: Record a messy voice memo after a listing appointment. Dump those incomplete thoughts into AI. Ask it to organize, not create. What comes back is YOUR voice and YOUR insights — just structured and clear. Same process for follow-up sequences. You write the raw version, the stuff you'd actually say. AI tightens it up and fills the gaps.
+Here's how it works: Record a messy voice memo after a listing appointment. Dump those incomplete thoughts into AI. Ask it to organize, not create. What comes back is YOUR voice and YOUR insights - just structured and clear. Same process for follow-up sequences. You write the raw version, the stuff you'd actually say. AI tightens it up and fills the gaps.
 
 The bottleneck was never ideas. You have plenty of those. The bottleneck is turning the chaos in your head into something you can actually send.
 
@@ -42,9 +42,9 @@ POV: You've been using AI completely backwards this whole time 🤯 Stop asking 
 
 Most real estate professionals are approaching AI from the wrong angle entirely.
 
-Eithan Davidov, who closes over 100 transactions annually in Queens, shared a perspective that completely reframes how agents should leverage artificial intelligence: "I use AI to clean up my thoughts instead of generate them."
+Eithan Davidov, who closes over 100 transactions annually in Queens, shared a perspective that completely reframes how agents should use artificial intelligence: "I use AI to clean up my thoughts instead of generate them."
 
-While the majority of agents are asking ChatGPT to write their emails, social posts, and scripts (resulting in generic, robotic content), successful agents like Eithan use AI as an organizational tool. The process is simple but powerful: record a voice memo after a client interaction, transcribe those raw thoughts, then ask AI to structure and organize—not create—the content.
+While the majority of agents are asking ChatGPT to write their emails, social posts, and scripts (resulting in generic, robotic content), successful agents like Eithan use AI as an organizational tool. The process is simple but powerful: record a voice memo after a client interaction, transcribe those raw thoughts, then ask AI to structure and organize-not create-the content.
 
 The result? Your authentic voice and insights remain intact, but they're presented clearly and professionally. You maintain the human connection while eliminating the bottleneck of turning scattered thoughts into coherent communication.
 

@@ -38,13 +38,13 @@ $2B in sales, started at Home Depot. Chase's 3-step formula while everyone else 
 
 ### LINKEDIN
 
-Chase Craig went from $12/hour at Home Depot to $2 billion in real estate sales. His secret wasn't market timing or fancy tech—it was radical focus.
+Chase Craig went from $12/hour at Home Depot to $2 billion in real estate sales. His secret wasn't market timing or fancy tech-it was radical focus.
 
 While most agents get paralyzed by interest rate fluctuations, inventory shortages, and competitor activity, Chase identified three controllable variables: database management (birthday texts to every past client), response velocity (sub-5-minute lead callbacks), and consistent daily prospecting (5 calls before checking email).
 
 The insight that changed everything: "There's so many things we deal with as real estate professionals, and it's easy to get caught up in the muck." He systematically ignores market noise that doesn't directly impact his three core activities.
 
-This isn't about working harder—it's about channeling energy into variables you actually control. Most agents waste cognitive bandwidth on external factors while neglecting the fundamentals that drive revenue.
+This isn't about working harder-it's about channeling energy into variables you actually control. Most agents waste cognitive bandwidth on external factors while neglecting the fundamentals that drive revenue.
 
 In your business, what would happen if you identified your own "big three" controllables and ignored everything else?
 

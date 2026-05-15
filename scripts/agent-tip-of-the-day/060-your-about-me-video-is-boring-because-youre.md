@@ -40,7 +40,7 @@ Here's what she told me: 'Accomplishments can also be past clients that you help
 *Production: Split screen: left side shows traditional 'accomplishments' (plaques, certificates). Right side shows real client stories -- keys being handed over, moving boxes, family photos in new homes.*
 
 ### REFRAME (0:38-0:50)
-Because here's the thing -- nobody hires you because you won an award. They hire you because they think you can solve their problem. And the fastest way to prove that? Show them you already did it for someone exactly like them.
+Because nobody hires you because you won an award. They hire you because they think you can solve their problem. And the fastest way to prove that? Show them you already did it for someone exactly like them.
 
 *Production: Close-up of Kim speaking directly to camera, or overlay text emphasizing 'someone exactly like them'*
 

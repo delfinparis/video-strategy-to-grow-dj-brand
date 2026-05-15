@@ -6,9 +6,9 @@
 
 ### FACEBOOK
 
-Most real estate agents aren't running businesses — they're running on a hamster wheel with commission checks. They wake up, check phones, show houses, write contracts, collapse, repeat. Sound familiar?
+Most real estate agents aren't running businesses - they're running on a hamster wheel with commission checks. They wake up, check phones, show houses, write contracts, collapse, repeat. Sound familiar?
 
-Garrett Maroon, a top 1% agent in Southeast Virginia who runs entirely on referrals, asked himself one game-changing question: "Are we going to live on purpose or on accident?" He redesigned his entire business by mapping his ideal LIFE week first — family dinners, gym time, date nights — then building his client systems around that.
+Garrett Maroon, a top 1% agent in Southeast Virginia who runs entirely on referrals, asked himself one question: "Are we going to live on purpose or on accident?" He redesigned his entire business by mapping his ideal LIFE week first - family dinners, gym time, date nights - then building his client systems around that.
 
 The shocking result? Fewer transactions, higher income, and an actual life outside real estate. The agents who work the most aren't the ones earning the most. The ones who design their business around their life are the ones who stay in the game for decades without burning out.
 
@@ -20,7 +20,7 @@ What's one non-negotiable you'd protect in your ideal week?
 
 You're not running a business. You're being run by one. 🎯
 
-Most agents live on that commission treadmill — wake up, check phone, show houses, collapse, repeat. But top 1% agent Garrett Maroon flipped the script entirely.
+Most agents live on that commission treadmill - wake up, check phone, show houses, collapse, repeat. But top 1% agent Garrett Maroon flipped the script entirely.
 
 He mapped his ideal LIFE week FIRST (family dinners, gym, date nights), then built his business around that. Result? Fewer transactions, higher income, actual boundaries. You're not lazy for wanting a life. You're strategic.
 
@@ -38,11 +38,11 @@ POV: You're living on a commission treadmill instead of running an actual busine
 
 ### LINKEDIN
 
-The harsh truth: Most real estate agents aren't entrepreneurs — they're highly paid employees of their own chaos.
+The harsh truth: Most real estate agents aren't entrepreneurs - they're highly paid employees of their own chaos.
 
 They let the market set their schedule, clients dictate their boundaries, and "busy" becomes their entire identity. It's a treadmill with a commission check, not a sustainable business model.
 
-Garrett Maroon, a top 1% producer in Southeast Virginia who operates entirely through referrals, transformed his approach with one pivotal question: "Are we going to live on purpose or on accident?" His solution was counterintuitive — he designed his ideal life week first, then built his business systems around those non-negotiables.
+Garrett Maroon, a top 1% producer in Southeast Virginia who operates entirely through referrals, transformed his approach with one key question: "Are we going to live on purpose or on accident?" His solution was counterintuitive - he designed his ideal life week first, then built his business systems around those non-negotiables.
 
 The result defied conventional wisdom: fewer transactions, higher income, and genuine work-life integration. The data consistently shows that agents who work the most hours aren't the highest earners. Those who architect their business around intentional design are the ones who build generational wealth while maintaining their sanity.
 

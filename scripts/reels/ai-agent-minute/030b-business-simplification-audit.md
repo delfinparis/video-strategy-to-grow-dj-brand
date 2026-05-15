@@ -17,7 +17,7 @@ Do a full business simplification audit with Claude. List every lead source, mar
 
 *[AI Agent Minute bumper]*
 
-Then ask: "Which of these are most likely driving eighty percent of my production? Which can I eliminate without materially affecting my results? What does my simplified, high-leverage business look like if I cut everything else?"
+Then ask: "Which of these are most likely driving eighty percent of my production? Which can I eliminate without materially affecting my results? What does my simplified, high-use business look like if I cut everything else?"
 
 Then do the hard thing -- actually cut what it tells you to cut. Agents who do this report getting more done in thirty hours than they used to in fifty.
 ---
@@ -25,22 +25,22 @@ Then do the hard thing -- actually cut what it tells you to cut. Agents who do t
 ## Social Copy
 
 ### Instagram
-**Caption:** Simplicity isn't giving up. It's identifying your highest leverage and going all in. Let Claude run the audit.
+**Caption:** Simplicity isn't giving up. It's identifying your highest use and going all in. Let Claude run the audit.
 **Hashtags:** #RealEstateAI #Claude #BusinessAudit #AIAgentMinute #8020Rule #AIPrompt #AIforRealtors #ClaudeAI #TechInRealEstate #AIAgent
 
 ### TikTok
-**Caption:** Simplicity isn't giving up. It's identifying your highest leverage and going all in.
+**Caption:** Simplicity isn't giving up. It's identifying your highest use and going all in.
 **Hashtags:** #RealEstateAI #Claude #BusinessAudit #AIAgentMinute
 
 ### YouTube Shorts
 **Title:** The AI Business Simplification Audit
-**Description:** Simplicity isn't giving up. It's identifying your highest leverage and going all in. Let Claude run the audit.
+**Description:** Simplicity isn't giving up. It's identifying your highest use and going all in. Let Claude run the audit.
 **Hashtags:** #RealEstateAI #Claude #BusinessAudit #AIAgentMinute #8020Rule
 
 ### Facebook
-**Caption:** Simplicity isn't giving up. It's identifying your highest leverage and going all in. Let Claude run the audit.
+**Caption:** Simplicity isn't giving up. It's identifying your highest use and going all in. Let Claude run the audit.
 **Hashtags:** #RealEstateAI #Claude #BusinessAudit #AIAgentMinute #8020Rule #AIPrompt
 
 ### LinkedIn
-**Caption:** Simplicity isn't giving up. It's identifying your highest leverage and going all in. Let Claude run the audit.
+**Caption:** Simplicity isn't giving up. It's identifying your highest use and going all in. Let Claude run the audit.
 **Hashtags:** #RealEstateAI #Claude #BusinessAudit #RealEstate #ProfessionalDevelopment

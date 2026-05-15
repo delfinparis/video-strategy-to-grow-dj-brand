@@ -1,6 +1,6 @@
 # Recruiting Funnel Dashboard (Spec)
 
-> **Purpose:** measure whether the content → Kale recruiting funnel is producing inquiries. This complements the content-performance system in [`../../data/README.md`](../../data/README.md) — that system answers "which scripts work on which platforms," this one answers "is the recruiting funnel working at all." Different question, different metrics, different cadence.
+> **Purpose:** measure whether the content → Kale recruiting funnel is producing inquiries. This complements the content-performance system in [`../../data/README.md`](../../data/README.md) - that system answers "which scripts work on which platforms," this one answers "is the recruiting funnel working at all." Different question, different metrics, different cadence.
 >
 > Written 2026-04-19 in support of the [2026-04-18 pillar pivot](../strategy/2026-04-18-pillar-pivot-decision.md). Leading indicator (tapthis.co weekly clicks) drives the 90-day test decision on 2026-07-19.
 
@@ -10,36 +10,36 @@
 
 ```
 Content posted 6x/week (1 Mon KIR + 4 IIR + 1 Fri AI Tip)
-            │
-            ▼  (weekly post views across 6 surfaces — measured in data/metrics/)
-       ┌────┴────┐
-       │         │
-   Hard CTA   Soft mention   (Fri AI Tip = hard CTA; IIR NF = optional soft mention)
-       │         │
-       └────┬────┘
-            ▼  (tapthis.co click — UTM-tagged by script_id + surface)
-     tapthis.co page view
-            │
-            ▼  (5 pixels fire: Meta, Google, LinkedIn, Reddit, TikTok)
-     Retargeting audience (custom audience on each of 5 platforms)
-            │
-            ▼  (30-90 day retargeting ads → joinkale.com)
-     joinkale.com visit
-            │
-            ▼
-     Webinar signup
-            │
-            ▼
-     Webinar attendance
-            │
-            ▼
-     Book-a-call request
-            │
-            ▼
-     Close CRM conversation (Jennica → Ana → D.J.)
-            │
-            ▼
-     Signed Kale agent  ← North Star
+ │
+ ▼ (weekly post views across 6 surfaces - measured in data/metrics/)
+ ┌────┴────┐
+ │ │
+ Hard CTA Soft mention (Fri AI Tip = hard CTA; IIR NF = optional soft mention)
+ │ │
+ └────┬────┘
+ ▼ (tapthis.co click - UTM-tagged by script_id + surface)
+ tapthis.co page view
+ │
+ ▼ (5 pixels fire: Meta, Google, LinkedIn, Reddit, TikTok)
+ Retargeting audience (custom audience on each of 5 platforms)
+ │
+ ▼ (30-90 day retargeting ads → joinkale.com)
+ joinkale.com visit
+ │
+ ▼
+ Webinar signup
+ │
+ ▼
+ Webinar attendance
+ │
+ ▼
+ Book-a-call request
+ │
+ ▼
+ Close CRM conversation (Jennica → Ana → D.J.)
+ │
+ ▼
+ Signed Kale agent ← North Star
 ```
 
 ---
@@ -53,11 +53,11 @@ Nine stages. Leading indicators (top of funnel) update weekly; lagging indicator
 | 1 | Content posted | count of posts published | [`../../data/publishing-log.csv`](../../data/publishing-log.csv) | daily log | 6 | activity |
 | 2 | Post reach | sum of views across 6 surfaces | [`../../data/metrics/`](../../data/metrics/) | Sunday | 8,000 (baseline from cross-surface synthesis) | leading |
 | 3 | tapthis.co clicks | unique clicks by UTM campaign (script_id) | tapthis.co GA4 | Sunday | **30 (primary leading indicator)** | **leading** |
-| 4a | Pixel audiences — Meta | custom audience size (30-day trailing) | Meta Ads Manager | Sunday | +50 / week | leading |
-| 4b | Pixel audiences — Google | custom audience size | Google Ads | Sunday | +50 / week | leading |
-| 4c | Pixel audiences — LinkedIn | custom audience size | LinkedIn Campaign Mgr | Sunday | +30 / week | leading |
-| 4d | Pixel audiences — Reddit | custom audience size | Reddit Ads | Sunday | +10 / week | leading |
-| 4e | Pixel audiences — TikTok | custom audience size | TikTok Ads Mgr | Sunday | +10 / week | leading |
+| 4a | Pixel audiences - Meta | custom audience size (30-day trailing) | Meta Ads Manager | Sunday | +50 / week | leading |
+| 4b | Pixel audiences - Google | custom audience size | Google Ads | Sunday | +50 / week | leading |
+| 4c | Pixel audiences - LinkedIn | custom audience size | LinkedIn Campaign Mgr | Sunday | +30 / week | leading |
+| 4d | Pixel audiences - Reddit | custom audience size | Reddit Ads | Sunday | +10 / week | leading |
+| 4e | Pixel audiences - TikTok | custom audience size | TikTok Ads Mgr | Sunday | +10 / week | leading |
 | 5 | Retargeting ad → joinkale.com | click-through from retargeting ads | ad platforms | monthly | 20 / month | mid |
 | 6 | joinkale.com visits | total + from-retargeting referrer | joinkale.com GA4 | Sunday | 40 / week | mid |
 | 7 | Webinar signups | Zoom registration count | Zoom webinar admin (export CSV weekly) | Sunday | 2 / week (8 / month) | mid |
@@ -75,20 +75,20 @@ Nine stages. Leading indicators (top of funnel) update weekly; lagging indicator
 **What we do measure:**
 
 1. **UTM on every tapthis.co link.** Every Friday AI Tip post uses:
-   ```
-   https://tapthis.co?utm_source=<surface>&utm_medium=social&utm_campaign=<script_id>
-   ```
-   Where `<surface>` is `li-personal | fb-personal | ig-personal | fb-biz | tt-biz | yt-biz` and `<script_id>` matches the filename (e.g. `AIT-001` or the AIAM script being promoted that week). Same pattern for any IIR post using a soft tapthis.co mention.
+ ```
+ https://tapthis.co?utm_source=<surface>&utm_medium=social&utm_campaign=<script_id>
+ ```
+ Where `<surface>` is `li-personal | fb-personal | ig-personal | fb-biz | tt-biz | yt-biz` and `<script_id>` matches the filename (e.g. `AIT-001` or the AIAM script being promoted that week). Same pattern for any IIR post using a soft tapthis.co mention.
 
 2. **Close CRM `content_attribution` custom field.** When a lead enters the pipeline, Jennica/Ana tag the source:
-   - `tapthis-co-retargeting` — came in via a retargeting ad after pixel fire
-   - `direct-social` — clicked through from an organic post (no retargeting)
-   - `podcast` — KIR listener inquiry
-   - `nar-referral` — from NAR or industry contact
-   - `direct-referral` — agent-to-agent word of mouth
-   - `unknown` — couldn't determine
+ - `tapthis-co-retargeting` - came in via a retargeting ad after pixel fire
+ - `direct-social` - clicked through from an organic post (no retargeting)
+ - `podcast` - KIR listener inquiry
+ - `nar-referral` - from NAR or industry contact
+ - `direct-referral` - agent-to-agent word of mouth
+ - `unknown` - couldn't determine
 
-   This lets us backfill stage 9 (signed agents) to an attribution bucket for the 90-day review.
+ This lets us backfill stage 9 (signed agents) to an attribution bucket for the 90-day review.
 
 3. **Weekly correlation, not deterministic attribution.** We correlate weekly tapthis.co clicks to weekly joinkale.com visits, and monthly joinkale.com visits to monthly book-a-calls. If the trendlines move together with the expected 30–90 day lag, the funnel is working.
 
@@ -98,16 +98,16 @@ Nine stages. Leading indicators (top of funnel) update weekly; lagging indicator
 
 Extends the existing Sunday metrics ritual in [`../../data/README.md`](../../data/README.md). Add ~10 minutes after the per-surface content metrics are logged.
 
-1. **tapthis.co GA4** — pull weekly unique clicks broken down by `utm_campaign`. Log total clicks + top 3 campaigns by click volume.
-2. **Each of 5 pixel platforms** — record current custom audience size (30-day trailing). Week-over-week delta is the new-adds number.
-3. **joinkale.com GA4** — weekly visits, with the "retargeting referrer" segment broken out.
-4. **Close CRM** — query `find_opportunities` or lead search for this week's new leads with `content_attribution` set; count by bucket.
-5. **Log to** [`../../data/funnel-metrics/YYYY-WW.csv`](../../data/funnel-metrics/) — one row per ISO week:
+1. **tapthis.co GA4** - pull weekly unique clicks broken down by `utm_campaign`. Log total clicks + top 3 campaigns by click volume.
+2. **Each of 5 pixel platforms** - record current custom audience size (30-day trailing). Week-over-week delta is the new-adds number.
+3. **joinkale.com GA4** - weekly visits, with the "retargeting referrer" segment broken out.
+4. **Close CRM** - query `find_opportunities` or lead search for this week's new leads with `content_attribution` set; count by bucket.
+5. **Log to** [`../../data/funnel-metrics/YYYY-WW.csv`](../../data/funnel-metrics/) - one row per ISO week:
 
-   ```csv
-   week_start,posts_published,tapthis_clicks,pixel_meta,pixel_google,pixel_linkedin,pixel_reddit,pixel_tiktok,joinkale_visits,joinkale_from_retargeting,webinar_signups,book_a_calls,kale_signed,top_utm_campaigns,notes
-   2026-04-20,6,28,1204,980,450,85,65,42,11,2,1,0,"AIT-001 (18); soft-NF-006 (7); other (3)","pivot week 1"
-   ```
+ ```csv
+ week_start,posts_published,tapthis_clicks,pixel_meta,pixel_google,pixel_linkedin,pixel_reddit,pixel_tiktok,joinkale_visits,joinkale_from_retargeting,webinar_signups,book_a_calls,kale_signed,top_utm_campaigns,notes
+ 2026-04-20,6,28,1204,980,450,85,65,42,11,2,1,0,"AIT-001 (18); soft-NF-006 (7); other (3)","pivot week 1"
+ ```
 
 6. **Update** `docs/analytics/YYYY-Qn-funnel-snapshot.md` at the end of each quarter (Jun 30, Sep 30, Dec 31) with the quarter's weekly-CSV data rolled up into a single report.
 
@@ -150,7 +150,7 @@ Prerequisites for the dashboard to actually produce numbers. Work through before
 
 ---
 
-## Open Questions — Resolved 2026-04-19
+## Open Questions - Resolved 2026-04-19
 
 1. ~~Does tapthis.co have GA4?~~ **Yes.** Stage 3 measurement unblocked.
 2. ~~Which tool hosts the webinar?~~ **Zoom.** Stage 7 source = Zoom admin CSV export, pulled Sunday.
@@ -161,10 +161,10 @@ Prerequisites for the dashboard to actually produce numbers. Work through before
 
 ## Related Documents
 
-- [`../strategy/2026-04-18-pillar-pivot-decision.md`](../strategy/2026-04-18-pillar-pivot-decision.md) — the decision this dashboard supports
-- [`2026-04-18-cross-surface-synthesis.md`](2026-04-18-cross-surface-synthesis.md) — the content-performance data that drove the pivot
-- [`../content-recruiting-integration.md`](../content-recruiting-integration.md) — strategic framing for how content feeds recruiting
-- [`../../data/README.md`](../../data/README.md) — the content-performance data layer this spec complements
+- [`../strategy/2026-04-18-pillar-pivot-decision.md`](../strategy/2026-04-18-pillar-pivot-decision.md) - the decision this dashboard supports
+- [`2026-04-18-cross-surface-synthesis.md`](2026-04-18-cross-surface-synthesis.md) - the content-performance data that drove the pivot
+- [`../content-recruiting-integration.md`](../content-recruiting-integration.md) - strategic framing for how content feeds recruiting
+- [`../../data/README.md`](../../data/README.md) - the content-performance data layer this spec complements
 
 ---
 

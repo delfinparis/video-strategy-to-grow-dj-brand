@@ -10,7 +10,7 @@
 
 It's not the dramatic meltdowns. It's the constant simmering pressure of performing perfection while the bar keeps moving higher. Social media didn't create this pressure, but it made it visible 24/7. Now your clients see other agents who look like they never sleep, never struggle, never have a bad listing photo.
 
-So you perform harder. Post more. Smile wider. The rage isn't anger at clients—it's anger at the impossible standard you're racing toward.
+So you perform harder. Post more. Smile wider. The rage isn't anger at clients-it's anger at the impossible standard you're racing toward.
 
 What if that rage is just your body telling you that performing perfection isn't sustainable?
 
@@ -22,7 +22,7 @@ What's one "imperfect" thing about your business that you've been hiding? Time t
 
 The performance is exhausting and nobody's talking about it 😤
 
-"The rage is what keeps you going. And it's killing you." Author Marisa Kashino said this about her character, but DJ realized—she's describing US.
+"The rage is what keeps you going. And it's killing you." Author Marisa Kashino said this about her character, but DJ realized-she's describing US.
 
 That constant simmering pressure to look perfect while the bar keeps moving. Social media made it 24/7. Now clients see agents who never seem to struggle, so you perform harder. Post more. Smile wider.
 
@@ -44,11 +44,11 @@ The performance is exhausting and nobody's talking about it 😮‍💨 That "ra
 
 "The rage is what keeps you going. And it's killing you."
 
-Best-selling author Marisa Kashino said this about her fictional character who cracks under pressure. But when DJ Paris heard it on our podcast, he realized something profound—she was describing the modern real estate professional.
+Best-selling author Marisa Kashino said this about her fictional character who cracks under pressure. But when DJ Paris heard it on our podcast, he realized something profound-she was describing the modern real estate professional.
 
 It's not about dramatic meltdowns. It's about the constant simmering pressure to perform perfection while the standard keeps rising. Social media didn't create this pressure, but it made it visible 24/7. Your clients now see competitors who appear to never sleep, never struggle, never post an imperfect listing photo.
 
-The response? Perform harder. Post more content. Smile wider in videos. But that rage isn't anger at clients or competitors—it's frustration with an impossible standard we're all racing toward.
+The response? Perform harder. Post more content. Smile wider in videos. But that rage isn't anger at clients or competitors-it's frustration with an impossible standard we're all racing toward.
 
 What if that internal pressure isn't the enemy, but rather your instinct telling you that performing perfection simply isn't sustainable? You've already built a successful career. The constant proving might be the very thing holding you back.
 

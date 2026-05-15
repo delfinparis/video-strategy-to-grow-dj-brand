@@ -35,7 +35,7 @@ Garrett Maroon built a top 1% referral-based business in Southeast Virginia. His
 *Production: B-roll: Garrett with clients, sold signs, testimonials. Text overlay: 'Top 1% | 2018: Picked ONE Source | Southeast VA'*
 
 ### INSIGHT (0:12-0:38)
-Here's what he told me: 'Pick a path and stay there long enough until it works.' In month six, he had three referrals. Most agents would've panicked and bought Zillow leads. He didn't. Month twelve: eight referrals. Month eighteen: seventeen. By month twenty-four, he stopped prospecting entirely. His database became a machine. But here's the thing -- nothing magical happened at month six. Or twelve. The compound effect only kicks in when you stop restarting.
+Here's what he told me: 'Pick a path and stay there long enough until it works.' In month six, he had three referrals. Most agents would've panicked and bought Zillow leads. He didn't. Month twelve: eight referrals. Month eighteen: seventeen. By month twenty-four, he stopped prospecting entirely. His database became a machine. But nothing magical happened at month six. Or twelve. The compound effect only kicks in when you stop restarting.
 
 *Production: Split screen: Left side shows Garrett speaking. Right side shows animated timeline with EXACT numbers -- 'Month 6: 3 referrals,' 'Month 12: 8 referrals,' 'Month 18: 17 referrals,' 'Month 24: Stopped prospecting.' Use kinetic text for the quote and numbers.*
 

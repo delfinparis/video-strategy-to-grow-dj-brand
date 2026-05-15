@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-Agents closing $2B+ in luxury deals have one habit most agents skip entirely. After every single conversation — showings, negotiations, client calls — they send one simple email.
+Agents closing $2B+ in luxury deals have one habit most agents skip entirely. After every single conversation - showings, negotiations, client calls - they send one simple email.
 
 Not a novel. Just three bullets: what we discussed, what we agreed on, next step. Takes 30 seconds to write. But here's why it's genius: it eliminates those "I thought you said" arguments that kill deals. It keeps YOU controlling the narrative instead of your client rewriting history.
 
-Jill Preschel learned this sitting across from private equity partners who'd conveniently "forget" what they agreed to in meetings. The email isn't rude — it's a receipt.
+Jill Preschel learned this sitting across from private equity partners who'd conveniently "forget" what they agreed to in meetings. The email isn't rude - it's a receipt.
 
 Most agents think the hard part is having the conversation. Wrong. The hard part is making sure it sticks.
 
@@ -22,7 +22,7 @@ What's your go-to move for keeping clients accountable to what they actually sai
 
 The one email luxury agents send after every conversation that separates $2B producers from everyone else 📧
 
-After every client call, showing, or negotiation — top producers send ONE email. Three bullets: what we discussed, what we agreed, next step. That's it.
+After every client call, showing, or negotiation - top producers send ONE email. Three bullets: what we discussed, what we agreed, next step. That's it.
 
 It's not rude. It's a receipt. And it eliminates the "I thought you said" drama that kills deals while making you look like the only pro in a sea of amateurs.
 
@@ -42,11 +42,11 @@ The one email that separates $2B luxury agents from everyone else (you probably 
 
 I just learned why agents closing $2B+ in luxury transactions never have "I thought you said" arguments with clients. And it's brilliantly simple.
 
-Jill Preschel, who works with private equity partners and institutional investors in NYC luxury markets, shared her non-negotiable habit: After every single conversation — client calls, showings, negotiations — she sends one follow-up email.
+Jill Preschel, who works with private equity partners and institutional investors in NYC luxury markets, shared her non-negotiable habit: After every single conversation - client calls, showings, negotiations - she sends one follow-up email.
 
 Not a dissertation. Just three bullets: "Here's what we discussed. Here's what we agreed on. Here's the next step." Takes 30 seconds to write.
 
-She learned this the hard way sitting across from capital partners who'd conveniently "forget" meeting agreements. The email isn't confrontational — it's documentation. A professional receipt.
+She learned this the hard way sitting across from capital partners who'd conveniently "forget" meeting agreements. The email isn't confrontational - it's documentation. A professional receipt.
 
 The result? She controls the narrative. Eliminates confusion. And positions herself as the consummate professional while competitors wing it and hope for the best.
 

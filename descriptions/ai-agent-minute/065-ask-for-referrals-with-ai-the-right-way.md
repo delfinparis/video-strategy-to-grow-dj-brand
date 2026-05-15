@@ -42,7 +42,7 @@ Here's a hard truth: Most real estate professionals are sitting on a goldmine of
 
 The typical approach? A generic "know anyone looking to buy or sell?" That lands like a sales pitch, puts clients on the spot, and gets forgotten before they reach their car.
 
-D.J. Paris shares a smarter strategy: leverage AI to create five distinct referral request messages for different touchpoints - post-closing, six-month check-ins, anniversaries, casual texts, and shareable social posts. The key is being specific about who you're trying to help while making it easy for clients to take action.
+D.J. Paris shares a smarter strategy: use AI to create five distinct referral request messages for different touchpoints - post-closing, six-month check-ins, anniversaries, casual texts, and shareable social posts. The key is being specific about who you're trying to help while making it easy for clients to take action.
 
 The insight that hit me: asking for referrals isn't awkward. NOT asking when your clients would be thrilled to help you grow your business - that's the real missed opportunity.
 

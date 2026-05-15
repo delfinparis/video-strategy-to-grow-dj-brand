@@ -42,13 +42,13 @@ POV: You're ignoring the platform that sends the highest-paying referrals 💰 M
 
 Here's an uncomfortable truth: while real estate agents battle for visibility on consumer platforms, they're completely neglecting the one that consistently delivers their highest-value clients.
 
-LinkedIn houses the corporate professionals who get relocated, the executives who inherit wealth, the promoted managers ready to buy up. These aren't bargain hunters—they're serious buyers who research agents professionally before making contact.
+LinkedIn houses the corporate professionals who get relocated, the executives who inherit wealth, the promoted managers ready to buy up. These aren't bargain hunters-they're serious buyers who research agents professionally before making contact.
 
 Yet most agent profiles read like outdated resumes: job title, brokerage, years licensed. No story. No specialization. No compelling reason for a corporate relocation manager or high-net-worth prospect to reach out.
 
 The opportunity cost is enormous. While you're competing with thousands of agents on Instagram, LinkedIn lets you speak directly to professionals who refer other professionals. The platform rewards consistency and expertise over flashy content.
 
-The solution isn't complicated—transform your profile from a resume into a thought-leadership platform. Share market insights weekly. Tell stories. Demonstrate expertise. One strategic LinkedIn connection often outperforms hundreds of social media followers.
+The solution isn't complicated-transform your profile from a resume into a thought-leadership platform. Share market insights weekly. Tell stories. Demonstrate expertise. One strategic LinkedIn connection often outperforms hundreds of social media followers.
 
 When did you last audit your LinkedIn presence as a business development tool?
 

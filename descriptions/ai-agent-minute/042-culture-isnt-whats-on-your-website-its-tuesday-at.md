@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Culture isn't what you say on your website — it's what you do on a Tuesday when nobody's watching. Most real estate teams think they have great culture, but they've never actually defined it. The result? Whoever's having the worst day sets the tone for everyone.
+Culture isn't what you say on your website - it's what you do on a Tuesday when nobody's watching. Most real estate teams think they have great culture, but they've never actually defined it. The result? Whoever's having the worst day sets the tone for everyone.
 
 Here's what most team leaders miss: top agents choose teams based on culture as much as commission splits. They're talking to each other about what it's really like to work with you. Word travels fast in this industry.
 
@@ -22,7 +22,7 @@ Culture isn't what's on your website. It's what happens Tuesday at 3pm when nobo
 
 Most teams think they have great culture, but they've never defined it. The problem? Whoever's having the worst day sets the tone for everyone else.
 
-D.J. Paris shares why top agents choose teams based on culture as much as commission — and the exact AI prompt to create a real culture document in one afternoon.
+D.J. Paris shares why top agents choose teams based on culture as much as commission - and the exact AI prompt to create a real culture document in one afternoon.
 
 Does your team have a written culture doc? Drop it below 👇
 
@@ -32,7 +32,7 @@ Does your team have a written culture doc? Drop it below 👇
 
 ### TIKTOK
 
-Culture isn't what's on your website — it's what happens on Tuesday at 3pm when nobody's watching 👀 Your team culture is either intentional or it's chaos.
+Culture isn't what's on your website - it's what happens on Tuesday at 3pm when nobody's watching 👀 Your team culture is either intentional or it's chaos.
 
 #realtortok #realestatetok #realestate #teamleadership #realtor #realtorlife #realestateculture #businesstips #teambuilding #keepingitrealpodcast
 
@@ -54,4 +54,4 @@ What's your experience? Does your team operate with a defined culture document, 
 
 **Title:** Team Culture Isn't What's On Your Website (It's Tuesday at 3pm)
 
-**Description:** Real estate team culture isn't your mission statement — it's what happens when nobody's watching. D.J. Paris explains why top agents choose teams based on culture and shares the AI prompt to create a real culture document. Subscribe for daily real estate tips. #RealEstate #TeamLeadership #RealEstateTips #RealtorAdvice #TeamCulture
+**Description:** Real estate team culture isn't your mission statement - it's what happens when nobody's watching. D.J. Paris explains why top agents choose teams based on culture and shares the AI prompt to create a real culture document. Subscribe for daily real estate tips. #RealEstate #TeamLeadership #RealEstateTips #RealtorAdvice #TeamCulture

@@ -8,9 +8,9 @@
 
 The average agent sits three open houses a month and converts zero of them into clients. Not because of the house, not because of the market, but because they're treating conversations like transactions.
 
-Here's what D.J. Paris from Keeping It Real Podcast discovered: Open houses give you something most lead sources never will — actual face-to-face conversations. Yet most agents collect a sign-in sheet, send a generic follow-up email, and wonder why the leads go cold.
+Here's what D.J. Paris from Keeping It Real Podcast discovered: Open houses give you something most lead sources never will - actual face-to-face conversations. Yet most agents collect a sign-in sheet, send a generic follow-up email, and wonder why the leads go cold.
 
-The game-changer? Spending 5 minutes after each open house typing visitor notes into Claude AI, then asking it to craft personalized follow-ups that reference the actual conversations you had. Not templates. Messages that make people think "this agent actually remembered me."
+The shift? Spending 5 minutes after each open house typing visitor notes into Claude AI, then asking it to craft personalized follow-ups that reference the actual conversations you had. Not templates. Messages that make people think "this agent actually remembered me."
 
 What's your current open house follow-up strategy? Are you converting visitors into clients?
 
@@ -20,7 +20,7 @@ What's your current open house follow-up strategy? Are you converting visitors i
 
 Most agents sit 3 open houses a month and convert zero visitors into clients. Here's the 5-minute AI fix that changes everything 👇
 
-Open houses give you something rare — real conversations with potential buyers. Most agents waste this by sending generic "thanks for stopping by" emails.
+Open houses give you something rare - real conversations with potential buyers. Most agents waste this by sending generic "thanks for stopping by" emails.
 
 The move: After each open house, spend 5 minutes typing visitor notes into Claude AI. Ask it to write personalized follow-ups that reference your actual conversations, not templates that scream "mass email."
 
@@ -38,13 +38,13 @@ POV: You're sitting open houses every weekend but converting zero visitors into 
 
 ### LINKEDIN
 
-Most real estate professionals are sitting on a goldmine at open houses — and completely missing it.
+Most real estate professionals are sitting on a goldmine at open houses - and completely missing it.
 
 The data is stark: The average agent hosts multiple open houses monthly but converts virtually none of those visitors into clients. Why? They're treating meaningful conversations like transactions.
 
-Here's the insight that's changing everything: Open houses provide something rare in our digital world — genuine face-to-face interactions with potential buyers. Yet most agents collect contact information, send a generic follow-up email, and wonder why leads evaporate.
+Here's the insight that's changing everything: Open houses provide something rare in our digital world - genuine face-to-face interactions with potential buyers. Yet most agents collect contact information, send a generic follow-up email, and wonder why leads evaporate.
 
-The strategic shift involves leveraging AI for personalized follow-up. After each open house, document specific conversation details in Claude AI, then generate tailored messages that reference actual discussions. Not templates — personalized communications that demonstrate genuine attention and care.
+The strategic shift involves using AI for personalized follow-up. After each open house, document specific conversation details in Claude AI, then generate tailored messages that reference actual discussions. Not templates - personalized communications that demonstrate genuine attention and care.
 
 This approach transforms a typical 2% open house conversion rate into something significantly higher by treating prospects like humans, not data points.
 

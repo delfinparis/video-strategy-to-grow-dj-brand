@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-Gen Z buyers are making 50% more income than Boomers were at their age — yet most agents are losing them before the first showing. Why? Because they're using the same approach that worked on previous generations.
+Gen Z buyers are making 50% more income than Boomers were at their age - yet most agents are losing them before the first showing. Why? Because they're using the same approach that worked on previous generations.
 
 Here's what's different: Gen Z has already done 12 hours of research before they call you. They text instead of phone. They can spot fake authenticity in 4 seconds flat. If you're treating them like Boomer clients, you're already out of the game.
 
-The good news? AI can help you adapt fast. Use tools like Perplexity and Claude to research their behavior patterns and rewrite your entire consultation process for this generation. They're entering the market RIGHT NOW — and they have the income to buy.
+The good news? AI can help you adapt fast. Use tools like Perplexity and Claude to research their behavior patterns and rewrite your entire consultation process for this generation. They're entering the market RIGHT NOW - and they have the income to buy.
 
 The agents who adapt their approach to each generation are the ones who dominate for decades. The question is: are you ready to evolve?
 
@@ -20,7 +20,7 @@ Have you worked with a Gen Z buyer yet? What surprised you most about their appr
 
 ### INSTAGRAM
 
-Gen Z buyers make 50% more than Boomers did at their age — but most agents lose them before the first showing 📱
+Gen Z buyers make 50% more than Boomers did at their age - but most agents lose them before the first showing 📱
 
 They've done 12 hours of research before contacting you. They text, not call. They can detect fake in 4 seconds.
 
@@ -42,11 +42,11 @@ Gen Z buyers make 50% more than Boomers did at their age but agents keep losing 
 
 Most real estate professionals are missing a massive opportunity that's unfolding right now.
 
-Gen Z buyers are entering the housing market with 50% more income than Boomers had at their age. They're financially capable, ready to buy — and most agents are losing them before the first consultation.
+Gen Z buyers are entering the housing market with 50% more income than Boomers had at their age. They're financially capable, ready to buy - and most agents are losing them before the first consultation.
 
 Here's the disconnect: This generation has completed 12+ hours of independent research before making contact. They communicate primarily through text. They can identify inauthentic sales approaches within seconds. Yet we're still using consultation methods designed for previous generations.
 
-The solution isn't to abandon proven sales principles — it's to adapt delivery methods. AI tools like Perplexity and Claude can help you research generational preferences and customize your entire client experience accordingly.
+The solution isn't to abandon proven sales principles - it's to adapt delivery methods. AI tools like Perplexity and Claude can help you research generational preferences and customize your entire client experience accordingly.
 
 The agents building lasting success understand this truth: master one generation, and you'll have good years. Master the ability to adapt to each generation, and you'll have a great career.
 
