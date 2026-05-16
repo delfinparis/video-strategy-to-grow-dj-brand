@@ -25,10 +25,10 @@ status: "draft"
 One and a half billion dollars. That's what dual agency cost American sellers in three years. The next class action just got its case file.
 
 ### CONTEXT (0:08-0:21)
-Zillow analyzed fifteen million transactions from twenty-twenty-three to twenty-twenty-five. Sellers represented by the same agent as the buyer lost a total of one-point-four-nine billion dollars compared with sellers who had separate representation. California sellers took the biggest hit at five hundred thirty-three million.
+Zillow analyzed fifteen million transactions from twenty-twenty-three to twenty-twenty-five. Sellers in dual-agency deals lost one-point-four-nine billion dollars total. California took the biggest hit at five hundred thirty-three million.
 
 ### WHY IT MATTERS (0:21-0:33)
-The commission lawsuits are wrapping. The plaintiffs' bar isn't going home. They're shopping for the next theory. Population-level price evidence on dual agency is exactly the kind of data that builds a class action. Brokerages built around dual agency are now exposed.
+The commission lawsuits are wrapping. The plaintiffs' bar isn't going home. They're shopping for the next theory. Multi-state evidence at this scale is exactly the kind of data that builds a class action. Brokerages built around dual agency are now exposed.
 
 ### WHAT YOU DO NOW (0:33-0:54)
 Three things this week.

@@ -28,7 +28,7 @@ Dual agency cost sellers one and a half billion dollars. Off-MLS listings cost t
 Zillow released both numbers on May fourteenth in the same study. Fifteen million transactions analyzed from twenty-twenty-three to twenty-twenty-five. The dual-agency penalty showed up every year. The off-MLS penalty showed up every year. Two structural seller costs, hiding in plain sight.
 
 ### WHY IT MATTERS (0:20-0:32)
-The common thread is buyer-pool restriction. Dual agency limits the buyer to one agent's roster. Off-MLS limits the buyer pool to whoever already saw the listing inside a private network. Narrower pool. Lower price. The seller absorbs the gap.
+Both restrict the buyer pool. Dual agency limits the buyer to one agent's roster. Off-MLS limits it to whoever's in the private network. Narrower pool. Lower price. The seller absorbs the gap.
 
 ### WHAT YOU DO NOW (0:32-0:54)
 Two questions to answer before your next listing presentation.

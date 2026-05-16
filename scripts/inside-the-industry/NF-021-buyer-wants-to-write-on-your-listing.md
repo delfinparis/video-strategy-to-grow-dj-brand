@@ -35,7 +35,7 @@ Here's the exact line. Memorize it.
 
 "I represent the seller. To protect both of us, I'm going to refer you to a buyer's agent in my office. They'll work with you. I'll work with the seller. Same deal. Cleaner protection. The data shows sellers in dual deals leave money on the table. I won't put my client in that position."
 
-That's the script. Three sentences. Refer the buyer out. Keep the listing. Document it.
+That's the script. Three jobs. Refer the buyer out. Keep the listing. Document it.
 
 ### CLOSE (0:50-0:57)
 Two commissions or one client. Pick one. Then write the line down before the next call comes in.

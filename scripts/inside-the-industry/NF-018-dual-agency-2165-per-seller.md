@@ -25,7 +25,7 @@ status: "draft"
 Two thousand one hundred sixty-five dollars. That's what your seller loses when you double-end the deal. Zillow just put a number on it.
 
 ### CONTEXT (0:08-0:18)
-Zillow analyzed more than fifteen million transactions from twenty-twenty-three to twenty-twenty-five. Sellers in dual-agency deals lost an average of two thousand one hundred sixty-five dollars per home compared with sellers who had separate representation. The pattern showed up every year.
+Zillow analyzed fifteen million transactions from twenty-twenty-three to twenty-twenty-five. Sellers in dual-agency deals lost an average of two thousand one hundred sixty-five dollars per home. The pattern showed up every year.
 
 ### WHY IT MATTERS (0:18-0:28)
 That money came from your seller's check. It went into your second commission. The "I'll just bring my own buyer" pitch sounds like service. The data says it's a discount on your client's price.
