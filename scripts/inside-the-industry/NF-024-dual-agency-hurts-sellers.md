@@ -108,7 +108,7 @@ One. Don't represent your own buyer on your own listing. Refer them to a colleag
 
 Two. If you stay dual, disclose the Zillow number in writing before the offer comes in. The seller deserves to know the documented cost before they agree to the structure.
 
-Three. Lead your next listing presentation with this number. Sellers want an agent who's read the research. The agent who walks in with the Zillow data positions themselves as the one paying attention.
+Three. Lead your next listing presentation with this number. Sellers want an agent who's read the research. The agent who walks in with the Zillow data is the one paying attention.
 
 Dual agency was always a conflict. Now it has a number. Two thousand one hundred sixty-five reasons to refer the buyer out.
 

@@ -63,6 +63,46 @@ These series don't need an AI Music Prompt block (different format or already-se
 
 ---
 
+## Social descriptions: no em dashes, no AI speak
+
+**Scope:** Every social caption block in every script in this repo (LinkedIn, Instagram Reels, TikTok, YouTube Shorts, Facebook, X, Threads). Applies in addition to the universal Rule 5 in `docs/editorial-standards.md`.
+
+**The rule:** Social captions get the strictest scrub.
+
+- **Zero em dashes.** Not `—`. Not `--` (the editorial-standards substitute). Use periods, commas, or restructure the sentence. The `--` substitute is fine in spoken-script sections, length justifications, and Data Source notes; it is banned in social captions because it reads as AI-generated copy on a social feed.
+- **Zero AI-speak transitions.** No "Here is what this means," "Here is the part that makes this interesting," "Here is why that matters," "Worth noting," "That should change everything," "In a market like this," or any of the banned AI-speak words from Rule 5.
+- **Zero throat-clearing setups.** A new paragraph in a social caption should not begin with a transition sentence whose only purpose is to set up the next sentence. Cut the transition; lead with the substance.
+- **Apply this automatically every time.** Do not wait for the user to ask for the scrub. Any script draft, polish pass, or rewrite that includes social descriptions must run the descriptions through this filter before commit.
+
+If a sentence in a social caption needs a pause that an em dash would normally create, restructure as two short sentences. "X. Y." beats "X -- Y." in every social-feed context.
+
+---
+
+## CapCut AI Music prompts: 300-character hard cap
+
+**Scope:** Every CapCut AI Music prompt this repo produces, whether it lives in the `## AI Music Prompt` section of a script or is sent inline in a chat reply.
+
+**The cap:** 300 characters maximum, including spaces and punctuation. CapCut's AI music input has a hard 300-char limit; longer prompts get truncated silently and the generator works from a partial input.
+
+**What a CapCut prompt must include in 300 chars:**
+
+1. Style / genre (e.g., "modern documentary editorial score")
+2. BPM (e.g., "95 BPM")
+3. Mood, 2-4 words (e.g., "authoritative, confident, verdict-in")
+4. 3-4 instruments max (e.g., "muted piano, pulsing synth bass, soft percussion")
+5. The "no vocals" constraint (always)
+6. Runtime hint (e.g., "55-60s")
+
+**What goes in the longer Suno/Udio prompt instead** (no character cap):
+- Reference artists or shows (Bloomberg, NYT Daily, etc.)
+- Full energy arc descriptions
+- Specific harmonic guidance
+- Mix instructions
+
+If a CapCut prompt would be meaningfully better at 350 or 400 characters, flag it to the user and ask whether to split into two CapCut generations rather than ship an over-cap prompt that gets truncated.
+
+---
+
 ## Other project defaults
 
 - **Editorial voice:** Read [`docs/editorial-standards.md`](docs/editorial-standards.md) before drafting any script. Universal rules win over series rules.

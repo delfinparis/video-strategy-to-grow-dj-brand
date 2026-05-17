@@ -99,13 +99,11 @@ Three years. Three states. Six-point-eight million transactions. The data isn't 
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-Zillow ran the same analysis three years in a row. Every year, dual-agency sellers got lower prices. California, Florida, New York -- all three markets showed it. Not a fluke. A feature.
+Zillow ran the same analysis three years in a row. Every year, dual-agency sellers got lower prices. California, Florida, New York. All three markets showed it. Not a fluke. A feature.
 
 The numbers from the May 14 release.
 
 6.8 million transactions analyzed. California sellers lost $533 million in aggregate. Florida sellers lost $217 million. New York sellers lost $146 million. The dual-agency penalty showed up every single year of the study.
-
-Here is why that matters.
 
 One-year findings can be a fluke. A market-specific outlier. A measurement quirk. Three-year findings across three large, geographically and economically distinct markets can't. The pattern that survives both time and geography is the pattern that's structural, not random.
 
@@ -117,7 +115,7 @@ One. Stop using "but maybe the data is a fluke" as a private reason to keep doub
 
 Two. Pull your own state's dual-agency rate from your MLS. See where you stand against the population that produced the Zillow numbers. Knowing your own rate is the precondition for having a defensible position on the data.
 
-Three. Have a position ready for any seller who asks about the Zillow research. The aggregate number for your state -- if you're in CA, FL, or NY -- is on Zillow's release. The per-home number is the same $2,165 wherever you operate.
+Three. Have a position ready for any seller who asks about the Zillow research. The aggregate number for your state is on Zillow's release if you're in CA, FL, or NY. The per-home number is the same $2,165 wherever you operate.
 
 Three years. Three states. Six-point-eight million transactions. The data isn't going to change its mind.
 
@@ -161,9 +159,9 @@ Zillow's May 14, 2026 study analyzed 6.8 million U.S. dual-agency transactions f
 
 ### Facebook
 **Caption:**
-Zillow ran the same analysis three years in a row. Every year, dual-agency sellers got lower prices. California, Florida, New York -- all three showed it.
+Zillow ran the same analysis three years in a row. Every year, dual-agency sellers got lower prices. California, Florida, New York. All three showed it.
 
-6.8 million transactions. California aggregate seller losses: $533 million. Florida $217 million. New York $146 million. Every year of the study.
+6.8 million transactions. California aggregate seller losses, $533 million. Florida $217 million. New York $146 million. Every year of the study.
 
 One-year findings can be a fluke. Three-year findings across multiple states can't. The "but maybe it's just my market" defense for double-ending is over.
 
