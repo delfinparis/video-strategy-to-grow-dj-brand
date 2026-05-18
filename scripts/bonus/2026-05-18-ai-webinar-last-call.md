@@ -33,7 +33,7 @@ Here's the stat that should bother you. The average agent spends thirty-eight ho
 
 Thirty-eight hours. Almost a full work week. Every week.
 
-I'm going to walk you through the five moves that close that gap. Live. Not theory. Real prompts, real outputs, real before-and-afters from agents who are already doing this. And I'm going to answer your questions at the end. Fifteen minutes of Q and A. Bring the one thing you're stuck on.
+I'm going to walk you through the five moves that close that gap. Live. Not theory. Real prompts, real outputs, real before-and-afters from agents who are already doing this. No live Q and A this round -- but I'm holding free fifteen-minute one-on-one sessions this week instead. You bring whatever you're stuck on, we work through it. Link goes out at the end of the call.
 
 ### REFRAME (0:38-0:50)
 Look -- you do not need another "AI is the future" post. You need somebody to sit down and show you the buttons. That's what tomorrow is.
@@ -46,10 +46,10 @@ Tomorrow. Tuesday. Noon Central. Forty-five minutes. Free. Link in my bio -- gra
 **Word Count:** ~278 | **Estimated Duration:** ~60 seconds
 
 ## Data Source
-- ai-webinar repo (`EVENT-COPY.md`, `OUTREACH-COPY.md`) -- "You're Doing AI 100% Wrong: How Top 1% Agents Double Their Biz With A.I." -- 45-min free virtual webinar, 5 AI strategies + 15-min Q&A
+- ai-webinar repo (`EVENT-COPY.md`, `OUTREACH-COPY.md`, `slides.html`, `PRESENTATION.md`) -- "5 Ways to Get More Clients With AI This Month" / "You're Doing AI 100% Wrong" -- 45-min free virtual webinar, 5 AI strategies + Wednesday Weekend Push + AI Editorial Scrub. No live Q&A this round -- close pivots to free 15-min 1-on-1 sessions at calendly.com/joinkale/ai-strategy-session.
 - ai-webinar repo (`OUTREACH-COPY.md`) -- "the avg agent spends 38 hrs/week on tasks AI can cut in half" (Ana's cold-email stat used across the outreach sequence)
 - Google Calendar (dj@kalerealty.com) -- "AI Webinar" event 2026-05-19 12:00-13:00 CT
-- Webinar deliverable: 5 specific AI moves for working agents, live demos, 15-min Q&A
+- Webinar deliverable: 5 specific AI moves for working agents, live demos, no live Q&A (free 15-min 1-on-1 sessions instead via Calendly), 3-day tapthis.co bonus drop Wed-Fri
 
 **Production note:** Shoot this Monday afternoon/evening, post Mon night through Tue 10 AM CT. Drop the actual Zoom registration link in the IG/TikTok bio and as the pinned first comment. If registration closes at 11 AM CT, the spoken line in the CTA reflects that -- if it stays open until start, edit the spoken cutoff. Verify with Jennica before shooting.
 
@@ -75,7 +75,7 @@ The average agent spends 38 hours a week on tasks AI can do in 20 minutes. Listi
 
 I'm running a free 45-minute session on the 5 AI moves the top 1% of agents are actually using right now. Not "what is ChatGPT." Real prompts. Live demos. Before-and-afters from agents already doing it.
 
-Plus 15 minutes of Q&A at the end. Bring the thing you're stuck on.
+No live Q&A this round. Instead I'm holding free 15-min 1-on-1 sessions this week. You bring the thing you're stuck on, we work through it together. Calendly link drops at the end of the call.
 
 Link in bio. Registration closes 11 AM CT tomorrow. Can't be there live? Register anyway and I'll send the replay.
 
@@ -86,13 +86,13 @@ See you tomorrow at noon.
 
 ### TikTok
 **Description:**
-Tomorrow at noon Central. Free. The 5 AI moves the top 1% of agents are actually using right now. Not theory. Live demos. 15 min Q&A. Link in bio, registration closes 11 AM CT. #realestate #realtor #realestateagent #realtortips #aiforrealestate #realestateai #chatgptforrealestate #realestatecoaching #realestatetips #realtorlife #realestatetraining #realestatemarketing #chicagorealestate
+Tomorrow at noon Central. Free. The 5 AI moves the top 1% of agents are actually using right now. Not theory. Live demos. Plus a 3-day tapthis.co bonus drop + free 15-min 1-on-1 sessions for anyone who wants individual help. Link in bio, registration closes 11 AM CT. #realestate #realtor #realestateagent #realtortips #aiforrealestate #realestateai #chatgptforrealestate #realestatecoaching #realestatetips #realtorlife #realestatetraining #realestatemarketing #chicagorealestate
 
 ### YouTube Shorts
 **Title:** Tomorrow at Noon Central. The AI Webinar I'd Have Killed for in 2010
 
 **Description:**
-The average real estate agent spends 38 hours a week on tasks AI can do in 20 minutes. Tomorrow at noon Central, I'm running a free 45-minute session walking through the 5 specific AI moves the top 1% of agents are actually using right now. Real prompts, live demos, before-and-afters from agents who are already doing this. 15 minutes of Q&A at the end. Free. Virtual. Registration link in the bio, closes 11 AM CT.
+The average real estate agent spends 38 hours a week on tasks AI can do in 20 minutes. Tomorrow at noon Central, I'm running a free 45-minute session walking through the 5 specific AI moves the top 1% of agents are actually using right now. Real prompts, live demos, before-and-afters from agents already doing this. No live Q&A this round. Instead, free 15-min 1-on-1 sessions this week for anyone who wants individual help. Plus a 3-day tapthis.co bonus drop Wed-Fri. Free. Virtual. Registration link in the bio, closes 11 AM CT.
 
 I'm D.J. Paris with Keeping It Real Podcast and Kale Realty in Chicago.
 
@@ -111,7 +111,9 @@ Listing descriptions. Follow-up emails. Buyer consults. Showing notes. Open hous
 
 I'm walking through the 5 specific AI moves the top 1% of agents are actually using right now. Not "what is ChatGPT." Not "10 tools to try." Real prompts. Real outputs. Live demos. Before-and-afters from agents already doing this.
 
-Plus 15 minutes of Q&A at the end. Bring the one thing you're stuck on.
+No live Q&A this round. Instead, I'm holding free 15-min 1-on-1 sessions this week for anyone who wants individual help. Calendly link goes out at the end of the call.
+
+Plus a 3-day tapthis.co bonus drop Wed-Fri unlocking my full 570-prompt AI library.
 
 If you can't be there live, register anyway and I'll send you the replay.
 
@@ -126,7 +128,7 @@ Last call. Tomorrow at noon Central. Free 45-minute AI webinar for real estate a
 
 The average agent spends 38 hours a week on tasks AI can do in 20 minutes. Listing descriptions, follow-up, CMA narratives, buyer consults, open house recaps. 38 hours. Every week. Gone.
 
-I'm running through the 5 specific AI moves the top 1% of agents are actually using right now. Live demos. Real prompts. 15 minutes of Q&A at the end so you can bring the thing you're stuck on.
+I'm running through the 5 specific AI moves the top 1% of agents are actually using right now. Live demos. Real prompts. No live Q&A this round. Instead, free 15-min 1-on-1 sessions this week for anyone who wants individual help. Plus a 3-day tapthis.co bonus drop Wed-Fri.
 
 Can't be there live? Register anyway and I'll send the replay.
 
