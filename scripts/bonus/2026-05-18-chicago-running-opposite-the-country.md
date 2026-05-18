@@ -53,13 +53,23 @@ Five past sellers. Five stuck buyers. Five sphere contacts. Fifteen messages, be
 
 **Production note:** Before shooting, verify the most recent Case-Shiller release and Crain's number for Chicago's outperformance. Drop the specific Chicago YoY figure into the SETUP if available -- the hook hits harder with a real number ("Chicago's at 5.8% YoY while the U.S. is at 1.1%" or whatever the current reading is).
 
+## AI Music Prompt
+
+**Vibe:** Confident, ticking, modern financial-news bed. The hook is a number contrast (half the country vs. Chicago at 5x), so the music should feel like "the clock is moving" under the call-to-action -- momentum without anxiety.
+
+**Suno / Udio:**
+> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
+
+**CapCut AI Music:**
+> Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
+
 ## Social Media
 
 ### Instagram Reels
 **Caption:**
 Half the country's home prices just went negative year over year.
 
-Chicago's running about 5x the national rate -- in the other direction.
+Chicago's running about 5x the national rate. In the other direction.
 
 Your past clients don't know that. They're reading national headlines and assuming prices are falling on their block too.
 
@@ -76,13 +86,13 @@ Before you close your laptop tonight.
 
 ### TikTok
 **Description:**
-Half the country's home prices are cooling. Chicago's running about 5x the national rate -- the other way. Here are the 3 conversations every Chicago agent should be having this week. #chicagorealestate #realestate #realtor #realtortips #housingmarket #marketupdate #realestateagent #realestatetips #realestatemarket #chicago #realtorsoftiktok #firsttimehomebuyer #realtorlife
+Half the country's home prices are cooling. Chicago's running about 5x the national rate. The other way. Here are the 3 conversations every Chicago agent should be having this week. #chicagorealestate #realestate #realtor #realtortips #housingmarket #marketupdate #realestateagent #realestatetips #realestatemarket #chicago #realtorsoftiktok #firsttimehomebuyer #realtorlife
 
 ### YouTube Shorts
-**Title:** Half the Country's Home Prices Are Cooling. Chicago Isn't. -- 3 Conversations to Have This Week
+**Title:** Half the Country's Home Prices Are Cooling. Chicago Isn't. 3 Conversations to Have This Week
 
 **Description:**
-Case-Shiller says national home price growth has basically stopped, with more than half the metros they track now in year-over-year decline. Chicago is one of the few markets running the other direction -- at roughly 5x the national pace.
+Case-Shiller says national home price growth has basically stopped, with more than half the metros they track now in year-over-year decline. Chicago is one of the few markets running the other direction, at roughly 5x the national pace.
 
 Here are the 3 specific conversations every Chicago agent should be having this week: past sellers from 2022-2023, stuck buyers still waiting for a national crash, and your sphere.
 
@@ -95,19 +105,19 @@ I'm D.J. Paris with Keeping It Real Podcast and Kale Realty in Chicago.
 **Post text:**
 Half the metros in the U.S. just posted year-over-year home price declines.
 
-Chicago's running about 5x the national pace -- the other way.
+Chicago's running about 5x the national pace. The other way.
 
 Most of your past clients don't know that.
 
-They're reading national headlines that say "growth stalls," "prices cool," "buyers pull back" -- and assuming that applies to their block. It doesn't.
+They're reading national headlines that say "growth stalls," "prices cool," "buyers pull back," and assuming that applies to their block. It doesn't.
 
-Here's what every Chicago agent should be doing this week:
+3 conversations to have this week:
 
-1. Past sellers from 2022-2023 -- the ones who said they wished they'd waited. Send them their zip code's last 12 months. One sentence: "Wanted you to know what your house is worth today." Favor, not a pitch.
+1. Past sellers from 2022-2023. The ones who said they wished they'd waited. Send them their zip code's last 12 months. One sentence: "Wanted you to know what your house is worth today." Favor, not a pitch.
 
-2. Stuck buyers -- the ones waiting for a national crash that isn't coming here. One sentence: "Half the country's softening. Chicago's not. Your window's closing."
+2. Stuck buyers. The ones waiting for a national crash that isn't coming here. One sentence: "Half the country's softening. Chicago's not. Your window's closing."
 
-3. Your sphere -- anyone who's mentioned moving. One sentence: "If you're selling in the next 12 months, the data says go now, while we're outperforming."
+3. Your sphere. Anyone who's mentioned moving. One sentence: "If you're selling in the next 12 months, the data says go now, while we're outperforming."
 
 5 past sellers. 5 stuck buyers. 5 sphere contacts. 15 messages.
 
@@ -120,19 +130,19 @@ I've watched agents do this in May and write 3 extra deals out of it by August. 
 
 ### Facebook
 **Post text:**
-Half the metros in the country just saw home prices go negative year over year. Chicago's running about five times the national pace -- in the OPPOSITE direction.
+Half the metros in the country just saw home prices go negative year over year. Chicago's running about five times the national pace. In the OPPOSITE direction.
 
 Most of your past clients have no idea. They're reading national headlines and assuming prices are falling on their block too.
 
-Here's what every Chicago agent should be doing this week:
+3 conversations to have this week:
 
-1. Past sellers from 2022 or 2023 -- the ones who said "we wish we'd waited." Send them their zip code's last 12 months. "Wanted you to know what your house is worth today." Favor, not a sales call.
+1. Past sellers from 2022 or 2023. The ones who said "we wish we'd waited." Send them their zip code's last 12 months. "Wanted you to know what your house is worth today." Favor, not a sales call.
 
-2. Stuck buyers -- the ones waiting for the crash that's coming everywhere but here. Send them the headline. Then ask if they want to look this weekend.
+2. Stuck buyers. The ones waiting for the crash that's coming everywhere but here. Send them the headline. Then ask if they want to look this weekend.
 
-3. Your sphere -- anyone who's mentioned moving. The line: "If you're selling in the next year, the data says go now, while we're outperforming."
+3. Your sphere. Anyone who's mentioned moving. The line: "If you're selling in the next year, the data says go now, while we're outperforming."
 
-5 from each group. 15 messages. Today. Not posts -- messages.
+5 from each group. 15 messages. Today. Not posts. Messages.
 
 **Hashtags:**
 #chicagorealestate #realestate #realtor #realestateagent #housingmarket #marketupdate #realestatetips #firsttimehomebuyer #realestatemarket #chicago #keepingitrealpodcast #kalerealty
@@ -152,9 +162,9 @@ Half the country's home prices just went negative year over year. Chicago's runn
 **Hashtags:** #ChicagoRealEstate #RealEstateTips #RealtorLife #RealEstateAgent #AgentTipOfTheDay
 
 ### YouTube Shorts
-**Title:** Half the Country's Prices Are Cooling. Chicago Isn't. -- 3 Conversations to Have This Week
+**Title:** Half the Country's Prices Are Cooling. Chicago Isn't. 3 Conversations to Have This Week
 **Description:** ### HOOK (0:00-0:03)
-Half the country's home prices just went negative year over year. Chicago's running about five times the national rate -- the other way. And your past clients have no idea.
+Half the country's home prices just went negative year over year. Chicago's running about five times the national rate. The other way. And your past clients have no idea.
 **Hashtags:** #ChicagoRealEstate #RealEstateTips #RealEstateAgent #RealtorLife #AgentTipOfTheDay #MarketUpdate
 
 ### Facebook
@@ -164,5 +174,5 @@ Half the country's home prices just went negative year over year. Chicago's runn
 
 ### LinkedIn
 **Caption:** ### HOOK (0:00-0:03)
-Half the country's home prices just went negative year over year. Chicago's running about five times the national rate -- the other way. The agents who tell their past clients this story in May write extra deals out of it by August. Every time.
+Half the country's home prices just went negative year over year. Chicago's running about five times the national rate. The other way. The agents who tell their past clients this story in May write extra deals out of it by August. Every time.
 **Hashtags:** #ChicagoRealEstate #RealEstate #RealEstateTips #ProfessionalDevelopment #RealEstateAgent #Leadership #MarketUpdate
