@@ -19,32 +19,32 @@ status: "draft"
 ## Shareable Moment
 > "Open houses aren't a buyer-acquisition tool. They're a showing tool for buyers who already found the listing online."
 
-## Script (~61 seconds)
+## Script (~55 seconds)
 
 ### HOOK (0:00-0:09)
-Four percent. That's how many buyers find their home through an open house or yard sign. NAR has been saying so for years. Most agents are still running open houses to find buyers.
+Four percent. That's how many buyers find their home through an open house or yard sign. NAR has been saying so for years. Most agents are still running them to find buyers.
 
-### CONTEXT (0:09-0:20)
-NAR's twenty-twenty-five Profile of Home Buyers and Sellers. Fifty-two percent of buyers found their home online. Four percent found it through a yard sign or open house. Three percent started their search at an open house.
+### CONTEXT (0:09-0:19)
+NAR's twenty-twenty-five Profile of Home Buyers and Sellers. Fifty-two percent found it online. Four percent found it through a yard sign or open house. Three percent started their search at an open house.
 
-### WHY IT MATTERS (0:20-0:32)
-Open houses are a showing tool for buyers who already found the home online. Not a buyer-acquisition tool. The Sunday afternoon isn't generating buyers. Inman made the same point this week. Stop investing in the wrong outcome.
+### WHY IT MATTERS (0:19-0:28)
+Open houses are a showing tool for buyers who already found the home online. Not a buyer-acquisition tool. Inman said the same thing this week. Stop investing in the wrong outcome.
 
-### WHAT YOU DO NOW (0:32-0:55)
+### WHAT YOU DO NOW (0:28-0:50)
 Three plays this week.
 
 One. Stop pitching open houses to sellers as "we'll find the buyer." Pitch them as "we'll get feedback on the price and meet your neighbors." Different outcome. Same Sunday.
 
-Two. Reallocate Sunday open-house prep time toward listing optimization. Better photos. Sharper description. Smarter MLS upload timing. Those are the actual buyer-generation levers.
+Two. Reallocate Sunday open-house prep time toward listing optimization. Better photos. Sharper description. Smarter MLS upload timing.
 
 Three. Track every open house. Who came. What they said. Who lives nearby. The relationships are the actual ROI.
 
-### CLOSE (0:55-1:01)
+### CLOSE (0:50-0:55)
 Open houses sell four percent of homes. They build the next four years of your business. Run them for that.
 
-**Estimated Duration:** ~61 seconds
+**Estimated Duration:** ~55 seconds
 
-**Length justification:** The script earns 61 seconds because the take requires both halves to land. The first half (open houses don't generate buyers) is the contrarian punch -- it kills the dominant industry pitch. The second half (open houses do generate something else -- feedback, neighbors, future listings) prevents the script from becoming "stop running open houses" which would be wrong. Both halves are required to keep the take defensible and useful. The 15-second re-engagement lands on "Three percent started their search at an open house" closing the CONTEXT beat. The close re-callbacks the headline number plus a forward-looking outcome ("the next four years of your business").
+**Length justification:** The script earns 55 seconds because the take requires both halves to land. The first half (open houses don't generate buyers) is the contrarian punch -- it kills the dominant industry pitch. The second half (open houses do generate something else -- feedback, neighbors, future listings) prevents the script from becoming "stop running open houses" which would be wrong. Both halves are required to keep the take defensible and useful. The 15-second re-engagement lands on "Three percent started their search at an open house" closing the CONTEXT beat. The close re-callbacks the headline number plus a forward-looking outcome ("the next four years of your business").
 
 ## Production Notes
 
