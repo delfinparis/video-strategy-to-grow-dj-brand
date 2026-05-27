@@ -1,7 +1,7 @@
 ---
 series: "Inside the Industry"
 type: "reactive"
-script_number: "NF-012"
+script_number: "NF-029"
 title: "83% of Sellers Expect Asking Price. The Market Is Giving Them a Discount."
 avatar: "All"
 content_pillar: "market_intelligence"

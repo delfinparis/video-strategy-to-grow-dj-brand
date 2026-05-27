@@ -1,7 +1,7 @@
 ---
 series: "Inside the Industry"
 type: "reactive"
-script_number: "NF-011"
+script_number: "NF-028"
 title: "Rates Hit Their Highest Since August. Fence-Sitter Sellers, This Is for You."
 avatar: "All"
 content_pillar: "market_intelligence"
