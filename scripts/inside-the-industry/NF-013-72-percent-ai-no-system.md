@@ -26,13 +26,13 @@ time_sensitive: "High -- AI fatigue is the live complaint on real estate forums 
 Seventy-two percent of agents say AI is part of their daily workflow. Most of them built a worse version of what they already had.
 
 ### CONTEXT / MIRROR (0:09-0:25)
-Here's what that looks like. One AI tool for writing. Another for leads. A chatbot. Something for transactions. Three browser extensions you forgot you installed. None of them talk to each other. You adopted AI to save time, and now you spend it managing tools.
+Look at your own setup. One AI tool for writing. Another for leads. A chatbot. Something for transactions. Three browser extensions you forgot about. None of them talk to each other. You adopted AI to save time. Now you're the IT department for your own business.
 
-### THE FIX (0:25-0:45)
-Here's the rule that actually works. One tool per lane. You've got four. Leads. Content. Scheduling. Transactions. Pick the single best tool for each, and delete everything else. The agent who wins in 2026 isn't the one with the most AI tools. It's the one with the fewest, each doing one job all the way.
+### THE FIX (0:25-0:44)
+The rule that fixes it is simple. One tool per lane. You've got four. Leads. Content. Scheduling. Transactions. The agent who wins in 2026 isn't the one with the most AI tools. It's the one who actually learned the four they kept.
 
-### CLOSE (0:45-0:58)
-Here's what you do now. Write down every AI tool you're paying for. Sort them into those four lanes. Any lane with more than one, keep the best and cancel the rest. Any empty lane is your next move.
+### CLOSE (0:44-0:58)
+Here's what you do now. List every AI tool you're paying for. Sort them into those four lanes. Any lane with more than one, keep the best and cancel the rest. Any empty lane is your next move.
 
 **Estimated Duration:** ~60 seconds | **Word Count:** ~150 words
 
@@ -70,15 +70,15 @@ Here's what you do now. Write down every AI tool you're paying for. Sort them in
 **Caption:**
 72% of agents say AI is now part of their daily workflow. Most of them built a worse version of what they already had.
 
-Here is what that looks like in practice. One AI tool for writing. A different one for leads. A chatbot on the website. Something for transaction coordination. A few browser extensions you forgot you installed. None of them talk to each other. You adopted AI to save time, and now you spend that time managing tools.
+Here is what that looks like in practice. One AI tool for writing. A different one for leads. A chatbot on the website. Something for transaction coordination. A few browser extensions you forgot you installed. None of them talk to each other. You adopted AI to save time, and now you are the IT department for your own business.
 
 That is not an AI problem. That is a system problem.
 
-Here is the rule that actually works. One tool per lane. You have four lanes. Leads. Content. Scheduling. Transactions. Pick the single best tool for each one, and delete everything else.
+The rule that fixes it is simple. One tool per lane. You have four lanes. Leads. Content. Scheduling. Transactions. The best one for each, nothing extra.
 
-The agent who wins in 2026 is not the one with the most AI tools. It is the one with the fewest, each doing one job all the way through.
+The agent who wins in 2026 is not the one with the most AI tools. It is the one who actually learned the four they kept.
 
-So write down every AI tool you are paying for. Sort them into those four lanes. Any lane with more than one tool, keep the best and cancel the rest. Any empty lane is your next purchase.
+So list every AI tool you are paying for. Sort them into those four lanes. Any lane with more than one tool, keep the best and cancel the rest. Any empty lane is your next purchase.
 
 The 72% figure is from the NAR 2025 Technology Survey.
 
@@ -88,11 +88,11 @@ The 72% figure is from the NAR 2025 Technology Survey.
 **Caption:**
 72% of agents say AI is part of their daily workflow. Most built a worse version of what they already had.
 
-One tool for writing. Another for leads. A chatbot. Something for transactions. Three extensions you forgot about. None of them talk. You adopted AI to save time and now you manage tools.
+One tool for writing. Another for leads. A chatbot. Something for transactions. Three extensions you forgot about. None of them talk. You adopted AI to save time. Now you're the IT department for your own business.
 
 The rule that works: one tool per lane. Four lanes. Leads. Content. Scheduling. Transactions. Best tool for each, delete the rest.
 
-The winner in 2026 has the fewest tools, not the most.
+The winner in 2026 isn't the one with the most tools. It's the one who actually learned the four they kept.
 
 (72% figure: NAR 2025 Technology Survey.)
 
@@ -111,13 +111,13 @@ The winner in 2026 has the fewest tools, not the most.
 **Caption:**
 72% of agents say AI is part of their daily workflow. Most of them built a worse version of what they already had.
 
-Here's what that looks like. One AI tool for writing. Another for leads. A chatbot. Something for transactions. A few browser extensions you forgot you installed. None of them talk to each other. You adopted AI to save time, and now you spend it managing tools.
+Here's what that looks like. One AI tool for writing. Another for leads. A chatbot. Something for transactions. A few browser extensions you forgot you installed. None of them talk to each other. You adopted AI to save time, and now you're the IT department for your own business.
 
 That's not an AI problem. It's a system problem.
 
-The rule that works: one tool per lane. You've got four. Leads. Content. Scheduling. Transactions. Pick the single best tool for each, and delete everything else.
+The rule that fixes it is simple: one tool per lane. You've got four. Leads. Content. Scheduling. Transactions. The best one for each, nothing extra.
 
-Write down every AI tool you're paying for. Sort them into those four lanes. Any lane with more than one, keep the best and cancel the rest. Any empty lane is your next move.
+List every AI tool you're paying for. Sort them into those four lanes. Any lane with more than one, keep the best and cancel the rest. Any empty lane is your next move.
 
 (72% figure: NAR 2025 Technology Survey.)
 
@@ -134,6 +134,6 @@ The fix isn't another tool. It's a system:
 One tool per lane.
 Leads. Content. Scheduling. Transactions.
 
-Best tool for each. Delete the rest. Fewest tools wins.
+Best tool for each. Learn the four you keep.
 
 **Hashtags:** #RealEstate #AIforRealtors #RealEstateTech
