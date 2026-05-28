@@ -32,7 +32,7 @@ This week the thirty-year fixed hit 6.59 percent, the highest since August. Infl
 So stop telling them to date the rate and marry the house. That line quietly promises a drop nobody can promise anymore. Say this instead. "We're not buying a rate. We're buying a home you can afford today. If rates fall, you refinance and win. If they rise, you already locked the best deal on the table."
 
 ### CLOSE (0:50-1:04)
-Here's what you do now. Before the Fed meets June 17th, call every fence-sitting buyer. Run their numbers at today's rate. If the home works, the only thing costing them is the wait.
+Here's what you do now. Before the June 17th Fed meeting hands your buyers more false hope, call every fence-sitter and run their numbers at today's rate. If the home works, the only thing costing them is the wait.
 
 **Estimated Duration:** ~67 seconds | **Word Count:** ~165 words
 
@@ -90,7 +90,7 @@ Stop telling buyers to date the rate and marry the house. That line quietly prom
 
 Say this instead. "We're not buying a rate. We're buying a home you can afford today. If rates fall, you refinance and win. If they rise, you already locked the best deal on the table."
 
-Before the Fed meets June 17, call every fence-sitting buyer. Run their numbers at today's rate. If the home works, the only thing costing them is the wait.
+Before the June 17 Fed meeting hands your buyers more false hope, call every fence-sitter and run their numbers at today's rate. If the home works, the only thing costing them is the wait.
 
 **Hashtags:** #RealEstate #MortgageRates #HousingMarket #BuyersAgent #RealtorLife #RealEstateAgent #HomeBuying #ChicagoRealEstate #KeepingItRealPodcast
 
@@ -125,7 +125,7 @@ Stop telling buyers to date the rate and marry the house. That line quietly prom
 
 Say this instead. "We're not buying a rate. We're buying a home you can afford today. If rates fall, you refinance and win. If they rise, you already locked the best deal on the table."
 
-Before the Fed meets June 17, call every fence-sitting buyer. Run their numbers at today's rate. If the home works, the only thing costing them is the wait.
+Before the June 17 Fed meeting hands your buyers more false hope, call every fence-sitter and run their numbers at today's rate. If the home works, the only thing costing them is the wait.
 
 **Hashtags:** #RealEstate #MortgageRates #HousingMarket #BuyersAgent #RealtorLife #ChicagoRealEstate
 
