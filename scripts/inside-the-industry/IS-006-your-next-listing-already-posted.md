@@ -28,13 +28,13 @@ length_justification: "Tactical prospecting piece carries four-signal framework,
 Your next listing client posted about it on social media three months ago. You just didn't notice.
 
 ### THE PATTERN (0:08-0:24)
-Four signals hide in plain sight in your feed. A new job. A new baby. A job transfer to another city. An aging parent moving in. Each one of those is a future listing, and every one shows up online before it shows up in your CRM.
+Four signals hide in plain sight in your feed. A new job. A new baby. A job transfer to another city. An aging parent moving in. Each one of those is a future listing, and every one appears online before it lands in your CRM.
 
 ### THE PROBLEM (0:24-0:36)
 Most agents see those posts and do nothing. The ones who try, send "Congrats! Let me know when you're ready to move!" That reads like a pitch, and you get muted.
 
 ### THE FIX (0:36-0:54)
-Send this instead. "Hey [name], saw the news about [the move, the baby, the job]. Huge congrats. Whenever you're ready to think through the housing side, I'm here. No rush." One warm sentence. One soft seed. No ask.
+Send this instead. "Hey [name], saw the news about [the move, the baby, the job]. Huge congrats. Whenever you're ready to think through the housing side, I'm here. No rush." One warm message. One soft seed. No ask.
 
 ### CLOSE (0:54-1:08)
 Here's what you do now. Open Instagram tonight. Find one of those signals from the last sixty days. Send that exact message to one person. Then close the app.
@@ -73,7 +73,7 @@ Here's what you do now. Open Instagram tonight. Find one of those signals from t
 **Caption:**
 Your next listing client posted about it on social media three months ago. You just did not notice.
 
-Four signals hide in plain sight in your feed. A new job. A new baby. A job transfer to another city. An aging parent moving in. Each one of those is a future listing, and every one shows up online before it shows up in your CRM.
+Four signals hide in plain sight in your feed. A new job. A new baby. A job transfer to another city. An aging parent moving in. Each one of those is a future listing, and every one appears online before it lands in your CRM.
 
 Most agents see those posts and do nothing. The ones who try, send "Congrats! Let me know when you're ready to move!" That reads like a pitch, and you get muted.
 
@@ -81,7 +81,7 @@ Send this instead.
 
 "Hey [name], saw the news about [the move, the baby, the job]. Huge congrats. Whenever you're ready to think through the housing side, I'm here. No rush."
 
-One warm sentence. One soft seed. No ask.
+One warm message. One soft seed. No ask.
 
 Open Instagram tonight. Find one of those signals from the last sixty days. Send that exact message to one person. Then close the app.
 
@@ -91,13 +91,13 @@ Open Instagram tonight. Find one of those signals from the last sixty days. Send
 **Caption:**
 Your next listing client posted about it on social media three months ago. You just didn't notice.
 
-Four signals hide in your feed. A new job. A new baby. A job transfer. An aging parent moving in. Each one is a future listing.
+Four signals hide in your feed. A new job. A new baby. A job transfer. An aging parent moving in. Each one is a future listing, and every one appears online before it lands in your CRM.
 
 Most agents say nothing. The rest send "Let me know when you're ready to move!" and get muted.
 
 Send this: "Hey [name], saw the news about [the move, the baby, the job]. Huge congrats. Whenever you're ready to think through the housing side, I'm here. No rush."
 
-One warm sentence. One soft seed. No ask.
+One warm message. One soft seed. No ask.
 
 Open Instagram tonight. Find a signal. Send that message to one person.
 
@@ -124,7 +124,7 @@ Send this instead.
 
 "Hey [name], saw the news about [the move, the baby, the job]. Huge congrats. Whenever you're ready to think through the housing side, I'm here. No rush."
 
-One warm sentence. One soft seed. No ask.
+One warm message. One soft seed. No ask.
 
 Open Instagram tonight. Find one of those signals from the last sixty days. Send that exact message to one person.
 
@@ -143,6 +143,6 @@ Four signals in your feed:
 The DM:
 "Hey [name], saw the news about [event]. Huge congrats. Whenever you're ready to think through the housing side, I'm here. No rush."
 
-One warm sentence. One soft seed. No ask.
+One warm message. One soft seed. No ask.
 
 **Hashtags:** #RealEstate #Prospecting #ListingAgent
