@@ -25,13 +25,13 @@ shareable_moment: "The private-exclusive playbook just got narrower."
 ## Script (~66 seconds, walk and talk)
 
 ### HOOK (0:00-0:09)
-NAR just published the rules for how your MLS can display and filter listings. Two days ago. Most agents haven't read them.
+NAR just spelled out the rules for how your MLS can display and filter listings. Two days ago. Most agents haven't read them.
 
-### CONTEXT (0:09-0:29)
-Three guides clarifying Policy 8.5. MLSs can filter listings by objective stuff. Geography. Price. Property type. They cannot filter by agent name, brokerage name, or compensation. And clear cooperation got a sharper line on when off-MLS broker conversations count as public marketing.
+### CONTEXT (0:09-0:31)
+Three guides clarifying Policy 8.5. MLSs can filter listings by objective criteria. Geography. Price. Property type. They cannot filter by agent or brokerage name. They cannot filter by compensation. And clear cooperation got a sharper line on when off-MLS broker conversations count as public marketing.
 
-### WHY IT MATTERS (0:29-0:46)
-This isn't NAR housekeeping. If your MLS filters by any of those names, your MLS just got told to stop. The private-exclusive playbook also got narrower. The moment a broker-to-broker conversation crosses into marketing, the listing has to be in the MLS within twenty-four hours.
+### WHY IT MATTERS (0:31-0:48)
+This isn't NAR housekeeping. If your MLS uses any of those filters, your MLS just got told to stop. The private-exclusive playbook also got narrower. The moment a broker-to-broker conversation crosses into marketing, the listing has to be in the MLS within twenty-four hours.
 
 ### CLOSE (0:46-1:06)
 Here's what you do now. This week, pull your MLS's IDX and VOW rules. Check two things. Whether users can filter by agent or brokerage name. And whether they can filter by compensation. If either, flag it to leadership. And if you've been running private exclusives, read the clear cooperation clarifier.
@@ -67,7 +67,7 @@ Here's what you do now. This week, pull your MLS's IDX and VOW rules. Check two 
   - Series continuity: NF-027 covered the consumer-facing side of this dispute (Compass billboards, Chicago Zillow listings going dark, Judge Tharp's May 22 restore order). NF-032 is the regulatory follow-up. Space the two posts at least several days apart so the topic does not feel repetitive on the feed.
   - Status: confirmed
 
-- **Editorial note -- intentional parallel triples:** The CONTEXT beat uses two short lists (allowed criteria: "Geography. Price. Property type." and prohibited criteria: "agent name, brokerage name, or compensation") because the regulatory substance requires enumerating both categories. The parallel structure is deliberate, not stylistic stacking; it lets the viewer immediately compare permitted-versus-prohibited and remember the exact items to check.
+- **Editorial note -- single staccato triple by design:** The CONTEXT beat keeps one staccato triple ("Geography. Price. Property type.") for the allowed criteria and splits the prohibited side into two sentences ("They cannot filter by agent or brokerage name. They cannot filter by compensation.") so the script doesn't carry two close-quarters rule-of-three lists. Both regulatory categories are still enumerated; only the structure is balanced.
 
 ## AI Music Prompt
 
@@ -83,7 +83,7 @@ Here's what you do now. This week, pull your MLS's IDX and VOW rules. Check two 
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-NAR just published the rules for how your MLS can display and filter listings. Two days ago. Most agents have not read them.
+NAR just spelled out the rules for how your MLS can display and filter listings. Two days ago. Most agents have not read them.
 
 Three resources clarifying Policy 8.5 and the Clear Cooperation Policy. The short version.
 
@@ -93,7 +93,7 @@ MLSs cannot filter by agent name, brokerage name, or compensation offers.
 
 And the Clear Cooperation Policy got a sharper line on when a one-to-one broker-to-broker conversation crosses into public marketing. The moment it does, the listing has to be in the MLS within 24 hours.
 
-This is not NAR housekeeping. The guidance landed two days after the federal lawsuit naming Chicago's MLS. If your MLS is currently filtering listings by any of those prohibited names, it just got told to stop. And the private-exclusive playbook quietly got narrower.
+This is not NAR housekeeping. The guidance landed two days after the federal lawsuit naming Chicago's MLS. If your MLS is currently filtering listings by any of those prohibited filters, it just got told to stop. And the private-exclusive playbook quietly got narrower.
 
 This week, pull your MLS's IDX and VOW rules. Check whether users can filter by agent or brokerage name, and whether they can filter by compensation. If either, flag it to leadership.
 
@@ -103,9 +103,9 @@ If you have been running private exclusives, read NAR's clear cooperation clarif
 
 ### Instagram Reels
 **Caption:**
-NAR just published the rules for how your MLS can display and filter listings. Two days ago. Most agents haven't read them.
+NAR just spelled out the rules for how your MLS can display and filter listings. Two days ago. Most agents haven't read them.
 
-Three guides clarifying Policy 8.5. MLSs can filter by geography, price, property type. They cannot filter by agent name, brokerage name, or compensation. And clear cooperation got a sharper line on when off-MLS broker conversations count as public marketing.
+Three guides clarifying Policy 8.5. MLSs can filter by geography, price, property type. They cannot filter by agent or brokerage name. They cannot filter by compensation. And clear cooperation got a sharper line on when off-MLS broker conversations count as public marketing.
 
 If your MLS filters by any of those names, your MLS just got told to stop. The private-exclusive playbook also got narrower.
 
@@ -124,11 +124,11 @@ Pull your MLS's IDX rules this week. Check whether users can filter by agent or 
 
 ### Facebook
 **Caption:**
-NAR just published the rules for how your MLS can display and filter listings. Two days ago. Most agents haven't read them.
+NAR just spelled out the rules for how your MLS can display and filter listings. Two days ago. Most agents haven't read them.
 
 Three guides clarifying Policy 8.5. MLSs can filter listings by objective criteria. Geography. Price. Property type. They cannot filter by agent name, brokerage name, or compensation offers. And the Clear Cooperation Policy got a sharper line on when off-MLS broker conversations count as public marketing.
 
-This isn't NAR housekeeping. The guidance landed two days after the federal lawsuit naming Chicago's MLS. If your MLS filters by any of those prohibited names, it just got told to stop. The private-exclusive playbook also got narrower.
+This isn't NAR housekeeping. The guidance landed two days after the federal lawsuit naming Chicago's MLS. If your MLS filters by any of those prohibited filters, it just got told to stop. The private-exclusive playbook also got narrower.
 
 This week, pull your MLS's IDX and VOW rules. Check whether users can filter by agent or brokerage name, and whether they can filter by compensation. If either, flag it to leadership.
 
