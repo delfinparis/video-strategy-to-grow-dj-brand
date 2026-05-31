@@ -40,7 +40,7 @@ Here's what you do now. This week, pull your MLS's IDX and VOW rules. Check two 
 
 ## Data Source
 
-- **Claim:** "NAR just published the rules... Two days ago"
+- **Claim:** "NAR just spelled out the rules... Two days ago"
   - Source: Real Estate News, "NAR listing guides aim to promote 'clear understanding' of intent," 2026-05-29 ([link](https://www.realestatenews.com/2026/05/29/nar-listing-guides-aim-to-promote-clear-understanding-of-intent)); NAR REALTOR Magazine, "NAR Publishes Guidance on the Use of Listing Filters, Clear Cooperation" ([link](https://www.nar.realtor/magazine/real-estate-news/nar-publishes-guidance-on-the-use-of-listing-filters-clear-cooperation)). NAR released three resources on 2026-05-29.
   - Status: confirmed
   - Note: "Two days ago" is accurate if posted on or around 2026-05-31. Update or generalize to "this week" if posted later.
