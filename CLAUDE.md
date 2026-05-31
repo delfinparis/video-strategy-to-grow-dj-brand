@@ -103,6 +103,31 @@ If a CapCut prompt would be meaningfully better at 350 or 400 characters, flag i
 
 ---
 
+## AI tells: scrub against the field guide before commit
+
+**Scope:** Every script section and every social caption block this repo produces. Reference: [`docs/ai-tells-field-guide.md`](docs/ai-tells-field-guide.md).
+
+**The rule:** Read the field guide mentally before drafting. The vocabulary bans (banned adjectives, verbs, metaphorical nouns, hedging markers, transition phrases, promotional buzzwords, conclusion clichés) apply automatically. The "Used Once" patterns (negative parallelisms, Rule of Three, contrast structure, data-as-character personification, aphoristic closes, triple-word repetition, "Here's the [adjective] part" reveals) must be deployed deliberately and never stacked within the same script.
+
+**Apply at draft time, not as follow-up scrub.** If you catch yourself reaching for "delve," "tapestry," "It's not X, it's Y," or any of the patterns on the field guide list -- pick a different construction before writing it.
+
+**Pre-commit self-audit** (per the field guide's Part 8 checklist):
+
+- Scan every social caption for em dashes (`-` or `--`). Restructure if present.
+- Count "It's not X, it's Y" / "Not just X, but Y" constructions. Max one per script.
+- Count Rule-of-Three constructions (triple lists + triple adjectives + triple-word staccato). Max one per script.
+- Scan against the vocabulary lists in Parts 1 of the field guide.
+- Read the close aloud. If it sounds like a motivational poster, rewrite.
+- Check the action layer count -- if every recent script opens with "Three plays," vary it.
+- Scan for self-answered rhetorical questions.
+- Verify hedging language is intentional, not reflexive.
+
+**If a pattern works hard and earns its place, keep it.** The discipline is about not stacking, not about banishing every rhetorical move. One sharp "It's not X, it's Y" lands; three in the same script reads as AI.
+
+**When the field guide and a script's specific editorial framing conflict:** the field guide wins unless there's a specific reason to override, documented in the script's Production Notes.
+
+---
+
 ## Other project defaults
 
 - **Editorial voice:** Read [`docs/editorial-standards.md`](docs/editorial-standards.md) before drafting any script. Universal rules win over series rules.
