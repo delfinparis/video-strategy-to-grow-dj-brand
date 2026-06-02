@@ -28,13 +28,13 @@ shareable_moment: "Google didn't ask Zillow. They didn't ask NAR."
 Google just jumped into home search. They didn't ask Zillow. They didn't ask NAR.
 
 ### CONTEXT (0:09-0:28)
-This week Google relaunched a test that drops home listings into mobile search. Eight major markets. The data comes through HouseCanary, eXp Realty, and three MLSes. The first time Google ran this test last December, Zillow lost one-point-six billion in market cap in a single day.
+This week Google relaunched a test that drops home listings into mobile search. Eight major markets. The data comes through HouseCanary, eXp Realty, and three MLSes. When Google ran a smaller version of this last December, Zillow lost one-point-six billion in market cap in a single day.
 
 ### WHY IT MATTERS (0:28-0:46)
 This matters even if your listing isn't in the pilot. If Google becomes where buyers default to search, the path from buyer to listing runs through whichever brokerage or MLS feeds Google trusts. Right now, that's a short list. If your brokerage isn't on it, your listing isn't there.
 
 ### CLOSE (0:46-1:00)
-Here's what you do now. Ask your broker one question. Which MLSs and partners feed our listings into Google's pilot. If the answer is "none of them," that's not a problem today. It's going to be one fast.
+Here's what you do now. Ask your broker one question. Which MLSs and partners feed our listings into Google's pilot? If the answer is "none of them," that's not a problem today. It's going to be one fast.
 
 **Estimated Duration:** ~65 seconds | **Word Count:** ~160 words
 
@@ -86,7 +86,7 @@ Google just jumped into home search. They did not ask Zillow. They did not ask N
 
 This week Google relaunched a test that drops home listings directly into mobile search results across eight major markets, including Chicago, Miami, LA, and New York. The data comes through HouseCanary, eXp Realty, and three MLSes (California Regional, San Diego, and the nationwide My State MLS). No Zillow portal. No NAR-coordinated rollout.
 
-The first time Google ran this test last December, Zillow lost roughly $1.6 billion in market cap in a single day. CoStar (Homes.com) fell 6.4%. Rocket (Redfin) fell 2.8%.
+When Google ran a smaller version of this last December, Zillow lost roughly $1.6 billion in market cap in a single day. CoStar (Homes.com) fell 6.4%. Rocket (Redfin) fell 2.8%.
 
 This matters even if your listing is not in the pilot. If Google becomes where buyers default to search, the path from buyer to listing runs through whichever brokerage or MLS feeds Google trusts. Right now, that is a short list. If your brokerage is not on it, your listing is not there.
 
@@ -123,7 +123,7 @@ Google just jumped into home search. They didn't ask Zillow. They didn't ask NAR
 
 This week Google relaunched a test that drops home listings directly into mobile search results across eight major markets, including Chicago, Miami, LA, and New York. The data comes through HouseCanary, eXp Realty, and three MLSes. No Zillow portal. No NAR-coordinated rollout.
 
-The first time Google ran this test last December, Zillow lost roughly $1.6 billion in market cap in a single day. CoStar (Homes.com) fell 6.4%. Rocket (Redfin) fell 2.8%.
+When Google ran a smaller version of this last December, Zillow lost roughly $1.6 billion in market cap in a single day. CoStar (Homes.com) fell 6.4%. Rocket (Redfin) fell 2.8%.
 
 This matters even if your listing isn't in the pilot. If Google becomes where buyers default to search, the path from buyer to listing runs through whichever brokerage or MLS feeds Google trusts. Right now, that's a short list. If your brokerage isn't on it, your listing isn't there.
 
