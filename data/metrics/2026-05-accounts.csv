@@ -1,0 +1,9 @@
+platform,account,account_type,followers,followers_change_pct,impressions_or_views,reach,interactions,posts,period_start,period_end,metric_note,source
+Facebook,Keeping it Real Podcast,biz,9969,1.58,110530,,850,61,2026-05-01,2026-05-31,impressions,metricool
+Instagram,topagentinterviews,biz,643,1.10,5196,,44,33,2026-05-01,2026-05-31,impressions,metricool
+LinkedIn,Keeping It Real Podcast,biz,419,2.20,4210,,279,42,2026-05-01,2026-05-31,impressions,metricool
+TikTok,Keeping It Real Podcast,biz,410,14.53,17900,,498,35,2026-05-01,2026-05-31,impressions(video views),metricool
+YouTube,Keeping It Real Podcast,biz,2480,1.22,12320,,152,63,2026-05-01,2026-05-31,video views,metricool
+Facebook,DJ personal,personal,,,47027,,,,2026-04-21,2026-06-01,views(reel-heavy); 69.5% non-followers,fb-dashboard
+Instagram,delfin.paris,personal,7496,,1185578,593390,2147,,2026-03-04,2026-06-02,views over 90 days; 98.8% non-followers,ig-dashboard
+LinkedIn,DJ personal,personal,,,20680,,,,2026-04-15,2026-06-01,sum of top ~48 posts (floor; tail not shown); top post 6769,linkedin-top-posts
