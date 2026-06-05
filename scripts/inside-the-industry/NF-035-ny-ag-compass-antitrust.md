@@ -15,7 +15,7 @@ length_justification: "Reactive antitrust news with concrete dollar figures (12%
 
 # NY's Attorney General Just Opened an Antitrust Inquiry into Compass
 
-> **WOW: Earned inside-the-industry observation + cost-of-inaction -- five months after Compass closed the largest residential brokerage merger in history, the New York Attorney General opened an antitrust inquiry, and the stock dropped twelve percent in a day. This is bigger than Compass: it's the precedent for state-level antitrust enforcement of brokerage M&A.**
+> **WOW: Earned inside-the-industry observation + cost-of-inaction -- five months after Compass closed the largest residential brokerage merger in history, the New York Attorney General opened an antitrust inquiry, and the stock dropped 12% in a day. This is bigger than Compass: it sets the precedent for state-level antitrust enforcement of residential brokerage M&A.**
 
 **Pillar:** Market Intelligence | **Avatars:** All, Compass agents and brokers in any acquisitive shop especially
 **Filming:** Walk and talk. No demo.
@@ -29,10 +29,10 @@ length_justification: "Reactive antitrust news with concrete dollar figures (12%
 New York's Attorney General just opened an antitrust inquiry into Compass. The stock dropped twelve percent in a day. Most agents don't realize what just changed.
 
 ### CONTEXT (0:10-0:30)
-Five months ago, Compass closed a 1.6 billion dollar merger with Anywhere. Federal regulators let it through. In New York, the combined company is projected to control more than thirty percent of the market. Letitia James opened an inquiry Wednesday. Her antitrust team is already calling top brokerages.
+Five months ago, Compass closed a 1.6 billion dollar merger with Anywhere. Federal regulators let it through. In New York, the combined company is projected to control more than thirty percent of the market. Letitia James opened an inquiry Wednesday. Her antitrust team is already calling top New York brokerages.
 
 ### WHY IT MATTERS (0:30-0:46)
-This is bigger than Compass. The Compass-Anywhere deal was the largest brokerage merger in history. If New York forces divestitures or structural changes, every brokerage planning a roll-up is watching what happens next.
+This is bigger than Compass. The Compass-Anywhere deal was the largest residential brokerage merger in history. If New York forces divestitures or structural changes, every brokerage planning a roll-up is watching what happens next.
 
 ### CLOSE (0:46-1:02)
 Here's what you do now. If you're a Compass agent in New York, ask your leadership what the contingency plan is. If you're at any other brokerage, take notes. State AGs just stepped into residential brokerage M&A. This isn't a one-off.
@@ -105,7 +105,7 @@ New York's Attorney General just opened an antitrust inquiry into Compass. Stock
 
 In New York, the combined company is projected to control 30%+ of the market. Letitia James opened the inquiry Wednesday. Her team is already calling top NY brokerages.
 
-This is bigger than Compass. It was the largest brokerage merger in history. If New York forces divestitures, every brokerage planning a roll-up is watching.
+This is bigger than Compass. It was the largest residential brokerage merger in history. If New York forces divestitures, every brokerage planning a roll-up is watching.
 
 State AGs just stepped into brokerage M&A. This isn't a one-off.
 
