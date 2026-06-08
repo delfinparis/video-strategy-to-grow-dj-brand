@@ -31,6 +31,8 @@ These are the load-bearing claims behind every asset in this folder. Every other
 
 This package gives D.J. Paris a complete pre-built response to one news event, across formats. It is not a system for monitoring future MRED, Compass, or NAR litigation. If this case settles or escalates, the assets in this folder need to be updated; they were produced May 13, 2026, the day after the complaint was filed.
 
+> **Update (2026-05-25):** This content vein led to a direct relationship with Zillow's Industry Relations team. Zillow paid-boosted one of D.J.'s reels to ~171K views and opened a content-pitch + cross-amplification channel. Strategic record: [`../docs/strategy/2026-05-25-zillow-amplification-partnership.md`](../docs/strategy/2026-05-25-zillow-amplification-partnership.md).
+
 ## Voice and editorial discipline applied
 
 All assets were drafted under the constraints in `docs/editorial-standards.md` and `EDITORIAL-VOICE-STANDARDS.md`:
