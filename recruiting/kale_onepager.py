@@ -3,20 +3,29 @@
 Kale Realty one-page recruiting PDF for experienced producers.
 Economics-forward. Cap is the hero. Generates a print/email-ready Letter PDF.
 
+Brand kit scraped from joinkale.com:
+  logo  = recruiting/kale_white_logo.png  (white "kale Realty" wordmark)
+  olive = #303328 (primary)   navy = #002f66 (secondary)   coral = #f46942 (pop)
+
 Run: python3 recruiting/kale_onepager.py
 Out: recruiting/Kale-Realty-Agent-One-Pager.pdf
 """
 
+import os
 from fpdf import FPDF
 
-# ---- Palette -------------------------------------------------------------
-GREEN_DARK = (24, 56, 36)      # deep forest, bands
-GREEN = (58, 122, 67)          # kale green, primary accent
-GREEN_SOFT = (233, 241, 234)   # light fill for rows
-CHARCOAL = (38, 43, 40)        # body text
-GRAY = (112, 122, 114)         # secondary text
-GOLD = (198, 160, 74)          # warm accent on the cap number
+HERE = os.path.dirname(os.path.abspath(__file__))
+LOGO = os.path.join(HERE, "kale_white_logo.png")
+
+# ---- Brand palette (scraped from joinkale.com) --------------------------
+OLIVE = (48, 51, 40)       # #303328 primary, bands
+NAVY = (0, 47, 102)        # #002f66 secondary, cap box + values
+CORAL = (244, 105, 66)     # #f46942 pop accent
+LIGHT = (245, 245, 245)    # #f5f5f5 row fill
+CHARCOAL = (38, 43, 40)
+GRAY = (112, 122, 114)
 WHITE = (255, 255, 255)
+OLIVE_TINT = (190, 193, 182)
 
 # ---- Contact (FILL THESE IN) --------------------------------------------
 CONTACT = {
@@ -25,7 +34,7 @@ CONTACT = {
     "phone": "[ phone ]",
     "email": "[ email ]",
     "booking": "[ booking link ]",
-    "website": "[ kalerealty.com ]",
+    "website": "joinkale.com",
 }
 
 W, H = 215.9, 279.4  # US Letter mm
@@ -36,7 +45,8 @@ def t(s):
     """latin-1 safe: strip glyphs the core fonts can't encode."""
     return (s.replace("—", "-").replace("–", "-")
              .replace("’", "'").replace("‘", "'")
-             .replace("“", '"').replace("”", '"'))
+             .replace("“", '"').replace("”", '"')
+             .replace("·", "-"))
 
 
 class OnePager(FPDF):
@@ -47,11 +57,22 @@ class OnePager(FPDF):
         pass
 
 
-def check(pdf, x, y, color=GREEN):
+def check(pdf, x, y, color=CORAL):
     pdf.set_draw_color(*color)
-    pdf.set_line_width(0.7)
+    pdf.set_line_width(0.8)
     pdf.line(x, y + 1.4, x + 1.3, y + 2.7)
     pdf.line(x + 1.3, y + 2.7, x + 3.4, y - 0.2)
+    pdf.set_line_width(0.2)
+
+
+def section_label(pdf, x, y, text):
+    pdf.set_text_color(*NAVY)
+    pdf.set_font("helvetica", "B", 10)
+    pdf.set_xy(x, y)
+    pdf.cell(0, 5, t(text))
+    pdf.set_draw_color(*CORAL)
+    pdf.set_line_width(0.6)
+    pdf.line(x, y + 5.7, x + 22, y + 5.7)
     pdf.set_line_width(0.2)
 
 
@@ -62,29 +83,25 @@ def main():
     pdf.add_page()
 
     # ===== HEADER BAND =====================================================
-    pdf.set_fill_color(*GREEN_DARK)
+    pdf.set_fill_color(*OLIVE)
     pdf.rect(0, 0, W, 30, "F")
-    # thin accent rule under band
-    pdf.set_fill_color(*GOLD)
-    pdf.rect(0, 30, W, 1.2, "F")
+    pdf.set_fill_color(*CORAL)
+    pdf.rect(0, 30, W, 1.0, "F")
 
-    pdf.set_text_color(*WHITE)
-    pdf.set_font("helvetica", "B", 25)
-    pdf.set_xy(MX, 8)
-    pdf.cell(0, 10, t("KALE REALTY"))
-
-    pdf.set_text_color(190, 214, 194)
-    pdf.set_font("helvetica", "", 8)
-    pdf.set_xy(MX, 19.5)
-    pdf.cell(0, 5, t("I N D E P E N D E N T   C H I C A G O   B R O K E R A G E"))
+    # white logo, vertically centered in the band
+    pdf.image(LOGO, x=MX, y=8.5, h=13)
 
     pdf.set_text_color(*WHITE)
     pdf.set_font("helvetica", "I", 11)
-    pdf.set_xy(W - 95 - MX, 12)
+    pdf.set_xy(W - 95 - MX, 10.5)
     pdf.cell(95, 6, t("Keep more of what you earn."), align="R")
+    pdf.set_text_color(*OLIVE_TINT)
+    pdf.set_font("helvetica", "", 7.5)
+    pdf.set_xy(W - 95 - MX, 17)
+    pdf.cell(95, 5, t("CHICAGO'S 100% COMMISSION BROKERAGE"), align="R")
 
     # ===== HERO ============================================================
-    pdf.set_text_color(*GREEN)
+    pdf.set_text_color(*CORAL)
     pdf.set_font("helvetica", "B", 9)
     pdf.set_xy(MX, 38)
     pdf.cell(0, 5, t("FOR EXPERIENCED PRODUCERS"))
@@ -92,9 +109,9 @@ def main():
     pdf.set_text_color(*CHARCOAL)
     pdf.set_font("helvetica", "B", 22)
     pdf.set_xy(MX, 43.5)
-    pdf.cell(0, 11, t("A 100% commission model"))
+    pdf.cell(0, 11, t("A true 100% commission model,"))
     pdf.set_xy(MX, 53.5)
-    pdf.cell(0, 11, t("with the lowest cap in Chicago."))
+    pdf.cell(0, 11, t("with one of the lowest caps in Chicago."))
 
     pdf.set_text_color(*GRAY)
     pdf.set_font("helvetica", "", 10.5)
@@ -106,10 +123,10 @@ def main():
 
     # ===== CAP HIGHLIGHT ===================================================
     cap_y = 81
-    pdf.set_fill_color(*GREEN)
+    pdf.set_fill_color(*NAVY)
     pdf.rect(MX, cap_y, W - 2 * MX, 28, "F")
 
-    pdf.set_text_color(*GOLD)
+    pdf.set_text_color(*CORAL)
     pdf.set_font("helvetica", "B", 38)
     pdf.set_xy(MX + 6, cap_y + 4.5)
     pdf.cell(58, 20, t("$6,000"))
@@ -142,14 +159,14 @@ def main():
     rh = 10
     for i, (label, val, note) in enumerate(rows):
         if i % 2 == 0:
-            pdf.set_fill_color(*GREEN_SOFT)
+            pdf.set_fill_color(*LIGHT)
             pdf.rect(MX, ry, W - 2 * MX, rh, "F")
         pdf.set_text_color(*CHARCOAL)
         pdf.set_font("helvetica", "B", 11)
         pdf.set_xy(MX + 4, ry + 1.8)
         pdf.cell(60, 6, t(label))
         pdf.set_font("helvetica", "B", 11)
-        pdf.set_text_color(*GREEN)
+        pdf.set_text_color(*NAVY)
         pdf.set_xy(MX + 66, ry + 1.8)
         pdf.cell(48, 6, t(val))
         pdf.set_font("helvetica", "", 9)
@@ -163,7 +180,6 @@ def main():
     colL = MX
     colR = MX + (W - 2 * MX) / 2 + 4
 
-    # Left: flat costs
     section_label(pdf, colL, col_y, "MONTHLY & ANNUAL")
     cost_items = [
         ("$54 / mo", "Training, technology & support"),
@@ -172,7 +188,7 @@ def main():
     ]
     cy = col_y + 8
     for amt, desc in cost_items:
-        pdf.set_text_color(*GREEN)
+        pdf.set_text_color(*NAVY)
         pdf.set_font("helvetica", "B", 12)
         pdf.set_xy(colL, cy)
         pdf.cell(26, 6, t(amt))
@@ -182,7 +198,6 @@ def main():
         pdf.cell(0, 5, t(desc))
         cy += 9.5
 
-    # Right: what's included
     section_label(pdf, colR, col_y, "WHAT'S INCLUDED")
     included = [
         "Custom IDX personal website",
@@ -204,17 +219,17 @@ def main():
 
     # ===== FOOTER BAND =====================================================
     fy = H - 30
-    pdf.set_fill_color(*GREEN_DARK)
+    pdf.set_fill_color(*OLIVE)
     pdf.rect(0, fy, W, 30, "F")
-    pdf.set_fill_color(*GOLD)
-    pdf.rect(0, fy, W, 1.2, "F")
+    pdf.set_fill_color(*CORAL)
+    pdf.rect(0, fy, W, 1.0, "F")
 
     pdf.set_text_color(*WHITE)
     pdf.set_font("helvetica", "B", 13)
     pdf.set_xy(MX, fy + 6)
     pdf.cell(0, 6, t("Let's talk about your move."))
 
-    pdf.set_text_color(210, 224, 213)
+    pdf.set_text_color(*OLIVE_TINT)
     pdf.set_font("helvetica", "B", 10)
     pdf.set_xy(MX, fy + 14)
     pdf.cell(0, 5, t(CONTACT["name"]))
@@ -230,20 +245,9 @@ def main():
     pdf.set_xy(W - 120 - MX, fy + 19)
     pdf.cell(120, 5, t("Book a confidential conversation: " + CONTACT["booking"]), align="R")
 
-    out = "recruiting/Kale-Realty-Agent-One-Pager.pdf"
+    out = os.path.join(HERE, "Kale-Realty-Agent-One-Pager.pdf")
     pdf.output(out)
     print("wrote", out)
-
-
-def section_label(pdf, x, y, text):
-    pdf.set_text_color(*GREEN)
-    pdf.set_font("helvetica", "B", 10)
-    pdf.set_xy(x, y)
-    pdf.cell(0, 5, t(text))
-    pdf.set_draw_color(*GOLD)
-    pdf.set_line_width(0.5)
-    pdf.line(x, y + 5.6, x + 22, y + 5.6)
-    pdf.set_line_width(0.2)
 
 
 if __name__ == "__main__":
