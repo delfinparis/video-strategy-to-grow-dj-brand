@@ -8,7 +8,7 @@ content_pillar: "market_intelligence"
 post_date: "TBD"
 status: "draft"
 time_sensitive: "Medium-high -- 2026 insurance trend is hot now. Pattern is strengthening month-over-month, so the script lands strongest in Q2-Q3 2026."
-shareable_moment: "The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers explaining what happened."
+shareable_moment: "The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers to explain what happened."
 length_justification: "Stat-dense piece with three concrete dollar figures, the exact dynamic (2-3x quote shocks), and the precise tactical move (insurance quote within 48 hours of any serious showing). Each beat is load-bearing."
 ---
 
@@ -20,7 +20,7 @@ length_justification: "Stat-dense piece with three concrete dollar figures, the 
 **Filming:** Walk and talk. No demo.
 
 ## Shareable Moment
-> "The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers explaining what happened."
+> "The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers to explain what happened."
 
 ## Script (~68 seconds, walk and talk)
 
@@ -34,7 +34,7 @@ Homeowner's insurance premiums are up over twenty percent year-over-year in many
 Most agents wait to run the insurance until the buyer's under contract. By then your buyer has fallen in love with the house, you've spent two weeks on inspections, and when the quote shocks them, you don't have time to restructure. You have a dead deal.
 
 ### CLOSE (0:46-1:06)
-Here's what you do now. Get an insurance quote within forty-eight hours of every showing your buyer takes seriously. Build it into your buyer onboarding next to lender pre-approval. The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers explaining what happened.
+Here's what you do now. Get an insurance quote within forty-eight hours of every showing that could turn into an offer. Build it into your buyer onboarding next to lender pre-approval. The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers to explain what happened.
 
 **Estimated Duration:** ~68 seconds | **Word Count:** ~175 words
 
@@ -96,9 +96,9 @@ Most agents wait to run the insurance until the buyer is under contract. By then
 
 Here is the move.
 
-Get an insurance quote within 48 hours of any showing your buyer takes seriously. Not at closing. Within two days of touring. Build it into your buyer onboarding next to lender pre-approval.
+Get an insurance quote within 48 hours of any showing that could turn into an offer. Not at closing. Within two days of touring. Build it into your buyer onboarding next to lender pre-approval.
 
-The agents who run insurance early are not losing deals at week six. The ones who do not are calling their buyers explaining what happened.
+The agents who run insurance early are not losing deals at week six. The ones who do not are calling their buyers to explain what happened.
 
 **Hashtags:** #RealEstate #HomeInsurance #BuyersAgent #RealEstateAgent #ClosingDay #RealtorLife #RealEstateNews #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
 
@@ -112,9 +112,9 @@ The buyer's debt-to-income flips. The deal dies. Or the buyer walks.
 
 Most agents wait to run insurance until the buyer's under contract. By then it's too late.
 
-The move: get an insurance quote within 48 hours of every showing your buyer takes seriously. Build it into onboarding next to lender pre-approval.
+The move: get an insurance quote within 48 hours of every showing that could turn into an offer. Build it into onboarding next to lender pre-approval.
 
-The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers explaining what happened.
+The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers to explain what happened.
 
 **Hashtags:** #realestate #homeinsurance #buyersagent #realestateagent #closingday #realtorlife #realestatenews #chicagorealestate #keepingitrealpodcast #insidetheindustry #realtortips
 
@@ -137,9 +137,9 @@ Most agents wait to run the insurance until the buyer's under contract. By then 
 
 Here's the move.
 
-Get an insurance quote within 48 hours of every showing your buyer takes seriously. Build it into your buyer onboarding next to lender pre-approval.
+Get an insurance quote within 48 hours of every showing that could turn into an offer. Build it into your buyer onboarding next to lender pre-approval.
 
-The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers explaining what happened.
+The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers to explain what happened.
 
 **Hashtags:** #RealEstate #HomeInsurance #BuyersAgent #RealEstateAgent #RealtorLife #ChicagoRealEstate
 
@@ -149,6 +149,6 @@ Your next deal isn't dying at the appraisal. It's dying at the insurance quote.
 
 Premiums up 20%+ YoY in many states. Quotes coming in at 2-3x expectations. DTI flips. Deal dies. Buyer walks.
 
-The move: insurance quote within 48 hours of any showing your buyer takes seriously. Not at closing.
+The move: insurance quote within 48 hours of any showing that could turn into an offer. Not at closing.
 
 **Hashtags:** #RealEstate #HomeInsurance #BuyersAgent
