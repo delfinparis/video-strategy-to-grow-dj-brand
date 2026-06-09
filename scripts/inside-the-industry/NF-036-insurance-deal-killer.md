@@ -62,7 +62,7 @@ Here's what you do now. Get an insurance quote within forty-eight hours of every
   - Source: Standard mortgage underwriting math. When insurance premium triples in escrow, the buyer's monthly PITI rises by hundreds, which can push DTI past lender thresholds and trigger loan-fail or buyer-back-out. Documented in Brokers Bridge and HousingWire coverage.
   - Status: confirmed (mechanism, not a stat)
 
-- **Claim:** "Get an insurance quote within forty-eight hours of every showing your buyer takes seriously"
+- **Claim:** "Get an insurance quote within forty-eight hours of every showing that could turn into an offer"
   - Source: D.J. Paris's tactical guidance. Not a stat -- this is the systematizing move the script exists to deliver.
   - Status: tactical guidance, not a stat claim
 
