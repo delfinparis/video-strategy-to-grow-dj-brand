@@ -29,13 +29,13 @@ companion_to: "IS-005 (Two Kinds of AI) covered generative vs agentic. NF-041 co
 NAR just picked six startups for their AI accelerator. Notice what's missing. Not one of them is a new consumer search platform.
 
 ### CONTEXT (0:10-0:30)
-Two weeks ago, Second Century Ventures, NAR's investment arm, selected the 2026 REACH cohort. Six companies. Five are AI tools for brokerages. Compliance automation. Workflow integration. AI teammates that handle admin and training. The sixth is a manufactured-housing platform.
+Two weeks ago, Second Century Ventures, NAR's investment arm, selected the 2026 REACH cohort. Six companies. Five are AI and workflow tools for brokerages: compliance automation, workflow integration, AI teammates that handle admin and training. The sixth is a manufactured-housing platform.
 
 ### WHY IT MATTERS (0:30-0:48)
 NAR is telling you where they think the next fight is. Not consumer-facing portals. That lane is locked. Zillow, Compass, Realtor.com already own it. The next innovation is inside the brokerage. The agent who wins isn't the one with more leads. It's the one whose back office runs without them touching it.
 
 ### CLOSE (0:48-1:04)
-Here's what you do now. Three names worth knowing: BrokerBot, MaxHome.ai, and AiRE. These will start showing up at your brokerage in the next year. NAR is betting they win. You don't have to agree, but you should know who's coming before the sales call.
+Here's what you do now. Three names worth knowing: BrokerBot, MaxHome.ai, and AiRE. These will start showing up at your brokerage in the next year. NAR backed them. You don't have to agree, but you should know who's coming before the sales call.
 
 **Estimated Duration:** ~66 seconds | **Word Count:** ~170 words
 
