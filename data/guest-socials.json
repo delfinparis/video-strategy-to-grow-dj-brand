@@ -1,0 +1,4 @@
+{
+  "_comment": "Cache of podcast guest social handles, keyed by normalized guest name. The daily promo routine reads this first; if a guest is missing it web-searches and writes the result back. Handles feed the promo @-tags and hashtags.",
+  "guests": {}
+}
