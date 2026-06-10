@@ -1,4 +1,12 @@
 publish_date,script_id,surfaces_skipped,notes
+2026-03-24,webinar-promo-01-first-200-free,,auto-matched from YT [high]; vid fCLdJyFiByU
+2026-03-24,013-youre-not-stuck-because-you-dont-know-enough,,auto-matched from YT [high]; vid pn7QoWzw5lE
+2026-03-25,REVIEW-no-match,,auto-match failed; YT 'Zillow Just Changed Pre-Market Listings Forever'; vid H9AZCwPUWRk; Zillow preview pre-market listings -- no script in scripts/ (new topic)
+2026-03-26,012a-people-can-tell-ai-wrote-it,,auto-matched from YT [high]; vid my-JpJa-1b8
+2026-03-30,REVIEW-no-match,,auto-match failed; YT 'Real Estate Agent: $2B Sales Secret (Started at Home Depot)'; vid YIHWBJl7fig; podcast promo (Chase Craig KIR guest) -- no repo script
+2026-03-31,034-zillow-saved-his-team,,auto-matched from YT [low]; vid 2XfHfC0c07E
+2026-03-31,REVIEW-no-match,,auto-match failed; YT 'AI Webinar For Real Estate Professionals'; vid 9lg-HbgrhyM; generic AI-webinar promo -- confirm which webinar-promo script
+2026-04-02,008-top-producers-arent-more-disciplined-they-have,,auto-matched from YT [high]; vid IXwKP7J7Srk
 2026-04-04,018-ai-negotiation-simulator,,backfilled from master-calendar; reel -- confirm posted
 2026-04-06,019-prospecting-scripts-in-your-voice,,backfilled from calendar; confirm
 2026-04-07,019-triggers-are-mirrors,,backfilled; confirm
@@ -6,24 +14,63 @@ publish_date,script_id,surfaces_skipped,notes
 2026-04-09,020a-reps-over-strategy,,backfilled; confirm
 2026-04-10,021-prep-listing-appointments-with-ai,,backfilled; confirm
 2026-04-10,NF-001-nar-tuccori-settlement-52-million,,posted (confirmed 2026-04-19) -- Personal LinkedIn primary
+2026-04-10,NF-001-nar-tuccori-settlement-52-million,,auto-matched from YT [high]; vid RmF2Ww2bszQ
+2026-04-10,REVIEW-no-match,,auto-match failed; YT 'Real Estate Agents at Heartland Association - This Is For You'; vid yI4DE8yAMG8; Heartland Association targeted promo -- no repo script
 2026-04-11,021a-postcards-ten-months-zero-calls,,backfilled; confirm
 2026-04-12,NF-002-commissions-were-supposed-to-drop,,posted (confirmed 2026-04-19)
 2026-04-13,022a-stop-fixing-start-doubling-down,,backfilled; confirm
+2026-04-13,IS-002-the-6-percent-club,,auto-matched from YT [high]; vid Low-t40lbr8
 2026-04-14,022a-losing-the-deal-before-they-tell-you,,backfilled; confirm
 2026-04-14,NF-003-the-470-million-question,,posted (confirmed 2026-04-19)
+2026-04-14,NF-003-the-470-million-question,,auto-matched from YT [high]; vid p7BR0BJg0z4
 2026-04-15,023-find-your-niche-with-ai,,backfilled; confirm
+2026-04-15,023-find-your-real-estate-niche-with-ai-be-the,,auto-matched from YT [med]; vid ZmxHgTOFx7k
 2026-04-16,023a-your-brain-is-sabotaging-your-calls,,backfilled; confirm
 2026-04-16,NF-004-the-batton-case-is-still-out-there,,posted (confirmed 2026-04-19) -- premium-audited version
 2026-04-17,024a-your-best-clients-deserve-more,,backfilled; confirm
+2026-04-17,NF-004-the-batton-case-is-still-out-there,,auto-matched from YT [high]; vid SrY38bxilO0
 2026-04-19,NF-005-elliman-quietly-settled-too,,scheduled for today (Sun Apr 19) -- originally dated Sat Apr 18; last pre-pivot IIR post before new cadence begins Tue Apr 21
+2026-04-22,064a-stop-letting-chatgpt-write-your-emails,,auto-matched from YT [high]; vid m4MWS0UD2wc
+2026-04-22,NF-008-exp-zillow-respa-next-wave,,auto-matched from YT [high]; vid Y3I28XTLbBI
+2026-04-24,bonus-002-mred-day1-zillow-redfin-trouble,,auto-matched from YT [high]; vid HrU5Oj6xf5g
+2026-04-28,057-one-company-now-controls-one-in-five-agents-in,,auto-matched from YT [high]; vid ArB5r5StDNg
+2026-04-29,NF-010-chicago-arbitrage-window,,auto-matched from YT [high]; vid A9RaKKBXQpg
+2026-05-01,NF-011-hud-crime-schools-permission,,auto-matched from YT [high]; vid Yj3nYIyevg0
+2026-05-02,IA-008-capital-gains-next-fight,,auto-matched from YT [high]; vid O7Lommm2qfI
+2026-05-04,NF-012-remax-mad-at-wrong-people,,auto-matched from YT [high]; vid 3z_IHxQe8vk
+2026-05-05,NF-013-compass-economist-disappointing,,auto-matched from YT [high]; vid CNnFJ5ffm4c
+2026-05-06,NF-010-nar-budget-1-in-5,,auto-matched from YT [high]; vid FY3BMLtM-5s
+2026-05-07,065-listing-presentations-dont-matter,,auto-matched from YT [high]; vid 0s1-3D24HCk
+2026-05-07,REVIEW-no-match,,auto-match failed; YT 'My Brokerage Loses $20K a Year On Purpose. Here's Why.'; vid G7vfut0VUvU; Kale $54/mo brokerage-model story -- no repo script
+2026-05-08,NF-013-jobs-report-listings-map,,auto-matched from YT [high]; vid h5TSpD6tlAY
+2026-05-11,NF-014-ai-killed-the-slow-agent,,auto-matched from YT [high]; vid bDn7ft4Cm_U
+2026-05-12,REVIEW-no-match,,auto-match failed; YT 'Zillow Sued MRED. Here's What Actually Changes for Your Business This Week.'; vid INmKsRgW_40; Zillow v MRED lawsuit 5/12 -- script likely in zillow-mred-compass-may-2026/ (outside scripts/)
+2026-05-13,NF-016-warsh-confirmed-fed-doesnt-set-mortgage-rates,,auto-matched from YT [high]; vid BfOvwSClkfE
+2026-05-14,NF-017-spring-snap-back-no-listings,,auto-matched from YT [high]; vid CY5svDAV3LU
+2026-05-15,NF-024-dual-agency-hurts-sellers,,auto-matched from YT [high]; vid 0D6aL3_gyqc
+2026-05-15,NF-023-off-market-sells-for-less,,auto-matched from YT [high]; vid oU4Q5N4Hvhs
+2026-05-17,NF-025-every-year-every-state-not-a-fluke,,auto-matched from YT [high]; vid FAsy5nH3-JY
+2026-05-17,NF-021-buyer-wants-to-write-on-your-listing,,auto-matched from YT [high]; vid tiVPAclj-Gs
+2026-05-18,NF-020-off-mls-1-3-billion-parallel,,auto-matched from YT [high]; vid ZtnQPOiZ_5c
+2026-05-18,REVIEW-no-match,,auto-match failed; YT 'MRED Pulled the Zillow Feed: Here's How Chicago Agents Get Their Listings Back'; vid _sST6x1WWtg; MRED pulled Zillow feed -- script likely in zillow-mred-compass-may-2026/ (outside scripts/)
+2026-05-19,NF-026-open-houses-4-percent,,auto-matched from YT [high]; vid DeduP9yWErM
+2026-05-19,2026-05-18-ai-webinar-last-call,,auto-matched from YT [high]; vid JQFl7r3VrZQ
+2026-05-21,breakthrough-with-michael-ep1-emma-cta,,auto-matched from YT [high]; vid Idw5NlIboDg
+2026-05-22,REVIEW-no-match,,auto-match failed; YT 'A Judge Just Ordered Chicago's MLS to Turn Zillow Back On'; vid v82MZalnDck; judge ordered Zillow back on -- script likely in zillow-mred-compass-may-2026/ (outside scripts/)
+2026-05-24,NF-030-everybody-experimenting-nobody-shipping-ai,,auto-matched from YT [high]; vid gAtoDy9ZCA8
+2026-05-25,NF-029-one-city-two-markets,,auto-matched from YT [high]; vid nUBEjuL_an4
+2026-05-25,REVIEW-no-match,,auto-match failed; YT '43 000 Chicago Listings Vanished Off Zillow. A Judge Put Them Back.'; vid udCCaBz3J1M; 43000 listings restored -- script likely in zillow-mred-compass-may-2026/ (outside scripts/)
+2026-05-27,NF-041-compass-billboard-private-listings,,auto-matched from YT [high]; vid FO_yIfzz28M
+2026-05-28,NF-037-the-rate-trap,,auto-matched from YT [high]; vid ipZneiAAk0I
+2026-05-28,NF-044-72-percent-ai-no-system,,auto-matched from YT [high]; vid A_7hpGGqJYk
+2026-05-29,NF-042-rates-highest-since-august-sellers,,auto-matched from YT [med]; vid NSeCjkUO4Yk
+2026-05-30,IS-006-your-next-listing-already-posted,,auto-matched from YT [high]; vid SZwx5H0QSPs
 2026-06-01,NF-038-nar-listing-filter-rules,,auto-matched from YT [high]; vid qQbhmPJxT0E
 2026-06-01,REVIEW-no-match,,auto-match failed; YT 'Why 85% of Realtors Are Missing the TikTok Window'; vid xE4i17qPbqs; no repo script -- likely new/unscripted
 2026-06-02,NF-039-google-home-search-zillow,,auto-matched from YT [high]; vid AXBwnoRcoTI
 2026-06-03,NF-021-realtor-com-realassist-ai,,auto-matched from YT [high]; vid 3lNsDjtKKA0
 2026-06-03,NF-034-chicago-homegrown-grant,,auto-matched from YT [high]; vid XNyKEqsoy-g
-2026-06-03,REVIEW-no-match,,auto-match failed; YT 'Staying top-of-mind with past clients'; vid -7S7txPWr5k; conversational podcast clip -- no walk-and-talk script
 2026-06-04,PB-004-prospecting-facebook-referrals-linkedin,,auto-matched from YT [high]; vid ACjApSvNYzQ
-2026-06-04,REVIEW-no-match,,auto-match failed; YT 'The Simple Habit of Top-Performing Realtors'; vid -xw8SW_ZC8E; conversational podcast clip -- no script
 2026-06-05,NF-035-ny-ag-compass-antitrust,,auto-matched from YT [high]; vid BLh9QmqmNfs
 2026-06-06,REVIEW-no-match,,auto-match failed; YT 'I Defended Zillow All Month. Then Congress Sent This Letter.'; vid s4Mft7QcS90; no repo script -- likely new/unscripted
 2026-06-08,NF-010-chicago-arbitrage-window,,auto-matched from YT [med-high; title variant 'Chicago Just Beat the National Market by 7x']; vid Pr181Dk0DbE

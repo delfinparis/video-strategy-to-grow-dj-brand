@@ -114,6 +114,13 @@ def fetch_caption_vtt(video_id, tmp_dir):
     return matches[0] if matches else None
 
 
+def iso_date(upload_date):
+    """'20260610' -> '2026-06-10'; anything malformed -> 'unknown-date'."""
+    if upload_date and len(upload_date) == 8 and upload_date.isdigit():
+        return f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:8]}"
+    return "unknown-date"
+
+
 _TAG_RE = re.compile(r"<[^>]+>")           # inline <00:00:00.000> word timing tags
 _BRACKET_RE = re.compile(r"\[[^\]]*\]")    # [music], [Applause], etc.
 
@@ -147,7 +154,11 @@ def clean_vtt(vtt_path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=30,
-                    help="how many recent Shorts to scan (default 30)")
+                    help="how many recent Shorts to scan (default 30; "
+                         "raise it for a backfill, e.g. --limit 300)")
+    ap.add_argument("--since", default=None, metavar="YYYY-MM-DD",
+                    help="only process videos uploaded on/after this date "
+                         "(for backfills). Scans stop once older videos are hit.")
     ap.add_argument("--dry-run", action="store_true",
                     help="list new videos but don't write transcripts/state")
     args = ap.parse_args()
@@ -157,11 +168,27 @@ def main():
 
     seen = load_seen()
     recent = list_recent_video_ids(args.limit)
-    new_ids = [v for v in recent if v not in seen]
 
-    if not new_ids:
+    # Build the work list of (video_id, upload_date, title). With --since we must
+    # fetch metadata in reverse-chronological order and stop at the cutoff; without
+    # it we keep the fast path and fetch metadata lazily in the processing loop.
+    candidates = []
+    for video_id in recent:
+        if args.since:
+            upload_date, title = fetch_metadata(video_id)
+            if iso_date(upload_date) != "unknown-date" and iso_date(upload_date) < args.since:
+                break  # reverse chronological: everything after is older
+            if video_id in seen:
+                continue
+            candidates.append((video_id, upload_date, title))
+        else:
+            if video_id in seen:
+                continue
+            candidates.append((video_id, None, None))
+
+    if not candidates:
         print(json.dumps({"new_count": 0, "items": []}, indent=2))
-        print(f"\nNo new Shorts since last sync ({len(recent)} scanned, "
+        print(f"\nNo new Shorts to process ({len(recent)} scanned, "
               f"{len(seen)} already processed).", file=sys.stderr)
         return
 
@@ -169,8 +196,9 @@ def main():
     tmp_dir.mkdir(exist_ok=True)
 
     manifest = []
-    for video_id in new_ids:
-        upload_date, title = fetch_metadata(video_id)
+    for video_id, upload_date, title in candidates:
+        if upload_date is None:
+            upload_date, title = fetch_metadata(video_id)
         url = f"https://www.youtube.com/watch?v={video_id}"
 
         transcript = ""
@@ -179,8 +207,7 @@ def main():
             transcript = clean_vtt(vtt)
             vtt.unlink(missing_ok=True)
 
-        date_iso = (f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:8]}"
-                    if upload_date and len(upload_date) == 8 else "unknown-date")
+        date_iso = iso_date(upload_date)
 
         rel_path = None
         if not args.dry_run:

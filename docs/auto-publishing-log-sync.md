@@ -27,6 +27,9 @@ State and transcripts are **committed to git on purpose** - the biweekly run hap
 
 For each new transcript in the manifest:
 
+0. **Classify first: walk-and-talk or podcast snippet?** The channel's Shorts tab mixes two kinds of video. We only track **walk-and-talks** (D.J. solo, scripted, direct-addressing agents with a distinctive hook). We **ignore podcast snippets** - clips cut from long-form Keeping It Real / Coffee Talk episodes (conversational, interview dialogue, multiple speakers, first-person anecdotes, references to "my guest" or "on this episode", reads like the middle of a conversation).
+   - If it's a **snippet**: do NOT add a publishing-log row. Append `{video_id, upload_date, title, reason}` to `data/transcripts/.ignored-snippets.json`, delete its transcript `.txt` (keep `data/transcripts/` walk-and-talks only), and move on. It stays in `.seen-videos.json` so it is never re-evaluated.
+   - If it's a **walk-and-talk**: continue to matching.
 1. Read the transcript file. The **first spoken line is the scroll-stopper hook** - it is deliberately distinctive and is the strongest match signal.
 2. Match against the script library. Order of signals:
    - **Title:** the YouTube title is usually the exact `title:` frontmatter of a script. Grep frontmatter titles first.
@@ -54,6 +57,6 @@ Then surface a short summary: how many matched, and a list of any `REVIEW-no-mat
 ## Notes / known edges
 
 - **Multiple posts per day:** D.J. often posts 2-3 Shorts in a day. Each gets its own row (same date, different `script_id`, distinct `vid`). The current `analyze_posts.py` Metricool join is by date - reconciling multi-post days against Metricool's by-date export is a separate follow-up.
-- **Podcast clips:** conversational Coffee Talk / KIR clips posted as Shorts won't match a walk-and-talk script. Flag them `REVIEW-no-match`.
+- **Podcast clips are dropped, not flagged.** Conversational Coffee Talk / KIR snippets are not walk-and-talks - they go to `.ignored-snippets.json`, never to the publishing log. `REVIEW-no-match` is only for genuine walk-and-talks that have no matching repo script yet (a fresh/unscripted topic).
 - **Cloud env needs yt-dlp:** the routine installs it first (`pip install -U yt-dlp` or `brew install yt-dlp`).
 - **Caption lag:** YouTube auto-captions settle within minutes to a few hours of upload. The biweekly cadence means everything is long settled.

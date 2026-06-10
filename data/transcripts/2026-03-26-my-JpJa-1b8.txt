@@ -1,0 +1,7 @@
+# Your Clients Can Tell AI Wrote That (Here's the Fix)
+video_id: my-JpJa-1b8
+url: https://www.youtube.com/watch?v=my-JpJa-1b8
+upload_date: 2026-03-26
+caption_status: ok
+------------------------------------------------------------
+People can tell when AI wrote your content and they trust it less when they can. You ask AI to write a post about real estate and wonder why it sounds like every other AI generated post in the feed. Generic AI content doesn't just fail to help, it signals that nobody cared enough to actually show up. Most agents use AI to replace their voice. Top producers use it to amplify it. There's a massive difference. Here's the fix. Paste five of your own emails or posts into Claude and say learn my voice, then write my next market update in that style. Remove AI speak and AI characters like that AI long dash that nobody uses. Night and day difference. See you next time.

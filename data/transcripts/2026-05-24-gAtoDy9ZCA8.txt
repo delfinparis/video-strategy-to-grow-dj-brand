@@ -1,0 +1,7 @@
+# Everybody's Experimenting With AI. Almost Nobody's Shipping.
+video_id: gAtoDy9ZCA8
+url: https://www.youtube.com/watch?v=gAtoDy9ZCA8
+upload_date: 2026-05-24
+caption_status: ok
+------------------------------------------------------------
+62% of companies say they're experimenting with AI agents. 23% have actually scaled one. That gap is the whole story. So, those are McKinsey's latest numbers, and in real estate specifically, McKinsey says agentic AI, tools that run a workflow instead of just writing you a paragraph, could unlock up to $550 billion in value. Now, most agents are still in that 62. &gt;&gt; &gt;&gt; I downloaded ChatGPT. I feel modern. But, experimenting feels like progress, but it isn't. Um a listing description with AI is table stakes now. Everybody's doing that. The agents pulling ahead have something running without them. Follow-up that fires on its own, leads sorted before they wake up. That's the 23%. So, today, pick one task you do every single day that you hate. Just one. Maybe it's a follow-up text, CMA prep, uh new leads. This week, hand that one task to a tool and let it run. Don't dabble in 10 things, ship one. That's the jump from 62 to 23. Everybody's experimenting, almost nobody's shipping. Be the exception.
