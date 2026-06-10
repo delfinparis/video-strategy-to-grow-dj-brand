@@ -10,7 +10,7 @@ status: "draft"
 time_sensitive: "High -- inquiry became public Wednesday 2026-06-03. Film and post within 5 days while 'Wednesday' is still accurate in spoken delivery."
 shareable_moment: "State AGs just stepped into residential brokerage M&A. This isn't a one-off."
 companion_to: "NF-027 (Compass billboard / consumer-call angle), NF-032 (NAR Policy 8.5 clarifier), NF-033 (Google home search). All four pieces of the same fracturing-home-search arc with Compass at the center. Space them at least 4-5 days apart."
-length_justification: "Reactive antitrust news with concrete dollar figures (12% stock drop, $1.6B merger, 30% market share projection) and a high-stakes downstream implication (state AG precedent for residential brokerage M&A). Each beat is load-bearing."
+length_justification: "Reactive antitrust news with concrete dollar figures (12% stock drop, $4.2B merger, 30% market share projection) and a high-stakes downstream implication (state AG precedent for residential brokerage M&A). Each beat is load-bearing."
 ---
 
 # NY's Attorney General Just Opened an Antitrust Inquiry into Compass
@@ -29,7 +29,7 @@ length_justification: "Reactive antitrust news with concrete dollar figures (12%
 New York's Attorney General just opened an antitrust inquiry into Compass. The stock dropped twelve percent in a day. Most agents don't realize what just changed.
 
 ### CONTEXT (0:10-0:30)
-Five months ago, Compass closed a 1.6 billion dollar merger with Anywhere. Federal regulators let it through. In New York, the combined company is projected to control more than thirty percent of the market. Letitia James opened an inquiry Wednesday. Her antitrust team is already calling top New York brokerages.
+Five months ago, Compass closed a 4.2 billion dollar merger with Anywhere. Federal regulators let it through. In New York, the combined company is projected to control more than thirty percent of the market. Letitia James opened an inquiry Wednesday. Her antitrust team is already calling top New York brokerages.
 
 ### WHY IT MATTERS (0:30-0:46)
 This is bigger than Compass. The Compass-Anywhere deal was the largest residential brokerage merger in history. If New York forces divestitures or structural changes, every brokerage planning a roll-up is watching what happens next.
@@ -49,9 +49,10 @@ Here's what you do now. If you're a Compass agent in New York, ask your leadersh
   - Source: HousingWire 2026-06-03 and corroborating coverage. Compass shares fell 12% to $7.61 on Wednesday, June 3, 2026 after the news broke.
   - Status: confirmed (close-of-day stock drop; exact intraday figures may vary)
 
-- **Claim:** "Five months ago, Compass closed a 1.6 billion dollar merger with Anywhere"
-  - Source: Multiple. The Compass-Anywhere merger closed in January 2026 at a deal value reported around $1.6 billion. Cleared the federal Hart-Scott-Rodino antitrust waiting period without challenge.
+- **Claim:** "Five months ago, Compass closed a 4.2 billion dollar merger with Anywhere"
+  - Source: Compass-Anywhere merger closed Friday, 2026-01-09. Enterprise value $4.2 billion (Compass paid ~$1.6 billion in stock and assumed ~$2.6 billion in Anywhere debt). Combined entity reported at roughly $10 billion. Cleared the federal Hart-Scott-Rodino antitrust waiting period without challenge. Sources include The Real Deal, "Compass-Anywhere merger dodges antitrust concerns for speedy closing" (2026-01-09) ([link](https://therealdeal.com/national/2026/01/09/compass-anywhere-merger-has-closed-heres-what-to-know/)); SEC Form 8-K filings.
   - Status: confirmed
+  - **Important precision note:** The $4.2 billion figure is the standard industry framing (enterprise value). The script previously cited $1.6 billion, which was the stock portion only -- technically true but materially understated the deal in the antitrust context. Corrected to $4.2B across the spoken script and all captions.
 
 - **Claim:** "In New York, the combined company is projected to control more than thirty percent of the market"
   - Source: Capstone policy research analysis (November 2025) cited across coverage. Combined entity projected to control 30%+ of the New York market, with particular concentration in luxury segments.
@@ -59,7 +60,7 @@ Here's what you do now. If you're a Compass agent in New York, ask your leadersh
   - Note: The 30%+ figure is a Capstone projection of the combined entity's expected market share, not a current measured share. The spoken script says "projected" to keep the precision honest.
 
 - **Claim:** "The Compass-Anywhere deal was the largest brokerage merger in history"
-  - Source: Industry consensus across coverage of the deal. Compass acquired Anywhere Real Estate (formerly Realogy, parent of Coldwell Banker, Sotheby's International Realty, Better Homes & Gardens Real Estate, NRT, and other brands) for ~$1.6 billion, creating the largest residential brokerage entity by transaction volume in U.S. history.
+  - Source: Industry consensus across coverage of the deal. Compass acquired Anywhere Real Estate (formerly Realogy, parent of Coldwell Banker, Sotheby's International Realty, Better Homes & Gardens Real Estate, NRT, and other brands) for ~$4.2 billion enterprise value (combined entity at ~$10 billion), creating the largest residential brokerage entity by transaction volume in U.S. history with ~340,000 agents combined and $415 billion in 2024 deal volume.
   - Status: confirmed (industry framing, consistent across sources)
 
 - **Series continuity:**
@@ -85,7 +86,7 @@ Here's what you do now. If you're a Compass agent in New York, ask your leadersh
 **Caption:**
 New York's Attorney General just opened an antitrust inquiry into Compass. The stock dropped 12% in a single day. Most agents do not realize what just changed.
 
-Five months ago, Compass closed its $1.6 billion merger with Anywhere. Federal regulators cleared the Hart-Scott-Rodino review without challenge.
+Five months ago, Compass closed its $4.2 billion merger with Anywhere. Federal regulators cleared the Hart-Scott-Rodino review without challenge.
 
 This Wednesday, June 3, NY Attorney General Letitia James opened an antitrust inquiry into the deal's effect in New York, where the combined entity is projected to control more than 30% of the market. Her antitrust division is already reaching out to leaders at top New York brokerages.
 
@@ -101,7 +102,7 @@ If you are a Compass agent in New York, ask your leadership what their contingen
 **Caption:**
 New York's Attorney General just opened an antitrust inquiry into Compass. Stock dropped 12% in a day.
 
-5 months ago, Compass closed a $1.6B merger with Anywhere. Federal regulators waved it through.
+5 months ago, Compass closed a $4.2B merger with Anywhere. Federal regulators waved it through.
 
 In New York, the combined company is projected to control 30%+ of the market. Letitia James opened the inquiry Wednesday. Her team is already calling top NY brokerages.
 
@@ -117,14 +118,14 @@ State AGs just stepped into brokerage M&A. This isn't a one-off.
 
 ### YouTube Shorts
 **Title:** NY Attorney General Opens Antitrust Inquiry into Compass
-**Description:** Five months after Compass closed its $1.6 billion merger with Anywhere, New York Attorney General Letitia James has opened an antitrust inquiry into the combined company's New York footprint. Compass stock dropped 12% on Wednesday. The combined entity is projected to control more than 30% of the New York market. D.J. Paris on why this is bigger than Compass and the precedent it sets for state-level antitrust enforcement of residential brokerage M&A.
+**Description:** Five months after Compass closed its $4.2 billion merger with Anywhere, New York Attorney General Letitia James has opened an antitrust inquiry into the combined company's New York footprint. Compass stock dropped 12% on Wednesday. The combined entity is projected to control more than 30% of the New York market. D.J. Paris on why this is bigger than Compass and the precedent it sets for state-level antitrust enforcement of residential brokerage M&A.
 **Hashtags:** #shorts #realestate #compass #anywhere #antitrust #realestatenews #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
 New York's Attorney General just opened an antitrust inquiry into Compass. The stock dropped 12% in a single day. Most agents don't realize what just changed.
 
-Five months ago, Compass closed its $1.6 billion merger with Anywhere. Federal regulators let it through.
+Five months ago, Compass closed its $4.2 billion merger with Anywhere. Federal regulators let it through.
 
 In New York, the combined company is projected to control more than 30% of the market. Letitia James opened the inquiry Wednesday, June 3. Her antitrust team is already reaching out to top NY brokerages.
 
@@ -140,7 +141,7 @@ NY's Attorney General just opened an antitrust inquiry into Compass.
 
 Stock dropped 12% in a day.
 
-Five months ago Compass closed a $1.6B merger with Anywhere. Federal cleared it. In NY, the combined company is projected to control 30%+ of the market.
+Five months ago Compass closed a $4.2B merger with Anywhere. Federal cleared it. In NY, the combined company is projected to control 30%+ of the market.
 
 State AGs just stepped into brokerage M&A. Not a one-off.
 
