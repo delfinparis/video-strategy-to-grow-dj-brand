@@ -2,40 +2,40 @@
 series: "Inside the Industry"
 type: "reactive"
 script_number: "NF-040"
-title: "The Chicago Fight Isn't a Chicago Fight Anymore"
-avatar: "All -- brokers especially"
+title: "Your MLS Just Picked a Side. That's Not Its Job."
+avatar: "All -- brokers and MLS committee members especially"
 content_pillar: "market_intelligence"
 post_date: "TBD"
 status: "draft"
-time_sensitive: "High -- Realtracs deadline lapsed 2026-06-08 with negotiations ongoing. Pattern is replicating in real time. Post within 5 days while the story is live."
-shareable_moment: "The Chicago fight isn't a Chicago fight anymore. Compass is winning MLSes to its side one at a time."
-length_justification: "Reactive trend piece -- needs the new event (Realtracs), the MRED precedent it builds on, the Compass-led pattern, and the agent action (ask your MLS where they stand). Each beat is load-bearing."
+time_sensitive: "High -- Realtracs deadline lapsed 2026-06-08 with negotiations ongoing. The neutrality argument lands strongest while the pattern is fresh and replicating. Post within 5 days."
+shareable_moment: "The cooperative model breaks when the cooperative starts taking sides."
+length_justification: "Position piece carrying the news event (Realtracs), the principle (MLSes are infrastructure, not political actors), the agent-impact argument (sellers don't care about portal politics), and the action (raise the neutrality question on your MLS). Each beat is load-bearing."
 companion_to: "NF-027 (Compass billboard / consumer-call angle), NF-035 (NY AG Compass antitrust), NF-038 (NAR Policy 8.5 clarifier), NF-039 (Google home search). NF-040 is the spreading-beyond-Chicago chapter of the same arc. Space at least 4-5 days apart from the others."
 ---
 
-# The Chicago Fight Isn't a Chicago Fight Anymore
+# Your MLS Just Picked a Side. That's Not Its Job.
 
-> **WOW: Earned inside-the-industry observation + cost-of-inaction -- a second major MLS (Realtracs, 18,000 members across four states) just threatened to cut Zillow's feed, following MRED in Chicago. Compass CEO Robert Reffkin publicly thanked them. This isn't an MRED dispute anymore -- it's a national playbook, and every MLS is going to have to take a position.**
+> **WOW: Contrarian take + earned inside-the-industry observation -- two MLSes have now taken sides in the Compass-Zillow fight, and Compass's CEO publicly thanked one of them. That's the tell. An MLS is supposed to be a database, not a political actor. The cooperative model breaks when the cooperative starts picking sides, and every member broker gets conscripted into a dispute they never agreed to.**
 
-**Pillar:** Market Intelligence | **Avatars:** All, brokers especially
+**Pillar:** Market Intelligence | **Avatars:** All, brokers and MLS committee members especially
 **Filming:** Walk and talk. No demo.
 
 ## Shareable Moment
-> "The Chicago fight isn't a Chicago fight anymore. Compass is winning MLSes to its side one at a time."
+> "The cooperative model breaks when the cooperative starts taking sides."
 
 ## Script (~64 seconds, walk and talk)
 
 ### HOOK (0:00-0:10)
-A second major MLS just threatened to cut Zillow off. Their deadline came and went yesterday. Compass is winning MLSes to its side one at a time.
+Two MLSes have now picked a side in the Compass-Zillow fight. They shouldn't have. An MLS is supposed to be a database, not a political actor.
 
-### CONTEXT (0:10-0:30)
-Realtracs in Nashville. Eighteen thousand brokers across four states. They told Zillow to fall in line with the same "objective criteria" rule MRED in Chicago was fighting over, or they'd cut the feed June 8. The deadline passed yesterday with no cutoff and active negotiations. Compass CEO Robert Reffkin publicly thanked them.
+### CONTEXT (0:10-0:28)
+MRED in Chicago cut Zillow off in May until a judge ordered the feed restored. Realtracs in Nashville, eighteen thousand brokers across four states, threatened the same cut. Their deadline passed yesterday with negotiations still active. Compass CEO Robert Reffkin publicly thanked them. That's the tell. When one party in a dispute thanks you publicly, you weren't neutral.
 
-### WHY IT MATTERS (0:30-0:48)
-This isn't a Chicago dispute anymore. It's a national playbook. Compass spent the last month lobbying MLSes to enforce the rules Zillow is fighting. Two have moved. The rest are watching. If your MLS hasn't picked a side, that's because nobody's asked them to yet.
+### WHY IT MATTERS (0:28-0:48)
+When your MLS picks a side, every member broker gets conscripted into a fight they never agreed to. Your sellers don't care about portal politics. They want their listing on every site possible. An MLS that decides to play favorites is making decisions for sellers the sellers never asked for. The cooperative model breaks when the cooperative starts taking sides.
 
 ### CLOSE (0:48-1:04)
-Here's what you do now. Ask your MLS where they stand on the Compass-Zillow filtering fight. "We're watching it" is a non-answer. The agents who know which way their MLS is leaning aren't going to be surprised when their listings show up, or don't, on Zillow next month.
+Here's what you do now. If you sit on an MLS committee, raise the neutrality question. If you don't, ask your broker to. The MLSes that stay neutral are the ones every member can keep trusting. The ones that pick sides have just set the precedent for the next one.
 
 **Estimated Duration:** ~64 seconds | **Word Count:** ~160 words
 
@@ -80,67 +80,71 @@ Here's what you do now. Ask your MLS where they stand on the Compass-Zillow filt
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-A second major MLS just threatened to cut Zillow off. Their deadline came and went yesterday. Compass is winning MLSes to its side one at a time.
+Two MLSes have now picked a side in the Compass-Zillow fight. They shouldn't have. An MLS is supposed to be a database, not a political actor.
 
-The MLS is Realtracs, based in Nashville. 18,000 brokers across Tennessee, Kentucky, Alabama, and Georgia. They told Zillow to fall in line with the same "objective criteria" rule MRED in Chicago was fighting over, or they would cut the feed on June 8.
+MRED in Chicago cut Zillow off in May. A judge ordered the feed restored. Realtracs in Nashville (18,000 brokers across Tennessee, Kentucky, Alabama, and Georgia) threatened the same cut. The June 8 deadline passed yesterday with negotiations still active.
 
-The June 8 deadline passed without an immediate cutoff. Negotiations are still active. Compass CEO Robert Reffkin publicly thanked Realtracs after the initial announcement.
+Compass CEO Robert Reffkin publicly thanked Realtracs after the initial announcement. That is the tell. When one party in a dispute thanks an MLS publicly, the MLS wasn't neutral.
 
-Here is why this matters even if you are not in Nashville or Chicago.
+Here is the part most agents miss.
 
-This is not an MRED dispute anymore. It is a national playbook. Compass has spent the last month lobbying MLSes to enforce the rules Zillow is fighting. Two have moved. The rest are watching. If your MLS has not picked a side, that is because nobody has asked them to yet.
+When your MLS picks a side, every member broker gets conscripted into a fight they never agreed to. Your sellers do not care about portal politics. They want their listing on every site possible. An MLS that decides to play favorites is making decisions for sellers the sellers never asked for.
 
-Ask your MLS where they stand on the Compass-Zillow filtering fight. "We are watching it" is a non-answer.
+The cooperative model breaks when the cooperative starts taking sides.
 
-The agents who know which way their MLS is leaning are not going to be surprised next month when their listings either show up on Zillow or do not.
+If you sit on an MLS committee, raise the neutrality question. If you do not, ask your broker to. The MLSes that stay neutral are the ones every member can keep trusting. The ones that pick sides are inviting the next dispute to be settled the same way.
 
-**Hashtags:** #RealEstate #Zillow #Compass #MLS #Realtracs #MRED #RealEstateLaw #BrokerageLaw #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #RealEstate #Zillow #Compass #MLS #Realtracs #MRED #MLSGovernance #RealEstateLaw #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
-A second major MLS just threatened to cut Zillow off. Their deadline came and went yesterday.
+Two MLSes have now picked a side in the Compass-Zillow fight. They shouldn't have. An MLS is a database, not a political actor.
 
-Realtracs in Nashville. 18K brokers across 4 states. They want the same "objective criteria" enforcement MRED in Chicago was fighting over. Deadline was June 8. It passed. Negotiations ongoing.
+MRED in Chicago cut Zillow off in May. Realtracs in Nashville threatened the same cut last week. 18K brokers across 4 states.
 
-Compass CEO Robert Reffkin publicly thanked them.
+Compass CEO Robert Reffkin publicly thanked them. That's the tell. When one party in a dispute thanks you publicly, you weren't neutral.
 
-This isn't a Chicago dispute anymore. It's a national playbook. Two MLSes have moved. The rest are watching.
+When your MLS picks a side, every member broker gets conscripted into a fight they never agreed to. Your sellers don't care about portal politics. They want their listing on every site.
 
-Ask your MLS where they stand. "We're watching it" is a non-answer.
+The cooperative model breaks when the cooperative starts taking sides.
 
-The agents who know which way their MLS is leaning aren't going to be surprised next month when their listings show up, or don't, on Zillow.
+Raise the neutrality question. The MLSes that stay neutral are the ones every member can keep trusting.
 
-**Hashtags:** #realestate #zillow #compass #mls #realtracs #mred #realestatelaw #brokeragelaw #realtorlife #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #realestate #zillow #compass #mls #realtracs #mred #mlsgovernance #realestatelaw #realtorlife #keepingitrealpodcast #insidetheindustry #realestatenews
 
 ### TikTok
-**Caption:** A second major MLS just threatened to cut Zillow off. Compass is winning MLSes one at a time. Here's the question every agent should be asking their MLS this week.
+**Caption:** Two MLSes just picked a side in the Compass-Zillow fight. They shouldn't have. An MLS is a database, not a political actor. Here's what every broker should be raising this week.
 **Hashtags:** #realtortok #realestatetok #realtor #zillow #compass #mls #realestatenews
 
 ### YouTube Shorts
-**Title:** The Chicago Fight Isn't a Chicago Fight Anymore
-**Description:** A second major MLS, Realtracs in Nashville (~18,000 brokers across TN/KY/AL/GA), just threatened to cut Zillow's listing feed over the same "objective criteria" rule MRED in Chicago was fighting over. The June 8 deadline passed without an immediate cutoff but negotiations are active. Compass CEO Robert Reffkin publicly thanked them. D.J. Paris on why this is no longer an MRED dispute -- it's a national playbook, and the one question every agent should ask their MLS this week.
+**Title:** Your MLS Just Picked a Side. That's Not Its Job.
+**Description:** Two MLSes have now taken sides in the Compass-Zillow fight: MRED in Chicago and Realtracs in Nashville (~18,000 brokers across TN/KY/AL/GA). Compass CEO Robert Reffkin publicly thanked Realtracs, which is the tell that the MLS wasn't neutral. D.J. Paris on why MLSes are infrastructure, not political actors, and why the cooperative model breaks when the cooperative starts picking sides. Every member broker is getting conscripted into a fight they never agreed to.
 **Hashtags:** #shorts #realestate #zillow #compass #mls #realestatelaw #realestatenews #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
-A second major MLS just threatened to cut Zillow off. Their deadline came and went yesterday. Compass is winning MLSes to its side one at a time.
+Two MLSes have now picked a side in the Compass-Zillow fight. They shouldn't have. An MLS is supposed to be a database, not a political actor.
 
-Realtracs in Nashville, 18,000 brokers across four states, told Zillow to fall in line with the same "objective criteria" rule MRED in Chicago was fighting over, or they'd cut the feed June 8. The deadline passed yesterday with no cutoff and active negotiations. Compass CEO Robert Reffkin publicly thanked them.
+MRED in Chicago cut Zillow off in May. A judge ordered the feed restored. Realtracs in Nashville (18,000 brokers across four states) threatened the same cut. The June 8 deadline passed yesterday with negotiations still active. Compass CEO Robert Reffkin publicly thanked them. That's the tell. When one party in a dispute thanks an MLS publicly, the MLS wasn't neutral.
 
-This isn't a Chicago dispute anymore. It's a national playbook. Compass has spent the last month lobbying MLSes to enforce the rules Zillow is fighting. Two have moved. The rest are watching. If your MLS hasn't picked a side, that's because nobody's asked them to yet.
+When your MLS picks a side, every member broker gets conscripted into a fight they never agreed to. Your sellers don't care about portal politics. They want their listing on every site possible. An MLS that decides to play favorites is making decisions for sellers the sellers never asked for.
 
-Ask your MLS where they stand on the Compass-Zillow filtering fight. The agents who know which way their MLS is leaning aren't going to be surprised when their listings show up, or don't, on Zillow next month.
+The cooperative model breaks when the cooperative starts taking sides.
 
-**Hashtags:** #RealEstate #Zillow #Compass #MLS #RealEstateLaw #RealtorLife
+If you sit on an MLS committee, raise the neutrality question. If you don't, ask your broker to. The MLSes that stay neutral are the ones every member can keep trusting.
+
+**Hashtags:** #RealEstate #Zillow #Compass #MLS #MLSGovernance #RealEstateLaw #RealtorLife
 
 ### X (Twitter)
 **Caption:**
-Second major MLS just threatened to cut Zillow off. Deadline passed yesterday. Compass winning MLSes one at a time.
+Two MLSes have now picked a side in the Compass-Zillow fight.
 
-Realtracs (Nashville, 18K brokers, 4 states) followed MRED's lead. Reffkin publicly thanked them.
+They shouldn't have. An MLS is a database, not a political actor.
 
-This isn't a Chicago fight anymore.
+Compass CEO publicly thanked one of them. That's the tell.
 
-Ask your MLS where they stand.
+Every member broker just got conscripted into a fight they never agreed to.
 
-**Hashtags:** #RealEstate #Zillow #Compass #MLS
+Raise the neutrality question.
+
+**Hashtags:** #RealEstate #MLS #MLSGovernance
