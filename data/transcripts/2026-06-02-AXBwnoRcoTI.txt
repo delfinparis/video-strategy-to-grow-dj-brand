@@ -1,0 +1,7 @@
+# Google Just Jumped Into Home Search Without Asking Zillow
+video_id: AXBwnoRcoTI
+url: https://www.youtube.com/watch?v=AXBwnoRcoTI
+upload_date: 2026-06-02
+caption_status: ok
+------------------------------------------------------------
+Google just jumped into home search. They didn't ask Zillow, they didn't ask NAR. So this week Google relaunched a test that drops home listings into mobile search. Eight major markets, the data comes through Homes Canary, eXp Realty, and three different MLSs. When Google ran a smaller version of this test last December, Zillow lost 1.6 billion in market cap in a single day. So this matters even if your listing isn't in the pilot. If Google becomes where buyers default to search, the path from buyer to listing runs through whichever brokerage or MLS Google trusts. Right now, that's a short list. If your broker isn't on it, your listing isn't there. So here's what you do now. Ask your broker one question. Which MLSs and partners feed our listings into Google's pilot? If the answer is none of them, it's not a problem today, it's going to be one fast.
