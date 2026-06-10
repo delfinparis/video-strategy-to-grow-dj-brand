@@ -1,7 +1,7 @@
 ---
 series: "Inside the Industry"
 type: "reactive"
-script_number: "NF-030"
+script_number: "NF-044"
 title: "72% of Agents Use AI Daily. Most Built a Worse Version of What They Had."
 avatar: "All"
 content_pillar: "market_intelligence"

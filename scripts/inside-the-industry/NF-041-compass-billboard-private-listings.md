@@ -1,7 +1,7 @@
 ---
 series: "Inside the Industry"
 type: "reactive"
-script_number: "NF-027"
+script_number: "NF-041"
 title: "Your Seller Saw a Compass Billboard. Now They're Calling You."
 avatar: "All"
 content_pillar: "market_intelligence"
