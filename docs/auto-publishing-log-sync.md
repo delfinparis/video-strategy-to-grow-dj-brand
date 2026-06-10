@@ -35,6 +35,7 @@ For each new transcript in the manifest:
    - **Title:** the YouTube title is usually the exact `title:` frontmatter of a script. Grep frontmatter titles first.
    - **Hook + content:** confirm the transcript's opening and topic match the script body.
    - Most matches are in `scripts/inside-the-industry/` (NF/IS/IA), `scripts/the-playbook/`, `scripts/ai-tip-of-the-week/`, `scripts/podcast-promos/`.
+   - **Search the whole repo, not just `scripts/`.** Reel/walk-and-talk scripts also live in repo-root event folders (e.g. `zillow-mred-compass-may-2026/04-reel-script-*.md`). Grep `**/*.md` for `title:` frontmatter, excluding `data/transcripts/`, `docs/`, and `README`/analysis/essay files. A match outside `scripts/` is valid - use its filename (minus `.md`) as the `script_id`. (Caveat: `analyze_posts.py` only reads frontmatter under `scripts/`, so an out-of-tree match still logs and counts by date but won't get series/pillar metadata in reports until that script moves under `scripts/`.)
 3. **Upsert** a row into `data/publishing-log.csv`:
    - `publish_date` = transcript `upload_date`.
    - `script_id` = matched filename minus `.md`.
