@@ -1,7 +1,7 @@
 ---
 series: "Inside the Industry"
 type: "reactive"
-script_number: "NF-032"
+script_number: "NF-038"
 title: "NAR Just Published Rules on Who Controls Your Listings"
 avatar: "All -- brokers and listing-focused agents especially"
 content_pillar: "market_intelligence"

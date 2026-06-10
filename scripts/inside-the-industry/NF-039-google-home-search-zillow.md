@@ -1,7 +1,7 @@
 ---
 series: "Inside the Industry"
 type: "reactive"
-script_number: "NF-033"
+script_number: "NF-039"
 title: "Google Just Jumped Into Home Search Without Asking Zillow"
 avatar: "All -- brokers and listing agents especially"
 content_pillar: "market_intelligence"

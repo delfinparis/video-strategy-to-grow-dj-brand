@@ -9,7 +9,7 @@ post_date: "TBD"
 status: "draft"
 time_sensitive: "High -- inquiry became public Wednesday 2026-06-03. Film and post within 5 days while 'Wednesday' is still accurate in spoken delivery."
 shareable_moment: "State AGs just stepped into residential brokerage M&A. This isn't a one-off."
-companion_to: "NF-027 (Compass billboard / consumer-call angle), NF-032 (NAR Policy 8.5 clarifier), NF-033 (Google home search). All four pieces of the same fracturing-home-search arc with Compass at the center. Space them at least 4-5 days apart."
+companion_to: "NF-027 (Compass billboard / consumer-call angle), NF-038 (NAR Policy 8.5 clarifier, was NF-032), NF-039 (Google home search, was NF-033). All four pieces of the same fracturing-home-search arc with Compass at the center. Space them at least 4-5 days apart."
 length_justification: "Reactive antitrust news with concrete dollar figures (12% stock drop, $4.2B merger, 30% market share projection) and a high-stakes downstream implication (state AG precedent for residential brokerage M&A). Each beat is load-bearing."
 ---
 
@@ -65,8 +65,8 @@ Here's what you do now. If you're a Compass agent in New York, ask your leadersh
 
 - **Series continuity:**
   - NF-027 covered the Compass billboard / private-listings consumer angle in Chicago.
-  - NF-032 covered NAR's Policy 8.5 clarification on listing filters.
-  - NF-033 covered Google's home-search relaunch.
+  - NF-038 (originally drafted as NF-032) covered NAR's Policy 8.5 clarification on listing filters.
+  - NF-039 (originally drafted as NF-033) covered Google's home-search relaunch.
   - NF-035 is the state-AG enforcement chapter of the same Compass-centric arc.
   - All four together form a coherent series. Space at least 4-5 days apart.
 

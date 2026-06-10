@@ -1,7 +1,7 @@
 ---
 series: "Inside the Industry"
 type: "reactive"
-script_number: "NF-031"
+script_number: "NF-037"
 title: "The Rate Trap"
 avatar: "All"
 content_pillar: "market_intelligence"

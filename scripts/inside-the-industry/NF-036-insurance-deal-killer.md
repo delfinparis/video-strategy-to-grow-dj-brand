@@ -67,8 +67,8 @@ Here's what you do now. Get an insurance quote within forty-eight hours of every
   - Status: tactical guidance, not a stat claim
 
 - **Series / overlap notes:**
-  - No overlap with the Compass/Zillow/MLS arc (NF-027, NF-032, NF-033, NF-035) or with the rates pieces (NF-028, NF-031).
-  - Fresh buyer-side tactical lane. Pairs well with NF-031 (Rate Trap) as a two-part "what's actually killing buyer deals" thread, but should run at least a week apart from NF-031 to avoid theme fatigue.
+  - No overlap with the Compass/Zillow/MLS arc (NF-027, NF-038, NF-039, NF-035) or with the rates pieces (NF-028, NF-037).
+  - Fresh buyer-side tactical lane. Pairs well with NF-037 (Rate Trap) as a two-part "what's actually killing buyer deals" thread, but should run at least a week apart from NF-037 to avoid theme fatigue.
 
 ## AI Music Prompt
 

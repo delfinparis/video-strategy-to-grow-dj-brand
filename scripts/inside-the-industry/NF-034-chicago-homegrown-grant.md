@@ -71,7 +71,7 @@ Here's what you do now. Pull every fence-sitting buyer in your CRM who could qua
   - These details belong in the agent's follow-up text "the details" referenced in the close, not in the 70-second spoken cut.
 
 - **Series / overlap notes:**
-  - Chicago-specific, no overlap with the NF-027 / NF-032 / NF-033 Zillow-Google-MLS arc.
+  - Chicago-specific, no overlap with the NF-027 / NF-038 / NF-039 Zillow-Google-MLS arc.
   - This is a "call your database" content piece, not part of the regulatory or tech-shift news cluster.
 
 ## AI Music Prompt
