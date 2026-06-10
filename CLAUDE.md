@@ -128,6 +128,19 @@ If a CapCut prompt would be meaningfully better at 350 or 400 characters, flag i
 
 ---
 
+## Building a podcast promo? Use the Hype Machine engine
+
+Any walk-and-talk that promotes a podcast episode (Keeping It Real or Coffee Talk with Tim & D.J.) goes through the engine, not freehand. It turns one episode into a "on this episode we got into X, Y, Z, we solved these problems for agents, here's a tip for your next client" promo.
+
+1. **Build the brief:** `python scripts/podcast-promos/build_promo_brief.py <kir|coffeetalk> <episode-query>` (query matches a guest name or slug fragment). It pulls the episode's own intelligence into the five-beat arc and writes a brief to `scripts/podcast-promos/_briefs/`.
+2. **Read the format spec:** [`docs/series/podcast-promo-hype-machine.md`](docs/series/podcast-promo-hype-machine.md) -- the arc, the source adapters, and the full-package output spec.
+3. **Check + update the registry:** [`scripts/podcast-promos/promo-registry.md`](scripts/podcast-promos/promo-registry.md). Across 700+ KIR episodes the same tip repeats; verify the hook and tip haven't aired, then add a row.
+4. **Output the full package** to `scripts/podcast-promos/<show>-<slug>.md`: spoken script + B-roll + AI music prompt (Podcast promo preset) + all five social descriptions. Reference: [`scripts/podcast-promos/kir-2026-01-30-amanda-pendleton.md`](scripts/podcast-promos/kir-2026-01-30-amanda-pendleton.md).
+
+The tip is the payload: lift one physical, do-it-tomorrow tactic from the episode. No fabricated stats -- every number traces to the analysis JSON (KIR) or the aired script (Coffee Talk).
+
+---
+
 ## Other project defaults
 
 - **Editorial voice:** Read [`docs/editorial-standards.md`](docs/editorial-standards.md) before drafting any script. Universal rules win over series rules.
