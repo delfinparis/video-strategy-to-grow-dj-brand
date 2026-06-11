@@ -23,8 +23,9 @@ this routine (Claude cloud routine, daily ~12:00 UTC / 7am Chicago)
    c. **Write the full-package promo** per [`docs/series/podcast-promo-hype-machine.md`](series/podcast-promo-hype-machine.md) and the CLAUDE.md walk-and-talk rules (spoken script, B-roll, **AI Music Prompt** podcast-promo preset, all five social descriptions). Check + update the dedup registry at [`scripts/podcast-promos/promo-registry.md`](../scripts/podcast-promos/promo-registry.md) so a repeated hook/tip across 700+ episodes does not re-air.
    d. **Episode link + guest tags:** put the episode link where each platform expects it (YouTube = pinned comment, IG/TikTok = link in bio, FB/LinkedIn = link in the post) per the spec. Add the guest's verified @-handles to each platform's caption and append their handles as hashtags alongside the standard set. If a handle could not be verified, leave it out rather than guessing.
 4. **Deliver a Gmail draft** (no auto-send) titled `Podcast Promo: <guest> — <episode title>`, body = the full package. Do not commit the promo to the repo (delivery is Gmail-only by choice).
-5. **Update state:** add the episode `guid` to `data/podcast-promo-state.json`, commit `data/podcast-promo-state.json` + `data/guest-socials.json`, and push. The state commit is what keeps the routine idempotent across fresh cloud runs; the promo content itself is not committed.
-6. **Report:** which episode(s) drafted, the tip used, and the guest handles found / not found.
+5. **Notify via Google Calendar:** create a same-day event (start ~10 min out, America/Chicago) titled `New KIR promo ready: <guest>` with a **popup reminder at 0 minutes** so it alerts immediately. Description carries the episode link + the Gmail draft subject. This is the actual notification — a Gmail *draft* on its own never alerts, so the calendar popup is how D.J. learns a promo is waiting.
+6. **Update state:** add the episode `guid` to `data/podcast-promo-state.json`, commit `data/podcast-promo-state.json` + `data/guest-socials.json`, and push. The state commit is what keeps the routine idempotent across fresh cloud runs; the promo content itself is not committed.
+7. **Report:** which episode(s) drafted, the tip used, the guest handles found / not found, and that the calendar alert was created.
 
 ## Files
 
