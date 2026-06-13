@@ -15,20 +15,33 @@
   3. Load it:   launchctl load ~/Library/LaunchAgents/com.djparis.growthdigest.plist
   4. Verify:    launchctl list | grep djparis
   5. Test now:  launchctl start com.djparis.growthdigest
+  6. Wake the Mac just before the run so it fires on time even from sleep:
+       sudo pmset repeat wake M 05:55:00
+     (pmset day letters: M=Mon T=Tue W=Wed R=Thu F=Fri S=Sat U=Sun.
+      Check with: pmset -g sched   Clear with: sudo pmset repeat cancel)
 
   The digest writes to
   ~/video-strategy-to-grow-dj-brand/data/growth-digests/YYYY-Www.md
 
   To disable temporarily:  launchctl unload ~/Library/LaunchAgents/com.djparis.growthdigest.plist
   To re-enable:            launchctl load ~/Library/LaunchAgents/com.djparis.growthdigest.plist
-  To change the day/time:  edit Weekday/Hour/Minute below, then unload + reload
+  To change the day/time:  edit Weekday/Hour/Minute below + the pmset wake, then unload + reload
   To check logs:           cat /tmp/growthdigest.log (stdout)
                            cat /tmp/growthdigest-err.log (errors)
 
-  Note on hosting: this runs locally on purpose. YouTube caption fetching and
-  Reddit pulls are far more reliable from a residential IP than a cloud
-  datacenter IP, the same reason the voice-tuning workflow pulls locally. If
-  the Mac is asleep at 6am Monday, launchd runs the job when it next wakes.
+  Why local, and the two sleep facts that matter:
+  - Local on purpose: YouTube caption fetching and Reddit pulls are far more
+    reliable from a residential IP than a cloud datacenter IP, the same reason
+    the voice-tuning workflow pulls locally.
+  - Sleep is fine. Without the pmset wake above, a job missed during sleep runs
+    once at the next FULL wake (not during a Power Nap dark wake, which is what
+    delivers your email/SMS dings -- that is push, not job execution). The pmset
+    wake forces a full wake at 5:55 so the 6:00 job runs on schedule. The
+    --lookback 8 below means even a slipped run never clips the week.
+  - A LaunchAgent only runs while you are LOGGED IN. On an always-on mini,
+    enable auto-login (System Settings > Users & Groups) so a reboot does not
+    park it at the lock screen with the job waiting. Note: FileVault forces a
+    login at boot and blocks auto-login, so after a reboot you would log in once.
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -40,6 +53,8 @@
   <array>
     <string>/usr/bin/python3</string>
     <string>/Users/djparis/video-strategy-to-grow-dj-brand/scripts/growth_digest.py</string>
+    <string>--lookback</string>
+    <string>8</string>
   </array>
 
   <key>WorkingDirectory</key>

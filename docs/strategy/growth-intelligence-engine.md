@@ -98,7 +98,9 @@ Cost is roughly five to fifteen cents per run on `claude-sonnet-4-6`. Sonnet (no
 
 The engine runs **locally via launchd**, weekly on Monday at 6:00am. Setup is in [`scripts/com.djparis.growthdigest.plist.template`](../../scripts/com.djparis.growthdigest.plist.template), mirroring the existing daily `news_brief` job.
 
-Local, not cloud, is deliberate. YouTube caption fetching and Reddit pulls are far more reliable from a residential IP than a cloud datacenter IP, the same constraint that forces the [voice-tuning workflow](../../README.md) to download locally. A cloud cron routine is possible but would intermittently fail to fetch transcripts, which are the engine's richest input. If the Mac is asleep at the scheduled time, launchd runs the job when it next wakes.
+Local, not cloud, is deliberate. YouTube caption fetching and Reddit pulls are far more reliable from a residential IP than a cloud datacenter IP, the same constraint that forces the [voice-tuning workflow](../../README.md) to download locally. A cloud cron routine is possible but would intermittently fail to fetch transcripts, which are the engine's richest input.
+
+**Sleep behavior.** A job missed during sleep runs once at the next full wake. A Power Nap dark wake (what delivers email and SMS notifications during sleep) is push reception, not job execution, so it does not fire the digest. To run punctually from sleep, the setup adds a `sudo pmset repeat wake M 05:55:00` that forces a full wake five minutes before the job. The scheduled command also carries `--lookback 8`, so even a slipped run never clips the front of the week. A LaunchAgent runs only while logged in, so an always-on mini should have auto-login enabled (FileVault overrides this and requires one login at boot).
 
 ---
 
