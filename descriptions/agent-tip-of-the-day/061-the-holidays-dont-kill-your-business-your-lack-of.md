@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Most real estate agents think they're committed to their goals. Then a slow month hits, and their calendars tell the truth—they're just interested.
+Most real estate agents think they're committed to their goals. Then a slow month hits, and their calendars tell the truth-they're just interested.
 
 Mindset coach Paul Salter puts it perfectly: "Committed people don't negotiate with circumstances." While interested agents make excuses about the market being slow, the weather, and timing, committed agents show up every single day. Especially when nobody else does.
 
@@ -14,13 +14,13 @@ Here's the reality: interested agents reset every time things slow down. Committ
 
 The litmus test? Call five past clients tomorrow morning before 10am. Just check in. "Hey, thinking of you." That's what commitment looks like when circumstances get tough.
 
-What separates you during slow stretches—commitment or excuses?
+What separates you during slow stretches-commitment or excuses?
 
 #RealEstateAgent #SeparationSeason #AgentMindset #RealEstateTips #CommitmentOverInterest #RealEstateSuccess #AgentLife
 
 ### INSTAGRAM
 
-Slow months are the litmus test—are you committed or just interested? 🎯
+Slow months are the litmus test-are you committed or just interested? 🎯
 
 Most agents negotiate with circumstances. "I'll work hard... unless things slow down." Committed agents? They don't need perfect conditions.
 
@@ -58,6 +58,6 @@ Are you using slow stretches to separate or to check out?
 
 **Title:** Why Slow Months Separate Committed Real Estate Agents From Interested Ones
 
-**Description:** Most real estate agents think they're committed until things slow down. Committed agents don't negotiate with circumstances—they show up especially when nobody else does. Subscribe for daily real estate tips that help you separate from the competition.
+**Description:** Most real estate agents think they're committed until things slow down. Committed agents don't negotiate with circumstances-they show up especially when nobody else does. Subscribe for daily real estate tips that help you separate from the competition.
 
 #RealEstateAgent #AgentMindset #RealEstateTips #SeparationSeason #CommitmentOverInterest

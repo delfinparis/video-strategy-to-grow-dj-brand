@@ -79,11 +79,11 @@ The Playbook fills that gap with one tactical play per week. The scenarios are i
 
 **Format structure (every script):**
 
-1. **Scenario** (3 sec) — Name the moment specifically
-2. **Don't** (5 sec) — Identify the trap most agents fall into
-3. **Do** (20 sec) — Give the exact phrase, action, or move
-4. **Why** (10 sec) — Explain why it works
-5. **Try this** (5 sec) — Direct call to action
+1. **Scenario** (3 sec) - Name the moment specifically
+2. **Don't** (5 sec) - Identify the trap most agents fall into
+3. **Do** (20 sec) - Give the exact phrase, action, or move
+4. **Why** (10 sec) - Explain why it works
+5. **Try this** (5 sec) - Direct call to action
 
 **Brandable phrase:** Every Playbook video starts with "Here's the play."
 
@@ -117,19 +117,19 @@ The Playbook is utility content. It builds skill, not position. It needs Inside 
 
 ### The Three Sub-Types
 
-**Type A — Access ("I just talked to...")**
+**Type A - Access ("I just talked to...")**
 
 D.J. references a recent conversation with a NAR leader, industry titan, or podcast guest, and surfaces one thing they said or one thing he observed. The content is not a quote; it is an observation only possible because D.J. was in the room.
 
 Example: "I spent a day in a room with NAR's executive leadership team. Here's what I noticed." (IA-001)
 
-**Type B — Synthesis ("After 700 interviews...")**
+**Type B - Synthesis ("After 700 interviews...")**
 
 D.J. synthesizes patterns across hundreds of podcast interviews into a sharp, opinion-forward take. The 700-episode archive is the credential.
 
 Example: "After 700 interviews, here's what AI still can't fix." (IS-001)
 
-**Type C — Reactive ("News flash + my take")**
+**Type C - Reactive ("News flash + my take")**
 
 D.J. reacts to major industry news (settlements, rate decisions, NAR policy changes) within 24 hours, with a local Chicago angle and a clear point of view.
 

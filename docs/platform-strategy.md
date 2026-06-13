@@ -141,7 +141,7 @@ In practice, it's 17x smaller than D.J.'s Personal LinkedIn (7,001 followers). T
 **TikTok (327 followers, brand account):**
 
 - Broad international FYP distribution (US, Bangladesh, Colombia, Thailand, South Africa, Philippines, Vietnam)
-- 1,791 average reach per post (5x follower count) — algorithm working
+- 1,791 average reach per post (5x follower count) - algorithm working
 - Good for national reach (priority #4) but not Chicago recruiting (priority #1)
 
 **Brand Facebook:**

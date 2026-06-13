@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-Every week agents avoid posting video, someone else is building relationships with their future clients. The data is clear — video outperforms every other content format. But camera anxiety keeps most agents posting graphics while competitors build real audiences.
+Every week agents avoid posting video, someone else is building relationships with their future clients. The data is clear - video outperforms every other content format. But camera anxiety keeps most agents posting graphics while competitors build real audiences.
 
 Here's the truth: The agents crushing it on video didn't start as natural presenters. They just started. The difference maker? Having something to say before hitting record.
 
@@ -22,7 +22,7 @@ When's the last time you posted a talking-head video?
 
 Every week you avoid video, someone else shows up for your clients 📱
 
-The agents killing it on camera didn't start great — they just started. Camera anxiety is real, but AI can fix your blank stare problem.
+The agents killing it on camera didn't start great - they just started. Camera anxiety is real, but AI can fix your blank stare problem.
 
 Here's the hack: Ask Claude for 5 opening lines, 3 key points, and a closing question. Say it out loud 3 times. That's your prep.
 
@@ -42,13 +42,13 @@ POV: You know video works but keep avoiding it because of camera anxiety 😅 He
 
 Every week real estate agents avoid posting video content, their competitors are building authentic relationships with potential clients in their market.
 
-We all know the data — video consistently outperforms static posts across every platform. Yet camera anxiety keeps most professionals posting graphics and carousels while others build engaged audiences and generate actual leads.
+We all know the data - video consistently outperforms static posts across every platform. Yet camera anxiety keeps most professionals posting graphics and carousels while others build engaged audiences and generate actual leads.
 
 The agents succeeding with video content didn't start as polished presenters. They simply started showing up consistently. The key differentiator? Having a clear framework before hitting record.
 
 D.J. Paris shares a practical AI strategy: Ask Claude for 5 opening lines, 3 key points, and a closing question for any topic. Practice saying it aloud three times. This simple prep eliminates the blank page problem that creates the blank stare on camera.
 
-Authenticity beats perfection every time. You don't need to be a great presenter — you need to be a real person discussing topics you understand.
+Authenticity beats perfection every time. You don't need to be a great presenter - you need to be a real person discussing topics you understand.
 
 What's holding you back from creating more video content for your business?
 

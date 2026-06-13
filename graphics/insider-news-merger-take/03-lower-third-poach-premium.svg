@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+
+  <rect x="60" y="1240" width="12" height="300" fill="#F2C94C"/>
+
+  <rect x="72" y="1240" width="948" height="300" fill="#0B1220"/>
+
+  <rect x="72" y="1538" width="948" height="2" fill="#F2C94C" opacity="0.5"/>
+
+  <text x="120" y="1310"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="26" font-weight="700" letter-spacing="6" fill="#F2C94C">TERM OF THE WEEK</text>
+
+  <text x="120" y="1410"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="76" font-weight="800" fill="#FFFFFF">The Poach Premium</text>
+
+  <text x="120" y="1475"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="28" font-weight="500" fill="#9CA3AF">What top producers used to be paid</text>
+  <text x="120" y="1515"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="28" font-weight="500" fill="#9CA3AF">to switch firms</text>
+</svg>

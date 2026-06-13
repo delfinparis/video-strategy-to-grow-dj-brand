@@ -10,7 +10,7 @@ Month 6: 3 referrals. Most agents would've panicked and switched to buying Zillo
 
 Instead, he stayed committed to his past client database for 24 months straight. Month 12: 8 referrals. Month 18: 17 referrals. Month 24: He completely stopped prospecting because his database became a referral machine.
 
-The problem isn't your strategy. It's that you keep switching strategies before they have time to compound. Your sphere doesn't refer you because they don't know what you actually do anymore—you've been everywhere, so you're nowhere in their mind.
+The problem isn't your strategy. It's that you keep switching strategies before they have time to compound. Your sphere doesn't refer you because they don't know what you actually do anymore-you've been everywhere, so you're nowhere in their mind.
 
 Garrett's advice? "Pick a path and stay there long enough until it works." Consistency isn't sexy, but it's the only thing that builds trust.
 

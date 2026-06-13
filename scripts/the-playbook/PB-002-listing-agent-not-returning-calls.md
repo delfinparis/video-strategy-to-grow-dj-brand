@@ -48,12 +48,12 @@ Send this exact text the next time someone goes silent.
 ## Data Source
 
 - **Claim (the exact text template):**
-  - Source: D.J. Paris synthesis of top-producer agent-to-agent communication patterns observed across multiple KIR interviews. The exact phrasing is D.J.'s distillation, not a verbatim quote.
-  - Status: confirmed as synthesized; presented in script as "the play," not as a named guest's words
+ - Source: D.J. Paris synthesis of top-producer agent-to-agent communication patterns observed across multiple KIR interviews. The exact phrasing is D.J.'s distillation, not a verbatim quote.
+ - Status: confirmed as synthesized; presented in script as "the play," not as a named guest's words
 
 - **Claim:** "Listing agents are not ignoring you because they are rude. They are ignoring you because everything else in their inbox feels like a waste of time."
-  - Source: D.J. Paris observation from running a brokerage (VP Business Development, Kale Realty). Supported by pattern across KIR guest interviews where listing agents describe triaging by perceived buyer seriousness.
-  - Status: confirmed as D.J.'s operational observation
+ - Source: D.J. Paris observation from running a brokerage (VP Business Development, Kale Realty). Supported by pattern across KIR guest interviews where listing agents describe triaging by perceived buyer seriousness.
+ - Status: confirmed as D.J.'s operational observation
 
 - **Supporting reference:** Karina Chavez (KIR 2025-12-09), "Always answer your phone. You never know what you're going to get." Related pattern on phone-answering behavior referenced in Agent Tip 016 and IS-002 in this repo.
 

@@ -8,7 +8,7 @@
 
 Your buyer just asked if they could write a letter to the seller's dead mother. That's not fiction – that's a real story from a Seattle agent.
 
-Marisa Kashino wrote a bestselling novel about house hunting madness, but here's the thing: every crazy plot point came from real agents sharing their wildest buyer stories. We're talking about clients who paid for sellers' divorce attorneys, named babies after sellers, and bought neighboring houses just to get closer.
+Marisa Kashino wrote a bestselling novel about house hunting madness. Every crazy plot point came from real agents sharing their wildest buyer stories. We're talking about clients who paid for sellers' divorce attorneys, named babies after sellers, and bought neighboring houses just to get closer.
 
 When buyers get outbid eleven times, you're not managing transactions anymore. You're managing people at their absolute breaking point, watching the biggest investment of their lives slip away again and again.
 

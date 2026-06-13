@@ -45,7 +45,7 @@ guest, avatar, and content pillar diversity across consecutive episodes.
 | 35 | 8 | Marisa Kashino | The rage is what keeps you going. And it's killing you. | Real Talk | Burned Out Veteran |
 | 36 | 8 | Chris Linsell | Every agent has access to the same MLS data. But only 3... | Ai Agent | Stuck Intermediate |
 | 37 | 8 | Sarah Meslowski | Most agents are converting leads. Sarah Meslowski stopp... | Top Producer Secrets | Overwhelmed Newbie |
-| 38 | 8 | Paul Salter | Your top agent just quit. Not because of splits — becau... | Real Talk | Team Leader |
+| 38 | 8 | Paul Salter | Your top agent just quit. Not because of splits - becau... | Real Talk | Team Leader |
 | 39 | 8 | Carrie McCormick | Your competition is about to disappear for six weeks. | Top Producer Secrets | Stuck Intermediate |
 | 40 | 8 | D.J. Paris | Your listing descriptions are costing you days on marke... | Ai Agent | Stuck Intermediate |
 | 41 | 8 | Chase Craig | Your database doesn't answer because they know you're c... | Top Producer Secrets | Stuck Intermediate |

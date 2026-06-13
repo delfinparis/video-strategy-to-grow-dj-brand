@@ -1,0 +1,103 @@
+# Podcast Promo: The Hype Machine — Series Format Guide
+
+The operating manual for turning **any podcast episode into a walk-and-talk promo**. One repeatable engine, two shows: **Keeping It Real** (guest interviews) and **Coffee Talk with Tim & D.J.** (stat-driven, no guest). Built to be portable — a third show plugs in by adding one source adapter (see [Source Adapters](#source-adapters)).
+
+**Before writing any promo, read [`../editorial-standards.md`](../editorial-standards.md).** Universal rules win over anything here: no fabricated stats, no em dashes (use `--`), straight quotes, contractions in every spoken line, "D.J. Paris" with periods. Music rules live in [`../ai-music-prompts.md`](../ai-music-prompts.md) (Podcast promo preset). This file only defines what's specific to the hype-machine format.
+
+---
+
+## What This Series Is
+
+**A 60-70 second talking-head promo that makes an agent feel they cannot afford to skip this episode.** It is not a recap. It is a hype machine. The job is to take the episode's raw intelligence and compress it into one irresistible pitch:
+
+> "On this episode, [we / guest and I] got into X, Y, and Z. Here's what we actually solved for agents. And here's the one tip that'll help you with your next client."
+
+The promo lives or dies on **specificity stolen from the episode** — a real number, a real tactic, a real quote. Generic ("great conversation about mindset") is failure. The episode already did the work; the promo's only job is to pick the sharpest three things and frame them as a reason to listen tonight.
+
+## What This Series Is NOT
+
+- Not a full recap or summary. Pick the three sharpest beats, leave the rest.
+- Not a guest bio reel. The guest's credibility is a credibility *token*, not the subject.
+- Not generic. "We talked about social media" is dead on arrival. "She keeps a white duvet in her trunk and it's worth thirty grand a listing" is the bar.
+- Not a follow-beg. The CTA is "go listen, then do this one thing" — a real offer, not an engagement ask (editorial Rule 4).
+
+---
+
+## The Arc (5 beats, ~65 seconds)
+
+Every promo, both shows, hits these five beats in order. The scroll-stopper is the **first spoken line** (captions.ai renders audio only — no on-screen-text-only hooks).
+
+| # | Beat | Job | Source field (KIR) | Source field (Coffee Talk) |
+|---|------|-----|--------------------|----------------------------|
+| 1 | **The Hook** | One spoken line that stops the scroll. Steal the single most surprising number, tactic, or contradiction in the episode. | sharpest of `clip_worthy_moments.quote` / `quotable_insights` / a `key_tactics` line | the central hook stat |
+| 2 | **The X-Y-Z** | "On this episode, [guest and I / Tim and I] got into..." Name the three topics in plain agent language, not the show's words. | top 3 of `main_topics` | `Topic Category` + 2 supporting angles |
+| 3 | **What We Solved** | The proof beat. Name 1-2 *problems agents actually have* and that the episode answers. This is the "solved these problems for agents" line. | 1-2 `problems_addressed.specific_problem` + the gist of `solution_summary` | the agent problem the stat exposes |
+| 4 | **The Tip** | "Here's the one thing you can use with your next client." Lift ONE concrete, do-it-tomorrow tactic from the episode. Must be specific enough to act on without listening. | best `key_tactics.tactic` or the tactical `clip_worthy_moments` | the episode's "3 action steps" — pick the most portable one |
+| 5 | **The Close** | "Here's what you do now": go listen (where), and apply the tip. A real CTA, never a follow-beg. | episode link / "this week's KIR" | "this week's Coffee Talk" |
+
+**The tip is the payload.** An agent should be able to skip the episode, do only the tip, and still win — and feel guilty enough about skipping that they listen anyway. If the tip is vague, the promo failed. Pull the most *physical, specific* tactic available (the duvet, the exact text script, the 5-minute callback), not the abstraction ("stay in touch").
+
+---
+
+## Source Adapters
+
+The engine is show-agnostic. Each show is just a different way of filling the five beats. The brief-builder ([`../../scripts/podcast-promos/build_promo_brief.py`](../../scripts/podcast-promos/build_promo_brief.py)) reads the source and emits a filled brief.
+
+### KIR adapter (guest interviews)
+- **Source:** `~/GitHub Projects/keeping-it-real-content-system/data/analysis/<episode>_analysis.json`
+- **Frame:** "[Guest], [credential], came on the show and..." The guest is the authority; D.J. is the host who pulled the value out.
+- **Credibility token:** Use `guest_info.title` / `company` / `production_level` in ONE compressed line (beat 2 or 3). Trim hard.
+- **Tip source priority:** `key_tactics` > tactical `clip_worthy_moments` > `problems_addressed.solution_summary`.
+
+### Coffee Talk adapter (Tim & D.J., stat-driven, no guest)
+- **Source:** the aired script in `~/GitHub Projects/coffeetalk-episode-registry/scripts/<episode>.md` + its row in `registry.md`.
+- **Frame:** "Tim and I opened this week's Coffee Talk with [stat], and here's why it should scare you / change what you do Monday."
+- **Tip source:** the episode's 3 required action steps — pick the single most portable one for beat 4.
+- **Stat discipline:** every stat in the promo must already exist in the aired episode. Do NOT introduce a new stat the episode didn't make. Cross-check against `registry.md` like the generator does.
+
+### Adding a third show
+Add an adapter section here + a loader branch in the brief-builder. The arc and output spec do not change.
+
+---
+
+## Output: The Full Package
+
+Every promo is a single `.md` in [`../../scripts/podcast-promos/`](../../scripts/podcast-promos/), named `<show>-<guest-or-slug>-<date>.md` (e.g. `kir-amanda-pendleton-2026-01-30.md`). It contains, in order:
+
+1. **Frontmatter** — `type`, `show`, `episode`, `source_analysis` (path), `cta`, `listen_url`, `target_duration: "60-70 seconds"`, `placement`.
+2. **The WOW line** — one blockquote at the top: the promo's whole reason to exist, for the editor/D.J. to gut-check before filming.
+3. **`## Spoken Script (D.J. — to camera, walking)`** — the five beats as natural spoken paragraphs. Contractions everywhere. No stage directions inside the spoken lines.
+4. **`## B-Roll Cues (for the editor)`** — a beat-by-beat table. For KIR, cue the episode's video / guest clip if assets exist; otherwise D.J. talking-head + episode cover. Music ducks under any clip audio.
+5. **`## Data Source`** — every field pulled, with the analysis-JSON path and timestamps so claims are auditable (editorial source-rigor rule).
+6. **`## AI Music Prompt`** — Podcast promo preset from [`../ai-music-prompts.md`](../ai-music-prompts.md), tuned to the episode's energy (warm/major for an upbeat guest; a touch more grounded for a heavy topic). Suno/Udio + CapCut versions, `[no vocals]` first, BPM as a number.
+7. **`## Social Descriptions`** — IG, TikTok, YouTube Shorts, Facebook, LinkedIn, each tuned to its platform's passive signal and link-delivery rule (IG/TikTok = link in bio, YT = pinned comment, FB/LinkedIn = link in post). Plus a hashtag quick-reference.
+
+Match the structure of the reference promo: [`../../scripts/podcast-promos/breakthrough-with-michael-ep1-emma-cta.md`](../../scripts/podcast-promos/breakthrough-with-michael-ep1-emma-cta.md).
+
+---
+
+## Dedup Protocol (non-negotiable)
+
+The KIR catalog is 700+ episodes. Across that many promos, the same takeaway ("stay in touch with past clients") will surface again and again and the feed goes stale. Before finalizing any promo:
+
+1. Read [`../../scripts/podcast-promos/promo-registry.md`](../../scripts/podcast-promos/promo-registry.md).
+2. Check your planned **hook** and **tip** against the `Hook Used` and `Tip Used` columns.
+3. If the tip already aired in another promo, pick a *different* tactic from the same episode. If the episode only has one usable tip and it's taken, flag it in the promo's notes and lead with a different angle (a quote or a contradiction).
+4. After finalizing, add a row to the registry: date, show, episode, hook, tip, topic.
+
+For Coffee Talk, this stacks on top of the existing stat registry — the stat dedup still applies first.
+
+---
+
+## Quick Checklist (before delivering)
+
+- [ ] Hook is the **first spoken line** and steals the episode's single most surprising thing.
+- [ ] X-Y-Z names three real topics in agent language, not the show's words.
+- [ ] "What we solved" names a real agent problem, not a category.
+- [ ] The tip is **physical and specific** — actionable without listening.
+- [ ] Close is "here's what you do now" (listen + apply), not a follow-beg.
+- [ ] Hook and tip checked against `promo-registry.md`, and a new row added.
+- [ ] Zero em dashes / en dashes. Straight quotes. Contractions in every spoken line.
+- [ ] Every number/claim traces to the episode (KIR analysis JSON or aired Coffee Talk script). No new stats.
+- [ ] AI Music Prompt block present, tuned, `[no vocals]` first.
+- [ ] All five social descriptions present with correct link-delivery per platform.

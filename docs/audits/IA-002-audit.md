@@ -22,15 +22,15 @@ All claims are either (a) D.J.'s firsthand experience of the NAR outreach, or (b
 
 ## Findings
 
-### CRITICAL — none
+### CRITICAL - none
 
-### HIGH — none
+### HIGH - none
 
-### MEDIUM — WOW line + Data Source format
+### MEDIUM - WOW line + Data Source format
 
 Both polished in this rewrite.
 
-### LOW — Shareable Moment
+### LOW - Shareable Moment
 
 Renamed from "Strongest Line." The shareable line ("Audience and voice are the same thing now") is moved into the dedicated section.
 

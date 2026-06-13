@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#02050B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1920" fill="url(#bgGradient)"/>
+
+  <rect x="0" y="0" width="1080" height="6" fill="#F2C94C"/>
+
+  <text x="540" y="280" text-anchor="middle"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="32" font-weight="700" letter-spacing="8" fill="#F2C94C">INSIDER NEWS</text>
+
+  <text x="540" y="410" text-anchor="middle"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="120" font-weight="800" fill="#FFFFFF">The Big Three</text>
+
+  <text x="540" y="470" text-anchor="middle"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="32" font-weight="500" fill="#9CA3AF">Who actually controls the brokerage market in 2026</text>
+
+  <rect x="80" y="600" width="920" height="260" fill="#11192A" rx="8"/>
+  <rect x="80" y="600" width="6" height="260" fill="#F2C94C"/>
+  <text x="120" y="670"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="700" letter-spacing="5" fill="#F2C94C">01</text>
+  <text x="120" y="730"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="48" font-weight="800" fill="#FFFFFF">COMPASS INTERNATIONAL</text>
+  <text x="120" y="780"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="26" font-weight="500" fill="#9CA3AF">+ Coldwell Banker · Century 21 · Sotheby's · Corcoran</text>
+  <text x="120" y="830"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="24" font-weight="600" letter-spacing="2" fill="#F2C94C">ANYWHERE ACQUISITION   ·   $1.6B</text>
+
+  <rect x="80" y="900" width="920" height="260" fill="#11192A" rx="8"/>
+  <rect x="80" y="900" width="6" height="260" fill="#F2C94C"/>
+  <text x="120" y="970"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="700" letter-spacing="5" fill="#F2C94C">02</text>
+  <text x="120" y="1030"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="48" font-weight="800" fill="#FFFFFF">REAL  ·  RE/MAX</text>
+  <text x="120" y="1080"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="26" font-weight="500" fill="#9CA3AF">~180,000 agents across 120 countries</text>
+  <text x="120" y="1130"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="24" font-weight="600" letter-spacing="2" fill="#F2C94C">DEAL ANNOUNCED APR 27   ·   $880M</text>
+
+  <rect x="80" y="1200" width="920" height="260" fill="#11192A" rx="8"/>
+  <rect x="80" y="1200" width="6" height="260" fill="#F2C94C"/>
+  <text x="120" y="1270"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="700" letter-spacing="5" fill="#F2C94C">03</text>
+  <text x="120" y="1330"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="48" font-weight="800" fill="#FFFFFF">KELLER WILLIAMS</text>
+  <text x="120" y="1380"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="26" font-weight="500" fill="#9CA3AF">Largest U.S. franchise network</text>
+  <text x="120" y="1430"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="24" font-weight="600" letter-spacing="2" fill="#F2C94C">INDEPENDENT   ·   PRIVATELY HELD</text>
+
+  <text x="540" y="1620" text-anchor="middle"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="36" font-weight="700" fill="#FFFFFF">Three companies.</text>
+  <text x="540" y="1670" text-anchor="middle"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="36" font-weight="700" fill="#FFFFFF">Most of the market.</text>
+
+  <text x="540" y="1820" text-anchor="middle"
+        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="500" letter-spacing="3" fill="#9CA3AF">SOURCE: COMPANY FILINGS · INMAN · APRIL 2026</text>
+</svg>

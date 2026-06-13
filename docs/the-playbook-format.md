@@ -32,7 +32,7 @@ Every Playbook script follows this exact structure. Do not deviate.
 
 ### 1. SCENARIO (3-5 seconds)
 
-Name the moment specifically. Not "negotiations" — "you just received a lowball offer." Not "buyer consults" — "your buyer just asked you to cut your commission." The more specific the scenario, the sharper the play.
+Name the moment specifically. Not "negotiations" - "you just received a lowball offer." Not "buyer consults" - "your buyer just asked you to cut your commission." The more specific the scenario, the sharper the play.
 
 The scenario should include:
 
@@ -94,9 +94,9 @@ Use it in:
 
 Three valid anchor types:
 
-1. **Specific podcast guest** — "Tim Burrell told me on the podcast that he uses this exact phrase when..."
-2. **Pattern observed across multiple interviews** — "I've heard this from at least 15 top producers across the 700 episodes..."
-3. **In-use at Kale Realty** — "Our agents at Kale use this play on every multiple-offer situation..."
+1. **Specific podcast guest** - "Tim Burrell told me on the podcast that he uses this exact phrase when..."
+2. **Pattern observed across multiple interviews** - "I've heard this from at least 15 top producers across the 700 episodes..."
+3. **In-use at Kale Realty** - "Our agents at Kale use this play on every multiple-offer situation..."
 
 The anchor goes in the **Source / Credibility Anchor** section of the script file. It does not need to appear in the spoken script (often it shouldn't, because it slows the pace), but it must be documented.
 
@@ -199,9 +199,9 @@ Each category has 10-25 discrete plays. **The minimum target is 100 unique Playb
 
 PB-001 should be measured against:
 
-- The 9% Club post (651 impressions, ~5% engagement on Personal LI) — if it beats this, the series is winning
-- AI Agent Minute average (currently unknown — need data) — if it matches, the format is sustainable
-- NF-001 Tuccori (5.7% engagement rate on Personal LI) — if it matches, the format has Inside the Industry-level traction
+- The 9% Club post (651 impressions, ~5% engagement on Personal LI) - if it beats this, the series is winning
+- AI Agent Minute average (currently unknown - need data) - if it matches, the format is sustainable
+- NF-001 Tuccori (5.7% engagement rate on Personal LI) - if it matches, the format has Inside the Industry-level traction
 
 ---
 
@@ -213,12 +213,12 @@ This is different from Inside the Industry (which is LinkedIn-first). The reason
 
 **Distribution sequence for any Playbook script:**
 
-1. **Personal Instagram (Reel)** (primary) — 45-second video, save-driven caption
-2. **Personal Facebook** — same content, slightly longer caption
-3. **Personal LinkedIn** — adapted as a tactical post, less video-dependent
-4. **TikTok** — short, hook-driven version
-5. **YouTube Shorts** — search-optimized title with episode number
-6. **X (Twitter)** — distilled to the play + the why
+1. **Personal Instagram (Reel)** (primary) - 45-second video, save-driven caption
+2. **Personal Facebook** - same content, slightly longer caption
+3. **Personal LinkedIn** - adapted as a tactical post, less video-dependent
+4. **TikTok** - short, hook-driven version
+5. **YouTube Shorts** - search-optimized title with episode number
+6. **X (Twitter)** - distilled to the play + the why
 
 ---
 

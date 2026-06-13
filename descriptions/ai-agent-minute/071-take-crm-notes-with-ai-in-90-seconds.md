@@ -10,7 +10,7 @@ Most real estate agents treat their CRM like a digital graveyard. Records with n
 
 You're literally starting from scratch with leads you already paid to generate. It's like withdrawing money from your retirement account without realizing it.
 
-Here's the game-changer: After every call or showing, spend 60 seconds talking into your voice-to-text app about what happened. Then ask Claude to "Reformat this into clean CRM notes with summary, next action, and follow-up date." Boom. Professional notes in 90 seconds total.
+After every call or showing, spend 60 seconds talking into your voice-to-text app about what happened. Then ask Claude to "Reformat this into clean CRM notes with summary, next action, and follow-up date." Boom. Professional notes in 90 seconds total.
 
 Your database IS your retirement account. Every skipped note is money left on the table.
 
@@ -20,7 +20,7 @@ On a scale of 1-10, how current are your CRM notes right now?
 
 ### INSTAGRAM
 
-Your CRM is only as good as the notes you put in it — and most agents put in almost nothing 📝
+Your CRM is only as good as the notes you put in it - and most agents put in almost nothing 📝
 
 After every call, you tell yourself you'll update it later. Later never comes. Six months go by and you're calling leads back with zero context about what you discussed.
 
@@ -40,11 +40,11 @@ Your CRM is your retirement account and most agents are making withdrawals they 
 
 ### LINKEDIN
 
-Your CRM is only as valuable as the notes you actually put in it. Yet most real estate professionals treat their database like a digital filing cabinet — records exist, but context doesn't.
+Your CRM is only as valuable as the notes you actually put in it. Yet most real estate professionals treat their database like a digital filing cabinet - records exist, but context doesn't.
 
 Here's what actually happens: After client calls or showings, you promise yourself you'll update the CRM later. Later becomes never. Six months pass, and when you reach back out to prospects, you're starting conversations from zero with leads you already invested time and money to generate.
 
-This isn't just inefficient — it's expensive. Every missed note is essentially a withdrawal from your future commission account.
+This isn't just inefficient - it's expensive. Every missed note is essentially a withdrawal from your future commission account.
 
 The solution takes 90 seconds: Record a voice memo immediately after client interactions, then use AI to format it into professional CRM notes with summary, next actions, and follow-up dates. Simple system, compound results.
 

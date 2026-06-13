@@ -44,7 +44,7 @@ Random posting isn't a content strategy - it's noise with occasional bursts of e
 
 I've observed that most real estate professionals post when they feel inspired. The top producers? They post according to a strategic plan that builds audiences which actually convert to business.
 
-In this episode of Keeping It Real Podcast's AI Agent Minute, D.J. Paris demonstrates how to leverage Claude AI to construct a comprehensive 90-day content calendar in a single session. One well-crafted prompt generates the topic, hook, and call-to-action for every post, mapped around your content pillars and business objectives.
+In this episode of Keeping It Real Podcast's AI Agent Minute, D.J. Paris demonstrates how to use Claude AI to construct a comprehensive 90-day content calendar in a single session. One well-crafted prompt generates the topic, hook, and call-to-action for every post, mapped around your content pillars and business objectives.
 
 No more staring at blank screens. No more inconsistent messaging that leaves potential clients confused about what you represent. Content that compounds is content that was planned - spontaneous posts generate spontaneous results.
 

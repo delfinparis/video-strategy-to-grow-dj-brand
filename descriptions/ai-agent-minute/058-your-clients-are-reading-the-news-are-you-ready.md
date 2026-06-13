@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-Nothing kills your credibility faster than being the last person to know about breaking news in your own industry. Your clients are reading headlines about rate changes, NAR updates, and market shifts — and if they're bringing it up before you do, you've already communicated your level of engagement.
+Nothing kills your credibility faster than being the last person to know about breaking news in your own industry. Your clients are reading headlines about rate changes, NAR updates, and market shifts - and if they're bringing it up before you do, you've already communicated your level of engagement.
 
-Most agents stay informed "by accident" — catching headlines on their phone or hearing gossip at open houses. That's not a system, and it shows the moment a client asks a question you haven't thought about.
+Most agents stay informed "by accident" - catching headlines on their phone or hearing gossip at open houses. That's not a system, and it shows the moment a client asks a question you haven't thought about.
 
-Here's the game-changer: Build a 20-minute Monday morning market intelligence routine using Perplexity and Claude AI. Get the top 5 real estate stories from the past week, then have Claude summarize each in plain language for your clients. You'll become the agent clients call first — not just to transact, but whenever they have questions.
+Build a 20-minute Monday morning market intelligence routine using Perplexity and Claude AI. Get the top 5 real estate stories from the past week, then have Claude summarize each in plain language for your clients. You'll become the agent clients call first - not just to transact, but whenever they have questions.
 
 D.J. Paris from Keeping It Real Podcast breaks down exactly how to build this system in under 20 minutes per week.
 
@@ -22,7 +22,7 @@ What's the most recent real estate news story a client caught YOU off guard with
 
 Your clients read the news this morning. Are you ready for their questions? 📰
 
-Most agents stay informed "by accident" — catching headlines randomly instead of building a real system. But the agent who always has smart takes on market news becomes the one clients call FIRST.
+Most agents stay informed "by accident" - catching headlines randomly instead of building a real system. But the agent who always has smart takes on market news becomes the one clients call FIRST.
 
 D.J. Paris shares a 20-minute Monday routine using AI that keeps you ahead of every conversation. Perplexity + Claude = never being caught off guard again.
 
@@ -44,9 +44,9 @@ Your clients woke up this morning and read about the latest market developments.
 
 The question is: Are you prepared for the conversation they want to have?
 
-Most real estate professionals stay informed "by accident" — catching headlines sporadically rather than building systematic market intelligence. This reactive approach becomes obvious the moment a well-informed client asks a question you haven't considered.
+Most real estate professionals stay informed "by accident" - catching headlines sporadically rather than building systematic market intelligence. This reactive approach becomes obvious the moment a well-informed client asks a question you haven't considered.
 
-The most successful agents flip this dynamic entirely. They become the trusted source their clients turn to for market insight — not just during transactions, but whenever questions arise. D.J. Paris from Keeping It Real Podcast outlines a 20-minute Monday morning routine using Perplexity and Claude AI that ensures you're always the most informed person in the room.
+The most successful agents flip this dynamic entirely. They become the trusted source their clients turn to for market insight - not just during transactions, but whenever questions arise. D.J. Paris from Keeping It Real Podcast outlines a 20-minute Monday morning routine using Perplexity and Claude AI that ensures you're always the most informed person in the room.
 
 The investment is minimal. The credibility boost is substantial. And the competitive advantage compounds over time.
 

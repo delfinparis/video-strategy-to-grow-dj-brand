@@ -10,7 +10,7 @@ D.J. Paris sold his condo in 2 days using AI to write his listing description. W
 
 The result? A description that made buyers stop scrolling and start imagining their life there. Not the generic MLS template everyone else uses.
 
-Here's the reality: every extra day your listing sits on the market is another day buyers question if something's wrong with the price. AI isn't replacing your real estate expertise—it's amplifying it so you can compete with agents who are already using these tools.
+Here's the reality: every extra day your listing sits on the market is another day buyers question if something's wrong with the price. AI isn't replacing your real estate expertise-it's amplifying it so you can compete with agents who are already using these tools.
 
 What's the weakest listing description you have right now? Would you try running it through AI to see the difference?
 
@@ -20,7 +20,7 @@ What's the weakest listing description you have right now? Would you try running
 
 VP sold his condo in 2 days using AI for the listing description. You're still copy-pasting "spacious kitchen"? 🤔
 
-D.J. Paris fed his property details into AI and got emotionally resonant copy in 30 seconds. Not generic MLS templates—descriptions that make buyers imagine their life there.
+D.J. Paris fed his property details into AI and got emotionally resonant copy in 30 seconds. Not generic MLS templates-descriptions that make buyers imagine their life there.
 
 Every extra day your listing sits = another day buyers question the price. AI isn't replacing you, it's giving you an edge over agents still winging it.
 
@@ -40,11 +40,11 @@ VP sold his condo in 2 days using AI to write the listing description while y'al
 
 While most real estate professionals rely on template language and generic descriptions, D.J. Paris took a different approach when selling his condo.
 
-As VP of Business Development at a real estate tech company, he decided to test AI for his listing copy. He fed property details into ChatGPT, and in 30 seconds had description that wasn't just better—it was emotionally compelling and specific.
+As VP of Business Development at a real estate tech company, he decided to test AI for his listing copy. He fed property details into ChatGPT, and in 30 seconds had description that wasn't just better-it was emotionally compelling and specific.
 
 The result? His condo sold in two days, not two weeks.
 
-This highlights a crucial shift happening in real estate right now. Every additional day on market signals potential pricing issues to buyers. The agents winning aren't necessarily the most experienced—they're the ones leveraging every available advantage.
+This highlights a crucial shift happening in real estate right now. Every additional day on market signals potential pricing issues to buyers. The agents winning aren't necessarily the most experienced-they're the ones using every available advantage.
 
 The technology exists. The tools are accessible. The question is whether you're willing to adapt your processes to stay competitive.
 

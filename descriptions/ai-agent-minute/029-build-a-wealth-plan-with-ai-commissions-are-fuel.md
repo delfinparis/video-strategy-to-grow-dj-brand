@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-You can be a top producer in real estate and still be completely broke. I've seen it firsthand with agents I've interviewed on my podcast — high earners with zero wealth after decades in the business.
+You can be a top producer in real estate and still be completely broke. I've seen it firsthand with agents I've interviewed on my podcast - high earners with zero wealth after decades in the business.
 
 The brutal truth? Closing deals and building wealth are two completely different skills. Most agents master only one. They spend what they earn, under-save for taxes, and retire with less money than their 9-to-5 clients.
 
-Your commissions aren't your wealth — they're just fuel. The real question is: are you building a vehicle to turn that fuel into lasting financial security? In this video, I share how AI can help you create a wealth plan that actually works for real estate professionals.
+Your commissions aren't your wealth - they're just fuel. The real question is: are you building a vehicle to turn that fuel into lasting financial security? In this video, I share how AI can help you create a wealth plan that actually works for real estate professionals.
 
 Are you investing your commissions right now, or are you spending all of it? Let's be honest about where we really stand.
 
@@ -42,7 +42,7 @@ After interviewing 700+ real estate professionals, I've discovered a sobering pa
 
 It's an uncomfortable truth our industry rarely discusses. High-earning agents who spend everything they make, under-save for taxes, and reach retirement with less wealth than their clients who worked traditional jobs for 30 years.
 
-The issue isn't income — it's that closing deals and building wealth are fundamentally different skill sets. Real estate provides inconsistent income, no pension, no 401k match, no automatic tax withholding. Without intentional wealth-building systems, even top producers can find themselves financially vulnerable.
+The issue isn't income - it's that closing deals and building wealth are fundamentally different skill sets. Real estate provides inconsistent income, no pension, no 401k match, no automatic tax withholding. Without intentional wealth-building systems, even top producers can find themselves financially vulnerable.
 
 The solution starts with treating commissions as fuel, not the destination. Your GCI is simply the raw material for building lasting financial security.
 

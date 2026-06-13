@@ -10,7 +10,7 @@ People can instantly tell when AI wrote your real estate content. And here's the
 
 Most agents ask AI to "write a post about real estate" and wonder why it sounds exactly like every other robotic post in their feed. The top producers? They use AI completely differently. They train it to write in THEIR voice first.
 
-Here's the game-changer: Before asking Claude to write anything, paste 3-5 examples of content YOU actually wrote. Then say "Analyze my writing style and write in that exact voice." Save it as a Claude Project. Every piece of content after that will actually sound like you.
+Before asking Claude to write anything, paste 3-5 examples of content YOU actually wrote. Then say "Analyze my writing style and write in that exact voice." Save it as a Claude Project. Every piece of content after that will actually sound like you.
 
 AI should amplify your voice, not replace it. Does your current AI content actually sound like you when you read it back?
 
@@ -18,7 +18,7 @@ AI should amplify your voice, not replace it. Does your current AI content actua
 
 ### INSTAGRAM
 
-People trust AI content 40% less when they can tell a robot wrote it — here's how to fix that ⬇️
+People trust AI content 40% less when they can tell a robot wrote it - here's how to fix that ⬇️
 
 Most agents use AI to REPLACE their voice. Top producers use it to AMPLIFY their voice. Completely different results.
 
@@ -40,7 +40,7 @@ POV: Your AI content sounds like every other agent's because you're using it wro
 
 Most real estate professionals are unknowingly sabotaging their personal brand with AI-generated content.
 
-The issue isn't using AI — it's HOW they're using it. When prospects can immediately identify AI-written posts, trust drops significantly. In an industry built entirely on relationships and authenticity, this is marketing suicide.
+The issue isn't using AI - it's HOW they're using it. When prospects can immediately identify AI-written posts, trust drops significantly. In an industry built entirely on relationships and authenticity, this is marketing suicide.
 
 I see agents asking AI to "write a post about real estate" and getting frustrated when it sounds generic. Meanwhile, top producers are training AI on their existing writing samples first. They paste 3-5 pieces of content they've personally written, ask Claude to analyze their tone and style, then request content in that exact voice.
 

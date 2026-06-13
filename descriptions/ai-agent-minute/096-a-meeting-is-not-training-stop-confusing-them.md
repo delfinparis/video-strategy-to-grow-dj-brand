@@ -6,7 +6,7 @@
 
 ### FACEBOOK
 
-If you're coaching your agents on the same skill gaps month after month, the problem isn't your people — it's your training system. Most team leaders confuse broadcasting information with actual skill development.
+If you're coaching your agents on the same skill gaps month after month, the problem isn't your people - it's your training system. Most team leaders confuse broadcasting information with actual skill development.
 
 Real training requires structured practice, written frameworks agents can reference later, and clear benchmarks for improvement. Without these elements, you'll be coaching the same objection handling problems six months from now that you're coaching today.
 
@@ -20,7 +20,7 @@ What's the one skill gap you find yourself coaching over and over again on your 
 
 Every skill gap that doesn't close is a deal that doesn't close 💰
 
-Stop confusing meetings with training. If you're coaching the same problems month after month, you don't have a people problem — you have a systems problem.
+Stop confusing meetings with training. If you're coaching the same problems month after month, you don't have a people problem - you have a systems problem.
 
 D.J. Paris shows how to build actual training modules using AI that include frameworks, roleplay scenarios, and practical assignments. Your agents will finally stop making the same mistakes.
 
@@ -38,13 +38,13 @@ POV: You've been "training" your agents wrong this whole time 😬 Meeting ≠ T
 
 ### LINKEDIN
 
-Here's an uncomfortable truth: If you're coaching your team on the same skill gaps you were addressing six months ago, you don't have a training problem — you have a system problem.
+Here's an uncomfortable truth: If you're coaching your team on the same skill gaps you were addressing six months ago, you don't have a training problem - you have a system problem.
 
 Most real estate team leaders run "training sessions" that are really just weekly meetings where they talk and agents half-listen. That's not skill development; that's broadcasting. Without structured practice, written frameworks, and clear benchmarks for improvement, you'll keep coaching the same objection handling issues month after month.
 
 The cost? Every skill gap that doesn't close becomes a deal that doesn't close. Your agents can only rise to the level of the training you provide them.
 
-The solution involves building actual training modules with AI assistance — complete with frameworks agents can reference, roleplay scenarios, self-assessments, and practical assignments. Build each module once, and your entire team benefits forever.
+The solution involves building actual training modules with AI assistance - complete with frameworks agents can reference, roleplay scenarios, self-assessments, and practical assignments. Build each module once, and your entire team benefits forever.
 
 What's the most persistent skill gap you find yourself addressing repeatedly with your agents?
 
@@ -52,5 +52,5 @@ What's the most persistent skill gap you find yourself addressing repeatedly wit
 
 ### YOUTUBE SHORTS
 **Title:** Stop Confusing Meetings With Training (Real Estate Team Leaders)
-**Description:** If you're coaching the same problems month after month, you don't have a people problem — you have a training system problem. D.J. Paris reveals how to build actual training modules that stick using AI. Subscribe for daily real estate tips.
+**Description:** If you're coaching the same problems month after month, you don't have a people problem - you have a training system problem. D.J. Paris reveals how to build actual training modules that stick using AI. Subscribe for daily real estate tips.
 #realestate #teamleader #realtortraining #realestatecoaching #listingagent

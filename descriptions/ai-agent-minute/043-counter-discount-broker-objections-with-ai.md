@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-Ever heard a client say "We're thinking of using Redfin — it's cheaper"? Here's the brutal truth: the moment you start defending your commission, you've already lost the listing.
+Ever heard a client say "We're thinking of using Redfin - it's cheaper"? Here's the brutal truth: the moment you start defending your commission, you've already lost the listing.
 
 The agents who lose to discount brokers get trapped in price debates. The agents who consistently win? They shift the entire conversation to results and data. There's a massive difference between defending what you charge versus demonstrating what you deliver.
 
-In this episode, D.J. Paris from Keeping It Real Podcast shows you exactly how to use AI tools like Perplexity and Claude to build data-driven responses that make commission objections irrelevant. No more being defensive — just pure value demonstration backed by market facts.
+In this episode, D.J. Paris from Keeping It Real Podcast shows you exactly how to use AI tools like Perplexity and Claude to build data-driven responses that make commission objections irrelevant. No more being defensive - just pure value demonstration backed by market facts.
 
 Have you ever lost a client to a discount brokerage? What exactly did they tell you when they chose the cheaper option?
 
@@ -22,7 +22,7 @@ The moment you defend your commission, you've already lost the client to discoun
 
 Most agents get trapped arguing about price when a prospect mentions Redfin or other discount options. But top producers? They completely reframe the conversation around results and data.
 
-D.J. Paris breaks down exactly how to use AI to build responses that make your value so clear that price becomes irrelevant. It's not about what you charge — it's about what you deliver.
+D.J. Paris breaks down exactly how to use AI to build responses that make your value so clear that price becomes irrelevant. It's about what you deliver, not what you charge.
 
 Ever lost a client to a discount broker? Drop their exact objection below 👇
 
@@ -38,13 +38,13 @@ POV: Your client just said "Redfin is cheaper" and you know exactly how to respo
 
 ### LINKEDIN
 
-"We're thinking of using Redfin — it's cheaper."
+"We're thinking of using Redfin - it's cheaper."
 
 Every experienced agent has heard this objection. And here's what separates the agents who consistently lose these prospects from those who convert them: the winners never defend their commission.
 
 The moment you start justifying your fee, you've positioned yourself in a race to the bottom. Instead, top producers demonstrate value so clearly that price comparisons become irrelevant. They use market data, satisfaction scores, and outcome metrics to shift the entire conversation.
 
-D.J. Paris demonstrates how agents can leverage AI tools like Perplexity and Claude to build data-driven responses that focus entirely on client outcomes — not commission structures. The key insight? Defend what you charge versus demonstrate what you deliver. Those are fundamentally different approaches that yield dramatically different results.
+D.J. Paris demonstrates how agents can use AI tools like Perplexity and Claude to build data-driven responses that focus entirely on client outcomes - not commission structures. The key insight? Defend what you charge versus demonstrate what you deliver. Those are fundamentally different approaches that yield dramatically different results.
 
 What's been your most effective strategy for handling discount broker objections without getting pulled into price debates?
 
@@ -52,4 +52,4 @@ What's been your most effective strategy for handling discount broker objections
 
 ### YOUTUBE SHORTS
 **Title:** How to Beat Discount Brokers Without Defending Your Commission
-**Description:** Learn the exact strategy top real estate agents use to counter Redfin and discount broker objections using AI tools. Never defend your fee again — demonstrate your value instead. Subscribe for daily real estate tips. #RealEstate #RealtorTips #Commission #DiscountBroker #AITools
+**Description:** Learn the exact strategy top real estate agents use to counter Redfin and discount broker objections using AI tools. Never defend your fee again - demonstrate your value instead. Subscribe for daily real estate tips. #RealEstate #RealtorTips #Commission #DiscountBroker #AITools

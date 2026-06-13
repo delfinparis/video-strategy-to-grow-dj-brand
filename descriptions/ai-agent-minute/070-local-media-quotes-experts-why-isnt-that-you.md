@@ -44,7 +44,7 @@ Every time you see a local news story quoting a real estate expert, ask yourself
 
 Most agents assume media coverage is reserved for the already-famous. The truth? Local journalists, podcasters, and bloggers are constantly hunting for credible sources on deadline. They need someone who can provide intelligent commentary on mortgage rates, inventory reports, and market conditions.
 
-D.J. Paris shares a game-changing insight: one legitimate media quote creates more credibility than any paid advertising campaign. But here's what separates the quoted from the overlooked - you have to make the first move.
+D.J. Paris shares an insight: one legitimate media quote creates more credibility than any paid advertising campaign. But here's what separates the quoted from the overlooked - you have to make the first move.
 
 His solution is brilliantly practical: use AI to craft five targeted media pitches this week. Not generic "I'm available" emails, but specific angles on timely topics. "Here's my take on the current rate environment" beats "I'm a great agent" every single time.
 

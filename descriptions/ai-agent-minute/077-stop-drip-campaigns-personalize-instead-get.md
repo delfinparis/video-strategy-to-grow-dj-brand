@@ -6,11 +6,11 @@
 
 ### FACEBOOK
 
-Your CRM drip campaign is quietly killing your deals — and here's the brutal truth most agents won't admit. Generic "just checking in" messages scream one thing to buyers: you forgot who they are completely.
+Your CRM drip campaign is quietly killing your deals - and here's the brutal truth most agents won't admit. Generic "just checking in" messages scream one thing to buyers: you forgot who they are completely.
 
 Today's clients spot mass automation instantly. It goes straight to the trash. But here's what separates the top 1% of producers: they're not sending MORE messages, they're sending more HUMAN ones.
 
-D.J. Paris from Kale Realty just dropped a game-changing 2-minute Claude prompt that turns your robotic follow-ups into personalized conversations that actually get responses. The secret? It's not a follow-up problem — it's a listening problem.
+D.J. Paris from Kale Realty shared a 2-minute Claude prompt that turns robotic follow-ups into personalized conversations that actually get responses. The real problem isn't your follow-up. It's that you're not listening.
 
 What's your biggest challenge with lead follow-up right now?
 
@@ -18,11 +18,11 @@ What's your biggest challenge with lead follow-up right now?
 
 ### INSTAGRAM
 
-Your CRM drip campaign is quietly killing your business — here's the 2-minute AI fix that changes everything 🎯
+Your CRM drip campaign is quietly killing your business - here's the 2-minute AI fix that changes everything 🎯
 
 Generic follow-ups tell buyers you forgot who they are. Today's clients smell automation instantly and hit delete.
 
-The top producers aren't sending more messages — they're sending more HUMAN ones. This Claude prompt turns your notes into personalized follow-ups that prove you were listening.
+The top producers aren't sending more messages - they're sending more HUMAN ones. This Claude prompt turns your notes into personalized follow-ups that prove you were listening.
 
 What's your biggest lead follow-up challenge? Drop it below 👇
 
@@ -32,7 +32,7 @@ What's your biggest lead follow-up challenge? Drop it below 👇
 
 ### TIKTOK
 
-Your drip campaigns are killing your deals — here's the 2-minute AI fix that actually gets responses 💥
+Your drip campaigns are killing your deals - here's the 2-minute AI fix that actually gets responses 💥
 
 #realtortok #realestatetok #leadgeneration #aitools #claude #realtor #crm #followup #realestate #productivity
 
@@ -40,13 +40,13 @@ Your drip campaigns are killing your deals — here's the 2-minute AI fix that a
 
 The uncomfortable truth about real estate lead generation: Your automated drip campaigns are quietly destroying your conversion rates.
 
-Here's what I've observed after analyzing thousands of agent interactions: Generic "just checking in" messages don't just get ignored — they actively damage your credibility. Today's sophisticated buyers can spot mass automation from a mile away.
+Here's what I've observed after analyzing thousands of agent interactions: Generic "just checking in" messages don't just get ignored - they actively damage your credibility. Today's sophisticated buyers can spot mass automation from a mile away.
 
-But here's the insight that separates top producers from the struggling majority: It's not a follow-up problem. It's a listening problem. The agents winning right now aren't sending more messages — they're sending more human ones, at scale.
+But here's the insight that separates top producers from the struggling majority: It's not a follow-up problem. It's a listening problem. The agents winning right now aren't sending more messages - they're sending more human ones, at scale.
 
 D.J. Paris from Kale Realty just shared a fascinating approach using Claude AI that transforms your post-call notes into genuinely personalized follow-ups in under two minutes. The key? Proving you were paying attention to every word your prospect said.
 
-What's been your experience with lead follow-up automation — helpful tool or relationship killer?
+What's been your experience with lead follow-up automation - helpful tool or relationship killer?
 
 #realestate #leadgeneration #salesstrategy #aitools #crm
 

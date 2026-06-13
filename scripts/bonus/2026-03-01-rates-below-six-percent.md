@@ -38,7 +38,7 @@ Two -- call your fence-sitters. You know exactly who they are. The ones who said
 Three -- talk to renters. Monthly payments just hit a two-year low. For a lot of renters, the math now works for the first time. Run the numbers for them.
 
 ### REFRAME (0:38-0:50)
-Here's the thing most agents get wrong. They hear rate news and post a graphic. That's not a strategy -- that's a screensaver. The agents who win right now are the ones who pick up the phone and make this news personal to someone specific.
+most agents get wrong. They hear rate news and post a graphic. That's not a strategy -- that's a screensaver. The agents who win right now are the ones who pick up the phone and make this news personal to someone specific.
 
 ### CTA (0:50-0:60)
 Pick five people from each of those three groups. That's fifteen calls. Do it today -- before every other agent in your market sees this same headline.

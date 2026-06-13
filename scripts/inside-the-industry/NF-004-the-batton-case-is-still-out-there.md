@@ -40,37 +40,37 @@ Keller Williams already paid $20 million in Batton. RE/MAX paid $8.5 million. An
 ## Data Source
 
 - **Claim:** "NAR just agreed to pay $52 million to end one lawsuit"
-  - Source: RISMedia, "NAR Settles Buyer Lawsuits for $52.25 Million," 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/nar-settles-buyer-lawsuits-52-million/))
-  - Who was measured: NAR (defendant), homebuyer plaintiffs (Tuccori case)
-  - Exact figure: $52.25M. Script rounds to "$52 million" for spoken cadence. Most payment deferred until after Burnett settlement finishes in 2028.
-  - Status: confirmed
+ - Source: RISMedia, "NAR Settles Buyer Lawsuits for $52.25 Million," 2026-04-10 ([link](https://www.rismedia.com/2026/04/10/nar-settles-buyer-lawsuits-52-million/))
+ - Who was measured: NAR (defendant), homebuyer plaintiffs (Tuccori case)
+ - Exact figure: $52.25M. Script rounds to "$52 million" for spoken cadence. Most payment deferred until after Burnett settlement finishes in 2028.
+ - Status: confirmed
 
 - **Claim:** "Keller Williams already paid $20 million in Batton"
-  - Source: RISMedia, "Keller Williams Reaches $20M Settlement in Batton," 2026-02-02 ([link](https://www.rismedia.com/2026/02/02/keller-williams-batton-settlement/))
-  - Who was measured: Keller Williams (defendant), Batton plaintiffs (homebuyers)
-  - Status: confirmed (KW was first Batton defendant to settle; agreement will also provide cooperation/testimony against remaining defendants)
+ - Source: RISMedia, "Keller Williams Reaches $20M Settlement in Batton," 2026-02-02 ([link](https://www.rismedia.com/2026/02/02/keller-williams-batton-settlement/))
+ - Who was measured: Keller Williams (defendant), Batton plaintiffs (homebuyers)
+ - Status: confirmed (KW was first Batton defendant to settle; agreement will also provide cooperation/testimony against remaining defendants)
 
 - **Claim:** "RE/MAX paid $8.5 million"
-  - Source: realestatenews.com, "RE/MAX Settles in Batton Commissions Case," 2026-03-25 ([link](https://www.realestatenews.com/2026/03/25/remax-settles-in-batton-commissions-case))
-  - Who was measured: RE/MAX (defendant), Batton plaintiffs
-  - Structure: $1.5M upon preliminary approval, remainder on final approval
-  - Status: confirmed
+ - Source: realestatenews.com, "RE/MAX Settles in Batton Commissions Case," 2026-03-25 ([link](https://www.realestatenews.com/2026/03/25/remax-settles-in-batton-commissions-case))
+ - Who was measured: RE/MAX (defendant), Batton plaintiffs
+ - Structure: $1.5M upon preliminary approval, remainder on final approval
+ - Status: confirmed
 
 - **Claim:** "Filed an appeal after Anywhere's opt-in deal"
-  - Source: realestatenews.com, "Batton Plaintiffs File Appeal After Anywhere Opt-In Deal," 2026-04-03 ([link](https://www.realestatenews.com/2026/04/03/batton-plaintiffs-file-appeal-after-anywhere-opt-in-deal))
-  - Who was measured: Batton plaintiffs (filed with U.S. Court of Appeals, 7th Circuit); Anywhere Real Estate + Keyes, Illustrated, Vanguard Properties ($10.8M Tuccori opt-in)
-  - Status: confirmed. Appeal is against district court's February denial of their preliminary injunction motion.
+ - Source: realestatenews.com, "Batton Plaintiffs File Appeal After Anywhere Opt-In Deal," 2026-04-03 ([link](https://www.realestatenews.com/2026/04/03/batton-plaintiffs-file-appeal-after-anywhere-opt-in-deal))
+ - Who was measured: Batton plaintiffs (filed with U.S. Court of Appeals, 7th Circuit); Anywhere Real Estate + Keyes, Illustrated, Vanguard Properties ($10.8M Tuccori opt-in)
+ - Status: confirmed. Appeal is against district court's February denial of their preliminary injunction motion.
 
 - **Claim:** "Damages at $3.6 billion from just four MLSs. Up to $75 billion nationwide."
-  - Source: RISMedia, "Buyer Plaintiffs Put Numbers on Damages," 2025-09-29 ([link](https://www.rismedia.com/2025/09/29/buyer-plaintiffs-3-6-billion-damages-case-critical-juncture/))
-  - Who calculated: Dr. Rosa Abrantes-Metz, plaintiffs' expert economist, based on MLS and publicly available property data compared to international commission rates
-  - Scope: $3.6B from four MLSs (Stellar, Southwest, Triad, South-Central Kansas); "tens of billions" nationwide; up to $75B if class certifies across 20+ states
-  - Status: confirmed (these are plaintiffs' estimates, clearly framed as such in script)
+ - Source: RISMedia, "Buyer Plaintiffs Put Numbers on Damages," 2025-09-29 ([link](https://www.rismedia.com/2025/09/29/buyer-plaintiffs-3-6-billion-damages-case-critical-juncture/))
+ - Who calculated: Dr. Rosa Abrantes-Metz, plaintiffs' expert economist, based on MLS and publicly available property data compared to international commission rates
+ - Scope: $3.6B from four MLSs (Stellar, Southwest, Triad, South-Central Kansas); "tens of billions" nationwide; up to $75B if class certifies across 20+ states
+ - Status: confirmed (these are plaintiffs' estimates, clearly framed as such in script)
 
 - **Claim:** "July 28"
-  - Source: RISMedia, 2026-04-10 (same as $52M claim above)
-  - Who was measured: Date set by the court for the final approval hearing on the NAR/Tuccori settlement
-  - Status: confirmed
+ - Source: RISMedia, 2026-04-10 (same as $52M claim above)
+ - Who was measured: Date set by the court for the final approval hearing on the NAR/Tuccori settlement
+ - Status: confirmed
 
 ## Social Media
 

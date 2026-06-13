@@ -58,7 +58,7 @@ Six target personas for all video content. Every script is designed to speak dir
 | Challenge | Description |
 |-----------|-------------|
 | Ceiling | Ready to break through to the next level |
-| Leverage | Needs systems and people to scale |
+| Use | Needs systems and people to scale |
 | Team questions | Considering building a team but unsure how |
 | Community | Wants coaching/mastermind with peers at their level |
 | Edge | Looking for competitive advantage in the market |
@@ -133,6 +133,6 @@ Six target personas for all video content. Every script is designed to speak dir
 | Overwhelmed Newbie | Lead gen, scripts, confidence, first deal | AI Agent Minute (practice tools), Agent Tips (fundamentals) |
 | Stuck Intermediate | Consistency, systems, conversion, time | Both series (largest target audience) |
 | Forgotten Middle | Plateau, tech, accountability | AI Agent Minute (tech adoption focus) |
-| Aspiring Top Producer | Scaling, leverage, team, efficiency | AI Agent Minute (systems), Agent Tips (top producer tactics) |
+| Aspiring Top Producer | Scaling, use, team, efficiency | AI Agent Minute (systems), Agent Tips (top producer tactics) |
 | Burned-Out Veteran | Boundaries, burnout, tech overwhelm | Agent Tips (Real Talk pillar), AI Agent Minute (simplification) |
 | Team Leader | Hiring, compensation, culture, retention | AI Agent Minute (team scripts), Agent Tips (leadership wisdom) |

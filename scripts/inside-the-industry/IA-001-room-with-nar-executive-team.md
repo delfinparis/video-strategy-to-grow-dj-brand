@@ -41,21 +41,21 @@ They're not in a bunker. They're in a listening posture. That's a very different
 ## Data Source
 
 - **Claim:** "NAR put me in a closed room with their entire executive leadership team"
-  - Source: D.J. Paris firsthand attendance at NAR's 2026 influencer event
-  - Who was measured: D.J. and ~12 other content creators invited nationally
-  - Status: confirmed (D.J.'s firsthand experience; part of NAR's 2026 influencer program)
+ - Source: D.J. Paris firsthand attendance at NAR's 2026 influencer event
+ - Who was measured: D.J. and ~12 other content creators invited nationally
+ - Status: confirmed (D.J.'s firsthand experience; part of NAR's 2026 influencer program)
 
 - **Claim:** "One of about a dozen content creators invited nationally"
-  - Source: Matches D.J.'s documented NAR influencer partnership ("1 of 12 nationally")
-  - Status: confirmed
+ - Source: Matches D.J.'s documented NAR influencer partnership ("1 of 12 nationally")
+ - Status: confirmed
 
 - **Claim:** "Bennett Richardson, Raffi Williams, Nykia Wright -- the whole senior team"
-  - Source: Verified NAR executive roster
-    - Bennett Richardson: SVP Marketing & Communications, NAR (appointed May 2025, per NAR Newsroom + [HousingWire 2025-05-29](https://www.housingwire.com/articles/nar-hires-new-strategic-communications-leaders-bennett-richardson-raffi-williams/))
-    - Raffi Williams: VP Communications, NAR (appointed May 2025, same sources)
-    - Nykia Wright: CEO, NAR (quoted in RISMedia's 2026-04-10 $52.25M Tuccori settlement announcement)
-  - Who was measured: Named current NAR executives confirmed in senior roles
-  - Status: confirmed
+ - Source: Verified NAR executive roster
+ - Bennett Richardson: SVP Marketing & Communications, NAR (appointed May 2025, per NAR Newsroom + [HousingWire 2025-05-29](https://www.housingwire.com/articles/nar-hires-new-strategic-communications-leaders-bennett-richardson-raffi-williams/))
+ - Raffi Williams: VP Communications, NAR (appointed May 2025, same sources)
+ - Nykia Wright: CEO, NAR (quoted in RISMedia's 2026-04-10 $52.25M Tuccori settlement announcement)
+ - Who was measured: Named current NAR executives confirmed in senior roles
+ - Status: confirmed
 
 - **Supporting context:** NAR subsequently reached out to D.J. directly requesting content around the 2026-04-10 Tuccori settlement announcement. That ongoing relationship is documented in the project memory (nar_partnership) and is the subject of IA-002.
 

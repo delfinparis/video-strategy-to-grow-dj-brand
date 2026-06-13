@@ -46,7 +46,7 @@ Most agents have only a vague sense of their real competition. They know the obv
 
 The agents who dominate their markets take a different approach. They know exactly who they're up against and, more importantly, where those agents are vulnerable.
 
-D.J. Paris shares a 30-minute AI-powered research process that reveals competitive gaps. Use Perplexity to gather intel on your top competitors' recent production, social positioning, and reviews. Then leverage Claude to identify three underserved angles you could own in your market.
+D.J. Paris shares a 30-minute AI-powered research process that reveals competitive gaps. Use Perplexity to gather intel on your top competitors' recent production, social positioning, and reviews. Then use Claude to identify three underserved angles you could own in your market.
 
 This intelligence often reveals untapped opportunities in specific price ranges, neighborhoods, or client demographics that become your competitive advantage.
 

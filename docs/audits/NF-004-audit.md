@@ -27,19 +27,19 @@ All six material claims verified. Zero fabrications found. This is a well-source
 
 ## Findings
 
-### CRITICAL — none
+### CRITICAL - none
 
-### HIGH — hook precision
+### HIGH - hook precision
 
 **H1. "NAR just paid $52 million" is slightly imprecise.** NAR *agreed to pay* $52.25M, pending court approval on July 28. Most of the payment is deferred until after the Burnett settlement finishes in 2028. For a LinkedIn post going to senior agents, the more accurate framing is "NAR just settled for $52 million-plus" or "NAR just agreed to pay $52 million." "Just paid" implies the money is already out the door.
 
 **H2. "Tens of billions" is sourced but vague.** The real number is $3.6B from four MLSs, with the plaintiffs' economist projecting up to $75B if a nationwide class certifies. Naming the $3.6B or $75B figure makes the scroll-stopper sharper without fabricating anything.
 
-### MEDIUM — Data Source format
+### MEDIUM - Data Source format
 
 **M1. Data Source section doesn't follow the standard.** It lists URLs and facts but doesn't follow the Rule 1 bullet format (source + year + who was measured + status). Reformat to the standard.
 
-### LOW — WOW line polish
+### LOW - WOW line polish
 
 **L1. Auto-generated WOW line is generic.** The current line reads: "Surprising statistic + earned observation: The Batton Case Is Still Out There. Real news, real numbers, named sources." Can be sharper and more specific.
 
@@ -49,7 +49,7 @@ All six material claims verified. Zero fabrications found. This is a well-source
 
 Current close: *"Keller Williams already paid $20 million. RE/MAX paid $8.5 million. And every brokerage in America is holding its breath until July 28. If your brokerage hasn't said a word about Batton, that's a question worth asking them."*
 
-This is a legitimate **watchpoint close** (universal Rule 4, pattern 3) — it gives the viewer a specific thing to pay attention to (July 28) and a specific action tied to their own business (ask your brokerage). Compliant as-is. Keep.
+This is a legitimate **watchpoint close** (universal Rule 4, pattern 3) - it gives the viewer a specific thing to pay attention to (July 28) and a specific action tied to their own business (ask your brokerage). Compliant as-is. Keep.
 
 ---
 

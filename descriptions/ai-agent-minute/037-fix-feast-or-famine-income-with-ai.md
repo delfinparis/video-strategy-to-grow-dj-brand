@@ -20,7 +20,7 @@ Are you currently in a feast or famine season with your business?
 
 ### INSTAGRAM
 
-The busy season creates the next slow season. That cycle doesn't break by accident — it breaks by design. 💡
+The busy season creates the next slow season. That cycle doesn't break by accident - it breaks by design. 💡
 
 Most agents live in feast-or-famine their entire career and never realize they're the ones causing it. When busy, you stop prospecting. When slow, you panic and start again.
 

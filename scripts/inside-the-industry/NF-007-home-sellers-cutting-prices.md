@@ -38,31 +38,31 @@ Don't borrow someone else's market narrative. Chicago is its own market. Price i
 ## Data Source
 
 - **Claim:** "34% of sellers nationally cut their asking price in February -- highest February rate since 2012"
-  - Source: Redfin analysis reported by RISMedia, "Home Sellers Cutting Prices at Record Rate as Buyer's Market Intensifies, Per Redfin Study," 2026-04-17 ([link](https://www.rismedia.com/2026/04/17/home-sellers-cutting-prices-at-record-rate-as-buyers-market-intensifies-per-redfin-study/)); author Clarissa Garza
-  - Exact figure: 34.2%. Script rounds to "thirty-four percent" for spoken cadence.
-  - Status: confirmed
+ - Source: Redfin analysis reported by RISMedia, "Home Sellers Cutting Prices at Record Rate as Buyer's Market Intensifies, Per Redfin Study," 2026-04-17 ([link](https://www.rismedia.com/2026/04/17/home-sellers-cutting-prices-at-record-rate-as-buyers-market-intensifies-per-redfin-study/)); author Clarissa Garza
+ - Exact figure: 34.2%. Script rounds to "thirty-four percent" for spoken cadence.
+ - Status: confirmed
 
 - **Claim:** "Average cut was seven percent off ask -- roughly forty-one thousand dollars"
-  - Source: same Redfin analysis via RISMedia 2026-04-17. Exact figures: 7.3% / $40,915.
-  - Status: confirmed
+ - Source: same Redfin analysis via RISMedia 2026-04-17. Exact figures: 7.3% / $40,915.
+ - Status: confirmed
 
 - **Claim:** "Most of the pressure is in Sun Belt markets like Austin, San Antonio, and Tampa"
-  - Source: same Redfin analysis. San Antonio 57.9%, Austin 55.2%, Tampa 45.9% cut rates.
-  - Status: confirmed
+ - Source: same Redfin analysis. San Antonio 57.9%, Austin 55.2%, Tampa 45.9% cut rates.
+ - Status: confirmed
 
 - **Claim:** "Illinois REALTORS reported February. Median prices up year-over-year. Inventory down. Sales volume down almost six percent."
-  - Source: Illinois REALTORS February 2026 Housing Report, published 2026-03-18 ([link](https://www.illinoisrealtors.org/marketstats/))
-  - Who was measured: Illinois statewide home sales (7,356 homes sold Feb 2026 vs. 7,820 Feb 2025, a 5.9% YoY decline)
-  - Report language: "Illinois median home prices moved higher in February while home sales and inventory were lower than the year before"
-  - Status: confirmed statewide. Report also publishes City of Chicago specific data; D.J. should pull the Chicago-specific numbers before filming if a tighter local stat is available. The statewide trend is the floor; Chicago typically tracks similar or tighter.
+ - Source: Illinois REALTORS February 2026 Housing Report, published 2026-03-18 ([link](https://www.illinoisrealtors.org/marketstats/))
+ - Who was measured: Illinois statewide home sales (7,356 homes sold Feb 2026 vs. 7,820 Feb 2025, a 5.9% YoY decline)
+ - Report language: "Illinois median home prices moved higher in February while home sales and inventory were lower than the year before"
+ - Status: confirmed statewide. Report also publishes City of Chicago specific data; D.J. should pull the Chicago-specific numbers before filming if a tighter local stat is available. The statewide trend is the floor; Chicago typically tracks similar or tighter.
 
 - **Claim:** "My agents at Kale are walking into listing appointments where they're already strategizing for multiple offers"
-  - Source: D.J. Paris direct observation as VP of Business Development at Kale Realty (Chicago). Pattern reported to D.J. by Kale agents in Business Development conversations across Q1-Q2 2026.
-  - Status: confirmed as D.J.'s firsthand observation (Rule 1 acceptable source #2). If D.J. wants to strengthen the claim further, he can name 2-3 specific Kale agents currently working multiple-offer situations and reference them by first name in a future version.
+ - Source: D.J. Paris direct observation as VP of Business Development at Kale Realty (Chicago). Pattern reported to D.J. by Kale agents in Business Development conversations across Q1-Q2 2026.
+ - Status: confirmed as D.J.'s firsthand observation (Rule 1 acceptable source #2). If D.J. wants to strengthen the claim further, he can name 2-3 specific Kale agents currently working multiple-offer situations and reference them by first name in a future version.
 
 - **Claim:** "Chicago never got the pandemic price spike that Sun Belt markets got"
-  - Source: Qualitative observation from widely reported metro-level housing data 2020-2024. Cook County / Chicago metro home price appreciation was substantially lower than Sun Belt appreciation during the pandemic period.
-  - Status: qualitative -- defensible but not pinned to a single cite. If challenged in comments, D.J. can point to any of the major metro home-price indices (Case-Shiller, Zillow, Redfin) which all show Chicago in the bottom quartile of pandemic-era price appreciation.
+ - Source: Qualitative observation from widely reported metro-level housing data 2020-2024. Cook County / Chicago metro home price appreciation was substantially lower than Sun Belt appreciation during the pandemic period.
+ - Status: qualitative -- defensible but not pinned to a single cite. If challenged in comments, D.J. can point to any of the major metro home-price indices (Case-Shiller, Zillow, Redfin) which all show Chicago in the bottom quartile of pandemic-era price appreciation.
 
 ## Social Media
 

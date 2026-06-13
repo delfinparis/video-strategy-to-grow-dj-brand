@@ -8,7 +8,7 @@
 
 Most agents overprice listings because they're terrified of one conversation - and it costs everyone months they'll never get back. The house sits, the seller gets frustrated, and the listing expires. Then they do it all over again at the next appointment.
 
-D.J. Paris from Keeping It Real Podcast just dropped a game-changing solution: practice pricing conversations with AI before you need them. Tell Claude to act like an emotional seller who thinks their home is worth $50k more than comps support, then practice walking them toward reality without losing the listing.
+D.J. Paris from Keeping It Real Podcast just dropped a solution: practice pricing conversations with AI before you need them. Tell Claude to act like an emotional seller who thinks their home is worth $50k more than comps support, then practice walking them toward reality without losing the listing.
 
 Run this roleplay weekly for just 10 minutes. By the time you're in the real conversation, the words flow naturally. Because telling sellers the truth about price is the most valuable thing you can do for them - you just need the courage to do it.
 

@@ -35,7 +35,7 @@ Eithan Davidov runs one of the top teams in Queens. Investment sales, residentia
 *Production: B-roll of NYC real estate -- busy streets, buildings. Cut to Eithan speaking.*
 
 ### INSIGHT (0:12-0:38)
-He said: 'The fortune is in the follow-up. And as much as I wish it wasn't, it's the hardest part.' Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready. That's where deals live or die. And here's the thing -- he HATES it too. But he does it anyway. Because the agents who can't stomach the follow-up? They're the ones wondering why their pipeline's empty.
+He said: 'The fortune is in the follow-up. And as much as I wish it wasn't, it's the hardest part.' Not the first call. Not the listing presentation. The third text. The fifth email. The call three months later when they're finally ready. That's where deals live or die. And here's what gets me. He HATES it too. But he does it anyway. Because the agents who can't stomach the follow-up? They're the ones wondering why their pipeline's empty.
 
 *Production: Show Eithan's exact quote as he says it. Then cut to text overlays: 'The 3rd text.' 'The 5th email.' 'The call 3 months later.' Finish on Eithan nodding.*
 

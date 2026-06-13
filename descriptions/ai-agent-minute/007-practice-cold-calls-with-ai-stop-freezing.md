@@ -10,7 +10,7 @@ Memorizing a cold call script isn't the same as practicing one. The moment a pro
 
 Here's what changed everything for me: using AI to practice objection handling. I tell Claude to act as a skeptical FSBO owner who's had bad experiences with agents, then run mock calls out loud. Ten reps with AI throwing curveballs I've never heard before.
 
-The result? When I pick up the real phone, nothing surprises me anymore. Confidence on cold calls isn't talent — it's reps. And AI just made unlimited practice completely free.
+The result? When I pick up the real phone, nothing surprises me anymore. Confidence on cold calls isn't talent - it's reps. And AI just made unlimited practice completely free.
 
 What's your biggest fear when making cold calls? Let me know and I'll tackle it in an upcoming video.
 
@@ -22,7 +22,7 @@ Confidence on cold calls isn't talent. It's reps. AI just made unlimited practic
 
 Most agents memorize scripts but never actually practice handling objections out loud. The moment someone pushes back, they freeze.
 
-Here's the game-changer: Tell Claude to act as a skeptical FSBO owner and run mock calls. Practice the same call 10 times with AI throwing different objections each time.
+Tell Claude to act as a skeptical FSBO owner and run mock calls. Practice the same call 10 times with AI throwing different objections each time.
 
 What's your biggest cold call fear? Drop it below 👇
 
@@ -44,7 +44,7 @@ Most agents memorize scripts but never rehearse the curveballs. When a prospect 
 
 Here's what's working now: Using AI as a practice partner. I instruct Claude to roleplay as a skeptical FSBO owner with bad agent experiences, then run the same call scenario 10 times out loud. Each iteration throws different objections, building real confidence through repetition.
 
-The breakthrough insight? Confidence on cold calls isn't innate talent—it's accumulated reps. AI tools have now made unlimited, free practice accessible to every agent willing to put in the work.
+The breakthrough insight? Confidence on cold calls isn't innate talent-it's accumulated reps. AI tools have now made unlimited, free practice accessible to every agent willing to put in the work.
 
 What's the biggest objection that catches you off guard during prospecting calls?
 
