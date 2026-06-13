@@ -57,6 +57,14 @@ Environment:
   which is how it reaches "whatever Mac I'm on." The subject carries the bucket
   counts so the inbox is scannable without opening it.
 
+  Real-time push (optional, for a dedicated banner on iPhone + Mac):
+    NTFY_TOPIC    a private, unguessable topic you subscribe to in the free
+                  ntfy app (App Store / Mac App Store). Topics are public by
+                  name on ntfy.sh, so make it unguessable.
+    NTFY_SERVER   optional, default https://ntfy.sh
+  The push carries the counts in its title and the top "implement" tactics in
+  the body. Email stays the full record; the push is just the instant ping.
+
 Cost: ~$0.05-0.15 per run using claude-sonnet-4-6. This run uses Sonnet, not
 Haiku, on purpose: detecting whether a tactic quietly violates D.J.'s editorial
 rules (e.g. an engagement-ask dressed up as "a hook") is a judgment job, not a
@@ -619,6 +627,49 @@ def send_email(subject, body):
         return f"FAILED: {str(e)[:120]}"
 
 
+def send_push(subject, tactics):
+    """Send a real-time banner via ntfy, if a topic is configured.
+
+    Reads:
+      NTFY_TOPIC    a private, hard-to-guess topic you subscribe to in the
+                    ntfy app (ntfy.sh topics are public by name, so pick
+                    something unguessable, e.g. djparis-growth-7r4k9q).
+      NTFY_SERVER   optional, default https://ntfy.sh
+    Carries the bucket counts in the title and the top "implement" tactics in
+    the body. Returns a short status string. Never raises.
+    """
+    topic = os.environ.get("NTFY_TOPIC")
+    if not topic:
+        return "skipped (set NTFY_TOPIC to enable)"
+    server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
+
+    implement = [t for t in (tactics or []) if t.get("verdict") == "implement"]
+    if implement:
+        body = "Top to implement:\n" + "\n".join(
+            f"- {t.get('tactic', '')[:140]}" for t in implement[:3]
+        )
+    elif tactics:
+        body = "No must-implement tactics this week. Check Adapt/Skip in the email."
+    else:
+        body = "New items pulled, no scoring this run. See the email."
+
+    req = urllib.request.Request(
+        f"{server}/{topic}",
+        data=body.encode("utf-8"),
+        headers={
+            "Title": subject.encode("ascii", "replace").decode(),  # ntfy headers are latin-1
+            "Tags": "chart_with_upwards_trend",
+            "Priority": "default",
+        },
+        method="POST",
+    )
+    try:
+        urllib.request.urlopen(req, timeout=15)
+        return f"pushed to {server}/{topic}"
+    except Exception as e:
+        return f"FAILED: {str(e)[:120]}"
+
+
 def digest_subject(tactics, items):
     label = iso_week_label()
     if not tactics:
@@ -639,6 +690,7 @@ def main():
     parser.add_argument("--all", action="store_true", help="Ignore the seen-cache")
     parser.add_argument("--model", default=DEFAULT_MODEL, help=f"Claude model (default {DEFAULT_MODEL})")
     parser.add_argument("--no-email", action="store_true", help="Don't email the digest even if SMTP env is set")
+    parser.add_argument("--no-push", action="store_true", help="Don't send the ntfy push even if NTFY_TOPIC is set")
     args = parser.parse_args()
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -682,9 +734,11 @@ def main():
     out_path.write_text(digest, encoding="utf-8")
     print(f"wrote {out_path}", file=sys.stderr)
 
+    subj = digest_subject(tactics, items)
     if not args.no_email:
-        status = send_email(digest_subject(tactics, items), digest)
-        print(f"email: {status}", file=sys.stderr)
+        print(f"email: {send_email(subj, digest)}", file=sys.stderr)
+    if not args.no_push:
+        print(f"push: {send_push(subj, tactics)}", file=sys.stderr)
 
     state["seen"].extend(i["link"] for i in items if i["link"])
     save_state(state)

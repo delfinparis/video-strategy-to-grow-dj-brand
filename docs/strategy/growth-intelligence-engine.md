@@ -110,7 +110,7 @@ The digest writes to `data/growth-digests/YYYY-Www.md` and, if email is configur
 
 Turn it on by setting three environment variables in the launchd plist: `DIGEST_EMAIL_TO`, `DIGEST_SMTP_USER`, and `DIGEST_SMTP_APP_PASSWORD` (a Gmail App Password, not the login password). Leave them unset and the engine just writes the file. The mechanism is plain SMTP over the Python standard library, no extra dependency.
 
-For a louder real-time banner on top of email, a lightweight push service (ntfy.sh or Pushover) can POST a one-line summary; not built yet, added on request.
+For a louder real-time banner on top of email, the engine also pushes via [ntfy](https://ntfy.sh) when `NTFY_TOPIC` is set. Install the free ntfy app on the iPhone and Mac, subscribe to a private unguessable topic, and put the same topic in the plist. The push carries the bucket counts in its title and the top "implement" tactics in the body; email stays the full record. Delete the env var to rely on email alone.
 
 ## How this fits the repo
 

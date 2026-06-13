@@ -86,6 +86,13 @@
     <key>DIGEST_SMTP_APP_PASSWORD</key>
     <string>REPLACE_WITH_GMAIL_APP_PASSWORD</string>
 
+    <!-- Real-time push (optional). Install the free ntfy app on iPhone + Mac,
+         subscribe to a private topic of your choosing, and put the SAME topic
+         here. Topics are public by name on ntfy.sh, so make it unguessable.
+         Delete this key to skip push and rely on email only. -->
+    <key>NTFY_TOPIC</key>
+    <string>REPLACE_WITH_NTFY_TOPIC</string>
+
     <key>PATH</key>
     <string>/usr/local/bin:/usr/bin:/bin</string>
   </dict>
