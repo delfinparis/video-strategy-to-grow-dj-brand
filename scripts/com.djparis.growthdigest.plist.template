@@ -11,7 +11,9 @@
 
   Setup:
   1. Copy this file to ~/Library/LaunchAgents/com.djparis.growthdigest.plist
-  2. Replace REPLACE_WITH_YOUR_KEY with your real ANTHROPIC_API_KEY
+  2. Replace REPLACE_WITH_YOUR_KEY with your real ANTHROPIC_API_KEY, and
+     REPLACE_WITH_GMAIL_APP_PASSWORD with a Gmail App Password (see the email
+     block below) to have the digest emailed to all your devices.
   3. Load it:   launchctl load ~/Library/LaunchAgents/com.djparis.growthdigest.plist
   4. Verify:    launchctl list | grep djparis
   5. Test now:  launchctl start com.djparis.growthdigest
@@ -71,6 +73,19 @@
   <dict>
     <key>ANTHROPIC_API_KEY</key>
     <string>REPLACE_WITH_YOUR_KEY</string>
+
+    <!-- Email delivery. Set all three to email the digest to every device on
+         the account. DIGEST_SMTP_APP_PASSWORD is a Gmail App Password (16
+         chars), NOT your login password. Generate at myaccount.google.com ->
+         Security -> 2-Step Verification -> App passwords. Leave as-is to skip
+         email and just write the file. -->
+    <key>DIGEST_EMAIL_TO</key>
+    <string>delfinparis@gmail.com</string>
+    <key>DIGEST_SMTP_USER</key>
+    <string>delfinparis@gmail.com</string>
+    <key>DIGEST_SMTP_APP_PASSWORD</key>
+    <string>REPLACE_WITH_GMAIL_APP_PASSWORD</string>
+
     <key>PATH</key>
     <string>/usr/local/bin:/usr/bin:/bin</string>
   </dict>

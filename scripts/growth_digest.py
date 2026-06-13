@@ -35,13 +35,27 @@ Usage:
   python3 scripts/growth_digest.py --all
   # ignore the seen-cache and reconsider everything in the window
 
+  python3 scripts/growth_digest.py --no-email
+  # write the file but don't email it, even if SMTP env is configured
+
 Dependencies:
   pip install feedparser anthropic youtube-transcript-api
   (feedparser + anthropic are required; youtube-transcript-api is optional --
-   without it the script degrades to video titles + descriptions.)
+   without it the script degrades to video titles + descriptions. Email uses
+   the Python standard library, no extra package.)
 
 Environment:
   ANTHROPIC_API_KEY must be set (export ANTHROPIC_API_KEY=sk-ant-...)
+
+  Email delivery (optional -- set all three to turn it on):
+    DIGEST_EMAIL_TO            where the digest is sent
+    DIGEST_SMTP_USER           sending Gmail address
+    DIGEST_SMTP_APP_PASSWORD   a Gmail App Password (16 chars, NOT the login
+                               password). Generate at myaccount.google.com ->
+                               Security -> 2-Step Verification -> App passwords.
+  The digest emails to every device on that account (iPhone Mail, Mac Mail),
+  which is how it reaches "whatever Mac I'm on." The subject carries the bucket
+  counts so the inbox is scannable without opening it.
 
 Cost: ~$0.05-0.15 per run using claude-sonnet-4-6. This run uses Sonnet, not
 Haiku, on purpose: detecting whether a tactic quietly violates D.J.'s editorial
@@ -63,10 +77,13 @@ import argparse
 import json
 import os
 import re
+import smtplib
+import ssl
 import sys
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
+from email.message import EmailMessage
 from pathlib import Path
 
 try:
@@ -546,6 +563,51 @@ def format_digest(items, tactics, failures, lookback_days, transcripts_fetched):
     return "\n".join(lines)
 
 
+def send_email(subject, body):
+    """Email the digest via SMTP, if credentials are in the environment.
+
+    Reads (no secrets in the repo):
+      DIGEST_EMAIL_TO            recipient address
+      DIGEST_SMTP_USER           sending account (e.g. delfinparis@gmail.com)
+      DIGEST_SMTP_APP_PASSWORD   Gmail app password (not the account password)
+      DIGEST_SMTP_HOST/PORT      optional, default smtp.gmail.com:587
+    Returns a short status string for logging. Never raises.
+    """
+    to_addr = os.environ.get("DIGEST_EMAIL_TO")
+    user = os.environ.get("DIGEST_SMTP_USER")
+    password = os.environ.get("DIGEST_SMTP_APP_PASSWORD")
+    if not (to_addr and user and password):
+        return "skipped (set DIGEST_EMAIL_TO + DIGEST_SMTP_USER + DIGEST_SMTP_APP_PASSWORD to enable)"
+    host = os.environ.get("DIGEST_SMTP_HOST", "smtp.gmail.com")
+    port = int(os.environ.get("DIGEST_SMTP_PORT", "587"))
+
+    msg = EmailMessage()
+    msg["Subject"] = subject
+    msg["From"] = user
+    msg["To"] = to_addr
+    msg.set_content(body)
+    try:
+        with smtplib.SMTP(host, port, timeout=30) as server:
+            server.starttls(context=ssl.create_default_context())
+            server.login(user, password)
+            server.send_message(msg)
+        return f"sent to {to_addr}"
+    except Exception as e:
+        return f"FAILED: {str(e)[:120]}"
+
+
+def digest_subject(tactics, items):
+    label = iso_week_label()
+    if not tactics:
+        return f"Growth digest {label}: {len(items)} new items (raw, no scoring)"
+    counts = {"implement": 0, "adapt": 0, "skip": 0}
+    for t in tactics:
+        v = t.get("verdict", "adapt")
+        counts[v] = counts.get(v, 0) + 1
+    return (f"Growth digest {label}: {counts['implement']} implement, "
+            f"{counts['adapt']} adapt, {counts['skip']} skip")
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--lookback", type=int, default=7, help="Lookback window in days (default 7)")
@@ -553,6 +615,7 @@ def main():
     parser.add_argument("--no-llm", action="store_true", help="Skip Claude extraction; raw list only")
     parser.add_argument("--all", action="store_true", help="Ignore the seen-cache")
     parser.add_argument("--model", default=DEFAULT_MODEL, help=f"Claude model (default {DEFAULT_MODEL})")
+    parser.add_argument("--no-email", action="store_true", help="Don't email the digest even if SMTP env is set")
     args = parser.parse_args()
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -595,6 +658,10 @@ def main():
     out_path = OUTPUT_DIR / f"{iso_week_label()}.md"
     out_path.write_text(digest, encoding="utf-8")
     print(f"wrote {out_path}", file=sys.stderr)
+
+    if not args.no_email:
+        status = send_email(digest_subject(tactics, items), digest)
+        print(f"email: {status}", file=sys.stderr)
 
     state["seen"].extend(i["link"] for i in items if i["link"])
     save_state(state)

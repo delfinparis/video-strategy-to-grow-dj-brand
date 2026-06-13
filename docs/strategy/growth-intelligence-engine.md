@@ -104,6 +104,14 @@ Local, not cloud, is deliberate. YouTube caption fetching and Reddit pulls are f
 
 ---
 
+## Delivery
+
+The digest writes to `data/growth-digests/YYYY-Www.md` and, if email is configured, sends to every device on the account. Email is the carrier on purpose: it lands on the iPhone and on whatever Mac D.J. is using, with nothing to install or keep signed in, and the subject line carries the bucket counts (`3 implement, 2 adapt, 4 skip`) so the inbox is scannable without opening it.
+
+Turn it on by setting three environment variables in the launchd plist: `DIGEST_EMAIL_TO`, `DIGEST_SMTP_USER`, and `DIGEST_SMTP_APP_PASSWORD` (a Gmail App Password, not the login password). Leave them unset and the engine just writes the file. The mechanism is plain SMTP over the Python standard library, no extra dependency.
+
+For a louder real-time banner on top of email, a lightweight push service (ntfy.sh or Pushover) can POST a one-line summary; not built yet, added on request.
+
 ## How this fits the repo
 
 The digest is an **input to ideation**, parallel to the daily [`news_brief.py`](../../scripts/news_brief.py). News brief answers "what should I make a video about." Growth digest answers "how should I make and distribute it better." Neither writes content. Both feed the human decision.
