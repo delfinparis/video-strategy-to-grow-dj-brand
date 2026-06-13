@@ -82,9 +82,13 @@ import ssl
 import sys
 import urllib.parse
 import urllib.request
+import warnings
 from datetime import datetime, timedelta, timezone
 from email.message import EmailMessage
 from pathlib import Path
+
+# Harmless on macOS system Python (LibreSSL vs OpenSSL); keep it out of the log.
+warnings.filterwarnings("ignore", message=r".*OpenSSL 1\.1\.1\+.*")
 
 try:
     import feedparser
@@ -392,6 +396,18 @@ def fetch_reddit(subs, cutoff, failures):
     return items
 
 
+def _make_transcript_getter(api_cls):
+    """Return a fn video_id -> list[{'text': ...}], spanning both library APIs.
+
+    youtube-transcript-api < 1.0 exposed the classmethod get_transcript().
+    Version 1.0+ removed it in favor of an instance method: YouTubeTranscriptApi().fetch().
+    """
+    if hasattr(api_cls, "get_transcript"):
+        return lambda vid: api_cls.get_transcript(vid)
+    instance = api_cls()
+    return lambda vid: instance.fetch(vid).to_raw_data()
+
+
 def add_transcripts(items, max_transcripts):
     """Fetch YouTube captions for the newest videos, in place. Optional dependency."""
     try:
@@ -401,18 +417,25 @@ def add_transcripts(items, max_transcripts):
         print("  (pip install youtube-transcript-api for richer extraction)", file=sys.stderr)
         return 0
 
+    get_transcript = _make_transcript_getter(YouTubeTranscriptApi)
     yt_items = [i for i in items if i["origin"] == "youtube" and i.get("video_id")]
     yt_items.sort(key=lambda i: i.get("date", ""), reverse=True)
     fetched = 0
+    first_error = None
     for item in yt_items[:max_transcripts]:
         try:
-            chunks = YouTubeTranscriptApi.get_transcript(item["video_id"])
+            chunks = get_transcript(item["video_id"])
             text = " ".join(c["text"] for c in chunks)
             item["transcript"] = clean_text(text, TRANSCRIPT_CHAR_CAP)
             fetched += 1
-        except Exception:
-            # No captions, disabled, or rate-limited. Fall back to the summary.
+        except Exception as e:
+            # No captions, disabled, or IP-throttled. Fall back to the summary.
+            if first_error is None:
+                first_error = f"{type(e).__name__}: {str(e)[:100]}"
             continue
+    if fetched == 0 and yt_items and first_error:
+        # Surface the cause so a future IP-throttle is visible, not silent.
+        print(f"  no transcripts fetched; first error -> {first_error}", file=sys.stderr)
     return fetched
 
 
