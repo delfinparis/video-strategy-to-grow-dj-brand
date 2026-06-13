@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd template for the WEEKLY growth-intelligence digest.
+
+  Companion to com.djparis.newsbrief.plist (daily). This one runs weekly,
+  Monday at 6:00am, so the digest is waiting before the week's content
+  decisions get made.
+
+  One-time prerequisite (install deps for the python3 launchd will use):
+    /usr/bin/python3 -m pip install --user feedparser anthropic youtube-transcript-api
+
+  Setup:
+  1. Copy this file to ~/Library/LaunchAgents/com.djparis.growthdigest.plist
+  2. Replace REPLACE_WITH_YOUR_KEY with your real ANTHROPIC_API_KEY
+  3. Load it:   launchctl load ~/Library/LaunchAgents/com.djparis.growthdigest.plist
+  4. Verify:    launchctl list | grep djparis
+  5. Test now:  launchctl start com.djparis.growthdigest
+
+  The digest writes to
+  ~/video-strategy-to-grow-dj-brand/data/growth-digests/YYYY-Www.md
+
+  To disable temporarily:  launchctl unload ~/Library/LaunchAgents/com.djparis.growthdigest.plist
+  To re-enable:            launchctl load ~/Library/LaunchAgents/com.djparis.growthdigest.plist
+  To change the day/time:  edit Weekday/Hour/Minute below, then unload + reload
+  To check logs:           cat /tmp/growthdigest.log (stdout)
+                           cat /tmp/growthdigest-err.log (errors)
+
+  Note on hosting: this runs locally on purpose. YouTube caption fetching and
+  Reddit pulls are far more reliable from a residential IP than a cloud
+  datacenter IP, the same reason the voice-tuning workflow pulls locally. If
+  the Mac is asleep at 6am Monday, launchd runs the job when it next wakes.
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.djparis.growthdigest</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>/Users/djparis/video-strategy-to-grow-dj-brand/scripts/growth_digest.py</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/djparis/video-strategy-to-grow-dj-brand</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key><integer>1</integer>
+    <key>Hour</key><integer>6</integer>
+    <key>Minute</key><integer>0</integer>
+  </dict>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>ANTHROPIC_API_KEY</key>
+    <string>REPLACE_WITH_YOUR_KEY</string>
+    <key>PATH</key>
+    <string>/usr/local/bin:/usr/bin:/bin</string>
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>/tmp/growthdigest.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/tmp/growthdigest-err.log</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>

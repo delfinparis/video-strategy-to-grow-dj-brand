@@ -171,6 +171,14 @@ python3 scripts/news_brief.py
 
 Produces a daily LLM-triaged top-5 stories brief to `data/news-briefs/YYYY-MM-DD.md` with angle suggestions for NF scripts. Use `--no-llm` for a raw feed pull.
 
+Growth-intelligence digest:
+
+```bash
+python3 scripts/growth_digest.py
+```
+
+Weekly companion to the news brief. Scours a curated watchlist of creator-growth sources (YouTube, podcasts, Reddit), extracts concrete tactics, and scores each against D.J.'s platform priority, recruiting-first goal, and editorial rules. Output lands in `data/growth-digests/YYYY-Www.md`, grouped into Implement / Adapt / Skip. Where the news brief answers "what to make a video about," this answers "how to make and distribute it better." Full spec: [`docs/strategy/growth-intelligence-engine.md`](docs/strategy/growth-intelligence-engine.md).
+
 **Note:** The Playbook, Inside the Industry, AI Tip of the Week, and podcast promos are hand-authored in their respective `scripts/` subfolders and not yet integrated into `build.py`.
 
 **Dependencies:** Python 3 standard library only. macOS required (`textutil` for RTF).
@@ -195,11 +203,14 @@ video-strategy-to-grow-dj-brand/
 │   ├── reels/                             # Generated reel assets
 │   ├── bonus/
 │   ├── news_brief.py                      # Daily news-feed triage
-│   └── com.djparis.newsbrief.plist.template
+│   ├── com.djparis.newsbrief.plist.template
+│   ├── growth_digest.py                   # Weekly creator-growth tactic digest
+│   └── com.djparis.growthdigest.plist.template
 ├── data/
 │   ├── publishing-log.csv                 # Every post, for attribution
 │   ├── metrics/                           # Weekly snapshots YYYY-WW.csv
-│   └── news-briefs/                       # Daily news briefs
+│   ├── news-briefs/                       # Daily news briefs
+│   └── growth-digests/                    # Weekly growth-intelligence digests
 ├── descriptions/
 │   ├── ai-agent-minute/
 │   └── agent-tip-of-the-day/
