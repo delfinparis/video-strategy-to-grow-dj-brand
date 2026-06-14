@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd template for the MONTHLY content-performance report.
+
+  Companion to com.djparis.newsbrief.plist (daily) and
+  com.djparis.growthdigest.plist (weekly). This one runs monthly, on the 1st at
+  7:00am, and regenerates docs/analytics/YYYY-MM-DD-report.md from whatever is
+  in data/metrics/*.csv.
+
+  No API key, no dependencies. analyze_posts.py is pure Python stdlib -- it only
+  reads the local CSVs and writes a markdown report. That is why this template
+  has no EnvironmentVariables secrets block, unlike the growth digest.
+
+  IMPORTANT -- this job re-renders LOCAL data. It does not fetch anything. The
+  numbers only improve when you add a new month's export to data/metrics/ (drop
+  the Metricool/Instagram/Facebook CSVs in, keeping the `label` topic-slug
+  column). The monthly run is the standing reminder + auto-render; do the export
+  first. A good rhythm: export last month's metrics in the first few days of the
+  new month, commit them, and this job (or a manual `python3
+  scripts/analyze_posts.py --month YYYY-MM`) turns them into the report.
+
+  Setup (on the always-on Mac where the repo is checked out):
+  1. Edit the two paths below if your checkout is not at
+     /Users/djparis/video-strategy-to-grow-dj-brand (match the same path the
+     newsbrief/growthdigest plists use on that machine).
+  2. Copy this file to ~/Library/LaunchAgents/com.djparis.analytics.plist
+  3. Load it:    launchctl load ~/Library/LaunchAgents/com.djparis.analytics.plist
+  4. Verify:     launchctl list | grep djparis
+  5. Test now:   launchctl start com.djparis.analytics
+                 then check docs/analytics/ for today's report.
+
+  Sleep: no pmset wake needed. This is not time-critical -- launchd runs a
+  missed monthly job at the next full wake, and the report is just a re-render
+  of local data, so an hour's slip costs nothing. (pmset repeat only supports
+  daily/day-of-week wakes anyway, not day-of-month.)
+
+  Disable temporarily:  launchctl unload ~/Library/LaunchAgents/com.djparis.analytics.plist
+  Re-enable:            launchctl load ~/Library/LaunchAgents/com.djparis.analytics.plist
+  Logs:                 cat /tmp/analytics.log   (stdout)
+                        cat /tmp/analytics-err.log (errors)
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.djparis.analytics</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>/Users/djparis/video-strategy-to-grow-dj-brand/scripts/analyze_posts.py</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/djparis/video-strategy-to-grow-dj-brand</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Day</key><integer>1</integer>
+    <key>Hour</key><integer>7</integer>
+    <key>Minute</key><integer>0</integer>
+  </dict>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/usr/local/bin:/usr/bin:/bin</string>
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>/tmp/analytics.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/tmp/analytics-err.log</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>
