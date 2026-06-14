@@ -116,6 +116,7 @@ Next time you're with a longtime homeowner, ask one question. Have you run the n
 ### TikTok
 **Caption:**
 13 million homeowners feel stuck. Not because of rates. Because of a 1997 tax rule. Here's the one question that gets them talking.
+**Hashtags:** #realtortok #realestatetok #realtor #capitalgains #realestatetax #homeselling #realestatenews
 
 ### YouTube Shorts
 **Title:** Thirteen Million Homeowners Are Stuck. A 1997 Tax Rule Is Why.
