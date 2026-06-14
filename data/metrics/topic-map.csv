@@ -1,0 +1,112 @@
+label,topic,category,series
+# Alias unification for analyze_posts.py. The biz accounts truncate labels and
+# the personal account spells them out, so the same story lands under several
+# slugs. Each `label` (matched against the suffix-stripped, lowercased topic) is
+# remapped to a canonical `topic`. category/series are optional overrides; leave
+# blank to keep the auto-derived category. Add a row whenever a new spelling of
+# an existing story shows up. Distinct stories are intentionally NOT merged.
+#
+# --- federal judge / MLS / Zillow ruling (the May viral hit) ---
+federal-judge-mls,federal-judge-mls-zillow,,
+federal-judge-zillow,federal-judge-mls-zillow,,
+federal-judge-mls-zillow-a,federal-judge-mls-zillow,,
+federal-judge-mls-zillow-b,federal-judge-mls-zillow,,
+judge-ordered-mls,federal-judge-mls-zillow,,
+zillow-sued-mred,federal-judge-mls-zillow,,
+# --- 43,000 listings restored by the judge ---
+43000-chicago-listings,43000-listings-judge,,
+43000-disappeared,43000-listings-judge,,
+43000-listings,43000-listings-judge,,
+43000-vanished-judge,43000-listings-judge,,
+43000-listings-judge-restored,43000-listings-judge,,
+# --- Compass economist ---
+compass-economist-disappointing,compass-economist,,
+compass-disappointing,compass-economist,,
+# --- ReMax "mad at the wrong people" ---
+remax-mad-wrong-people,remax-mad-at-wrong-people,,
+# --- NAR $300k budget ---
+nar-300k,nar-300k-budget,,
+nar-300k-3things,nar-300k-budget,,
+nar-budgeted-300k,nar-300k-budget,,
+nar-300k-quit-budget,nar-300k-budget,,
+# --- Brokerage loses $20k ---
+brokerage-20k,brokerage-loses-20k,,
+brokerage-20k-volunteer-policy,brokerage-loses-20k,,
+# --- Dual agency / 2165 ---
+dual-agency-hurts,dual-agency-2165,,
+dual-agency-hurts-2165,dual-agency-2165,,
+# --- 62% of companies using AI ---
+62pct-companies,62pct-companies-ai,,
+62pct-companies-ai-agents,62pct-companies-ai,,
+# --- 72% of agents AI workflow ---
+72pct-agents-ai,72pct-agents-ai-workflow,,
+72pct-agents-workflow,72pct-agents-ai-workflow,,
+72pct-ai-daily,72pct-agents-ai-workflow,,
+72pct-ai-workflow,72pct-agents-ai-workflow,,
+# --- 88% of buyers use an agent ---
+88pct-buyers-use-agent,88pct-buyers,,
+# --- HUD crime/schools rule ---
+hud-crime-schools-rule,hud-crime-schools,,
+# --- 6 of us / NAR capital gains ---
+6-of-us-nar-capital-gains,6-of-us-nar,,
+# --- Kevin Warsh new Fed chair ---
+kevin-warsh-fed-chair,kevin-warsh,,
+new-fed-chair-same-rates,kevin-warsh,,
+# --- Listing presentations ---
+listing-presentations-dont-matter,listing-presentations,,
+# --- April jobs report ---
+april-jobs-report,jobs-report,,
+jobs-report-next-listing,jobs-report,,
+# --- Buyer wants to write the exact line ---
+buyer-wants-to-write-exact-line,buyer-wants-write,,
+# --- Zillow + MRED "what it means this week" ---
+zillow-mred-means-this-week,zillow-mred-means,,
+# --- Zillow 3 years dual agency ---
+zillow-3-years-dual-agency,zillow-3-years,,
+# --- Dual agency $1.5b / off-MLS $1.3b ---
+dual-agency-1.5b-offmls-1.3b,dual-agency-1.5b,,
+# --- MRED stops syndicating to Zillow ---
+mred-heads-up,mred-stop-syndicating,,
+mred-stop-syndicating-heads-up,mred-stop-syndicating,,
+mred-pulled-zillow-feed,mred-stop-syndicating,,
+# --- Webinar tomorrow ---
+webinar-tomorrow-noon,webinar-tomorrow,,
+tomorrow-noon-webinar,webinar-tomorrow,,
+# --- 4% of buyers at open house ---
+4pct-buyers-open-house,4pct-open-house,,
+# --- Emma $6m Breakthrough w/ Michael ---
+emma-6m-breakthrough-michael,emma-6m-breakthrough,,
+# --- Quarter of Chicago pending ---
+quarter-chicago,quarter-chicago-pending,,
+quarter-chicago-pending-week,quarter-chicago-pending,,
+# --- Seller saw the Compass billboard ---
+seller-billboard,seller-compass-billboard,,
+seller-billboard-private,seller-compass-billboard,,
+seller-billboard-go-private,seller-compass-billboard,,
+seller-saw-compass-billboard,seller-compass-billboard,,
+# --- Rates highest since August ---
+rates-highest-since-august,rates-highest,,
+# --- NAR MLS filter rules 8.5 ---
+nar-mls-rules,nar-mls-filter-rules,,
+nar-mls-filter-rules-8.5,nar-mls-filter-rules,,
+nar-published-rules,nar-mls-filter-rules,,
+# --- 85% of agents not on TikTok ---
+85pct-tiktok,85pct-agents-tiktok,,
+85pct-agents-not-on-tiktok,85pct-agents-tiktok,,
+# --- Your next listing client posted signals ---
+next-listing-client-posted-signals,next-listing-client,,
+# --- Top producers losing leverage ---
+top-producers-losing-leverage,top-producers-losing,,
+# --- Chicago 7x appreciation ---
+chicago-7x-appreciation,chicago-7x,,
+# --- No listings / losing pending high ---
+no-listings-losing-pending-high,no-listings,,
+# --- Young agent closed $6m (KIR guest) ---
+23yo-closed-6m,agent-closed-6m,,
+she-closed-6m,agent-closed-6m,,
+closed-6m-cant-prospect,agent-closed-6m,,
+# --- Appraiser pricing event ---
+appraiser-pricing-event-thu,appraiser-pricing-event,,
+price-like-appraiser-event,appraiser-pricing-event,,
+# --- Buyers waiting for 5% rates ---
+rates-waiting-5pct,buyers-waiting-5pct-rates,,

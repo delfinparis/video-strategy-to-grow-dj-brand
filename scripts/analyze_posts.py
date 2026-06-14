@@ -101,7 +101,7 @@ def load_topic_map():
     with open(TOPIC_MAP_PATH, encoding="utf-8") as f:
         for r in csv.DictReader(f):
             label = (r.get("label") or "").strip().lower()
-            if not label:
+            if not label or label.startswith("#"):
                 continue
             mapping[label] = {
                 "topic": (r.get("topic") or "").strip().lower(),
@@ -167,8 +167,10 @@ def load_metrics(month_filter=None, topic_map=None):
                 if not raw_label:
                     continue
                 topic, category, flag = normalize_label(raw_label)
-                # topic-map override (alias unification + category/series)
-                m = topic_map.get(raw_label.lower())
+                # topic-map override (alias unification + category/series). Match
+                # on the full raw label first, then the suffix-stripped topic, so
+                # a map keyed on either form resolves.
+                m = topic_map.get(raw_label.lower()) or topic_map.get(topic)
                 if m:
                     topic = m["topic"] or topic
                     category = m["category"] or category
