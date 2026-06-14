@@ -102,6 +102,7 @@ This is the policy story that hits pipelines twelve months from now. NAR is sign
 ### TikTok
 **Caption:**
 Just got out of a closed-door meeting with senior leadership at NAR. They told me what the next big policy battle is, and it's not commissions this time.
+**Hashtags:** #realtortok #realestatetok #realtor #nar #capitalgains #realestatepolicy #insidetheindustry
 
 ### YouTube Shorts
 **Title:** I Just Got Out of a Closed-Door Meeting With NAR -- Here's the Next Big Policy Battle
