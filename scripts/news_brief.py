@@ -564,6 +564,24 @@ def save_seen(seen):
     STATE_FILE.write_text(json.dumps({"seen": sorted(seen)[-2000:]}, indent=2))
 
 
+def write_takes_sidecar(takes, candidates):
+    """Write a machine-readable sidecar pairing each take with its source story
+    and fetched article body, so the drafting agent (draft_nf.py) has clean
+    structured input instead of re-parsing the markdown brief."""
+    today = now_utc().strftime("%Y-%m-%d")
+    entries = []
+    for i, take in enumerate(takes or []):
+        cand = candidates[i] if i < len(candidates) else {}
+        entries.append({
+            "take": take,
+            "story": cand.get("story", {}),
+            "body": cand.get("body", ""),
+        })
+    path = OUTPUT_DIR / f"{today}.takes.json"
+    path.write_text(json.dumps({"date": today, "entries": entries}, indent=2), encoding="utf-8")
+    return path, entries
+
+
 # ---------------------------------------------------------------------------
 # Brief assembly
 # ---------------------------------------------------------------------------
@@ -577,7 +595,8 @@ def _scrub(text):
     return re.sub(r",\s*,", ",", text).strip()
 
 
-def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir_note):
+def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir_note,
+                 stat_tips=None, stat_note=""):
     today = now_utc().strftime("%Y-%m-%d")
     tier_counts = {}
     for s in stories:
@@ -589,6 +608,20 @@ def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir
         f"{tier_counts.get('regulatory',0)} regulatory). KIR tie-in: {kir_note}.*",
         "",
     ]
+
+    if stat_tips:
+        lines.append("## Today's stat tip (evergreen, persists until you film it)")
+        lines.append(f"*Stat bank: {stat_note}. A \"did you know X, here's how to use it\" "
+                     "option that stays in the brief day to day until a filmed script uses the number.*")
+        lines.append("")
+        for t in stat_tips:
+            lines.append(f"- **Stat:** {_scrub(t.get('stat',''))}")
+            lines.append(f"- **Source:** {t.get('source','?')}"
+                         + (f"  |  [link]({t['url']})" if t.get("url") else ""))
+            lines.append(f"- **How to use it:** {_scrub(t.get('tip',''))}")
+            if t.get("why_today"):
+                lines.append(f"- **Why it fits today:** {_scrub(t.get('why_today'))}")
+            lines.append("")
 
     if takes:
         lines.append("## Top candidates for NF scripts")
@@ -734,6 +767,11 @@ def main():
     parser.add_argument("--no-email", action="store_true", help="Don't email even if env is set")
     parser.add_argument("--no-push", action="store_true", help="Don't push even if NTFY_TOPIC is set")
     parser.add_argument("--top", type=int, default=5, help="How many stories get a written take (default 5)")
+    parser.add_argument("--draft", type=int, default=0, metavar="N",
+                        help="After the brief, draft full NF scripts for the top N takes (0 = off)")
+    parser.add_argument("--draft-model", default="claude-sonnet-4-6", help="Model for the drafting agent")
+    parser.add_argument("--no-stats", action="store_true", help="Skip the evergreen stat-tip track")
+    parser.add_argument("--stats-top", type=int, default=1, help="How many stat tips to surface (default 1)")
     args = parser.parse_args()
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -756,6 +794,7 @@ def main():
     print(f"  deduped to {len(stories)} unique, {len(trending)} trending", file=sys.stderr)
 
     triage = takes = None
+    candidates = []
     kir_note = "off (--no-llm)"
     if not args.no_llm:
         covered = load_covered_topics()
@@ -780,7 +819,20 @@ def main():
             if takes:
                 print(f"  wrote {len(takes)} takes", file=sys.stderr)
 
-    brief = format_brief(stories, trending, takes, triage, failures, args.lookback, kir_note)
+    # Evergreen stat-tip track: prune used (via the repo), extract new, pick
+    # best-fit-for-today. Isolated so a stat-bank issue never breaks the brief.
+    stat_tips, stat_note = [], ""
+    if not args.no_llm and not args.no_stats:
+        try:
+            import stat_bank
+            print("stat bank: prune used + extract + pick best-fit...", file=sys.stderr)
+            stat_tips, stat_note = stat_bank.run_daily(stories, top=args.stats_top)
+            print(f"  stat bank: {stat_note}", file=sys.stderr)
+        except Exception as e:
+            print(f"warning: stat bank step failed (brief unaffected): {e}", file=sys.stderr)
+
+    brief = format_brief(stories, trending, takes, triage, failures, args.lookback, kir_note,
+                         stat_tips=stat_tips, stat_note=stat_note)
     today = now_utc().strftime("%Y-%m-%d")
     out_path = OUTPUT_DIR / f"{today}.md"
     out_path.write_text(brief, encoding="utf-8")
@@ -794,6 +846,20 @@ def main():
 
     seen.update(s["link"] for s in stories if s["link"])
     save_seen(seen)
+
+    # Drafting agent: turn the top take(s) into full NF script drafts and email
+    # them. Isolated so a drafting failure never breaks the brief itself.
+    if takes:
+        _, entries = write_takes_sidecar(takes, candidates)
+        if args.draft > 0:
+            try:
+                import draft_nf
+                print(f"drafting top {args.draft} take(s) ({args.draft_model})...", file=sys.stderr)
+                drafted = draft_nf.run(entries, top=args.draft, model=args.draft_model,
+                                       deliver=not args.no_email)
+                print(f"  drafted {len(drafted)} script(s)", file=sys.stderr)
+            except Exception as e:
+                print(f"warning: drafting step failed (brief is unaffected): {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":
