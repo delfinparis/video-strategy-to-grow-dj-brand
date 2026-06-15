@@ -152,6 +152,16 @@ FEEDS = [
      "https://news.google.com/rss/search?q=(%22real+estate%22+commission)+(lawsuit+OR+settlement+OR+antitrust+OR+verdict)&hl=en-US&gl=US&ceid=US:en"),
     ("CFPB / real estate regulation (via Google News)", "regulatory",
      "https://news.google.com/rss/search?q=(CFPB+OR+%22Clear+Cooperation%22+OR+%22buyer+agreement%22)+real+estate&hl=en-US&gl=US&ceid=US:en"),
+
+    # --- research / data (stat-dense; feeds the evergreen stat bank) ---------
+    ("NAR Research (via Google News)", "research",
+     "https://news.google.com/rss/search?q=site:nar.realtor+(research+OR+survey+OR+report+OR+profile+OR+percent)&hl=en-US&gl=US&ceid=US:en"),
+    ("Realtor.com Research (via Google News)", "research",
+     "https://news.google.com/rss/search?q=site:realtor.com/research&hl=en-US&gl=US&ceid=US:en"),
+    ("NAR surveys + reports (via Google News)", "research",
+     "https://news.google.com/rss/search?q=%22National+Association+of+Realtors%22+(survey+OR+report+OR+%22profile+of%22+OR+%22found+that%22+OR+percent)&hl=en-US&gl=US&ceid=US:en"),
+    ("Zillow + Redfin research data (via Google News)", "research",
+     "https://news.google.com/rss/search?q=(Zillow+OR+Redfin)+(study+OR+report+OR+survey+OR+%22found+that%22+OR+percent)+homeowners&hl=en-US&gl=US&ceid=US:en"),
 ]
 
 # ---------------------------------------------------------------------------
@@ -605,7 +615,8 @@ def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir
         f"# Industry News Brief — {today}",
         f"*Lookback: last {lookback_hours}h. {len(stories)} stories after dedupe "
         f"({tier_counts.get('national',0)} national, {tier_counts.get('chicago',0)} Chicago, "
-        f"{tier_counts.get('regulatory',0)} regulatory). KIR tie-in: {kir_note}.*",
+        f"{tier_counts.get('regulatory',0)} regulatory, {tier_counts.get('research',0)} research). "
+        f"KIR tie-in: {kir_note}.*",
         "",
     ]
 
