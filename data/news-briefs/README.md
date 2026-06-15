@@ -12,7 +12,9 @@ Each brief identifies the top 5 stories worth a D.J. Paris take and, for each, w
 4. **Stage 1 rank (Haiku).** Cheap triage: relevance 1-10, fresh vs covered, Chicago/regulatory weighted up.
 5. **Fetch bodies.** For the top 5 it pulls the actual article text (direct-RSS links resolve cleanly; Google News redirects degrade to the summary).
 6. **Stage 2 take (Sonnet).** Writes the contrarian reframe with the editorial rules in hand, optionally tying in a real Keeping It Real episode when that repo is cloned on the machine. Em dashes are scrubbed deterministically. Each take carries an honest confidence rating.
-7. **Deliver.** Writes the file and, if configured, emails it + pushes via ntfy so it lands on the phone before D.J. is awake.
+7. **Evergreen stat tip.** A parallel track ([`stat_bank.py`](../../scripts/stat_bank.py)) keeps a persistent bank of "did you know X, here's how to use it" stat tips. Each morning it prunes stats already filmed (number match against the cloud repo), extracts new sourced stats from the day's research items, and surfaces the one that best fits today's news. A stat persists in the brief day to day until a filmed script uses its number.
+8. **Draft the winner (`draft_nf.py`).** Turns the top take into a full, film-ready NF script package (spoken beats, all six captions, AI music prompt) and runs a mandatory second pass: a stress test against the standards, then a polish. The Data Source is built only from the fetched article and every claim is flagged VERIFY before filming, so the output is a `needs-verification` draft, never fabricated as ready.
+9. **Deliver.** Writes the brief + draft files and, if configured, emails them + pushes via ntfy so they land on the phone before D.J. is awake.
 
 ---
 
@@ -115,7 +117,20 @@ python3 scripts/news_brief.py --no-llm # skip both LLM stages (free, faster)
 python3 scripts/news_brief.py --all # include previously-seen stories
 python3 scripts/news_brief.py --no-email --no-push # write the file only
 python3 scripts/news_brief.py --top 7 # write takes for the top 7 instead of 5
+python3 scripts/news_brief.py --draft 1 # also draft the top take into a full NF script (the morning default)
+python3 scripts/news_brief.py --no-stats # skip the evergreen stat-tip track
 ```
+
+The scheduled launchd job runs `news_brief.py --draft 1`, so the morning run produces the brief, the stat tip, and a drafted+polished script in one pass.
+
+### Drafting a script by hand for a chosen day
+
+```bash
+python3 scripts/draft_nf.py --date 2026-06-15 --top 1   # draft the top take from that day's brief sidecar
+python3 scripts/draft_nf.py --model claude-opus-4-8      # higher voice fidelity if the account is entitled
+```
+
+Drafts land in [`scripts/inside-the-industry/_drafts/`](../../scripts/inside-the-industry/_drafts/) as `needs-verification` and are emailed. Each one carries a second-pass **Stress Test** section (the audit). Verify the Data Source and tighten the voice before filming.
 
 The script tracks which story links it has already surfaced in prior runs and skips them by default, so you don't see the same story every day. Use `--all` to override.
 

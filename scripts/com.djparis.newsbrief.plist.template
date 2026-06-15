@@ -38,6 +38,10 @@
   <array>
     <string>/usr/bin/python3</string>
     <string>/Users/djparis/video-strategy-to-grow-dj-brand/scripts/news_brief.py</string>
+    <!-- --draft 1: also draft + polish the top take into a full NF script and
+         email it. Drop these two strings to get the brief + stat tip only. -->
+    <string>--draft</string>
+    <string>1</string>
   </array>
 
   <key>WorkingDirectory</key>

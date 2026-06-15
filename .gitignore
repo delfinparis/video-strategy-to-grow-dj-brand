@@ -5,6 +5,12 @@ __pycache__/
 
 # Generated news brief state (not source)
 data/news-briefs/.seen-stories.json
+data/news-briefs/*.takes.json
+data/news-briefs/stat-bank.json
+
+# NF script drafts (needs-verification scratch from draft_nf.py; promote to a
+# real scripts/inside-the-industry/NF-### file once verified and filmed)
+scripts/inside-the-industry/_drafts/
 
 # Generated growth-digest state (not source)
 data/growth-digests/.seen-content.json
