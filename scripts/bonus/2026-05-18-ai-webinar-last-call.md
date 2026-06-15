@@ -113,7 +113,7 @@ I'm walking through the 5 specific AI moves the top 1% of agents are actually us
 
 No live Q&A this round. Instead, I'm holding 15-min 1-on-1 research sessions for the next KIR podcast series on agent AI (I can't meet with everyone, but I'll meet with as many as I can). Calendly link goes out at the end of the call.
 
-Plus a 3-day tapthis.co bonus drop Wed-Fri unlocking my full 570-prompt AI library.
+Plus a 3-day tapthis.co bonus drop Wed-Fri unlocking my full 620-prompt AI library.
 
 If you can't be there live, register anyway and I'll send you the replay.
 

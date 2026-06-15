@@ -36,7 +36,7 @@ Here's the thing nobody tells agents about AI. It's not that the AI is bad. It's
 *Production: Slow down, look at camera. Text overlay: 'It's not the AI. It's the prompt.' This is the thesis, let it land.*
 
 ### SOLUTION (1:00-2:10)
-So here's what I did about it. I have never sold a house in my life. But I've interviewed more than 700 agents who have, on my podcast. And I took what actually works, and I built a free site called tapthis.co. It's 570 prompts. Already written. Engineered for real estate. You don't write the prompt. You copy it. There are four doors in. Write Something For Me. Help Me Follow Up. Coach Me Through It. Plan My Strategy. You pick the thing you're stuck on, you grab the prompt, you paste it into ChatGPT, Claude, or Gemini. That's the whole move.
+So here's what I did about it. I have never sold a house in my life. But I've interviewed more than 700 agents who have, on my podcast. And I took what actually works, and I built a free site called tapthis.co. It's 620 prompts. Already written. Engineered for real estate. You don't write the prompt. You copy it. There are four doors in. Write Something For Me. Help Me Follow Up. Coach Me Through It. Plan My Strategy. You pick the thing you're stuck on, you grab the prompt, you paste it into ChatGPT, Claude, or Gemini. That's the whole move.
 
 *Production: Walking again, energy up. Text overlays: 'tapthis.co' / 'Copy. Paste. Done.'*
 
@@ -54,8 +54,8 @@ AI isn't going to take your job. But an agent who knows how to talk to it might.
 
 ## Data Source
 
-- **Claim:** "570 prompts on tapthis.co"
-  - Source: tapthis.co library size, the published brand figure used across this repo. (Live data file currently holds 620; 570 is the figure consistent with site metadata and existing scripts.)
+- **Claim:** "620 prompts on tapthis.co"
+  - Source: tapthis.co library size (620 prompts in the live data file, matching the site metadata).
   - Status: confirmed (D.J. as source for his own product)
 - **Claim:** "Four categories -- Write, Follow Up, Coach, Plan"
   - Source: Live tapthis.co navigation.
@@ -82,3 +82,13 @@ AI isn't going to take your job. But an agent who knows how to talk to it might.
 
 ## Walking Route
 Neighborhood sidewalk past a couple of For Sale signs. Casual, daytime, nothing staged.
+
+## AI Music Prompt
+
+**Vibe:** Modern SaaS product reveal. Clean and confident, slightly punchy to match the "it's the prompt, not the AI" reframe.
+
+**Suno / Udio:**
+> [no vocals] modern tech-product underscore, instrumental only, clean and forward, 105 BPM, crisp arpeggiated synth, muted plucked lead, tight kick, subtle hi-hat pattern, clean sub-bass, optimistic major key, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, loopable
+
+**CapCut AI Music:**
+> Instrumental modern tech-product underscore, clean and forward, 105 BPM, arpeggiated synth, muted lead, tight kick, no vocals, optimistic bed for voiceover, loopable

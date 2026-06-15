@@ -136,7 +136,7 @@ News input is sourced through:
 - **Cadence:** 1x/week, every Friday
 - **Surfaces:** All 6 retained crosspost surfaces (LI Personal, FB Personal, FB Biz, IG Personal, TT Biz, YT Biz)
 - **Content source:** Curated from the 100 audited AIAM scripts, ~1-2 per week selected for highest broad-appeal quality
-- **Destination:** CTA drives to [tapthis.co](https://tapthis.co) - a landing page hosting 570 AI prompts for realtors (a real, valuable resource, updated regularly)
+- **Destination:** CTA drives to [tapthis.co](https://tapthis.co) - a landing page hosting 620 AI prompts for realtors (a real, valuable resource, updated regularly)
 - **Retargeting mechanism:** tapthis.co fires **5 pixels** (Meta, Google, LinkedIn, Reddit, TikTok) - creating a retargeting audience that sees Kale recruiting ads across all 5 platforms
 - **Funnel next step:** tapthis.co click → retargeting ads for 30-90 days → joinkale.com → webinar → book-a-call → Kale recruiting conversation
 
@@ -154,7 +154,7 @@ Example caption / CTA variations:
 | --- | --- | --- |
 | *"Full prompt plus 569 more at tapthis.co."* | Concrete, specific | LI Personal, FB Personal |
 | *"Grab this prompt and my whole library at tapthis.co."* | Casual, confident | IG Personal, TT Biz |
-| *"Tip #142 of 570. All free at tapthis.co."* | Specificity-forward | TT Biz, YT Biz |
+| *"Tip #142 of 620. All free at tapthis.co."* | Specificity-forward | TT Biz, YT Biz |
 
 All three are compliant with the no-engagement-ask rule (universal editorial Rule 4) - they're informational ("here's where the value is") rather than directive ("do this for me").
 
@@ -278,3 +278,104 @@ The pivot needs to be **reversed or adjusted** if:
 ---
 
 *Decision documented: 2026-04-18. Author: D.J. Paris with analysis support from Claude Opus 4.6. Review scheduled: 2026-07-19.*
+
+---
+
+## Addendum 2026-05-11: Soft-Recruiting CTA Sub-Pillar
+
+**Context:** Pivot week 3 cross-surface snapshot ([`../../data/metrics/2026-05-11-snapshot.md`](../../data/metrics/2026-05-11-snapshot.md)) showed the pivot is working on every primary surface. Reach is up across the board, LI Personal audience composition is 49% Greater Chicago / 34% Senior / 31% Real Estate (the most recruiting-qualified pool on any surface, captured for the first time), and 6+ IIR scripts cleared the 2K cross-surface reach success metric in pivot weeks 2-3. **The remaining gating question is whether this audience translates to Kale recruiting inquiries by the Jun 2 mid-test check-in.**
+
+The original pivot decision specified "at least one high-signal recruiting conversation attributable to Inside the Industry content" as success metric #5 (line 246). The mechanism for producing that conversation was left implicit: IIR positioning would draw recruiting-quality audience, and inquiries would arrive organically. Three weeks in, the positioning is working but no explicit recruiting CTA exists in the content. **If Jun 2 shows no recruiting inquiries, the snapshot can't separate "the IIR audience isn't recruiting-qualified" from "the IIR content never asks for the conversation."**
+
+This addendum adds a soft-CTA sub-pillar to instrument that question.
+
+### Sub-pillar definition
+
+**Format:** Tactical agent tip (60-90 seconds) + soft recruiting CTA at the end.
+
+**CTA template (keep this exact framing):**
+> "If you're not getting tips like this from your brokerage, I'd love to speak with you!"
+
+**Why this framing works:**
+
+- Implies Kale by inference, not by name. Avoids "come work here" pitch tone.
+- Positions D.J. as a decision-maker who'd take the agent's call, not a recruiter sending a sequence.
+- Self-qualifies: only agents who feel under-supported respond. Filters automatically for the recruiting-conversation persona Kale wants.
+- Opens dialogue, not application. Lower commitment threshold than a "join Kale" CTA.
+
+### Cadence
+
+**1-2 soft-CTA videos per week**, mixed into the existing IIR-heavy weekly schedule. Higher cadence erodes the IIR authority positioning that makes the CTA work.
+
+Within the post-pivot weekly cadence (6 posts/week), the soft-CTA slot replaces ~1-2 of the existing slots in a way that preserves the IIR primary focus. Practical mapping:
+
+| Day | Primary slot | Soft-CTA substitution |
+| --- | --- | --- |
+| Mon | KIR Podcast Promo | — |
+| Tue | IIR — News (NF) | — |
+| Wed | IIR — News or The Playbook | **Soft-CTA-eligible week 1** (Playbook variant fits naturally) |
+| Thu | IIR — News (NF) | — |
+| Fri | AI Tip of the Week → tapthis.co | — |
+| Sat | IIR — News or Access | **Soft-CTA-eligible week 2** (Access variant fits naturally) |
+
+The Wed/Sat slots are the natural homes because The Playbook and IIR-Access already trend tactical, making the tip-to-CTA transition feel native rather than bolted on.
+
+### Surface fit
+
+| Surface | Run soft-CTA? | Why |
+| --- | :-: | --- |
+| **FB Personal** | Yes | 73% Chicago city concentration, the recruiting workhorse. CTA voice fits. |
+| **LI Personal** | Yes | 49% Chicago region, 31% Real Estate, 34% Senior. Most recruiting-qualified pool. CTA voice fits. |
+| **IG Personal** | Yes | Structurally stable, ~7,500 followers, algorithm-distributed. CTA voice fits. |
+| **YT Shorts** | Yes | 7 of top 10 videos already IIR; pivot works there too. CTA voice fits. |
+| TikTok Brand | No | National audience (98% US but not Chicago-concentrated). Recruiting CTA doesn't translate. |
+| LI Brand / FB Brand pages / IG Brand | No | Wrong voice for a personal-recruiting CTA. |
+
+### Tracking
+
+**Required:** Unique tapthis.co URL or UTM per soft-CTA video. Each video's CTA link should be distinguishable from organic IIR-attributed traffic.
+
+The recruiting funnel dashboard at [`../analytics/recruiting-funnel-dashboard.md`](../analytics/recruiting-funnel-dashboard.md) should track:
+
+1. **Soft-CTA-attributed clicks** (tapthis.co with the per-video UTM)
+2. **Soft-CTA-attributed inquiries** (Close inbound where source can be tied to a soft-CTA URL, DM, or comment chain)
+3. **Organic IIR-attributed inquiries** (separate bucket: people who reached out without clicking a soft-CTA link)
+
+Without this separation, the Jun 2 check-in can't distinguish "soft-CTA layer is producing inquiries" from "IIR positioning alone is producing inquiries."
+
+### What to watch for
+
+**Audience friction signals.** The IIR audience came for industry takes. A soft recruiting CTA, mixed sparingly, should not depress engagement. But monitor:
+
+- **IG Personal daily-follower-net graph.** The May 5-7 spike was Meta cleanup (one clean day, flat surroundings, no engagement disruption). If a multi-day unfollow cluster appears after soft-CTAs go live (multi-day tail, not one-day spike), that's IIR audience signaling bait-and-switch. The shape of the graph is the diagnostic.
+- **FB Personal engagement rate on soft-CTA posts.** Should be in line with non-CTA posts. If soft-CTA posts pull noticeably lower ER, the framing needs tightening.
+- **LI Personal ER on soft-CTA posts vs IIR posts.** Same test.
+
+### Success criteria for the sub-pillar (review Jun 2)
+
+The soft-CTA sub-pillar is **working** if, at the Jun 2 mid-test check-in:
+
+1. **At least one soft-CTA-attributed inquiry** has reached Close (the explicit funnel output)
+2. **Soft-CTA-attributed click rate** is at least 0.5% of soft-CTA video views (a directional benchmark for whether the CTA is being acted on)
+3. **No audience-friction signals** (no multi-day IG unfollow cluster, no ER drop on personal surfaces)
+
+The soft-CTA sub-pillar needs to be **adjusted or removed** if:
+
+1. Soft-CTA posts pull engagement at >20% below comparable IIR posts on the same surface (the CTA is hurting more than it helps)
+2. Multi-day IG unfollow cluster appears in the 2-4 weeks after introduction (bait-and-switch signal from the IIR audience)
+3. Zero soft-CTA-attributed inquiries by Jul 19 final review while organic IIR-attributed inquiries exist (the explicit CTA isn't adding lift over implicit positioning)
+
+### Why this is layered, not a replacement
+
+The IIR pivot remains primary. The soft-CTA sub-pillar is an instrumentation layer that:
+
+- Adds a measurable conversion question on top of the positioning question
+- Doesn't change which content gets made or which surfaces get used
+- Uses ~1-2 of the existing 6 weekly slots, not additional slots
+- Can be removed cleanly at the Jul 19 review if it doesn't pay off
+
+The cleanest read at Jun 2 will be: "IIR positioning is working (snapshot data) + soft-CTA layer is/isn't producing inquiries (this addendum's success criteria) + organic IIR-attributed inquiries are/aren't arriving (the original pivot decision's success metric #5)." Those three signals together decide whether to commit further on the pivot, tighten the soft-CTA framing, or rethink the funnel mechanics.
+
+---
+
+*Addendum documented: 2026-05-11. Author: D.J. Paris with analysis support from Claude Opus 4.7 (1M context). First review: 2026-06-02 mid-test check-in.*

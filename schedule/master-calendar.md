@@ -84,7 +84,7 @@ AI Agent Minute and Agent Tip reels posted Apr 4–17 are backfilled in [`../dat
 | Apr 28 | Tue | IIR - NF | [NF-007 - Chicago Didn't Get the Buyer's Market Memo](../scripts/inside-the-industry/NF-007-home-sellers-cutting-prices.md) | Filmed 4/20; slot here before it goes stale |
 | Apr 29 | Wed | The Playbook | [PB-002 - Listing Agent Won't Return Calls](../scripts/the-playbook/PB-002-listing-agent-not-returning-calls.md) | |
 | Apr 30 | Thu | IIR - NF | [NF-008 - Commission Chapter Is Closing, Kickback Chapter Is Opening (eXp RESPA)](../scripts/inside-the-industry/NF-008-exp-zillow-respa-next-wave.md) | Filmed 4/20; RESPA case is still active, still relevant |
-| May 01 | Fri | AI Tip | [AIT-002 - Re-engage Ghosted Leads (3-Touch Sequence)](../scripts/ai-tip-of-the-week/002-re-engage-ghosted-leads-three-touch-sequence.md) | CTA variant: "Tip #2 of 570 at tapthis.co" |
+| May 01 | Fri | AI Tip | [AIT-002 - Re-engage Ghosted Leads (3-Touch Sequence)](../scripts/ai-tip-of-the-week/002-re-engage-ghosted-leads-three-touch-sequence.md) | CTA variant: "Tip #2 of 620 at tapthis.co" |
 | May 02 | Sat | IIR - IA | [IA-002 - NAR Reached Out to Me Directly](../scripts/inside-the-industry/IA-002-nar-reached-out-to-me.md) | |
 
 ### Week 11: May 04 – May 09, 2026

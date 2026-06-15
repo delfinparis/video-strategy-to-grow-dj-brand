@@ -29,7 +29,7 @@ The Friday weekly slot in the post-pivot cadence. One AI prompt or tactic per we
 
 Scripts are drawn from the 100 audited AI Agent Minute scripts in [`../ai-agent-minute/`](../ai-agent-minute/). Condensed to ~55 seconds from the AIAM format's ~75-100 seconds. The goal is a tight, tapthis.co-funneled version of each tip.
 
-Overlap between the 100 audited AIAM and the 570 at tapthis.co is partial — some tips are at both; some at only one. When filming, the spoken script should come from the audited 100 (they're camera-ready + editorially compliant). The CTA always points to the full tapthis.co library.
+Overlap between the 100 audited AIAM and the 620 at tapthis.co is partial — some tips are at both; some at only one. When filming, the spoken script should come from the audited 100 (they're camera-ready + editorially compliant). The CTA always points to the full tapthis.co library.
 
 ---
 
@@ -38,7 +38,7 @@ Overlap between the 100 audited AIAM and the 570 at tapthis.co is partial — so
 ```
 AI Tip of the Week post
   ↓ viewer clicks "tapthis.co" in caption
-Lands on tapthis.co (570-prompt library)
+Lands on tapthis.co (620-prompt library)
   ↓ 5 retargeting pixels fire simultaneously
   ├── Meta (Facebook + Instagram)
   ├── Google Ads
@@ -85,7 +85,7 @@ E.g.:
 - `002-re-engage-ghosted-leads-claude-sequence.md`
 - `003-write-listing-descriptions-with-ai.md`
 
-Keep numbering sequential (001, 002, ...). Makes it easy to reference "Tip #N" in captions ("Tip #42 of 570. All free at tapthis.co.").
+Keep numbering sequential (001, 002, ...). Makes it easy to reference "Tip #N" in captions ("Tip #42 of 620. All free at tapthis.co.").
 
 ---
 

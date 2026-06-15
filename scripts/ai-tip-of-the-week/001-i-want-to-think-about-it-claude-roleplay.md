@@ -73,7 +73,7 @@ See the full original at [scripts/ai-agent-minute/001-handle-i-want-to-think-abo
 ## Retargeting Funnel
 
 1. Viewer sees this post → clicks "tapthis.co" in caption/bio
-2. Lands on tapthis.co → sees the 570-prompt library
+2. Lands on tapthis.co → sees the 620-prompt library
 3. **5 retargeting pixels fire:** Meta, Google, LinkedIn, Reddit, TikTok
 4. Over the following 30-90 days: viewer sees Kale recruiting ads across all 5 platforms
 5. Eventual ad click → joinkale.com → webinar signup → book-a-call → recruiting conversation
@@ -112,7 +112,7 @@ Full prompt + 569 more at tapthis.co.
 
 ### TikTok (Biz)
 **Caption:**
-"I want to think about it" = most expensive 5 words in real estate. Here's the Claude prompt my Kale agents use to prep. Tip #1 of 570 at tapthis.co
+"I want to think about it" = most expensive 5 words in real estate. Here's the Claude prompt my Kale agents use to prep. Tip #1 of 620 at tapthis.co
 
 **Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #claudeai #realtortraining
 
@@ -166,7 +166,7 @@ The Claude prompt my Kale agents use:
 
 Run it 5 times. Next time it's muscle memory.
 
-Tip #1 of 570 at tapthis.co.
+Tip #1 of 620 at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors
 
@@ -178,7 +178,7 @@ Tip #1 of 570 at tapthis.co.
 - **Hook is the same as AIAM 001 original** -- proven to work, already premium-audited.
 - **The "my agents at Kale" framing** is the key brand differentiator for the Friday AI Tip slot. It reinforces the industry-insider + operational-brokerage-leader positioning while the AI prompt does the utility work.
 - **Target runtime: 45-55 seconds.** If filming runs long, cut "By the time you hear those words for real, you've been there a hundred times" (reframe still reads).
-- **Test CTA variations over first 5 tips** to see which drives the most tapthis.co click-throughs. Baseline: "Full prompt plus 569 more at tapthis.co." Alt 1: "Tip #1 of 570. All free at tapthis.co." Alt 2: "Grab the prompt and my whole library at tapthis.co."
+- **Test CTA variations over first 5 tips** to see which drives the most tapthis.co click-throughs. Baseline: "Full prompt plus 569 more at tapthis.co." Alt 1: "Tip #1 of 620. All free at tapthis.co." Alt 2: "Grab the prompt and my whole library at tapthis.co."
 
 ---
 

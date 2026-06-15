@@ -32,7 +32,7 @@ The close is always a "here's what you do now" action aimed at the viewer's own 
 
 ## Fixed facts (always accurate)
 
-- tapthis.co is a free library of **570** copy-paste AI prompts for real estate agents. Use 570 across the series for consistency. (Note: the live data file currently holds 620 entries; 570 is the published brand figure. Reconcile site vs. content before changing this number.)
+- tapthis.co is a free library of **620** copy-paste AI prompts for real estate agents. Use 620 across the series.
 - Four ways in: **Write Something For Me**, **Help Me Follow Up**, **Coach Me Through It**, **Plan My Strategy**.
 - Works with **ChatGPT, Claude, and Gemini**.
 - Prompts have fill-in **brackets** the agent completes before pasting.

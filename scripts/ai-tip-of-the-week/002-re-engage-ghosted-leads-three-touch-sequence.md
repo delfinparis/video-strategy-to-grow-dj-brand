@@ -15,7 +15,7 @@ status: "ready"
 > **WOW: Tactical specificity + mirror moment -- every agent has ghosted leads in their CRM. The fix is a Claude prompt that stops chasing and starts giving them reasons to come back.**
 
 **Series:** AI Tip of the Week | **Post Date:** Friday, May 1, 2026
-**CTA variant (this tip):** *"Tip #2 of 570. All free at tapthis.co."*
+**CTA variant (this tip):** *"Tip #2 of 620. All free at tapthis.co."*
 
 ## Shareable Moment
 > "Leads don't ghost agents they find valuable. They ghost agents they feel pressure from."
@@ -39,7 +39,7 @@ Every message gives them a reason to respond. None of them makes them feel guilt
 Most agents chase ghosted leads. Top producers give them a reason to come back. Leads don't ghost agents they find valuable. They ghost agents they feel pressure from.
 
 **CLOSE (0:50-0:55)**
-Tip #2 of 570. All free at tapthis.co.
+Tip #2 of 620. All free at tapthis.co.
 
 **Estimated Duration:** ~55 seconds | **Word Count:** ~125 words
 
@@ -75,7 +75,7 @@ Every message gives them a reason to respond. None of them makes them feel guilt
 
 Most agents chase ghosted leads. Top producers give them a reason to come back.
 
-Tip #2 of 570. All free at tapthis.co.
+Tip #2 of 620. All free at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors #LeadGeneration #RealEstateAgent #RealEstateCoaching
 
@@ -85,13 +85,13 @@ A lead goes quiet. Most agents send "just checking in." Top producers send value
 
 My agents at Kale use this Claude prompt: *"Write a three-touch re-engagement sequence built entirely on value. No asks. Touch one: market update for their area. Touch two: a matching property. Touch three: low-pressure 'has your timing changed?'"*
 
-Tip #2 of 570 at tapthis.co.
+Tip #2 of 620 at tapthis.co.
 
 **Hashtags:** #realestate #realtor #realtorlife #aiforrealtors #leadgen #realestateagent #claudeai #chicagorealestate #kalerealty
 
 ### TikTok (Biz)
 **Caption:**
-Your ghosted lead didn't forget you. They just never heard from you. Here's the Claude 3-touch fix my Kale agents use. Tip #2 of 570 at tapthis.co
+Your ghosted lead didn't forget you. They just never heard from you. Here's the Claude 3-touch fix my Kale agents use. Tip #2 of 620 at tapthis.co
 
 **Hashtags:** #realtortok #realestatetok #realtor #leadgen #aiforrealtors #claudeai
 
@@ -101,7 +101,7 @@ Your ghosted lead didn't forget you. They just never heard from you. Here's the 
 **Description:**
 Most agents send "just checking in" to ghosted leads and wonder why they stay silent. D.J. Paris shares the Claude 3-touch re-engagement sequence his Kale Realty agents use to give silent leads a reason to come back.
 
-Tip #2 of 570 at tapthis.co.
+Tip #2 of 620 at tapthis.co.
 
 **Hashtags:** #shorts #realestate #realtor #leadgen #aiforrealtors #claudeai
 
@@ -115,7 +115,7 @@ Give Claude the lead's profile and type: "Write a three-touch re-engagement sequ
 
 Leads don't ghost agents they find valuable. They ghost agents they feel pressure from.
 
-Tip #2 of 570 at tapthis.co.
+Tip #2 of 620 at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors #LeadGeneration #RealtorLife #ChicagoRealEstate
 
@@ -127,7 +127,7 @@ My Kale agents use this Claude prompt instead: "Write a 3-touch re-engagement se
 
 Leads don't ghost agents they find valuable.
 
-Tip #2 of 570 at tapthis.co.
+Tip #2 of 620 at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors #LeadGeneration #RealtorLife
 
@@ -139,7 +139,7 @@ The Claude prompt my Kale agents use:
 
 "Write a 3-touch re-engagement sequence built on value. No asks. Market update. Matching property. Low-pressure check-in."
 
-Tip #2 of 570 at tapthis.co.
+Tip #2 of 620 at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors
 
@@ -147,7 +147,7 @@ Tip #2 of 570 at tapthis.co.
 
 ## Producer Notes
 
-- **CTA variant:** Uses "Tip #2 of 570. All free at tapthis.co." -- testing specificity-forward CTA per plan documented in Tip #001.
+- **CTA variant:** Uses "Tip #2 of 620. All free at tapthis.co." -- testing specificity-forward CTA per plan documented in Tip #001.
 - **Target runtime: 55s.** Safe to cut "None of them makes them feel guilty for going quiet" if filming runs long.
 - **Hook is proven.** "A lead going quiet doesn't mean they're gone" tested well on AIAM 003 source.
 - **Consider for reels-scorecard A/B:** This is the script most likely to outperform #001 because the mirror moment (everyone has ghosted leads) is stronger than "I want to think about it" (only listing-active agents relate immediately).

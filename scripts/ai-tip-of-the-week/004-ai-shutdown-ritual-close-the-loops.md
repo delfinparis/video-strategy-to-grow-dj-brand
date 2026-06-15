@@ -98,7 +98,7 @@ Full prompt + 569 more at tapthis.co.
 
 ### TikTok (Biz)
 **Caption:**
-My Kale agents used to carry 30 open loops into dinner every night. Here's the Claude shutdown ritual that fixed it. Tip #4 of 570 at tapthis.co
+My Kale agents used to carry 30 open loops into dinner every night. Here's the Claude shutdown ritual that fixed it. Tip #4 of 620 at tapthis.co
 
 **Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #claudeai #productivity #worklifebalance
 
@@ -162,7 +162,7 @@ Prompt at tapthis.co.
 
 ## Producer Notes
 
-- **CTA variant:** Returns to baseline "Full prompt plus 569 more at tapthis.co." (same as #001). After 4 tips we'll have data on which CTA variant drives the most tapthis.co clicks: #001 baseline, #002 specificity-forward ("Tip #N of 570"), #003 casual ("Grab this prompt and my whole library"), #004 baseline again.
+- **CTA variant:** Returns to baseline "Full prompt plus 569 more at tapthis.co." (same as #001). After 4 tips we'll have data on which CTA variant drives the most tapthis.co clicks: #001 baseline, #002 specificity-forward ("Tip #N of 620"), #003 casual ("Grab this prompt and my whole library"), #004 baseline again.
 - **Hook is rated "best in productivity category"** per AIAM 002 producer notes. The "they stop better" line is the signature scroll-stopper.
 - **Runtime: 55s.** Safe to trim "The follow-up they didn't send, the offer they need to prep" to "thirty open loops" if filming runs long.
 - **Mirror moment is universal:** every agent recognizes the "still thinking about work at dinner" feeling. This one has the broadest appeal across the four tips.

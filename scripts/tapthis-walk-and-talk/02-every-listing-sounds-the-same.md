@@ -79,3 +79,13 @@ Your seller's paying you to make their house the one that stands out. Tough to p
 
 ## Walking Route
 Walk past actual listings, ideally with a sign rider in frame. Reinforces that this is about real houses on the market.
+
+## AI Music Prompt
+
+**Vibe:** Bright product-walkthrough bed with a touch of wit, matches the playful "everyone says charming" angle.
+
+**Suno / Udio:**
+> [no vocals] modern tech-product underscore, instrumental only, clean and lightly playful, 105 BPM, crisp arpeggiated synth, muted plucked lead, tight kick, subtle hi-hat pattern, clean sub-bass, optimistic major key, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, loopable
+
+**CapCut AI Music:**
+> Instrumental modern tech-product underscore, clean and lightly playful, 105 BPM, arpeggiated synth, muted lead, tight kick, no vocals, optimistic bed for voiceover, loopable

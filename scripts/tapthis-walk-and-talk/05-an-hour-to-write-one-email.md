@@ -15,7 +15,7 @@ shareable_moment: "Used wrong, AI is slower than just doing the work yourself."
 
 # An Hour to Write One Email
 
-> **WOW: Contrarian take + tactical fix -- everyone says AI saves time, but used wrong it is slower than doing the work, because you solve the same blank-box puzzle every time. The fix: never start from blank. tapthis.co has 570 prompts already written, including the Sunday-night email.**
+> **WOW: Contrarian take + tactical fix -- everyone says AI saves time, but used wrong it is slower than doing the work, because you solve the same blank-box puzzle every time. The fix: never start from blank. tapthis.co has 620 prompts already written, including the Sunday-night email.**
 
 **Filming:** Walk and talk, relaxed, evening or golden hour if possible. No screen recording.
 **Destination:** tapthis.co
@@ -36,7 +36,7 @@ Nobody says this part out loud. Used wrong, AI is slower than just doing the wor
 *Production: Slow down, look at camera. Text overlay: 'Used wrong, AI is slower.'*
 
 ### SOLUTION (0:55-2:00)
-So here's the whole idea behind tapthis.co. You should never start from a blank box again. 570 prompts, already written, already tested. Sunday-night email? It's in there. Whole lead-gen plan for the quarter? Tap "Plan My Strategy." Audit your database, build a thirty-day content calendar, map out a farm? In there. You don't write the prompt. You find the one you need, you fill in your brackets, your market, your client, your numbers, and you paste it into ChatGPT, Claude, or Gemini. The forty-five minutes of fighting? Somebody already did it. It's done. It's free.
+So here's the whole idea behind tapthis.co. You should never start from a blank box again. 620 prompts, already written, already tested. Sunday-night email? It's in there. Whole lead-gen plan for the quarter? Tap "Plan My Strategy." Audit your database, build a thirty-day content calendar, map out a farm? In there. You don't write the prompt. You find the one you need, you fill in your brackets, your market, your client, your numbers, and you paste it into ChatGPT, Claude, or Gemini. The forty-five minutes of fighting? Somebody already did it. It's done. It's free.
 
 *Production: Walking again, energy up. Text overlays: 'Never start from blank.' / 'Find it. Fill it. Paste it.'*
 
@@ -54,8 +54,8 @@ The robot was never the slow part. You, feeding it from scratch every single tim
 
 ## Data Source
 
-- **Claim:** "570 prompts on tapthis.co, including a Plan My Strategy category (lead-gen plans, database audits, content calendars, farm plans)"
-  - Source: Live tapthis.co (Strategy category includes lead generation, audits, and content/marketing strategy groups). 570 is the published brand figure.
+- **Claim:** "620 prompts on tapthis.co, including a Plan My Strategy category (lead-gen plans, database audits, content calendars, farm plans)"
+  - Source: Live tapthis.co (Strategy category includes lead generation, audits, and content/marketing strategy groups). 620 is the published brand figure.
   - Status: confirmed
 - **Claim:** "Bracketed variables you complete; works with ChatGPT, Claude, Gemini"
   - Source: Live tapthis.co.
@@ -68,7 +68,7 @@ The robot was never the slow part. You, feeding it from scratch every single tim
 ## Distribution Copy
 
 - **Teaser:** If AI is supposed to save time, why did writing one email just cost you your whole Sunday night? Here's what you're doing wrong.
-- **Social Caption:** Used wrong, AI is slower than just doing the work yourself. The fix is never starting from a blank box. 570 prompts for agents, free, at tapthis.co.
+- **Social Caption:** Used wrong, AI is slower than just doing the work yourself. The fix is never starting from a blank box. 620 prompts for agents, free, at tapthis.co.
 - **Thumbnail options:** "45 minutes. One email." / "AI ate your Sunday" / "Never start from blank"
 
 ## Captions.ai Notes
@@ -79,3 +79,13 @@ The robot was never the slow part. You, feeding it from scratch every single tim
 
 ## Walking Route
 Evening or golden-hour walk if possible, the episode is about getting your nights back. Relaxed pace.
+
+## AI Music Prompt
+
+**Vibe:** Relaxed evening product bed. Optimistic and unhurried, the "getting your Sunday night back" feeling.
+
+**Suno / Udio:**
+> [no vocals] modern tech-product underscore, instrumental only, relaxed and optimistic, 100 BPM, soft arpeggiated synth, muted plucked lead, gentle tight kick, subtle hi-hat pattern, warm sub-bass, easy major key, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, loopable
+
+**CapCut AI Music:**
+> Instrumental modern tech-product underscore, relaxed and optimistic, 100 BPM, soft arpeggiated synth, muted lead, gentle kick, no vocals, easy bed for voiceover, loopable
