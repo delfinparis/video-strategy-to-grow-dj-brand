@@ -1,0 +1,7 @@
+# NAR Just Published Rules on Who Controls Your Listings
+video_id: qQbhmPJxT0E
+url: https://www.youtube.com/watch?v=qQbhmPJxT0E
+upload_date: 2026-06-01
+caption_status: ok
+------------------------------------------------------------
+NAR just published the rules for how your MLS and your personal agent websites can display and filter listings two days ago. Most agents haven't read them. Three guides clarifying policy 8.5. MLSs and IDX feeds can filter listings by objective stuff. Geography, price, property type. They cannot filter by agent name, brokerage name, or compensation. And clear cooperation got a sharper line on when off-MLS broker conversations count as public marketing. So, this isn't NAR housekeeping. If your MLS or websites filter by any of those names, your MLS just got told to stop. The private exclusive playbook also got narrower. The moment a broker-to-broker conversation crosses into marketing, the listing has to be in the MLS within 24 hours. So, here's what you can do now. This week, pull your MLS's IDX and VOW rules. Check two things. Whether users can filter by agent or brokerage name, and whether they can filter by compensation. If either, flag that to your leadership. And if you've been running private exclusives, read the clear cooperation clarifier.

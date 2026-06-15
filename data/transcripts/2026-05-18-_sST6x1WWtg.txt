@@ -1,0 +1,7 @@
+# MRED Pulled the Zillow Feed: Here's How Chicago Agents Get Their Listings Back
+video_id: _sST6x1WWtg
+url: https://www.youtube.com/watch?v=_sST6x1WWtg
+upload_date: 2026-05-18
+caption_status: ok
+------------------------------------------------------------
+Your seller is going to text you at 7:00 a.m. tomorrow asking why their listing is gone from Zillow. &gt;&gt; &gt;&gt; Here's the answer. So, MRED is threatening to cut the Zillow feed tonight at midnight. If they follow through, every listing on Zillow that comes from Chicago brokerage without a direct feed disappears. But, there are two ways to fix this. And you, the agent, can't do either one yourself. So, your designated managing broker either has to sign up for what's called a PDAP feed, which is through MLS Grid at zillow.com/agent/beyonzillow. That one's free for agents and around 175 bucks a month for the broker if they don't already have that subscription. Or, your broker signs a direct syndication agreement with Zillow Group. That one's completely free and it gets your brokerage branding on every listing page plus a 15-minute refresh. Smart brokers are doing both. What you cannot do is manually upload your own agent listing to Zillow. They killed that in 2017. And no, the Fizbo tool doesn't count. Don't ask me how I know agents are trying that this week. I'm going to leave that one alone. So, here's the move. Text your managing broker tonight. Send them the Beyond Zillow link. Then email your sellers before they call you. Then go to bed.

@@ -1,0 +1,113 @@
+{
+  "_comment": "Videos classified as podcast snippets (clips from long-form KIR/Coffee Talk episodes), NOT solo walk-and-talks. Intentionally excluded from publishing-log.csv. Kept here for audit so they are not re-evaluated. See docs/auto-publishing-log-sync.md.",
+  "ignored": [
+    {
+      "video_id": "eou1hSSBEiQ",
+      "upload_date": "2026-03-12",
+      "title": "The forgotten goldmine: How 56\u201359\u2011year\u2011old sellers with massive equity are driving cash home sale",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "Og-YmVvv1b0",
+      "upload_date": "2026-03-13",
+      "title": "The forgotten goldmine: How 56\u201359\u2011year\u2011old sellers with massive equity are driving cash home sale",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "vyWMoYRGbUY",
+      "upload_date": "2026-03-14",
+      "title": "Why telling clients NOT to sell can win you more referrals (honesty-as-marketing)",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "l8ZqFb7NBNU",
+      "upload_date": "2026-03-15",
+      "title": "Why your side passions make you a better realtor",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "eOwVyHOjRFQ",
+      "upload_date": "2026-04-23",
+      "title": "The right mentor\u2014the one who invests in you, guides you, and actually shows up",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "5i6vr4NPXL4",
+      "upload_date": "2026-04-24",
+      "title": "HOA fees are expected to rise as new reserve requirements kick in",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "djZlePSaEno",
+      "upload_date": "2026-04-25",
+      "title": "2-1 buy-down benefits and seller credits.",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "nK29DMJ1ehY",
+      "upload_date": "2026-04-26",
+      "title": "Consistent, value-driven calls\u2014not just systems\u2014are what turn relationships into repeat and referral",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "_mdqhBXxdF8",
+      "upload_date": "2026-04-27",
+      "title": "Mentor habit for top agent success",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "eA3K0_wXLJ4",
+      "upload_date": "2026-04-28",
+      "title": "Without consistent prospecting, growth will alway have a ceiling",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "r5jOYG5Mr4w",
+      "upload_date": "2026-04-29",
+      "title": "Luxury is not a price point",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "v-Lm20I313Q",
+      "upload_date": "2026-04-30",
+      "title": "AI can handle the process\u2014but real estate will always be won through human relationships",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "3NqE4p-Gdig",
+      "upload_date": "2026-05-18",
+      "title": "AI visibility hack for agents",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "BXZ1iTnJgDA",
+      "upload_date": "2026-05-18",
+      "title": "Mortgage buy-downs beat inflation savings",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "O1QVPA9fbT8",
+      "upload_date": "2026-05-20",
+      "title": "Real estate agents and AI visibility",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "X-DNDs82KWI",
+      "upload_date": "2026-05-21",
+      "title": "AI daily briefing for real estate business",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "-7S7txPWr5k",
+      "upload_date": "2026-06-03",
+      "title": "Staying top-of-mind with past clients",
+      "reason": "conversational podcast clip"
+    },
+    {
+      "video_id": "-xw8SW_ZC8E",
+      "upload_date": "2026-06-04",
+      "title": "The Simple Habit of Top-Performing Realtors.",
+      "reason": "conversational podcast clip"
+    }
+  ]
+}
