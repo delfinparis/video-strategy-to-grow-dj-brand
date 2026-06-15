@@ -73,12 +73,15 @@ def save_seen(seen):
     SEEN_PATH.write_text(json.dumps({"seen": sorted(seen)}, indent=2) + "\n")
 
 
+YT_DLP_BASE = ["yt-dlp", "--no-check-certificate"]
+
+
 def list_recent_video_ids(limit):
     """Fast flat listing of recent Short ids (no per-video network cost)."""
-    code, out, err = run([
-        "yt-dlp", "--flat-playlist", "--playlist-end", str(limit),
-        "--print", "%(id)s", CHANNEL_SHORTS_URL,
-    ])
+    code, out, err = run(
+        YT_DLP_BASE + ["--flat-playlist", "--playlist-end", str(limit),
+                        "--print", "%(id)s", CHANNEL_SHORTS_URL]
+    )
     if code != 0:
         sys.exit(f"ERROR listing channel Shorts:\n{err.strip()}")
     return [line.strip() for line in out.splitlines() if line.strip()]
@@ -86,11 +89,11 @@ def list_recent_video_ids(limit):
 
 def fetch_metadata(video_id):
     """Return (upload_date 'YYYYMMDD', title) for a video, or (None, None)."""
-    code, out, _ = run([
-        "yt-dlp", "--skip-download",
-        "--print", "%(upload_date)s\t%(title)s",
-        f"https://www.youtube.com/watch?v={video_id}",
-    ])
+    code, out, _ = run(
+        YT_DLP_BASE + ["--skip-download",
+                       "--print", "%(upload_date)s\t%(title)s",
+                       f"https://www.youtube.com/watch?v={video_id}"]
+    )
     if code != 0:
         return None, None
     line = out.strip().splitlines()[0] if out.strip() else ""
@@ -103,11 +106,11 @@ def fetch_metadata(video_id):
 def fetch_caption_vtt(video_id, tmp_dir):
     """Download English auto-captions as a .vtt; return its Path or None."""
     out_tmpl = str(tmp_dir / f"{video_id}.%(ext)s")
-    code, _, _ = run([
-        "yt-dlp", "--skip-download",
-        "--write-auto-subs", "--sub-lang", "en", "--sub-format", "vtt",
-        "-o", out_tmpl, f"https://www.youtube.com/watch?v={video_id}",
-    ])
+    code, _, _ = run(
+        YT_DLP_BASE + ["--skip-download",
+                       "--write-auto-subs", "--sub-lang", "en", "--sub-format", "vtt",
+                       "-o", out_tmpl, f"https://www.youtube.com/watch?v={video_id}"]
+    )
     if code != 0:
         return None
     matches = list(tmp_dir.glob(f"{video_id}*.vtt"))
