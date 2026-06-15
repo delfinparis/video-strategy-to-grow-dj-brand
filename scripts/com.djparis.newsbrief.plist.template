@@ -4,13 +4,23 @@
 
   Setup:
   1. Copy this file to ~/Library/LaunchAgents/com.djparis.newsbrief.plist
-  2. Edit the ANTHROPIC_API_KEY value (replace REPLACE_WITH_YOUR_KEY)
+  2. Fill in the placeholder values in EnvironmentVariables below:
+       - ANTHROPIC_API_KEY      (required)
+       - DIGEST_EMAIL_TO / DIGEST_SMTP_USER / DIGEST_SMTP_APP_PASSWORD
+         (optional; turns on the morning email. The script also accepts the
+         BRIEF_* names. The growth digest uses the same DIGEST_* set, so one
+         set of credentials drives both engines.)
+       - NTFY_TOPIC             (optional; turns on the real-time push)
   3. Load it:   launchctl load ~/Library/LaunchAgents/com.djparis.newsbrief.plist
   4. Verify:    launchctl list | grep djparis
   5. Test now:  launchctl start com.djparis.newsbrief
 
-  The brief will generate daily at 6:30am and write to
-  ~/video-strategy-to-grow-dj-brand/data/news-briefs/YYYY-MM-DD.md
+  Secrets live ONLY in the installed copy under ~/Library/LaunchAgents, never in
+  this repo template. Keep the placeholders here.
+
+  The brief generates daily at 6:30am: tiered feeds -> dedup -> drop already-
+  covered -> Haiku rank -> fetch article bodies -> Sonnet takes -> email + push.
+  Output writes to ~/video-strategy-to-grow-dj-brand/data/news-briefs/YYYY-MM-DD.md
 
   To disable temporarily:  launchctl unload ~/Library/LaunchAgents/com.djparis.newsbrief.plist
   To re-enable:            launchctl load ~/Library/LaunchAgents/com.djparis.newsbrief.plist
@@ -43,6 +53,16 @@
   <dict>
     <key>ANTHROPIC_API_KEY</key>
     <string>REPLACE_WITH_YOUR_KEY</string>
+    <!-- Optional: morning email. Delete these three to write the file only. -->
+    <key>DIGEST_EMAIL_TO</key>
+    <string>REPLACE_WITH_YOUR_EMAIL</string>
+    <key>DIGEST_SMTP_USER</key>
+    <string>REPLACE_WITH_YOUR_EMAIL</string>
+    <key>DIGEST_SMTP_APP_PASSWORD</key>
+    <string>REPLACE_WITH_GMAIL_APP_PASSWORD</string>
+    <!-- Optional: real-time push. Delete to rely on email alone. -->
+    <key>NTFY_TOPIC</key>
+    <string>REPLACE_WITH_PRIVATE_NTFY_TOPIC</string>
     <key>PATH</key>
     <string>/usr/local/bin:/usr/bin:/bin</string>
   </dict>

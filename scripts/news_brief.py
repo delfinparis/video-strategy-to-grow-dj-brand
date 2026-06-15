@@ -2,40 +2,93 @@
 """
 Daily news brief generator for Inside the Industry (NF) content ideation.
 
-Pulls from RSS feeds across major real estate news sources, deduplicates,
-surfaces trending stories, and uses Claude to rank + generate D.J.-flavored
-angles for the top candidates. Outputs a markdown brief ready to scan over
-morning coffee.
+Pulls from a TIERED watchlist of real estate news (national/industry, Chicago-
+local, and primary/regulatory sources), deduplicates with a meta-story cluster
+heuristic, drops stories D.J. has already covered, and then runs a TWO-STAGE
+take pipeline:
 
-Target: produce the top 5 news candidates for NF scripts, each with a
-one-sentence angle the "industry insider" brand can run with.
+  Stage 1 (cheap, Haiku):  rank every candidate by relevance + flag fresh vs
+                           already-covered. Triage only.
+  Stage 2 (judgment, Sonnet): for the top 5, fetch the actual article body and
+                           write a real "insider reframe" angle -- a non-obvious
+                           second-order read, the hook, the close direction, and
+                           an optional Keeping It Real episode tie-in when the
+                           podcast archive is reachable on this machine.
+
+The point: the old engine wrote a one-sentence angle from a headline + 200 chars
+of summary on Haiku. That produces a headline rephrase. This one reads the story
+and writes the take with the editorial rules and the contrarian-reframe standard
+in hand, on the model that's actually good at judgment.
+
+Output: a markdown brief written to data/news-briefs/YYYY-MM-DD.md and, if
+configured, emailed + pushed so it lands on D.J.'s phone before he's awake.
 
 Usage:
   python3 scripts/news_brief.py
-  # writes data/news-briefs/YYYY-MM-DD.md
+  # full run: fetch -> dedup -> drop-covered -> rank -> fetch bodies -> takes -> email
 
   python3 scripts/news_brief.py --lookback 24
-  # only consider stories from last 24 hours (default 48)
+  # only consider stories from the last 24 hours (default 48)
+
+  python3 scripts/news_brief.py --no-fetch
+  # skip article-body fetching for the top 5 (faster/cheaper; thinner takes)
 
   python3 scripts/news_brief.py --no-llm
-  # skip the Claude triage; just deduplicate and list
+  # skip both LLM stages; just dedup + list (free)
+
+  python3 scripts/news_brief.py --all
+  # ignore the seen-cache and reconsider everything in the window
+
+  python3 scripts/news_brief.py --no-email --no-push
+  # write the file but don't deliver it, even if env is configured
 
 Dependencies:
   pip install feedparser anthropic
+  (feedparser + anthropic required. Delivery uses the Python standard library.)
 
 Environment:
-  ANTHROPIC_API_KEY must be set (export ANTHROPIC_API_KEY=sk-ant-...)
+  ANTHROPIC_API_KEY must be set.
 
-Cost: ~$0.01-0.03 per run using claude-haiku-4-5. Haiku is plenty for this triage job.
+  Email delivery (optional -- set all three to turn it on):
+    BRIEF_EMAIL_TO            where the brief is sent
+    BRIEF_SMTP_USER           sending Gmail address
+    BRIEF_SMTP_APP_PASSWORD   a Gmail App Password (16 chars, NOT the login
+                              password). For backward-compat the script also
+                              accepts the DIGEST_* names the growth digest uses,
+                              so one set of credentials drives both engines.
+
+  Real-time push (optional):
+    NTFY_TOPIC                a private, unguessable ntfy topic you subscribe to
+    NTFY_SERVER               optional, default https://ntfy.sh
+
+  Keeping It Real cross-reference (optional, auto-detected):
+    If the keeping-it-real-content-system repo is cloned on this machine, the
+    engine indexes its episode analyses and lets Stage 2 tie a story to a real
+    episode. Override the location with KIR_ANALYSIS_DIR. If the repo isn't
+    present (D.J. works across 3 devices), the tie-in is skipped and the brief
+    says so -- it never invents an episode.
+
+Cost: ~$0.03-0.08 per run. Stage 1 is Haiku (triage). Stage 2 is Sonnet on the
+top 5 only, because writing a contrarian take that respects the editorial rules
+is a judgment job, not a triage job.
+
+Design notes mirror growth_digest.py: human-readable feed names, graceful
+degradation, every miss reported in the brief, nothing fabricated. The job is
+meant to run locally via launchd (scripts/com.djparis.newsbrief.plist.template)
+so feed fetches come from a residential IP.
 """
 
 import argparse
 import json
 import os
 import re
+import smtplib
+import ssl
 import sys
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from difflib import SequenceMatcher
+from email.message import EmailMessage
 from pathlib import Path
 
 try:
@@ -47,62 +100,100 @@ except ImportError:
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUT_DIR = REPO_ROOT / "data" / "news-briefs"
 STATE_FILE = OUTPUT_DIR / ".seen-stories.json"
+PUBLISHING_LOG = REPO_ROOT / "data" / "publishing-log.csv"
+NF_SCRIPTS_DIR = REPO_ROOT / "scripts" / "inside-the-industry"
 
-# RSS feeds ordered roughly by signal quality for the industry-insider brand.
-# Sources behind paywalls, malformed-XML feeds, or unreliable direct RSS are
-# routed through Google News RSS with site-specific queries. Google News
-# indexes headlines even for paywalled content (e.g., Inman), is zero-maintenance,
-# and carries zero TOS or credential-storage risk vs. direct scraping.
-# If a feed breaks, the script still runs and notes the failure in the brief.
+UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+TRIAGE_MODEL = "claude-haiku-4-5-20251001"
+TAKE_MODEL = "claude-sonnet-4-6"
+
+# ---------------------------------------------------------------------------
+# THE TIERED WATCHLIST
+# ---------------------------------------------------------------------------
+# Each feed carries a tier so scoring and the brief know where a story came from.
+#   national    -- industry-wide trade press (the baseline)
+#   chicago     -- local, the brand's edge; weighted up in triage
+#   regulatory  -- primary sources (NAR newsroom, CFPB, lawsuit coverage); these
+#                  produce the "you haven't heard this yet" stories
+# Paywalled / malformed / unstable feeds are routed through Google News RSS,
+# which indexes headlines even for paywalled outlets and carries no TOS or
+# credential-storage risk. If a feed breaks, the run continues and notes it.
 FEEDS = [
-    ("Inman (via Google News)", "https://news.google.com/rss/search?q=site:inman.com&hl=en-US&gl=US&ceid=US:en"),
-    ("HousingWire", "https://www.housingwire.com/feed/"),
-    ("Real Estate News (via Google News)", "https://news.google.com/rss/search?q=site:realestatenews.com&hl=en-US&gl=US&ceid=US:en"),
-    ("RISMedia", "https://www.rismedia.com/feed/"),
-    ("NAR Realtor Magazine (via Google News)", "https://news.google.com/rss/search?q=site:magazine.realtor&hl=en-US&gl=US&ceid=US:en"),
-    ("Crain's Chicago Real Estate (via Google News)", "https://news.google.com/rss/search?q=site:chicagobusiness.com+real+estate&hl=en-US&gl=US&ceid=US:en"),
-    ("Zillow Research", "https://www.zillow.com/research/feed/"),
-    ("Redfin News", "https://www.redfin.com/news/feed/"),
+    # --- national / industry -------------------------------------------------
+    ("Inman (via Google News)", "national",
+     "https://news.google.com/rss/search?q=site:inman.com&hl=en-US&gl=US&ceid=US:en"),
+    ("HousingWire", "national", "https://www.housingwire.com/feed/"),
+    ("Real Estate News (via Google News)", "national",
+     "https://news.google.com/rss/search?q=site:realestatenews.com&hl=en-US&gl=US&ceid=US:en"),
+    ("RISMedia", "national", "https://www.rismedia.com/feed/"),
+    ("Zillow Research (via Google News)", "national",
+     "https://news.google.com/rss/search?q=site:zillow.com/research&hl=en-US&gl=US&ceid=US:en"),
+    ("Redfin News", "national", "https://www.redfin.com/news/feed/"),
+
+    # --- Chicago / local (the brand's edge) ----------------------------------
+    ("Crain's Chicago Real Estate (via Google News)", "chicago",
+     "https://news.google.com/rss/search?q=site:chicagobusiness.com+real+estate&hl=en-US&gl=US&ceid=US:en"),
+    ("Chicago Agent Magazine (via Google News)", "chicago",
+     "https://news.google.com/rss/search?q=site:chicagoagentmagazine.com&hl=en-US&gl=US&ceid=US:en"),
+    ("Block Club Chicago real estate (via Google News)", "chicago",
+     "https://news.google.com/rss/search?q=site:blockclubchicago.org+(housing+OR+%22real+estate%22+OR+development)&hl=en-US&gl=US&ceid=US:en"),
+    ("Illinois REALTORS (via Google News)", "chicago",
+     "https://news.google.com/rss/search?q=site:illinoisrealtors.org&hl=en-US&gl=US&ceid=US:en"),
+    ("Chicago real estate market (via Google News)", "chicago",
+     "https://news.google.com/rss/search?q=Chicago+(%22real+estate%22+OR+housing+market+OR+brokerage)&hl=en-US&gl=US&ceid=US:en"),
+
+    # --- primary / regulatory (the scoop tier) -------------------------------
+    ("NAR Newsroom (via Google News)", "regulatory",
+     "https://news.google.com/rss/search?q=site:nar.realtor+OR+%22National+Association+of+Realtors%22&hl=en-US&gl=US&ceid=US:en"),
+    ("NAR Realtor Magazine (via Google News)", "regulatory",
+     "https://news.google.com/rss/search?q=site:magazine.realtor&hl=en-US&gl=US&ceid=US:en"),
+    ("Real estate commission litigation (via Google News)", "regulatory",
+     "https://news.google.com/rss/search?q=(%22real+estate%22+commission)+(lawsuit+OR+settlement+OR+antitrust+OR+verdict)&hl=en-US&gl=US&ceid=US:en"),
+    ("CFPB / real estate regulation (via Google News)", "regulatory",
+     "https://news.google.com/rss/search?q=(CFPB+OR+%22Clear+Cooperation%22+OR+%22buyer+agreement%22)+real+estate&hl=en-US&gl=US&ceid=US:en"),
 ]
 
-TRIAGE_PROMPT = """You are helping D.J. Paris decide which real estate news stories to turn into short-form "Inside the Industry" videos for his audience of Chicago real estate agents and brokers.
+# ---------------------------------------------------------------------------
+# Keeping It Real episode archive (optional moat input for Stage 2).
+# Resolved from KIR_ANALYSIS_DIR or the default checkout location. Absent on
+# machines without the repo; the engine degrades gracefully when so.
+# ---------------------------------------------------------------------------
+def kir_analysis_dir():
+    override = os.environ.get("KIR_ANALYSIS_DIR")
+    if override:
+        return Path(override)
+    return Path.home() / "GitHub Projects" / "keeping-it-real-content-system" / "data" / "analysis"
 
-D.J.'s brand: industry insider with POV. He's 1 of 12 NAR influencers nationally, has interviewed 700+ top-producing agents on the Keeping It Real Podcast, and is VP of Business Development at Kale Realty (700+ agent brokerage, Chicago).
+
+# D.J.'s context, handed to both LLM stages so the read reflects HIS brand and
+# rules, not generic news summarization. Kept in sync with editorial-standards.md
+# and docs/series/inside-the-industry-standard.md.
+DJ_CONTEXT = """D.J. Paris is a real estate industry insider with POV. He is 1 of 12 NAR influencers nationally, has interviewed 700+ top-producing agents on the Keeping It Real Podcast, and is VP of Business Development at Kale Realty, a 700+ agent Chicago brokerage. His audience is Chicago real estate agents and brokers who don't have time to read 12 newsletters -- he is the insider who already read them.
 
 His audience cares about:
-- NAR decisions + settlements (Tuccori, Batton, Sitzer/Burnett, lawsuit economics)
-- Commission structure changes + buyer agreement practices
-- Brokerage industry moves (Compass, KW, RE/MAX, Anywhere, Elliman, Hanna, Side, eXp)
-- Chicago-specific real estate news (@properties, Kale competitors, local MLS developments)
-- Regulatory changes (CFPB, NAR policy, state-level)
-- Tech shifts affecting agents (AI adoption, Zillow, MLS developments)
+- NAR decisions, settlements, and lawsuit economics (Tuccori, Batton, Sitzer/Burnett, Clear Cooperation)
+- Commission structure changes and buyer-agreement practice
+- Brokerage moves (Compass, KW, RE/MAX, Anywhere, Elliman, Hanna, Side, eXp, @properties)
+- Chicago-specific developments (local MLS/MRED, Chicago Association of REALTORS, Kale competitors, local market shifts)
+- Regulation (CFPB, NAR policy, Illinois/Chicago state + city level)
+- Tech shifts that change an agent's job (AI adoption, Zillow's moves, MLS politics)
 
-He does NOT care about:
-- National housing market stats (rates, inventory) unless there's an industry-shift angle
-- Buyer/seller advice content (his podcast covers that)
-- General real estate lifestyle / home decor content
-- Non-actionable trend pieces ("top 10 cities for millennials")
-
-Below are today's headlines from the major real estate outlets. For each story, rate relevance 1-10 and propose D.J.'s angle in one sentence (his POV, not just the headline summary). Then rank the top 5.
-
-Stories:
-{stories}
-
-Output JSON array (no other text), ordered by rank:
-[
-  {{"rank": 1, "title": "...", "source": "...", "relevance": 9, "angle": "D.J.'s one-sentence take / hook angle"}},
-  ...
-]
-
-Only include stories with relevance >= 6. If fewer than 5 stories meet that bar, return fewer."""
+He does NOT care about (down-rank hard):
+- National housing macro (rates, inventory) UNLESS there's an industry-shift angle
+- Buyer/seller how-to content (his podcast covers that)
+- Lifestyle / home decor / "top 10 cities" listicles
+"""
 
 
 def now_utc():
     return datetime.now(timezone.utc)
 
 
+# ---------------------------------------------------------------------------
+# Fetch
+# ---------------------------------------------------------------------------
 def parse_feed_entry_date(entry):
-    """Return entry date as tz-aware UTC datetime, or None if unparseable."""
     for key in ("published_parsed", "updated_parsed"):
         t = entry.get(key)
         if t:
@@ -113,43 +204,23 @@ def parse_feed_entry_date(entry):
     return None
 
 
-def clean_summary(raw):
-    """Strip HTML, normalize whitespace, trim to ~300 chars."""
+def clean_summary(raw, cap=300):
     if not raw:
         return ""
     text = re.sub(r"<[^>]+>", " ", raw)
     text = re.sub(r"\s+", " ", text).strip()
-    return text[:300]
-
-
-def title_similarity(a, b):
-    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
-
-
-def load_seen():
-    if not STATE_FILE.exists():
-        return set()
-    try:
-        data = json.loads(STATE_FILE.read_text())
-        return set(data.get("seen", []))
-    except Exception:
-        return set()
-
-
-def save_seen(seen):
-    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps({"seen": sorted(seen)[-2000:]}, indent=2))
+    return text[:cap]
 
 
 def fetch_stories(lookback_hours=48):
-    """Pull all feeds, return list of dicts with title/link/source/date/summary."""
+    """Pull all feeds, return (stories, feed_failures). Each story carries its tier."""
     cutoff = now_utc() - timedelta(hours=lookback_hours)
     stories = []
     feed_failures = []
 
-    for source, url in FEEDS:
+    for source, tier, url in FEEDS:
         try:
-            parsed = feedparser.parse(url)
+            parsed = feedparser.parse(url, agent=UA)
             if parsed.bozo and not parsed.entries:
                 feed_failures.append((source, str(parsed.bozo_exception)[:100]))
                 continue
@@ -161,6 +232,7 @@ def fetch_stories(lookback_hours=48):
                     "title": entry.get("title", "").strip(),
                     "link": entry.get("link", ""),
                     "source": source,
+                    "tier": tier,
                     "date": date.isoformat() if date else "",
                     "summary": clean_summary(entry.get("summary", "")),
                 })
@@ -170,12 +242,38 @@ def fetch_stories(lookback_hours=48):
     return stories, feed_failures
 
 
-def deduplicate(stories, similarity_threshold=0.75):
-    """Return (deduped_stories, trending_groups) where trending_groups is list of
-    groups of 2+ sources reporting same story."""
+# ---------------------------------------------------------------------------
+# Dedup with a meta-story cluster heuristic
+# ---------------------------------------------------------------------------
+_STOP = set("the a an of to in on for and or with at by from as is are was were "
+            "this that new now its it's their his her over into out up down".split())
+
+
+def _sig_tokens(title):
+    toks = re.findall(r"[a-z0-9$%]+", title.lower())
+    return {t for t in toks if t not in _STOP and len(t) > 2}
+
+
+def _same_story(a, b):
+    """True if two headlines are the same story. Combines string similarity with
+    significant-token overlap so a meta-story whose headlines diverge in wording
+    (the old 0.75-ratio miss on the CCP/Compass cluster) still clusters."""
+    ratio = SequenceMatcher(None, a.lower(), b.lower()).ratio()
+    if ratio >= 0.55:
+        return True
+    ta, tb = _sig_tokens(a), _sig_tokens(b)
+    if not ta or not tb:
+        return False
+    jaccard = len(ta & tb) / len(ta | tb)
+    return jaccard >= 0.45
+
+
+def deduplicate(stories):
+    """Return (deduped, trending). Representative per cluster keeps the widest
+    cross-source spread; trending = covered by 3+ distinct outlets."""
     sorted_stories = sorted(stories, key=lambda s: s.get("date", ""), reverse=True)
-    groups = []
     used = set()
+    deduped, trending = [], []
 
     for i, story in enumerate(sorted_stories):
         if i in used:
@@ -185,139 +283,457 @@ def deduplicate(stories, similarity_threshold=0.75):
         for j in range(i + 1, len(sorted_stories)):
             if j in used:
                 continue
-            if title_similarity(story["title"], sorted_stories[j]["title"]) >= similarity_threshold:
+            if _same_story(story["title"], sorted_stories[j]["title"]):
                 group.append(sorted_stories[j])
                 used.add(j)
-        groups.append(group)
-
-    # Keep the representative story per group (first one, which is newest) but
-    # note cross-source count for trending detection
-    deduped = []
-    trending = []
-    for group in groups:
-        rep = group[0]
-        rep["cross_source_count"] = len(group)
-        rep["cross_sources"] = sorted({s["source"] for s in group})
+        rep = dict(group[0])
+        sources = sorted({s["source"] for s in group})
+        tiers = sorted({s["tier"] for s in group})
+        rep["cross_source_count"] = len(sources)
+        rep["cross_sources"] = sources
+        rep["tiers"] = tiers
         deduped.append(rep)
-        if len(group) >= 3:
+        if len(sources) >= 3:
             trending.append(rep)
 
     return deduped, trending
 
 
-def filter_new(stories, seen):
-    """Return only stories whose link hasn't been seen before."""
-    return [s for s in stories if s["link"] and s["link"] not in seen]
+# ---------------------------------------------------------------------------
+# Memory: what has D.J. already covered?
+# ---------------------------------------------------------------------------
+def load_covered_topics():
+    """Build a compact list of already-covered topic strings from the publishing
+    log and the existing Inside the Industry scripts, so the LLM can flag a story
+    D.J. has already made a video about. Best-effort; never fails the run."""
+    covered = []
+    # Publishing log: pull the human title/description column(s).
+    try:
+        import csv
+        with PUBLISHING_LOG.open() as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                for key in ("title", "Title", "description", "Description", "topic", "Topic", "hook", "Hook"):
+                    val = (row.get(key) or "").strip()
+                    if val:
+                        covered.append(val)
+                        break
+    except Exception:
+        pass
+    # NF script filenames are descriptive slugs (e.g. NF-022-clear-cooperation-dead).
+    try:
+        for p in sorted(NF_SCRIPTS_DIR.glob("*.md")):
+            slug = p.stem
+            slug = re.sub(r"^(NF|IS|IA)-\d+-", "", slug)
+            covered.append(slug.replace("-", " "))
+    except Exception:
+        pass
+    # De-dup, keep it bounded so the prompt stays cheap.
+    seen, out = set(), []
+    for c in covered:
+        k = c.lower()
+        if k not in seen:
+            seen.add(k)
+            out.append(c)
+    return out[-120:]
 
 
-def call_claude_triage(stories, max_stories=25):
-    """Call Claude API to rank top 5 stories with angles. Returns list of dicts or None on failure."""
+def load_kir_index():
+    """Light index of Keeping It Real episodes for Stage 2 cross-reference.
+    Returns (entries, status_note). Entries are compact strings the model can
+    pick from. Absent repo -> ([], note) and the brief says the tie-in is off."""
+    d = kir_analysis_dir()
+    if not d.exists():
+        return [], f"not available on this machine (looked in {d})"
+    entries = []
+    for p in sorted(d.glob("*.json")):
+        try:
+            data = json.loads(p.read_text())
+        except Exception:
+            continue
+        if not isinstance(data, dict):
+            continue
+        # Tolerant field extraction -- schema may evolve; pull whatever names exist.
+        guest = (data.get("guest") or data.get("guest_name") or data.get("title") or p.stem)
+        bits = []
+        for key in ("topics", "themes", "key_topics", "tags", "takeaways", "summary"):
+            v = data.get(key)
+            if isinstance(v, list):
+                bits.extend(str(x) for x in v[:5])
+            elif isinstance(v, str):
+                bits.append(v[:160])
+        label = f"{p.stem} | {guest}"
+        if bits:
+            label += " | " + "; ".join(bits)[:240]
+        entries.append(label)
+    note = f"{len(entries)} episodes indexed from {d}" if entries else f"present but empty ({d})"
+    return entries[:400], note
+
+
+# ---------------------------------------------------------------------------
+# Stage 2 input: fetch the actual article body for the top candidates
+# ---------------------------------------------------------------------------
+def fetch_article_body(url, cap=2800):
+    """Best-effort full-text pull. Direct-RSS links resolve cleanly; Google News
+    redirect links often don't, so this degrades to '' and Stage 2 falls back to
+    the RSS summary. Never raises."""
+    if not url:
+        return ""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            html = resp.read().decode("utf-8", errors="replace")
+    except Exception:
+        return ""
+    # Strip scripts/styles, then tags. Crude but dependency-free and good enough
+    # to give the model real sentences instead of a headline.
+    html = re.sub(r"(?is)<(script|style|nav|header|footer|aside)[^>]*>.*?</\1>", " ", html)
+    text = re.sub(r"(?is)<[^>]+>", " ", html)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:cap]
+
+
+# ---------------------------------------------------------------------------
+# Stage 1: cheap triage / ranking
+# ---------------------------------------------------------------------------
+TRIAGE_PROMPT = """You are helping D.J. Paris pick which real estate news stories to turn into short-form "Inside the Industry" videos.
+
+{dj_context}
+
+Weighting: a Chicago-local or primary/regulatory (lawsuit, NAR, CFPB) story of equal newsworthiness beats a generic national one, because local + scoop is the brand's edge.
+
+D.J. has ALREADY made videos about these topics -- a story that is just a re-report of one of these is NOT fresh, mark covered=true:
+{covered}
+
+Below are today's deduplicated headlines. For each, rate relevance 1-10 for THIS brand and decide covered true/false. Then return the ranked top 8.
+
+Stories:
+{stories}
+
+Output JSON array ONLY, ordered by rank:
+[
+  {{"rank": 1, "idx": 4, "relevance": 9, "covered": false, "why": "one phrase: why it rates this"}}
+]
+Only include relevance >= 6. Fewer than 8 is fine. "idx" is the [n] number of the story."""
+
+
+def call_triage(stories, covered, max_stories=28):
+    client = _client()
+    if client is None:
+        return None
+    stories = stories[:max_stories]
+    blocks = []
+    for i, s in enumerate(stories):
+        blocks.append(
+            f"[{i+1}] ({s['tier']}) {s['title']}\n"
+            f"  Source(s): {', '.join(s.get('cross_sources', [s['source']]))} "
+            f"({s.get('cross_source_count', 1)} outlet(s))\n"
+            f"  Summary: {s['summary'][:200]}"
+        )
+    covered_text = "\n".join(f"- {c}" for c in covered) if covered else "(none on record)"
+    prompt = TRIAGE_PROMPT.format(
+        dj_context=DJ_CONTEXT,
+        covered=covered_text,
+        stories="\n\n".join(blocks),
+    )
+    try:
+        msg = client.messages.create(
+            model=TRIAGE_MODEL, max_tokens=1500,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        ranked = _parse_json(msg.content[0].text)
+        # Attach the story dict to each ranked entry by idx.
+        out = []
+        for r in ranked or []:
+            idx = r.get("idx")
+            if isinstance(idx, int) and 1 <= idx <= len(stories):
+                r["story"] = stories[idx - 1]
+                out.append(r)
+        return out
+    except Exception as e:
+        print(f"warning: triage failed: {e}", file=sys.stderr)
+        return None
+
+
+# ---------------------------------------------------------------------------
+# Stage 2: the take (judgment, Sonnet, top 5 with real article bodies)
+# ---------------------------------------------------------------------------
+TAKE_PROMPT = """You are D.J. Paris's writing partner for "Inside the Industry" short-form video. For each story below, write the TAKE, not a summary.
+
+{dj_context}
+
+The "Inside the Industry" standard is the contrarian reframe: never restate the headline. Find the non-obvious second-order read -- what this means for a Chicago agent that they wouldn't get from the headline, the part everyone will miss, the move it forces. The insider knows what the story does NOT say.
+
+HARD EDITORIAL RULES (a take that needs one of these is wrong, rewrite it):
+- NO engagement-ask CTAs ("follow", "comment", "tag a broker", "what's your take"). The close is a "here's what you do now" action at the viewer's own business.
+- NO fabricated or "plausible specific" stats. Every number must trace to the source. If you're not sure of a number, don't use one.
+- NO em dashes. NO AI-speak filler.
+- Always "D.J. Paris" with periods.
+- 30-60 second target, 90s hard cap. The hook is the first sentence and it has to stop the scroll.
+
+{kir_block}
+
+Stories (with article text where it could be fetched):
+{stories}
+
+Output JSON array ONLY, same order as input:
+[
+  {{
+    "title": "the story title",
+    "hook": "the literal first line of the video -- the scroll-stopper",
+    "reframe": "2-3 sentences: the insider's second-order read, what the headline misses",
+    "close": "the 'do this now' action for the viewer's own business (no engagement ask)",
+    "kir_tie_in": "an episode from the list above that genuinely fits, phrased as 'On the podcast, [guest] told me...' -- or empty string if none truly fits. Never invent one.",
+    "confidence": "high | medium | low -- your honesty on whether this is a strong video",
+    "why": "one phrase on what makes it land or where it's thin"
+  }}
+]"""
+
+
+def call_takes(candidates, kir_entries):
+    """candidates: list of {story, body}. Returns list of take dicts or None."""
+    client = _client()
+    if client is None:
+        return None
+    blocks = []
+    for i, c in enumerate(candidates):
+        s = c["story"]
+        body = c.get("body") or s.get("summary") or "(headline only -- no body fetched)"
+        blocks.append(
+            f"[{i+1}] {s['title']}\n"
+            f"  Tier: {s['tier']}  |  Source(s): {', '.join(s.get('cross_sources', [s['source']]))}\n"
+            f"  Article text: {body[:2200]}"
+        )
+    if kir_entries:
+        sample = "\n".join(f"- {e}" for e in kir_entries[:60])
+        kir_block = ("KEEPING IT REAL ARCHIVE (pick a tie-in ONLY from this list, only if it truly fits):\n"
+                     + sample)
+    else:
+        kir_block = "KEEPING IT REAL ARCHIVE: not available this run. Leave kir_tie_in empty for every story."
+    prompt = TAKE_PROMPT.format(
+        dj_context=DJ_CONTEXT, kir_block=kir_block, stories="\n\n".join(blocks),
+    )
+    try:
+        msg = client.messages.create(
+            model=TAKE_MODEL, max_tokens=3000,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        return _parse_json(msg.content[0].text)
+    except Exception as e:
+        print(f"warning: take generation failed: {e}", file=sys.stderr)
+        return None
+
+
+# ---------------------------------------------------------------------------
+# Anthropic helpers
+# ---------------------------------------------------------------------------
+def _client():
     try:
         import anthropic
     except ImportError:
-        print("warning: anthropic package not installed; skipping LLM triage.", file=sys.stderr)
-        print("  install with: pip install anthropic", file=sys.stderr)
+        print("warning: anthropic not installed; skipping LLM stages.", file=sys.stderr)
         return None
-
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        print("warning: ANTHROPIC_API_KEY not set; skipping LLM triage.", file=sys.stderr)
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if not key:
+        print("warning: ANTHROPIC_API_KEY not set; skipping LLM stages.", file=sys.stderr)
         return None
+    return anthropic.Anthropic(api_key=key)
 
-    # Cap stories we send to avoid excessive token usage
-    stories = stories[:max_stories]
 
-    stories_text = "\n\n".join(
-        f"[{i+1}] {s['title']}\n  Source: {s['source']}\n  Cross-source count: {s.get('cross_source_count', 1)}\n  Summary: {s['summary'][:200]}\n  Link: {s['link']}"
-        for i, s in enumerate(stories)
-    )
+def _parse_json(raw):
+    raw = raw.strip()
+    raw = re.sub(r"^```(?:json)?\s*", "", raw)
+    raw = re.sub(r"\s*```$", "", raw)
+    return json.loads(raw)
 
-    client = anthropic.Anthropic(api_key=api_key)
+
+# ---------------------------------------------------------------------------
+# Seen-cache
+# ---------------------------------------------------------------------------
+def load_seen():
+    if not STATE_FILE.exists():
+        return set()
     try:
-        msg = client.messages.create(
-            model="claude-haiku-4-5-20251001",
-            max_tokens=2000,
-            messages=[{
-                "role": "user",
-                "content": TRIAGE_PROMPT.format(stories=stories_text),
-            }],
-        )
-        raw = msg.content[0].text.strip()
-        # Strip ``` fences if model added them
-        raw = re.sub(r"^```(?:json)?\s*", "", raw)
-        raw = re.sub(r"\s*```$", "", raw)
-        return json.loads(raw)
-    except Exception as e:
-        print(f"warning: LLM triage failed: {e}", file=sys.stderr)
-        return None
+        return set(json.loads(STATE_FILE.read_text()).get("seen", []))
+    except Exception:
+        return set()
 
 
-def format_brief(stories, trending, triage, feed_failures, lookback_hours):
-    """Assemble the markdown brief."""
+def save_seen(seen):
+    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    STATE_FILE.write_text(json.dumps({"seen": sorted(seen)[-2000:]}, indent=2))
+
+
+# ---------------------------------------------------------------------------
+# Brief assembly
+# ---------------------------------------------------------------------------
+def _scrub(text):
+    """Enforce the hard 'no em dashes' rule deterministically, so a model slip in
+    a take never reaches the emailed brief. Em/en dashes become commas; the brief
+    is internal ideation, so a comma swap reads fine and keeps the habit honest."""
+    if not text:
+        return text
+    text = text.replace(" — ", ", ").replace("—", ", ").replace(" – ", ", ").replace("–", ", ")
+    return re.sub(r",\s*,", ",", text).strip()
+
+
+def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir_note):
     today = now_utc().strftime("%Y-%m-%d")
+    tier_counts = {}
+    for s in stories:
+        tier_counts[s["tier"]] = tier_counts.get(s["tier"], 0) + 1
     lines = [
         f"# Industry News Brief — {today}",
-        f"*Lookback window: last {lookback_hours} hours. Source pool: {len(FEEDS)} feeds.*",
+        f"*Lookback: last {lookback_hours}h. {len(stories)} stories after dedupe "
+        f"({tier_counts.get('national',0)} national, {tier_counts.get('chicago',0)} Chicago, "
+        f"{tier_counts.get('regulatory',0)} regulatory). KIR tie-in: {kir_note}.*",
         "",
     ]
 
-    if triage:
+    if takes:
         lines.append("## Top candidates for NF scripts")
-        lines.append("*LLM-triaged by relevance to Chicago real estate agents + industry-insider POV.*")
+        lines.append("*Two-stage: Haiku ranked, Sonnet wrote the take from the article body. "
+                     "Each is a reframe, not a summary.*")
         lines.append("")
-        for item in triage:
-            matching = next((s for s in stories if s["title"] == item.get("title")), None)
-            link = matching["link"] if matching else "#"
-            lines.append(f"### {item.get('rank', '?')}. {item.get('title', '(untitled)')}")
-            lines.append(f"- **Source:** {item.get('source', '?')}")
-            lines.append(f"- **Relevance:** {item.get('relevance', '?')}/10")
-            lines.append(f"- **D.J. angle:** {item.get('angle', '')}")
-            lines.append(f"- **Link:** [{link}]({link})")
+        for n, t in enumerate(takes, 1):
+            conf = (t.get("confidence") or "?").lower()
+            lines.append(f"### {n}. {t.get('title', '(untitled)')}")
+            lines.append(f"- **Hook:** {_scrub(t.get('hook', ''))}")
+            lines.append(f"- **The reframe:** {_scrub(t.get('reframe', ''))}")
+            lines.append(f"- **Close (do this now):** {_scrub(t.get('close', ''))}")
+            tie = _scrub((t.get("kir_tie_in") or "").strip())
+            if tie:
+                lines.append(f"- **Podcast tie-in:** {tie}")
+            lines.append(f"- **Confidence:** {conf}  |  {_scrub(t.get('why', ''))}")
+            lines.append("")
+    elif triage:
+        lines.append("## Top candidates (ranked, no take written)")
+        lines.append("*Stage 2 was skipped or failed; angles not generated.*")
+        lines.append("")
+        for r in triage:
+            s = r.get("story", {})
+            flag = " — already covered" if r.get("covered") else ""
+            lines.append(f"### {r.get('rank','?')}. {s.get('title','(untitled)')}{flag}")
+            lines.append(f"- **Tier:** {s.get('tier','?')}  |  **Relevance:** {r.get('relevance','?')}/10")
+            lines.append(f"- **Why:** {r.get('why','')}")
+            lines.append(f"- **Link:** {s.get('link','#')}")
             lines.append("")
     else:
-        lines.append("## Top stories (no LLM triage -- manually scan)")
+        lines.append("## Top stories (no LLM -- scan manually)")
         lines.append("")
-        for s in stories[:10]:
-            lines.append(f"- **[{s['title']}]({s['link']})** — {s['source']}")
+        for s in stories[:12]:
+            lines.append(f"- ({s['tier']}) **[{s['title']}]({s['link']})** — {s['source']}")
         lines.append("")
 
     if trending:
         lines.append("## Trending (same story in 3+ outlets)")
-        lines.append("*Industry-wide coverage = high likelihood this is worth a take.*")
+        lines.append("*Industry-wide coverage = high likelihood it's worth a take.*")
         lines.append("")
-        for story in trending:
-            lines.append(f"- **{story['title']}**")
-            lines.append(f"  - Sources: {', '.join(story['cross_sources'])} ({story['cross_source_count']} outlets)")
-            lines.append(f"  - [{story['link']}]({story['link']})")
+        for s in trending:
+            lines.append(f"- **{s['title']}**")
+            lines.append(f"  - Sources: {', '.join(s['cross_sources'])} ({s['cross_source_count']} outlets)")
+            lines.append(f"  - [{s['link']}]({s['link']})")
         lines.append("")
 
     lines.append("## Full story list")
     lines.append(f"*{len(stories)} stories after dedupe.*")
     lines.append("")
-    for s in stories:
-        date_str = s["date"][:10] if s["date"] else "?"
-        lines.append(f"- `{date_str}` **[{s['source']}]** [{s['title']}]({s['link']})")
+    for s in sorted(stories, key=lambda x: (x["tier"], x.get("date", "")), reverse=True):
+        d = s["date"][:10] if s["date"] else "?"
+        lines.append(f"- `{d}` ({s['tier']}) **[{s['source']}]** [{s['title']}]({s['link']})")
     lines.append("")
 
-    if feed_failures:
+    if failures:
         lines.append("## Feed failures")
-        lines.append("*These feeds failed to parse. URLs may have changed -- update `FEEDS` in scripts/news_brief.py if persistent.*")
+        lines.append("*Update `FEEDS` in scripts/news_brief.py if a failure persists.*")
         lines.append("")
-        for source, err in feed_failures:
+        for source, err in failures:
             lines.append(f"- **{source}:** {err}")
         lines.append("")
 
     lines.append("---")
     lines.append(f"*Generated by `scripts/news_brief.py` at {now_utc().isoformat()}.*")
-
     return "\n".join(lines)
 
 
+# ---------------------------------------------------------------------------
+# Delivery (ported from growth_digest.py; accepts BRIEF_* or DIGEST_* env names)
+# ---------------------------------------------------------------------------
+def _env(*names):
+    for n in names:
+        v = os.environ.get(n)
+        if v:
+            return v
+    return None
+
+
+def send_email(subject, body):
+    to_addr = _env("BRIEF_EMAIL_TO", "DIGEST_EMAIL_TO")
+    user = _env("BRIEF_SMTP_USER", "DIGEST_SMTP_USER")
+    password = _env("BRIEF_SMTP_APP_PASSWORD", "DIGEST_SMTP_APP_PASSWORD")
+    if not (to_addr and user and password):
+        return "skipped (set BRIEF_EMAIL_TO + BRIEF_SMTP_USER + BRIEF_SMTP_APP_PASSWORD)"
+    host = _env("BRIEF_SMTP_HOST", "DIGEST_SMTP_HOST") or "smtp.gmail.com"
+    port = int(_env("BRIEF_SMTP_PORT", "DIGEST_SMTP_PORT") or "587")
+    msg = EmailMessage()
+    msg["Subject"] = subject
+    msg["From"] = user
+    msg["To"] = to_addr
+    msg.set_content(body)
+    try:
+        with smtplib.SMTP(host, port, timeout=30) as server:
+            server.starttls(context=ssl.create_default_context())
+            server.login(user, password)
+            server.send_message(msg)
+        return f"sent to {to_addr}"
+    except Exception as e:
+        return f"FAILED: {str(e)[:120]}"
+
+
+def send_push(subject, takes):
+    topic = os.environ.get("NTFY_TOPIC")
+    if not topic:
+        return "skipped (set NTFY_TOPIC)"
+    server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
+    if takes:
+        body = "Top takes:\n" + "\n".join(f"- {t.get('hook','')[:120]}" for t in takes[:3])
+    else:
+        body = "Brief generated; no takes this run. See the email."
+    req = urllib.request.Request(
+        f"{server}/{topic}",
+        data=body.encode("utf-8"),
+        headers={
+            "Title": subject.encode("ascii", "replace").decode(),
+            "Tags": "newspaper",
+            "Priority": "default",
+        },
+        method="POST",
+    )
+    try:
+        urllib.request.urlopen(req, timeout=15)
+        return f"pushed to {server}/{topic}"
+    except Exception as e:
+        return f"FAILED: {str(e)[:120]}"
+
+
+def brief_subject(takes, stories):
+    today = now_utc().strftime("%m/%d")
+    if takes:
+        top = takes[0].get("title", "")[:70]
+        return f"NF brief {today}: {len(takes)} takes — top: {top}"
+    return f"NF brief {today}: {len(stories)} stories (no takes this run)"
+
+
+# ---------------------------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--lookback", type=int, default=48, help="Lookback window in hours (default 48)")
-    parser.add_argument("--no-llm", action="store_true", help="Skip Claude LLM triage")
+    parser.add_argument("--no-fetch", action="store_true", help="Skip article-body fetch for the top 5")
+    parser.add_argument("--no-llm", action="store_true", help="Skip both LLM stages; dedup + list only")
     parser.add_argument("--all", action="store_true", help="Include stories seen on previous runs")
+    parser.add_argument("--no-email", action="store_true", help="Don't email even if env is set")
+    parser.add_argument("--no-push", action="store_true", help="Don't push even if NTFY_TOPIC is set")
+    parser.add_argument("--top", type=int, default=5, help="How many stories get a written take (default 5)")
     args = parser.parse_args()
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -328,32 +744,54 @@ def main():
 
     seen = set() if args.all else load_seen()
     if seen:
-        fresh = filter_new(stories, seen)
-        print(f"  {len(stories) - len(fresh)} previously seen; {len(fresh)} fresh", file=sys.stderr)
-        stories = fresh
+        before = len(stories)
+        stories = [s for s in stories if s["link"] and s["link"] not in seen]
+        print(f"  {before - len(stories)} previously seen; {len(stories)} fresh", file=sys.stderr)
 
     if not stories:
         print("no new stories in window. brief not generated.", file=sys.stderr)
         return
 
     stories, trending = deduplicate(stories)
-    print(f"  deduped to {len(stories)} unique stories, {len(trending)} trending", file=sys.stderr)
+    print(f"  deduped to {len(stories)} unique, {len(trending)} trending", file=sys.stderr)
 
-    triage = None
+    triage = takes = None
+    kir_note = "off (--no-llm)"
     if not args.no_llm:
-        print("calling Claude for triage...", file=sys.stderr)
-        triage = call_claude_triage(stories)
+        covered = load_covered_topics()
+        print(f"  loaded {len(covered)} already-covered topics", file=sys.stderr)
+        print("stage 1: ranking (Haiku)...", file=sys.stderr)
+        triage = call_triage(stories, covered)
         if triage:
-            print(f"  triage returned {len(triage)} candidates", file=sys.stderr)
+            print(f"  ranked {len(triage)} candidates", file=sys.stderr)
+            fresh = [r for r in triage if not r.get("covered")][:args.top]
+            kir_entries, kir_note = load_kir_index()
+            print(f"  KIR index: {kir_note}", file=sys.stderr)
+            candidates = []
+            for r in fresh:
+                s = r["story"]
+                body = "" if args.no_fetch else fetch_article_body(s["link"])
+                candidates.append({"story": s, "body": body})
+            if not args.no_fetch:
+                got = sum(1 for c in candidates if c["body"])
+                print(f"  fetched {got}/{len(candidates)} article bodies", file=sys.stderr)
+            print("stage 2: writing takes (Sonnet)...", file=sys.stderr)
+            takes = call_takes(candidates, kir_entries)
+            if takes:
+                print(f"  wrote {len(takes)} takes", file=sys.stderr)
 
-    brief = format_brief(stories, trending, triage, failures, args.lookback)
-
+    brief = format_brief(stories, trending, takes, triage, failures, args.lookback, kir_note)
     today = now_utc().strftime("%Y-%m-%d")
     out_path = OUTPUT_DIR / f"{today}.md"
     out_path.write_text(brief, encoding="utf-8")
     print(f"wrote {out_path}", file=sys.stderr)
 
-    # Update seen list with today's story links (so tomorrow's run skips them)
+    subj = brief_subject(takes, stories)
+    if not args.no_email:
+        print(f"email: {send_email(subj, brief)}", file=sys.stderr)
+    if not args.no_push:
+        print(f"push: {send_push(subj, takes)}", file=sys.stderr)
+
     seen.update(s["link"] for s in stories if s["link"])
     save_seen(seen)
 

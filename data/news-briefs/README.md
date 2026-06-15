@@ -1,8 +1,18 @@
 # Daily Industry News Briefs
 
-Daily markdown briefings generated from real estate news RSS feeds, LLM-triaged and ranked by relevance to Chicago real estate agents. Feeds your Inside the Industry News (NF) script ideation.
+Daily markdown briefings generated from a tiered real estate news watchlist, then run through a two-stage take pipeline. Feeds your Inside the Industry News (NF) script ideation.
 
-Each brief identifies the top 5 news stories worth a D.J. Paris take, with a proposed angle for each.
+Each brief identifies the top 5 stories worth a D.J. Paris take and, for each, writes the actual insider reframe (hook, second-order read, "do this now" close) from the real article body, not a one-line headline summary.
+
+## The pipeline
+
+1. **Tiered fetch.** 15 feeds across three tiers: national/industry, Chicago/local (the brand's edge), and primary/regulatory (NAR newsroom, CFPB, commission-litigation coverage). Tier is carried through scoring.
+2. **Dedup + cluster.** A meta-story whose headlines diverge (the old CCP/Compass miss) now clusters via string similarity plus significant-token overlap. 3+ outlets = trending.
+3. **Drop already-covered.** The engine reads `data/publishing-log.csv` and `scripts/inside-the-industry/` so it flags and skips stories D.J. has already filmed.
+4. **Stage 1 rank (Haiku).** Cheap triage: relevance 1-10, fresh vs covered, Chicago/regulatory weighted up.
+5. **Fetch bodies.** For the top 5 it pulls the actual article text (direct-RSS links resolve cleanly; Google News redirects degrade to the summary).
+6. **Stage 2 take (Sonnet).** Writes the contrarian reframe with the editorial rules in hand, optionally tying in a real Keeping It Real episode when that repo is cloned on the machine. Em dashes are scrubbed deterministically. Each take carries an honest confidence rating.
+7. **Deliver.** Writes the file and, if configured, emails it + pushes via ntfy so it lands on the phone before D.J. is awake.
 
 ---
 
@@ -52,7 +62,11 @@ open data/news-briefs/$(date +%Y-%m-%d).md
 
 Run each morning. Scan the top 5. Pick 1 for that day's NF script (if Tue/Wed/Thu/Sat per the calendar).
 
-### Option B - macOS launchd (automated)
+### Option B - macOS launchd (automated, recommended)
+
+Use the maintained template at [`scripts/com.djparis.newsbrief.plist.template`](../../scripts/com.djparis.newsbrief.plist.template) (daily 6:30am, with the email + ntfy env vars). Copy it to `~/Library/LaunchAgents/com.djparis.newsbrief.plist`, fill in the placeholders, then `launchctl load` it. The template's header has the exact steps.
+
+**Minimal inline version (file-only, no delivery):**
 
 Create `~/Library/LaunchAgents/com.djparis.newsbrief.plist`:
 
@@ -96,8 +110,11 @@ Now each morning at 6:30am your brief is ready before you wake up.
 
 ```bash
 python3 scripts/news_brief.py --lookback 24 # only stories from last 24h
-python3 scripts/news_brief.py --no-llm # skip Claude triage (free, faster)
+python3 scripts/news_brief.py --no-fetch # skip Stage 2 article-body fetch (cheaper, thinner takes)
+python3 scripts/news_brief.py --no-llm # skip both LLM stages (free, faster)
 python3 scripts/news_brief.py --all # include previously-seen stories
+python3 scripts/news_brief.py --no-email --no-push # write the file only
+python3 scripts/news_brief.py --top 7 # write takes for the top 7 instead of 5
 ```
 
 The script tracks which story links it has already surfaced in prior runs and skips them by default, so you don't see the same story every day. Use `--all` to override.
@@ -108,36 +125,30 @@ The script tracks which story links it has already surfaced in prior runs and sk
 
 Each `YYYY-MM-DD.md` file contains:
 
-1. **Top candidates for NF scripts** (LLM-ranked) - 5 stories with relevance scores and proposed D.J. angles
+1. **Top candidates for NF scripts** - 5 written takes, each with a hook, the reframe (second-order read), a "do this now" close, an optional podcast tie-in, and an honest confidence rating
 2. **Trending** - stories appearing in 3+ outlets (industry-wide coverage = high signal)
-3. **Full story list** - all deduplicated stories in the lookback window, for manual scanning
+3. **Full story list** - all deduplicated stories in the lookback window, tier-tagged, for manual scanning
+4. **Feed failures** - any feed that failed to parse, so a broken source is visible not silent
 
 ---
 
 ## Cost
 
-- Haiku model (default) = ~$0.01-0.03 per run
-- At one run per day = ~$5-10/month
-- `--no-llm` runs cost $0
+- Two-stage (Haiku rank + Sonnet takes on the top 5) = ~$0.03-0.08 per run
+- At one run per day = ~$1-2.50/month
+- `--no-fetch` trims the Stage 2 input (cheaper, thinner takes); `--no-llm` runs cost $0
 
 ---
 
 ## Feeds currently configured
 
-Defined in `scripts/news_brief.py` as the `FEEDS` list. All working as of 2026-04-18:
+The canonical list is the tier-tagged `FEEDS` array at the top of [`scripts/news_brief.py`](../../scripts/news_brief.py) (read it there to avoid drift). As of 2026-06-14 it's 15 feeds across three tiers:
 
-| Source | Type | URL |
-| --- | --- | --- |
-| Inman | Google News RSS | `https://news.google.com/rss/search?q=site:inman.com&hl=en-US&gl=US&ceid=US:en` |
-| HousingWire | Direct RSS | `https://www.housingwire.com/feed/` |
-| Real Estate News | Google News RSS | `https://news.google.com/rss/search?q=site:realestatenews.com&hl=en-US&gl=US&ceid=US:en` |
-| RISMedia | Direct RSS | `https://www.rismedia.com/feed/` |
-| NAR Realtor Magazine | Google News RSS | `https://news.google.com/rss/search?q=site:magazine.realtor&hl=en-US&gl=US&ceid=US:en` |
-| Crain's Chicago Real Estate | Google News RSS | `https://news.google.com/rss/search?q=site:chicagobusiness.com+real+estate&hl=en-US&gl=US&ceid=US:en` |
-| Zillow Research | Direct RSS | `https://www.zillow.com/research/feed/` |
-| Redfin News | Direct RSS | `https://www.redfin.com/news/feed/` |
+- **national / industry** - Inman, HousingWire, Real Estate News, RISMedia, Zillow Research, Redfin
+- **chicago / local** (the brand's edge) - Crain's Chicago, Chicago Agent Magazine, Block Club Chicago, Illinois REALTORS, a broad "Chicago real estate market" query
+- **primary / regulatory** (the scoop tier) - NAR Newsroom, NAR Realtor Magazine, commission-litigation coverage, CFPB / Clear Cooperation / buyer-agreement coverage
 
-**Why Google News for 4 of 8:** Four outlets (Inman, Real Estate News, NAR Magazine, Crain's Chicago) either paywall their RSS feeds, return malformed XML, or have moved feed URLs with no stable alternative. Google News RSS indexes their content, is maintenance-free, covers paywalled content, and carries no TOS or credential-storage risk vs. scraping. Direct RSS is still used where it works reliably.
+**Why Google News for most:** many of these outlets paywall their RSS, return malformed XML (Zillow's direct feed does), or have no stable feed URL. Google News RSS indexes their headlines anyway, is maintenance-free, covers paywalled content, and carries no TOS or credential-storage risk vs. scraping. Direct RSS is kept only where it parses reliably (HousingWire, RISMedia, Redfin).
 
 ---
 
@@ -161,10 +172,10 @@ The LLM triage prompt lives in `scripts/news_brief.py` as `TRIAGE_PROMPT`. If th
 
 ## Integration with the NF production workflow
 
-1. **Morning (6:30am via launchd):** brief generates automatically
-2. **Morning coffee (D.J. reads):** scan top 5, pick the winner for today's post
-3. **Filming:** turn the picked angle into a 60-sec script (use existing Inside the Industry series standard)
+1. **Morning (6:30am via launchd):** brief generates and emails/pushes automatically
+2. **Morning coffee (D.J. reads):** scan the 5 takes, pick the winner. The hook and close are already drafted.
+3. **Filming:** turn the picked take into a 60-sec script (use the Inside the Industry series standard). The reframe is the spine; tighten it in D.J.'s voice.
 4. **Post:** crosspost to all 6 surfaces
-5. **Log:** add the new post to `data/publishing-log.csv`
+5. **Log:** add the new post to `data/publishing-log.csv` (which is also how the brief learns not to re-pitch it)
 
-The brief never writes scripts for you - it surfaces what's worth writing about.
+The brief drafts the take; the human still writes and voices the final script. Confidence ratings flag which stories are strong versus thin.
