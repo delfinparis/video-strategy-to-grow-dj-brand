@@ -125,8 +125,8 @@ Source the brief actually fetched (this is your ONLY factual ground):
 ================ NON-NEGOTIABLE RULES FOR THIS DRAFT ================
 1. SOURCING / NO FABRICATION (the #1 rule). You may ONLY assert facts that appear in the article text above. Do NOT invent statistics, dollar figures, dates, case numbers, quotes, or named economists. If the take implies a fact the article doesn't contain, write the spoken line so it does not depend on an unverified number, and add the missing fact to the Data Source section marked "VERIFY before filming -- not confirmed in fetched source." If the article text is thin, keep the script's factual claims minimal and lean on the reframe, which is opinion D.J. can stand behind.
 2. STATUS. Set frontmatter status to "needs-verification". This is a draft. The Data Source section must list each spoken factual claim with the source URL above and an explicit verification note. Never present an unverified claim as confirmed.
-3. STRUCTURE. Use the NF four-beat structure with timecodes: HOOK (0:00-0:12), CONTEXT, INSIGHT, CLOSE. NF hook leads with the exact sourced number or fact (no rounding, no "roughly"). The close is a "here's what you do now" action or watchpoint, never an engagement ask.
-4. LENGTH. 45-75 seconds, ~100-185 spoken words. Add the Estimated Duration line and a one-paragraph length justification, like the example.
+3. STRUCTURE. Use the NF four-beat structure with timecodes: HOOK (0:00-0:10), CONTEXT (0:10-0:26), INSIGHT (0:26-0:42), CLOSE (0:42-0:58). The final timecode must NOT pass 0:60. NF hook leads with the exact sourced number or fact (no rounding, no "roughly"). The close is a "here's what you do now" action or watchpoint, never an engagement ask.
+4. LENGTH (the constraint that matters most). 60 SECONDS MAXIMUM, target 45-55 seconds. ~95-135 spoken words, HARD CAP 135 words. A script that runs past one minute is wrong: cut the weakest beat until it fits. Count ONLY the spoken words (HOOK + CONTEXT + INSIGHT + CLOSE, not headers, timecodes, or notes) and put that exact count in the Estimated Duration line, which must read 60 seconds or less. Add a one-sentence length justification, not a paragraph.
 5. VOICE + AI-TELLS. Write so it reads as D.J., not as AI. Obey the field guide: no banned vocabulary, at most one "It's not X, it's Y", at most one Rule-of-Three, no self-answered rhetorical questions, no motivational-poster close.
 6. NO EM DASHES anywhere in social captions. Use periods or commas.
 7. SOCIAL COPY. Write all six captions (LinkedIn primary, Instagram Reels, TikTok, YouTube Shorts with title+description, Facebook, X), each platform-shaped per the example, hashtags included.
@@ -152,7 +152,7 @@ Use the same standards you were given (they are repeated below). Model the stres
 - CLOSE (Rule 4): "here's what you do now" action or watchpoint, never an engagement ask.
 - AI-TELLS (field guide): no banned vocabulary; at most one "It's not X, it's Y"; at most one Rule-of-Three; no self-answered rhetorical questions; no motivational-poster close. Flag and fix any stacking.
 - EM DASHES: none in any social caption. Fix to periods/commas.
-- LENGTH: 45-75s (~100-185 words). Adjust if over/under.
+- LENGTH (hard gate, the #1 thing this pass enforces): 60 SECONDS MAXIMUM, target 45-55s, 135 spoken words HARD CAP. Count the spoken words (HOOK + CONTEXT + INSIGHT + CLOSE only). If the count is over 135 OR any timecode passes 0:60, that is a CRITICAL finding: cut the weakest beat or tighten lines until it fits under a minute. Do not ship a script that films longer than 60 seconds. Update the Estimated Duration line to the real post-cut word count.
 - VOICE: reads as D.J., not as AI.
 
 ================ OUTPUT ================
@@ -252,7 +252,9 @@ def run(entries, top=1, model=DEFAULT_MODEL, deliver=True):
             subj = f"NF DRAFT {now_utc().strftime('%m/%d')}: {title[:65]} (verify before filming)"
             status = nb.send_email(subj, draft)
             print(f"draft_nf: email -> {status}", file=sys.stderr)
-        results.append({"path": str(path), "title": title})
+        # Return the markdown too so a caller (news_brief.py) can fold the draft
+        # into the single morning email instead of sending a separate one.
+        results.append({"path": str(path), "title": title, "markdown": draft})
     return results
 
 

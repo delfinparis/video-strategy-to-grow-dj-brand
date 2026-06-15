@@ -479,7 +479,7 @@ HARD EDITORIAL RULES (a take that needs one of these is wrong, rewrite it):
 - NO fabricated or "plausible specific" stats. Every number must trace to the source. If you're not sure of a number, don't use one.
 - NO em dashes. NO AI-speak filler.
 - Always "D.J. Paris" with periods.
-- 30-60 second target, 90s hard cap. The hook is the first sentence and it has to stop the scroll.
+- LENGTH: 40-50 second target, 60 second HARD CAP. Keep the reframe to two sentences and the close to one action. The whole thing has to be filmable in under a minute. The hook is the first sentence and it has to stop the scroll.
 
 {kir_block}
 
@@ -849,17 +849,14 @@ def main():
     out_path.write_text(brief, encoding="utf-8")
     print(f"wrote {out_path}", file=sys.stderr)
 
-    subj = brief_subject(takes, stories)
-    if not args.no_email:
-        print(f"email: {send_email(subj, brief)}", file=sys.stderr)
-    if not args.no_push:
-        print(f"push: {send_push(subj, takes)}", file=sys.stderr)
-
     seen.update(s["link"] for s in stories if s["link"])
     save_seen(seen)
 
-    # Drafting agent: turn the top take(s) into full NF script drafts and email
-    # them. Isolated so a drafting failure never breaks the brief itself.
+    # Drafting agent: turn the top take(s) into full NF script drafts. Done BEFORE
+    # delivery so the draft(s) fold into the SINGLE morning email instead of going
+    # out as separate messages. Isolated so a drafting failure never breaks the
+    # brief itself; on failure the email still goes out with the brief alone.
+    drafts_md = []
     if takes:
         _, entries = write_takes_sidecar(takes, candidates)
         if args.draft > 0:
@@ -867,10 +864,30 @@ def main():
                 import draft_nf
                 print(f"drafting top {args.draft} take(s) ({args.draft_model})...", file=sys.stderr)
                 drafted = draft_nf.run(entries, top=args.draft, model=args.draft_model,
-                                       deliver=not args.no_email)
-                print(f"  drafted {len(drafted)} script(s)", file=sys.stderr)
+                                       deliver=False)
+                drafts_md = [d["markdown"] for d in drafted if d.get("markdown")]
+                print(f"  drafted {len(drafts_md)} script(s)", file=sys.stderr)
             except Exception as e:
                 print(f"warning: drafting step failed (brief is unaffected): {e}", file=sys.stderr)
+
+    # One email: the brief (options + stat tip) with the drafted script(s)
+    # appended below it, so a morning run produces a single message, not 2-3.
+    email_body = brief
+    for i, dm in enumerate(drafts_md, 1):
+        email_body += (
+            f"\n\n\n{'=' * 70}\n"
+            f"DRAFTED SCRIPT {i} of {len(drafts_md)}  --  status: needs-verification\n"
+            f"Verify every source/number before filming. Trim further if it films long.\n"
+            f"{'=' * 70}\n\n{dm}"
+        )
+
+    subj = brief_subject(takes, stories)
+    if drafts_md:
+        subj += f" (+{len(drafts_md)} draft)"
+    if not args.no_email:
+        print(f"email: {send_email(subj, email_body)}", file=sys.stderr)
+    if not args.no_push:
+        print(f"push: {send_push(subj, takes)}", file=sys.stderr)
 
 
 if __name__ == "__main__":
