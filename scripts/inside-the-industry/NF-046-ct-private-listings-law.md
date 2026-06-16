@@ -26,16 +26,16 @@ companion_to: "NF-027 (Compass billboard, consumer angle), NF-035 (NY AG Compass
 ## Script (~70 seconds, walk and talk)
 
 ### HOOK (0:00-0:10)
-Connecticut just signed the law that ends the Compass private-listings model in the state. Five thousand dollar fine or license suspension. New York is next.
+Connecticut just signed the law that ends the Compass private-listings model in the state. Fines up to five thousand dollars. License suspension on the table. New York is next.
 
 ### CONTEXT (0:10-0:30)
 Governor Lamont signed SB 340 on May 27. Any private marketing of a Connecticut home requires a simultaneous public MLS listing. Social media, email, lawn signs, brokerage networks all count. Unless the seller signs a state opt-out form. Effective October first. Penalties up to five thousand dollars or license suspension.
 
 ### WHY IT MATTERS (0:30-0:48)
-This isn't an MLS dispute anymore. It's law. New York has the same bill on Governor Hochul's desk and it's expected to pass. The private-listing model Compass built scale on just became a state-by-state legal question. If you don't sit in Connecticut, watch your state's legislature.
+This isn't an MLS dispute anymore. It's law. New York has the same bill on Governor Hochul's desk and it's expected to pass. The private-listing model Compass built scale on just became a state-by-state legal question. The wave is moving state to state.
 
 ### CLOSE (0:48-1:06)
-Here's what you do now. If you have a Connecticut seller, your private-listing playbook expires October first. Have the conversation with them this week. If you're anywhere else, watch your state's bills. The Compass model just got criminalized in one state. It's not staying there.
+Here's what you do now. If you have a Connecticut seller, your private-listing playbook expires October first. Have the conversation with them this week. If you're anywhere else, watch your state's bills. Compass just lost a state. They're going to lose more.
 
 **Estimated Duration:** ~70 seconds | **Word Count:** ~175 words
 
