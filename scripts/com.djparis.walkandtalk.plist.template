@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd template for the daily walk-and-talk options job (no Gmail).
+
+  Runs scripts/walk_and_talk_brief.sh at 6:00am on the always-on home Mac:
+  news_brief.py -> options file -> git commit/push -> ntfy phone push (success
+  AND failure). No email, no reply-polling. Selection + the v3 build happen
+  on-demand in Claude Code ("walk and talk").
+
+  Setup (run scripts/install-walk-and-talk.sh to do this automatically):
+  1. Copy this file to ~/Library/LaunchAgents/com.djparis.walkandtalk.plist
+  2. Fill in the placeholders below:
+       - ANTHROPIC_API_KEY   (required; news_brief.py)
+       - NTFY_TOPIC          (required; your private push topic -- subscribe to
+                              the same topic in the free ntfy iOS app)
+     Adjust the two REPO paths if the repo is not at ~/video-strategy-to-grow-dj-brand.
+  3. Load:    launchctl load ~/Library/LaunchAgents/com.djparis.walkandtalk.plist
+  4. Verify:  launchctl list | grep walkandtalk
+  5. Test:    launchctl start com.djparis.walkandtalk   (should push to your phone)
+
+  Secrets live ONLY in the installed copy, never in this repo template.
+
+  Disable:    launchctl unload ~/Library/LaunchAgents/com.djparis.walkandtalk.plist
+  Change time: edit Hour/Minute, then unload + reload
+  Logs:       cat /tmp/walkandtalk.log  /  cat /tmp/walkandtalk-err.log
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.djparis.walkandtalk</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/djparis/video-strategy-to-grow-dj-brand/scripts/walk_and_talk_brief.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/djparis/video-strategy-to-grow-dj-brand</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key><integer>6</integer>
+    <key>Minute</key><integer>0</integer>
+  </dict>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>ANTHROPIC_API_KEY</key>
+    <string>REPLACE_WITH_YOUR_KEY</string>
+    <key>NTFY_TOPIC</key>
+    <string>REPLACE_WITH_PRIVATE_NTFY_TOPIC</string>
+    <key>REPO_DIR</key>
+    <string>/Users/djparis/video-strategy-to-grow-dj-brand</string>
+    <key>PATH</key>
+    <string>/usr/local/bin:/usr/bin:/bin</string>
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>/tmp/walkandtalk.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/tmp/walkandtalk-err.log</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>

@@ -4,6 +4,18 @@ Project-specific operating rules for Claude when working in this repo. Universal
 
 ---
 
+## When D.J. says "walk and talk", build today's script on demand
+
+D.J.'s daily options are researched + committed by the 6am home-Mac job and
+pushed to his phone (no email anymore). When he says **"walk and talk"** (with or
+without a number), follow [`docs/automation/walk-and-talk-on-demand.md`](docs/automation/walk-and-talk-on-demand.md):
+`git pull`, read today's `data/news-briefs/<today>.md`, show the numbered options,
+let him pick, then build the chosen option through draft → stress-test → EP-polish
+and deliver only the final v3 (with the `## AI Music Prompt` block). If today's
+brief is missing, offer to run `python3 scripts/news_brief.py` right then.
+
+---
+
 ## Always include an AI Music Prompt with every walk-and-talk script
 
 **Scope:** Any 45-75s talking-head script in this repo. Specifically:
