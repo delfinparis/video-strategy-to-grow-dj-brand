@@ -19,6 +19,7 @@ For Coffee Talk, this stacks on top of the stat registry in
 | 2026-06-12 | KIR | Natalie Taflinger (eXp Realty) | "Number one in her local MLS every year since 2020 -- eleven hundred transactions, $350M in career sales -- and she's never made a cold call to get any of it." | Build a listing-prep vendor list (trusted painter, cleaner, stager) to hand sellers whose homes aren't ready for market | Listing preparation / referral business |
 | 2026-06-12 | KIR | Ben Lalez ($200M+, Ben Lalez Group) | "Agents are the largest free content source on the internet, and they don't see a dollar of it." (Ben's own quote, ep. @ 53:30) | Every Monday: open an AI tool, pull that week's biggest real estate headlines, draft three social posts -- set a recurring reminder | AI content automation / Compass-Zillow MLS dispute |
 | 2026-06-14 | KIR | Austin Clarence (Nexa Mortgage) | "A client came in with a 676 FICO score. Austin ran his VantageScore -- same model behind the Credit Karma app -- and it came back at 783. Certain lenders can now use that number to qualify him." (client story @ transcript 00:06:39) | Tell every buyer to open Credit Karma, screenshot their VantageScore, and share it with you. If it's higher than their FICO, call your lender today -- some lenders can run that score now. | VantageScore / Credit Karma mortgage qualifying / self-employed loan options |
+| 2026-06-16 | KIR | Carrie McCormick (Carrie McCormick Group, @properties) | "A buyer just got their offer accepted by sending the sellers an AI watercolor painting of their own home." (clip_worthy_moments @ 24:24) | On your next offer, photograph the home, run it through an AI image tool, turn it into a watercolor painting, and send it with a handwritten "we love your home." | Luxury market shift (lifestyle over square footage) / AI branding + algorithms / winning multiple-offer situations |
 
 ---
 
@@ -33,3 +34,5 @@ For Coffee Talk, this stacks on top of the stat registry in
 | Monday AI news-gathering habit (AI tool + weekly headline pull + 3 social posts) | KIR / Ben Lalez 2026-06-12 |
 | 676 FICO / 783 VantageScore client story (Credit Karma mortgage qualifying) | KIR / Austin Clarence 2026-06-14 |
 | Credit Karma VantageScore screenshot tip | KIR / Austin Clarence 2026-06-14 |
+| AI watercolor painting of the home sent with the offer ("we love your home") | KIR / Carrie McCormick 2026-06-16 |
+| Luxury buyers buy lifestyle optimization, not square footage | KIR / Carrie McCormick 2026-06-16 |
