@@ -8,6 +8,9 @@ content_pillar: "ai_practical"
 post_date: "2026-07-06"
 day: "Hype video -- pre-webinar promo for Thu 7/9"
 status: "draft -- webinar registration URL still needs confirming (date/time/runtime locked)"
+heat: 3
+stat_anchored: false
+loop_back: "AI didn't ruin your voice. You just hadn't taught it your voice yet."
 ---
 
 # Your Sphere Can Smell ChatGPT -- Free Webinar Thursday, July 9
@@ -22,21 +25,21 @@ status: "draft -- webinar registration URL still needs confirming (date/time/run
 ## Script
 
 ### HOOK (0:00-0:05)
-An agent I know finally started using ChatGPT to text her sphere. A past client wrote back one line. "Lol, did a robot write this?"
+An agent I know texted her whole sphere with ChatGPT. A past client wrote back one line. "Lol, did a robot write this?"
 
 ### SETUP (0:05-0:17)
-I'm D.J. Paris, Keeping It Real Podcast, Kale Realty. Thursday, July ninth, ten AM Central, I'm running a free one-hour session called "Your Sphere Can Smell ChatGPT." And here's the uncomfortable part. They can.
+I'm D.J. Paris, Keeping It Real Podcast, Kale Realty. Thursday, July ninth, ten AM Central, I'm running a free session called "Your Sphere Can Smell ChatGPT." And here's the uncomfortable part. They can.
 
 ### INSIGHT (0:17-0:43)
-"I hope this message finds you well." "Nestled." "Sought-after." Those are robot fingerprints, and the people in your phone feel them. They just don't tell you. The problem was never AI. It's that you're sending it raw, straight out of the box, same default as every other agent. In an hour I'll show you two moves. One, strip the AI tells out of anything you write, in about fifteen seconds. Two, the big one, teach the AI to write in your actual voice. Your jokes, your rhythm, your sign-off. Close enough that the people who know you can't tell.
+"I hope this message finds you well." "Nestled." "Sought-after." Those are robot fingerprints, and the people in your phone feel them. They just don't tell you. The problem was never AI. It's that you're sending it raw, straight out of the box, same default as every other agent. In an hour I'll show you two moves. One, strip the AI tells out of anything you write, in about fifteen seconds. Two, the big one, teach the AI to write in your actual voice. Your jokes, the way you actually talk. Close enough that the people who know you can't tell.
 
 ### REFRAME (0:43-0:52)
-Because when every agent has the exact same AI, the one thing none of them can copy is sounding like a real human those people already trust. Your voice is the last moat you've got.
+Because when every agent has the same AI, the one thing none of them can copy is sounding like a human they already trust. Your voice is the last moat you've got.
 
 ### CTA (0:52-0:60)
 Thursday, July ninth. Ten AM Central. Free. Link in my bio. AI didn't ruin your voice. You just hadn't taught it your voice yet. Come do that with me.
 
-**Word Count:** ~205 | **Estimated Duration:** ~60 seconds
+**Word Count:** ~200 | **Estimated Duration:** ~60 seconds
 
 ## Data Source
 
@@ -68,13 +71,13 @@ Sourced from the July 9 webinar run-of-show / presentation script (`delfinparis/
 
 ### Instagram Reels
 **Caption:**
-An agent I know started using ChatGPT to text her sphere. A past client wrote back one line. "Lol, did a robot write this?"
+An agent I know texted her whole sphere with ChatGPT. A past client wrote back one line. "Lol, did a robot write this?"
 
 Your sphere can smell it too. "I hope this message finds you well." "Nestled." "Sought-after." Those are robot fingerprints, and the people in your phone feel them. They just don't tell you.
 
 The problem was never AI. It's that you're sending it raw.
 
-Thursday, July 9th at 10 AM Central, I'm running a free 1-hour session on the two moves that fix it. One, strip the AI tells in about 15 seconds. Two, teach the AI to write in your actual voice. Your jokes, your rhythm, your sign-off.
+Thursday, July 9th at 10 AM Central, I'm running a free 1-hour session on the two moves that fix it. One, strip the AI tells in about 15 seconds. Two, teach the AI to write in your actual voice. Your jokes, your rhythm.
 
 When every agent has the same AI, the one thing none of them can copy is sounding like you.
 
@@ -85,7 +88,7 @@ Free. Link in bio.
 
 ### TikTok
 **Description:**
-A past client replied to her AI text with five words. "Lol, did a robot write this?" Your sphere can smell ChatGPT. Free 1-hour session Thursday July 9th at 10am Central on the two moves that fix it: strip the AI tells, then teach the AI your real voice. Link in bio. #realestate #realtor #realestateagent #realtortips #aiforrealestate #realestateai #chatgptforrealestate #realestatecoaching #realestatetips #realtorlife #realestatetraining #realestatemarketing #chicagorealestate
+A past client replied to her AI text with one line. "Lol, did a robot write this?" Your sphere can smell ChatGPT. Free 1-hour session Thursday July 9th at 10am Central on the two moves that fix it: strip the AI tells, then teach the AI your real voice. Link in bio. #realestate #realtor #realestateagent #realtortips #aiforrealestate #realestateai #chatgptforrealestate #realestatecoaching #realestatetips #realtorlife #realestatetraining #realestatemarketing #chicagorealestate
 
 ### YouTube Shorts
 **Title:** Your Sphere Can Smell ChatGPT. Free Webinar Thursday, July 9
@@ -108,9 +111,9 @@ The problem was never that she used AI. I use it every day. The problem was she 
 
 Your sphere can smell it. "I hope this message finds you well." "Nestled." "Sought-after." Those are robot fingerprints, and the people in your phone feel them. They just don't tell you.
 
-Thursday, July 9th at 10 AM Central, I'm running a free 1-hour session, "Your Sphere Can Smell ChatGPT," on the two moves that fix it. One, strip the AI tells out of anything you write in about 15 seconds. Two, teach the AI to write in your actual voice across your sphere texts, listing copy, and follow-ups.
+Thursday, July 9th at 10 AM Central, I'm running a free 1-hour session, "Your Sphere Can Smell ChatGPT," on the two moves that fix it. One, strip the AI tells out of anything you write in about 15 seconds. Two, teach the AI to write in your actual voice across your sphere texts and your listing copy.
 
-When every agent has the exact same AI, the one thing none of them can copy is sounding like a real human those people already trust. Your voice is the last moat you have.
+When every agent has the same AI, the one thing none of them can copy is sounding like a human they already trust. Your voice is the last moat you have.
 
 AI didn't ruin your voice. You just hadn't taught it your voice yet.
 
@@ -135,3 +138,27 @@ Registration link in the comments.
 
 **Hashtags:**
 #realestate #realtor #realestateagent #realestatecoaching #realestatetraining #aiforrealestate #realestateai #chatgptforrealestate #realestatemarketing #chicagorealestate
+
+## Polish Audit (Stress Test + Second Pass + EP)
+
+**Verdict:** Ship-ready pending the one open VERIFY (webinar registration URL). No fabricated facts -- every claim traces to the supplied `PRESENTATION.md` or D.J.-confirmed logistics. Passes the editorial-standards pre-commit checklist and the AI-tells field guide after the fixes below.
+
+**HIGH**
+- **Rule-of-three stacking.** The spoken script, the IG caption, and the LinkedIn caption each carried two triple structures: the "I hope this message finds you well / Nestled / Sought-after" fingerprint list plus a second triple. The field guide caps one per script. Kept the fingerprint list (it's the concrete evidence) and broke the second triple in each -- spoken "your jokes, your rhythm, your sign-off" became "your jokes, the way you actually talk"; IG became "your jokes, your rhythm"; LinkedIn "sphere texts, listing copy, and follow-ups" became "sphere texts and your listing copy."
+- **Inaccurate count.** TikTok said the reply was "five words." "Lol, did a robot write this?" is six. Changed to "one line" to match the other surfaces and kill the miscount.
+
+**MEDIUM**
+- **Three time-figures in one spoken line.** The SETUP stacked date + time + duration ("July ninth, ten AM Central... free one-hour session"), past the two-numbers-per-line rule. Dropped "one-hour" from SETUP; the duration still lands once, in the INSIGHT ("In an hour").
+- **Sentence over 25 words.** The REFRAME ran ~26 ("a real human those people already trust"). Trimmed to "a human they already trust" (24 words) and aligned the same phrasing in the LinkedIn caption.
+
+**LOW**
+- **Hook speed.** Tightened the spoken and IG opener ("finally started using ChatGPT to text her sphere" became "texted her whole sphere with ChatGPT") so the "did a robot write this?" sting lands a beat sooner.
+- **Frontmatter.** Added the Rule 9.6 fields (heat 3, stat_anchored false, loop_back) so register, loop-back, and stat-cadence are auditable.
+
+**Checked and kept (earns its place):**
+- One "It's not X, it's Y" correction in the spoken script ("The problem was never AI. It's that you're sending it raw"). Within the one-per-script cap.
+- "And here's the uncomfortable part. They can." -- setup-payoff with a genuine two-word surprise, used once.
+- The close is a registration CTA, not an engagement ask -- legitimate for an event-promo type (matches the prior webinar last-call promo). Loop-back intact: the closing thesis reframes the "did a robot write this?" hook on rewatch.
+- Zero em dashes in any caption; CapCut prompt 210/300 chars; straight quotes throughout.
+
+**Still open:** webinar registration URL (routed to "link in bio" until confirmed).
