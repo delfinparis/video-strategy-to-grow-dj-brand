@@ -94,7 +94,7 @@ New York has the same bill on Governor Hochul's desk and it's expected to pass. 
 
 If you have a seller in Connecticut, your private-listing playbook expires October 1. Have the conversation with them this week.
 
-If you're anywhere else, watch your state's bills. The Compass model just got criminalized in one state. It's not staying there.
+If you're anywhere else, watch your state's bills. Compass just lost a state. They're going to lose more.
 
 **Hashtags:** #RealEstate #Compass #PrivateListings #RealEstateLaw #BrokerageLaw #Connecticut #NewYork #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
 
@@ -135,7 +135,7 @@ This isn't an MLS dispute anymore. It's law.
 
 New York has the same bill on Governor Hochul's desk and it's expected to pass. The private-listing model Compass built scale on just became a state-by-state legal question.
 
-If you have a Connecticut seller, your private-listing playbook expires October 1. Have the conversation with them this week. If you're anywhere else, watch your state's bills. The Compass model just got criminalized in one state. It's not staying there.
+If you have a Connecticut seller, your private-listing playbook expires October 1. Have the conversation with them this week. If you're anywhere else, watch your state's bills. Compass just lost a state. They're going to lose more.
 
 **Hashtags:** #RealEstate #Compass #PrivateListings #RealEstateLaw #Connecticut #RealtorLife
 
