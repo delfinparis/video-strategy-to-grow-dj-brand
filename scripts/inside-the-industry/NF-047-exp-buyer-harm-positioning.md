@@ -8,7 +8,7 @@ content_pillar: "market_intelligence"
 post_date: "TBD"
 status: "draft"
 time_sensitive: "High -- Inman published the Lysenko piece 2026-06-16. Post within 3-4 days while the quote is still circulating."
-shareable_moment: "When a major brokerage puts its name on that side publicly, it isn't a blog post. It's a legal positioning move."
+shareable_moment: "When a major brokerage takes that side publicly, it isn't a blog post. It's a legal positioning move."
 length_justification: "Reactive piece with the named executive, the direct quote, the strategic read, and a concrete audit action. Each beat earns its place."
 companion_to: "NF-027 (Compass billboard), NF-035 (NY AG antitrust), NF-038 (NAR Policy 8.5), NF-040 (MLS neutrality), NF-046 (CT private-listings law, posted same week). NF-047 is the major-brokerage chapter of the private-listings arc. Space at least 4-5 days from NF-046 so the theme doesn't stack."
 ---
@@ -76,7 +76,7 @@ Here's what you do now. Audit your coming-soon and office-exclusive practices ag
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-eXp's tech chief just made the buyer-harm argument against private listings. When a major brokerage puts its name on that side publicly, it isn't a blog post. It's a legal positioning move.
+eXp's tech chief just made the buyer-harm argument against private listings. When a major brokerage takes that side publicly, it isn't a blog post. It's a legal positioning move.
 
 Carrie Lysenko is CTO of eXp Realty. Before eXp, she was CEO of Zoocasa, the consumer portal. She has run both sides of the glass.
 
@@ -102,7 +102,7 @@ Audit your coming-soon and office-exclusive practices against your brokerage's w
 **Caption:**
 eXp's tech chief just made the buyer-harm argument against private listings.
 
-When a major brokerage puts its name on that side publicly, it isn't a blog post. It's a legal positioning move.
+When a major brokerage takes that side publicly, it isn't a blog post. It's a legal positioning move.
 
 Carrie Lysenko, CTO of eXp, former CEO of Zoocasa, said today: "The person bringing the money to the transaction keeps getting left out of the off-MLS conversation."
 
@@ -125,7 +125,7 @@ Audit your coming-soon practices against your brokerage's written policy today. 
 
 ### Facebook
 **Caption:**
-eXp's tech chief just made the buyer-harm argument against private listings. When a major brokerage puts its name on that side publicly, it isn't a blog post. It's a legal positioning move.
+eXp's tech chief just made the buyer-harm argument against private listings. When a major brokerage takes that side publicly, it isn't a blog post. It's a legal positioning move.
 
 Carrie Lysenko is CTO of eXp Realty and former CEO of consumer portal Zoocasa. Her statement, published in Inman today: "The person bringing the money to the transaction keeps getting left out of the off-MLS conversation. That should bother everyone." She means the buyer.
 
@@ -141,7 +141,7 @@ Audit your coming-soon and office-exclusive practices against your brokerage's w
 **Caption:**
 eXp's tech chief just made the buyer-harm case against private listings.
 
-When a major brokerage puts its name on that side publicly, it isn't a blog post. It's a legal positioning move.
+When a major brokerage takes that side publicly, it isn't a blog post. It's a legal positioning move.
 
 eXp just aligned with the side suing Compass, the side writing the state laws, the side at the DOJ.
 
