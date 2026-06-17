@@ -21,12 +21,12 @@ companion_to: "NF-027 (Compass billboard), NF-035 (NY AG antitrust), NF-038 (NAR
 **Filming:** Walk and talk. No demo.
 
 ## Shareable Moment
-> "When a major brokerage puts its name on that side publicly, it isn't a blog post. It's a legal positioning move."
+> "When a major brokerage takes that side publicly, it isn't a blog post. It's a legal positioning move."
 
 ## Script (~68 seconds, walk and talk)
 
 ### HOOK (0:00-0:10)
-eXp's tech chief just made the buyer-harm argument against private listings. When a major brokerage puts its name on that side publicly, it isn't a blog post. It's a legal positioning move.
+eXp's tech chief just made the buyer-harm argument against private listings. When a major brokerage takes that side publicly, it isn't a blog post. It's a legal positioning move.
 
 ### CONTEXT (0:10-0:28)
 Carrie Lysenko runs tech at eXp. She used to be CEO of Zoocasa. The portal. Her quote, today. "The person bringing the money to the transaction keeps getting left out of the off-MLS conversation. That should bother everyone." She means the buyer.
