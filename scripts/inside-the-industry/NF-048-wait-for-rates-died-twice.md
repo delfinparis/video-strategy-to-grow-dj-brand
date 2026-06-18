@@ -26,10 +26,10 @@ companion_to: "Sits in the rate / fence-sitter family but is fresh news, not the
 ## Script (~68 seconds, walk and talk)
 
 ### HOOK (0:00-0:10)
-The Fed just signaled a rate hike for year-end. Pending home sales jumped three point eight percent. Both pieces of news dropped this morning. They're the same story.
+The Fed just signaled a rate hike for year-end. Pending home sales jumped three point eight percent. Both dropped this morning. Both kill the same narrative.
 
 ### CONTEXT (0:10-0:30)
-The Fed's median year-end rate projection moved from three point four to three point eight. That implies at least one hike. Same morning, NAR pending home sales beat expectations badly. Three point eight percent month-over-month. Four point eight percent year-over-year. Lawrence Yun's framing. Quote. "Consumers' acceptance of above-six-percent mortgage rates as the new normal."
+The Fed's median year-end rate projection moved from three point four to three point eight. That implies at least one hike. Same morning, NAR pending home sales beat expectations badly. Three point eight percent month-over-month. Four point eight percent year-over-year. Lawrence Yun put it this way. Consumers are accepting above-six-percent mortgage rates as the new normal.
 
 ### WHY IT MATTERS (0:30-0:48)
 The "rates will drop, wait it out" narrative just died twice in one morning. The Fed told you rates aren't coming down. The buyers told you they don't need them to. Six percent is the baseline now. Not the obstacle. The clients still waiting for five aren't doing math. They're avoiding it.
