@@ -26,18 +26,18 @@ companion_to: "No overlap with the Compass/Zillow/MLS/private-listings arc, the 
 ## Script (~65 seconds, walk and talk)
 
 ### HOOK (0:00-0:10)
-Seventy-eight percent of buyers hire the first agent who responds. The industry average response time is five point seven hours. That gap is your entire business.
+Seventy-eight percent of buyers hire the first agent who responds. The average agent takes five point seven hours. That gap is your entire business.
 
 ### CONTEXT (0:10-0:28)
-Harvard Business Review's lead-response study. A lead you contact in five minutes is twenty-one times more likely to qualify than one you contact half an hour later. NAR's buyer report says nearly four out of five buyers go with whoever calls back first. The lead doesn't pick the best agent. They pick the fastest.
+Harvard Business Review's lead-response study. A lead you contact in five minutes is twenty-one times more likely to qualify. Wait half an hour and the number collapses. NAR's buyer report says nearly four out of five buyers go with whoever calls back first. The lead doesn't pick the best agent. They pick the fastest.
 
 ### WHY IT MATTERS (0:28-0:46)
-Five point seven hours is one school pickup and a closing. Meanwhile the lead you'd have closed just hired someone else. You didn't lose on price. You didn't lose on experience. You lost because they got an answer and you didn't show up.
+Five point seven hours is almost a work day. Meanwhile the lead you'd have closed just hired somebody else. You didn't lose on price or experience. You lost because they got an answer and you didn't show up.
 
 ### CLOSE (0:46-1:06)
-Here's what you do now. Turn push notifications on for every lead source today. Write one sixty-second response. "Hi, it's D.J., I saw your inquiry, can I call you in two minutes." Save it as a text shortcut. Then block the first five minutes of every hour for the next two weeks. That's how you go from five point seven hours to five minutes. That's the only conversation that wins.
+Here's what you do now. Turn lead notifications on for every source today. Write one sixty-second response. "Hi, it's D.J., I saw your inquiry, can I call you in two minutes." Save it as a text shortcut. Then block the first five minutes of every hour for the next two weeks. That's how you go from five point seven hours to five minutes. The only conversation that wins.
 
-**Estimated Duration:** ~65 seconds | **Word Count:** ~185 words
+**Estimated Duration:** ~65 seconds | **Word Count:** ~180 words
 
 ## Data Source
 
@@ -80,39 +80,39 @@ Here's what you do now. Turn push notifications on for every lead source today. 
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-78% of home buyers hire the first agent who responds to their inquiry. The industry-average response time in real estate is 5.7 hours.
+78% of home buyers hire the first agent who responds to their inquiry. The average agent takes 5.7 hours.
 
 That gap is your entire business.
 
-Harvard Business Review's lead-response study found that a lead contacted within five minutes is 21x more likely to qualify than one contacted within 30. NAR's buyer report has been saying the same thing in a different way for over a decade. The lead doesn't pick the best agent. They pick the fastest.
+Harvard Business Review's lead-response study found that a lead contacted within five minutes is 21x more likely to qualify. Wait 30 and the number collapses. NAR's buyer report has been saying the same thing in a different way for over a decade. The lead doesn't pick the best agent. They pick the fastest.
 
-5.7 hours is one school pickup and a closing. Meanwhile the lead you would have closed just hired somebody else. You did not lose on price. You did not lose on experience. You lost because they got an answer and you did not show up.
+5.7 hours is almost a work day. Meanwhile the lead you would have closed just hired somebody else. You didn't lose on price or experience. You lost because they got an answer and you didn't show up.
 
 Three actions, today.
 
-1. Turn push notifications on for every lead source. Zillow, Realtor.com, your IDX site, your CRM, your team Slack. Every one.
+1. Turn lead notifications on for every source. Zillow, Realtor.com, your IDX site, your CRM, your team Slack. Every one.
 
 2. Write a single 60-second response and save it as a phone text shortcut. Mine is: "Hi, it's D.J., I saw your inquiry, can I call you in two minutes."
 
 3. Block the first five minutes of every hour for the next two weeks. Treat it like a showing. That's how you go from 5.7 hours to five minutes.
 
-The leads you have right now are enough. You are losing them in the gap.
+The leads in your pipeline right now are enough. You're losing them in the gap.
 
 **Hashtags:** #RealEstate #LeadConversion #RealtorTips #BuyersAgent #RealEstateAgent #RealtorLife #RealEstateCoaching #SpeedToLead #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
-78% of buyers hire the first agent who calls back. The industry-average response time is 5.7 hours.
+78% of buyers hire the first agent who calls back. The average agent takes 5.7 hours.
 
 That gap is your whole business.
 
-A lead contacted in 5 minutes is 21x more likely to qualify than one contacted 30 minutes later (HBR / MIT lead-response study). The lead doesn't pick the best agent. They pick the fastest.
+A lead contacted in 5 minutes is 21x more likely to qualify. Wait 30 and the number collapses (HBR / MIT lead-response study). The lead doesn't pick the best agent. They pick the fastest.
 
-5.7 hours is one school pickup and a closing. Meanwhile the lead you'd have closed just hired someone else.
+5.7 hours is almost a work day. Meanwhile the lead you'd have closed just hired somebody else.
 
 Three actions today.
 
-1. Push notifications on for every lead source.
+1. Lead notifications on for every source.
 
 2. Write one 60-second response. Save it as a text shortcut.
 
@@ -123,25 +123,25 @@ That's how you go from 5.7 hours to 5 minutes.
 **Hashtags:** #realestate #leadconversion #realtortips #buyersagent #realestateagent #realtorlife #speedtolead #realestatecoaching #chicagorealestate #keepingitrealpodcast #insidetheindustry
 
 ### TikTok
-**Caption:** 78% of buyers hire the first agent who responds. The industry-average response time is 5.7 hours. That gap is your whole business. Here's the 3-step fix.
+**Caption:** 78% of buyers hire the first agent who responds. The average agent takes 5.7 hours. That gap is your whole business. Here's the 3-step fix.
 **Hashtags:** #realtortok #realestatetok #realtor #leadconversion #speedtolead #realtortips
 
 ### YouTube Shorts
 **Title:** Your Business Lives in the First Five Minutes
-**Description:** 78% of buyers hire the first agent who responds to their inquiry (NAR Home Buyers and Sellers Generational Trends Report). The industry-average response time in real estate is 5.7 hours (2026 lead-response benchmarks). Harvard Business Review's classic lead-response study found a lead contacted in 5 minutes is 21x more likely to qualify than one contacted in 30. D.J. Paris on why "lead conversion" is really a clock problem, and the three-step fix every agent can run today: push notifications on for every lead source, a 60-second response saved as a text shortcut, and a 5-minute lead window at the top of every hour for the next two weeks.
+**Description:** 78% of buyers hire the first agent who responds to their inquiry (NAR Home Buyers and Sellers Generational Trends Report). The average agent takes 5.7 hours (2026 lead-response benchmarks). Harvard Business Review's classic lead-response study found a lead contacted in 5 minutes is 21x more likely to qualify than one contacted in 30. D.J. Paris on why lead conversion is a clock problem, and the three-step fix every agent can run today: lead notifications on for every source, a 60-second response saved as a text shortcut, and a 5-minute lead window at the top of every hour for the next two weeks.
 **Hashtags:** #shorts #realestate #leadconversion #speedtolead #realtortips #realestateagent #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
-78% of home buyers hire the first agent who responds. The industry-average response time in real estate is 5.7 hours. That gap is your entire business.
+78% of home buyers hire the first agent who responds. The average agent takes 5.7 hours. That gap is your entire business.
 
-Harvard Business Review's lead-response study found a lead contacted in five minutes is 21x more likely to qualify than one contacted in 30. NAR's buyer report has been saying the same thing for over a decade. The lead doesn't pick the best agent. They pick the fastest.
+Harvard Business Review's lead-response study found a lead contacted in five minutes is 21x more likely to qualify. Wait 30 and the number collapses. NAR's buyer report has been saying the same thing for over a decade. The lead doesn't pick the best agent. They pick the fastest.
 
-5.7 hours is one school pickup and a closing. Meanwhile the lead you would have closed just hired someone else.
+5.7 hours is almost a work day. Meanwhile the lead you would have closed just hired somebody else.
 
 Three actions today.
 
-1. Turn push notifications on for every lead source.
+1. Turn lead notifications on for every source.
 
 2. Write a single 60-second response and save it as a phone text shortcut.
 
@@ -153,12 +153,12 @@ That's how you go from 5.7 hours to five minutes.
 
 ### X (Twitter)
 **Caption:**
-78% of buyers hire the first agent who responds. Industry-average response time: 5.7 hours.
+78% of buyers hire the first agent who responds. The average agent takes 5.7 hours.
 
-A lead contacted in 5 min is 21x more likely to qualify than one at 30 (HBR / MIT).
+A lead contacted in 5 min is 21x more likely to qualify. Wait 30 and the number collapses (HBR / MIT).
 
 The lead doesn't pick the best agent. They pick the fastest.
 
-Push notifications on. 60-sec template. 5-min window at the top of every hour.
+Lead notifications on. 60-sec template. 5-min window at the top of every hour.
 
 **Hashtags:** #RealEstate #SpeedToLead #LeadConversion
