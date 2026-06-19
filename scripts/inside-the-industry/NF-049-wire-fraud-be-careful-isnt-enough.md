@@ -26,16 +26,16 @@ companion_to: "No overlap with the Compass/Zillow/MLS/private-listings arc or th
 ## Script (~70 seconds, walk and talk)
 
 ### HOOK (0:00-0:11)
-Wire fraud against home buyers just hit a record two hundred seventy-five million dollars last year. One in five buyers gets a suspicious message during closing. Most agents say "be careful" and assume that's enough. It isn't.
+Wire fraud in real estate closings just hit a record two hundred seventy-five million dollars last year. One in five buyers gets a suspicious message during closing. Most agents say "be careful" and assume that's enough. It isn't.
 
 ### CONTEXT (0:11-0:28)
 The FBI logged twelve thousand victims last year, up sharply from the year before. Average loss per victim is over twenty thousand dollars. AI is making the scam emails more convincing every month. CertifID calls the trend epidemic.
 
 ### WHY IT MATTERS (0:28-0:44)
-The scam doesn't target you. It targets your client. They lose the down payment. They lose the closing. Then they call you asking why you didn't warn them harder. And the answer is you said "be careful" once and moved on.
+The scam doesn't target you. It targets your client. They lose the down payment. They lose the closing. Then they call you asking why you didn't warn them harder. And the answer is, you said "be careful" once and moved on.
 
 ### CLOSE (0:44-1:08)
-Here's what you do now. At every new buyer onboarding this week, hand them a one-page wire fraud sheet. Say this. "I will never send you wiring instructions by email or text. If you ever get any, call me first at this number before you move money." Then give them the number. Written. That's the only protocol that actually protects your client.
+Here's what you do now. At every new buyer onboarding this week, hand them a one-page wire fraud sheet. Say this. "I will never send you wiring instructions by email or text. If you ever get any, call me first at this number before you move money." Then give them your number. Written. That's the only protocol that actually protects your client.
 
 **Estimated Duration:** ~70 seconds | **Word Count:** ~180 words
 
