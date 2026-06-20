@@ -79,5 +79,5 @@ N="$(grep -cE '^#{2,3} ' "$BRIEF" 2>/dev/null || echo "")"
 [ -z "$N" ] && N="today's"
 
 push "Walk & talk: ${N} options ready" \
-     "Brief for ${DATE} is committed. Open Claude Code on any device and say: walk and talk"
+     "Brief for ${DATE} is committed. Open Claude Code in the video-strategy repo and say: walk and talk"
 exit 0
