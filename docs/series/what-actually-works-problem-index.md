@@ -8,8 +8,10 @@ actually fixes it. It is the source feed the series draws from, the same way
 This is **not** the series standard (format rules, length, metadata) — that's a separate
 doc. This is the idea bank: what to make, in what order, and why each one works.
 
-> **Status:** Concept / pre-launch. Pilot at ~1/week now; the July 19 pivot review is the
-> decision point on whether to ramp to 2/week. Built 2026-06-20.
+> **Status:** Concept / pre-launch. **Add, don't replace** — Inside the Industry stays primary
+> (the April 18 data shows news is the measured engagement winner; this is unproven). Pilot at
+> ~1/week now with its own clean attribution baseline; the July 19 pivot review is the decision
+> point on whether to ramp. Stress-tested and guardrailed 2026-06-20. Built 2026-06-20.
 
 ---
 
@@ -22,6 +24,69 @@ doc. This is the idea bank: what to make, in what order, and why each one works.
 The realtor framing is always load-bearing (it's the recruiting credibility and what keeps
 the advice specific instead of generic). The universal mechanism is what makes a non-realtor
 share it. Broad reach is a *side effect* of being specifically useful — not the goal.
+
+---
+
+## Non-negotiable guardrails (read before scripting anything)
+
+This series swims in the most crowded niche on social media — "research-backed
+communication / persuasion / self-improvement." The only thing that keeps D.J. from being a
+worse, less-credentialed version of Jefferson Fisher or Andrew Huberman is **the moat**:
+700 interviews, a brokerage-operator's seat, NAR access. These five rules exist so the engine
+can't drift generic. **If a concept can't clear all five, it doesn't get made.**
+
+**G1 — The archive (or operator) tie-in is REQUIRED, not optional.**
+Every video must carry the proof layer: a *real, verified* top producer from the 700-episode
+archive who already does this intuitively ("I've watched hundreds of top agents do exactly
+this — they just never had a name for it"), or a firsthand brokerage-operator observation.
+This is what re-bridges D.J.'s actual authority to borrowed science. No verified tie-in → no
+script. Never fabricate or composite a guest (universal Rule 1).
+
+**G2 — The science is the explanation, never the headline.**
+Position every video as *"the science behind what top producers already do"* — not "here's a
+self-help tip." The 700-episode credential stays in the driver's seat; the research explains
+*why* it works. This keeps D.J. in the lane he owns instead of one he doesn't.
+
+**G3 — The "strip test." Apply to every concept before it's greenlit:**
+> *"Could this exact video run on a generic self-help account with the real estate parts
+> removed?"*
+If yes, kill it or sharpen the agent application until the answer is no. This single question
+protects the whole series from collapsing into mush.
+
+**G4 — Beachhead first: two categories only at launch.**
+Lead with the two that are both highest-pain-for-agents *and* most moat-aligned:
+**(a) sales communication / persuasion** (700 live examples) and **(b) prospecting /
+follow-up discipline** (the agent's #1 self-sabotage). Park the pure life/mindset entries
+(sleep, burnout, finances) — that's where D.J. is most replaceable. Widen the aperture only
+after the beachhead proves out.
+
+> **Beachhead roster (launch-eligible entries):** #1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 16, 17,
+> 18, 19, 26. Everything else (productivity, mindset, life, money, client-experience) is
+> **parked** until the beachhead proves out.
+>
+> **First slate = Tier 1 ∩ beachhead → #1, 2, 3, 4, 5, 8.** (Tier 1's #6 peak-end and #7
+> mental contrasting are strong but off-beachhead; they wait.)
+
+**G5 — Source rigor + the do-not-cite list.**
+Every claim verified to a primary source before scripting. No "studies show." And never cite
+a replication-crisis casualty, even though they're famous and tempting:
+
+| Do NOT cite | Why |
+|---|---|
+| **Power posing** (Cuddy) | Failed to replicate; the original author walked back the effect. |
+| **Ego depletion** (willpower as a finite fuel tank) | Large multi-lab replications failed. |
+| **Generic "priming"** (money/elderly-words priming behavior) | Core social-priming results did not hold. |
+| **Strong-form Mozart effect** | The lasting-IQ claim was overstated; effect is tiny/transient. |
+| **Learning styles** (visual/auditory/kinesthetic) | No evidence tailoring to "style" improves outcomes. |
+
+When in doubt, prefer findings with a meta-analysis or multi-lab replication behind them
+(implementation intentions, "but you are free," affect labeling, anchoring, loss aversion).
+Choice overload (entry #10) is *contested* — only use it with the replication caveat noted.
+
+**Beyond the five:** vary the hook. The "what you think is right is actually wrong → real
+mechanism" reveal leans on the contrarian / "it's not X, it's Y" patterns flagged in
+`ai-tells-field-guide.md`. Rotate openings so the format doesn't read formulaic *or*
+AI-generated across a run of videos.
 
 ---
 
@@ -40,16 +105,18 @@ If an entry can't fill all five beats, it's not ready to script.
 
 ## How to use this index
 
-- **Pull from Tier 1 first.** That's the launch slate — strongest problem + strongest research + broadest appeal.
+- **Clear all five guardrails first** (G1–G5 above). They override tier and score. An entry
+  with no verified archive tie-in (G1) or one that fails the strip test (G3) does not get made,
+  no matter how high it scores.
+- **Launch from the first slate (#1, 2, 3, 4, 5, 8).** After that, pull from the beachhead
+  roster. Park everything off-roster until the beachhead proves out.
 - **One mechanism per video.** Never stack two findings; the second-order problem is enough payload.
-- **Verify the source before scripting.** Each citation below points to the primary work, but
-  per our source-rigor culture, re-confirm the finding to a primary source (study, book, or
-  meta-analysis) before it goes in a script. No "studies show." Name the researcher and the work.
-- **Find the archive tie-in, don't fabricate it.** Many of these have a top producer from the
-  700-episode archive who already does this intuitively. That layer is the proof + the access
-  angle, and it's the part no competitor can copy. The `Archive hook` note flags where to look —
+- **Verify the source before scripting** and check it against the do-not-cite list (G5).
+  Re-confirm every finding to a primary source (study, book, or meta-analysis). No "studies
+  show." Name the researcher and the work.
+- **Find the archive tie-in, don't fabricate it.** The `Archive hook` note flags where to look,
   but the guest must be **real and verified** before naming them (universal Rule 1; no composite
-  or invented attributions).
+  or invented attributions). No tie-in found → the entry waits until one is.
 - **Mark entries as used** in the registry section at the bottom once aired, so the same
   mechanism doesn't repeat.
 
