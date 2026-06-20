@@ -31,5 +31,24 @@ When D.J. says **"walk and talk"** (optionally with a number), Claude:
 - Options == the brief's top takes. The brief already drops already-covered
   stories, so options are fresh by construction.
 - If D.J. wants to draft more than one, repeat step 4 per number.
-- Nothing here touches Gmail. If the morning push didn't arrive, the job logs are
-  at `/tmp/walkandtalk.log` and `/tmp/walkandtalk-err.log` on the home Mac.
+- Nothing here touches Gmail. Delivery is ntfy phone push, not email (email was
+  retired 2026-06-16, PR #16). The brief still generates + commits daily either
+  way; only the notification changed.
+
+## When the morning push stops arriving
+Run the doctor on the home Mac -- it tests every link in the chain and sends a
+live test push:
+
+```bash
+bash scripts/walk_and_talk_doctor.sh
+```
+
+It checks: launchd agent loaded, `NTFY_TOPIC` actually set (the #1 cause of a
+silent no-show is the topic still being the `REPLACE_` placeholder), ntfy.sh
+reachable, and whether a live test push is accepted. The morning job now also
+logs each push result (`push: ok` / `push: FAILED` / `push: SKIPPED`) to
+`/tmp/walkandtalk-err.log`, so a failed push is no longer invisible.
+
+Two non-code things that block delivery even when the job is perfect:
+1. The ntfy iOS app must be **subscribed to the exact `NTFY_TOPIC`**.
+2. iOS Settings > Notifications > ntfy must be **on**.

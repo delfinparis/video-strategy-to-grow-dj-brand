@@ -28,12 +28,25 @@ DATE="$(date +%Y-%m-%d)"
 BRIEF="data/news-briefs/${DATE}.md"
 
 push() {
-  # push <title> <message>  -- best-effort, never fails the job
-  if [ -n "${NTFY_TOPIC:-}" ]; then
-    curl -fsS -m 15 \
-      -H "Title: $1" \
-      -d "$2" \
-      "${NTFY_SERVER%/}/${NTFY_TOPIC}" >/dev/null 2>&1 || true
+  # push <title> <message>  -- best-effort, never fails the job, but LOGS its
+  # result so a failed/silent push is visible in /tmp/walkandtalk-err.log instead
+  # of vanishing. Silent failures here were why "no email AND no push" looked like
+  # nothing was running at all.
+  if [ -z "${NTFY_TOPIC:-}" ]; then
+    echo "push: SKIPPED -- NTFY_TOPIC not set in the launchd plist, so no notification was sent." >&2
+    echo "push: fix with -> bash scripts/install-walk-and-talk.sh  (then subscribe to the topic in the ntfy app)" >&2
+    return 0
+  fi
+  local code
+  code="$(curl -fsS -m 15 \
+    -H "Title: $1" \
+    -d "$2" \
+    -o /dev/null -w '%{http_code}' \
+    "${NTFY_SERVER%/}/${NTFY_TOPIC}" 2>/dev/null || echo "000")"
+  if [ "$code" = "200" ]; then
+    echo "push: ok (HTTP 200) topic=${NTFY_TOPIC}" >&2
+  else
+    echo "push: FAILED (HTTP ${code}) topic=${NTFY_TOPIC} server=${NTFY_SERVER} -- check topic/network; run scripts/walk_and_talk_doctor.sh" >&2
   fi
 }
 
