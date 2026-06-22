@@ -29,7 +29,7 @@ companion_to: "Pairs with NF-052 (Rachel Kilmer / pop-bys) as a two-lane 'how to
 A Greenwich agent did over a hundred million dollars in transactions last year. The reason isn't her brokerage. It's a community resource she built that her clients used long before they hired her.
 
 ### CONTEXT (0:10-0:30)
-Megan Sullivan. Inman profiled her this spring. She left a finance career, moved to Greenwich as a young mom, and couldn't find local resources for families. So she and a friend started Greenwichmoms.com. It grew into The Local Moms Network across dozens of U.S. cities. By the time families in town needed a real estate agent, Megan was already the woman they trusted with their schools, their pediatricians, and their summer camps.
+Megan Sullivan. Inman profiled her in March. She left a finance career and moved to Greenwich as a young mom. There were no local resources for families. So she and a friend started Greenwichmoms.com. It grew into The Local Moms Network across dozens of U.S. cities. By the time families in town needed a real estate agent, Megan was already the woman they trusted with their schools, their pediatricians, and their summer camps.
 
 ### WHY IT MATTERS (0:30-0:48)
 You don't need a national network. You need one community in your market with a need nobody's filling. A free Facebook group that actually helps that community is the most undervalued lead-gen tool in real estate. It's also the one Compass and Zillow can't compete with. Trust earned over schools doesn't transfer to a portal.
@@ -86,9 +86,9 @@ Here's what you do now. Pick one underserved community in your market this week.
 **Caption:**
 A Greenwich agent did over $100 million in transactions last year. The reason isn't her brokerage. It's a community resource she built that her clients used long before they hired her.
 
-Megan Sullivan. Inman profiled her this spring.
+Megan Sullivan. Inman profiled her in March.
 
-She left a 10-year finance career in New York, moved to Greenwich as a young mom, and couldn't find local resources for families. So she and a friend started Greenwichmoms.com. It grew into The Local Moms Network, an online resource that now spans dozens of U.S. cities.
+She left a 10-year finance career in New York and moved to Greenwich as a young mom. There were no local resources for families. So she and a friend started Greenwichmoms.com. It grew into The Local Moms Network, an online resource that now spans dozens of U.S. cities.
 
 By the time families in town needed a real estate agent, Megan was already the woman they trusted with their schools, their pediatricians, and their summer camps.
 
@@ -116,9 +116,9 @@ The work is small. The compound is enormous.
 **Caption:**
 A Greenwich agent did over $100M last year. The reason isn't her brokerage. It's a community resource she built that her clients used long before they hired her.
 
-Megan Sullivan. Inman profiled her this spring.
+Megan Sullivan. Inman profiled her in March.
 
-She left finance, moved to Greenwich as a young mom, couldn't find local resources for families. She and a friend started Greenwichmoms.com. It grew into The Local Moms Network across dozens of U.S. cities.
+She left finance and moved to Greenwich as a young mom. There were no local resources for families. She and a friend started Greenwichmoms.com. It grew into The Local Moms Network across dozens of U.S. cities.
 
 By the time families needed a real estate agent, Megan was the woman they already trusted with their schools, their pediatricians, their summer camps.
 
@@ -149,9 +149,9 @@ By month 6, you're the agent they call.
 **Caption:**
 A Greenwich agent did over $100 million in transactions last year. The reason isn't her brokerage. It's a community resource she built that her clients used long before they hired her.
 
-Megan Sullivan. Inman profiled her this spring.
+Megan Sullivan. Inman profiled her in March.
 
-She left a 10-year finance career, moved to Greenwich as a young mom, and couldn't find local resources for families. She and a friend started Greenwichmoms.com. It grew into The Local Moms Network, now spanning dozens of U.S. cities.
+She left a 10-year finance career and moved to Greenwich as a young mom. There were no local resources for families. She and a friend started Greenwichmoms.com. It grew into The Local Moms Network, now spanning dozens of U.S. cities.
 
 By the time families in town needed a real estate agent, Megan was already the woman they trusted with their schools, their pediatricians, and their summer camps.
 
