@@ -15,13 +15,13 @@
 >
 > You're part-time, or your volume's light right now. You stay at a big brand because the fancy place feels safer when you're not doing much.
 >
-> But a percentage split doesn't care how slow your year was. It takes its slice out of every single check, busy or dead. The lighter your volume, the more that slice costs you on each deal.
+> But a percentage split doesn't care how slow your year was. It takes its slice out of every check, busy or dead. The lighter your volume, the more that slice costs you per deal.
 >
-> At Kale you pay four hundred dollars a sale, capped at six thousand a year, plus a small monthly fee. Do three deals, you pay for three. Your cost tracks your actual year instead of taxing every check the same.
+> At Kale you pay four hundred dollars a sale, capped at six thousand a year, plus a small monthly fee. Do three deals, you pay for three. Your cost tracks your year instead of taxing every check the same.
 >
-> Light volume isn't a reason to overpay for a brand. It's the exact situation where overpaying hurts the most.
+> Light volume isn't a reason to overpay for a brand. It's the exact spot where overpaying hurts most.
 >
-> Here's what you do now. Take your slowest year. Add up what your brokerage kept out of those few checks. Then put it next to four hundred a deal. That gap is what feeling safe has been costing you.
+> Here's what you do now. Take your slowest year. Add up what your brokerage kept out of those few checks. Put it next to four hundred a deal. That gap is what feeling safe has cost you.
 >
 > The expensive brand was never the safe choice for a small year. It was just the expensive one.
 

@@ -11,17 +11,17 @@
 
 ## Spoken Script
 
-> You're not stuck at the same number of deals because you're paying too little. You're stuck because nobody around you is pushing you to do more.
+> Three years at the same number of deals isn't a pricing problem. It's a people problem.
 >
-> Same production three years running. You tell yourself the big brand is what keeps you steady. So you keep paying for it, and you keep finishing the year right where you started.
+> You tell yourself the big brand keeps you steady. So you keep paying for it, and you keep finishing the year right where you started.
 >
-> Here's what actually breaks a plateau. Not a logo. A room full of people working above your level, and someone who holds you to the number you said out loud. The agents who break out almost never do it by finding a cheaper sign. They do it by changing the room they're in.
+> Here's what actually breaks a plateau. Not a logo. A room full of people working above your level, and someone who holds you to the number you said out loud. Agents who break out almost never do it by finding a cheaper sign. They do it by changing the room they're in.
 >
 > Your brand has had years to grow you. If it were going to, it already would have. The plateau is the proof.
 >
 > At Kale you'd pay a fraction of what you pay now, and the money you save buys the thing that actually moves you. Coaching. Accountability. 769 agents you can steal ideas from.
 >
-> Here's what you do now. Write down your deal count for the last three years. If it's basically flat, the brand isn't your floor. It's your ceiling.
+> Here's what you do now. Write down your deal count for the last three years. If it's flat, the brand isn't your floor. It's your ceiling.
 >
 > You were never stuck on price. You were stuck on who's in the room.
 
@@ -45,9 +45,9 @@ Walk-and-talk throughout. Optional flat-line graphic on "same production three y
 
 ### Personal LinkedIn (#1 — recruiting audience)
 
-> You're not stuck at the same number of deals because you're paying too little. You're stuck because nobody around you is pushing you to do more.
+> Three years at the same number of deals isn't a pricing problem. It's a people problem.
 >
-> Same production three years running. You tell yourself the big brand keeps you steady. So you keep paying for it, and you keep finishing the year right where you started.
+> You tell yourself the big brand keeps you steady. So you keep paying for it, and you keep finishing the year right where you started.
 >
 > Here's what actually breaks a plateau. Not a logo. A room full of people working above your level, and someone who holds you to the number you said out loud. Agents who break out rarely do it by finding a cheaper sign. They do it by changing the room they're in.
 >

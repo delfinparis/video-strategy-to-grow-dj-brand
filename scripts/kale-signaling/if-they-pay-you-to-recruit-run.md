@@ -13,13 +13,13 @@
 
 > If a brokerage makes more money when you recruit than when you sell, that's not a brokerage. That's a pyramid with a lockbox.
 >
-> You've heard about the near-100% firms, and something feels off. Free money always has a catch, and you're right to go looking for it.
+> You've heard about the near-100% firms, and something feels off. Free money always has a catch, and you're right to look for it.
 >
-> At a lot of them, the catch is the recruiting. They pay you to bring in other agents, you pay the person who brought you, and now you're building their downline instead of selling houses. That's why half the industry won't even look at them.
+> At a lot of them, the catch is the recruiting. They pay you to bring in other agents, you pay the person who brought you, and now you're building their downline instead of selling houses. That's why so many agents won't even look at them.
 >
 > Here's our catch, and it's the whole catch. We charge four hundred dollars a sale. We make our money when you close, not when you recruit. No downline. No pyramid. We kept our overhead low and stopped charging you for a brand you don't need.
 >
-> Near-100% isn't always a scam. But always ask how they actually make their money. If the answer is recruiting, run. If the answer is a small fee when you win, that's just a better deal.
+> Near-100% isn't always a scam. But always ask how they actually make their money. If the answer is recruiting, run. If it's a small fee when you win, that's just a better deal.
 >
 > Here's what you do now. Ask any 100% brokerage one question. Do you make money when I recruit, or only when I sell? Their answer tells you everything.
 >

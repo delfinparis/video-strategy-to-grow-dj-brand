@@ -13,17 +13,17 @@
 
 > If Kale stopped delivering, I'd lose 769 agents in a month. That fear runs this whole company.
 >
-> I know the worry. We charge almost nothing and you keep almost every commission dollar. So you figure the catch has to be the cheapness showing up somewhere. In the training. The coaching. The support.
+> You hear our fees and you wait for the catch. We charge almost nothing, you keep almost every commission dollar, so the cheapness has to show up somewhere. Training. Coaching. Support.
 >
-> Here's the part nobody tells you. Most brokerages already got paid. They keep a big slice of every check you earn, at the closing table, whether they coached you that month or not. They don't have to win you back. They banked it.
+> Here's the part nobody tells you. Most brokerages already got paid. They keep a slice of every check you earn, busy month or dead one. They don't have to win you back. They banked it.
 >
-> We don't keep that slice. We charge four hundred dollars a sale, capped at six thousand a year. That's the whole thing. Which means we only survive if you stay. And you only stay if we're actually good. We're not holding enough of your money to hold you hostage.
+> We don't keep that slice. Four hundred dollars a sale, capped at six thousand a year. That's the whole thing. Which means we only survive if you stay, and you only stay if we're good. We're not holding enough of your money to hold you hostage.
 >
-> So the mentorship, the coaching, the AI help, the social strategies, support that picks up the phone, all of it has to be real. Slack on one, you leave, and you tell every agent you know why.
+> So the mentorship, the coaching, the AI, the support that picks up the phone, all of it has to be real. Slack on one, you leave, and you tell every agent you know why.
 >
 > 769 people hold me accountable every day. That's not a problem I'm hiding from. That's the design.
 >
-> Here's what you do now. Add up what your brokerage kept from your commissions last year. Then ask what they did to earn it. If the answer doesn't come fast, you've already got it.
+> Here's what you do now. Add up what your brokerage kept from your commissions last year. Then ask what they did to earn it. If the answer's slow, you've already got it.
 >
 > We can't trap you. So we just have to be worth staying for.
 

@@ -15,11 +15,11 @@
 >
 > You're brand new and you're scared. Everyone says pay the big split, give up the commission, because that's how you learn. So you pick the famous name and wait for the training to save you.
 >
-> Then you do your first deal completely alone, Googling every step, too embarrassed to tell anyone you're lost. The training you paid a fortune for turned out to be a login and a webinar library you never opened.
+> Then you do your first deal alone, Googling every step, too embarrassed to tell anyone you're lost. The training you paid a fortune for was a login and a webinar library you never opened.
 >
-> Agents at the biggest brand-name brokerages in the country will tell you they never once sat down one-on-one with a mentor.
+> Agents at the most famous brokerages in the country will tell you they never once sat down one-on-one with a mentor.
 >
-> Here's the truth nobody tells a new agent. Training was never a logo. It's whether a real person picks up when you're stuck. At Kale you keep almost all your commission, and the mentorship is a human, not a recording you'll never watch.
+> Training was never a logo. It's whether a real person picks up when you're stuck. At Kale you keep almost all your commission, and your mentor is a human, not a recording you'll never watch.
 >
 > Here's what you do now. Call one new agent at a big-name brand. Ask how many times they sat one-on-one with a mentor this month. That answer picks your brokerage for you.
 >

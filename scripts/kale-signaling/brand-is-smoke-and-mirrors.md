@@ -13,15 +13,15 @@
 
 > Some agents pay over seventy thousand dollars a year. For a name on a business card.
 >
-> That's the pitch every big brokerage runs. Pay the fees, give up the commission, because our brand is what wins you business.
+> That's the pitch every big brokerage runs. Pay the fees, give up the commission, because the brand is what wins you business.
 >
-> So look at your last closing. That client didn't choose you for the name on the building. They chose you because someone they trust said call you, and you answered. The brand didn't bring them in. You did. Then the brokerage took its cut of the check your name earned.
+> So look at your last closing. That client didn't pick you for the name on the building. They picked you because someone they trust said call you, and you answered. The brand didn't bring them in. You did. Then the brokerage took a cut of the check your name earned.
 >
-> Here's what we figured out at Kale. You're the brand. Your client doesn't care where you hang your license. So we stopped charging you for a name that mostly helps us recruit the next agent.
+> At Kale, you're the brand. Your client doesn't care where you hang your license. So we stopped charging you for a name that mostly just helps us recruit the next agent.
 >
 > The brand was never working for you. You were working for the brand.
 >
-> Here's what you do now. Pull up your last five closings. Next to each one, write why that client actually picked you. If the brokerage's name isn't on the list, you've been paying for smoke.
+> Here's what you do now. Pull up your last five closings. Next to each, write why that client picked you. If the brokerage's name isn't on the list, you've been paying for smoke.
 >
 > You were always the brand. They just charged you a fortune to forget it.
 

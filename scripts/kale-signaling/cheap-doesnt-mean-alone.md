@@ -13,15 +13,15 @@
 
 > Most agents won't join a cheaper brokerage because they're scared they'll be left completely alone. And at a lot of them, that's exactly what happens.
 >
-> You've seen the reviews. You're on your own. No leads, no support. Nobody checks if you even showed up. The cheap firm saved you money and handed you a login and a good luck.
+> You've seen the reviews. You're on your own. No leads, no support. Nobody checks if you showed up. The cheap firm saved you money and handed you a login and a good luck.
 >
-> So you stay where you are, paying a fortune, telling yourself the fees are what buy you support. Then you get stuck on a contract at seven at night, and nobody picks up.
+> So you stay where you are, paying a fortune, telling yourself the fees buy you support. Then you're stuck on a contract at seven at night, and nobody picks up.
 >
-> Here's the part the cheap-means-alone crowd misses. We charge less and we still answer. 769 agents, real mentorship, coaching, AI that drafts your listing copy, social strategies, a team that picks up when you call. Not because we're generous. Because if we left you alone, you'd leave, and we don't keep enough of your money to survive that.
+> Here's what the cheap-means-alone crowd misses. We charge less and we still answer. Real mentorship, AI that drafts your listing copy, a team that picks up when you call. Not because we're generous. Because if we left you alone, you'd leave, and we don't keep enough of your money to survive that.
 >
 > Low fees and real support were never opposites. The expensive part was never the help. It was the logo.
 >
-> Here's what you do now. Text your broker one real question, today, right now. Time how long the answer takes. That number is what your fees are actually buying.
+> Here's what you do now. Text your broker one real question, right now. Time how long the answer takes. That's what your fees are actually buying.
 >
 > Cheap doesn't mean alone. It just means you stopped paying extra to feel safe.
 

@@ -13,13 +13,13 @@
 
 > Most agents stay at a brokerage they've outgrown for one reason. They think leaving means starting over. It doesn't.
 >
-> You've thought about going. Then the fear shows up. My clients won't follow me. I'll lose my momentum. Everyone's going to think I failed.
+> You've thought about going. Then the fear hits. My clients won't follow me. I'll lose momentum. Everyone's going to think I failed.
 >
-> So you stay, and you keep paying for the privilege. But look at how people actually choose an agent. Two out of three sellers come from a referral or someone they've already worked with. They chose you. They never once chose the name on your business card.
+> So you stay, and you keep paying for the privilege. But look at how people actually choose an agent. Two out of three sellers come from a referral or someone they've already worked with. They picked you. They never picked the name on your card.
 >
 > Your business isn't your brokerage's. It's yours. The past clients, the referrals, the sphere you spent years building, all of it walks out the door with you. The only thing that stays behind is a bill.
 >
-> Here's what you do now. Open your last ten closings. Next to each one, write where it came from. A referral, a past client, your own sphere. Then count how many came from the brokerage's name. That number is the only thing you'd actually be starting over without.
+> Here's what you do now. Open your last ten closings. Write where each one came from. A referral, a past client, your own sphere. Then count how many came from the brokerage's name. That's the only thing you'd actually be starting over without.
 >
 > You're not starting over. You're taking what was always yours, and keeping a lot more of it.
 
