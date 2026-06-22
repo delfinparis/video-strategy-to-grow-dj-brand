@@ -100,6 +100,24 @@ Six target personas for all video content. Every script is designed to speak dir
 
 ---
 
+## Avatar 7: The Experienced Part-Timer
+**Experience:** 3+ years | **Production:** 2-5 deals/year (often a day job alongside)
+
+| Challenge | Description |
+|-----------|-------------|
+| Light, lumpy volume | A few deals a year, unevenly spaced, hard to predict |
+| Fee math backwards | A percentage split or desk fee taxes every check the same, busy year or slow |
+| "Not a real agent" stigma | Feels dismissed by brokers and peers for being part-time |
+| Overpaying for safety | Stays at an expensive brand because the fancy name feels safer at low volume |
+| License-active anxiety | Wants to keep the license productive without paying to work in a dead stretch |
+| Switching fear | Assumes leaving means losing the few clients and referrals they have |
+
+**Key needs:** Low fixed cost, pay-per-deal economics, no production pressure, real support without the brand tax, respect as a professional
+
+**Recruiting note:** This is the segment where Kale's math is flatly the better deal and the agent usually doesn't know it. Lead with cost-tracks-your-year (`scripts/kale-signaling/slow-years-big-split.md`), not "we're cheaper." Roughly half of all agents sell one or zero homes a year (Consumer Federation of America, 2024), so this avatar is far larger than the industry admits.
+
+---
+
 ## Script Coverage by Avatar
 
 ### AI Agent Minute (100 scripts)
@@ -136,3 +154,4 @@ Six target personas for all video content. Every script is designed to speak dir
 | Aspiring Top Producer | Scaling, use, team, efficiency | AI Agent Minute (systems), Agent Tips (top producer tactics) |
 | Burned-Out Veteran | Boundaries, burnout, tech overwhelm | Agent Tips (Real Talk pillar), AI Agent Minute (simplification) |
 | Team Leader | Hiring, compensation, culture, retention | AI Agent Minute (team scripts), Agent Tips (leadership wisdom) |
+| Experienced Part-Timer | Fee math, low-volume cost, part-time stigma | Kale-signaling (slow-years-big-split, youre-not-starting-over) |
