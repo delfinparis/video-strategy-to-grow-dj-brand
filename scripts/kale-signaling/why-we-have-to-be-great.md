@@ -73,8 +73,28 @@ Walk-and-talk for hook and close. Simple fee card on "$400/sale, capped at $6,00
 >
 > #realestate #realtor #realestateagent #chicagorealestate #realtok #brokerage
 
-### Facebook / YouTube Shorts / X / Threads
-TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
+### Facebook (local Chicago lead)
+
+> Chicago agents, here's how Kale actually works.
+>
+> If we stopped delivering, I'd lose 769 agents in a month. That fear runs the whole company.
+>
+> Most brokerages keep a big slice of every check you earn, whether they helped you that month or not. We don't. We charge $400 a sale, capped at $6,000 a year. That's it.
+>
+> So we only survive if you stay, and you only stay if we're good. We can't trap you, so we have to be worth it.
+>
+> #ChicagoRealEstate #ChicagoRealtors #RealEstate #KaleRealty
+
+### YouTube Shorts
+
+**Title:** If my brokerage stopped delivering, I'd lose 769 agents in a month
+
+> Most brokerages keep a big slice of every check you earn whether they coached you or not. We charge $400 a sale, capped at $6,000 a year, so we keep almost none of your money. We only survive if you stay, and you only stay if we're good. We can't trap you, so we have to be worth staying for.
+>
+> #Shorts #realestate #realtor #chicagorealestate #realestateagent #brokerage
+
+### X / Threads
+TODO: derive from the copy above, same no-em-dash scrub.
 
 ## Data Source
 

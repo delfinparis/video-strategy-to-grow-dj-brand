@@ -71,8 +71,28 @@ Walk-and-talk to camera for the hook and close. Cut to a simple number card for 
 >
 > #realestate #realtor #realestateagent #chicagorealestate #realtok #realestatetiktok #brokerage
 
-### Facebook / YouTube Shorts / X / Threads
-TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
+### Facebook (local Chicago lead)
+
+> Chicago agents, this one's worth two minutes.
+>
+> Some agents pay over $70,000 a year to put a brokerage name on their business card. The pitch is always the same. Pay the fees, give up the commission, because the brand wins you business.
+>
+> But your client didn't pick you for the name on the building. They picked you because someone they trust said call you, and you answered.
+>
+> At Kale you're the brand, so we stopped charging you for a name your clients never cared about.
+>
+> #ChicagoRealEstate #ChicagoRealtors #RealEstate #KaleRealty
+
+### YouTube Shorts
+
+**Title:** Some agents pay $70,000 a year for a name on a business card
+
+> Your client never picked the brokerage. They picked you, and then the brokerage took a slice of the check your name earned. At Kale you're the brand, so you keep it. Pull up your last five closings and write why each client actually picked you.
+>
+> #Shorts #realestate #realtor #chicagorealestate #realestateagent #brokerage
+
+### X / Threads
+TODO: derive from the copy above, same no-em-dash scrub.
 
 ## Data Source
 
