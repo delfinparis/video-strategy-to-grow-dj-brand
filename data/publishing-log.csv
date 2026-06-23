@@ -83,3 +83,15 @@ publish_date,script_id,surfaces_skipped,notes
 2026-06-12,REVIEW-no-match,,auto-match failed; YT 'Inflation Hit 4.2%. The Buyer Who Waits Pays the Buyer Who Acts.'; vid FUWfWwQuDJ0; script NF-045-inflation-4-2-equity-transfer on unmerged branch claude/inflation-mortgage-rates-l7kyav
 2026-06-13,kir-2026-05-29-ben-lalez,,auto-matched from YT [high]; vid WNogXuC1TrU
 2026-06-14,NF-046-thirteen-million-frozen-by-1997-tax-rule,,auto-matched from YT [high]; vid Udl4Lrqw91I
+2026-06-16,NF-046-ct-private-listings-law,,auto-matched from YT [high]; vid d_wcG114cNQ
+2026-06-16,REVIEW-no-match,,auto-match failed; YT 'Sellers Cut Prices for 7 Months. May Hit a Record. Both True.'; vid P15xzcPygR8; no script on main or branches -- NF-007 is a different April Chicago take
+2026-06-16,REVIEW-no-match,,auto-match failed; YT 'NAR Membership Is Above Forecast. Heres the Political Read Most Agents Are Missing.'; vid Y-pHC0Op9S0; topic only in data/news-briefs -- no script committed
+2026-06-17,NF-047-nar-yun-second-half-2026-wealth,,auto-matched from YT [high]; vid NnfxsR6Oiu8
+2026-06-17,kir-austin-clarence-2026-06-09,,auto-matched from YT [high]; vid iLJcS33V0eE
+2026-06-17,REVIEW-no-match,,auto-match failed; YT 'Luxury Agents Are Using AI to Win Offers'; vid yVz_0IQbIWc; Carrie McCormick KIR promo registered in promo-registry.md but no standalone script file
+2026-06-17,REVIEW-no-match,,auto-match failed; YT 'Your Sphere Can Smell ChatGPT | Free webinar July 9'; vid mVaDdH4MdP4; script on unmerged branch claude/hype-video-ai-webinar-d0v9rh -- scripts/bonus/2026-07-09-ai-webinar-hype-smell-chatgpt.md
+2026-06-18,NF-048-wait-for-rates-died-twice,,auto-matched from YT [high]; vid BcS0_DCYZLs
+2026-06-18,kir-2026-06-17-sarah-maslowski,,auto-matched from YT [high]; vid JNjSBHCqfjs
+2026-06-21,NF-051-nar-rejects-disclosure-rule,,auto-matched from YT [high]; vid 6q5Imvagghk
+2026-06-21,NF-052-kilmer-74-percent-pop-bys,,auto-matched from YT [high]; vid Y4qLs0nmTWc
+2026-06-22,NF-053-sullivan-community-fb-group,,auto-matched from YT [high]; vid i7yveNZpeUU
