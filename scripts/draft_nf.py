@@ -71,6 +71,7 @@ STANDARDS_FILES = [
     ("INSIDE THE INDUSTRY SERIES STANDARD", DOCS / "series" / "inside-the-industry-standard.md", 9000),
     ("AI-TELLS FIELD GUIDE (scrub against this)", DOCS / "ai-tells-field-guide.md", 14000),
     ("VOICE INSTRUCTIONS (write so it reads as D.J.)", DOCS / "ai-voice-custom-instructions.md", 12000),
+    ("CAPTION + HASHTAG STRATEGY (2026 -- hashtag caps + caption SEO)", DOCS / "caption-and-hashtag-strategy.md", 8000),
     ("AI MUSIC PROMPT PRESETS", DOCS / "ai-music-prompts.md", 9000),
 ]
 # One gold-standard NF as a format exemplar.
@@ -129,7 +130,7 @@ Source the brief actually fetched (this is your ONLY factual ground):
 4. LENGTH (the constraint that matters most). 60 SECONDS MAXIMUM, target 45-55 seconds. ~95-135 spoken words, HARD CAP 135 words. A script that runs past one minute is wrong: cut the weakest beat until it fits. Count ONLY the spoken words (HOOK + CONTEXT + INSIGHT + CLOSE, not headers, timecodes, or notes) and put that exact count in the Estimated Duration line, which must read 60 seconds or less. Add a one-sentence length justification, not a paragraph.
 5. VOICE + AI-TELLS. Write so it reads as D.J., not as AI. Obey the field guide: no banned vocabulary, at most one "It's not X, it's Y", at most one Rule-of-Three, no self-answered rhetorical questions, no motivational-poster close.
 6. NO EM DASHES anywhere in social captions. Use periods or commas.
-7. SOCIAL COPY. Write all six captions (LinkedIn primary, Instagram Reels, TikTok, YouTube Shorts with title+description, Facebook, X), each platform-shaped per the example, hashtags included.
+7. SOCIAL COPY. Write all six captions (LinkedIn primary, Instagram Reels, TikTok, YouTube Shorts with title+description, Facebook, X), each platform-shaped per the example, following the CAPTION + HASHTAG STRATEGY doc above: hashtag caps are 3-5 on LinkedIn / Instagram / TikTok / YouTube, 2-3 on Facebook, 1-2 on X (realtor-first, drop the long tail). Front-load one real in-app-search keyword (the plain phrase an agent would actually search, e.g. "real estate commission settlement", "Chicago real estate") into the first line or two of each caption. Optimize for the send (would one agent DM this to another) and for dwell, never an engagement ask.
 8. AI MUSIC PROMPT. Include the section per the presets: Vibe, Suno/Udio (full), CapCut (<=300 chars, starts with no-vocals constraint, includes BPM). Tune BPM/energy to this story.
 9. FRONTMATTER. Fill the required Inside the Industry frontmatter (series, type: reactive, script_number: "NF-DRAFT", title, avatar, content_pillar, primary_platform, post_date: "TBD", status: needs-verification, plus heat, stat_anchored, loop_back, share_trigger). Include the WOW line and Shareable Moment.
 
