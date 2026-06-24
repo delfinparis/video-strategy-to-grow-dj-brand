@@ -106,7 +106,7 @@ Three. When a client shows up with AI research, say good. Then tell them what th
 
 Realtor.com didn't automate your job. They automated your busywork. What's left is the part worth paying for. If that scares you, you weren't selling that part.
 
-**Hashtags:** #RealEstate #AI #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #ListingAgent #BrokerageStrategy
+**Hashtags:** #AI #ChicagoRealEstate #RealEstate2026 #ListingAgent #BrokerageStrategy
 
 ### Instagram Reels
 **Caption:**
@@ -142,7 +142,7 @@ Realtor.com just launched a free AI that compares homes, runs your affordability
 **Description:**
 On June 2, 2026, Realtor.com launched RealAssist AI, a buyer-facing tool built on Google Maps AI that compares homes and neighborhoods, runs affordability math, and maps a listing against your daily commute. Cue the agent panic. D.J. Paris breaks down why the doomers have it backwards: RealAssist didn't automate the agent's job, it automated the information-middleman part that was never worth a commission, and what's left is the judgment and hyper-local knowledge AI can't touch. Plus three things every agent should do this week. Source: Real Estate News, 6/2/2026.
 
-**Hashtags:** #shorts #realestate #ai #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #listingagent
+**Hashtags:** #shorts #ai #realestatenews #realestate2026 #listingagent
 
 ### Facebook
 **Caption:**
@@ -164,7 +164,7 @@ Three. When a client shows up with AI research, say good. Then tell them what th
 
 Realtor.com automated your busywork, not your job. What's left is the part worth paying for.
 
-**Hashtags:** #RealEstate #AI #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #AI #ChicagoRealEstate #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
@@ -174,7 +174,7 @@ It didn't automate your job. It automated the part you were never worth a commis
 
 Sell what the AI can't.
 
-**Hashtags:** #RealEstate #AI #Realtor
+**Hashtags:** #RealEstate #AI
 
 ### Threads
 **Post:**

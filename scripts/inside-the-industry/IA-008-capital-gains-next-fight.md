@@ -82,7 +82,7 @@ This is the kind of policy story that hits agent pipelines twelve months from no
 
 The next NAR policy fight is not about commissions. It is about the long-term owners who would list tomorrow if the tax math worked. Watch this one closely.
 
-**Hashtags:** #RealEstate #NAR #CapitalGains #RealEstatePolicy #ListingAgent #ChicagoRealEstate #InsideTheIndustry
+**Hashtags:** #NAR #CapitalGains #RealEstatePolicy #ListingAgent #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -102,7 +102,7 @@ This is the policy story that hits pipelines twelve months from now. NAR is sign
 ### TikTok
 **Caption:**
 Just got out of a closed-door meeting with senior leadership at NAR. They told me what the next big policy battle is, and it's not commissions this time.
-**Hashtags:** #realtortok #realestatetok #realtor #nar #capitalgains #realestatepolicy #insidetheindustry
+**Hashtags:** #realtortok #nar #capitalgains #realestatepolicy #insidetheindustry
 
 ### YouTube Shorts
 **Title:** I Just Got Out of a Closed-Door Meeting With NAR -- Here's the Next Big Policy Battle
@@ -112,7 +112,7 @@ D.J. Paris just walked out of a closed-door meeting with senior leadership at NA
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #capitalgains #realtor #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #nar #capitalgains #insidetheindustry #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -128,7 +128,7 @@ This is the kind of policy story that hits agent pipelines twelve months from no
 
 The next NAR policy fight is not about commissions. It is about the long-term owners who would list tomorrow if the tax math worked.
 
-**Hashtags:** #RealEstate #NAR #CapitalGains #ListingAgent #ChicagoRealEstate
+**Hashtags:** #NAR #CapitalGains #ListingAgent
 
 ### X (Twitter)
 **Caption:**
@@ -140,4 +140,4 @@ Step-up basis. Primary residence exclusion (frozen since 1997). 1031 rules.
 
 Any of these moves and the math changes for who lists, holds, and 1031s.
 
-**Hashtags:** #RealEstate #NAR #CapitalGains
+**Hashtags:** #NAR #CapitalGains

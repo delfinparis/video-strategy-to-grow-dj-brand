@@ -89,7 +89,7 @@ Call the three clients who told you they are sitting tight. Read them both numbe
 
 (Source: NAR May existing-home sales report, released June 9, 2026. First-time buyer share since June 2020 per HousingWire coverage of the report.)
 
-**Hashtags:** #RealEstate #RealEstateMarket #FirstTimeHomeBuyer #RealtorLife #RealEstateAgent #HousingMarket #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #RealEstateMarket #FirstTimeHomeBuyer #HousingMarket #ChicagoRealEstate #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
@@ -103,16 +103,16 @@ If your clients are waiting for prices to drop, tell them this. First-timers sto
 
 (Source: NAR May existing-home sales report, June 9, 2026. June 2020 share per HousingWire.)
 
-**Hashtags:** #realestate #realestatemarket #firsttimehomebuyer #realtorlife #realestateagent #housingmarket #chicagorealestate #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #realestatemarket #firsttimehomebuyer #housingmarket #chicagorealestate #realestatenews
 
 ### TikTok
 **Caption:** Record May home price AND first-time buyers at their highest share since 2020, in the same report. Here's the conversation to have with clients who are waiting for prices to drop.
-**Hashtags:** #realtortok #realestatetok #realtor #firsttimehomebuyer #housingmarket #realestatenews
+**Hashtags:** #realtortok #realestatetok #firsttimehomebuyer #housingmarket #realestatenews
 
 ### YouTube Shorts
 **Title:** Record May Home Price. First-Time Buyers at Their Highest Since June 2020. Same Report.
 **Description:** The NAR May existing-home sales report (released June 9, 2026) showed two signals that usually move opposite each other. The median price hit a record high for May at $429,300, the 35th straight month of year-over-year gains, while first-time buyers rose to 35% of sales, the highest share since June 2020. D.J. Paris on the client conversation that comes out of it: buyers waiting for prices to drop are watching first-timers close on the house instead. First-time buyer share since June 2020 per HousingWire coverage of the report.
-**Hashtags:** #shorts #realestate #housingmarket #firsttimehomebuyer #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #housingmarket #firsttimehomebuyer #realestatenews #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -128,7 +128,7 @@ Call the three clients who told you they are sitting tight. Read them both numbe
 
 (Source: NAR May existing-home sales report, June 9, 2026. June 2020 share per HousingWire.)
 
-**Hashtags:** #RealEstate #HousingMarket #FirstTimeHomeBuyer #RealtorLife #ChicagoRealEstate
+**Hashtags:** #HousingMarket #FirstTimeHomeBuyer #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -140,4 +140,4 @@ First-time buyers hit 35% of sales. Highest since June 2020.
 
 Tell your sidelined buyers this. The people who can least afford it stopped waiting.
 
-**Hashtags:** #RealEstate #HousingMarket #FirstTimeHomeBuyer
+**Hashtags:** #HousingMarket #FirstTimeHomeBuyer

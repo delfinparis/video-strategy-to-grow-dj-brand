@@ -96,7 +96,7 @@ If you have a seller in Connecticut, your private-listing playbook expires Octob
 
 If you're anywhere else, watch your state's bills. Compass just lost a state. They're going to lose more.
 
-**Hashtags:** #RealEstate #Compass #PrivateListings #RealEstateLaw #BrokerageLaw #Connecticut #NewYork #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #Compass #PrivateListings #RealEstateLaw #BrokerageLaw #Connecticut
 
 ### Instagram Reels
 **Caption:**
@@ -112,16 +112,16 @@ NY has the same bill on Hochul's desk.
 
 If you have a CT seller, your private-listing playbook expires Oct 1. Have the conversation now.
 
-**Hashtags:** #realestate #compass #privatelistings #realestatelaw #brokeragelaw #connecticut #newyork #realtorlife #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #compass #privatelistings #realestatelaw #brokeragelaw #connecticut
 
 ### TikTok
 **Caption:** Connecticut just made private listings a $5,000 fine. New York is next. This isn't an MLS dispute anymore — it's law.
-**Hashtags:** #realtortok #realestatetok #realtor #compass #privatelistings #realestatenews
+**Hashtags:** #realtortok #realestatetok #compass #privatelistings #realestatenews
 
 ### YouTube Shorts
 **Title:** Connecticut Just Made Private Listings a $5,000 Fine
 **Description:** Connecticut Governor Ned Lamont signed SB 340 on May 27, ending the Compass-style private-listings model in the state. Any private marketing of a 1-4 unit Connecticut residential property (social media, email, lawn signs, brokerage networks) now requires a simultaneous public MLS listing, unless the seller signs a state-issued opt-out form. Effective October 1, 2026. Penalties up to $5,000 or license suspension. New York has the same bill on Governor Hochul's desk. D.J. Paris on why the private-listings fight stopped being an MLS dispute and became state law -- and what every agent should be watching in their own legislature.
-**Hashtags:** #shorts #realestate #compass #privatelistings #realestatelaw #connecticut #newyork #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #compass #privatelistings #realestatelaw #connecticut
 
 ### Facebook
 **Caption:**
@@ -137,7 +137,7 @@ New York has the same bill on Governor Hochul's desk and it's expected to pass. 
 
 If you have a Connecticut seller, your private-listing playbook expires October 1. Have the conversation with them this week. If you're anywhere else, watch your state's bills. Compass just lost a state. They're going to lose more.
 
-**Hashtags:** #RealEstate #Compass #PrivateListings #RealEstateLaw #Connecticut #RealtorLife
+**Hashtags:** #Compass #PrivateListings #RealEstateLaw
 
 ### X (Twitter)
 **Caption:**
@@ -151,4 +151,4 @@ NY's bill is on Hochul's desk.
 
 This isn't an MLS dispute anymore. It's law.
 
-**Hashtags:** #RealEstate #Compass #PrivateListings #RealEstateLaw
+**Hashtags:** #Compass #PrivateListings

@@ -103,7 +103,7 @@ Three. Skip the rate update email. Send one personal note to a past client about
 
 The market isn't waiting for rates. It's waiting for life. Stop watching the Fed. Start watching your sphere.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #MortgageRates #ListingAgent
+**Hashtags:** #HousingMarket #ChicagoRealEstate #RealEstate2026 #MortgageRates #ListingAgent
 
 ### Instagram Reels
 **Caption:**
@@ -139,7 +139,7 @@ The market isn't waiting for rates. It's waiting for life.
 **Description:**
 54% of homeowners say no mortgage rate would get them to sell this year. That comes from Bankrate's mid-2025 homeowner sentiment survey. Half of homeowners also said no rate would get them to buy. This isn't a rates market. It's a stuck market. D.J. Paris breaks down why the industry is betting on a lever that doesn't exist, and three things every agent should do this week to track the actual lever moving the market.
 
-**Hashtags:** #shorts #realestate #housingmarket #mortgagerates #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #listingagent
+**Hashtags:** #shorts #housingmarket #mortgagerates #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -161,7 +161,7 @@ Three. Skip the rate update email. Send one personal note to a past client about
 
 The market isn't waiting for rates. It's waiting for life.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #MortgageRates #RealEstate2026
+**Hashtags:** #HousingMarket #ChicagoRealEstate #MortgageRates
 
 ### X (Twitter)
 **Caption:**
@@ -176,7 +176,7 @@ Three moves this week:
 
 Stop watching the Fed. Start watching your sphere.
 
-**Hashtags:** #RealEstate #HousingMarket #MortgageRates
+**Hashtags:** #HousingMarket #MortgageRates
 
 ### Threads
 **Post:**

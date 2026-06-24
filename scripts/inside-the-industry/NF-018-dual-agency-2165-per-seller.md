@@ -99,7 +99,7 @@ Three. If you stay dual, renegotiate your buyer-side fee down. Two thousand back
 
 Two commissions or one client's price. Pick one. The Zillow data just made it the seller's question, not yours.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #RealtorEthics #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #DualAgency #ListingAgent #RealtorEthics #ChicagoRealEstate #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -135,7 +135,7 @@ $2,165 is what your seller loses when you double-end the deal. Zillow analyzed 1
 **Description:**
 Zillow released a study on May 14, 2026 showing that sellers in dual-agency transactions lost an average of $2,165 per home compared with sellers who had separate representation. Across 15 million transactions analyzed from 2023 to 2025, the pattern showed up every single year. D.J. Paris breaks down what that money actually represents -- your second commission coming out of your client's price -- and three plays the next time your buyer wants to write on your listing.
 
-**Hashtags:** #shorts #realestate #realtor #dualagency #listingagent #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #dualagency #listingagent #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -155,7 +155,7 @@ Three. If you stay dual, renegotiate your buyer-side fee down. Two thousand back
 
 Two commissions or one client's price. Pick one.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #DualAgency #ListingAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -173,7 +173,7 @@ Three plays:
 
 Two commissions or one client's price. Pick one.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency
+**Hashtags:** #RealEstate #DualAgency
 
 ### Threads
 **Post:**

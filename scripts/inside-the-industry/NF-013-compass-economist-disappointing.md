@@ -97,7 +97,7 @@ For the buyer: "The market the headlines describe is not the market that has act
 
 Stop selling December's market in May. The chief economist just gave you permission. Use it.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #ListingAgent #BuyerAgent #ChicagoRealEstate #RealEstate2026 #ListingPresentation #InsideTheIndustry #KeepingItRealPodcast
+**Hashtags:** #HousingMarket #ListingAgent #BuyerAgent #ChicagoRealEstate #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -131,7 +131,7 @@ D.J. Paris on why this matters more than the article frames it: brokerages don't
 
 The action item: your sellers are still pricing on December's forecast and your buyers are still spooked by January's headlines. The chief economist just gave you the language to reset both conversations. Stop selling December's market in May.
 
-**Hashtags:** #shorts #realestate #housingmarket #realtor #listingagent #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #housingmarket #listingagent #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -147,7 +147,7 @@ Here is what to do with it. Your seller is still pricing on December's forecast.
 
 Stop selling December's market in May. The chief economist just gave you permission. Use it.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #ListingAgent #ChicagoRealEstate
+**Hashtags:** #HousingMarket #ListingAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -159,4 +159,4 @@ Brokerages don't pay economists to be pessimistic. They pay them to keep the nar
 
 Stop selling December's market in May.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor
+**Hashtags:** #RealEstate #HousingMarket

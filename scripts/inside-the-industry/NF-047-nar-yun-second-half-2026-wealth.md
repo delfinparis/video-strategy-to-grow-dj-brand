@@ -85,7 +85,7 @@ Here is what you do with it. Screenshot the renter line, send it to the three bu
 
 (Source: NAR, "Home Sales Expected to Improve in Second Half of 2026," published June 16, 2026.)
 
-**Hashtags:** #RealEstate #HousingMarket #RealEstateMarket #RealtorLife #RealEstateAgent #HomeBuying #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry #NAR
+**Hashtags:** #HousingMarket #RealEstateMarket #HomeBuying #ChicagoRealEstate #NAR
 
 ### Instagram Reels
 **Caption:**
@@ -99,16 +99,16 @@ Every month your client keeps renting, that $16,000 goes to a landlord instead o
 
 (Source: NAR forecast, June 16, 2026.)
 
-**Hashtags:** #realestate #housingmarket #realestateagent #realtorlife #homebuying #firsttimehomebuyer #chicagorealestate #keepingitrealpodcast #insidetheindustry #nar
+**Hashtags:** #housingmarket #homebuying #firsttimehomebuyer #chicagorealestate #nar
 
 ### TikTok
 **Caption:** NAR's chief economist just gave you the buyer script for the back half of 2026. Sales up 4%, prices up 4%, and the typical homeowner builds about $16,000 this year while renters spin their wheels. Send this to the clients who are waiting for rates to drop.
-**Hashtags:** #realtortok #realestatetok #realtor #housingmarket #homebuying #realestatenews
+**Hashtags:** #realtortok #realestatetok #housingmarket #homebuying #realestatenews
 
 ### YouTube Shorts
 **Title:** NAR Says Home Sales Improve in Late 2026. Here's the Buyer Script.
 **Description:** NAR chief economist Lawrence Yun published his 2026 forecast on June 16, 2026: existing-home sales up 4%, median price up 4%, mortgage rates projected to average 6.5%, no recession, and roughly $16,000 in wealth for the typical homeowner this year, with sales picking up in the back half. His line for your clients: homeowners keep building wealth while renters spin their wheels. D.J. Paris on how to turn the country's top housing economist into a same-day text to the buyers who are waiting for rates to drop. (Source: NAR, June 16, 2026.)
-**Hashtags:** #shorts #realestate #housingmarket #homebuying #realestatenews #keepingitrealpodcast #insidetheindustry #nar
+**Hashtags:** #shorts #housingmarket #homebuying #realestatenews #nar
 
 ### Facebook
 **Caption:**
@@ -122,7 +122,7 @@ That is the conversation with any buyer who is waiting for rates to drop. Every 
 
 (Source: NAR, published June 16, 2026.)
 
-**Hashtags:** #RealEstate #HousingMarket #HomeBuying #RealtorLife #ChicagoRealEstate
+**Hashtags:** #HousingMarket #HomeBuying #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -134,4 +134,4 @@ His line: homeowners build wealth while renters spin their wheels.
 
 Send it to the buyers waiting for rates to drop.
 
-**Hashtags:** #RealEstate #HousingMarket #HomeBuying
+**Hashtags:** #HousingMarket #HomeBuying

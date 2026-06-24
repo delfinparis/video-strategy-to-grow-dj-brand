@@ -80,7 +80,7 @@ Most agents will not notice until it has already changed. The MLS landscape that
 
 I will be sharing more from inside this relationship in the months ahead.
 
-**Hashtags:** #RealEstate #NAR #MLS #RealEstateIndustry #ChicagoRealEstate #InsideTheIndustry
+**Hashtags:** #NAR #MLS #RealEstateIndustry #ChicagoRealEstate #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
@@ -107,7 +107,7 @@ D.J. Paris attended a closed-door NAR Q1 strategic-plan readout alongside Rob Ha
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #mls #realtor #realestatenews #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #nar #mls #realestatenews #insidetheindustry
 
 ### Facebook
 **Caption:**
@@ -121,7 +121,7 @@ The largest MLSs are consolidating. The legal exposure has mostly come through t
 
 Most agents will not notice until it is already changed. The MLS landscape that built modern real estate is quietly being rewritten.
 
-**Hashtags:** #RealEstate #NAR #MLS #RealtorLife #ChicagoRealEstate
+**Hashtags:** #NAR #MLS #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -133,4 +133,4 @@ Rob asked how they'd enforce policy if an MLS refused: "I don't have a direct an
 
 The MLS landscape is quietly being rewritten.
 
-**Hashtags:** #RealEstate #NAR #MLS
+**Hashtags:** #NAR #MLS

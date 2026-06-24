@@ -97,7 +97,7 @@ That is the jump from 62 to 23.
 
 Everybody is experimenting. Almost nobody is shipping. Be the exception.
 
-**Hashtags:** #RealEstate #Realtor #AI #AgenticAI #RealEstateTech #RealEstate2026 #RealtorLife #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #AI #AgenticAI #RealEstateTech #RealEstate2026 #BrokerageStrategy
 
 ### Instagram Reels
 **Caption:**
@@ -125,7 +125,7 @@ Pick one task you do every day that you hate. Hand it to a tool this week and le
 **Description:**
 McKinsey's latest State of AI finds 62% of organizations experimenting with AI agents but only 23% scaling one, while McKinsey says agentic AI could unlock up to $550 billion in real estate value. D.J. Paris breaks down why experimenting is not the same as shipping, what separates the agents pulling ahead, and the one move that takes you from the 62% to the 23%: hand one daily task to a tool and let it run.
 
-**Hashtags:** #shorts #realestate #realtor #ai #agenticai #realestatetech #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #ai #agenticai #realestatetech #realestate2026
 
 ### Facebook
 **Caption:**
@@ -137,7 +137,7 @@ Experimenting feels like progress. It is not. Writing a listing description with
 
 Pick one task you do every day that you hate. Hand it to a tool this week and let it run. Do not dabble in ten things. Ship one.
 
-**Hashtags:** #RealEstate #Realtor #AI #RealEstate2026
+**Hashtags:** #RealEstate #AI #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
@@ -151,7 +151,7 @@ McKinsey says agentic AI could unlock up to $550B in real estate value. Most age
 
 Pick one daily task you hate. Hand it to a tool this week. Ship one.
 
-**Hashtags:** #RealEstate #AI #Realtor
+**Hashtags:** #RealEstate #AI
 
 ### Threads
 **Post:**

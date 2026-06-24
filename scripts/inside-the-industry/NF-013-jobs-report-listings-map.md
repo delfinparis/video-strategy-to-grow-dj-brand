@@ -112,7 +112,7 @@ Three. Watch the WARN notices and layoff announcements in your market. Those are
 
 The jobs report isn't a rates story. It's a relocation story. Read the sectors like a listings map. That's your next listing.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #JobsReport #ListingAgent
+**Hashtags:** #HousingMarket #ChicagoRealEstate #RealEstate2026 #JobsReport #ListingAgent
 
 ### Instagram Reels
 **Caption:**
@@ -148,7 +148,7 @@ Friday's jobs report told you where your next listing lives. Most agents read it
 **Description:**
 The April 2026 BLS jobs report dropped Friday: 115,000 jobs added overall, beating the 62,000 forecast. Healthcare added 37,000 jobs. Federal government lost 9,000. Manufacturing lost ground. Most agents read the jobs report for Fed clues. Top producers read it for relocations. D.J. Paris breaks down how to use the sector breakdown as a metro-by-metro listings map for the next six months of pipeline.
 
-**Hashtags:** #shorts #realestate #housingmarket #jobsreport #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #listingagent
+**Hashtags:** #shorts #housingmarket #jobsreport #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -170,7 +170,7 @@ Three. Watch the WARN notices and layoff announcements in your market. Those are
 
 The jobs report isn't a rates story. It's a relocation story.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #JobsReport #RealEstate2026
+**Hashtags:** #HousingMarket #ChicagoRealEstate #JobsReport
 
 ### X (Twitter)
 **Caption:**
@@ -187,7 +187,7 @@ Three moves this week:
 
 Read it like an agent, not an economist.
 
-**Hashtags:** #RealEstate #HousingMarket #JobsReport
+**Hashtags:** #HousingMarket #JobsReport
 
 ### Threads
 **Post:**

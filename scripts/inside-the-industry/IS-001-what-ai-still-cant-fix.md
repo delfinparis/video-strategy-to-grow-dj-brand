@@ -91,7 +91,7 @@ The agents who survive this next decade will not be the ones with the best promp
 
 That is my honest take from 700 interviews in.
 
-**Hashtags:** #RealEstate #ArtificialIntelligence #Leadership #RealEstateIndustry #ChicagoRealEstate #KeepingItRealPodcast
+**Hashtags:** #ArtificialIntelligence #Leadership #RealEstateIndustry #ChicagoRealEstate #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
@@ -125,7 +125,7 @@ D.J. Paris hosts Keeping It Real Podcast (700+ episodes) and teaches real estate
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #ai #realtor #realestateai #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #ai #realestateai #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
@@ -147,7 +147,7 @@ You cannot prompt your way into that. You earn it by reps.
 
 The agents who survive this next decade won't be the ones with the best prompts. They'll be the ones who've had the hardest conversations.
 
-**Hashtags:** #RealEstate #AI #ChicagoRealEstate #RealtorLife
+**Hashtags:** #RealEstate #AI #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**

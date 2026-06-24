@@ -110,7 +110,7 @@ By month six, you're the agent they call. By year two, you're the only agent the
 
 The work is small. The compound is enormous.
 
-**Hashtags:** #RealEstate #RealtorTips #RealEstateMarketing #SphereOfInfluence #CommunityMarketing #RealEstateAgent #RealtorLife #RealEstateCoaching #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #SphereOfInfluence #CommunityMarketing #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
@@ -134,16 +134,16 @@ Here's the playbook.
 
 By month 6, you're the agent they call.
 
-**Hashtags:** #realestate #realtortips #realestatemarketing #sphereofinfluence #communitymarketing #realestateagent #realtorlife #realestatecoaching #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #sphereofinfluence #communitymarketing #keepingitrealpodcast #insidetheindustry #realestatenews
 
 ### TikTok
 **Caption:** A Greenwich agent did $100M last year. The reason isn't her brokerage. It's a free community resource she built that her clients used long before they hired her. Here's how to copy it with a Facebook group.
-**Hashtags:** #realtortok #realestatetok #realtor #realtortips #communitymarketing #realestatemarketing
+**Hashtags:** #realtortok #realestatetok #realtor #realtortips #communitymarketing
 
 ### YouTube Shorts
 **Title:** She Built a Community. Then She Built a $100 Million Business.
 **Description:** Megan Sullivan, a Greenwich, Connecticut agent profiled by Inman on March 3, 2026, did over $100 million in transactions in 2025. The Inman piece traces her business engine not to her brokerage or her marketing budget, but to The Local Moms Network, a community resource she co-founded that started as Greenwichmoms.com and now spans dozens of U.S. cities. D.J. Paris on why a free, helpful Facebook group serving one specific community in your market is the most undervalued lead-gen tool in real estate, and the three-step playbook every agent can run starting this week.
-**Hashtags:** #shorts #realestate #realtortips #communitymarketing #sphereofinfluence #realestatemarketing #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #communitymarketing #sphereofinfluence #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
@@ -167,7 +167,7 @@ Here's the playbook.
 
 By month six, you're the agent they call.
 
-**Hashtags:** #RealEstate #RealtorTips #RealEstateMarketing #CommunityMarketing #SphereOfInfluence #RealtorLife
+**Hashtags:** #RealEstate #CommunityMarketing #SphereOfInfluence
 
 ### X (Twitter)
 **Caption:**
@@ -177,4 +177,4 @@ She started a local moms website. It grew into a national network. Real estate f
 
 Free FB group. One community with a need. One helpful answer a week. By month 6, you're the agent they call.
 
-**Hashtags:** #RealEstate #RealtorTips #CommunityMarketing
+**Hashtags:** #RealEstate #CommunityMarketing

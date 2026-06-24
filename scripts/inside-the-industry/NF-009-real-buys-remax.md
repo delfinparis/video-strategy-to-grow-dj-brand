@@ -81,7 +81,7 @@ The next five years of brokerage M&A is not legacy companies buying upstarts. It
 
 If you are at RE/MAX, ask your franchise leadership what changes next quarter. If you are at any other legacy franchise, the question is not if your brand gets acquired. It is when. And you should be watching who calls next.
 
-**Hashtags:** #RealEstate #BrokerageNews #REMAX #RealBrokerage #RealEstate2026 #BrokerageConsolidation #ChicagoRealEstate #KeepingItRealPodcast
+**Hashtags:** #BrokerageNews #REMAX #RealBrokerage #RealEstate2026 #BrokerageConsolidation
 
 ### Instagram Reels
 **Caption:**
@@ -109,7 +109,7 @@ Real Brokerage just bought RE/MAX for $880 million. The upstart bought the legac
 **Description:**
 The Real Brokerage just acquired RE/MAX for $880 million. That is the upstart buying the legacy giant -- the opposite of every consolidation narrative the industry has been pushing for two years. D.J. Paris breaks down who wins, who loses, and why the next five years of brokerage M&A is not legacy buying upstarts -- it is upstarts with capital buying legacy brands.
 
-**Hashtags:** #shorts #realestate #remax #realbrokerage #brokeragenews #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #remax #realbrokerage #brokeragenews #realestatenews
 
 ### Facebook
 **Caption:**
@@ -127,7 +127,7 @@ The next wave of M&A is not legacy buying upstarts. It is upstarts buying legacy
 
 If you are at RE/MAX, ask your franchise leadership what changes next quarter.
 
-**Hashtags:** #RealEstate #REMAX #RealBrokerage #BrokerageNews #ChicagoRealEstate
+**Hashtags:** #REMAX #RealBrokerage #BrokerageNews
 
 ### X (Twitter)
 **Caption:**
@@ -139,4 +139,4 @@ Wins: Real shareholders, Real agents. Loses: RE/MAX franchisees who signed up fo
 
 The next wave of M&A isn't legacy buying upstarts. It's upstarts with capital buying legacy brands for the parts they want.
 
-**Hashtags:** #RealEstate #REMAX #BrokerageNews
+**Hashtags:** #REMAX #BrokerageNews

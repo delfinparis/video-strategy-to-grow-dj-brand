@@ -134,7 +134,7 @@ Three. Ask your brokerage which side they're on. If they push coming-soon or pri
 
 The MLS used to be the only door. Now it's one of three. Pick the door with the most buyers.
 
-**Hashtags:** #RealEstate #Realtor #ClearCooperationPolicy #MLS #Compass #ListingAgent #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #ClearCooperationPolicy #MLS #Compass #ListingAgent #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -170,7 +170,7 @@ Clear Cooperation is dead. Not on paper. In practice. Compass declared it non-bi
 **Description:**
 NAR's Clear Cooperation Policy still exists on the books, but the practical regime that backed it collapsed this week. Compass declared the policy non-binding in December 2025. Zillow softened its listing standards in March 2026. On May 13, BrightMLS -- the largest MLS in the country -- partnered with Compass to distribute private listings. Yesterday's Zillow study put a $1.3 billion seller-cost price tag on off-MLS marketing. D.J. Paris breaks down the chronology and three plays every listing agent should run this week.
 
-**Hashtags:** #shorts #realestate #realtor #clearcooperation #mls #compass #listingagent #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #clearcooperation #mls #compass #listingagent
 
 ### Facebook
 **Caption:**
@@ -198,7 +198,7 @@ Three. Ask your brokerage which side they're on.
 
 The MLS used to be the only door. Now it's one of three. Pick the door with the most buyers.
 
-**Hashtags:** #RealEstate #Realtor #ClearCooperation #MLS #Compass #ListingAgent #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #ClearCooperation #MLS #Compass
 
 ### X (Twitter)
 **Caption:**
@@ -217,7 +217,7 @@ Three plays this week:
 
 The MLS used to be the only door. Now it's one of three.
 
-**Hashtags:** #RealEstate #ClearCooperation #MLS #Compass
+**Hashtags:** #ClearCooperation #MLS
 
 ### Threads
 **Post:**

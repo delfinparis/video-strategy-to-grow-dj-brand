@@ -108,7 +108,7 @@ D.J. Paris breaks down what every agent needs to know about the case that could 
 
 July 28 is the date to watch.
 
-**Hashtags:** #shorts #realestate #realtor #nar #batton #narssettlement #realestatenews #realestate2026 #keepingitrealpodcast
+**Hashtags:** #shorts #nar #batton #narssettlement #realestatenews
 
 ### Facebook
 **Caption:**
@@ -126,7 +126,7 @@ If the court denies the stay and Batton proceeds to trial? The plaintiffs' own e
 
 The court approval hearing is July 28. I'll be covering it.
 
-**Hashtags:** #RealEstate #NAR #Batton #BuyerAgent #Commissions #ChicagoRealEstate #RealtorLife
+**Hashtags:** #NAR #Batton #BuyerAgent
 
 ### LinkedIn
 **Caption:**
@@ -145,7 +145,7 @@ The court approval hearing is scheduled for July 28. The outcome will have signi
 
 I'll be tracking this closely on the Keeping It Real Podcast.
 
-**Hashtags:** #RealEstate #NAR #Litigation #BuyerAgent #RealEstateLaw #Industry
+**Hashtags:** #NAR #Litigation #BuyerAgent #RealEstateLaw #Industry
 
 ### X (Twitter)
 **Caption:**
@@ -157,4 +157,4 @@ NAR wants a stay. Plaintiffs are fighting it. Hearing is July 28.
 
 This isn't over yet.
 
-**Hashtags:** #RealEstate #NAR #Batton #Commissions
+**Hashtags:** #NAR #Batton

@@ -104,7 +104,7 @@ Then give them the number. Written. On paper. Saved in their phone as a contact.
 
 That is the only protocol that actually protects your client. And it is the only protocol that protects you when their attorney comes asking what warning you gave.
 
-**Hashtags:** #RealEstate #WireFraud #ClosingProtection #RealEstateAgent #RealtorLife #BuyersAgent #RealEstateLaw #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #WireFraud #ClosingProtection #BuyersAgent #RealEstateLaw #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
@@ -124,16 +124,16 @@ Then give them the number. Written.
 
 That's the only protocol that actually protects your client.
 
-**Hashtags:** #realestate #wirefraud #closingprotection #realestateagent #realtorlife #buyersagent #realestatelaw #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #wirefraud #closingprotection #buyersagent #realestatelaw #realestatenews
 
 ### TikTok
 **Caption:** Wire fraud against home buyers hit a record $275M last year. Your "be careful" speech isn't enough. Here's the exact-words protocol every agent should use at onboarding.
-**Hashtags:** #realtortok #realestatetok #realtor #wirefraud #realestatenews #realtortips
+**Hashtags:** #realtortok #realestatetok #realtor #wirefraud #realestatenews
 
 ### YouTube Shorts
 **Title:** Your "Be Careful" Speech Isn't Enough
 **Description:** Real estate wire fraud just hit a record $275M last year per the FBI's Internet Crime Complaint Center, with 12,368 reported victims, up sharply from 9,359 in 2024 and 9,521 in 2023. CertifID's 2026 State of Wire Fraud report calls the trend epidemic, and 1 in 5 buyers reports receiving suspicious communications during closing. AI is making the scam emails more convincing every month. D.J. Paris on why the average agent's "be careful" warning at the start of a transaction is not enough — and the exact-words client protocol every buyer-side agent should be handing out at onboarding.
-**Hashtags:** #shorts #realestate #wirefraud #closingprotection #realestateagent #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #wirefraud #closingprotection #realestatenews #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -149,7 +149,7 @@ Hand every new buyer a one-page wire fraud sheet at onboarding. Say this:
 
 Then give them the number. Written. That's the only protocol that actually protects your client.
 
-**Hashtags:** #RealEstate #WireFraud #ClosingProtection #RealEstateAgent #RealtorLife #BuyersAgent
+**Hashtags:** #WireFraud #ClosingProtection #BuyersAgent
 
 ### X (Twitter)
 **Caption:**
@@ -161,4 +161,4 @@ Your "be careful" speech once at the start isn't enough.
 
 Hand every buyer a written wire-fraud sheet at onboarding.
 
-**Hashtags:** #RealEstate #WireFraud #ClosingProtection
+**Hashtags:** #WireFraud #ClosingProtection

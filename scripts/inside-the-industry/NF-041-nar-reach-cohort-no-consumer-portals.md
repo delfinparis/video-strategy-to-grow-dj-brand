@@ -101,7 +101,7 @@ Three names worth knowing from this list: BrokerBot, MaxHome.ai, and AiRE. They 
 
 You do not have to agree. But you should know who's coming before the sales call.
 
-**Hashtags:** #RealEstate #PropTech #AI #BrokerageTech #NARREACH #RealEstateAgent #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #PropTech #AI #BrokerageTech #NARREACH #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
@@ -115,16 +115,16 @@ The agent who wins isn't the one with more leads. It's the one whose back office
 
 Three names worth knowing: BrokerBot, MaxHome.ai, AiRE. They'll start showing up at your brokerage soon.
 
-**Hashtags:** #realestate #proptech #ai #brokeragetech #narreach #realestateagent #realtorlife #keepingitrealpodcast #insidetheindustry #aiforrealtors
+**Hashtags:** #proptech #ai #brokeragetech #narreach #aiforrealtors
 
 ### TikTok
 **Caption:** NAR just picked six startups for their AI accelerator. Notice what's missing. None are consumer search platforms. Here's where NAR thinks the next fight is.
-**Hashtags:** #realtortok #realestatetok #realtor #proptech #aiforrealtors #brokeragetech
+**Hashtags:** #realtortok #realestatetok #proptech #aiforrealtors #brokeragetech
 
 ### YouTube Shorts
 **Title:** NAR Just Picked Six Startups. None Are Consumer Portals.
 **Description:** NAR's investment arm Second Century Ventures just announced the 2026 REACH cohort: six companies, five of them AI or workflow tools for brokerages (BrokerBot AI teammates, MaxHome.ai transaction intelligence, AiRE data centralization, StackWrap dashboard, Association Online HOA data) and one manufactured-housing platform (LotRoll). Zero consumer-facing portals. D.J. Paris on what that signals about where the next real estate innovation fight is going -- and the three names every agent should know before the next sales call.
-**Hashtags:** #shorts #realestate #proptech #ai #brokeragetech #narreach #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #proptech #ai #brokeragetech #narreach
 
 ### Facebook
 **Caption:**
@@ -142,7 +142,7 @@ The agent who wins isn't the one with more leads. It's the one whose back office
 
 Three names worth knowing: BrokerBot, MaxHome.ai, and AiRE. They'll start showing up at your brokerage in the next year. You don't have to agree, but you should know who's coming before the sales call.
 
-**Hashtags:** #RealEstate #PropTech #AI #BrokerageTech #NARREACH #RealEstateAgent #RealtorLife
+**Hashtags:** #PropTech #AI #BrokerageTech
 
 ### X (Twitter)
 **Caption:**
@@ -154,4 +154,4 @@ The signal: NAR thinks the next fight is operational AI inside the brokerage, no
 
 Watch: BrokerBot, MaxHome.ai, AiRE.
 
-**Hashtags:** #RealEstate #PropTech #AIforRealtors
+**Hashtags:** #PropTech #AIforRealtors

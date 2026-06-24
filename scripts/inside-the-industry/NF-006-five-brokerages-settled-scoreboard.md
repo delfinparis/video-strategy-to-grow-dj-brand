@@ -132,7 +132,7 @@ D.J. Paris breaks down where every major brokerage stands, what it means for you
 
 Full scoreboard updated on the Keeping It Real Podcast as new settlements land.
 
-**Hashtags:** #shorts #realestate #realtor #narssettlement #commissions #realestatenews #realestate2026 #keepingitrealpodcast #kellerwilliams #remax
+**Hashtags:** #shorts #narssettlement #commissions #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -156,7 +156,7 @@ The next big date is July 28, when the court decides whether to approve these de
 
 I'll keep this scoreboard updated.
 
-**Hashtags:** #RealEstate #NAR #Commissions #BuyerAgent #ChicagoRealEstate #RealtorLife
+**Hashtags:** #NAR #Commissions #BuyerAgent
 
 ### LinkedIn
 **Caption:**
@@ -184,7 +184,7 @@ The next milestone is July 28, when the court considers approval of these agreem
 
 I track these developments on the Keeping It Real Podcast.
 
-**Hashtags:** #RealEstate #NAR #Litigation #Commissions #BuyerAgent #RealEstateLaw #Leadership
+**Hashtags:** #NAR #Litigation #Commissions #BuyerAgent #RealEstateLaw
 
 ### X (Twitter)
 **Caption:**
@@ -200,4 +200,4 @@ $89M+ in 3 months. Next date: July 28.
 
 If your brokerage settled, you're covered. If not, ask why.
 
-**Hashtags:** #RealEstate #NAR #Commissions
+**Hashtags:** #NAR #Commissions

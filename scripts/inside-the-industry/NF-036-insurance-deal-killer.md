@@ -100,7 +100,7 @@ Get an insurance quote within 48 hours of any showing that could turn into an of
 
 The agents who run insurance early are not losing deals at week six. The ones who do not are calling their buyers to explain what happened.
 
-**Hashtags:** #RealEstate #HomeInsurance #BuyersAgent #RealEstateAgent #ClosingDay #RealtorLife #RealEstateNews #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #HomeInsurance #BuyersAgent #ClosingDay #RealEstateNews #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -116,16 +116,16 @@ The move: get an insurance quote within 48 hours of every showing that could tur
 
 The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers to explain what happened.
 
-**Hashtags:** #realestate #homeinsurance #buyersagent #realestateagent #closingday #realtorlife #realestatenews #chicagorealestate #keepingitrealpodcast #insidetheindustry #realtortips
+**Hashtags:** #homeinsurance #buyersagent #closingday #realestatenews #chicagorealestate
 
 ### TikTok
 **Caption:** Your next deal isn't dying at the appraisal. It's dying at the insurance quote. Here's the 48-hour move that saves it.
-**Hashtags:** #realtortok #realestatetok #realtor #buyersagent #homeinsurance #realestatenews
+**Hashtags:** #realtortok #realestatetok #buyersagent #homeinsurance #realestatenews
 
 ### YouTube Shorts
 **Title:** Your Next Deal Isn't Going to Die at the Appraisal
 **Description:** Homeowner's insurance premiums are up 20%+ year-over-year in many states, with quotes coming back at two to three times what everyone expected. National average is around $1,900 a year; in Florida it's closer to $6,000. The result: buyer debt-to-income flips, deals die at week six, or buyers walk. D.J. Paris on the exact systematizing move every buyer-side agent should run within 48 hours of any serious showing, before the insurance quote kills the deal.
-**Hashtags:** #shorts #realestate #homeinsurance #buyersagent #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #homeinsurance #buyersagent #realestatenews #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -141,7 +141,7 @@ Get an insurance quote within 48 hours of every showing that could turn into an 
 
 The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers to explain what happened.
 
-**Hashtags:** #RealEstate #HomeInsurance #BuyersAgent #RealEstateAgent #RealtorLife #ChicagoRealEstate
+**Hashtags:** #HomeInsurance #BuyersAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -151,4 +151,4 @@ Premiums up 20%+ YoY in many states. Quotes coming in at 2-3x expectations. DTI 
 
 The move: insurance quote within 48 hours of any showing that could turn into an offer. Not at closing.
 
-**Hashtags:** #RealEstate #HomeInsurance #BuyersAgent
+**Hashtags:** #HomeInsurance #BuyersAgent

@@ -79,7 +79,7 @@ Fewer homes to compete against. Only motivated buyers looking. That is a seller'
 
 If you have a seller waiting for rates to fall, show them what happens to their competition the day it does. Then tell them the truth. List into the quiet, not into the flood.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket #ListingStrategy #RealtorLife #SellersMarket #RealEstateAgent #ChicagoRealEstate #KeepingItRealPodcast
+**Hashtags:** #MortgageRates #HousingMarket #ListingStrategy #SellersMarket #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -93,16 +93,16 @@ Right now, higher rates are thinning your competition, and the buyers still look
 
 List into the quiet, not into the flood.
 
-**Hashtags:** #realestate #mortgagerates #housingmarket #sellersmarket #realtorlife #listingstrategy #realestateagent #chicagorealestate #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #mortgagerates #housingmarket #sellersmarket #listingstrategy #chicagorealestate
 
 ### TikTok
 **Caption:** Rates hit their highest since last August and sellers are freezing. Here's why that's exactly backwards.
-**Hashtags:** #realtortok #realestatetok #realtor #mortgagerates #housingmarket #realestatenews
+**Hashtags:** #realtortok #realestatetok #mortgagerates #housingmarket #realestatenews
 
 ### YouTube Shorts
 **Title:** Rates Hit Their Highest Since August. Sellers, Don't Wait.
 **Description:** Freddie Mac put the 30-year fixed at 6.51% last week, the highest since late August 2025. Most fence-sitting sellers read that as a reason to wait for rates to drop. D.J. Paris flips it: the day rates fall, every waiting seller lists at once and floods the market. Right now, higher rates are thinning the competition and the remaining buyers are serious. List into the quiet, not the flood.
-**Hashtags:** #shorts #realestate #mortgagerates #housingmarket #sellersmarket #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #mortgagerates #housingmarket #sellersmarket #realestatenews
 
 ### Facebook
 **Caption:**
@@ -116,7 +116,7 @@ Fewer homes to compete against. Only motivated buyers looking. That's a seller's
 
 List into the quiet, not into the flood.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket #SellersMarket #RealtorLife #ChicagoRealEstate
+**Hashtags:** #MortgageRates #HousingMarket #SellersMarket
 
 ### X (Twitter)
 **Caption:**
@@ -130,4 +130,4 @@ Right now = thin competition + serious buyers.
 
 List into the quiet.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket
+**Hashtags:** #MortgageRates #HousingMarket

@@ -107,7 +107,7 @@ Pull every fence-sitting buyer in your CRM who could qualify under those caps. S
 
 Make that call today, not Monday.
 
-**Hashtags:** #ChicagoRealEstate #HomeGrown #DownPaymentAssistance #FirstTimeHomeBuyer #ChicagoHousing #RealEstateAgent #BuyersAgent #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #ChicagoRealEstate #HomeGrown #DownPaymentAssistance #FirstTimeHomeBuyer #ChicagoHousing
 
 ### Instagram Reels
 **Caption:**
@@ -124,16 +124,16 @@ The agents who call their database before Monday are the ones who get clients in
 
 Pull your CRM. Send the text. Today, not Monday.
 
-**Hashtags:** #chicagorealestate #homegrown #downpaymentassistance #firsttimehomebuyer #chicagohousing #realestateagent #buyersagent #realtorlife #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #chicagorealestate #homegrown #downpaymentassistance #firsttimehomebuyer #chicagohousing
 
 ### TikTok
 **Caption:** Chicago is handing out grants up to $70K for home purchases. Launches Monday. Most buyers don't know yet. Here's the text every Chicago agent should send their database today.
-**Hashtags:** #realtortok #realestatetok #chicagorealestate #downpaymentassistance #firsttimehomebuyer #realestatenews
+**Hashtags:** #realtortok #chicagorealestate #downpaymentassistance #firsttimehomebuyer #realestatenews
 
 ### YouTube Shorts
 **Title:** Chicago's $70K Down Payment Grant Launches Monday June 8
 **Description:** The City of Chicago is launching the HomeGrown Purchase Assistance Program on Monday, June 8, handing out grants up to $70,000 toward home purchases in Zone A neighborhoods like Lincoln Park and Lake View, and up to $50,000 in Zone B neighborhoods like Englewood and Roseland. The $21 million program is expected to help 300 to 400 buyers in the first round. Income cap is $182,250 for a family of four, $127,650 for an individual. D.J. Paris on why every Chicago agent should call their database TODAY, not Monday, plus the exact text to send.
-**Hashtags:** #shorts #chicagorealestate #homegrown #downpaymentassistance #firsttimehomebuyer #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #chicagorealestate #homegrown #downpaymentassistance #firsttimehomebuyer
 
 ### Facebook
 **Caption:**
@@ -156,7 +156,7 @@ Pull every fence-sitting buyer in your CRM who could qualify. Send them this tex
 
 Make that call today, not Monday.
 
-**Hashtags:** #ChicagoRealEstate #HomeGrown #DownPaymentAssistance #FirstTimeHomeBuyer #ChicagoHousing #RealtorLife
+**Hashtags:** #ChicagoRealEstate #HomeGrown #DownPaymentAssistance
 
 ### X (Twitter)
 **Caption:**
@@ -172,7 +172,7 @@ Income cap: $182,250 family of 4 / $127,650 individual
 
 Call your database TODAY, not Monday.
 
-**Hashtags:** #ChicagoRealEstate #DownPaymentAssistance #FirstTimeHomeBuyer
+**Hashtags:** #ChicagoRealEstate #DownPaymentAssistance
 
 ## Notes for filming
 - "Monday" appears repeatedly as the urgency anchor. If filming on or after Monday June 8, the script no longer works as a "before launch" piece. Rewrite or shelve.

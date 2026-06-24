@@ -82,7 +82,7 @@ So list every AI tool you are paying for. Sort them into those four lanes. Any l
 
 The 72% figure is from the NAR 2025 Technology Survey.
 
-**Hashtags:** #RealEstate #AIforRealtors #RealEstateTech #Productivity #RealtorLife #RealEstateAgent #AItools #ChicagoRealEstate #KeepingItRealPodcast
+**Hashtags:** #AIforRealtors #RealEstateTech #Productivity #AItools #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -96,16 +96,16 @@ The winner in 2026 isn't the one with the most tools. It's the one who actually 
 
 (72% figure: NAR 2025 Technology Survey.)
 
-**Hashtags:** #realestate #aiforrealtors #realestatetech #productivity #realtorlife #realestateagent #aitools #chicagorealestate #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #aiforrealtors #realestatetech #productivity #aitools #chicagorealestate
 
 ### TikTok
 **Caption:** 72% of agents use AI daily. Most built a worse version of what they already had. Here's the one-tool-per-lane fix.
-**Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #realestatetech #realestatenews
+**Hashtags:** #realtortok #realestatetok #aiforrealtors #realestatetech #realestatenews
 
 ### YouTube Shorts
 **Title:** 72% of Agents Use AI Daily. Most Made Their Workflow Worse.
 **Description:** The NAR 2025 Technology Survey found 72% of agents use AI daily. The problem is not adoption. It is that most agents bolted on too many tools across too many functions with no system, and made their own workflow worse. D.J. Paris on the one-tool-per-lane rule across leads, content, scheduling, and transactions, plus the exact audit to run on your own stack today.
-**Hashtags:** #shorts #realestate #aiforrealtors #realestatetech #productivity #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #aiforrealtors #realestatetech #productivity #realestatenews
 
 ### Facebook
 **Caption:**
@@ -121,7 +121,7 @@ List every AI tool you're paying for. Sort them into those four lanes. Any lane 
 
 (72% figure: NAR 2025 Technology Survey.)
 
-**Hashtags:** #RealEstate #AIforRealtors #RealEstateTech #Productivity #RealtorLife #ChicagoRealEstate
+**Hashtags:** #AIforRealtors #RealEstateTech #Productivity
 
 ### X (Twitter)
 **Caption:**
@@ -136,4 +136,4 @@ Leads. Content. Scheduling. Transactions.
 
 Best tool for each. Learn the four you keep.
 
-**Hashtags:** #RealEstate #AIforRealtors #RealEstateTech
+**Hashtags:** #AIforRealtors #RealEstateTech

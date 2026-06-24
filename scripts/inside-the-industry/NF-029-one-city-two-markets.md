@@ -100,7 +100,7 @@ So before your next showing, pull two numbers on the listing. Days on market, an
 
 One city. Two markets. Know which one you are standing in.
 
-**Hashtags:** #RealEstate #Realtor #ChicagoRealEstate #Buyers #ListingAgent #RealEstate2026 #RealtorLife #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #ChicagoRealEstate #Buyers #ListingAgent #RealEstate2026 #BrokerageStrategy
 
 ### Instagram Reels
 **Caption:**
@@ -130,7 +130,7 @@ A quarter of Chicago homes go pending in under a week, and more than half of tho
 **Description:**
 About 25% of Chicago homes go pending in under 7 days and more than half of those sell above asking, while city inventory is down 28.8% year over year (2,981 homes, March 2026, Illinois Realtors) and the median price is $409,200, up 7.7%. D.J. Paris breaks down why Chicago is really two markets inside one city, and the two numbers every agent should pull before a showing: days on market and price cuts.
 
-**Hashtags:** #shorts #realestate #realtor #chicagorealestate #homebuyer #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #chicagorealestate #homebuyer #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -142,7 +142,7 @@ Your buyer falls for a listing that has sat a month, you have room and leverage.
 
 Before your next showing, pull two numbers. Days on market, and price cuts. Fast and clean, come strong. Slow and stale, come smart. Tell your buyer which one it is before you walk in.
 
-**Hashtags:** #RealEstate #Realtor #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #RealEstate #ChicagoRealEstate #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
@@ -156,7 +156,7 @@ Inventory is down almost 29%. Under 3,000 homes. Median price $409,200.
 
 Before your next showing, pull days on market and price cuts. Read the tier before your buyer falls in love.
 
-**Hashtags:** #RealEstate #ChicagoRealEstate #Realtor
+**Hashtags:** #RealEstate #ChicagoRealEstate
 
 ### Threads
 **Post:**

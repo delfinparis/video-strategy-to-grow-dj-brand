@@ -79,7 +79,7 @@ Every great negotiator I've had on the podcast does some version of this. Most h
 
 Next upset client, name it before you fix it.
 
-**Hashtags:** #RealEstate #Negotiation #RealtorLife #ChicagoRealEstate #Communication #ClientExperience #KeepingItRealPodcast #WhatActuallyWorks
+**Hashtags:** #Negotiation #ChicagoRealEstate #Communication #ClientExperience #WhatActuallyWorks
 
 ### Instagram Reels
 **Caption:**
@@ -111,7 +111,7 @@ When a seller is furious about a lowball offer, most agents defend the offer and
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #realtor #negotiation #communication #whatactuallyworks
+**Hashtags:** #shorts #realestate #negotiation #communication #whatactuallyworks
 
 ### Facebook
 **Caption:**
@@ -127,7 +127,7 @@ Watch their shoulders drop. Then you negotiate, with a person who can finally he
 
 Name it before you fix it.
 
-**Hashtags:** #RealEstate #Negotiation #Communication #RealtorLife
+**Hashtags:** #RealEstate #Negotiation #Communication
 
 ### X (Twitter)
 **Caption:**

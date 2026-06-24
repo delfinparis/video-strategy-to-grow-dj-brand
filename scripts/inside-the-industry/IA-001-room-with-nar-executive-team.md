@@ -77,7 +77,7 @@ They're not in a bunker. They're in a listening posture. That's a very different
 
 I'll be sharing more from inside this relationship in the weeks ahead.
 
-**Hashtags:** #RealEstate #NAR #Leadership #RealEstateIndustry #ChicagoRealEstate #RealtorLife
+**Hashtags:** #RealEstate #NAR #Leadership #RealEstateIndustry #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -111,7 +111,7 @@ NAR invited D.J. Paris to an influencer event as one of only a dozen content cre
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #realtor #realestatenews #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #nar #realestatenews #insidetheindustry #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -127,7 +127,7 @@ That told me something. NAR is moving through the biggest operational reset in i
 
 They're not in a bunker. They're in a listening posture. That's a different organization than a lot of agents assume.
 
-**Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
+**Hashtags:** #RealEstate #NAR #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**

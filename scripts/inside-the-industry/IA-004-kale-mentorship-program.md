@@ -77,7 +77,7 @@ I have interviewed 700 agents on the Keeping It Real Podcast, and the ones who b
 
 That is what our mentors do at Kale. And it is why this program matters.
 
-**Hashtags:** #RealEstate #Mentorship #KaleRealty #ChicagoRealEstate #RealEstateLeadership #RealtorLife
+**Hashtags:** #RealEstate #Mentorship #KaleRealty #ChicagoRealEstate #RealEstateLeadership
 
 ### Instagram Reels
 **Caption (compact, expand before posting):**

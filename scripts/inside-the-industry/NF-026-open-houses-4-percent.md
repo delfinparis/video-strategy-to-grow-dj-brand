@@ -124,7 +124,7 @@ Three. Track every open house intentionally. Who came. What they said. Who lives
 
 Open houses sell four percent of homes. They build the next four years of your business. Run them for that.
 
-**Hashtags:** #RealEstate #Realtor #OpenHouse #ListingAgent #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #OpenHouse #ListingAgent #ChicagoRealEstate #RealEstate2026 #BrokerageStrategy
 
 ### Instagram Reels
 **Caption:**
@@ -162,7 +162,7 @@ Open houses sell four percent of homes. They build the next four years of your b
 **Description:**
 NAR's 2025 Profile of Home Buyers and Sellers found that only 4% of buyers find their home through an open house or yard sign, while 52% find it online. D.J. Paris breaks down why open houses aren't a buyer-acquisition tool, what they actually generate (feedback, neighbor relationships, future listings), and three plays every listing agent should run this week.
 
-**Hashtags:** #shorts #realestate #realtor #openhouse #listingagent #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #openhouse #listingagent #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -184,7 +184,7 @@ Three. Track every open house intentionally. Who came. Who lives nearby. The rel
 
 Open houses sell four percent of homes. They build the next four years of your business.
 
-**Hashtags:** #RealEstate #Realtor #OpenHouse #ListingAgent #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #OpenHouse #ListingAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -198,7 +198,7 @@ Open houses aren't a buyer-acquisition tool. They're a showing tool for buyers w
 
 The actual ROI: feedback on price, neighbor relationships, future listings. Run them for that.
 
-**Hashtags:** #RealEstate #OpenHouse #Realtor
+**Hashtags:** #RealEstate #OpenHouse
 
 ### Threads
 **Post:**

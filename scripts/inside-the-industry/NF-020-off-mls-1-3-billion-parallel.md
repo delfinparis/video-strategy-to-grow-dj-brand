@@ -104,7 +104,7 @@ Two. Will you represent the buyer side if your buyer wants to write on this list
 
 When the agent narrows the buyer pool, the seller pays. The data just put price tags on both ways it happens.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #PrivateListings #BrokerageStrategy #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #ListingAgent
+**Hashtags:** #DualAgency #PrivateListings #BrokerageStrategy #ChicagoRealEstate #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -138,7 +138,7 @@ Dual agency cost sellers $1.5 billion. Off-MLS listings cost them another $1.3 b
 **Description:**
 Zillow released a study on May 14, 2026 with two parallel findings from the same 15-million-transaction dataset. Sellers in dual-agency deals lost $1.49 billion over three years. Sellers in off-MLS deals lost another $1.3 billion. D.J. Paris breaks down the common thread (buyer-pool restriction) and the two questions every agent should answer before their next listing presentation.
 
-**Hashtags:** #shorts #realestate #realtor #dualagency #privatelistings #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #dualagency #privatelistings #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -156,7 +156,7 @@ Two. Will you represent the buyer side if your buyer wants to write? If yes, the
 
 When the agent narrows the buyer pool, the seller pays.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #PrivateListings #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #DualAgency #PrivateListings #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -174,7 +174,7 @@ Two questions before your next listing presentation:
 
 Each one has a price tag now.
 
-**Hashtags:** #RealEstate #DualAgency #PrivateListings
+**Hashtags:** #DualAgency #PrivateListings
 
 ### Threads
 **Post:**

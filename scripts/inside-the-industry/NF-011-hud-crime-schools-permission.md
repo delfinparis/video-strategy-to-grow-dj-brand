@@ -98,7 +98,7 @@ You just stopped ducking the question that has made every buyer consultation fee
 
 For Chicago agents, the two I'd point to are data.cityofchicago.org for crime and illinoisreportcard.com for schools. Hand them to your buyer. Let the data do the work.
 
-**Hashtags:** #RealEstate #FairHousing #BuyerAgent #ChicagoRealEstate #RealtorLife #HUD #NAR #RealEstate2026 #InsideTheIndustry #KeepingItRealPodcast
+**Hashtags:** #FairHousing #BuyerAgent #ChicagoRealEstate #HUD #NAR
 
 ### Instagram Reels
 **Caption:**
@@ -130,7 +130,7 @@ D.J. Paris on the nuance most agents are about to miss. HUD said the data is fin
 
 The play: build a one-page buyer resource with public crime dashboard data and state school report card data. Hand it to every buyer at the start of every search. Stop ducking the question without crossing the line.
 
-**Hashtags:** #shorts #realestate #fairhousing #hud #nar #buyeragent #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #fairhousing #hud #nar #buyeragent
 
 ### Facebook
 **Caption:**
@@ -148,7 +148,7 @@ The play: build a one-page buyer resource. Crime stats from your local police de
 
 You just stopped ducking it. Without crossing the line.
 
-**Hashtags:** #RealEstate #FairHousing #BuyerAgent #ChicagoRealEstate #RealtorLife #HUD
+**Hashtags:** #FairHousing #BuyerAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -161,4 +161,4 @@ School ratings yes. "I wouldn't send my kid there" no.
 
 Build a one-page buyer resource. Hand it to every buyer. Stop ducking. Don't cross the line.
 
-**Hashtags:** #RealEstate #FairHousing #HUD
+**Hashtags:** #FairHousing #HUD

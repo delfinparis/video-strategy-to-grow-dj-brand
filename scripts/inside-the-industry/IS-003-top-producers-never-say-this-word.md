@@ -76,7 +76,7 @@ Here is the exercise. Record yourself describing your best deal of the last year
 
 That is one pattern from 700 interviews. There is a whole catalog.
 
-**Hashtags:** #RealEstate #Leadership #TopProducers #RealtorLife #ChicagoRealEstate #KeepingItRealPodcast #ClientExperience
+**Hashtags:** #Leadership #TopProducers #ChicagoRealEstate #KeepingItRealPodcast #ClientExperience
 
 ### Instagram Reels
 **Caption:**
@@ -112,7 +112,7 @@ D.J. Paris has interviewed 700+ real estate agents on Keeping It Real Podcast. A
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #realtor #topproducers #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #realestate #topproducers #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
@@ -134,7 +134,7 @@ Top producers have stopped talking about their job and started talking about the
 
 Here's the exercise: record yourself describing your best deal of the year. Count the "I"s and the "they"s. The ratio is a diagnostic.
 
-**Hashtags:** #RealEstate #TopProducers #ClientExperience #RealtorLife
+**Hashtags:** #RealEstate #TopProducers #ClientExperience
 
 ### X (Twitter)
 **Caption:**

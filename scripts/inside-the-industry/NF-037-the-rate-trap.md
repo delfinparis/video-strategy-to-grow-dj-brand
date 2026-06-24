@@ -92,7 +92,7 @@ Say this instead. "We're not buying a rate. We're buying a home you can afford t
 
 Before the June 17 Fed meeting hands your buyers more false hope, call every fence-sitter and run their numbers at today's rate. If the home works, the only thing costing them is the wait.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket #BuyersAgent #RealtorLife #RealEstateAgent #HomeBuying #ChicagoRealEstate #KeepingItRealPodcast
+**Hashtags:** #MortgageRates #HousingMarket #BuyersAgent #HomeBuying #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -104,16 +104,16 @@ The five your buyer wants isn't getting closer. It's drifting away.
 
 Stop telling them to date the rate and marry the house. Say this instead: "We're not buying a rate. We're buying a home you can afford today. If rates fall, you refinance and win. If they rise, you already locked the best deal on the table."
 
-**Hashtags:** #realestate #mortgagerates #housingmarket #buyersagent #realtorlife #realestateagent #homebuying #chicagorealestate #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #mortgagerates #housingmarket #buyersagent #homebuying #chicagorealestate
 
 ### TikTok
 **Caption:** Your buyers are waiting for 5% rates. Every signal just moved the other way. Here's the updated script to use with fence-sitters.
-**Hashtags:** #realtortok #realestatetok #realtor #mortgagerates #housingmarket #realestatenews
+**Hashtags:** #realtortok #realestatetok #mortgagerates #housingmarket #realestatenews
 
 ### YouTube Shorts
 **Title:** The Rate Trap: Stop Letting Buyers Wait for 5%
 **Description:** Buyers are waiting for mortgage rates to drop to five percent, but every signal just moved the other way. The 30-year fixed hit 6.59% this week, the highest since August. Inflation is back at 3.8%, mortgage rates follow inflation not the Fed, and even the Fed is now more likely to hike than cut before year-end. D.J. Paris retires the "date the rate, marry the house" line and gives agents the updated script for fence-sitting buyers before the Fed meets June 17.
-**Hashtags:** #shorts #realestate #mortgagerates #housingmarket #buyersagent #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #mortgagerates #housingmarket #buyersagent #realestatenews
 
 ### Facebook
 **Caption:**
@@ -127,7 +127,7 @@ Say this instead. "We're not buying a rate. We're buying a home you can afford t
 
 Before the June 17 Fed meeting hands your buyers more false hope, call every fence-sitter and run their numbers at today's rate. If the home works, the only thing costing them is the wait.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket #BuyersAgent #RealtorLife #ChicagoRealEstate
+**Hashtags:** #MortgageRates #HousingMarket #BuyersAgent
 
 ### X (Twitter)
 **Caption:**
@@ -137,4 +137,4 @@ Every signal just moved the other way. 30-year hit 6.59% (highest since August).
 
 Stop saying "date the rate, marry the house." It promises a drop nobody can promise anymore.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket
+**Hashtags:** #MortgageRates #HousingMarket

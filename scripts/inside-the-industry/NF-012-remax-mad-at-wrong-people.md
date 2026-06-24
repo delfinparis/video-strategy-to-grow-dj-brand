@@ -108,7 +108,7 @@ The choice is not "stay or go." The choice is whether you keep paying into franc
 
 That is the question this deal actually puts on the table. Real did not put it there. RE/MAX did.
 
-**Hashtags:** #RealEstate #REMAX #RealBrokerage #BrokerageNews #RealEstate2026 #BrokerageConsolidation #ChicagoRealEstate #InsideTheIndustry #KeepingItRealPodcast
+**Hashtags:** #REMAX #RealBrokerage #BrokerageNews #RealEstate2026 #BrokerageConsolidation
 
 ### Instagram Reels
 **Caption:**
@@ -144,7 +144,7 @@ The $880M flowed to RE/MAX Holdings shareholders. Agents at RE/MAX-affiliated fr
 
 The take: stop being mad at Real. Real wrote a check. Be mad at the people who took it without telling you the franchise was for sale. Aim your anger up. Not sideways.
 
-**Hashtags:** #shorts #realestate #remax #realbrokerage #brokeragenews #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #remax #realbrokerage #brokeragenews #realestatenews
 
 ### Facebook
 **Caption:**
@@ -162,7 +162,7 @@ The buyer did not do this to you. The seller did. And the seller did not sell be
 
 Stop being mad at Real. Real wrote a check. Be mad at the people who took it without telling you the franchise was for sale. Aim your anger up. Not sideways.
 
-**Hashtags:** #RealEstate #REMAX #RealBrokerage #BrokerageNews #ChicagoRealEstate
+**Hashtags:** #REMAX #RealBrokerage #BrokerageNews
 
 ### X (Twitter)
 **Caption:**
@@ -174,4 +174,4 @@ RE/MAX agents are mad at Real for buying. They should be mad at corporate for se
 
 Aim your anger up. Not sideways.
 
-**Hashtags:** #RealEstate #REMAX #RealBrokerage
+**Hashtags:** #REMAX #RealBrokerage

@@ -100,7 +100,7 @@ Two. Learn the refinance math cold, so you can tell a buyer the truth. Today's r
 
 Date the rate is real. Assume the loan is mostly myth. The agent who knows the difference gets paid.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #MortgageRates #ListingAgent
+**Hashtags:** #HousingMarket #ChicagoRealEstate #RealEstate2026 #MortgageRates #ListingAgent
 
 ### Instagram Reels
 **Caption:**
@@ -134,7 +134,7 @@ Date the rate is real. Assume the loan is mostly myth.
 **Description:**
 "Marry the house, date the rate" is the most repeated line in real estate, and half of it is fantasy. The real half: ICE counted 4.8 million homeowners who could already refinance into a lower rate by early 2026, so a buyer who overpays today isn't locked in forever. The fairy-tale half: assuming a seller's low loan only works on government-backed loans and only if the buyer covers the equity in cash. D.J. Paris sorts the real lever from the Facebook-comment strategy and gives two moves every agent can make this week.
 
-**Hashtags:** #shorts #realestate #housingmarket #mortgagerates #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #listingagent
+**Hashtags:** #shorts #housingmarket #mortgagerates #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -152,7 +152,7 @@ Two. Learn the refinance math cold, so you can tell a buyer the truth. Today's r
 
 Date the rate is real. Assume the loan is mostly myth.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #MortgageRates #RealEstate2026
+**Hashtags:** #HousingMarket #ChicagoRealEstate #MortgageRates
 
 ### X (Twitter)
 **Caption:**
@@ -164,7 +164,7 @@ Fairy tale: "just assume their 3 percent loan." Only works on FHA/VA loans, and 
 
 The agent who knows the difference gets paid.
 
-**Hashtags:** #RealEstate #HousingMarket #MortgageRates
+**Hashtags:** #HousingMarket #MortgageRates
 
 ### Threads
 **Post:**

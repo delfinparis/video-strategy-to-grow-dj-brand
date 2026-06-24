@@ -106,7 +106,7 @@ Here is what you do now.
 
 That's the whole system. No spend. Just the doorstep.
 
-**Hashtags:** #RealEstate #RealtorTips #RealEstateMarketing #RealEstateAgent #RealtorLife #SphereOfInfluence #PopBys #RealEstateCoaching #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #SphereOfInfluence #PopBys #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
@@ -132,16 +132,16 @@ Here's the starter system.
 
 That's the whole thing.
 
-**Hashtags:** #realestate #realtortips #realestatemarketing #realestateagent #realtorlife #sphereofinfluence #popbys #realestatecoaching #chicagorealestate #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #sphereofinfluence #popbys #chicagorealestate #keepingitrealpodcast #insidetheindustry
 
 ### TikTok
 **Caption:** A Kansas City agent grew her business 74% a year for 5 years on near-zero ad spend. Her tactic is the one most agents quit using. Here's the 4-step Saturday playbook.
-**Hashtags:** #realtortok #realestatetok #realtor #realtortips #popbys #realestatemarketing
+**Hashtags:** #realtortok #realestatetok #realtor #realtortips #popbys
 
 ### YouTube Shorts
 **Title:** She Grew 74% a Year. She Spent Nearly Nothing.
 **Description:** Rachel Kilmer, a Kansas City agent profiled in Inman on June 21, 2026, averaged 74% year-over-year business growth in her first five years with almost no spend on paid lead generation. No Zillow. No Facebook ads. Her business is built on pop-bys, a hand-delivered seasonal gift to a past client with no transaction ask attached. D.J. Paris on why the tactic most agents quit using when CRM automation arrived is the one Rachel's whole business is built on, and the four-step Saturday playbook every agent can run this weekend.
-**Hashtags:** #shorts #realestate #realtortips #realestatemarketing #popbys #sphereofinfluence #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #popbys #sphereofinfluence #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
@@ -167,7 +167,7 @@ Here is the starter system.
 
 That's the whole thing. No spend. Just the doorstep.
 
-**Hashtags:** #RealEstate #RealtorTips #RealEstateMarketing #PopBys #SphereOfInfluence #RealtorLife
+**Hashtags:** #RealEstate #PopBys #SphereOfInfluence
 
 ### X (Twitter)
 **Caption:**
@@ -179,4 +179,4 @@ The reason isn't the gift. It's the doorstep.
 
 10 past clients. One seasonal item. 4 hours Saturday. Repeat in 3 months.
 
-**Hashtags:** #RealEstate #RealtorTips #PopBys
+**Hashtags:** #RealEstate #PopBys

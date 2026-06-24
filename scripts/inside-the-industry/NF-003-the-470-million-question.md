@@ -81,7 +81,7 @@ The answer matters for every dues-paying member. D.J. Paris breaks down the math
 
 More real estate industry analysis on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #realtor #narssettlement #realestatenews #realestate2026 #commissions #keepingitrealpodcast
+**Hashtags:** #shorts #nar #narssettlement #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -97,7 +97,7 @@ Is it a lot of money? Absolutely. Is it worth it? That's a question every agent 
 
 An informed member is a better member. Now you're informed.
 
-**Hashtags:** #RealEstate #NAR #Commissions #RealtorLife #ChicagoRealEstate
+**Hashtags:** #NAR #Commissions #ChicagoRealEstate
 
 ### LinkedIn
 **Caption:**
@@ -115,7 +115,7 @@ Whether you view this as a necessary investment in litigation protection or an u
 
 I break down industry shifts like this on the Keeping It Real Podcast.
 
-**Hashtags:** #RealEstate #NAR #RealEstateLaw #Industry #Leadership #Commissions
+**Hashtags:** #NAR #RealEstateLaw #Industry #Leadership #Commissions
 
 ### X (Twitter)
 **Caption:**
@@ -127,4 +127,4 @@ But without it? Potential damages in the tens of BILLIONS.
 
 Know what you're paying for.
 
-**Hashtags:** #RealEstate #NAR #Commissions
+**Hashtags:** #NAR #Commissions

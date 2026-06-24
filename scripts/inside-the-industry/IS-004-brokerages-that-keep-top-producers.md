@@ -84,7 +84,7 @@ Most agents never notice the difference until they land at one that actually get
 
 That is 700 interviews in one observation.
 
-**Hashtags:** #RealEstate #RealEstateLeadership #BrokerageCulture #TopProducers #ChicagoRealEstate #KeepingItRealPodcast
+**Hashtags:** #RealEstateLeadership #BrokerageCulture #TopProducers #ChicagoRealEstate #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption (compact, expand before posting):**

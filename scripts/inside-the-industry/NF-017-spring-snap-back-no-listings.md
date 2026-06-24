@@ -123,7 +123,7 @@ Three. Call past clients you haven't talked to in a year. Send them what just so
 
 The spring market won't wait. Fill your pipeline this week. Or watch the next ninety days move past you.
 
-**Hashtags:** #RealEstate #Realtor #ListingAgent #SpringMarket #HousingMarket #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #Prospecting
+**Hashtags:** #ListingAgent #SpringMarket #HousingMarket #ChicagoRealEstate #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -159,7 +159,7 @@ If you don't have listings right now, you're losing. Pending sales just hit a th
 **Description:**
 Pending home sales just hit a three-year high. Search demand for "homes for sale" is up over 20% year over year. The 30-year mortgage rate dropped below where it was a year ago. The spring market is here. The agents with listings win this week. The agents without watch the next 90 days from the sidelines. D.J. Paris breaks down three plays every agent should run this week if their listing pipeline is empty.
 
-**Hashtags:** #shorts #realestate #realtor #springmarket #listingagent #housingmarket #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #springmarket #listingagent #housingmarket #realestatenews
 
 ### Facebook
 **Caption:**
@@ -179,7 +179,7 @@ Three. Call past clients you haven't talked to in a year. Send them what just so
 
 The spring market won't wait. Fill your pipeline this week. Or watch the next ninety days move past you.
 
-**Hashtags:** #RealEstate #Realtor #ListingAgent #SpringMarket #HousingMarket #RealtorLife #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #ListingAgent #SpringMarket #HousingMarket
 
 ### X (Twitter)
 **Caption:**
@@ -197,7 +197,7 @@ Three plays this week:
 
 Fill your pipeline this week.
 
-**Hashtags:** #RealEstate #Realtor #ListingAgent
+**Hashtags:** #RealEstate #ListingAgent
 
 ### Threads
 **Post:**

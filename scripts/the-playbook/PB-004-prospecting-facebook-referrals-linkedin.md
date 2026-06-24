@@ -99,7 +99,7 @@ That's where your referrals are hiding.
 
 The Playbook. Episode 4. Every Wednesday.
 
-**Hashtags:** #RealEstate #LinkedInForRealtors #Referrals #Relocation #ChicagoRealEstate #ThePlaybook
+**Hashtags:** #LinkedInForRealtors #Referrals #Relocation #ChicagoRealEstate #ThePlaybook
 
 ### Personal Facebook
 You're prospecting on Facebook. The agent about to take your next relocation referral is working LinkedIn.
@@ -114,7 +114,7 @@ Most agents miss the mechanic. A post only reaches people who already follow you
 
 Tomorrow, before you open Facebook, open LinkedIn and leave ten real comments. That is where your referrals are hiding.
 
-**Hashtags:** #RealEstate #LinkedInForRealtors #Relocation #ChicagoRealEstate #ThePlaybook
+**Hashtags:** #LinkedInForRealtors #Relocation #ChicagoRealEstate
 
 ### Personal Instagram (Reel)
 The Playbook Ep 4: You're prospecting on Facebook. Your referrals are on LinkedIn.
@@ -144,7 +144,7 @@ The Playbook Ep 4. You're prospecting on Facebook. Your referrals are on LinkedI
 **Description:**
 Episode 4 of The Playbook. Almost nine in ten agents are on Facebook. Fewer than half are even on LinkedIn (NAR 2024 Technology Survey). The agents winning relocation and high-end referrals work LinkedIn daily, and the lever is commenting, not just posting. Here's the exact play. New Playbook every Wednesday.
 
-**Hashtags:** #shorts #realestate #realtor #linkedinforrealtors #relocation #thePlaybook #keepingitrealpodcast
+**Hashtags:** #shorts #linkedinforrealtors #relocation #thePlaybook #keepingitrealpodcast
 
 ### X (Twitter)
 You're prospecting on Facebook. The agent about to take your next relocation referral is working LinkedIn.
@@ -153,7 +153,7 @@ Almost nine in ten agents are on Facebook. Fewer than half are even on LinkedIn 
 
 The play: comment on ten to fifteen professional posts every morning. The commenting is the move, not the posting.
 
-**Hashtags:** #RealEstate #LinkedInForRealtors #Relocation #ThePlaybook
+**Hashtags:** #LinkedInForRealtors #Relocation
 
 ## AI Music Prompt
 

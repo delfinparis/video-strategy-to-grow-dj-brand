@@ -78,7 +78,7 @@ Here is the line to remember. Generative AI makes you faster at a task. Agentic 
 
 So the next time a CRM tries to sell you AI, ask one question. Does it wait for me, or does it act without me? If it only waits, you already have that on your phone for free.
 
-**Hashtags:** #RealEstate #AIforRealtors #AgenticAI #RealEstateTech #CRM #RealtorLife #RealEstateAgent #ProptTech #KeepingItRealPodcast
+**Hashtags:** #AIforRealtors #AgenticAI #RealEstateTech #CRM #ProptTech
 
 ### Instagram Reels
 **Caption:**
@@ -94,16 +94,16 @@ The line to remember: generative AI makes you faster at a task. Agentic AI does 
 
 Next CRM that sells you AI, ask: does it wait for me, or act without me?
 
-**Hashtags:** #realestate #aiforrealtors #agenticai #realestatetech #crm #realtorlife #realestateagent #proptech #keepingitrealpodcast #insidetheindustry #aitools
+**Hashtags:** #aiforrealtors #agenticai #realestatetech #crm #proptech
 
 ### TikTok
 **Caption:** Two kinds of AI in your business. One waits for you. One works while you're showing homes. Most agents only have the first.
-**Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #agenticai #realestatetech
+**Hashtags:** #realtortok #realestatetok #aiforrealtors #agenticai #realestatetech
 
 ### YouTube Shorts
 **Title:** Two Kinds of AI. Most Agents Only Have the Wrong One.
 **Description:** There are two kinds of AI in real estate right now. Generative AI (ChatGPT, Claude) waits for you to prompt it. Agentic AI watches your database and acts on its own, surfacing leads, sending follow-ups, and flagging seller prospects without being asked. Lofty launched an agentic operating system for real estate in February 2026, and more are coming. D.J. Paris on the one question to ask the next CRM that tries to sell you AI.
-**Hashtags:** #shorts #realestate #aiforrealtors #agenticai #realestatetech #crm #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #aiforrealtors #agenticai #realestatetech #crm
 
 ### Facebook
 **Caption:**
@@ -117,7 +117,7 @@ Lofty launched one for real estate in February. More are coming, and they'll pit
 
 Next time a CRM tries to sell you AI, ask one question. Does it wait for me, or does it act without me? If it only waits, you've already got that on your phone for free.
 
-**Hashtags:** #RealEstate #AIforRealtors #AgenticAI #RealEstateTech #RealtorLife #ChicagoRealEstate
+**Hashtags:** #AIforRealtors #AgenticAI #RealEstateTech
 
 ### X (Twitter)
 **Caption:**
@@ -129,4 +129,4 @@ Agentic: watches your database, acts on its own. Lofty launched one for real est
 
 Generative makes you faster. Agentic does the task you forgot.
 
-**Hashtags:** #RealEstate #AIforRealtors #AgenticAI
+**Hashtags:** #AIforRealtors #AgenticAI

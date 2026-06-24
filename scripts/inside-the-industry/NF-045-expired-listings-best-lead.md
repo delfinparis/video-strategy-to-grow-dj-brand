@@ -94,7 +94,7 @@ Pull every listing in your market that expired in the last 60 days. Open with th
 
 That gets you to the kitchen table.
 
-**Hashtags:** #RealEstate #Prospecting #ExpiredListings #ListingAgent #RealEstateAgent #RealtorLife #RealEstateCoaching #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #Prospecting #ExpiredListings #ListingAgent #ChicagoRealEstate #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
@@ -110,16 +110,16 @@ Pull every listing that expired in your market in the last 60 days. Open with th
 
 "I know your home just came off the market and the last few months were probably frustrating. I'm not calling to sign you up today. I'm calling because I want to understand what happened so the next agent you talk to doesn't make the same mistakes."
 
-**Hashtags:** #realestate #prospecting #expiredlistings #listingagent #realestateagent #realtorlife #realestatecoaching #chicagorealestate #keepingitrealpodcast #insidetheindustry #realtortips
+**Hashtags:** #prospecting #expiredlistings #listingagent #chicagorealestate #keepingitrealpodcast
 
 ### TikTok
 **Caption:** Expired listings convert at 44% list rate, highest of any lead type. Most agents won't call. Here's the exact opener that gets you to the kitchen table.
-**Hashtags:** #realtortok #realestatetok #realtor #prospecting #expiredlistings #realtortips
+**Hashtags:** #realtortok #realestatetok #realtor #prospecting #expiredlistings
 
 ### YouTube Shorts
 **Title:** Expired Listings: The Best Lead Nobody Calls
 **Description:** REDX 2026 data puts expired listings at a 44% list rate and 20.7% sold rate, the highest of any lead type in real estate, with about a 30-day average cycle from first call to signed listing. Most agents skip the call because the conversation feels awkward. That discomfort is the moat. D.J. Paris on the seller psychology that makes expireds convert, why late spring is the seasonal window, and the exact opener that gets you to the kitchen table.
-**Hashtags:** #shorts #realestate #prospecting #expiredlistings #listingagent #realtortips #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #prospecting #expiredlistings #listingagent #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -137,7 +137,7 @@ Pull every listing in your market that expired in the last 60 days. Open with th
 
 That gets you to the kitchen table.
 
-**Hashtags:** #RealEstate #Prospecting #ExpiredListings #ListingAgent #RealtorLife #ChicagoRealEstate
+**Hashtags:** #Prospecting #ExpiredListings #ListingAgent
 
 ### X (Twitter)
 **Caption:**
@@ -149,4 +149,4 @@ Most agents won't call.
 
 The discomfort is the moat. Cold leads don't know they need help. FSBOs think they don't. Expireds know they do.
 
-**Hashtags:** #RealEstate #Prospecting #ExpiredListings
+**Hashtags:** #Prospecting #ExpiredListings

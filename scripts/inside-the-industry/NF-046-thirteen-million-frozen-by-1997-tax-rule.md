@@ -98,7 +98,7 @@ So here's what you do now. Pull up your database, find one owner who's owned the
 
 Thirteen million people think the door is closed. For a lot of them, it isn't.
 
-**Hashtags:** #RealEstate #CapitalGains #ListingAgent #RealEstateTax #ChicagoRealEstate #InsideTheIndustry #NAR #Redfin
+**Hashtags:** #CapitalGains #ListingAgent #RealEstateTax #ChicagoRealEstate #NAR
 
 ### Instagram Reels
 **Caption:**
@@ -116,7 +116,7 @@ Next time you're with a longtime homeowner, ask one question. Have you run the n
 ### TikTok
 **Caption:**
 13 million homeowners feel stuck. Not because of rates. Because of a 1997 tax rule. Here's the one question that gets them talking.
-**Hashtags:** #realtortok #realestatetok #realtor #capitalgains #realestatetax #homeselling #realestatenews
+**Hashtags:** #realtortok #capitalgains #realestatetax #homeselling #realestatenews
 
 ### YouTube Shorts
 **Title:** Thirteen Million Homeowners Are Stuck. A 1997 Tax Rule Is Why.
@@ -128,7 +128,7 @@ Sources: National Association of Realtors and Realtor.com (2026), Redfin (2025),
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #capitalgains #listingagent #realestatetax #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #capitalgains #listingagent #realestatetax #insidetheindustry
 
 ### Facebook
 **Caption:**
@@ -142,7 +142,7 @@ Here's what you do now. Pull up your database, find one owner who's owned their 
 
 Thirteen million people think the door is closed. For a lot of them, it isn't.
 
-**Hashtags:** #RealEstate #CapitalGains #ListingAgent #ChicagoRealEstate #HomeSelling
+**Hashtags:** #CapitalGains #ListingAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -152,4 +152,4 @@ Sell your primary home, you shield $250K in gains single, $500K married. Congres
 
 The move: ask a longtime owner if they've run the tax math on selling. Most never have.
 
-**Hashtags:** #RealEstate #CapitalGains #ListingAgent
+**Hashtags:** #CapitalGains #ListingAgent

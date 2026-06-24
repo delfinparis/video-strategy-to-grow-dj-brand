@@ -86,7 +86,7 @@ When that call comes in, ask one question back. Do you want privacy, or do you w
 
 Don't let a billboard set your seller's strategy.
 
-**Hashtags:** #RealEstate #Zillow #Compass #PrivateListings #ChicagoRealEstate #MRED #RealEstateLaw #RealtorLife #ListingStrategy #KeepingItRealPodcast
+**Hashtags:** #Zillow #Compass #PrivateListings #ChicagoRealEstate #MRED
 
 ### Instagram Reels
 **Caption:**
@@ -98,16 +98,16 @@ A private listing helps a seller in one case. When privacy is worth more than mo
 
 Ask your seller one thing. Privacy, or the highest price? If they say price, you list it everywhere.
 
-**Hashtags:** #realestate #zillow #compass #privatelistings #chicagorealestate #mred #realtorlife #listingstrategy #realestateagent #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #zillow #compass #privatelistings #chicagorealestate #mred
 
 ### TikTok
 **Caption:** Your seller saw a billboard saying Zillow doesn't have all the listings. Here's the no-agenda answer on private listings.
-**Hashtags:** #realtortok #realestatetok #realtor #zillow #compass #chicagorealestate #realestatenews
+**Hashtags:** #realtortok #zillow #compass #chicagorealestate #realestatenews
 
 ### YouTube Shorts
 **Title:** Your Seller Saw a Compass Billboard. Here's What to Say.
 **Description:** Zillow, Compass, and the Chicago MLS are in a federal lawsuit over private listings, and Compass is running billboards telling consumers Zillow doesn't have all the listings. Thousands of Chicago homes went dark on Zillow before a judge ordered most restored. Your sellers are confused and calling. D.J. Paris gives the straight, no-agenda broker take on when a private listing helps a seller and when it costs them.
-**Hashtags:** #shorts #realestate #zillow #compass #privatelistings #chicagorealestate #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #zillow #compass #privatelistings #chicagorealestate
 
 ### Facebook
 **Caption:**
@@ -121,7 +121,7 @@ When that call comes in, ask one question back. Do you want privacy, or do you w
 
 Don't let a billboard set your seller's strategy.
 
-**Hashtags:** #RealEstate #Zillow #Compass #ChicagoRealEstate #PrivateListings #RealtorLife
+**Hashtags:** #Zillow #Compass #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -133,4 +133,4 @@ The no-agenda answer: private listings help in ONE case, when privacy beats mone
 
 Ask them: privacy, or top dollar?
 
-**Hashtags:** #RealEstate #Zillow #Compass #ChicagoRealEstate
+**Hashtags:** #Zillow #Compass

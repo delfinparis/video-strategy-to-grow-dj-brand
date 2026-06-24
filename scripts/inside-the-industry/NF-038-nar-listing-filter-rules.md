@@ -99,7 +99,7 @@ This week, pull your MLS's IDX and VOW rules. Check whether users can filter by 
 
 If you have been running private exclusives, read NAR's clear cooperation clarifier before you do the next one.
 
-**Hashtags:** #RealEstate #NAR #MLS #RealEstateLaw #ListingStrategy #ChicagoRealEstate #BrokerageLaw #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #NAR #MLS #RealEstateLaw #ListingStrategy #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -111,16 +111,16 @@ If your MLS filters by any of those names, your MLS just got told to stop. The p
 
 Pull your MLS's IDX rules this week. Check whether users can filter by agent or brokerage name, or by compensation. If either, flag it.
 
-**Hashtags:** #realestate #nar #mls #realestatelaw #listingstrategy #chicagorealestate #realtorlife #realestateagent #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #nar #mls #realestatelaw #listingstrategy #chicagorealestate
 
 ### TikTok
 **Caption:** NAR just published rules on how your MLS can filter listings. Two days ago. Here's what they say and the exact check to run on your MLS this week.
-**Hashtags:** #realtortok #realestatetok #realtor #nar #realestatelaw #realestatenews
+**Hashtags:** #realtortok #realestatetok #nar #realestatelaw #realestatenews
 
 ### YouTube Shorts
 **Title:** NAR Just Published Rules on Who Controls Your Listings
 **Description:** Two days after a federal lawsuit named Chicago's MLS in the Compass vs Zillow private-listings fight, NAR released three resources clarifying Policy 8.5 and the Clear Cooperation Policy. The short version: MLSs can filter listings by objective criteria like geography, price, and property type, but cannot filter by agent name, brokerage name, or compensation offers. And one-to-one broker conversations now have a sharper line on when they cross into public marketing. D.J. Paris on the exact check to run on your MLS's IDX and VOW rules this week.
-**Hashtags:** #shorts #realestate #nar #mls #realestatelaw #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #nar #mls #realestatelaw #realestatenews
 
 ### Facebook
 **Caption:**
@@ -134,7 +134,7 @@ This week, pull your MLS's IDX and VOW rules. Check whether users can filter by 
 
 If you've been running private exclusives, read NAR's clear cooperation clarifier before you do the next one.
 
-**Hashtags:** #RealEstate #NAR #MLS #RealEstateLaw #ChicagoRealEstate #RealtorLife
+**Hashtags:** #NAR #MLS #RealEstateLaw
 
 ### X (Twitter)
 **Caption:**
@@ -147,4 +147,4 @@ And clear cooperation got a sharper line on when broker-to-broker conversations 
 
 The private-exclusive playbook just got narrower.
 
-**Hashtags:** #RealEstate #NAR #MLS #RealEstateLaw
+**Hashtags:** #NAR #MLS

@@ -61,7 +61,7 @@ Chicago agents do not need a bigger organization. They need a louder one. One th
 
 I will be saying more of those quiet parts out loud in this series.
 
-**Hashtags:** #RealEstate #NAR #ChicagoRealEstate #RealEstateLeadership #Industry #BrokerageConsolidation
+**Hashtags:** #NAR #ChicagoRealEstate #RealEstateLeadership #Industry #BrokerageConsolidation
 
 ### Instagram Reels
 **Caption:**
@@ -95,7 +95,7 @@ D.J. Paris has direct lines to NAR leadership following an invitation to their i
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #realtor #chicagorealestate #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #nar #chicagorealestate #insidetheindustry #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -111,7 +111,7 @@ Third. The agents thriving in Chicago right now are the ones with the most speci
 
 Chicago agents don't need a bigger organization. They need a louder one. One that says the quiet parts out loud.
 
-**Hashtags:** #RealEstate #NAR #ChicagoRealEstate #RealtorLife
+**Hashtags:** #RealEstate #NAR #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -123,4 +123,4 @@ If NAR called me today and asked what Chicago agents need, I'd say:
 
 Chicago needs a louder NAR, not a bigger one.
 
-**Hashtags:** #RealEstate #NAR #ChicagoRealEstate
+**Hashtags:** #NAR #ChicagoRealEstate
