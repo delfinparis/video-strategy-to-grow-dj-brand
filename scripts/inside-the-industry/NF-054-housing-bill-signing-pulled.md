@@ -27,10 +27,10 @@ editorial_note: "Per D.J.'s explicit instruction: keep entirely on market/invent
 ## Script (~70 seconds, walk and talk)
 
 ### HOOK (0:00-0:10)
-A housing supply bill that passed the Senate eighty-five to five was going to cap private equity in single-family homes and loosen the rules that block new building. Yesterday the signing was pulled.
+A housing supply bill just passed the Senate eighty-five to five. It was going to cap private equity in single-family homes and make it easier to build new homes. Yesterday the signing was pulled.
 
 ### CONTEXT (0:10-0:30)
-It's called the Twenty-First Century Road to Housing Act. The House passed it three hundred fifty-eight to thirty-two. It would have blocked the biggest institutional buyers from buying more single-family homes. It would have unlocked the permitting and zoning bottlenecks that keep new construction from getting built. The signing was set for noon yesterday. It got pulled before it happened.
+It's called the Twenty-First Century Road to Housing Act. The House passed it three hundred fifty-eight to thirty-two. It would have blocked the biggest institutional buyers from buying more single-family homes. It would have eased the federal permitting and zoning bottlenecks on new construction. The signing was set for noon. It got pulled.
 
 ### WHY IT MATTERS (0:30-0:48)
 For your buyers, more homes were coming. They're not anymore. Inventory was going to grow two ways. Fewer hedge funds buying, more new construction breaking ground. Both just paused. The buyer competing with three institutional offers in your zip code is still competing with three institutional offers next quarter.
@@ -90,13 +90,13 @@ Here's what you do now. Every buyer in your pipeline deserves a five-minute call
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-A housing supply bill that passed the Senate 85 to 5 and the House 358 to 32 was going to cap private equity in single-family homes and loosen the rules that block new building. Yesterday the signing was pulled.
+A housing supply bill just passed the Senate 85 to 5 and the House 358 to 32. It was going to cap private equity in single-family homes and make it easier to build new homes. Yesterday the signing was pulled.
 
 It's called the 21st Century Road to Housing Act. The biggest housing affordability bill in a generation.
 
-It would have blocked the biggest institutional buyers from buying more single-family homes. It would have unlocked the permitting and zoning bottlenecks that keep new construction from getting built.
+It would have blocked the biggest institutional buyers from buying more single-family homes. It would have eased the federal permitting and zoning bottlenecks on new construction.
 
-The signing was on the calendar for noon yesterday. It got pulled before it happened.
+The signing was on the calendar for noon. It got pulled before it happened.
 
 For your buyers, more homes were coming. They're not anymore.
 
@@ -112,9 +112,9 @@ The buyers who win the next 12 months are not the ones waiting for the market to
 
 ### Instagram Reels
 **Caption:**
-A housing supply bill that passed the Senate 85-5 and the House 358-32 had its signing pulled yesterday.
+A housing supply bill just passed the Senate 85-5 and the House 358-32. Yesterday the signing was pulled.
 
-The 21st Century Road to Housing Act would have capped the biggest institutional buyers in single-family homes and unlocked federal permitting and zoning bottlenecks on new construction.
+The 21st Century Road to Housing Act would have capped the biggest institutional buyers in single-family homes and eased federal permitting and zoning bottlenecks on new construction.
 
 For your buyers, more homes were coming. They're not anymore.
 
@@ -134,14 +134,14 @@ The buyers who win the next 12 months aren't waiting for the market to fix itsel
 
 ### YouTube Shorts
 **Title:** The Housing Bill That Would Have Helped Your Buyers Just Got Pulled
-**Description:** A housing supply bill that passed the Senate 85 to 5 and the House 358 to 32 (the largest housing affordability bill in a generation) had its planned signing cancelled on June 24, 2026. The 21st Century Road to Housing Act would have blocked the biggest institutional buyers from acquiring more single-family homes and unlocked federal permitting and zoning bottlenecks on new construction. D.J. Paris on what the supply pause means for buyers right now, and the five-minute pipeline call every agent should make this week.
+**Description:** A housing supply bill that passed the Senate 85 to 5 and the House 358 to 32 (the largest housing affordability bill in a generation) had its planned signing cancelled on June 24, 2026. The 21st Century Road to Housing Act would have blocked the biggest institutional buyers from acquiring more single-family homes and eased federal permitting and zoning bottlenecks on new construction. D.J. Paris on what the supply pause means for buyers right now, and the five-minute pipeline call every agent should make this week.
 **Hashtags:** #shorts #realestate #inventory #housingsupply #buyersagent #realestatenews #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
-A housing supply bill that passed the Senate 85 to 5 and the House 358 to 32 was going to cap private equity in single-family homes and loosen the rules that block new building. Yesterday the signing was pulled.
+A housing supply bill just passed the Senate 85 to 5 and the House 358 to 32. It was going to cap private equity in single-family homes and make it easier to build new homes. Yesterday the signing was pulled.
 
-It's called the 21st Century Road to Housing Act. The biggest housing affordability bill in a generation. It would have blocked the biggest institutional buyers from buying more single-family homes and unlocked the permitting and zoning bottlenecks that keep new construction from getting built.
+It's called the 21st Century Road to Housing Act. The biggest housing affordability bill in a generation. It would have blocked the biggest institutional buyers from buying more single-family homes and eased the federal permitting and zoning bottlenecks on new construction.
 
 For your buyers, more homes were coming. They're not anymore.
 
@@ -157,9 +157,9 @@ The buyers who win the next 12 months aren't waiting for the market to fix itsel
 
 ### X (Twitter)
 **Caption:**
-A housing supply bill passed the Senate 85-5 and the House 358-32. Yesterday the signing was pulled.
+A housing supply bill just passed the Senate 85-5 and the House 358-32. Yesterday the signing was pulled.
 
-The 21st Century Road to Housing Act would have capped institutional buyers in SFHs and unlocked federal permitting and zoning bottlenecks.
+The 21st Century Road to Housing Act would have capped institutional buyers in SFHs and eased federal permitting and zoning bottlenecks.
 
 For your buyers, more homes were coming. They're not anymore.
 
