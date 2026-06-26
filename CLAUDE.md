@@ -16,6 +16,15 @@ brief is missing, offer to run `python3 scripts/news_brief.py` right then.
 
 Every walk-and-talk follows the **Viral 3-Act Spine** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)): HOOK (stop the scroll + promise the payoff) → STORY (the middle is a story with a turn, not a briefing) → PAYOFF (resolve the loop → "here's what you do now" action → loop-back). The stress-test pass runs the **Story Pass** before anything else. Narrative series (Inside the Industry NF/IS/IA, Podcast Promo) run the full three acts; tactical series (Playbook, What Actually Works, tapthis) run a compressed Act 2 -- one story beat, then the payload, and length discipline (Rule 7) wins over story.
 
+For the hook itself, reach into the **Hook Matrix** (Rule 10 in [`docs/editorial-standards.md`](docs/editorial-standards.md)): pick one of the nine families on purpose, log it as `hook_family` in frontmatter, and don't repeat a family across two consecutive posts. Friction families (Sacred Cow, System Indictment, Forbidden) ride heat 4-5 and are capped at once per week (Rule 9.2); they point friction outward at a belief or system and stand with the agent, never at the agent. Swap/List hooks (Family 9: "don't say X, say Y," stop-doing, do-don't-in-the-room) are the default saveable format for tactical series. Roughly every couple of weeks, run one **emotional / identity** script (Rule 10.7) instead of a tip -- a permission slip or why-this-work-matters piece -- because that's what earns follows and the long comments tactics don't.
+
+## When the script is posted, work the first hour (engagement ops)
+
+These are not editorial -- they're posting-day habits the algorithm rewards harder than anything in the script (Rule 10.4-10.6):
+
+- **Reply to every comment in the first 60 minutes.** Creator replies are weighted for distribution and turn one comment into a thread.
+- **Pin a value-extending first comment** -- the exact script, the next step, the receipt/source -- never a "follow me." Drives comment-section dwell without an ask.
+
 ---
 
 ## Always include an AI Music Prompt with every walk-and-talk script

@@ -707,6 +707,128 @@ These fields exist so the reviewer can audit register cadence (no more than one 
 
 ---
 
+## Rule 10: The Hook Matrix and the Engagement Back-Half
+
+Rules 0 through 9 already build a strong hook and a strong arc. This rule does two things they don't: it gives the writer a *named menu* of hook moves to reach for on purpose (so the daily build isn't reinventing the open every morning), and it closes the gap Rule 4 left open -- Rule 4 correctly bans engagement *asks*, but never built the machinery that makes a viewer *need* to comment, follow, or save without being asked. Rule 10 is that machinery.
+
+This rule **extends Rule 2, it does not replace it.** Rule 2's five allowed first-line types are still binding. The nine families below are how those five types get deployed and combined. Nothing published under Rule 2 is orphaned: Rule 2 type 1 (surprising specific) lives in Family 6, type 2 (private-problem callout) in Family 1, type 3 (contrarian claim) in Families 2 and 3, type 4 (mid-story drop) in Family 5, type 5 (cohort callout) in Family 8. The captions.ai constraint from Rule 2 binds every family: **the hook lives in the first spoken line or it does not exist.**
+
+### 10.0 The prime directive: productive friction, never rage bait
+
+Rule 9 is built on "comment-worthy without being rage-bait," and Rule 9.4 hard-bans insulting cohort framing. Rule 10 does not loosen that. It sanctions *productive friction* -- hooks that trigger a reaction -- under one non-negotiable rule:
+
+**Point the friction outward at a belief, a practice, a tool, or a system. Stand next to the viewer, never across from them.** The agent is the person being defended, never the target. "Your CRM is a graveyard you pay monthly for" attacks the tool and the neglect, on the agent's side. "Lazy agents are killing this business" attacks the agent and is banned. When the friction indicts the system *on the agent's behalf*, the triggered engagement and the recruiting pitch become the same sentence -- which is the only version of "rage bait" that compounds an authority and recruiting brand instead of taxing it.
+
+### 10.1 The nine hook families
+
+Each family is the intersection of a structural move, the psychological trigger it pulls, and the involuntary reaction it produces. These are patterns, not templates -- do not mass-produce one family across consecutive posts (Rule 2's anti-repetition discipline applies).
+
+| # | Family | Trigger it pulls | Viewer reaction | Heat band |
+| --- | --- | --- | --- | --- |
+| 1 | **The Mirror** -- a Mirror Moment (Rule 3) promoted to the first line | self-recognition | "that's literally me" | 2-3 |
+| 2 | **The Sacred Cow** -- attack a belief or practice | belief violation | "wait, he can't say that" | 4-5 |
+| 3 | **The Defector** -- credential-vs-claim from the inside | insider betrayal | "he's one of us, admitting it" | 3-4 |
+| 4 | **The System Indictment** -- indict the system, defend the viewer | loss aversion + us-vs-them, aimed outward | "finally, someone's on my side" | 4-5 |
+| 5 | **The Confession** -- first-person admission of being wrong | curiosity + authority-by-admission | "what did *he* get wrong?" | 2-3 |
+| 6 | **Named Stakes** -- a real number, name, or moment | specificity + reward-visibility | "I need that exact thing" | 3-3.5 |
+| 7 | **The Forbidden** -- the thing nobody will tell them | taboo + curiosity gap | "tell me the thing they won't" | 3-4 |
+| 8 | **The Cohort Callout** -- address a professional cohort by name | identity + addressed-vs-excluded | "he's talking to me" | 3.5-4 |
+| 9 | **The Swap and the List** -- "don't say X, say Y" / stop-doing / do-don't-in-the-room | self-audit + exact-words reward | "I do that -- screenshot it" | 2-3.5 |
+
+**Family 1 -- The Mirror.** Name a private, specific behavior the viewer thinks nobody saw. Recognition is involuntary; they can't scroll past their own Tuesday.
+- "You wrote the follow-up text. You read it twice. You deleted it and told yourself tomorrow."
+- "It's 9pm. You're refreshing your own listing's views instead of calling the seller."
+
+**Family 2 -- The Sacred Cow.** Attack a practice the industry treats as gospel. Never a person.
+- "Open houses are the biggest waste of your Sunday in this entire business."
+- "Your listing presentation doesn't matter. The decision was made before you walked in."
+
+**Family 3 -- The Defector.** Your signature move: the tension between the credential and the claim.
+- "I teach AI to agents. I'm about to talk you out of using it for the one thing everybody uses it for."
+- "I run a brokerage of 250 agents. I'll tell you the real reason most of them never break six figures."
+
+**Family 4 -- The System Indictment.** The recruiting hook disguised as a rage hook. Friction points at the system; you stand with the agent.
+- "Your first year didn't fail because of you. It failed because nobody at your brokerage profits from telling you the truth in month one."
+- "You're not bad at this. You were handed a 2015 playbook in a 2026 market and told to grind harder."
+
+**Family 5 -- The Confession.** Authority by admission. Pulls from the Rule 9.3 stat-light reservoir.
+- "I was wrong about open houses for nine years. It cost me more listings than I'll say out loud."
+- "I almost left this business in my third year. One conversation changed it, and it wasn't motivational."
+
+**Family 6 -- Named Stakes.** Specificity beats abstraction. Stat-anchored days (Rule 9.3) live here; every number is sourced (Rule 1).
+- "403 percent more inquiries. From one text almost no agent sends."
+- "A $40 million producer told me she's terrible at prospecting. She still answers her phone at 7pm. Here's why that works."
+
+**Family 7 -- The Forbidden.** Friction points at the silence, not at a group.
+- "Nobody at your brokerage is going to tell you this, so I will."
+- "There's a reason your broker keeps you in production meetings instead of teaching you this."
+
+**Family 8 -- The Cohort Callout.** Stays inside Rule 9.4: professional cohort only, addressed not attacked.
+- "New licensees. Your first year is being spent on the one activity that doesn't matter yet."
+- "Brokerage owners. Your recruiting funnel ends at the offer, and that's why your retention is bleeding."
+
+**Family 9 -- The Swap and the List.** The most *saveable* family because it hands over exact words. Three shapes -- each is a hook AND the body of the script:
+- *The Swap (don't say X, say Y):* "Stop telling sellers 'I'll get you the most money.' That sentence is why you're losing listings. Here's the one that wins them."
+- *The Stop-Doing List:* "Three things you need to stop doing on every listing call. The first one you did this week."
+- *The Do/Don't In-The-Room:* "When you're sitting across from a nervous buyer, don't fill the silence. Here's what the top producers do instead."
+
+Family 9 maps directly to the Instagram-saves and Facebook-broker-forward signals in Rule 9.5, and it is the most *series-able* family -- a recurring numbered "Swap" format gives viewers something to collect, which feeds the follow trigger (10.5).
+
+### 10.2 The power-phrase bank
+
+These are not hooks on their own. They are connective openers and re-hooks that pre-load tension and slot into any family. Use them to sharpen a hook, never as the whole hook.
+
+- **Tension pre-loaders:** "Nobody's going to tell you this, so I will." / "I'm probably going to get a few angry DMs for this." / "Save your reaction for the end." / "This is going to sting if you're doing it."
+- **Re-hooks (the 15-second drift point, Rule 2):** "And here's the part that should make you a little angry." / "But here's where it gets worse." / "This is the step everyone skips, and it's the one that matters." / "Stay with me, because the fix is the opposite of what you think."
+- **Action-drivers (for the close -- still no engagement ask, Rule 4):** "Do this before you do anything else today." / "Open your phone right now." / "You can fix this in four minutes. Most agents take four months."
+
+### 10.3 The four guardrails that keep the matrix in D.J.'s voice
+
+A hook only ships if it clears all four:
+
+1. **Friction outward, you stand inward.** Every Family 2, 4, and 7 hook attacks a myth, tool, practice, or system -- never the agent, never a protected group (10.0).
+2. **The truth filter.** The claim is actually true for the target avatar and D.J. would defend it on a podcast. No manufactured hot takes. Rule 1 and Rule 8.2 bind harder than any hook -- a fabricated number or invented scene to make a hook punchier is the exact failure those rules exist to stop.
+3. **The recruiting test.** Read the hook as a good agent who might join Kale. Do they respect D.J. more or less? Less means kill it, regardless of view count. This is the test that protects the recruiting asset.
+4. **Cadence on the existing heat dial.** The matrix invents no new cap -- it maps onto Rule 9.2. Friction families (2, 4) and any "fight me" energy ride heat 4-5, capped at once per week. Families 1, 3, 5, 6, 8, 9 carry the daily load at heat 2-3.5.
+
+### 10.4 Passive comment engineering (no asks)
+
+Rule 4 bans asking for comments. These make a viewer *need* to comment without an ask:
+
+- **Intentional incompleteness.** Give "the four phrases" but fully unpack only three. People comment to supply or ask for the fourth. The loop creates the comment; you never asked.
+- **The defensible line that recruits defenders.** A heat-3.5 take where the people who agree feel compelled to back you up against the people who don't. The contrast structure (Rule 3) already builds the in-group; this aims it at the comment box.
+- **"You tell me if I'm wrong."** Informational, not a CTA: "I think 80 percent of agents do this. I could be wrong about the number, but I'm not wrong about the pattern." Invites the "well, actually" reply the Rule 9.5 LinkedIn row wants, without a directive ask.
+
+The test against Rule 4: none of these *direct* the viewer to do something for the channel. They create a tension the viewer resolves by commenting. If a line directs ("comment your number below"), it is banned. If it produces the comment by being incomplete or defensible, it is allowed.
+
+### 10.5 The implicit follow trigger
+
+"Follow for more" stays banned (Rule 4). But follows still need a mechanism, and nothing in Rules 0-9 produced one. People follow when they sense **a repeatable superpower they want recurring access to.** Build that signal informationally:
+
+- Demonstrate a *system*, not a one-off tip: "this is one of the swaps I keep a running list of."
+- Signal the *series* without a directive: "I break down one of these every week," "this is number nine."
+- The follow becomes the rational response to "there is clearly more of this and I want it." The test is the same as the podcast-mention test in Rule 4: informational (more of this exists) is allowed; directive (go follow) is banned.
+
+### 10.6 Cross-video open loops
+
+The content is organized into series, but scripts rarely reference each other, which leaves binge-and-return engagement on the table. One line can open a loop across videos: "I showed the seller version of this last week, this is the buyer version." This creates a reason to follow to catch the next one and a reason to go back for the last one. Use sparingly and only when the referenced video is real -- never invent a prior or future video to manufacture the loop.
+
+### 10.7 The emotional / identity lane
+
+The matrix above is tactical, and tactical content gets *saved*. **Belonging gets followed, and gets the long emotional comments that tactics never will.** For a recruiting brand this is arguably the highest-converting lane, and it is nearly absent from the back catalog.
+
+Run it roughly once every couple of weeks: a script that is not a tip but a permission slip, a why-this-work-matters, the agent who almost quit, what Kale actually feels like from the inside. Rule 9.4's "addressed, not attacked" and Rule 1's fabrication ban still bind -- the emotional lane is never license to invent a moving story. The arc is still Hook -> Story -> Payoff (Rule 3), but the payoff is a reframe of how the viewer sees their work or their place in the business, not a do-it-tomorrow tactic. The "here's what you do now" close (Rule 4) can resolve to a decision or a reflection rather than an action.
+
+### 10.8 New frontmatter field
+
+```yaml
+hook_family: [1-9]   # Which Hook Matrix family the first spoken line uses (Rule 10.1)
+```
+
+This lets the reviewer audit family variety across the publishing schedule (no family mass-produced across consecutive posts) and confirm the heat band of the chosen family matches the `heat` field and the Rule 9.2 cadence (no more than one heat 4-5 per week).
+
+---
+
 ## Pre-Commit Checklist
 
 Every new script must pass all of these before committing. If any one is "no," the script is not ready.
@@ -730,7 +852,7 @@ Every new script must pass all of these before committing. If any one is "no," t
 ### Hook and structure
 
 - [ ] First spoken line passes the 3-second test - it earns the next breath without throat-clearing.
-- [ ] First spoken line is one of the four allowed hook types in Rule 2.
+- [ ] First spoken line is one of the five allowed types in Rule 2, deployed through one of the nine Hook Matrix families in Rule 10 (logged as `hook_family`).
 - [ ] **Act 1:** The hook stops the scroll AND promises a payoff - it names the reward, opening a loop the rest of the script must close.
 - [ ] No script relies on on-screen-text-only hooks. The pattern interrupt lives in the spoken audio (captions.ai constraint).
 - [ ] The script moves through Hook → Mirror Moment → Agitation → Fix → Reframe → Close.
@@ -792,6 +914,17 @@ Every new script must pass all of these before committing. If any one is "no," t
 - [ ] Heat register is documented in frontmatter; default 3.5; a heat-4 or heat-5 script has not been published in the last seven days.
 - [ ] Stat cadence: if `stat_anchored: true`, the stat passes Rule 1 verification. If `stat_anchored: false`, the hook uses one of the four sourced-fallback types in 9.3.
 - [ ] If the hook uses the named-cohort callout (Rule 2 type 5), the cohort is professional (role, experience tier, market segment), not demographic, and the cohort name itself is not the insult.
+
+### Hook Matrix and engagement back-half (Rule 10)
+
+- [ ] `hook_family` is set in frontmatter (1-9), and that family hasn't been used in the last two consecutive posts.
+- [ ] If the hook uses a friction family (2, 4, or 7): the friction points outward at a belief, practice, tool, or system -- never at the agent or a protected group (10.0, 10.3 guardrail 1).
+- [ ] Truth filter: the hook's claim is actually true for the target avatar and D.J. would defend it on a podcast (10.3 guardrail 2). No hot take built on an unsourced number or invented scene.
+- [ ] Recruiting test: a good agent who might join Kale respects D.J. *more* after this hook, not less (10.3 guardrail 3).
+- [ ] The family's heat band matches the `heat` field and the Rule 9.2 once-per-week cap on heat 4-5.
+- [ ] Any comment-driver is passive (incompleteness, defensible line, "tell me if I'm wrong") -- it produces the comment without directing the viewer to act for the channel (10.4, Rule 4).
+- [ ] Any follow or series signal is informational ("I do one of these every week"), never a directive "follow for more" (10.5, Rule 4).
+- [ ] Any cross-video loop references a video that actually exists -- no invented prior or future post (10.6).
 
 ### Final read
 
