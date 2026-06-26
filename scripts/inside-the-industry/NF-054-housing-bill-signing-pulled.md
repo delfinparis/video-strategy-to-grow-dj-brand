@@ -16,7 +16,7 @@ editorial_note: "Per D.J.'s explicit instruction: keep entirely on market/invent
 
 # The Housing Bill That Would Have Helped Your Buyers Just Got Pulled
 
-> **WOW: Surprising statistic + cost-of-inaction -- a housing supply bill that passed the Senate 85-5 and the House 358-32 (the biggest housing affordability bill in a generation) had its signing pulled yesterday. The bill would have capped institutional investors in single-family homes and unlocked federal permitting and zoning bottlenecks. For agents with frustrated buyers, the timeline for supply relief just stretched. The script reframes the story as a market event (not a political one) and hands the agent the pipeline-call playbook.**
+> **WOW: Surprising statistic + cost-of-inaction -- a housing supply bill that passed the Senate 85-5 and the House 358-32 (the biggest housing affordability bill in a generation) had its signing pulled yesterday. The bill would have capped institutional buyers in single-family homes and eased federal permitting and zoning bottlenecks. For agents with frustrated buyers, the timeline for supply relief just stretched. The script reframes the story as a market event (not a political one) and hands the agent the pipeline-call playbook.**
 
 **Pillar:** Market Intelligence | **Avatars:** All, buyer-side agents most, listing agents working with curious sellers, team leads
 **Filming:** Walk and talk. No demo.
@@ -51,11 +51,11 @@ Here's what you do now. Every buyer in your pipeline deserves a five-minute call
   - Status: confirmed
   - Note: The specific 350-home threshold is intentionally not stated in the spoken script. "Biggest institutional buyers" is the correct directional framing without the precise threshold, which would risk being confused with the 358-32 House vote total in adjacent sentences.
 
-- **Claim:** "It would have unlocked the permitting and zoning bottlenecks that keep new construction from getting built."
+- **Claim:** "It would have eased the federal permitting and zoning bottlenecks on new construction."
   - Source: Bipartisan Policy Center summary. The 21st Century ROAD to Housing Act includes federal-level provisions intended to ease building regulations, reduce permitting friction, and address structural supply constraints that limit new construction.
   - Status: confirmed (high-level summary of the bill's supply-side provisions)
 
-- **Claim:** "The signing was set for noon yesterday. It got pulled before it happened."
+- **Claim:** "The signing was set for noon. It got pulled."
   - Source: CNBC, "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators," 2026-06-24 ([link](https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html)). The signing ceremony was scheduled for noon on Capitol Hill on 2026-06-24 and was cancelled hours before it was due to begin. Multi-source corroboration: NBC News, ABC News, PBS, Axios, The Hill, Time, CBS News (all 2026-06-24).
   - Status: confirmed
 
@@ -96,7 +96,7 @@ It's called the 21st Century Road to Housing Act. The biggest housing affordabil
 
 It would have blocked the biggest institutional buyers from buying more single-family homes. It would have eased the federal permitting and zoning bottlenecks on new construction.
 
-The signing was on the calendar for noon. It got pulled before it happened.
+The signing was on the calendar for noon. It got pulled.
 
 For your buyers, more homes were coming. They're not anymore.
 
