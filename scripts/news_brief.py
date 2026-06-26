@@ -481,6 +481,18 @@ HARD EDITORIAL RULES (a take that needs one of these is wrong, rewrite it):
 - Always "D.J. Paris" with periods.
 - LENGTH: 40-50 second target, 60 second HARD CAP. Keep the reframe to two sentences and the close to one action. The whole thing has to be filmable in under a minute. The hook is the first sentence and it has to stop the scroll.
 
+HOOK MATRIX (Rule 10): for each take, assign the family its hook best fits and that family's heat band. Pick the family that genuinely fits the story's strongest hook -- do NOT force a friction family onto a story that doesn't earn it.
+- 1 Mirror (name their private behavior; heat 2-3)
+- 2 Sacred Cow (attack a sacred practice; heat 4-5)
+- 3 Defector (credential vs. claim, "I teach X but..."; heat 3-4)
+- 4 System Indictment (indict the system, defend the agent; heat 4-5)
+- 5 Confession ("I was wrong about..."; heat 2-3)
+- 6 Named Stakes (a real number, name, or moment; heat 3-3.5)
+- 7 Forbidden (the thing nobody will tell them; heat 3-4)
+- 8 Cohort Callout (name a professional cohort; heat 3.5-4)
+- 9 Swap/List ("don't say X, say Y" / stop-doing / do-don't-in-the-room; heat 2-3.5)
+FRICTION RULE: for families 2, 4, and 7 the friction must point OUTWARD at a belief, tool, practice, or system, and stand with the agent. Never attack the agent or a demographic/protected group. If the strongest hook for a story is friction, write it that way; if not, pick the honest family.
+
 {kir_block}
 
 Stories (with article text where it could be fetched):
@@ -491,6 +503,8 @@ Output JSON array ONLY, same order as input:
   {{
     "title": "the story title",
     "hook": "the literal first line of the video -- the scroll-stopper",
+    "hook_family": "the family number and name this hook uses, e.g. '4 System Indictment'",
+    "heat": "the heat band number for that family, e.g. 4 (or 3.5)",
     "reframe": "2-3 sentences: the insider's second-order read, what the headline misses",
     "close": "the 'do this now' action for the viewer's own business (no engagement ask)",
     "kir_tie_in": "an episode from the list above that genuinely fits, phrased as 'On the podcast, [guest] told me...' -- or empty string if none truly fits. Never invent one.",
@@ -593,6 +607,105 @@ def write_takes_sidecar(takes, candidates):
 
 
 # ---------------------------------------------------------------------------
+# Hook Matrix cadence flags (Rule 9.2 friction cap + Rule 10.7 emotional lane)
+# ---------------------------------------------------------------------------
+CADENCE_SCRIPT_DIRS = ["inside-the-industry", "the-playbook", "what-actually-works",
+                       "ai-tip-of-the-week", "podcast-promos"]
+FRICTION_FAMILIES = {"2", "4", "7"}
+
+
+def _frontmatter(path):
+    """Cheap front-matter reader: top-level 'key: value' pairs between the first
+    pair of --- fences. No YAML dependency, tolerant of missing/garbled blocks."""
+    try:
+        text = path.read_text(encoding="utf-8")
+    except Exception:
+        return {}
+    if not text.startswith("---"):
+        return {}
+    end = text.find("\n---", 3)
+    if end == -1:
+        return {}
+    fm = {}
+    for line in text[3:end].splitlines():
+        m = re.match(r"^([A-Za-z_][\w]*):\s*(.*)$", line)
+        if m:
+            fm[m.group(1)] = m.group(2).strip().strip('"').strip("'")
+    return fm
+
+
+def _heat_num(val):
+    try:
+        return float(val)
+    except (TypeError, ValueError):
+        return None
+
+
+def cadence_flags():
+    """Scan recent script front-matter and return advisory cadence lines: is the
+    once-a-week heat-4/5 friction slot already used (Rule 9.2), and how long since
+    the last emotional/identity-lane post (Rule 10.7). Advisory only -- a scan
+    failure returns [] and never blocks the brief."""
+    scripts_root = REPO_ROOT / "scripts"
+    rows = []
+    for sub in CADENCE_SCRIPT_DIRS:
+        d = scripts_root / sub
+        if not d.exists():
+            continue
+        for p in d.glob("*.md"):
+            fm = _frontmatter(p)
+            if not fm:
+                continue
+            when = None
+            m = re.match(r"(\d{4})-(\d{2})-(\d{2})", fm.get("post_date", "") or "")
+            if m:
+                try:
+                    when = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)),
+                                    tzinfo=timezone.utc)
+                except ValueError:
+                    when = None
+            if when is None:
+                when = datetime.fromtimestamp(p.stat().st_mtime, tz=timezone.utc)
+            fam = fm.get("hook_family", "") or ""
+            rows.append({
+                "when": when,
+                "heat": _heat_num(fm.get("heat")),
+                "family": fam.strip().split()[0] if fam.strip() else "",
+                "lane": (fm.get("lane", "") or "").strip().lower(),
+            })
+    if not rows:
+        return []
+    rows.sort(key=lambda r: r["when"], reverse=True)
+    now = now_utc()
+    flags = []
+
+    week_ago = now - timedelta(days=7)
+    recent_friction = [r for r in rows if r["when"] >= week_ago and
+                       ((r["heat"] is not None and r["heat"] >= 4) or r["family"] in FRICTION_FAMILIES)]
+    if recent_friction:
+        last = recent_friction[0]
+        days = (now - last["when"]).days
+        flags.append(f"**Friction slot: USED** (heat {last['heat']}, {days}d ago). "
+                     "Rule 9.2 allows one heat-4/5 per week, so keep today at heat 3.5 or below.")
+    else:
+        flags.append("**Friction slot: OPEN.** No heat-4/5 post in the last 7 days. "
+                     "A Sacred Cow (2) or System Indictment (4) is in budget today if a story earns it.")
+
+    identity = [r for r in rows if r["lane"] == "identity"]
+    if identity:
+        days = (now - identity[0]["when"]).days
+        if days >= 14:
+            flags.append(f"**Emotional lane: DUE** (last identity post {days}d ago). "
+                         "Rule 10.7 runs one roughly every 2 weeks; line up a permission-slip post.")
+        else:
+            flags.append(f"**Emotional lane: recent** ({days}d ago). Next due around day 14.")
+    else:
+        flags.append("**Emotional lane: none logged.** Rule 10.7 wants one identity/permission post "
+                     "roughly every 2 weeks. Tag it `lane: identity` so this counter starts working.")
+    return flags
+
+
+# ---------------------------------------------------------------------------
 # Brief assembly
 # ---------------------------------------------------------------------------
 def _scrub(text):
@@ -606,7 +719,7 @@ def _scrub(text):
 
 
 def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir_note,
-                 stat_tips=None, stat_note=""):
+                 stat_tips=None, stat_note="", cadence=None):
     today = now_utc().strftime("%Y-%m-%d")
     tier_counts = {}
     for s in stories:
@@ -619,6 +732,12 @@ def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir
         f"KIR tie-in: {kir_note}.*",
         "",
     ]
+
+    if cadence:
+        lines.append("## Hook cadence today")
+        for f in cadence:
+            lines.append(f"- {f}")
+        lines.append("")
 
     if stat_tips:
         lines.append("## Today's stat tip (evergreen, persists until you film it)")
@@ -643,6 +762,13 @@ def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir
             conf = (t.get("confidence") or "?").lower()
             lines.append(f"### {n}. {t.get('title', '(untitled)')}")
             lines.append(f"- **Hook:** {_scrub(t.get('hook', ''))}")
+            fam = _scrub((t.get("hook_family") or "").strip())
+            heat = str(t.get("heat", "")).strip()
+            if fam or heat:
+                tag = f"Family {fam}" if fam else "Family ?"
+                if heat:
+                    tag += f"  |  heat {heat}"
+                lines.append(f"- **Hook family:** {tag}")
             lines.append(f"- **The reframe:** {_scrub(t.get('reframe', ''))}")
             lines.append(f"- **Close (do this now):** {_scrub(t.get('close', ''))}")
             tie = _scrub((t.get("kir_tie_in") or "").strip())
@@ -842,8 +968,14 @@ def main():
         except Exception as e:
             print(f"warning: stat bank step failed (brief unaffected): {e}", file=sys.stderr)
 
+    try:
+        cadence = cadence_flags()
+    except Exception as e:
+        print(f"warning: cadence-flag scan failed (brief unaffected): {e}", file=sys.stderr)
+        cadence = []
+
     brief = format_brief(stories, trending, takes, triage, failures, args.lookback, kir_note,
-                         stat_tips=stat_tips, stat_note=stat_note)
+                         stat_tips=stat_tips, stat_note=stat_note, cadence=cadence)
     today = now_utc().strftime("%Y-%m-%d")
     out_path = OUTPUT_DIR / f"{today}.md"
     out_path.write_text(brief, encoding="utf-8")

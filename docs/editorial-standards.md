@@ -819,13 +819,16 @@ The matrix above is tactical, and tactical content gets *saved*. **Belonging get
 
 Run it roughly once every couple of weeks: a script that is not a tip but a permission slip, a why-this-work-matters, the agent who almost quit, what Kale actually feels like from the inside. Rule 9.4's "addressed, not attacked" and Rule 1's fabrication ban still bind -- the emotional lane is never license to invent a moving story. The arc is still Hook -> Story -> Payoff (Rule 3), but the payoff is a reframe of how the viewer sees their work or their place in the business, not a do-it-tomorrow tactic. The "here's what you do now" close (Rule 4) can resolve to a decision or a reflection rather than an action.
 
-### 10.8 New frontmatter field
+### 10.8 New frontmatter fields
 
 ```yaml
-hook_family: [1-9]   # Which Hook Matrix family the first spoken line uses (Rule 10.1)
+hook_family: [1-9]          # Which Hook Matrix family the first spoken line uses (Rule 10.1)
+lane: tactical | identity   # Default tactical. Set to identity for an emotional-lane post (Rule 10.7)
 ```
 
-This lets the reviewer audit family variety across the publishing schedule (no family mass-produced across consecutive posts) and confirm the heat band of the chosen family matches the `heat` field and the Rule 9.2 cadence (no more than one heat 4-5 per week).
+`hook_family` lets the reviewer audit family variety across the publishing schedule (no family mass-produced across consecutive posts) and confirm the heat band of the chosen family matches the `heat` field and the Rule 9.2 cadence (no more than one heat 4-5 per week).
+
+`lane` defaults to `tactical` and only needs to be set on an emotional/identity-lane post. The morning research routine (`scripts/news_brief.py`) reads both fields off recent scripts to print a **Hook cadence** banner at the top of the daily brief -- whether this week's one heat-4/5 friction slot is still open, and how many days since the last `lane: identity` post (due roughly every two weeks). Tagging these fields is what keeps that banner honest.
 
 ---
 
