@@ -18,6 +18,8 @@ Unlike Agent Tip of the Day, these are not guest-sourced. They are product-led: 
 
 ## Structure (fixed for this series)
 
+**3-act spine: product-led, compressed.** This series runs the *compressed* [Viral 3-Act Spine](viral-3-act-spine.md). The mid-stride frustration in the Hook IS the one story beat -- a moment the viewer is already living. Land it, don't develop it. Mapping: Hook = Act 1 (stop the scroll + promise the free fix); Problem = the compressed Act 2 turn (it's not your fault, it's the input); Solution + Results = Act 3 payoff (resolve -> what they walk away with); the clever final line is the loop-back. Length and the under-three-minute discipline win over story.
+
 Every episode follows: **Hook -> Problem -> Solution -> Results -> clever final line.**
 
 - **Hook (0:00-0:20):** Drop into a specific, relatable moment mid-stride. Spoken, not text-only (captions.ai renders audio). No "hey guys."

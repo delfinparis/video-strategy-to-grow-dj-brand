@@ -48,6 +48,14 @@ The WHY beat also serves as the reframe - it shifts how the viewer thinks about 
 
 ## Structure
 
+**3-act spine: tactical series, compressed.** The Playbook is tactical, so it runs the *compressed* [Viral 3-Act Spine](viral-3-act-spine.md), not the full narrative version. The SCENARIO IS the one-line story beat -- it drops the viewer into a mid-stride moment they're already living. Don't expand it into a developed narrative; land it and move to the words. The five beats below already map onto the three acts:
+
+- **Act 1 (HOOK):** SCENARIO -- the mid-situation drop is the scroll-stopper; it promises the payoff (the exact words).
+- **Act 2 (STORY, compressed):** DON'T -- the mirror-moment turn, one beat. The viewer recognizes their wrong default. Do not develop past recognition.
+- **Act 3 (PAYOFF):** DO (resolve: the exact words) -> WHY (the reframe) -> TRY THIS (the action + loop-back to the scenario).
+
+If story discipline ever pushes the script past the 50-second cap, compress back. Length wins (universal Rule 7).
+
 The Playbook scripts move through these beats in this order.
 
 ```

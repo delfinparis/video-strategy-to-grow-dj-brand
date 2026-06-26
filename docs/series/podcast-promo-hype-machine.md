@@ -25,6 +25,8 @@ The promo lives or dies on **specificity stolen from the episode** — a real nu
 
 ## The Arc (5 beats, ~65 seconds)
 
+**3-act spine: narrative series, full.** A promo is a trailer, and a trailer is a story -- so the promo runs the full [Viral 3-Act Spine](viral-3-act-spine.md). The episode is the story; the promo's job is to make the viewer feel they cannot miss it. The five beats map onto the three acts: **The Hook** = Act 1 (stop the scroll + promise the payoff, the one irresistible thing). **The X-Y-Z + What We Solved** = Act 2 (the story of what the episode actually opened up, with the "what we solved" turn -- the moment it stops being topics and becomes a fix the viewer needs). **The Tip + The Close** = Act 3 (resolve: hand over the one usable tip -> the "go listen, then do this" action -> a loop-back to the hook). Steal the story from the episode; never invent one (universal Rule 1 -- every claim traces to the analysis JSON or the aired script).
+
 Every promo, both shows, hits these five beats in order. The scroll-stopper is the **first spoken line** (captions.ai renders audio only — no on-screen-text-only hooks).
 
 | # | Beat | Job | Source field (KIR) | Source field (Coffee Talk) |

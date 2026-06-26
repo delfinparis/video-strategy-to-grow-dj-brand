@@ -141,6 +141,8 @@ These failures are the reason this document exists. Read them before writing any
 
 **The first spoken line of the script is the whole job.** If it does not earn the next three seconds, the rest of the script never gets watched. This rule takes precedence over elegant openings, context-setting, and anything that feels like "warming up."
 
+This is **Act 1 of the Viral 3-Act Spine** ([`series/viral-3-act-spine.md`](series/viral-3-act-spine.md)). The hook's job in the spine is two things at once: stop the scroll AND promise the payoff. A scroll-stopper that opens no loop gives the viewer no reason to finish. See the Curiosity Gap subsection below -- in the 3-act model it is not optional polish, it is the hook's second half.
+
 ### Captions.ai reality: the hook must live in the spoken line
 
 D.J. uses captions.ai, which auto-generates on-screen captions from the audio track only. **Separate on-screen text overlays you write into the script do not render in the final video.** That means:
@@ -208,6 +210,32 @@ These are patterns, not templates. Do not mass-produce them - they lose force wh
 ## Rule 3: Problem-Agitation-Solution Arc
 
 After the hook, the script must move the viewer through a specific structural arc inherited from the KIR POLISH_PROMPT. Skipping any beat kills retention.
+
+### The 3-act mental model (how to think about the arc)
+
+The six beats below are the *texture*. The **Viral 3-Act Spine** ([`series/viral-3-act-spine.md`](series/viral-3-act-spine.md)) is how you *think* while drafting, because six beats is too many to hold in your head and easy to write as a checklist of facts. Group them into three acts:
+
+| Act | What it does | Beats inside it |
+| --- | --- | --- |
+| **1. HOOK** | Stop the scroll AND promise the payoff (Rule 2). | Hook |
+| **2. STORY** | Earn the payoff through tension, not exposition. A subject, a turn, micro-loops. | Mirror Moment + Agitation |
+| **3. PAYOFF** | Resolve the loop -> hand over the action -> loop back (Rule 9.1). | Fix + Reframe + Close |
+
+The single behavioral change this model forces: **the middle (Act 2) is a story, not a briefing.** Don't write "here's the background, here's my take." Write "here's what happened, and then here's the turn." See the "Story, not exposition" subsection below.
+
+**Story intensity varies by series.** Narrative series (Inside the Industry NF/IS/IA, Podcast Promo) run the full three acts -- the material has a story, so tell it. Tactical series (The Playbook, What Actually Works, tapthis Walk-and-Talk) run a *compressed* Act 2 -- one story beat (the scenario, the failed-fix turn, the mid-stride frustration), then straight to the payload. For tactical content, **Rule 7 length discipline wins over story**: if a developed narrative pushes the script past its cap, compress Act 2 back to one beat. The full mapping is in the spine doc.
+
+### Story, not exposition (the Act 2 discipline)
+
+A briefing delivers facts in any order. A story has an order that can't be shuffled, because each beat sets up the next. Three requirements make the middle a story:
+
+- **A subject.** A specific person, room, or unfolding event the viewer follows -- not "the industry," not "most agents" in the abstract.
+- **A turn.** At least one "but then..." / "here's where it gets worse" moment. A straight line of facts is a briefing; a change of direction makes it a story.
+- **Micro-loops.** Every line pulls to the next. End beats on a small open question the next sentence answers, then reopens.
+
+**The reorder test:** read the middle aloud. If you could shuffle the sentences without breaking anything, it's a list -- find the turn and rebuild around it.
+
+**The fabrication guardrail binds harder than story.** "Make the middle a story" is never license to invent a scene, a character, a "last Tuesday she..." detail, or a quote. Rule 1 and Rule 8.2 override the story instinct every time. A real briefing beats a fabricated story. The IS-002 and PB-001 failures both came from reaching for a detail that made the line better but wasn't true.
 
 ### The arc
 
@@ -703,9 +731,12 @@ Every new script must pass all of these before committing. If any one is "no," t
 
 - [ ] First spoken line passes the 3-second test - it earns the next breath without throat-clearing.
 - [ ] First spoken line is one of the four allowed hook types in Rule 2.
-- [ ] The hook opens a curiosity loop that the rest of the script must close.
+- [ ] **Act 1:** The hook stops the scroll AND promises a payoff - it names the reward, opening a loop the rest of the script must close.
 - [ ] No script relies on on-screen-text-only hooks. The pattern interrupt lives in the spoken audio (captions.ai constraint).
 - [ ] The script moves through Hook → Mirror Moment → Agitation → Fix → Reframe → Close.
+- [ ] **Act 2 (story, not exposition):** the middle has a subject and a turn, and passes the reorder test (sentences can't be shuffled without breaking it). For narrative series this is mandatory; for tactical series the compressed one-beat version is allowed, and length wins.
+- [ ] **Act 2 fabrication guardrail:** no invented scene, character, detail, or quote was added to make the middle "more of a story." Every specific traces to a source (Rule 1, Rule 8.2).
+- [ ] **Act 3:** the payoff resolves the loop the hook opened (delivers the promised thing), then hands over the "here's what you do now" action, then loops back (Rule 9.1).
 - [ ] The contrast structure ("Most agents do X. Top producers do Y.") appears at least once, where natural.
 - [ ] The emotional arc (curious → seen → uncomfortable → hopeful → motivated → committed) is traceable beat by beat.
 - [ ] If the script is over 20 seconds, a 15-second re-hook is present.

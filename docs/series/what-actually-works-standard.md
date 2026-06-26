@@ -45,6 +45,14 @@ script inside that moat.
 Every script follows this arc. It maps onto the universal Problem-Agitation-Solution structure
 (Rule 3); the difference is beat 2, which is the series' whole reason for existing.
 
+**3-act spine: tactical series, compressed.** What Actually Works runs the *compressed*
+[Viral 3-Act Spine](viral-3-act-spine.md). Beat 2 ("why the obvious fix fails") IS the one story
+turn -- the "you think it's discipline, but here's the turn" moment. That single turn is the whole
+Act 2; don't expand it into a developed narrative. The mapping: PROBLEM + WHY THE OBVIOUS FIX FAILS
+= Act 1 hook and the story turn; MECHANISM + APPLICATION = Act 3 payoff (resolve the loop, hand over
+the move); CLOSE = the loop-back. If the story turn ever pushes the script past the 75-second cap,
+compress it. Length wins (universal Rule 7).
+
 ```
 1. PROBLEM    - A specific friction the viewer feels. Ideally the second-order one:
                 not "you should prospect," but "you know you should and you don't."

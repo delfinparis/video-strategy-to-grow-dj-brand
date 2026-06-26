@@ -16,6 +16,20 @@ If a draft does not deliver an insight the viewer couldn't get from scrolling in
 
 ---
 
+## This is a narrative series: the full 3-act spine is mandatory
+
+Inside the Industry is a **narrative series**. Every script runs the full [Viral 3-Act Spine](viral-3-act-spine.md): HOOK (stop the scroll + promise the payoff) -> STORY (the middle is a story with a turn, not a briefing) -> PAYOFF (resolve the loop -> hand over the action -> loop back).
+
+The sub-type structures below are written in that language. Where an older structure said "CONTEXT" or "THE TAKE," read it as **STORY** -- the middle is delivered as an unfolding story with a turn, not as background exposition followed by analysis. The story mode depends on the sub-type:
+
+- **NF (News):** the conflict unfolds. Who did what, the twist, why it implicates the viewer.
+- **IS (Synthesis):** the discovery unfolds. "I kept hearing the same thing from people who shouldn't have anything in common."
+- **IA (Access):** the scene unfolds. "I was in the room when someone said the quiet part out loud."
+
+The fabrication guardrail still binds harder than story (universal Rule 1): never invent a scene, a quote, or a "plausible specific" to make the story land. A real briefing beats a fabricated story.
+
+---
+
 ## Three sub-types
 
 Inside the Industry has three distinct sub-types. Each has its own structure and editorial requirements. The sub-type is declared in the frontmatter `type` field.
@@ -26,12 +40,13 @@ Inside the Industry has three distinct sub-types. Each has its own structure and
 
 **Source requirement.** Every IA script must describe a real, specific event D.J. attended or participated in. The event must be named (e.g., "NAR's influencer roundtable," "Kale Realty's quarterly all-hands"). If the event was private, D.J. can describe observations without quoting attendees verbatim - but he must be clear about what he observed vs. what he inferred.
 
-**Structure:**
+**Structure (3-act spine, Access = scene unfolds):**
 ```
-1. HOOK - "I was just in a room with [specific people/org]."
-2. OBSERVATION - What D.J. saw, heard, or noticed. First-person, specific.
-3. INSIGHT - What it means for the viewer's business.
-4. CLOSE - "Here's what you do now." Action tied to the insight.
+1. HOOK (Act 1)    - "I was just in a room with [specific people/org]." Stop the scroll + promise what you saw.
+2. STORY (Act 2)   - The scene unfolds. What D.J. saw, heard, or noticed, with the turn (what surprised him).
+                     First-person, specific. Not a summary of the event -- the moment, in order.
+3. PAYOFF (Act 3)  - Resolve the loop (what it means for the viewer's business) -> "Here's what you do now"
+                     action -> loop-back line that recontextualizes the hook.
 ```
 
 **The hook for Access scripts** is almost always the credential-plus-access pattern: "I just spent two days with NAR's executive team. Here's what they're not saying publicly." The access IS the scroll-stopper.
@@ -42,13 +57,14 @@ Inside the Industry has three distinct sub-types. Each has its own structure and
 
 **Source requirement.** Every IS script must name at least two specific podcast guests whose interviews contributed to the pattern. "I've noticed across my interviews" is not enough. "Kristee Leonard, Bari Mill, and Karina Chavez all told me the same thing" is.
 
-**Structure:**
+**Structure (3-act spine, Synthesis = discovery unfolds):**
 ```
-1. HOOK - The pattern stated as a surprising observation.
-2. MIRROR MOMENT - The viewer recognizes themselves in the wrong side of the pattern.
-3. INSIGHT - The full pattern, with named guest examples.
-4. REFRAME - Why this matters now.
-5. CLOSE - "Here's what you do now." Action tied to the pattern.
+1. HOOK (Act 1)    - The pattern stated as a surprising observation. Stop the scroll + promise the reveal.
+2. STORY (Act 2)   - The discovery unfolds. The mirror moment (viewer on the wrong side of the pattern),
+                     then the pattern itself with named guest examples, told as "I kept hearing the same thing."
+                     The turn is the moment the pattern clicks. Never quantify it with an invented number.
+3. PAYOFF (Act 3)  - Resolve the loop (the reframe -- why this matters now) -> "Here's what you do now"
+                     action -> loop-back line that recontextualizes the hook.
 ```
 
 **Critical rule for Synthesis scripts: never fabricate the quantification of a pattern.** The IS-002 "6% Club" failure happened here. When D.J. observes that "almost every top producer I've interviewed" does something, that qualitative framing is the correct expression. Do not invent a percentage to make it sound more precise. See universal Rule 1's qualitative fallback table.
@@ -59,12 +75,15 @@ Inside the Industry has three distinct sub-types. Each has its own structure and
 
 **Source requirement.** Every NF script must cite the specific news source: court filing, press release, news article, regulatory document. The Data Source section must include the publication name, date, and URL or case number. NF scripts have the strictest stat-integrity requirements because the claims are about public record.
 
-**Structure:**
+**Structure (3-act spine, News = conflict unfolds):**
 ```
-1. HOOK - The headline, stated as a number or surprising fact.
-2. CONTEXT - What happened and why it matters. Background for agents who missed it.
-3. INSIGHT - What this means for the viewer's business specifically.
-4. CLOSE - "Here's what you do now." Action or watchpoint.
+1. HOOK (Act 1)    - The headline as a number or surprising fact. Stop the scroll + promise the payoff
+                     (the angle, the tell, what it means for them) so the hook opens a loop.
+2. STORY (Act 2)   - The conflict unfolds. Who did what, and the turn -- the twist or the bias or the
+                     "here's where it gets worse" -- told in an order that can't be shuffled. Not background
+                     exposition; the event as a story the viewer follows.
+3. PAYOFF (Act 3)  - Resolve the loop (what this means for the viewer's business) -> "Here's what you do now"
+                     action or watchpoint -> loop-back line that recontextualizes the hook.
 ```
 
 **The hook for News scripts** is almost always the specific-number pattern: "$52 million. That's what NAR just agreed to pay in the Tuccori settlement." The number IS the scroll-stopper. Numbers in NF hooks must be exact and sourced - no rounding, no "roughly," no approximation.

@@ -23,9 +23,31 @@ When D.J. says **"walk and talk"** (optionally with a number), Claude:
 3. D.J. picks a number (or said it up front, e.g. "walk and talk 2").
 4. Claude builds the chosen option through the standard 3-pass walk-and-talk
    workflow -- draft -> stress test -> EP polish -- and delivers ONLY the final
-   v3 script, inline. (Same workflow the old reply routine used.)
+   v3 script, inline. (Same workflow the old reply routine used.) The stress
+   test runs the **Story Pass** first (see below).
 5. The v3 must follow this repo's CLAUDE.md rules: editorial standards, the
    AI-tells field guide, and the mandatory `## AI Music Prompt` block.
+
+## The Story Pass (runs at the top of the stress test)
+Before the usual stress test, check the draft against the
+[Viral 3-Act Spine](../series/viral-3-act-spine.md):
+
+1. **Hook promises a payoff?** First line stops the scroll AND names the reward,
+   opening a loop. If it opens no loop, rewrite it.
+2. **Middle is a story, not a briefing?** A subject and a turn. Run the reorder
+   test -- if the sentences can be shuffled without breaking it, it's a list;
+   find the turn and rebuild.
+3. **Each line micro-loops?** Every sentence pulls to the next. Cut the sitters.
+4. **Payoff resolves the hook's promise?** The ending delivers the promised
+   thing -> the "here's what you do now" action -> the loop-back.
+5. **Length still holds?** For tactical series, if story pushed it past the cap,
+   compress Act 2 to one beat. Length wins (editorial Rule 7).
+6. **No fabricated story.** No invented scene, character, detail, or quote was
+   added to make the middle land. Every specific traces to a source (Rule 1).
+
+Narrative series (Inside the Industry NF/IS/IA, Podcast Promo) run the full
+three acts. Tactical series (Playbook, What Actually Works, tapthis) run a
+compressed Act 2 -- one story beat, then the payload.
 
 ## Notes
 - Options == the brief's top takes. The brief already drops already-covered

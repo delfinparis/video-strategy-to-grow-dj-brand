@@ -14,6 +14,8 @@ let him pick, then build the chosen option through draft → stress-test → EP-
 and deliver only the final v3 (with the `## AI Music Prompt` block). If today's
 brief is missing, offer to run `python3 scripts/news_brief.py` right then.
 
+Every walk-and-talk follows the **Viral 3-Act Spine** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)): HOOK (stop the scroll + promise the payoff) → STORY (the middle is a story with a turn, not a briefing) → PAYOFF (resolve the loop → "here's what you do now" action → loop-back). The stress-test pass runs the **Story Pass** before anything else. Narrative series (Inside the Industry NF/IS/IA, Podcast Promo) run the full three acts; tactical series (Playbook, What Actually Works, tapthis) run a compressed Act 2 -- one story beat, then the payload, and length discipline (Rule 7) wins over story.
+
 ---
 
 ## Always include an AI Music Prompt with every walk-and-talk script
