@@ -53,5 +53,5 @@ Texting the video shrinks the quality and wastes that 4K you just shot. Send a l
 
 ---
 
-## Text the link to D.J. → (312) 238-9796
+## Text the link to D.J. → (773) 354-6000
 That's it. He'll turn it into something that makes you look like the pro you already are.
