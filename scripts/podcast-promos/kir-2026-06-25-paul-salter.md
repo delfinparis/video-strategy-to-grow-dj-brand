@@ -22,13 +22,13 @@ stat_anchored: false
 
 Prove-it energy's dangerous because it works.
 
-That's Paul Salter's insight -- KIR's in-house mindset coach -- on this week's episode. We got into three things: why top producers burn out even when they're winning, what's actually driving that cycle, and how you break it without losing your edge.
+That's Paul Salter's insight. He's KIR's in-house mindset coach. On this week's episode, we got into three things: why top producers burn out even when they're winning, what's actually driving that cycle, and how you break it without losing your edge.
 
-Here's what Paul and I actually worked through. You can't fix an internal wound with an external achievement. Another deal won't close that gap. And once you see it, you can't unsee it.
+Here's what Paul and I actually worked through. You can't fix an internal wound with an external achievement. Once you see that, you can't unsee it.
 
-So here's the one thing you can do this week. Take last month's income and divide it by the hours you've actually worked -- evenings, weekends, every call you took while driving. That's your hourly rate. Most agents don't run this number. The ones who do change what they say yes to.
+So here's the one thing you can do this week. Take last month's income and divide it by the hours you actually worked, including evenings, weekends, and every call you took while driving. That's your hourly rate. Most agents don't run this number. The ones who do change what they say yes to.
 
-Go listen to the full episode -- it's this week's Keeping It Real. Then run the math. The number's going to surprise you.
+Go listen to the full episode. It's this week's Keeping It Real. Then run the math. The number's going to surprise you.
 
 ---
 

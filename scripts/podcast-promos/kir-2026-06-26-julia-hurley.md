@@ -22,13 +22,13 @@ heat: 3
 
 She was voted out of her own company. A year later, that same company called and asked her to come back.
 
-That's Julia Hurley -- she's closed over two thousand deals in Knoxville -- and on this week's Keeping It Real, she laid out the exact plan she used to rebuild her pipeline from zero in ninety days.
+That's Julia Hurley. She's closed over two thousand deals in Knoxville. On this week's Keeping It Real, she laid out the exact plan she used to rebuild her pipeline from zero in ninety days.
 
-We got into what you actually do when business dries up and you need leads fast, how to re-engage past clients before they quietly move to another agent, and why getting in front of the top producers in your market is the fastest rebuild play there is.
+We got into what you actually do when business dries up and you need leads fast, how to re-engage past clients before they quietly move to another agent, and why getting in front of top producers in your market is the fastest rebuild play there is.
 
 Her answer to the empty pipeline question: host an open house for a top agent in the neighborhood you want to break into. Then door knock every house on that street before the open house. Not after. Before. Julia's words: "If you're not door knocking for your open house, you're losing." Every door is a future seller who now knows your name.
 
-Full episode is in your feed. Go listen, then pick your neighborhood this week and book that open house. Go knock those doors first.
+Full episode is in your feed. Go listen. Then pick your neighborhood this week and book that open house. Go knock those doors first.
 
 ---
 

@@ -19,13 +19,13 @@ placement: "IG Reels / TikTok / YT Shorts / FB Reels / LinkedIn video"
 
 Real estate doesn't have a strategy problem. It has a "you" problem.
 
-That's Michael Opyd -- real estate coach, $200 million brokerage owner -- and he came on Keeping It Real to work through something most agents won't say out loud.
+That's Michael Opyd. He's a real estate coach who built a brokerage to two hundred million in annual sales. He came on Keeping It Real to work through something most agents won't say out loud.
 
 We got into three things: why agents who are doing everything right still feel like they're drowning, how to stop spending your best hours on your smallest clients, and how consistency compounds even when you can barely keep up.
 
-Here's what we actually solved. The chaos isn't a time problem. It's a decision problem. When you haven't decided what you will and won't personally handle, everything lands on your plate.
+Here's what we actually solved. The chaos is a decision problem in disguise. When you haven't decided what you will and won't personally handle, everything lands on your plate.
 
-So here's the tip you can use today. Pick a number -- the minimum deal value you'll personally work from contract to close. Write it down. Anything below that goes to your team or a referral partner. That one decision buys back hours every week and puts your focus where it actually moves your business.
+So here's the tip you can use today. Pick a number. The minimum deal value you'll personally work from contract to close. Write it down. Anything below that goes to your team or a referral partner. That one decision buys back hours every week and puts your focus where it actually moves your business.
 
 Go listen to this week's Keeping It Real. Then write your number.
 
@@ -81,7 +81,7 @@ Link delivery: IG/TikTok = link in bio, YouTube Shorts = pinned comment, Faceboo
 
 "Real estate doesn't have a strategy problem. It has a 'you' problem."
 
-Michael Opyd built a brokerage to $200M in annual sales. On this week's Keeping It Real he coaches an agent through the thing most of us won't say out loud: the chaos isn't a time problem. It's a decision problem.
+Michael Opyd built a brokerage to $200M in annual sales. On this week's Keeping It Real he coaches an agent through the thing most of us won't say out loud: the chaos is a decision problem in disguise.
 
 The tip: sit down and write the minimum transaction value you'll personally work. Anything below it goes to your team or a referral partner. One decision. Buys back hours every week.
 
@@ -101,7 +101,7 @@ Link in bio. Go listen. Then write your number.
 
 ### YouTube Shorts
 
-Michael Opyd's take: real estate doesn't have a strategy problem. It has a "you" problem. He built his brokerage to $200M in annual sales, and on this Keeping It Real episode he works through the decision that changes everything. Write the minimum transaction value you'll personally work from contract to close. Anything below it goes to your team or a referral partner. The chaos isn't a time problem. It's a decision problem. Full episode linked in the pinned comment.
+Michael Opyd's take: real estate doesn't have a strategy problem. It has a "you" problem. He built his brokerage to $200M in annual sales, and on this Keeping It Real episode he works through the decision that changes everything. Write the minimum transaction value you'll personally work from contract to close. Anything below it goes to your team or a referral partner. The chaos is a decision problem in disguise. Full episode linked in the pinned comment.
 
 @MichaelOpyd #Shorts #RealEstate #RealEstateAgent #RealEstateCoach #KeepingItReal #WorkLifeBalance #michaelopyd
 
@@ -111,7 +111,7 @@ Michael Opyd's take: real estate doesn't have a strategy problem. It has a "you"
 
 Michael Opyd built his brokerage to $200M in annual sales, then became a coach who helps agents fix the one thing holding most of them back: their own decision-making.
 
-On this week's Keeping It Real, he works through something most agents won't say out loud. The chaos isn't a time problem. It's a decision problem. When you haven't decided what you will and won't personally handle, everything lands on your plate and stays there.
+On this week's Keeping It Real, he works through something most agents won't say out loud. The chaos is a decision problem in disguise. When you haven't decided what you will and won't personally handle, everything lands on your plate and stays there.
 
 The tip from this episode: sit down and write a number. The minimum deal value you'll personally work from contract to close. Anything below that goes to someone on your team or a referral partner. That one decision changes your week.
 
@@ -127,7 +127,7 @@ Michael Opyd's opening line: "Real estate doesn't have a strategy problem. It ha
 
 He built his brokerage to $200M in annual sales before transitioning to coaching full-time, and on this week's Keeping It Real he works through the thing most agents already know but haven't acted on.
 
-The chaos isn't a time problem. It's a decision problem.
+The chaos is a decision problem in disguise.
 
 The tactic from this episode: write down the minimum transaction value you'll personally work from contract to close. Anything below that threshold goes to someone on your team or to a referral partner. That boundary doesn't shrink your business. It focuses it.
 
