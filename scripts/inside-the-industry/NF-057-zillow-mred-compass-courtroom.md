@@ -35,7 +35,7 @@ Nobody asked you. But three CEOs are in a Chicago federal courtroom right now. F
 Zillow filed the antitrust case in May. MRED and Compass are the defendants. The preliminary injunction hearing is today and tomorrow in front of Judge Tharp. Two days ago, MRED filed a last-minute motion to pull the whole case into private arbitration. Whatever the court decides these two days shapes how your listings appear online for years.
 
 ### WHY IT MATTERS (0:32-0:52)
-What the court actually decides is this. Whether Zillow's feed of MRED listings stays on while the antitrust case proceeds. If Zillow wins, your listings keep appearing on every big portal. If MRED and Compass win, they can carve out which portals see which listings. That's the private-listings model going national.
+One question. Whether Zillow's feed of MRED listings stays on while the antitrust case proceeds. If Zillow wins, your listings keep appearing on every big portal. If MRED and Compass win, they can carve out which portals see which listings. That's the private-listings model going national.
 
 ### CLOSE (0:52-1:14)
 Here's what you do now. First, don't go on social media picking a side. This is a live case with witnesses testifying today. You don't know what you don't know. Second, tell every seller you sign this week what venues actually see their listing. Portals and private brokerage networks. Written. On the listing agreement. Third, watch this ruling. When it drops, the answer to where your seller's home gets seen either got easier, or it got a lot more political.
@@ -105,7 +105,7 @@ Zillow filed the antitrust case in May. MRED and Compass are the defendants. The
 
 Whatever the court decides these two days shapes how your listings appear online for years.
 
-What the court actually decides is this. Whether Zillow's feed of MRED listings stays on while the antitrust case proceeds. If Zillow wins, your listings keep appearing on every big portal. If MRED and Compass win, they can carve out which portals see which listings.
+One question. Whether Zillow's feed of MRED listings stays on while the antitrust case proceeds. If Zillow wins, your listings keep appearing on every big portal. If MRED and Compass win, they can carve out which portals see which listings.
 
 That's the private-listings model going national. And it's being decided in a room your clients don't know exists.
 
