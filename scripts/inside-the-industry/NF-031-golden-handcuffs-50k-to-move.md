@@ -115,7 +115,7 @@ Three. Run the real cost-to-move for one past client and send it to them. Most h
 
 The market was never slow. It's handcuffed. And handcuffs come off.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #MortgageRates #ListingAgent
+**Hashtags:** #HousingMarket #ChicagoRealEstate #RealEstate2026 #MortgageRates #ListingAgent
 
 ### Instagram Reels
 **Caption:**
@@ -151,7 +151,7 @@ Half of America's mortgages are under 4 percent and moving costs the typical own
 **Description:**
 More than half of every mortgage in America is under 4 percent, and one in five is under 3, per the FHFA. To move, the typical owner gives up nearly fifty thousand dollars in present value. That is the golden handcuffs, and the FHFA counted the result: lock-in prevented 1.72 million home sales between 2022 and 2024. D.J. Paris breaks down why this was never a slow market, it was a handcuffed one, and three things every agent should do this week.
 
-**Hashtags:** #shorts #realestate #housingmarket #mortgagerates #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #listingagent
+**Hashtags:** #shorts #housingmarket #mortgagerates #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -171,7 +171,7 @@ Three. Run the real cost-to-move for one past client and send it to them.
 
 The market was never slow. It's handcuffed. And handcuffs come off.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #MortgageRates #RealEstate2026
+**Hashtags:** #HousingMarket #ChicagoRealEstate #MortgageRates
 
 ### X (Twitter)
 **Caption:**
@@ -184,7 +184,7 @@ Three moves:
 2. Stop saying "slow market." Say "handcuffed."
 3. Run the real cost-to-move for one past client and send it.
 
-**Hashtags:** #RealEstate #HousingMarket #MortgageRates
+**Hashtags:** #HousingMarket #MortgageRates
 
 ### Threads
 **Post:**

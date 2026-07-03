@@ -82,7 +82,7 @@ A lot of agents have been asking what NAR membership is worth right now. This is
 
 I will be sharing more from inside this relationship in the months ahead.
 
-**Hashtags:** #RealEstate #NAR #RealEstateLaw #RealtorLife #ChicagoRealEstate #InsideTheIndustry
+**Hashtags:** #RealEstate #NAR #RealEstateLaw #ChicagoRealEstate #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
@@ -111,7 +111,7 @@ D.J. Paris attended a closed-door NAR Q1 strategic-plan readout as one of approx
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #realtor #realestatelaw #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #nar #realestatelaw #insidetheindustry #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -127,7 +127,7 @@ Most agents have no idea this exists. They paid their dues, renewed their licens
 
 If you have ever wondered what your NAR membership actually does for you on the legal side, that's a real dollars-and-cents answer.
 
-**Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
+**Hashtags:** #RealEstate #NAR #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**

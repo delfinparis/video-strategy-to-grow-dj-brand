@@ -105,7 +105,7 @@ You document a dual-agency-avoidance practice that holds up if the dual-agency l
 
 Two commissions or one client. Pick one. Then write the line down before the next call comes in.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #RealtorScripts #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #RealtorEthics
+**Hashtags:** #DualAgency #ListingAgent #RealtorScripts #ChicagoRealEstate #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -137,7 +137,7 @@ Your buyer wants to write on your listing. Here's the exact line. "I represent t
 **Description:**
 Zillow released a study on May 14, 2026 showing that sellers in dual-agency transactions lose an average of $2,165 per home and $1.49 billion across three years. Most listing agents face the dual-agency situation multiple times a year and don't have a script for it. D.J. Paris hands you the exact five-sentence line that protects the seller, refers the buyer out cleanly, and documents your fiduciary practice in case the dual-agency lawsuit wave arrives.
 
-**Hashtags:** #shorts #realestate #realtor #dualagency #listingagent #realtorscripts #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #dualagency #listingagent #realtorscripts #realestatenews
 
 ### Facebook
 **Caption:**
@@ -159,7 +159,7 @@ You document a dual-agency-avoidance practice that holds up if the lawsuit wave 
 
 Two commissions or one client. Pick one.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #DualAgency #ListingAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -173,7 +173,7 @@ Here's the exact line:
 
 Two commissions or one client. Pick one.
 
-**Hashtags:** #RealEstate #DualAgency #Realtor
+**Hashtags:** #RealEstate #DualAgency
 
 ### Threads
 **Post:**

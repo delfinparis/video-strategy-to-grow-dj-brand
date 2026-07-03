@@ -119,7 +119,7 @@ Three. Have a position ready for any seller who asks about the Zillow research. 
 
 Three years. Three states. Six-point-eight million transactions. The data isn't going to change its mind.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #Zillow #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #DualAgency #ListingAgent #Zillow #ChicagoRealEstate #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -155,7 +155,7 @@ Zillow ran the same analysis three years. Every year, dual-agency sellers got lo
 **Description:**
 Zillow's May 14, 2026 study analyzed 6.8 million U.S. dual-agency transactions from 2023 to 2025. The dual-agency penalty showed up every year. California sellers lost $533 million in aggregate. Florida $217 million. New York $146 million. D.J. Paris breaks down why three years of replication across three diverse markets kills the "but maybe it's just my market" defense for double-ending, plus three plays every listing agent should run this week.
 
-**Hashtags:** #shorts #realestate #realtor #dualagency #zillow #listingagent #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #dualagency #zillow #listingagent #realestatenews
 
 ### Facebook
 **Caption:**
@@ -175,7 +175,7 @@ Three. Have a position ready for any seller who asks about the data.
 
 Three years. Three states. 6.8 million transactions. The data isn't going to change its mind.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #Zillow #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #DualAgency #ListingAgent #Zillow
 
 ### X (Twitter)
 **Caption:**
@@ -191,7 +191,7 @@ One-year findings can be a fluke. Three-year findings across three big states ca
 
 The "but maybe it's just my market" defense is over.
 
-**Hashtags:** #RealEstate #DualAgency #Zillow
+**Hashtags:** #DualAgency #Zillow
 
 ### Threads
 **Post:**

@@ -86,7 +86,7 @@ I'm D.J. Paris, host of the Keeping It Real Podcast, the longest-running real es
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #chicagorealestate #realtor #nar #realtorlife #narssettlement #buyeragent #realestatenews #realestateagent #chicagorealtor #realestate2026 #buyeragreement #realestatecommissions #realtortips #keepingitrealpodcast #atproperties #realestatelaw #chicagoland #westtown
+**Hashtags:** #shorts #chicagorealestate #nar #narssettlement #buyeragent
 
 ### Facebook
 **Caption:**
@@ -102,7 +102,7 @@ If you already adapted to written buyer agreements and you know how to articulat
 
 They're not going back.
 
-**Hashtags:** #ChicagoRealEstate #NAR #RealEstateNews #BuyerAgent #RealtorLife
+**Hashtags:** #ChicagoRealEstate #NAR #RealEstateNews
 
 ### LinkedIn
 **Caption:**
@@ -124,7 +124,7 @@ The professionals who leaned into these changes early aren't just compliant. The
 
 I break down shifts like this every week on the Keeping It Real Podcast.
 
-**Hashtags:** #RealEstate #NAR #RealEstateLaw #BuyerAgent #ChicagoRealEstate #RealEstateIndustry #Leadership #Commissions
+**Hashtags:** #NAR #RealEstateLaw #BuyerAgent #ChicagoRealEstate #RealEstateIndustry
 
 ### X (Twitter)
 **Caption:**
@@ -138,4 +138,4 @@ No new practice changes. No new rules.
 
 The agents who adapted early already won.
 
-**Hashtags:** #RealEstate #NAR #ChicagoRealEstate
+**Hashtags:** #NAR #ChicagoRealEstate

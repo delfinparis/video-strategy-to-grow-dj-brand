@@ -110,7 +110,7 @@ Three. Take written informed consent on any off-market marketing before you list
 
 Off-market sounds exclusive. The data says discount. Tell your seller which one their listing is.
 
-**Hashtags:** #RealEstate #Realtor #OffMarket #PrivateListings #MLS #ListingAgent #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #OffMarket #PrivateListings #MLS #ListingAgent #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -148,7 +148,7 @@ Off-market sells for less. The number is $1.3 billion. Zillow analyzed 6.2 milli
 **Description:**
 Zillow's May 14, 2026 study analyzed 6.2 million U.S. transactions from 2023 to 2025 and found that homes sold off the MLS -- private listings, pocket listings, coming-soons -- consistently sold for less than homes that hit the MLS first. Total seller losses: $1.3 billion over three years. The pattern showed up every year of the study. D.J. Paris breaks down the buyer-pool restriction mechanism and three plays every listing agent should run this week.
 
-**Hashtags:** #shorts #realestate #realtor #offmarket #privatelistings #mls #listingagent #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #offmarket #privatelistings #mls #listingagent
 
 ### Facebook
 **Caption:**
@@ -170,7 +170,7 @@ Three. Take written informed consent on any off-market marketing.
 
 Off-market sounds exclusive. The data says discount. Tell your seller which one their listing is.
 
-**Hashtags:** #RealEstate #Realtor #OffMarket #PrivateListings #MLS #ListingAgent #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #OffMarket #PrivateListings #MLS
 
 ### X (Twitter)
 **Caption:**
@@ -184,7 +184,7 @@ Mechanism: smaller buyer pool, less competition, lower price.
 
 Off-market sounds exclusive. The data says discount.
 
-**Hashtags:** #RealEstate #OffMarket #PrivateListings #MLS
+**Hashtags:** #OffMarket #PrivateListings
 
 ### Threads
 **Post:**

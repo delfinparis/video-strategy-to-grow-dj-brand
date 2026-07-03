@@ -86,7 +86,7 @@ Your action this week. Pull up your phone. Text the three people from your spher
 
 Do not wait. Most agents will read this same news and do nothing with it. The agents who text three people this week win the listings of the agents who don't.
 
-**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket #ListingAgent #SphereMarketing #RealtorLife #RealEstate2026 #MarketIntelligence #KeepingItRealPodcast
+**Hashtags:** #ChicagoRealEstate #HousingMarket #ListingAgent #SphereMarketing #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -120,7 +120,7 @@ D.J. Paris on the unique play most Chicago agents are about to miss: this is not
 
 The action: text the three people from your sphere who have said "someday we'll move." Someday is now.
 
-**Hashtags:** #shorts #realestate #chicagorealestate #housingmarket #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #chicagorealestate #housingmarket #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -142,7 +142,7 @@ Your action this week. Text the three people from your sphere who have said "som
 
 Most agents will read this same news and do nothing. The ones who text three people this week win the listings of the agents who don't.
 
-**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket #ListingAgent #SphereMarketing
+**Hashtags:** #ChicagoRealEstate #HousingMarket #ListingAgent
 
 ### X (Twitter)
 **Caption:**
@@ -154,4 +154,4 @@ Chicago appreciated 7x faster than the country.
 
 This isn't a market update. It's an arbitrage window. Your sphere has people who've been talking about leaving Chicago for years. Text three of them today.
 
-**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket
+**Hashtags:** #ChicagoRealEstate #HousingMarket

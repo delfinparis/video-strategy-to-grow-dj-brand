@@ -85,7 +85,7 @@ One warm message. One soft seed. No ask.
 
 Open Instagram tonight. Find one of those signals from the last sixty days. Send that exact message to one person. Then close the app.
 
-**Hashtags:** #RealEstate #Prospecting #RealtorLife #ListingAgent #RealEstateAgent #ChicagoRealEstate #RealEstateMarketing #LeadGeneration #KeepingItRealPodcast
+**Hashtags:** #Prospecting #ListingAgent #ChicagoRealEstate #LeadGeneration #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
@@ -101,16 +101,16 @@ One warm message. One soft seed. No ask.
 
 Open Instagram tonight. Find a signal. Send that message to one person.
 
-**Hashtags:** #realestate #prospecting #realtorlife #listingagent #realestateagent #chicagorealestate #realestatemarketing #leadgeneration #keepingitrealpodcast #insidetheindustry #realtortips
+**Hashtags:** #prospecting #listingagent #chicagorealestate #leadgeneration #keepingitrealpodcast
 
 ### TikTok
 **Caption:** Your next listing client already posted about it. Four signals hiding in your feed and the exact DM to send when you spot one.
-**Hashtags:** #realtortok #realestatetok #realtor #prospecting #listingagent #realtortips
+**Hashtags:** #realtortok #realestatetok #realtor #prospecting #listingagent
 
 ### YouTube Shorts
 **Title:** Your Next Listing Already Posted About It on Instagram
 **Description:** People telegraph the life transitions that trigger a move on social media long before they ever call an agent. D.J. Paris names four specific signals to watch for in your feed (new job, new baby, job transfer, aging parent moving in) and gives agents the word-for-word DM to send when you spot one, without coming across as a stalker or a pitch. Zero budget, no cold calls, runs entirely in the platforms you already scroll.
-**Hashtags:** #shorts #realestate #prospecting #realtorlife #listingagent #realtortips #leadgeneration #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #prospecting #listingagent #leadgeneration #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -128,7 +128,7 @@ One warm message. One soft seed. No ask.
 
 Open Instagram tonight. Find one of those signals from the last sixty days. Send that exact message to one person.
 
-**Hashtags:** #RealEstate #Prospecting #RealtorLife #ListingAgent #ChicagoRealEstate #LeadGeneration
+**Hashtags:** #Prospecting #ListingAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -145,4 +145,4 @@ The DM:
 
 One warm message. One soft seed. No ask.
 
-**Hashtags:** #RealEstate #Prospecting #ListingAgent
+**Hashtags:** #Prospecting #ListingAgent

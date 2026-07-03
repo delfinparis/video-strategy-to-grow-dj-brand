@@ -84,7 +84,7 @@ The commission chapter is closing. The kickback chapter is just opening.
 
 If you are at a brokerage with any Zillow partnership, that is a conversation worth having with your leadership this week -- not next month.
 
-**Hashtags:** #RealEstate #RealEstateLaw #Zillow #RESPA #BrokerageLaw #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast
+**Hashtags:** #RealEstateLaw #Zillow #RESPA #BrokerageLaw #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -114,7 +114,7 @@ The commission lawsuits are ending. The next wave of real estate litigation just
 **Description:**
 Agents watching the Tuccori and Batton commission settlements wind down think the real estate litigation wave is over. It is not. Taylor v. Zillow is a consolidated RESPA lawsuit that just added eXp Realty to an amended complaint this week. RESPA is a different statute, a different theory of liability, and a different exposure than the commission cases. D.J. Paris breaks down why this is the new front every brokerage with a Zillow relationship should be paying attention to.
 
-**Hashtags:** #shorts #realestate #zillow #respa #realestatelaw #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #zillow #respa #realestatelaw #realestatenews
 
 ### Facebook
 **Caption:**
@@ -130,7 +130,7 @@ If a brokerage's own marketing videos were enough to add them as a defendant, ev
 
 The commission chapter is closing. The kickback chapter is just opening. Ask your brokerage where they stand.
 
-**Hashtags:** #RealEstate #RealEstateLaw #Zillow #RESPA #RealtorLife #ChicagoRealEstate
+**Hashtags:** #RealEstateLaw #Zillow #RESPA
 
 ### X (Twitter)
 **Caption:**
@@ -142,4 +142,4 @@ Different statute. Different playbook. Different exposure.
 
 The commission chapter is closing. The kickback chapter is just opening.
 
-**Hashtags:** #RealEstate #RESPA #Zillow #RealEstateLaw
+**Hashtags:** #RESPA #Zillow

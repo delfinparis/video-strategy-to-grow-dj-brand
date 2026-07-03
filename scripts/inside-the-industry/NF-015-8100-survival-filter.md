@@ -106,7 +106,7 @@ Three. Pick a niche this month. Geographic, demographic, transaction type. Anyth
 
 You're not the median. The median is the average of everyone who stayed and everyone who's about to leave. Pick one of these three this week. Stop being the median.
 
-**Hashtags:** #RealEstate #Realtor #NewAgents #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #BrokerageStrategy #RealtorTraining
+**Hashtags:** #NewAgents #ChicagoRealEstate #RealEstate2026 #BrokerageStrategy #RealtorTraining
 
 ### Instagram Reels
 **Caption:**
@@ -140,7 +140,7 @@ $8,100 is the median new Realtor income. If that sounds familiar, here's how to 
 **Description:**
 $8,100 is what the median new Realtor makes per NAR's 2025 Member Profile. 16+ year veterans make $78,900. Ten times the income, on the same career label. If that gap sounds familiar, this video is for you. D.J. Paris breaks down the three things the agents who broke through the rookie income gap did differently, starting with the one nobody wants to hear: your brokerage matters more than you think.
 
-**Hashtags:** #shorts #realestate #realtor #newagent #realtortraining #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #newagent #realtortraining #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -158,7 +158,7 @@ Three. Pick a niche this month. Geographic, demographic, transaction type. The r
 
 You're not the median. Pick one of these three this week. Stop being the median.
 
-**Hashtags:** #RealEstate #Realtor #NewAgents #RealtorLife #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #NewAgents #ChicagoRealEstate #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
@@ -174,7 +174,7 @@ If that's you, three moves this week:
 
 Stop being the median.
 
-**Hashtags:** #RealEstate #Realtor #NewAgents
+**Hashtags:** #RealEstate #NewAgents
 
 ### Threads
 **Post:**

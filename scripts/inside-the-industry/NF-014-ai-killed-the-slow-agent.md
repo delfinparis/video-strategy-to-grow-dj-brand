@@ -101,7 +101,7 @@ Three. Tell your clients when they can expect a reply from you. Then deliver und
 
 AI didn't kill the agent. It killed the slow agent. If you are not using AI faster than the agent next to you, you are the slow agent.
 
-**Hashtags:** #RealEstate #AI #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #ListingAgent #BrokerageStrategy
+**Hashtags:** #AI #ChicagoRealEstate #RealEstate2026 #ListingAgent #BrokerageStrategy
 
 ### Instagram Reels
 **Caption:**
@@ -139,7 +139,7 @@ AI didn't kill the agent. It killed the slow agent.
 **Description:**
 88% of buyers still use an agent per NAR's 2025 Profile of Home Buyers and Sellers, and RISMedia confirmed in April 2026 that buyers expect AI in the homebuying process and still want a person. So what did AI actually kill? Your response time. D.J. Paris breaks down why the agents losing business in 2026 aren't losing it to AI, plus three things every agent should do this week to make sure they're not the slow one.
 
-**Hashtags:** #shorts #realestate #ai #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #listingagent
+**Hashtags:** #shorts #ai #realestatenews #realestate2026 #listingagent
 
 ### Facebook
 **Caption:**
@@ -161,7 +161,7 @@ Three. Tell your clients when they can expect a reply. Then deliver under that w
 
 AI didn't kill the agent. It killed the slow agent.
 
-**Hashtags:** #RealEstate #AI #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #AI #ChicagoRealEstate #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
@@ -176,7 +176,7 @@ Three moves this week:
 
 AI didn't kill the agent. It killed the slow agent.
 
-**Hashtags:** #RealEstate #AI #Realtor
+**Hashtags:** #RealEstate #AI
 
 ### Threads
 **Post:**

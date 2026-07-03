@@ -95,7 +95,7 @@ I'm D.J. Paris, host of the Keeping It Real Podcast. I break down what's actuall
 
 More real estate market analysis on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #realtor #commissions #narssettlement #realestatenews #chicagorealestate #buyeragent #realestate2026 #keepingitrealpodcast
+**Hashtags:** #shorts #commissions #narssettlement #realestatenews #chicagorealestate
 
 ### Facebook
 **Caption:**
@@ -109,7 +109,7 @@ Now the Tuccori settlement just closed the book on the buyer side too. No new ch
 
 The sky didn't fall. It's time to stop acting like it might.
 
-**Hashtags:** #RealEstate #Commissions #NAR #BuyerAgent #ChicagoRealEstate #RealtorLife
+**Hashtags:** #Commissions #NAR #BuyerAgent
 
 ### LinkedIn
 **Caption:**
@@ -125,7 +125,7 @@ The professionals who invested in articulating their value proposition when the 
 
 I cover these shifts weekly on the Keeping It Real Podcast.
 
-**Hashtags:** #RealEstate #Commissions #NAR #BuyerAgent #RealEstateIndustry #Leadership
+**Hashtags:** #Commissions #NAR #BuyerAgent #RealEstateIndustry #Leadership
 
 ### X (Twitter)
 **Caption:**
@@ -137,4 +137,4 @@ Almost 2 years later: buyer agent commissions went from 2.5% back UP to 2.82%.
 
 The sky didn't fall.
 
-**Hashtags:** #RealEstate #NAR #Commissions #ChicagoRealEstate
+**Hashtags:** #NAR #Commissions

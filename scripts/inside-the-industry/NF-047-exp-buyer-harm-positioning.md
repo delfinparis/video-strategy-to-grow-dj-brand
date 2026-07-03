@@ -96,7 +96,7 @@ Anyone running a private-listing program, a coming-soon pocket strategy, or an o
 
 Audit your coming-soon and office-exclusive practices against your brokerage's written policy today. Not next week. The buyer-harm argument is getting louder. The next person making it might be a regulator or a plaintiff's firm, and you do not want them looking at your last six months of listings.
 
-**Hashtags:** #RealEstate #eXpRealty #Compass #PrivateListings #ClearCooperation #RealEstateLaw #BrokerageLaw #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #eXpRealty #Compass #PrivateListings #ClearCooperation #RealEstateLaw
 
 ### Instagram Reels
 **Caption:**
@@ -112,16 +112,16 @@ If you run a private-listing or coming-soon program, you just got a well-funded 
 
 Audit your coming-soon practices against your brokerage's written policy today. Not next week.
 
-**Hashtags:** #realestate #exprealty #compass #privatelistings #clearcooperation #realestatelaw #brokeragelaw #realtorlife #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #exprealty #compass #privatelistings #clearcooperation #realestatelaw
 
 ### TikTok
 **Caption:** eXp's tech chief just made the buyer-harm case against private listings. When a major brokerage takes that side publicly, it isn't a blog post. It's legal positioning.
-**Hashtags:** #realtortok #realestatetok #realtor #compass #exprealty #realestatenews
+**Hashtags:** #realtortok #realestatetok #compass #exprealty #realestatenews
 
 ### YouTube Shorts
 **Title:** When eXp Talks Buyer Harm, It's Not a Blog Post
 **Description:** Carrie Lysenko, CTO of eXp Realty and former CEO of consumer portal Zoocasa, just published a public statement saying buyers are getting left out of the off-MLS conversation. "The person bringing the money to the transaction keeps getting left out... That should bother everyone." D.J. Paris on why a major brokerage taking that position publicly is not a thought-leadership piece — it's a legal positioning move that aligns eXp with the lawsuits, the state laws, and the DOJ at the exact moment private listings are getting relitigated. And the one audit every brokerage and agent should run today.
-**Hashtags:** #shorts #realestate #exprealty #compass #privatelistings #realestatelaw #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #exprealty #compass #privatelistings #realestatelaw
 
 ### Facebook
 **Caption:**
@@ -135,7 +135,7 @@ The "buyers are harmed by off-MLS" framing is the exact predicate argument plain
 
 Audit your coming-soon and office-exclusive practices against your brokerage's written policy today. Not next week.
 
-**Hashtags:** #RealEstate #eXpRealty #Compass #PrivateListings #ClearCooperation #RealEstateLaw #RealtorLife
+**Hashtags:** #eXpRealty #Compass #PrivateListings
 
 ### X (Twitter)
 **Caption:**
@@ -147,4 +147,4 @@ eXp just aligned with the side suing Compass, the side writing the state laws, t
 
 Audit your coming-soon practices today.
 
-**Hashtags:** #RealEstate #eXp #PrivateListings #ClearCooperation
+**Hashtags:** #eXp #PrivateListings

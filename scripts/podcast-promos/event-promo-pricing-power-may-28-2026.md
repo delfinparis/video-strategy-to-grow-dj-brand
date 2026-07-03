@@ -97,7 +97,7 @@ Thursday, May 28. 3:30 to 6:00 PM. A&N Mortgage, 1945 N Elston Ave, Chicago.
 
 It's free, but seats are limited. RSVP at kalehuddle.com before Thursday.
 
-**Hashtags:** #ChicagoRealEstate #RealEstatePricing #ListingAgent #RealtorLife #HomeValuation #KaleRealty
+**Hashtags:** #ChicagoRealEstate #RealEstatePricing #ListingAgent #HomeValuation #KaleRealty
 
 ### Personal Facebook
 **Caption:**
@@ -115,7 +115,7 @@ Thursday, May 28. 3:30 to 6:00 PM. A&N Mortgage, 1945 N Elston Ave, Chicago. Fre
 
 RSVP at kalehuddle.com.
 
-**Hashtags:** #ChicagoRealEstate #RealtorLife #HomeValuation #KaleRealty
+**Hashtags:** #ChicagoRealEstate #HomeValuation #KaleRealty
 
 ### Personal Instagram (Reel)
 **Caption:**
@@ -145,7 +145,7 @@ You can price it perfectly and still lose the deal at the appraisal. Thursday we
 **Description:**
 You can price a listing perfectly and still lose the deal at the appraisal. This Thursday, May 28, A&N Mortgage is hosting us in Chicago to teach agents how to value homes the way an appraiser actually does: real comps, real condition and feature adjustments, a number that holds up when the bank's appraisal lands. In person, with food, drinks, and raffle prizes. 3:30 to 6:00 PM at 1945 N Elston Ave. Free, seats limited. RSVP at kalehuddle.com.
 
-**Hashtags:** #shorts #realestate #realtor #homevaluation #listingagent #chicagorealestate
+**Hashtags:** #shorts #realestate #homevaluation #listingagent #chicagorealestate
 
 ### X (Twitter)
 **Caption:**
@@ -155,4 +155,4 @@ Your CMA isn't the number that decides anything. The appraiser's is.
 
 Thursday in Chicago we're teaching agents to price a home the way an appraiser does. Real comps, real adjustments. Free, RSVP at kalehuddle.com.
 
-**Hashtags:** #RealEstate #ListingAgent #ChicagoRealEstate
+**Hashtags:** #ListingAgent #ChicagoRealEstate

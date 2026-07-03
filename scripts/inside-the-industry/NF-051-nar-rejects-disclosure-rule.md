@@ -100,7 +100,7 @@ Be the agent who makes the disclosure NAR wouldn't mandate. At your next buyer o
 
 That is the rule NAR voted not to make. It is still the right one. And in the era we are operating in, it is also the only one that protects you when a client asks why you didn't tell them.
 
-**Hashtags:** #RealEstate #NAR #RealEstateEthics #BuyersAgent #ListingAgent #RealtorLife #ConsumerProtection #RealEstateLaw #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #NAR #RealEstateEthics #BuyersAgent #ListingAgent #ConsumerProtection
 
 ### Instagram Reels
 **Caption:**
@@ -118,16 +118,16 @@ Be the agent who makes the disclosure NAR wouldn't mandate. At your next consult
 
 That's the rule NAR voted not to make. It's still the right one.
 
-**Hashtags:** #realestate #nar #realestateethics #buyersagent #listingagent #realtorlife #consumerprotection #realestatelaw #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #nar #realestateethics #buyersagent #listingagent #consumerprotection
 
 ### TikTok
 **Caption:** NAR's Executive Committee just blocked a rule that would make agents disclose when they don't know a market or property type. Two years to draft it. One hour to kill it. Here's the voluntary version you can use today.
-**Hashtags:** #realtortok #realestatetok #realtor #nar #realestatenews #realtortips
+**Hashtags:** #realtortok #realestatetok #realtor #nar #realestatenews
 
 ### YouTube Shorts
 **Title:** NAR Just Voted Against Telling Clients What You Don't Know
 **Description:** NAR's Professional Standards Committee spent two years drafting a Code of Ethics Standard of Practice that would require Realtors to disclose to clients when they lack the knowledge or skill for a property type or geographic area. On June 17, 2026, NAR's Executive Committee debated the proposal for about an hour and referred it back to committee, the procedural way of killing it. D.J. Paris on why voting down a transparency rule in the middle of the post-Sitzer consumer-protection era is the worst possible governance signal, and the voluntary disclosure script every agent can use at their next consult.
-**Hashtags:** #shorts #realestate #nar #realestateethics #consumerprotection #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #nar #realestateethics #consumerprotection #realestatenews
 
 ### Facebook
 **Caption:**
@@ -145,7 +145,7 @@ Be the agent who makes the disclosure NAR wouldn't mandate. At your next buyer o
 
 That's the rule NAR voted not to make. It's still the right one.
 
-**Hashtags:** #RealEstate #NAR #RealEstateEthics #ConsumerProtection #RealtorLife #BuyersAgent #ListingAgent
+**Hashtags:** #NAR #RealEstateEthics #ConsumerProtection
 
 ### X (Twitter)
 **Caption:**
@@ -157,4 +157,4 @@ In the post-Sitzer consumer-protection era, that's the worst possible signal.
 
 Be the agent who makes the disclosure NAR wouldn't mandate. At your next consult.
 
-**Hashtags:** #RealEstate #NAR #RealEstateEthics #ConsumerProtection
+**Hashtags:** #NAR #RealEstateEthics

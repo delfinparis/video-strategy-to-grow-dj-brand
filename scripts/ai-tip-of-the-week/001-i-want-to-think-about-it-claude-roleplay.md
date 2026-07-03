@@ -108,13 +108,13 @@ Next time you hear it? Muscle memory.
 
 Full prompt + 569 more at tapthis.co.
 
-**Hashtags:** #realestate #realtor #realtorlife #aiforrealtors #realestateagent #objectionhandling #aicoaching #realestatetech #chicagorealestate #kalerealty
+**Hashtags:** #aiforrealtors #objectionhandling #aicoaching #realestatetech #chicagorealestate
 
 ### TikTok (Biz)
 **Caption:**
 "I want to think about it" = most expensive 5 words in real estate. Here's the Claude prompt my Kale agents use to prep. Tip #1 of 620 at tapthis.co
 
-**Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #claudeai #realtortraining
+**Hashtags:** #realtortok #realestatetok #aiforrealtors #claudeai #realtortraining
 
 ### YouTube Shorts
 **Title:** The 5-Word Objection That Costs Agents the Most (and the Claude Prompt That Fixes It)
@@ -124,7 +124,7 @@ Full prompt + 569 more at tapthis.co.
 
 Grab the full prompt plus 569 more at tapthis.co.
 
-**Hashtags:** #shorts #realestate #realtor #aiforrealtors #claudeai #realestateagent #objectionhandling
+**Hashtags:** #shorts #realestate #aiforrealtors #claudeai #objectionhandling
 
 ### Facebook Personal
 **Caption:**
@@ -142,7 +142,7 @@ Objection handling is a muscle. AI just made the practice free and unlimited.
 
 Full prompt plus 569 more at tapthis.co.
 
-**Hashtags:** #RealEstate #AIforRealtors #RealEstateAgent #RealtorLife #ChicagoRealEstate
+**Hashtags:** #RealEstate #AIforRealtors #ChicagoRealEstate
 
 ### Facebook Biz
 **Caption:**
@@ -154,7 +154,7 @@ Objection handling is a muscle. AI made the practice free and unlimited.
 
 Full prompt + 569 more at tapthis.co.
 
-**Hashtags:** #RealEstate #AIforRealtors #ObjectionHandling #RealtorLife
+**Hashtags:** #RealEstate #AIforRealtors #ObjectionHandling
 
 ### X (Twitter)
 **Caption:**

@@ -85,7 +85,7 @@ If you have spent the last two years bracing for the commission shoe to drop, th
 
 The judge took twenty-four hours. The commission chapter took five years.
 
-**Hashtags:** #RealEstate #RealEstateLaw #NAR #Tuccori #Batton #BrokerageLaw #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast
+**Hashtags:** #RealEstateLaw #NAR #Tuccori #Batton #BrokerageLaw
 
 ### Instagram Reels
 **Caption:**
@@ -113,7 +113,7 @@ $52 million. 24 hours. The commission chapter of the NAR lawsuits just closed. B
 **Description:**
 On May 4, 2026, the Batton plaintiffs filed a motion to block NAR's $52 million Tuccori settlement, calling it a reverse auction worth only twelve percent of the Burnett deal. Judge LaShonda Hunt issued a one-sentence denial within 24 hours. D.J. Paris explains why this closes the commission antitrust chapter for real estate, and which lawsuit is still active.
 
-**Hashtags:** #shorts #realestate #nar #tuccori #batton #realestatelaw #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #nar #tuccori #batton #realestatelaw
 
 ### Facebook
 **Caption:**
@@ -125,7 +125,7 @@ Batton was the last legal lever anyone had to reopen the commission case. With t
 
 The next chapter is already running. Taylor v. Zillow, the consolidated RESPA case, just pulled eXp Realty into an amended complaint. Different statute. Different exposure. If you spent the last two years bracing for the commission shoe to drop, it has dropped. Now look at where the next one is forming.
 
-**Hashtags:** #RealEstate #RealEstateLaw #NAR #Tuccori #RealtorLife #ChicagoRealEstate
+**Hashtags:** #RealEstateLaw #NAR #Tuccori
 
 ### X (Twitter)
 **Caption:**
@@ -137,7 +137,7 @@ Judge LaShonda Hunt killed the motion in one sentence.
 
 The commission chapter of real estate litigation is structurally over. The Zillow RESPA case is the only one still running.
 
-**Hashtags:** #RealEstate #NAR #Tuccori #RealEstateLaw
+**Hashtags:** #NAR #Tuccori
 
 ### Threads
 **Post:**

@@ -95,7 +95,7 @@ Pull every fence-sitting buyer and seller in your database this week. The conver
 
 Run the numbers at today's rate. With your client. Today.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket #BuyersAgent #ListingAgent #RealtorLife #HousingDemand #RealEstateNews #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #MortgageRates #HousingMarket #BuyersAgent #ListingAgent #HousingDemand
 
 ### Instagram Reels
 **Caption:**
@@ -117,16 +117,16 @@ The clients still waiting for 5% aren't doing math. They're avoiding it.
 
 Pull every fence-sitter this week. Run the numbers at today's rate. With them. Today.
 
-**Hashtags:** #realestate #mortgagerates #housingmarket #buyersagent #listingagent #realtorlife #housingdemand #realestatenews #chicagorealestate #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #mortgagerates #housingmarket #buyersagent #listingagent #housingdemand
 
 ### TikTok
 **Caption:** The Fed just signaled a rate hike. Pending home sales jumped 3.8% the same morning. Both pieces of news killed the "wait for rates to drop" narrative.
-**Hashtags:** #realtortok #realestatetok #realtor #mortgagerates #housingmarket #realestatenews
+**Hashtags:** #realtortok #realestatetok #mortgagerates #housingmarket #realestatenews
 
 ### YouTube Shorts
 **Title:** The Wait-for-Rates Narrative Just Died Twice in One Morning
 **Description:** Two pieces of housing news dropped the same morning (June 17, 2026) and they tell the same story. The Fed's June Summary of Economic Projections moved the median year-end fed funds rate from 3.4% to 3.8%, implying at least one hike before December. The same morning, NAR's Pending Home Sales Index for May surged 3.8% month-over-month against a 1% consensus, and 4.8% year-over-year. NAR Chief Economist Lawrence Yun called it consumers' acceptance of above-6% mortgage rates as the new normal. D.J. Paris on why the "rates will drop, wait it out" narrative just died twice — and the exact conversation every agent should be having with fence-sitting clients this week.
-**Hashtags:** #shorts #realestate #mortgagerates #housingmarket #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #mortgagerates #housingmarket #realestatenews #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -142,7 +142,7 @@ The clients still waiting for 5% aren't doing math. They're avoiding it.
 
 Pull every fence-sitting buyer and seller in your database this week. The conversation isn't "rates will drop." It is "the new normal is here, and the people who moved this spring beat you to it." Run the numbers at today's rate. With your client. Today.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket #BuyersAgent #ListingAgent #RealtorLife #ChicagoRealEstate
+**Hashtags:** #MortgageRates #HousingMarket #BuyersAgent
 
 ### X (Twitter)
 **Caption:**
@@ -156,4 +156,4 @@ Yun: "consumers' acceptance of above-6% mortgage rates as the new normal."
 
 The "wait for rates" narrative just died twice in one morning.
 
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket
+**Hashtags:** #MortgageRates #HousingMarket

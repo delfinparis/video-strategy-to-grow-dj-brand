@@ -77,7 +77,7 @@ The top producers I've interviewed who never lose a lead aren't superhuman. They
 
 If your brokerage isn't teaching you things like this, I'd love to talk.
 
-**Hashtags:** #RealEstate #RealtorLife #Productivity #ChicagoRealEstate #TopProducers #LeadFollowUp #KeepingItRealPodcast #WhatActuallyWorks
+**Hashtags:** #Productivity #ChicagoRealEstate #TopProducers #LeadFollowUp #WhatActuallyWorks
 
 ### Instagram Reels
 **Caption:**
@@ -109,7 +109,7 @@ You keep telling yourself to be more disciplined about follow-up, and it keeps n
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #realtor #productivity #habits #whatactuallyworks
+**Hashtags:** #shorts #realestate #productivity #habits #whatactuallyworks
 
 ### Facebook
 **Caption:**
@@ -125,7 +125,7 @@ Now you're not relying on motivation. You're relying on the coffee.
 
 If your brokerage isn't teaching you things like this, I'd love to talk.
 
-**Hashtags:** #RealEstate #RealtorLife #Productivity #TopProducers
+**Hashtags:** #RealEstate #Productivity #TopProducers
 
 ### X (Twitter)
 **Caption:**

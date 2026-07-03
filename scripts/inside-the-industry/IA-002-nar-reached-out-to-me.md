@@ -77,7 +77,7 @@ This is a shift worth paying attention to for anyone building a brand in real es
 
 I will be sharing more from inside this relationship in the months ahead.
 
-**Hashtags:** #RealEstate #NAR #Leadership #PersonalBranding #ChicagoRealEstate #ContentStrategy
+**Hashtags:** #NAR #Leadership #PersonalBranding #ChicagoRealEstate #ContentStrategy
 
 ### Instagram Reels
 **Caption:**
@@ -111,7 +111,7 @@ NAR contacted D.J. Paris directly ahead of the Tuccori settlement announcement, 
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #realtor #realestatenews #insidetheindustry #keepingitrealpodcast #contentcreator
+**Hashtags:** #shorts #nar #realestatenews #insidetheindustry #contentcreator
 
 ### Facebook
 **Caption:**
@@ -127,7 +127,7 @@ Here's what that tells you. NAR knows the press release channel is broken. Agent
 
 If NAR is reaching out directly to working agents to shape the narrative, that tells you where real influence lives right now. Audience and voice are becoming the same thing.
 
-**Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
+**Hashtags:** #RealEstate #NAR #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**

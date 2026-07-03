@@ -101,7 +101,7 @@ The work that wins listings happens months before the meeting. The data has been
 
 It is not.
 
-**Hashtags:** #RealEstate #ListingAgent #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #RealEstateLeadership #BrokerageStrategy
+**Hashtags:** #ListingAgent #ChicagoRealEstate #RealEstate2026 #RealEstateLeadership #BrokerageStrategy
 
 ### Instagram Reels
 **Caption:**
@@ -137,7 +137,7 @@ Your listing presentation has no competition. 81% of the time. Three things to d
 **Description:**
 Your listing presentation has no competition. 81% of the time. NAR's Profile of Home Buyers and Sellers has been reporting that pattern for years. In the 2024 edition, 81% of sellers contacted only one agent before deciding who would sell their home. The 2025 report confirmed it. Two-thirds of sellers found their agent through a referral or a past relationship. D.J. Paris breaks down why the listing presentation was built for an industry that doesn't exist anymore, plus three things every listing agent should do this quarter instead.
 
-**Hashtags:** #shorts #realestate #realtor #listingagent #nar #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #listingagent #nar #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -159,7 +159,7 @@ Three. Spend the time you would have spent re-formatting your CMA on staying vis
 
 The work that wins listings happens months before the meeting.
 
-**Hashtags:** #RealEstate #ListingAgent #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #ListingAgent #ChicagoRealEstate #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
@@ -174,7 +174,7 @@ Three moves this quarter:
 
 The contest happened months earlier.
 
-**Hashtags:** #RealEstate #Realtor #ListingAgent
+**Hashtags:** #RealEstate #ListingAgent
 
 ### Threads
 **Post:**

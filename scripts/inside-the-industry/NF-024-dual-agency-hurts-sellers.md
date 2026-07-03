@@ -112,7 +112,7 @@ Three. Lead your next listing presentation with this number. Sellers want an age
 
 Dual agency was always a conflict. Now it has a number. Two thousand one hundred sixty-five reasons to refer the buyer out.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #FiduciaryDuty #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #DualAgency #ListingAgent #FiduciaryDuty #ChicagoRealEstate #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -148,7 +148,7 @@ Dual agency hurts sellers. The number is $2,165 per home. Zillow analyzed 6.8 mi
 **Description:**
 Zillow's May 14, 2026 study analyzed 6.8 million U.S. transactions from 2023 to 2025 and found that sellers whose buyer was represented by the same agent received an average of $2,165 less than sellers whose buyer had separate representation. Total seller losses: $1.49 billion over three years. The pattern showed up every year. D.J. Paris breaks down the structural-conflict mechanism and three plays every listing agent should run this week.
 
-**Hashtags:** #shorts #realestate #realtor #dualagency #listingagent #fiduciaryduty #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #dualagency #listingagent #fiduciaryduty #realestatenews
 
 ### Facebook
 **Caption:**
@@ -168,7 +168,7 @@ Three. Lead your next listing presentation with this number. Sellers want an age
 
 Dual agency was always a conflict. Now it has a number. Two thousand one hundred sixty-five reasons to refer the buyer out.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #DualAgency #ListingAgent #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -182,7 +182,7 @@ Mechanism: when one agent represents both sides, they can't fight hard for eithe
 
 Dual agency was always a conflict. Now it has a number.
 
-**Hashtags:** #RealEstate #DualAgency #Realtor
+**Hashtags:** #RealEstate #DualAgency
 
 ### Threads
 **Post:**

@@ -106,7 +106,7 @@ Three. Stop waiting for a rate headline to start the conversation. The owners mo
 
 Plant the relationship before the thaw. Harvest the listing after. That's the whole game.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #MortgageRates #ListingAgent
+**Hashtags:** #HousingMarket #ChicagoRealEstate #RealEstate2026 #MortgageRates #ListingAgent
 
 ### Instagram Reels
 **Caption:**
@@ -142,7 +142,7 @@ The 3-year freeze is cracking. Homeowners at 6 percent or higher just tripled to
 **Description:**
 The mortgage lock-in that defined three years of strange inventory is measurably loosening. The share of homeowners at 6 percent or higher tripled to 21.2 percent and now tops the under-3-percent group for the first time. The share stuck under 6 percent has fallen every quarter, and first-time buyers were more than half of all purchase loans in March 2026, the highest since June 2020. D.J. Paris explains why most agents will wait too long, and how to build the listing relationship now, before the life event that unsticks each owner arrives.
 
-**Hashtags:** #shorts #realestate #housingmarket #mortgagerates #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #listingagent
+**Hashtags:** #shorts #housingmarket #mortgagerates #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -162,7 +162,7 @@ Three. Stop waiting for a rate headline to start the conversation.
 
 Plant the relationship before the thaw. Harvest the listing after.
 
-**Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #MortgageRates #RealEstate2026
+**Hashtags:** #HousingMarket #ChicagoRealEstate #MortgageRates
 
 ### X (Twitter)
 **Caption:**
@@ -174,7 +174,7 @@ The trap: most agents wait for the thaw to finish, then chase the same listings.
 
 Plant the relationship before the thaw. Harvest after.
 
-**Hashtags:** #RealEstate #HousingMarket #MortgageRates
+**Hashtags:** #HousingMarket #MortgageRates
 
 ### Threads
 **Post:**

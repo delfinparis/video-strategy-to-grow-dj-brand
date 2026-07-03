@@ -87,13 +87,13 @@ My agents at Kale use this Claude prompt: *"Write a three-touch re-engagement se
 
 Tip #2 of 620 at tapthis.co.
 
-**Hashtags:** #realestate #realtor #realtorlife #aiforrealtors #leadgen #realestateagent #claudeai #chicagorealestate #kalerealty
+**Hashtags:** #aiforrealtors #leadgen #claudeai #chicagorealestate #kalerealty
 
 ### TikTok (Biz)
 **Caption:**
 Your ghosted lead didn't forget you. They just never heard from you. Here's the Claude 3-touch fix my Kale agents use. Tip #2 of 620 at tapthis.co
 
-**Hashtags:** #realtortok #realestatetok #realtor #leadgen #aiforrealtors #claudeai
+**Hashtags:** #realtortok #realestatetok #leadgen #aiforrealtors #claudeai
 
 ### YouTube Shorts
 **Title:** Your Ghosted Leads Aren't Gone. Your Follow-Up Just Sucks. (Claude Fix)
@@ -103,7 +103,7 @@ Most agents send "just checking in" to ghosted leads and wonder why they stay si
 
 Tip #2 of 620 at tapthis.co.
 
-**Hashtags:** #shorts #realestate #realtor #leadgen #aiforrealtors #claudeai
+**Hashtags:** #shorts #realestate #leadgen #aiforrealtors #claudeai
 
 ### Facebook Personal
 **Caption:**
@@ -117,7 +117,7 @@ Leads don't ghost agents they find valuable. They ghost agents they feel pressur
 
 Tip #2 of 620 at tapthis.co.
 
-**Hashtags:** #RealEstate #AIforRealtors #LeadGeneration #RealtorLife #ChicagoRealEstate
+**Hashtags:** #AIforRealtors #LeadGeneration #ChicagoRealEstate
 
 ### Facebook Biz
 **Caption:**
@@ -129,7 +129,7 @@ Leads don't ghost agents they find valuable.
 
 Tip #2 of 620 at tapthis.co.
 
-**Hashtags:** #RealEstate #AIforRealtors #LeadGeneration #RealtorLife
+**Hashtags:** #RealEstate #AIforRealtors #LeadGeneration
 
 ### X (Twitter)
 **Caption:**

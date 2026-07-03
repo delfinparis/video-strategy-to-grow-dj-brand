@@ -91,7 +91,7 @@ Try this exact question on your next consult.
 
 The Playbook. Episode 3. Every Wednesday.
 
-**Hashtags:** #RealEstate #BuyerAgent #Commissions #ChicagoRealEstate #RealtorLife #ThePlaybook
+**Hashtags:** #RealEstate #BuyerAgent #Commissions #ChicagoRealEstate #ThePlaybook
 
 ### Personal Facebook
 **Caption:**
@@ -111,7 +111,7 @@ The commission conversation isn't about price. It's about value perception. When
 
 You don't defend the number. You ask them to define the work.
 
-**Hashtags:** #RealEstate #BuyerAgent #Commissions #ChicagoRealEstate #ThePlaybook
+**Hashtags:** #BuyerAgent #Commissions #ChicagoRealEstate
 
 ### Personal Instagram (Reel)
 **Caption:**
@@ -143,7 +143,7 @@ The Playbook Ep 3. Buyer asked you to cut commission? Don't defend. Ask THIS ins
 **Description:**
 Episode 3 of The Playbook. Your buyer wants you to discount your commission. Don't defend the number. Ask this exact question instead, and then stop talking. New Playbook drops every Wednesday.
 
-**Hashtags:** #shorts #realestate #realtor #commissions #thePlaybook #keepingitrealpodcast
+**Hashtags:** #shorts #realestate #commissions #thePlaybook #keepingitrealpodcast
 
 ### X (Twitter)
 **Caption:**
@@ -155,4 +155,4 @@ Don't defend. Don't list. Don't fold. Ask one question and stop talking:
 
 The commission conversation isn't about price. It's about value perception. Force them to look at the work.
 
-**Hashtags:** #RealEstate #BuyerAgent #Commissions
+**Hashtags:** #BuyerAgent #Commissions

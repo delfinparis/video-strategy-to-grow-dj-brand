@@ -94,13 +94,13 @@ Close the laptop. The loops close with it.
 
 Full prompt + 569 more at tapthis.co.
 
-**Hashtags:** #realestate #realtor #realtorlife #aiforrealtors #claudeai #productivity #timemanagement #chicagorealestate #kalerealty
+**Hashtags:** #aiforrealtors #claudeai #productivity #timemanagement #chicagorealestate
 
 ### TikTok (Biz)
 **Caption:**
 My Kale agents used to carry 30 open loops into dinner every night. Here's the Claude shutdown ritual that fixed it. Tip #4 of 620 at tapthis.co
 
-**Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #claudeai #productivity #worklifebalance
+**Hashtags:** #realtortok #aiforrealtors #claudeai #productivity #worklifebalance
 
 ### YouTube Shorts
 **Title:** The 10-Minute AI Ritual That Actually Gives Agents Their Evenings Back
@@ -110,7 +110,7 @@ Most agents don't finish their day -- they just stop. Thirty open loops running 
 
 Full prompt plus 569 more at tapthis.co.
 
-**Hashtags:** #shorts #realestate #realtor #aiforrealtors #claudeai #productivity
+**Hashtags:** #shorts #realestate #aiforrealtors #claudeai #productivity
 
 ### Facebook Personal
 **Caption:**
@@ -128,7 +128,7 @@ You're not just carrying work home. You're carrying the feeling that you're alwa
 
 Full prompt plus 569 more at tapthis.co.
 
-**Hashtags:** #RealEstate #AIforRealtors #Productivity #RealtorLife #ChicagoRealEstate
+**Hashtags:** #AIforRealtors #Productivity #ChicagoRealEstate
 
 ### Facebook Biz
 **Caption:**
@@ -140,7 +140,7 @@ Loops close. Brain rests. Tomorrow starts with clarity.
 
 Prompt + library at tapthis.co.
 
-**Hashtags:** #RealEstate #AIforRealtors #Productivity #RealtorLife
+**Hashtags:** #RealEstate #AIforRealtors #Productivity
 
 ### X (Twitter)
 **Caption:**

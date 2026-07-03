@@ -94,13 +94,13 @@ Save as a Claude Project. Every post after that = you.
 
 Grab the prompt + 569 more at tapthis.co.
 
-**Hashtags:** #realestate #realtor #realtorlife #aiforrealtors #claudeai #personalbrand #contentmarketing #chicagorealestate #kalerealty
+**Hashtags:** #aiforrealtors #claudeai #personalbrand #contentmarketing #chicagorealestate
 
 ### TikTok (Biz)
 **Caption:**
 Your AI content sounds like a robot because you skipped the 5-min voice training. Here's the Claude fix my Kale agents use. Full prompt at tapthis.co
 
-**Hashtags:** #realtortok #realestatetok #realtor #aiforrealtors #claudeai #personalbrand
+**Hashtags:** #realtortok #realestatetok #aiforrealtors #claudeai #personalbrand
 
 ### YouTube Shorts
 **Title:** Why Your AI Content Sounds Robotic (And the 5-Minute Claude Fix)
@@ -110,7 +110,7 @@ Everyone complains AI content sounds generic. D.J. Paris shares the 5-minute Cla
 
 Grab this prompt and my whole library at tapthis.co.
 
-**Hashtags:** #shorts #realestate #realtor #aiforrealtors #claudeai #personalbrand
+**Hashtags:** #shorts #realestate #aiforrealtors #claudeai #personalbrand
 
 ### Facebook Personal
 **Caption:**
@@ -128,7 +128,7 @@ AI is a force multiplier for your voice. Not a replacement for it.
 
 Grab this prompt and my whole library at tapthis.co.
 
-**Hashtags:** #RealEstate #AIforRealtors #PersonalBrand #RealtorLife #ChicagoRealEstate
+**Hashtags:** #AIforRealtors #PersonalBrand #ChicagoRealEstate
 
 ### Facebook Biz
 **Caption:**
@@ -140,7 +140,7 @@ Save as a Claude Project. Done forever.
 
 Grab this prompt + my full library at tapthis.co.
 
-**Hashtags:** #RealEstate #AIforRealtors #PersonalBrand #RealtorLife
+**Hashtags:** #RealEstate #AIforRealtors #PersonalBrand
 
 ### X (Twitter)
 **Caption:**

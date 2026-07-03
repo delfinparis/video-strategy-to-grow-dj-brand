@@ -106,7 +106,7 @@ Three. Build a referral network this month. The agents who can hand off the buye
 
 The commission chapter just closed. The dual-agency chapter is the next one. Be on the right side of the data.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #BrokerageStrategy #RealEstateLaw #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast
+**Hashtags:** #DualAgency #BrokerageStrategy #RealEstateLaw #ChicagoRealEstate #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -142,7 +142,7 @@ $1.5 billion. That's what dual agency cost American sellers in three years. Zill
 **Description:**
 Zillow analyzed more than 15 million U.S. transactions from 2023 to 2025 and found that sellers represented by the same agent as the buyer lost a combined $1.49 billion. California sellers took the biggest hit at $533 million. The pattern showed up every year of the study. D.J. Paris breaks down why this is exactly the kind of data that drives the next class action, and three things every agent and brokerage leader should do this week to be on the right side of it.
 
-**Hashtags:** #shorts #realestate #realtor #dualagency #realestatelaw #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #dualagency #realestatelaw #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -162,7 +162,7 @@ Three. Build a referral network. Hand off the buyer side. Don't choose between t
 
 The commission chapter just closed. The dual-agency chapter is the next one.
 
-**Hashtags:** #RealEstate #Realtor #DualAgency #BrokerageStrategy #RealEstateLaw #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #DualAgency #BrokerageStrategy #RealEstateLaw
 
 ### X (Twitter)
 **Caption:**
@@ -177,7 +177,7 @@ The commission lawsuits are wrapping. The plaintiffs' bar isn't going home. This
 2. Brokerage leaders: audit office policy.
 3. Build a referral network. Hand off the buyer side.
 
-**Hashtags:** #RealEstate #DualAgency #RealEstateLaw
+**Hashtags:** #DualAgency #RealEstateLaw
 
 ### Threads
 **Post:**

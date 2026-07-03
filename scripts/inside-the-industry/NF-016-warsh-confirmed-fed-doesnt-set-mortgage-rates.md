@@ -131,7 +131,7 @@ Three. When your buyer asks about the new Fed chair, say this. "The Fed doesn't 
 
 New Fed chair. Same rate reality. Be the agent who already explained it before they had to ask.
 
-**Hashtags:** #RealEstate #Realtor #MortgageRates #HousingMarket #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #FederalReserve
+**Hashtags:** #MortgageRates #HousingMarket #ChicagoRealEstate #RealEstate2026 #FederalReserve
 
 ### Instagram Reels
 **Caption:**
@@ -167,7 +167,7 @@ Kevin Warsh just got confirmed as the next Fed chair. Your clients will ask if r
 **Description:**
 Kevin Warsh was confirmed today as the next Fed chair. Buyers will ask if rates are dropping. The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury. The Fed cut rates in 2024 and mortgage rates went up. April CPI hit 3.8 percent and markets are pricing zero cuts for the rest of 2026. D.J. Paris breaks down the three plays every agent should run with the new Fed chair news, plus the exact thirty-word line to say to a buyer who asks about it this week.
 
-**Hashtags:** #shorts #realestate #realtor #mortgagerates #housingmarket #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #fedchair
+**Hashtags:** #shorts #mortgagerates #housingmarket #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -187,7 +187,7 @@ Three. When your buyer asks about the new Fed chair, say this. "The Fed doesn't 
 
 New Fed chair. Same rate reality. Be the agent who already explained it before they had to ask.
 
-**Hashtags:** #RealEstate #Realtor #MortgageRates #HousingMarket #RealtorLife #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #MortgageRates #HousingMarket #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -203,7 +203,7 @@ When your buyer asks about the Fed chair, say: "The Fed doesn't set mortgage rat
 
 New Fed chair. Same rate reality.
 
-**Hashtags:** #RealEstate #MortgageRates #Realtor
+**Hashtags:** #RealEstate #MortgageRates
 
 ### Threads
 **Post:**

@@ -92,7 +92,7 @@ That's where your deals are hiding.
 
 The Playbook. Episode 5. Every Wednesday.
 
-**Hashtags:** #RealEstate #FollowUp #LeadGeneration #RealEstateTips #ChicagoRealEstate #ThePlaybook
+**Hashtags:** #RealEstate #FollowUp #LeadGeneration #ChicagoRealEstate #ThePlaybook
 
 ### Personal Facebook
 Eighty percent of sales take five or more follow-ups to close. Most agents quit after one or two. That gap is where your deals are hiding.
@@ -105,7 +105,7 @@ The deal was never gone. The follow-up was. Four in ten sellers pick their agent
 
 Right now most agents have quit on their cold pipeline for the summer. That's your opening. Tonight, pull your twenty oldest dead leads. Tomorrow, send touch five to the first five.
 
-**Hashtags:** #RealEstate #FollowUp #RealEstateTips #ChicagoRealEstate #ThePlaybook
+**Hashtags:** #FollowUp #ChicagoRealEstate #ThePlaybook
 
 ### Personal Instagram (Reel)
 The Playbook Ep 5: Most agents quit at touch two. The sale closes at touch five.
@@ -133,7 +133,7 @@ The Playbook Ep 5. Eighty percent of sales take five follow-ups. Most agents qui
 **Description:**
 Episode 5 of The Playbook. Eighty percent of sales take five or more follow-ups to close, and most agents quit after one or two (AgentZap / REDX, 2026). The deals are hiding in the leads you already have. Here's the exact reactivation play: pull your twenty oldest cold leads and run five real touches over three weeks. New Playbook every Wednesday.
 
-**Hashtags:** #shorts #realestate #realtor #followup #leadgeneration #thePlaybook #keepingitrealpodcast
+**Hashtags:** #shorts #followup #leadgeneration #thePlaybook #keepingitrealpodcast
 
 ### X (Twitter)
 Eighty percent of sales take five or more follow-ups. Most agents quit after one or two.
@@ -142,7 +142,7 @@ That gap is where your deals are hiding.
 
 The play: pull your twenty oldest cold leads, run five real touches over three weeks. The deal was never gone. The follow-up was.
 
-**Hashtags:** #RealEstate #FollowUp #ThePlaybook
+**Hashtags:** #FollowUp #ThePlaybook
 
 ## AI Music Prompt
 

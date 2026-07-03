@@ -86,7 +86,7 @@ In Chicago right now, the real listing-appointment conversation is preparing you
 
 Do not borrow someone else's market narrative for your listing appointment. Chicago is its own market. Price it like it.
 
-**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket #ListingAgent #PricingStrategy #RealtorLife #RealEstate2026 #MarketIntelligence #KeepingItRealPodcast
+**Hashtags:** #ChicagoRealEstate #HousingMarket #ListingAgent #PricingStrategy #RealEstate2026
 
 ### Instagram Reels
 **Caption:**
@@ -114,7 +114,7 @@ National headlines say buyer's market. Chicago is walking into multiple offers o
 **Description:**
 Every national headline is talking buyer's market. 34.2% of sellers cut their prices in February -- highest rate since 2012 per Redfin. But that story is Sun Belt. Chicago is the opposite: Illinois REALTORS reports median prices up, inventory down, sales down nearly 6% year-over-year because there is nothing to sell. D.J. Paris breaks down why agents importing the national pricing conversation into Chicago listing appointments are about to miscalibrate every one of them.
 
-**Hashtags:** #shorts #realestate #chicagorealestate #housingmarket #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #chicagorealestate #housingmarket #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -136,7 +136,7 @@ In Chicago right now, the conversation is preparing your seller for multiple off
 
 Do not borrow someone else's market narrative for your listing appointment. Chicago is its own market. Price it like it.
 
-**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket #ListingAgent #RealtorLife
+**Hashtags:** #ChicagoRealEstate #HousingMarket #ListingAgent
 
 ### X (Twitter)
 **Caption:**
@@ -148,4 +148,4 @@ Chicago reality: median prices up, inventory down, sales down 6% because there's
 
 Don't borrow someone else's market narrative for your Chicago listing appointment.
 
-**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket
+**Hashtags:** #ChicagoRealEstate #HousingMarket

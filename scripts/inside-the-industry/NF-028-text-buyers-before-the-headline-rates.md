@@ -94,7 +94,7 @@ Be the source. Not the afterthought.
 
 6.51%. Text your buyers before the headline does.
 
-**Hashtags:** #RealEstate #Realtor #MortgageRates #Buyers #RealEstate2026 #ChicagoRealEstate #RealtorLife #KeepingItRealPodcast #BrokerageStrategy
+**Hashtags:** #MortgageRates #Buyers #RealEstate2026 #ChicagoRealEstate #BrokerageStrategy
 
 ### Instagram Reels
 **Caption:**
@@ -126,7 +126,7 @@ The 30-year fixed jumped to 6.51% this week. It was 6.36% a week earlier. Freddi
 **Description:**
 The 30-year fixed-rate mortgage jumped to 6.51% the week of May 21, 2026, up from 6.36% a week earlier, per Freddie Mac's Primary Mortgage Market Survey. D.J. Paris breaks down why the move is about bond yields and the Fed rather than your local market, and why the agent who frames the rate news first owns the buyer conversation. One action to take today: text every active buyer with the payment math.
 
-**Hashtags:** #shorts #realestate #realtor #mortgagerates #homebuyer #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #mortgagerates #homebuyer #realestatenews #realestate2026
 
 ### Facebook
 **Caption:**
@@ -138,7 +138,7 @@ Here is the part agents get wrong. You let a portal break the rate news to your 
 
 Today, one message to every active buyer. Tell them what it does to their payment, and why waiting on a cut is a bet, not a plan. Run the real numbers on their price range. Be the source, not the afterthought.
 
-**Hashtags:** #RealEstate #Realtor #MortgageRates #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #MortgageRates #ChicagoRealEstate #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
@@ -152,7 +152,7 @@ The agent who texts first owns the conversation. So text every buyer today with 
 
 Be the source. Not the afterthought.
 
-**Hashtags:** #RealEstate #MortgageRates #Realtor
+**Hashtags:** #RealEstate #MortgageRates
 
 ### Threads
 **Post:**

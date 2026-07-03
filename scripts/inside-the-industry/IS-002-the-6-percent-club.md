@@ -105,7 +105,7 @@ So the real question isn't whether you can afford to answer your own phone. It's
 
 That's one pattern from 700 interviews. There's a whole catalog.
 
-**Hashtags:** #RealEstate #Leadership #TopProducers #RealtorLife #ChicagoRealEstate #KeepingItRealPodcast #Relationships
+**Hashtags:** #Leadership #TopProducers #ChicagoRealEstate #KeepingItRealPodcast #Relationships
 
 ### Instagram Reels
 **Caption:**
@@ -139,7 +139,7 @@ D.J. Paris has interviewed 700+ real estate agents on the Keeping It Real Podcas
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #realtor #topproducers #realestatelife #keepingitrealpodcast
+**Hashtags:** #shorts #realestate #topproducers #realestatelife #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -163,7 +163,7 @@ Karina Chavez told me: "Always answer your phone. You never know what you're goi
 
 The real question isn't whether you can afford to answer your own phone. It's whether you can afford not to.
 
-**Hashtags:** #RealEstate #Relationships #TopProducers #ChicagoRealEstate
+**Hashtags:** #Relationships #TopProducers #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**

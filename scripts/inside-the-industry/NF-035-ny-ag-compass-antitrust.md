@@ -96,7 +96,7 @@ The Compass-Anywhere deal was the largest residential brokerage merger in histor
 
 If you are a Compass agent in New York, ask your leadership what their contingency plan looks like. If you are anywhere else, take notes. This isn't a one-off.
 
-**Hashtags:** #RealEstate #Compass #Anywhere #Antitrust #BrokerageLaw #RealEstateNews #RealtorLife #LuxuryRealEstate #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #Compass #Anywhere #Antitrust #BrokerageLaw #RealEstateNews
 
 ### Instagram Reels
 **Caption:**
@@ -110,16 +110,16 @@ This is bigger than Compass. It was the largest residential brokerage merger in 
 
 State AGs just stepped into brokerage M&A. This isn't a one-off.
 
-**Hashtags:** #realestate #compass #anywhere #antitrust #brokeragelaw #realestatenews #realtorlife #luxuryrealestate #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #compass #anywhere #antitrust #brokeragelaw #realestatenews
 
 ### TikTok
 **Caption:** NY's Attorney General just opened an antitrust inquiry into Compass. Stock dropped 12% in a day. Here's why this is bigger than Compass.
-**Hashtags:** #realtortok #realestatetok #realtor #compass #realestatenews #antitrust
+**Hashtags:** #realtortok #realestatetok #compass #realestatenews #antitrust
 
 ### YouTube Shorts
 **Title:** NY Attorney General Opens Antitrust Inquiry into Compass
 **Description:** Five months after Compass closed its $4.2 billion merger with Anywhere, New York Attorney General Letitia James has opened an antitrust inquiry into the combined company's New York footprint. Compass stock dropped 12% on Wednesday. The combined entity is projected to control more than 30% of the New York market. D.J. Paris on why this is bigger than Compass and the precedent it sets for state-level antitrust enforcement of residential brokerage M&A.
-**Hashtags:** #shorts #realestate #compass #anywhere #antitrust #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #compass #anywhere #antitrust #realestatenews
 
 ### Facebook
 **Caption:**
@@ -133,7 +133,7 @@ This is bigger than Compass. The Compass-Anywhere deal was the largest residenti
 
 If you're a Compass agent in New York, ask your leadership what the contingency plan is. If you're at any other brokerage, take notes. State AGs just stepped into residential brokerage M&A. This isn't a one-off.
 
-**Hashtags:** #RealEstate #Compass #Anywhere #Antitrust #BrokerageLaw #RealEstateNews #RealtorLife
+**Hashtags:** #Compass #Anywhere #Antitrust
 
 ### X (Twitter)
 **Caption:**
@@ -145,4 +145,4 @@ Five months ago Compass closed a $4.2B merger with Anywhere. Federal cleared it.
 
 State AGs just stepped into brokerage M&A. Not a one-off.
 
-**Hashtags:** #RealEstate #Compass #Antitrust
+**Hashtags:** #Compass #Antitrust

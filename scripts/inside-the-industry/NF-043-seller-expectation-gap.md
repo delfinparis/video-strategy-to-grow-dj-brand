@@ -81,7 +81,7 @@ At your next listing consult, bring the last ten comparable sales. Put list pric
 
 Set the number before you sign.
 
-**Hashtags:** #RealEstate #ListingStrategy #PricingStrategy #RealtorLife #HousingMarket #RealEstateAgent #SellersMarket #ChicagoRealEstate #KeepingItRealPodcast
+**Hashtags:** #ListingStrategy #PricingStrategy #HousingMarket #SellersMarket #ChicagoRealEstate
 
 ### Instagram Reels
 **Caption:**
@@ -93,16 +93,16 @@ Agents lose by taking the listing at the seller's number, then having the price-
 
 Bring the last ten comps. List price next to sale price. Set the number before you sign.
 
-**Hashtags:** #realestate #listingstrategy #pricingstrategy #realtorlife #housingmarket #sellersmarket #realestateagent #chicagorealestate #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #listingstrategy #pricingstrategy #housingmarket #sellersmarket #chicagorealestate
 
 ### TikTok
 **Caption:** 83% of sellers expect asking price or more. The market is giving them a discount. Here's how to close that gap before you sign.
-**Hashtags:** #realtortok #realestatetok #realtor #listingstrategy #housingmarket #realestatenews
+**Hashtags:** #realtortok #realestatetok #listingstrategy #housingmarket #realestatenews
 
 ### YouTube Shorts
 **Title:** 83% of Sellers Expect Asking Price. The Market Disagrees.
 **Description:** A Realtor.com survey this spring found 83% of sellers expect to get asking price or better and more than one in three expect above-asking offers. A separate Homes.com analysis shows homes closing around 1.5% under list. That expectation gap is the source of most agent-seller friction. D.J. Paris on how to set the real number at the listing consult, before you sign, instead of having the price-reduction conversation three weeks later.
-**Hashtags:** #shorts #realestate #listingstrategy #pricingstrategy #housingmarket #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #listingstrategy #pricingstrategy #housingmarket #realestatenews
 
 ### Facebook
 **Caption:**
@@ -114,7 +114,7 @@ Here's where agents lose. You don't correct the number at the listing table beca
 
 At your next listing consult, bring the last ten comparable sales. Put list price next to sale price. Let the spread set the expectation, not the seller's hope. Set the number before you sign.
 
-**Hashtags:** #RealEstate #ListingStrategy #PricingStrategy #HousingMarket #RealtorLife #ChicagoRealEstate
+**Hashtags:** #ListingStrategy #PricingStrategy #HousingMarket
 
 ### X (Twitter)
 **Caption:**
@@ -126,4 +126,4 @@ Your seller is doing math the market stopped supporting weeks ago.
 
 Bring 10 comps to the consult. List vs sale price. Set the number before you sign.
 
-**Hashtags:** #RealEstate #ListingStrategy #HousingMarket
+**Hashtags:** #ListingStrategy #HousingMarket

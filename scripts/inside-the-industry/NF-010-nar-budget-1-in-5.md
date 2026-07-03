@@ -118,7 +118,7 @@ The agents who stay are about to see a very different organization than the one 
 
 Not a forecast. A fiscal bet.
 
-**Hashtags:** #RealEstate #NAR #Realtor #BrokerageStrategy #RealtorLife #ChicagoRealEstate #RealEstate2026 #KeepingItRealPodcast #RealEstateLeadership
+**Hashtags:** #NAR #BrokerageStrategy #ChicagoRealEstate #RealEstate2026 #RealEstateLeadership
 
 ### Instagram Reels
 **Caption:**
@@ -152,7 +152,7 @@ NAR just budgeted like 300,000 Realtors are going to quit this year. Three thing
 **Description:**
 On November 17, 2025, NAR's Board of Directors approved a 2026 budget built on a baseline of 1.2 million members. NAR currently reports 1.491 million. That is a 291,000-member gap -- roughly one in five Realtors -- that NAR is now planning around. They cut $41 million in expenses to match. Dues stay flat at $156. D.J. Paris breaks down why this year's projection is different from the last three, and the three things every Realtor should do this quarter to read the change correctly.
 
-**Hashtags:** #shorts #realestate #nar #realtor #realestatenews #realestate2026 #keepingitrealpodcast #insidetheindustry #brokerage
+**Hashtags:** #shorts #nar #realestatenews #realestate2026 #brokerage
 
 ### Facebook
 **Caption:**
@@ -174,7 +174,7 @@ Three. Watch which programs NAR cuts first. The cuts are the leading indicator. 
 
 The agents who stay are about to see a very different organization than the one they joined.
 
-**Hashtags:** #RealEstate #NAR #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026
+**Hashtags:** #NAR #ChicagoRealEstate #RealEstate2026
 
 ### X (Twitter)
 **Caption:**
@@ -192,7 +192,7 @@ Three moves this quarter:
 
 Not a forecast. A fiscal bet.
 
-**Hashtags:** #RealEstate #NAR #Realtor
+**Hashtags:** #RealEstate #NAR
 
 ### Threads
 **Post:**

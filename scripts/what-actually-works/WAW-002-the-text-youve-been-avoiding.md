@@ -77,7 +77,7 @@ The agents I've interviewed who built entire businesses on referrals aren't more
 
 Three texts. Today. Watch what comes back.
 
-**Hashtags:** #RealEstate #RealtorLife #Referrals #ChicagoRealEstate #Prospecting #ClientExperience #KeepingItRealPodcast #WhatActuallyWorks
+**Hashtags:** #Referrals #ChicagoRealEstate #Prospecting #ClientExperience #WhatActuallyWorks
 
 ### Instagram Reels
 **Caption:**
@@ -109,7 +109,7 @@ You've got a message half-written to a past client, and you keep not sending it 
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #realtor #prospecting #referrals #whatactuallyworks
+**Hashtags:** #shorts #realestate #prospecting #referrals #whatactuallyworks
 
 ### Facebook
 **Caption:**
@@ -125,7 +125,7 @@ So send three today. Not a pitch. Just "thought of you. Hope you're well."
 
 Watch what comes back.
 
-**Hashtags:** #RealEstate #RealtorLife #Referrals #Prospecting
+**Hashtags:** #RealEstate #Referrals #Prospecting
 
 ### X (Twitter)
 **Caption:**

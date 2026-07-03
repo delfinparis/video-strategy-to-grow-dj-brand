@@ -86,7 +86,7 @@ The Code of Ethics only matters if breaking it costs something. NAR is finally s
 
 I will be sharing more from inside this relationship in the months ahead.
 
-**Hashtags:** #RealEstate #NAR #CodeOfEthics #RealtorLife #ChicagoRealEstate #InsideTheIndustry
+**Hashtags:** #RealEstate #NAR #CodeOfEthics #ChicagoRealEstate #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
@@ -113,7 +113,7 @@ D.J. Paris attended a closed-door NAR Q1 strategic-plan readout alongside Rob Ha
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #codeofethics #realtor #realestatenews #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #nar #codeofethics #realestatenews #insidetheindustry
 
 ### Facebook
 **Caption:**
@@ -131,7 +131,7 @@ Rob even pushed them to start publishing the kick-out list publicly. NAR said th
 
 The Code of Ethics only matters if breaking it costs something. NAR is finally saying it has to.
 
-**Hashtags:** #RealEstate #NAR #CodeOfEthics #RealtorLife #ChicagoRealEstate
+**Hashtags:** #NAR #CodeOfEthics #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -143,4 +143,4 @@ NAR: "What's the value of the Code of Ethics if it's not being enforced? We've g
 
 The institution itself just admitted enforcement is broken.
 
-**Hashtags:** #RealEstate #NAR #CodeOfEthics
+**Hashtags:** #NAR #CodeOfEthics

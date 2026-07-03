@@ -94,7 +94,7 @@ The cooperative model breaks when the cooperative starts taking sides.
 
 If you sit on an MLS committee, raise the neutrality question. If you do not, ask your broker to. The MLSes that stay neutral are the ones every member can keep trusting. The ones that pick sides are inviting the next dispute to be settled the same way.
 
-**Hashtags:** #RealEstate #Zillow #Compass #MLS #Realtracs #MRED #MLSGovernance #RealEstateLaw #RealtorLife #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #Zillow #Compass #MLS #Realtracs #MRED
 
 ### Instagram Reels
 **Caption:**
@@ -110,16 +110,16 @@ The cooperative model breaks when the cooperative starts taking sides.
 
 Raise the neutrality question. The MLSes that stay neutral are the ones every member can keep trusting.
 
-**Hashtags:** #realestate #zillow #compass #mls #realtracs #mred #mlsgovernance #realestatelaw #realtorlife #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #zillow #compass #mls #realtracs #mred
 
 ### TikTok
 **Caption:** Two MLSes just picked a side in the Compass-Zillow fight. They shouldn't have. An MLS is a database, not a political actor. Here's what every broker should be raising this week.
-**Hashtags:** #realtortok #realestatetok #realtor #zillow #compass #mls #realestatenews
+**Hashtags:** #realtortok #zillow #compass #mls #realestatenews
 
 ### YouTube Shorts
 **Title:** Your MLS Just Picked a Side. That's Not Its Job.
 **Description:** Two MLSes have now taken sides in the Compass-Zillow fight: MRED in Chicago and Realtracs in Nashville (~18,000 brokers across TN/KY/AL/GA). Compass CEO Robert Reffkin publicly thanked Realtracs, which is the tell that the MLS wasn't neutral. D.J. Paris on why MLSes are infrastructure, not political actors, and why the cooperative model breaks when the cooperative starts picking sides. Every member broker is getting conscripted into a fight they never agreed to.
-**Hashtags:** #shorts #realestate #zillow #compass #mls #realestatelaw #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #zillow #compass #mls #realestatelaw
 
 ### Facebook
 **Caption:**
@@ -133,7 +133,7 @@ The cooperative model breaks when the cooperative starts taking sides.
 
 If you sit on an MLS committee, raise the neutrality question. If you don't, ask your broker to. The MLSes that stay neutral are the ones every member can keep trusting.
 
-**Hashtags:** #RealEstate #Zillow #Compass #MLS #MLSGovernance #RealEstateLaw #RealtorLife
+**Hashtags:** #Zillow #Compass #MLS
 
 ### X (Twitter)
 **Caption:**
@@ -147,4 +147,4 @@ Every member broker just got conscripted into a fight they never agreed to.
 
 Raise the neutrality question.
 
-**Hashtags:** #RealEstate #MLS #MLSGovernance
+**Hashtags:** #MLS #MLSGovernance

@@ -83,7 +83,7 @@ Send this exact text the next time someone goes silent.
 
 The Playbook. Episode 2. Every Wednesday.
 
-**Hashtags:** #RealEstate #BuyerAgent #ChicagoRealEstate #RealtorLife #ThePlaybook #AgentLife
+**Hashtags:** #RealEstate #BuyerAgent #ChicagoRealEstate #ThePlaybook #AgentLife
 
 ### Personal Facebook
 **Caption:**
@@ -103,7 +103,7 @@ Listing agents aren't rude. They're triaging. Make yourself worth answering.
 
 Send this next time one of them goes silent.
 
-**Hashtags:** #RealEstate #BuyerAgent #ChicagoRealEstate #ThePlaybook
+**Hashtags:** #BuyerAgent #ChicagoRealEstate #ThePlaybook
 
 ### Personal Instagram (Reel)
 **Caption:**
@@ -133,7 +133,7 @@ The Playbook Ep 2. Listing agent ghosting you? Don't chase. Send THIS one text.
 **Description:**
 Episode 2 of The Playbook. You're trying to write an offer and the listing agent has gone silent. Here's the exact text to send (and why most agents send the wrong one). The Playbook drops every Wednesday.
 
-**Hashtags:** #shorts #realestate #realtor #buyeragent #thePlaybook #keepingitrealpodcast
+**Hashtags:** #shorts #realestate #buyeragent #thePlaybook #keepingitrealpodcast
 
 ### X (Twitter)
 **Caption:**

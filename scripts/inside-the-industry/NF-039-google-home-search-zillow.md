@@ -92,7 +92,7 @@ This matters even if your listing is not in the pilot. If Google becomes where b
 
 Ask your broker one question this week. Which MLSs and partners feed our listings into Google's pilot? If the answer is "none of them," that is not a problem today. It is going to be one fast.
 
-**Hashtags:** #RealEstate #Google #Zillow #MLS #HouseCanary #eXpRealty #RealEstateTech #ListingStrategy #ChicagoRealEstate #KeepingItRealPodcast
+**Hashtags:** #Google #Zillow #MLS #HouseCanary #eXpRealty
 
 ### Instagram Reels
 **Caption:**
@@ -106,16 +106,16 @@ If Google becomes where buyers default to search, the path runs through whicheve
 
 Ask your broker this week: which MLSs and partners feed our listings into Google's pilot?
 
-**Hashtags:** #realestate #google #zillow #mls #housecanary #exprealty #realestatetech #listingstrategy #chicagorealestate #keepingitrealpodcast #insidetheindustry #realestatenews
+**Hashtags:** #google #zillow #mls #housecanary #exprealty
 
 ### TikTok
 **Caption:** Google just jumped into home search. They didn't ask Zillow. They didn't ask NAR. Here's what every agent should ask their broker this week.
-**Hashtags:** #realtortok #realestatetok #realtor #zillow #google #realestatenews
+**Hashtags:** #realtortok #realestatetok #zillow #google #realestatenews
 
 ### YouTube Shorts
 **Title:** Google Just Jumped Into Home Search Without Asking Zillow
 **Description:** This week Google relaunched a test that drops home listings directly into mobile search results across eight major markets, with data routed through HouseCanary, eXp Realty, and three MLSes -- bypassing Zillow's portal and NAR's traditional MLS coordination. When investors first saw this in December, Zillow lost roughly $1.6 billion in market cap in a single day. D.J. Paris on the one question every agent should ask their broker this week about whether their listings even appear in Google's pilot.
-**Hashtags:** #shorts #realestate #google #zillow #mls #realestatetech #realestatenews #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #google #zillow #mls #realestatetech
 
 ### Facebook
 **Caption:**
@@ -129,7 +129,7 @@ This matters even if your listing isn't in the pilot. If Google becomes where bu
 
 Ask your broker this week: which MLSs and partners feed our listings into Google's pilot? If the answer is "none of them," that's not a problem today. It's going to be one fast.
 
-**Hashtags:** #RealEstate #Google #Zillow #MLS #ListingStrategy #ChicagoRealEstate #RealtorLife
+**Hashtags:** #Google #Zillow #MLS
 
 ### X (Twitter)
 **Caption:**
@@ -143,4 +143,4 @@ Last time Google did this (Dec 2025), Zillow lost $1.6B in market cap in a day.
 
 If your brokerage isn't on a Google-fed feed, your listing isn't there.
 
-**Hashtags:** #RealEstate #Google #Zillow #MLS
+**Hashtags:** #Google #Zillow

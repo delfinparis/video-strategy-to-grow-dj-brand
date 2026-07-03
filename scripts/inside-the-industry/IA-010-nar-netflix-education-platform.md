@@ -87,7 +87,7 @@ The new platform is not just an upgrade. It is a distribution shift for everyone
 
 I will be sharing more from inside this relationship in the months ahead.
 
-**Hashtags:** #RealEstate #NAR #RealEstateEducation #RealtorLife #ChicagoRealEstate #InsideTheIndustry
+**Hashtags:** #RealEstate #NAR #RealEstateEducation #ChicagoRealEstate #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
@@ -114,7 +114,7 @@ D.J. Paris attended a closed-door NAR Q1 strategic-plan readout as one of approx
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #realestateeducation #realtor #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #nar #realestateeducation #insidetheindustry #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -130,7 +130,7 @@ Two implications. One, every member gets a curated education library that did no
 
 The new platform is not just an upgrade. It is a distribution shift for everyone who teaches in this industry.
 
-**Hashtags:** #RealEstate #NAR #RealEstateEducation #ChicagoRealEstate
+**Hashtags:** #NAR #RealEstateEducation #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -142,4 +142,4 @@ The surprise: independent coaches and brokerage-spinoff education will live on t
 
 Distribution shift for every educator in real estate.
 
-**Hashtags:** #RealEstate #NAR #RealEstateEducation
+**Hashtags:** #NAR #RealEstateEducation

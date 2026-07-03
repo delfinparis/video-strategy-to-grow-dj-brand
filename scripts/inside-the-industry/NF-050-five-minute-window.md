@@ -98,7 +98,7 @@ Three actions, today.
 
 The leads in your pipeline right now are enough. You're losing them in the gap.
 
-**Hashtags:** #RealEstate #LeadConversion #RealtorTips #BuyersAgent #RealEstateAgent #RealtorLife #RealEstateCoaching #SpeedToLead #ChicagoRealEstate #KeepingItRealPodcast #InsideTheIndustry
+**Hashtags:** #LeadConversion #BuyersAgent #SpeedToLead #ChicagoRealEstate #KeepingItRealPodcast
 
 ### Instagram Reels
 **Caption:**
@@ -120,16 +120,16 @@ Three actions today.
 
 That's how you go from 5.7 hours to 5 minutes.
 
-**Hashtags:** #realestate #leadconversion #realtortips #buyersagent #realestateagent #realtorlife #speedtolead #realestatecoaching #chicagorealestate #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #leadconversion #buyersagent #speedtolead #chicagorealestate #keepingitrealpodcast
 
 ### TikTok
 **Caption:** 78% of buyers hire the first agent who responds. The average agent takes 5.7 hours. That gap is your whole business. Here's the 3-step fix.
-**Hashtags:** #realtortok #realestatetok #realtor #leadconversion #speedtolead #realtortips
+**Hashtags:** #realtortok #realestatetok #realtor #leadconversion #speedtolead
 
 ### YouTube Shorts
 **Title:** Your Business Lives in the First Five Minutes
 **Description:** 78% of buyers hire the first agent who responds to their inquiry (NAR Home Buyers and Sellers Generational Trends Report). The average agent takes 5.7 hours (2026 lead-response benchmarks). Harvard Business Review's classic lead-response study found a lead contacted in 5 minutes is 21x more likely to qualify than one contacted in 30. D.J. Paris on why lead conversion is a clock problem, and the three-step fix every agent can run today: lead notifications on for every source, a 60-second response saved as a text shortcut, and a 5-minute lead window at the top of every hour for the next two weeks.
-**Hashtags:** #shorts #realestate #leadconversion #speedtolead #realtortips #realestateagent #keepingitrealpodcast #insidetheindustry
+**Hashtags:** #shorts #leadconversion #speedtolead #keepingitrealpodcast #insidetheindustry
 
 ### Facebook
 **Caption:**
@@ -149,7 +149,7 @@ Three actions today.
 
 That's how you go from 5.7 hours to five minutes.
 
-**Hashtags:** #RealEstate #LeadConversion #RealtorTips #BuyersAgent #RealEstateAgent #SpeedToLead #RealtorLife
+**Hashtags:** #LeadConversion #BuyersAgent #SpeedToLead
 
 ### X (Twitter)
 **Caption:**
@@ -161,4 +161,4 @@ The lead doesn't pick the best agent. They pick the fastest.
 
 Lead notifications on. 60-sec template. 5-min window at the top of every hour.
 
-**Hashtags:** #RealEstate #SpeedToLead #LeadConversion
+**Hashtags:** #SpeedToLead #LeadConversion

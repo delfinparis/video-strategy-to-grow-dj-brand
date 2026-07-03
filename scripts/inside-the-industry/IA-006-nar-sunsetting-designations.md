@@ -87,7 +87,7 @@ I am not going to name which designations I think are at risk. That is not my ca
 
 Some of those letters behind realtor names are going away. The question is which ones, and which ones still mean something to a consumer when they do.
 
-**Hashtags:** #RealEstate #NAR #Realtor #RealtorLife #ChicagoRealEstate #InsideTheIndustry
+**Hashtags:** #RealEstate #NAR #Realtor #ChicagoRealEstate #InsideTheIndustry
 
 ### Instagram Reels
 **Caption:**
@@ -114,7 +114,7 @@ D.J. Paris was one of approximately six content creators invited to a closed-doo
 
 More from inside the industry on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #nar #realtor #realestatedesignations #insidetheindustry #keepingitrealpodcast
+**Hashtags:** #shorts #nar #realestatedesignations #insidetheindustry #keepingitrealpodcast
 
 ### Facebook
 **Caption:**
@@ -128,7 +128,7 @@ That came directly from NAR's senior team. Not a critic. Not a forum post. The i
 
 Some of those letters behind realtor names are going away. The question is which ones -- and which ones still mean something to a consumer when they do.
 
-**Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
+**Hashtags:** #RealEstate #NAR #ChicagoRealEstate
 
 ### X (Twitter)
 **Caption:**
@@ -138,4 +138,4 @@ Another attendee -- Katie -- said it bluntly: "All you should need behind your n
 
 NAR agreed. Their words: "Maybe not all of these designations are going to last." The plan is to sunset the ones that aren't bringing real value.
 
-**Hashtags:** #RealEstate #NAR #Realtor
+**Hashtags:** #RealEstate #NAR

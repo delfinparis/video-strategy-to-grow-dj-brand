@@ -115,7 +115,7 @@ KW: $20M (Batton). RE/MAX: $8.5M (Batton). Hanna: $8.25M (Tuccori). Elliman: und
 
 The dominoes are falling. Watch who goes next.
 
-**Hashtags:** #shorts #realestate #realtor #narssettlement #douglaselliman #realestatenews #commissions #realestate2026 #keepingitrealpodcast
+**Hashtags:** #shorts #narssettlement #douglaselliman #realestatenews #commissions
 
 ### Facebook
 **Caption:**
@@ -135,7 +135,7 @@ The opt-in deadline for the Tuccori settlement is April 13. Any brokerage that h
 
 The industry is closing the book on commission lawsuits, one settlement at a time. If your brokerage hasn't addressed this yet, it's worth asking them about.
 
-**Hashtags:** #RealEstate #NAR #DouglasElliman #Commissions #BuyerAgent #ChicagoRealEstate
+**Hashtags:** #NAR #DouglasElliman #Commissions
 
 ### LinkedIn
 **Caption:**
@@ -157,7 +157,7 @@ For brokerage leadership, the strategic calculus is clear. For individual agents
 
 I cover these developments weekly on the Keeping It Real Podcast.
 
-**Hashtags:** #RealEstate #NAR #DouglasElliman #Litigation #RealEstateLaw #Industry #Leadership
+**Hashtags:** #NAR #DouglasElliman #Litigation #RealEstateLaw #Industry
 
 ### X (Twitter)
 **Caption:**
@@ -169,4 +169,4 @@ KW: $20M (Batton). RE/MAX: $8.5M (Batton). Hanna: $8.25M (Tuccori). Elliman: und
 
 The dominoes are falling fast.
 
-**Hashtags:** #RealEstate #NAR #DouglasElliman #Commissions
+**Hashtags:** #NAR #DouglasElliman

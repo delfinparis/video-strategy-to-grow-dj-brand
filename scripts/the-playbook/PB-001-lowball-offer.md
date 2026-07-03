@@ -78,7 +78,7 @@ Try it on your next lowball offer.
 
 This is the start of a new series called The Playbook. One specific scenario, one specific phrase, one specific outcome. Every Wednesday.
 
-**Hashtags:** #RealEstate #Negotiation #ChicagoRealEstate #RealtorLife #TopProducer #ThePlaybook
+**Hashtags:** #RealEstate #Negotiation #ChicagoRealEstate #TopProducer #ThePlaybook
 
 ### Personal Facebook
 **Caption:**
@@ -98,7 +98,7 @@ You moved the deal without spending any of your use.
 
 Try it on your next lowball.
 
-**Hashtags:** #RealEstate #Negotiation #ChicagoRealEstate #ThePlaybook #RealtorLife
+**Hashtags:** #Negotiation #ChicagoRealEstate #ThePlaybook
 
 ### Personal Instagram (Reel)
 **Caption:**
@@ -132,7 +132,7 @@ Episode 1 of The Playbook: a new series from D.J. Paris that gives you one speci
 
 The Playbook drops every Wednesday on the Keeping It Real Podcast.
 
-**Hashtags:** #shorts #realestate #realtor #negotiation #thePlaybook #keepingitrealpodcast
+**Hashtags:** #shorts #realestate #negotiation #thePlaybook #keepingitrealpodcast
 
 ### X (Twitter)
 **Caption:**
