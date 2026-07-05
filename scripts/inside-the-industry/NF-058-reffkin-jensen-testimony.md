@@ -29,13 +29,13 @@ editorial_note: "Per D.J.'s standing directive: keep entirely apolitical. The sc
 ## Script (~70 seconds, walk and talk)
 
 ### HOOK (0:00-0:12)
-Zillow tried to pay Compass over a billion dollars a year to end private listings. Compass said no. That's what came out of two days of testimony in a Chicago federal courtroom this week.
+Zillow tried to pay Compass over a billion dollars a year. To end private listings. Compass said no. That's what came out of two days of testimony in a Chicago federal courtroom this week.
 
 ### CONTEXT (0:12-0:34)
 This is Zillow versus MRED and Compass. The preliminary injunction hearing wrapped Wednesday in front of Judge Tharp. Compass CEO Reffkin took the stand. So did MRED CEO Rebecca Jensen. Jensen testified that a Zillow executive personally threatened her. Dump her phone. Make her text messages public. Millions in litigation. A public spectacle. Under oath.
 
 ### WHY IT MATTERS (0:34-0:52)
-The testimony tells you this. Zillow was willing to pay a billion a year to put listings back on Zillow. That's how much distribution matters. Compass said no. The MLS is on Compass's side. Your listings are the thing being fought over.
+A billion dollars a year. That's how much portal distribution is worth in 2026. Compass said no anyway. The MLS is on Compass's side. And your listings are the thing being fought over.
 
 ### CLOSE (0:52-1:12)
 Here's what you do now. If you're in Chicagoland, the ruling drops in the next few weeks and it changes your listing distribution rules. Read every listing agreement you sign this month. Make sure it lists which portals your seller's home actually shows up on. Written. If you're outside Chicago, this is the model. What happens in this courtroom goes national. Watch the ruling.
@@ -91,7 +91,7 @@ Here's what you do now. If you're in Chicagoland, the ruling drops in the next f
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-Zillow tried to pay Compass over a billion dollars a year to end private listings. Compass said no.
+Zillow tried to pay Compass over a billion dollars a year. To end private listings. Compass said no.
 
 That is what came out of two days of testimony in a Chicago federal courtroom this week.
 
@@ -103,9 +103,7 @@ Jensen testified that a Zillow executive personally threatened her over MRED's r
 
 Those threats were quoted from Jensen's testimony. Under oath.
 
-The testimony tells you this.
-
-Zillow was willing to pay Compass a billion a year to put listings back on Zillow. That is how much portal distribution is worth in 2026. Compass said no because private listings are worth more. And the MLS is on Compass's side.
+A billion dollars a year. That is how much portal distribution is worth in 2026. Compass said no because private listings are worth more. And the MLS is on Compass's side.
 
 Your listings are the thing being fought over.
 
@@ -119,7 +117,7 @@ If you are outside Chicago, this is the model. What happens in this Chicago cour
 
 ### Instagram Reels
 **Caption:**
-Zillow tried to pay Compass over $1B a year to end private listings. Compass said no.
+Zillow tried to pay Compass over $1B a year. To end private listings. Compass said no.
 
 That's what came out of two days of testimony in a Chicago federal courtroom this week.
 
@@ -127,7 +125,7 @@ Zillow v. MRED and Compass. Preliminary injunction hearing wrapped Wednesday in 
 
 Jensen testified a Zillow executive personally threatened her. Her phone dumped. Her text messages public. Millions in litigation. A public spectacle. Under oath.
 
-Here's the read. Zillow was willing to pay $1B+ a year to put listings back on Zillow. That's how much distribution matters. Compass said no. The MLS is on Compass's side.
+Here's the read. $1B+ a year. That's how much distribution matters. Compass said no anyway. The MLS is on Compass's side.
 
 Your listings are the thing being fought over.
 
@@ -138,7 +136,7 @@ If you're outside Chicago, watch the ruling. What happens here is the model goin
 **Hashtags:** #realestate #compass #zillow #mls #privatelistings #realestatelaw #chicagorealestate #listingagent #realtorlife #keepingitrealpodcast #insidetheindustry #realestatenews
 
 ### TikTok
-**Caption:** Zillow tried to pay Compass over $1B a year to end private listings. Compass said no. That's what came out of two days of testimony in Chicago federal court this week. Ruling drops in weeks.
+**Caption:** Zillow tried to pay Compass over $1B a year. To end private listings. Compass said no. That's what came out of two days of testimony in Chicago federal court this week. Ruling drops in weeks.
 **Hashtags:** #realtortok #realestatetok #realtor #compass #zillow #realestatenews #listingagent
 
 ### YouTube Shorts
@@ -148,7 +146,7 @@ If you're outside Chicago, watch the ruling. What happens here is the model goin
 
 ### Facebook
 **Caption:**
-Zillow tried to pay Compass over a billion dollars a year to end private listings. Compass said no.
+Zillow tried to pay Compass over a billion dollars a year. To end private listings. Compass said no.
 
 That's what came out of two days of testimony in a Chicago federal courtroom this week.
 
@@ -156,7 +154,7 @@ Zillow v. MRED and Compass. The preliminary injunction hearing wrapped Wednesday
 
 Jensen testified that a Zillow executive personally threatened her. Her phone would be dumped. Her text messages made public. Millions in litigation. A public spectacle. That was testimony under oath.
 
-The testimony tells you this. Zillow was willing to pay Compass a billion a year to put listings back on Zillow. That's how much portal distribution matters. Compass said no because private listings are worth more. And the MLS is on Compass's side.
+A billion dollars a year. That's how much portal distribution matters. Compass said no because private listings are worth more. And the MLS is on Compass's side.
 
 Your listings are the thing being fought over.
 
@@ -168,7 +166,7 @@ If you're outside Chicago, this is the model. What happens in this courtroom goe
 
 ### X (Twitter)
 **Caption:**
-Zillow tried to pay Compass over $1B a year to end private listings.
+Zillow tried to pay Compass over $1B a year. To end private listings.
 
 Compass said no.
 
