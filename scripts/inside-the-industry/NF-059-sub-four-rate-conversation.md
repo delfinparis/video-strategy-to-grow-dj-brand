@@ -29,7 +29,7 @@ hook_family_cadence_note: "NF-058 was Named Stakes. NF-057 was System Indictment
 ## Script (~68 seconds, walk and talk)
 
 ### HOOK (0:00-0:12)
-When your seller says "we can't afford to move," don't hear a no. Hear the conversation you haven't had yet. Half of your database is sitting on a rate under four percent. And there's a specific reframe that turns that answer into a listing.
+When your seller says "we can't afford to move," don't hear a no. Hear the conversation you haven't had yet. Half of your database is sitting on a rate under four percent. And there's a three-question reframe that turns that answer into a listing.
 
 ### CONTEXT (0:12-0:30)
 The stat's from Redfin's rate lock analysis. Fifty-two point five percent of mortgaged homeowners still have a rate under four. Down from sixty-five percent at the pandemic peak, but still a majority. That means most of the sellers you want are sitting on golden handcuffs. And most agents accept it. That's the mistake.
@@ -91,7 +91,7 @@ Here's what you do now. Pick one homeowner in your database this week. Someone w
 
 ### LinkedIn (PRIMARY)
 **Caption:**
-When your seller says "we can't afford to move," don't hear a no. Hear the conversation you haven't had yet.
+When your seller says "we can't afford to move," don't hear a no. Hear the conversation you haven't had yet. There's a three-question reframe that turns that answer into a listing.
 
 52.5% of mortgaged U.S. homeowners still have a rate below 4% (Redfin, Q2 2025). That's down from 65% at the pandemic peak, but it's still a majority. Which means most of the sellers you'd want to work with are sitting on golden handcuffs. And most agents accept that answer.
 
@@ -115,7 +115,7 @@ The conversation top producers have every day. Now you have it too.
 
 ### Instagram Reels
 **Caption:**
-When your seller says "we can't afford to move," don't hear a no.
+When your seller says "we can't afford to move," don't hear a no. There's a three-question reframe that flips it.
 
 52.5% of mortgaged homeowners still have a rate below 4% (Redfin, Q2 2025). Most agents accept that as a wall. Top producers ask three questions instead.
 
@@ -142,7 +142,7 @@ Then say this. "I don't know if now's the right time to move. But I know if we d
 
 ### Facebook
 **Caption:**
-When your seller says "we can't afford to move," don't hear a no. Hear the conversation you haven't had yet.
+When your seller says "we can't afford to move," don't hear a no. Hear the conversation you haven't had yet. There's a three-question reframe that turns that answer into a listing.
 
 52.5% of mortgaged homeowners still have a mortgage rate below 4% (Redfin, Q2 2025). Down from 65% at the pandemic peak, but still a majority. Most of the sellers you want are sitting on golden handcuffs. And most agents accept that answer.
 
