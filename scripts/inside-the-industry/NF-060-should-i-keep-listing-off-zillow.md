@@ -31,14 +31,14 @@ hook_family_cadence_note: "NF-058 was Named Stakes. NF-059 was Family 9 Swap/Lis
 ### HOOK (0:00-0:12)
 A seller is going to text you this week asking if they should keep their home off Zillow. The Chicago courtroom put private listings on every headline. Here's the honest answer to give them.
 
-### CONTEXT (0:12-0:34)
-Zillow's chief industry development officer testified this week. He put a number on the record. A new listing gets almost one hundred and eighty views the day it hits the market. By day five that drops to about sixty. That's not just Zillow talking. Bright MLS and Drexel analyzed over a million transactions. Homes listed on the MLS sold for about seventeen point five percent more than comparable off-MLS homes. That's roughly fifty-four thousand dollars for a typical seller.
+### CONTEXT (0:12-0:32)
+Zillow's chief industry development officer testified this week. A new listing gets almost one hundred and eighty views the day it hits the market. By day five that drops to about sixty. That's not just Zillow talking. Bright MLS and Drexel analyzed over a million transactions. Homes listed on the MLS sold for about seventeen point five percent more than comparable off-MLS homes. That's roughly fifty-four thousand dollars for a typical seller.
 
 ### WHY IT MATTERS (0:34-0:52)
 Off-MLS gets pitched to your seller as control and privacy. What they don't hear is the price. Fewer buyers see it. That means fewer bids and a winning bid from a smaller pool. That's how a home sells for less. Off-MLS is a service to the brokerage. On-MLS is a service to the seller.
 
 ### CLOSE (0:52-1:10)
-Here's what you do now. When the text comes, don't give them your opinion. Give them the numbers. Then let them decide. The seller who chooses off-MLS with clear data made an informed choice. The seller who chose off-MLS because their agent didn't have the data got sold to.
+Here's what you do now. When the text comes, don't give them your opinion. Give them the numbers. Then let them decide. The seller who chooses off-MLS with clear data makes an informed choice. The seller who chose off-MLS because their agent didn't have the data got sold to.
 
 **Estimated Duration:** ~68 seconds | **Word Count:** ~200 words
 
@@ -98,7 +98,7 @@ Here's what you do now. When the text comes, don't give them your opinion. Give 
 **Caption:**
 A seller is going to text you this week asking if they should keep their home off Zillow. The Chicago courtroom put private listings on every headline. Here's the honest answer to give them.
 
-Zillow's Chief Industry Development Officer, Errol Samuelson, testified this week under oath. He put a number on the record. A new listing gets almost 180 views the day it hits the market. By day five, that drops to about 60.
+Zillow's Chief Industry Development Officer, Errol Samuelson, testified under oath this week. A new listing gets almost 180 views the day it hits the market. By day five, that drops to about 60.
 
 That's not just Zillow talking.
 
@@ -114,7 +114,7 @@ Here's what you do now.
 
 When the text comes, don't give them your opinion. Give them the numbers. Then let them decide.
 
-The seller who chooses off-MLS with clear data in front of them made an informed choice. The seller who chose off-MLS because their agent didn't have the data got sold to.
+The seller who chooses off-MLS with clear data in front of them makes an informed choice. The seller who chose off-MLS because their agent didn't have the data got sold to.
 
 Your job at the listing appointment is to be the reason it's the first thing.
 
@@ -159,7 +159,7 @@ Off-MLS is a service to the brokerage. On-MLS is a service to the seller.
 
 When the text comes, don't give them your opinion. Give them the numbers. Then let them decide.
 
-The seller who chooses off-MLS with clear data made an informed choice. The seller who chose off-MLS because their agent didn't have the data got sold to.
+The seller who chooses off-MLS with clear data makes an informed choice. The seller who chose off-MLS because their agent didn't have the data got sold to.
 
 **Hashtags:** #RealEstate #ListingAgent #PrivateListings #Zillow #MLS #RealtorLife #ChicagoRealEstate
 
