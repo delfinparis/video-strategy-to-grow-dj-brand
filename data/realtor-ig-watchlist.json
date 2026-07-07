@@ -1,0 +1,40 @@
+{
+  "_comment": "Realtor Instagram watchlist. Feeds the swipe->repurpose loop in docs/strategy/realtor-instagram-watchlist.md. Follower counts are July 2026 search-snapshot approximations, not audited. 'verify' handles need on-platform confirmation before use. 'rss' is blank until a feed is generated via RSS.app or RSS-Bridge (see the doc, Path 2).",
+  "generated": "2026-07-07",
+  "goal": "reach-and-saves",
+  "lanes": ["news-repurpose", "evergreen"],
+  "accounts": [
+    {"handle": "nowbam", "name": "BAM (Broke Agent Media)", "tier": "A-closest-comp", "followers_approx": null, "verified": true, "formats": ["news-to-plays", "reels", "carousels"], "rss": ""},
+    {"handle": "byronlazine", "name": "Byron Lazine", "tier": "A-closest-comp", "followers_approx": 56000, "verified": "verify-handle", "handle_note": "D.J. referenced @byrondontpanic; confirm which is live", "formats": ["talking-head", "news-reactions"], "rss": ""},
+    {"handle": "thebrokeagent", "name": "The Broke Agent (Eric Simon)", "tier": "A-closest-comp", "followers_approx": 541000, "verified": true, "formats": ["memes", "meme-carousels", "reels"], "rss": ""},
+    {"handle": "revrealestateschool", "name": "Rev Real Estate School (Michael Montgomery)", "tier": "A-closest-comp", "followers_approx": null, "verified": true, "formats": ["podcast-clips", "talking-head", "carousels"], "rss": ""},
+    {"handle": "inmannews", "name": "Inman", "tier": "A-source", "followers_approx": 135000, "verified": true, "formats": ["headline-graphics", "carousels"], "rss": ""},
+
+    {"handle": "coffeecontracts", "name": "Coffee & Contracts (Haley Ingram)", "tier": "B-saveable", "followers_approx": 149000, "verified": true, "formats": ["carousels", "static-templates", "hook-lists"], "rss": ""},
+    {"handle": "jimmymackin", "name": "Jimmy Mackin (Listing Leads)", "tier": "B-saveable", "followers_approx": 51000, "verified": true, "formats": ["one-tactic-breakdown", "data-carousels"], "rss": ""},
+    {"handle": "jasonpantana", "name": "Jason Pantana", "tier": "B-saveable", "followers_approx": 72000, "verified": true, "formats": ["teach-reels", "tutorial-carousels", "screen-share"], "rss": ""},
+    {"handle": "chelsea.peitz", "name": "Chelsea Peitz", "tier": "B-saveable", "followers_approx": 60000, "verified": true, "formats": ["educational-carousels", "static-tips"], "rss": ""},
+    {"handle": "katielance", "name": "Katie Lance (#GetSocialSmart)", "tier": "B-saveable", "followers_approx": 50000, "verified": true, "formats": ["tip-reels", "quote-graphics", "carousels"], "rss": ""},
+    {"handle": "agent_crate", "name": "Agent Crate", "tier": "B-saveable", "followers_approx": 94000, "verified": true, "formats": ["carousels", "template-previews"], "rss": ""},
+    {"handle": "narresearch", "name": "NAR Research", "tier": "B-data", "followers_approx": null, "verified": "verify-handle", "formats": ["static-infographics", "data-carousels"], "rss": ""},
+
+    {"handle": "tomferry", "name": "Tom Ferry", "tier": "C-coach", "followers_approx": 336000, "verified": true, "formats": ["talking-head", "keynote-clips", "carousels"], "rss": ""},
+    {"handle": "ricky.carruth", "name": "Ricky Carruth (Zero to Diamond)", "tier": "C-coach", "followers_approx": 289000, "verified": "verify-handle", "handle_note": "roundup also showed @rickycarruth; confirm which is live", "formats": ["one-take-talking-head", "quote-graphics"], "rss": ""},
+    {"handle": "brandonmulrenin", "name": "Brandon Mulrenin (Reverse Selling)", "tier": "C-coach", "followers_approx": 120000, "verified": true, "formats": ["script-breakdowns", "talking-head"], "rss": ""},
+    {"handle": "kristamashore", "name": "Krista Mashore", "tier": "C-coach", "followers_approx": 95000, "verified": true, "formats": ["value-carousels", "talking-head"], "rss": ""},
+    {"handle": "sellitlikeserhant", "name": "SELL IT (Serhant training)", "tier": "C-coach", "followers_approx": null, "verified": true, "formats": ["polished-reels", "coaching-series", "carousels"], "rss": ""},
+    {"handle": "loidavelas", "name": "Loida Velasquez", "tier": "C-coach", "followers_approx": 33000, "verified": true, "formats": ["tactical-prospecting-reels"], "rss": ""},
+    {"handle": "markilemons", "name": "Marki Lemons Ryhal (Chicago)", "tier": "C-coach-local", "followers_approx": 35000, "verified": true, "local": "Chicago", "formats": ["talking-head", "live-sessions", "carousels"], "rss": ""},
+    {"handle": "jimmyburgess.ceo", "name": "Jimmy Burgess", "tier": "C-coach", "followers_approx": null, "verified": "verify-handle", "formats": ["list-carousels", "talking-head", "growth-tactics"], "rss": ""},
+
+    {"handle": "funnyrealestatehumor", "name": "Funny Real Estate Humor", "tier": "D-meme", "followers_approx": 112000, "verified": true, "formats": ["memes", "meme-reels"], "rss": ""},
+    {"handle": "pinkyknowsnaples", "name": "Sue 'Pinky' Benson", "tier": "D-video-coach", "followers_approx": null, "verified": true, "formats": ["reels-howtos", "on-screen-demos"], "rss": ""},
+
+    {"handle": "nardotrealtor", "name": "National Association of Realtors (official)", "tier": "E-source", "followers_approx": null, "verified": "verify-handle", "formats": ["graphics", "reels"], "rss": ""},
+    {"handle": "keepingcurrentmatters", "name": "Keeping Current Matters (David Childers)", "tier": "E-source", "followers_approx": null, "verified": "verify-handle", "formats": ["market-data-graphics"], "rss": ""},
+    {"handle": "curaytor", "name": "Curaytor", "tier": "E-agency", "followers_approx": null, "verified": "verify-handle", "formats": ["marketing-agency-content"], "rss": ""},
+    {"handle": "realtormomcoach", "name": "Taley (Realtor Mom Coach)", "tier": "E-coach-niche", "followers_approx": null, "verified": "verify-handle", "formats": ["coaching", "talking-head"], "rss": ""},
+    {"handle": "themelanieric", "name": "Melanie Ric", "tier": "E-reference", "followers_approx": null, "verified": "verify-handle", "handle_note": "D.J.-named reference; handle and lane unconfirmed in research", "formats": [], "rss": ""},
+    {"handle": "jasoncassity", "name": "Jason Cassity", "tier": "E-reference", "followers_approx": null, "verified": "verify-handle", "handle_note": "handle not cleanly confirmed in research", "formats": ["social-marketing"], "rss": ""}
+  ]
+}
