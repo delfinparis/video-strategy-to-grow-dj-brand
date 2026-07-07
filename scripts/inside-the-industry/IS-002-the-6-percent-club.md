@@ -164,17 +164,3 @@ Karina Chavez told me: "Always answer your phone. You never know what you're goi
 The real question isn't whether you can afford to answer your own phone. It's whether you can afford not to.
 
 **Hashtags:** #RealEstate #Relationships #TopProducers #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-700 podcast interviews later, here's a pattern that surprises me every time:
-
-Top producers still answer their own phone.
-
-The rest of the industry has outsourced it.
-
-Karina Chavez told me: "Always answer your phone. You never know what you're going to get."
-
-Tomorrow morning, pick up one call you'd normally skip.
-
-**Hashtags:** #RealEstate #TopProducers

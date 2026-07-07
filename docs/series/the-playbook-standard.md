@@ -173,7 +173,6 @@ status: "[ready / needs-verification / draft]"
 ### TikTok
 ### YouTube Shorts
 ### Facebook
-### X
 ```
 
 ---

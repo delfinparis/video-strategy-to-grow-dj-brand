@@ -76,9 +76,6 @@ One city. Two markets. Know which one you're standing in.
 
 **Vibe:** Big-number / scoreboard. Confident with forward momentum, slightly ticking, because the take is a live contrast the agent has to act on. A notch more energy than a sober NF.
 
-**Suno / Udio:**
-> Instrumental only, 100 BPM. Modern financial-news underscore, confident with forward momentum. Ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass. Minor key with one resolved lift on the back half. Clean mix. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover, doesn't compete with speech. Loopable. Reference: CNBC data-segment cue. 55 to 60 second runtime.
-
 **CapCut AI Music:**
 ```
 Instrumental financial-news underscore, 100 BPM, confident and ticking. Arpeggiated synth, muted Rhodes stabs, steady kick, subtle ride. No vocals, no risers. Unobtrusive bed for voiceover, loopable. 55-60s.
@@ -143,20 +140,6 @@ Your buyer falls for a listing that has sat a month, you have room and leverage.
 Before your next showing, pull two numbers. Days on market, and price cuts. Fast and clean, come strong. Slow and stale, come smart. Tell your buyer which one it is before you walk in.
 
 **Hashtags:** #RealEstate #Realtor #ChicagoRealEstate #RealEstate2026
-
-### X (Twitter)
-**Caption:**
-A quarter of Chicago homes go pending in under a week. Over half of those sell above asking.
-
-The rest sit for about fifty days.
-
-Same city. Two completely different markets.
-
-Inventory is down almost 29%. Under 3,000 homes. Median price $409,200.
-
-Before your next showing, pull days on market and price cuts. Read the tier before your buyer falls in love.
-
-**Hashtags:** #RealEstate #ChicagoRealEstate #Realtor
 
 ### Threads
 **Post:**

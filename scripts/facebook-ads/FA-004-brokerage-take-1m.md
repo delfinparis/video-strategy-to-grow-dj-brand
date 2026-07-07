@@ -106,8 +106,5 @@ $1M sale at 2.5%? Here's what your brokerage actually took.
 
 **Vibe:** Final ad in the sequence -- the heaviest reveal. Same scoreboard-moment DNA as the previous three but with the most harmonic weight: deeper sub-bass, one more layer in the back half, one resolved lift on `$6,250` that lands like a verdict. 100 BPM, minor-key-with-resolution.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum and weight, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, deep analog sub-bass, restrained string layer through the back half, minor key with one resolved lift on the reveal that lands like a verdict, clean mix for voiceover, tight 15-second loopable bed, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident with weight, 100 BPM, arpeggiated synth, muted Rhodes stabs, steady kick, deep sub-bass, restrained strings, no vocals, tight 15s bed for voiceover, one resolved lift on the reveal that lands like a verdict, no melodic hook, no risers, loopable

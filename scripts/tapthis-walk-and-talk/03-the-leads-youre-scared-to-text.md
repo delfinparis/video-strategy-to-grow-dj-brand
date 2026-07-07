@@ -81,8 +81,5 @@ Quieter residential walk, slower pace. More personal and confessional than the o
 
 **Vibe:** Warmer, more intimate tech bed. Optimistic but gentle, matches the confessional "name in your phone" tone.
 
-**Suno / Udio:**
-> [no vocals] modern tech-product underscore, instrumental only, warm and gentle, 100 BPM, soft felt-piano motif, muted plucked synth, light tight kick, subtle hi-hat pattern, clean sub-bass, hopeful major key, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental warm tech-product underscore, gentle and hopeful, 100 BPM, soft felt-piano, muted synth, light kick, no vocals, unobtrusive bed for voiceover, loopable

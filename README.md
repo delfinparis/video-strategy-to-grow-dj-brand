@@ -146,7 +146,9 @@ Success, reversal, and adjustment criteria are defined in [`docs/strategy/2026-0
 - [Editorial Standards](docs/editorial-standards.md) - required reading before writing any script
 - [Inside the Industry Standard](docs/series/inside-the-industry-standard.md) - primary series standard
 - [The Playbook Format Guide](docs/the-playbook-format.md)
-- [Platform Strategy](docs/platform-strategy.md)
+- [Platform Strategy](docs/platform-strategy.md) - includes the mid-2026 algorithm refresh
+- [Caption & Hashtag Strategy](docs/caption-and-hashtag-strategy.md)
+- [Myths That Don't Move the Needle](docs/myths-that-dont-move-the-needle.md) - 2026 myth-busting checklist
 - [Filming Guide](docs/filming-guide.md) *(to be updated for 4x/week reactive cadence)*
 - [CapCut Editing Playbook](docs/capcut-editing-playbook.md)
 - [Avatar Profiles](docs/avatars.md)

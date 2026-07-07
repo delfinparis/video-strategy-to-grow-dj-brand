@@ -161,21 +161,6 @@ The work that wins listings happens months before the meeting.
 
 **Hashtags:** #RealEstate #ListingAgent #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Your listing presentation has no competition. 81% of the time.
-
-NAR has been reporting that for years. By the time you are at the table, the decision is already made.
-
-Three moves this quarter:
-1. Stop optimizing your slides. Optimize what gets you in the door.
-2. Audit where your listings actually came from.
-3. Stay visible to the people who already know you.
-
-The contest happened months earlier.
-
-**Hashtags:** #RealEstate #Realtor #ListingAgent
-
 ### Threads
 **Post:**
 Your listing presentation has no competition. 81% of the time. NAR has been saying that for years.

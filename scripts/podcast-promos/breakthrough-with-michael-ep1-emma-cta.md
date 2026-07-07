@@ -62,9 +62,6 @@ Music ducks under any clip audio. Captions auto-generate from DJ's voice (captio
 
 **Vibe:** Warm, reflective, with quiet forward motion. Same DNA as the podcast-promo preset but a touch more grounded — there's grief in the story; the bed shouldn't feel chipper. Slight lift in the back half when the CTA arrives.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, warm and grounded with quiet forward motion, 92 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad with a small minor-to-major lift in the back half, major key but reflective, unobtrusive background music for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, warm and reflective with quiet forward motion, 92 BPM, electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, loopable
 

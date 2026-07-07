@@ -126,15 +126,3 @@ The professionals who invested in articulating their value proposition when the 
 I cover these shifts weekly on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #Commissions #NAR #BuyerAgent #RealEstateIndustry #Leadership
-
-### X (Twitter)
-**Caption:**
-Everyone said commissions would collapse after the NAR settlement.
-
-Almost 2 years later: buyer agent commissions went from 2.5% back UP to 2.82%.
-
-2/3 of agents report no meaningful change.
-
-The sky didn't fall.
-
-**Hashtags:** #RealEstate #NAR #Commissions #ChicagoRealEstate

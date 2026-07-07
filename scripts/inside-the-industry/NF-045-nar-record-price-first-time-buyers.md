@@ -65,9 +65,6 @@ The question isn't whether prices come down someday. It's who owns the house whi
 
 **Vibe:** Big-number NF, scoreboard energy. Two record-ish numbers land back to back, so the bed should feel confident with forward momentum, not anxious. Bloomberg-explainer with a touch more pulse and a sense of "the data just moved."
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, confident with forward momentum, 100 BPM, pulsing minor-key synth pad, muted plucked motif, tight kick, subtle hi-hat shuffle, clean sub-bass, minor key with a grounded, decisive resolve, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, confident with forward momentum, 100 BPM, pulsing synth pad, muted plucks, tight kick, subtle hi-hat, clean sub-bass, no vocals, unobtrusive bed for voiceover, loopable, 55-60s
 
@@ -129,15 +126,3 @@ Call the three clients who told you they are sitting tight. Read them both numbe
 (Source: NAR May existing-home sales report, June 9, 2026. June 2020 share per HousingWire.)
 
 **Hashtags:** #RealEstate #HousingMarket #FirstTimeHomeBuyer #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Two numbers from the May housing report that don't usually share a page.
-
-Median price hit a record high for May. $429,300. The 35th straight month of year-over-year gains.
-
-First-time buyers hit 35% of sales. Highest since June 2020.
-
-Tell your sidelined buyers this. The people who can least afford it stopped waiting.
-
-**Hashtags:** #RealEstate #HousingMarket #FirstTimeHomeBuyer

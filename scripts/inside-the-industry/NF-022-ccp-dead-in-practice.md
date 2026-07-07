@@ -200,25 +200,6 @@ The MLS used to be the only door. Now it's one of three. Pick the door with the 
 
 **Hashtags:** #RealEstate #Realtor #ClearCooperation #MLS #Compass #ListingAgent #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Clear Cooperation is dead. Not on paper. In practice.
-
-Dec 2025: Compass declared the policy non-binding.
-Mar 2026: Zillow accommodated.
-May 13, 2026: BrightMLS partnered with Compass to distribute private listings.
-May 14: Zillow research showed off-MLS cost sellers $1.3B over 3 years.
-
-Three plays this week:
-
-1. Audit your last 12 months for coming-soon / off-market usage.
-2. Take written informed consent on every new listing.
-3. Ask your brokerage which side they're on.
-
-The MLS used to be the only door. Now it's one of three.
-
-**Hashtags:** #RealEstate #ClearCooperation #MLS #Compass
-
 ### Threads
 **Post:**
 Clear Cooperation is dead. Not on paper. In practice.

@@ -160,22 +160,6 @@ You're not the median. Pick one of these three this week. Stop being the median.
 
 **Hashtags:** #RealEstate #Realtor #NewAgents #RealtorLife #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-$8,100. The median new Realtor income.
-
-If that's you, three moves this week:
-
-1. Re-evaluate your brokerage. Splits and a logo aren't enough. Look for real mentorship, leadership access, and training.
-
-2. Audit your conversations from the past week. Not leads. Real conversations. If you can't list 10 by name, that's the gap.
-
-3. Pick a niche this month. The rookie who specializes outearns the one trying to be everything.
-
-Stop being the median.
-
-**Hashtags:** #RealEstate #Realtor #NewAgents
-
 ### Threads
 **Post:**
 $8,100 is the median new Realtor income. If that sounds familiar, here's how to stop being the median.

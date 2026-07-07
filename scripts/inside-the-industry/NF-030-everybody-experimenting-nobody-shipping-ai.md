@@ -73,9 +73,6 @@ Everybody's experimenting. Almost nobody's shipping. Be the exception.
 
 **Vibe:** Modern tech-product. Clean, forward, optimistic, a notch more energy than NF because the take ends on a push to act. SaaS-demo confidence, not breaking-news tension.
 
-**Suno / Udio:**
-> Instrumental only, 108 BPM. Modern tech-product underscore, clean and forward, optimistic. Crisp arpeggiated synth, muted plucked lead, tight kick, subtle hi-hat pattern, clean sub-bass. Optimistic major key. No melodic hook, no vocal chops, no risers, no big build. Unobtrusive background for voiceover, doesn't compete with speech. Loopable. Reference: modern product-walkthrough underscore. 50 to 55 second runtime.
-
 **CapCut AI Music:**
 ```
 Instrumental modern tech-product underscore, 108 BPM, clean and forward, optimistic. Arpeggiated synth, muted lead, tight kick, subtle hi-hat. No vocals, no risers, no big build. Unobtrusive bed for voiceover, loopable. 50-55s.
@@ -138,20 +135,6 @@ Experimenting feels like progress. It is not. Writing a listing description with
 Pick one task you do every day that you hate. Hand it to a tool this week and let it run. Do not dabble in ten things. Ship one.
 
 **Hashtags:** #RealEstate #Realtor #AI #RealEstate2026
-
-### X (Twitter)
-**Caption:**
-62% of companies are experimenting with AI agents.
-
-23% have actually scaled one.
-
-That gap is the whole story.
-
-McKinsey says agentic AI could unlock up to $550B in real estate value. Most agents are still in the 62. "I downloaded ChatGPT, I feel modern."
-
-Pick one daily task you hate. Hand it to a tool this week. Ship one.
-
-**Hashtags:** #RealEstate #AI #Realtor
 
 ### Threads
 **Post:**

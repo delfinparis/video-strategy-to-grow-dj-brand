@@ -80,8 +80,5 @@ TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
 
 **Vibe:** Straight-talking, a little streetwise, protective. Confident, not paranoid.
 
-**Suno / Udio:**
-> [no vocals] modern boardroom underscore, instrumental only, confident and straight-talking, 99 BPM, smooth synth pad, restrained muted plucked synth, soft kick, subtle hi-hat, tasteful sub-bass, minor key with a resolved lift in the back half, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental modern boardroom underscore, confident and straight-talking, 99 BPM, smooth pad, muted plucked synth, soft kick, subtle hi-hat, no vocals, quiet bed for voiceover, no melodic hook, loopable, 70s

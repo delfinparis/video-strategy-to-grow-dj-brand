@@ -128,16 +128,3 @@ That told me something. NAR is moving through the biggest operational reset in i
 They're not in a bunker. They're in a listening posture. That's a different organization than a lot of agents assume.
 
 **Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Spent a day with NAR's executive team. 1 of 12 content creators invited nationally.
-
-Expected: corporate, on-message.
-Got: listening mode.
-
-They're not defending the last two years. They're asking working agents what's broken.
-
-That's a very different NAR than most people think.
-
-**Hashtags:** #RealEstate #NAR

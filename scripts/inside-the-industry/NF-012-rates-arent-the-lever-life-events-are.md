@@ -163,21 +163,6 @@ The market isn't waiting for rates. It's waiting for life.
 
 **Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #MortgageRates #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-54% of homeowners say no rate would make them sell this year. Half also said no rate would get them to buy.
-
-The industry is betting on a lever that doesn't exist. This isn't a rates market. It's a stuck market.
-
-Three moves this week:
-1. Pull your last twelve months of closings. Find the life event behind each one.
-2. Pick three people in your sphere whose lives are about to shift. Reach out today.
-3. Skip the rate update email. Send a personal note instead.
-
-Stop watching the Fed. Start watching your sphere.
-
-**Hashtags:** #RealEstate #HousingMarket #MortgageRates
-
 ### Threads
 **Post:**
 54% of homeowners say no rate would make them sell this year. Half won't buy at any rate either. The industry is betting on a lever that doesn't exist.

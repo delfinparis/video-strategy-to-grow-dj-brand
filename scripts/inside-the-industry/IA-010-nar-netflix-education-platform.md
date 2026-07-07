@@ -131,15 +131,3 @@ Two implications. One, every member gets a curated education library that did no
 The new platform is not just an upgrade. It is a distribution shift for everyone who teaches in this industry.
 
 **Hashtags:** #RealEstate #NAR #RealEstateEducation #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Sat in a closed-door NAR meeting today. 6 of us in the country.
-
-NAR is rebuilding their education system like Netflix. Personalized journeys.
-
-The surprise: independent coaches and brokerage-spinoff education will live on the platform too. Not just NAR content.
-
-Distribution shift for every educator in real estate.
-
-**Hashtags:** #RealEstate #NAR #RealEstateEducation

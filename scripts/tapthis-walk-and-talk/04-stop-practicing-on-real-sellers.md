@@ -84,8 +84,5 @@ Brisker walk, more energy than Episode 3. This one is a pep talk. Urban, purpose
 
 **Vibe:** Upbeat coaching-meets-tech bed. Confident forward momentum for the pep talk.
 
-**Suno / Udio:**
-> [no vocals] modern tech-product underscore, instrumental only, confident and forward, 108 BPM, crisp arpeggiated synth, muted plucked lead, tight driving kick, subtle hi-hat pattern, clean sub-bass, optimistic major key, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching-tech underscore, confident and forward, 108 BPM, arpeggiated synth, muted lead, driving kick, no vocals, optimistic bed for voiceover, loopable

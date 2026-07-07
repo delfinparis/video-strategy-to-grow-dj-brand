@@ -83,17 +83,3 @@ The industry's default answer to a slow quarter is "more leads." A top 1% produc
 Pick the person who just came to mind. Send the text today.
 
 **Hashtags:** #RealEstate #RealEstateAgent #SphereOfInfluence #ReferralStrategy #ProfessionalDevelopment #ProspectingStrategy
-
-### X (Twitter)
-**Caption:**
-You do NOT need more leads.
-
-Top 1% Chicago agent of 20 years on what she actually does:
-
-"If I say I'm going to call for two hours, I'm never going to do that. That sounds horrible."
-
-Her rule instead: one specific text a day.
-
-200 days × 1 person × 2% = 4 deals from people who already know you.
-
-**Hashtags:** #RealEstate #RealEstateAgent

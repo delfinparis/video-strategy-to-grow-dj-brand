@@ -66,9 +66,6 @@ Here's what you do now. Audit your coming-soon and office-exclusive practices ag
 
 **Vibe:** Default NF news-explainer with the strategic-read edge. The hook lands on a corporate-positioning reveal, the body walks through the legal-coalition alignment. Bed should feel authoritative and slightly tense, Bloomberg-explainer adjacent.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, urgent but controlled, 95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, urgent but controlled, 95 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable
 
@@ -136,15 +133,3 @@ The "buyers are harmed by off-MLS" framing is the exact predicate argument plain
 Audit your coming-soon and office-exclusive practices against your brokerage's written policy today. Not next week.
 
 **Hashtags:** #RealEstate #eXpRealty #Compass #PrivateListings #ClearCooperation #RealEstateLaw #RealtorLife
-
-### X (Twitter)
-**Caption:**
-eXp's tech chief just made the buyer-harm case against private listings.
-
-When a major brokerage takes that side publicly, it isn't a blog post. It's a legal positioning move.
-
-eXp just aligned with the side suing Compass, the side writing the state laws, the side at the DOJ.
-
-Audit your coming-soon practices today.
-
-**Hashtags:** #RealEstate #eXp #PrivateListings #ClearCooperation

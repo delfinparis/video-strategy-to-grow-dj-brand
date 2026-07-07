@@ -68,9 +68,6 @@ Every number and claim above traces to the episode. No new stats introduced.
 
 **Vibe:** Warm, confident, forward momentum. Zach's a high-performer sharing a practical playbook -- the bed should feel like good news delivered with authority, major-leaning, easy energy. Podcast promo preset, nudged slightly upbeat for the systems and tactics energy.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, warm and confident with forward momentum, 97 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major key, conversational and grounded, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, warm and confident, 97 BPM, electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, loopable
 

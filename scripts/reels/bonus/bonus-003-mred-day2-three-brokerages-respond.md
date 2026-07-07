@@ -120,15 +120,3 @@ My take: one of the three announces a meaningful response within 30 days. The co
 I cover developments like these weekly on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #Compass #BrokerageStrategy #RealEstateLeadership #MRED #IndustryNews
-
-### X (Twitter)
-**Caption:** Compass + MRED went national Friday.
-
-3 brokerages on the clock:
-- Keller Williams: 160K agents, no off-market product
-- eXp: cloud reach just got out-reached
-- Berkshire Hathaway: luxury sellers in Compass's crosshairs
-
-One signs with MRED in 30 days. The other two spend a year explaining why they didn't.
-
-**Hashtags:** #RealEstate #Compass #MRED

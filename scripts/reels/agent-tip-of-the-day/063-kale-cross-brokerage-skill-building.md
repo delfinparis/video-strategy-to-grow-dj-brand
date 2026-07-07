@@ -71,13 +71,3 @@ Free training most agents skip. Here's the one I run that's open to every broker
 Most agents think training means their own brokerage's training. That is the trap. At Kale Realty we host skill-building events every month and we invite agents from every brokerage in Chicago. Not just ours. The agents who show up at events outside their own company are the ones who grow fastest.
 
 **Hashtags:** #RealEstate #RealEstateTraining #Leadership
-
-### X (Twitter)
-**Caption:**
-Most agents only attend their own brokerage's training.
-
-The ones who show up at everyone else's trainings are the ones nobody can beat.
-
-(At Kale we run a monthly cross-brokerage skill-building event. Free. Open to every agent in Chicago.)
-
-**Hashtags:** #RealEstate #RealtorTips

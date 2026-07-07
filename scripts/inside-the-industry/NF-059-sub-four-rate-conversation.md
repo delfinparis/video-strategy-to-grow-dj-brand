@@ -81,9 +81,6 @@ Here's what you do now. Pick one homeowner in your database this week. Someone w
 
 **Vibe:** Playbook coaching underscore with warm forward momentum. Tactical-tip register, not news-explainer. Bed should feel confident and grounded -- like a coach walking an agent through a specific play, not a Bloomberg segment.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, warm and confident with forward momentum, 105 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major-leaning with grounded energy, purposeful and encouraging, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, warm and confident, 105 BPM, soft electric piano, mellow guitar, brushed kick, warm bass, no vocals, purposeful bed for voiceover, loopable, 60s
 
@@ -161,15 +158,3 @@ Pick one homeowner in your database this week. Someone who bought in 2020 or 202
 The conversation top producers have every day.
 
 **Hashtags:** #RealEstate #ListingAgent #GoldenHandcuffs #RateLock #RealtorTips #RealtorLife
-
-### X (Twitter)
-**Caption:**
-When your seller says "we can't afford to move," don't hear a no.
-
-52.5% of mortgaged homeowners still have a rate below 4% (Redfin, Q2 2025).
-
-Top producers ask 3 questions instead. Net equity built since 2020. Life stage changes that don't wait for rates. Cost of waiting on target home appreciation.
-
-Pick one homeowner this week. Run the numbers.
-
-**Hashtags:** #RealEstate #ListingAgent #GoldenHandcuffs

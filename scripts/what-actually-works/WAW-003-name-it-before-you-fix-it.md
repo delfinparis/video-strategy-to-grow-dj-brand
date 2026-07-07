@@ -53,9 +53,6 @@ Next upset client, name it before you fix it. See what happens.
 
 **Vibe:** Calm authority, measured and controlled -- this one is about composure under heat, so slightly slower and steadier than the other two.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, calm and controlled, 96 BPM, soft electric piano, warm synth pad, restrained plucked motif, steady soft kick, subtle shaker, clean sub-bass, minor-leaning but composed and hopeful, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, calm and controlled, 96 BPM, soft electric piano, warm pad, restrained plucks, soft kick, no vocals, quiet bed for voiceover, loopable
 
@@ -128,15 +125,3 @@ Watch their shoulders drop. Then you negotiate, with a person who can finally he
 Name it before you fix it.
 
 **Hashtags:** #RealEstate #Negotiation #Communication #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Client furious about a lowball? Don't defend the offer. Name the feeling.
-
-UCLA research (Lieberman, 2007): naming an emotion out loud quiets the brain region producing it. Affect labeling.
-
-"You're frustrated this came in this low." Shoulders drop. Then you negotiate.
-
-Name it before you fix it.
-
-**Hashtags:** #RealEstate #Negotiation

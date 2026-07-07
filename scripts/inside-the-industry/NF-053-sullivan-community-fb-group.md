@@ -74,9 +74,6 @@ Here's what you do now. Pick one underserved community in your market this week.
 
 **Vibe:** NF reflective with warmth and modest forward momentum. The hook lands a counter-narrative production number and the body builds to a community-as-engine argument. Bed should feel warm and confident, slightly aspirational, like a profile piece on a Sunday morning business show.
 
-**Suno / Udio:**
-> [no vocals] modern news-feature underscore, instrumental only, warm and confident with modest forward momentum, 95 BPM, soft Rhodes piano motif, muted plucked synth pad, gentle kick, brushed snare texture, light analog bass, major-leaning with one minor lift, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-feature underscore, warm and confident, 95 BPM, soft Rhodes piano, muted plucks, gentle kick, brushed snare, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -168,13 +165,3 @@ Here's the playbook.
 By month six, you're the agent they call.
 
 **Hashtags:** #RealEstate #RealtorTips #RealEstateMarketing #CommunityMarketing #SphereOfInfluence #RealtorLife
-
-### X (Twitter)
-**Caption:**
-A Greenwich agent did $100M+ last year (Inman). The reason isn't her brokerage. It's a community resource she built that her clients used long before they hired her.
-
-She started a local moms website. It grew into a national network. Real estate followed.
-
-Free FB group. One community with a need. One helpful answer a week. By month 6, you're the agent they call.
-
-**Hashtags:** #RealEstate #RealtorTips #CommunityMarketing

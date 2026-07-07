@@ -74,9 +74,6 @@ Here's what you do now. If you're a Compass agent in New York, ask your leadersh
 
 **Vibe:** Big-number NF with financial-news urgency. The hook lands on a 12% stock drop, the body builds to a precedent claim, so the bed should feel like a Bloomberg ticker on a downward day. Confident, ticking, slightly tense.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -134,15 +131,3 @@ This is bigger than Compass. The Compass-Anywhere deal was the largest residenti
 If you're a Compass agent in New York, ask your leadership what the contingency plan is. If you're at any other brokerage, take notes. State AGs just stepped into residential brokerage M&A. This isn't a one-off.
 
 **Hashtags:** #RealEstate #Compass #Anywhere #Antitrust #BrokerageLaw #RealEstateNews #RealtorLife
-
-### X (Twitter)
-**Caption:**
-NY's Attorney General just opened an antitrust inquiry into Compass.
-
-Stock dropped 12% in a day.
-
-Five months ago Compass closed a $4.2B merger with Anywhere. Federal cleared it. In NY, the combined company is projected to control 30%+ of the market.
-
-State AGs just stepped into brokerage M&A. Not a one-off.
-
-**Hashtags:** #RealEstate #Compass #Antitrust

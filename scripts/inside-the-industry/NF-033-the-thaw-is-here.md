@@ -80,9 +80,6 @@ Plant the relationship before the thaw. Harvest the listing after. That's the wh
 
 **Vibe:** Big-number scoreboard NF with forward momentum. The hook is a directional shift and the body is a stack of climbing figures -- the bed should feel like a clock ticking toward something, confident and moving, with one small resolved lift to match "the thaw is already moving."
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking with forward momentum, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -163,18 +160,6 @@ Three. Stop waiting for a rate headline to start the conversation.
 Plant the relationship before the thaw. Harvest the listing after.
 
 **Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #MortgageRates #RealEstate2026
-
-### X (Twitter)
-**Caption:**
-The 3-year freeze is cracking.
-
-Homeowners at 6%+ just tripled to 21.2%, now bigger than the under-3% group for the first time. First-time buyers were over half of March purchase loans, highest since 2020.
-
-The trap: most agents wait for the thaw to finish, then chase the same listings.
-
-Plant the relationship before the thaw. Harvest after.
-
-**Hashtags:** #RealEstate #HousingMarket #MortgageRates
 
 ### Threads
 **Post:**

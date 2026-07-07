@@ -56,9 +56,6 @@ Here's what you do now. Next time a CRM tries to sell you AI, ask one question. 
 
 **Vibe:** Modern tech-explainer. Forward-looking and confident, a touch more momentum than a standard NF because the subject is where the business is heading, but still authoritative, not peppy SaaS-demo.
 
-**Suno / Udio:**
-> [no vocals] modern tech-explainer underscore, instrumental only, confident and forward-looking, 104 BPM, crisp arpeggiated synth, muted plucked motif, tight kick, subtle hi-hat pattern, clean sub-bass, minor key with an optimistic lift, unobtrusive background for voiceover, no melodic hook, no vocal chops, no big build, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern tech-explainer underscore, confident and forward-looking, 104 BPM, arpeggiated synth, muted plucks, tight kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -118,15 +115,3 @@ Lofty launched one for real estate in February. More are coming, and they'll pit
 Next time a CRM tries to sell you AI, ask one question. Does it wait for me, or does it act without me? If it only waits, you've already got that on your phone for free.
 
 **Hashtags:** #RealEstate #AIforRealtors #AgenticAI #RealEstateTech #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Two kinds of AI in your business right now:
-
-Generative (ChatGPT, Claude): you prompt it, it answers. Waits for you.
-
-Agentic: watches your database, acts on its own. Lofty launched one for real estate in February.
-
-Generative makes you faster. Agentic does the task you forgot.
-
-**Hashtags:** #RealEstate #AIforRealtors #AgenticAI

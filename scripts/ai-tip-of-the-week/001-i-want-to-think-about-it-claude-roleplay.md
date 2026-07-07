@@ -156,22 +156,6 @@ Full prompt + 569 more at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors #ObjectionHandling #RealtorLife
 
-### X (Twitter)
-**Caption:**
-"I want to think about it." Most expensive 5 words in real estate.
-
-The Claude prompt my Kale agents use:
-
-"Act as a seller who just said 'I want to think about it.' Stay in character. Push back like a real seller."
-
-Run it 5 times. Next time it's muscle memory.
-
-Tip #1 of 620 at tapthis.co.
-
-**Hashtags:** #RealEstate #AIforRealtors
-
----
-
 ## Producer Notes
 
 - **CTA language note:** "Full prompt plus 569 more at tapthis.co" is compliant with the no-engagement-ask rule (Rule 4 of universal editorial standards). It's informational (tells viewer where value is) rather than directive (not "click" / "save" / "follow").

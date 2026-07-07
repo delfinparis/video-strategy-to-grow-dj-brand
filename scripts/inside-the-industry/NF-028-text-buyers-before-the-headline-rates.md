@@ -70,9 +70,6 @@ Six-point-five-one. Text your buyers before the headline does.
 
 **Vibe:** Default NF. Modern, slightly tense, "I have information you need before your buyer gets it from a portal." Forward but controlled.
 
-**Suno / Udio:**
-> Instrumental only, 95 BPM. Modern news-explainer underscore, urgent but controlled. Pulsing minor-key synth pad, muted plucked synth, tight kick, subtle hi-hat shuffle, light analog bass. Clean low end, minor key but not dark. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover, doesn't compete with speech. Loopable. Reference: Bloomberg markets explainer cue. 50 to 55 second runtime.
-
 **CapCut AI Music:**
 ```
 Instrumental news-explainer underscore, 95 BPM, urgent but controlled. Pulsing minor synth pad, muted plucks, tight kick, subtle hi-hat, light bass. No vocals, no risers. Unobtrusive bed for voiceover, loopable. 50-55s.
@@ -139,20 +136,6 @@ Here is the part agents get wrong. You let a portal break the rate news to your 
 Today, one message to every active buyer. Tell them what it does to their payment, and why waiting on a cut is a bet, not a plan. Run the real numbers on their price range. Be the source, not the afterthought.
 
 **Hashtags:** #RealEstate #Realtor #MortgageRates #ChicagoRealEstate #RealEstate2026
-
-### X (Twitter)
-**Caption:**
-The 30-year fixed jumped to 6.51% this week.
-
-It was 6.36% a week earlier. Freddie Mac, May 21.
-
-The driver is not your local market. It is bond yields and a Fed in no hurry to cut.
-
-The agent who texts first owns the conversation. So text every buyer today with the payment math.
-
-Be the source. Not the afterthought.
-
-**Hashtags:** #RealEstate #MortgageRates #Realtor
 
 ### Threads
 **Post:**

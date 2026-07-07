@@ -70,9 +70,6 @@ Here's what you do now. Make a list of your ten favorite past clients. Pick one 
 
 **Vibe:** NF reflective with warmth. The hook lands a counter-narrative growth number and the body builds to a doorstep argument. Bed should feel warm and confident, slightly nostalgic but forward-moving, like a profile piece on a morning business show.
 
-**Suno / Udio:**
-> [no vocals] modern news-feature underscore, instrumental only, warm and confident, 95 BPM, soft Rhodes piano motif, muted plucked synth pad, gentle kick, brushed snare texture, light analog bass, major-leaning with one minor lift, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-feature underscore, warm and confident, 95 BPM, soft Rhodes piano, muted plucks, gentle kick, brushed snare, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -168,15 +165,3 @@ Here is the starter system.
 That's the whole thing. No spend. Just the doorstep.
 
 **Hashtags:** #RealEstate #RealtorTips #RealEstateMarketing #PopBys #SphereOfInfluence #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Kansas City agent grew her business 74% a year for 5 years on near-zero ad spend (Inman, today).
-
-The tactic: pop-bys. A small gift, hand-delivered, to a past client. No ask attached.
-
-The reason isn't the gift. It's the doorstep.
-
-10 past clients. One seasonal item. 4 hours Saturday. Repeat in 3 months.
-
-**Hashtags:** #RealEstate #RealtorTips #PopBys

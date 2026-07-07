@@ -66,9 +66,6 @@ Every number and claim above is from the episode. No new stats introduced.
 
 **Vibe:** Warm, confident, with forward momentum. This is an upbeat, tactical guest -- the bed should feel like good news and easy energy, not heavy. A small lift when the tip lands. Podcast promo preset, nudged a touch up-tempo for the tactical drive.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, warm and confident with easy forward momentum, 98 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major key, conversational and grounded, small lift in the final third, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, warm and confident, 98 BPM, electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, loopable
 

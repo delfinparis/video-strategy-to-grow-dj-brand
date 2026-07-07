@@ -132,15 +132,3 @@ Rob even pushed them to start publishing the kick-out list publicly. NAR said th
 The Code of Ethics only matters if breaking it costs something. NAR is finally saying it has to.
 
 **Hashtags:** #RealEstate #NAR #CodeOfEthics #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Sat in a closed-door NAR meeting today with Rob Hahn (Notorious R.O.B.). 6 of us in the country.
-
-Rob asked when NAR would start kicking unethical agents out.
-
-NAR: "What's the value of the Code of Ethics if it's not being enforced? We've got to put real teeth behind it."
-
-The institution itself just admitted enforcement is broken.
-
-**Hashtags:** #RealEstate #NAR #CodeOfEthics

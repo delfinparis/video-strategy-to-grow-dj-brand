@@ -67,9 +67,6 @@ No stats introduced beyond what the analysis JSON documents. "100% referral busi
 
 **Vibe:** Warm, confident, community-rooted. This episode is honest and data-driven -- not urgent news. The bed should feel like a trusted advisor in a well-run business. Major-key warmth with quiet forward energy.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, warm and confident, 95 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major key, conversational and grounded, small lift in the final third, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, warm and confident, 95 BPM, soft electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, no melodic hook, loopable, 60-65s
 

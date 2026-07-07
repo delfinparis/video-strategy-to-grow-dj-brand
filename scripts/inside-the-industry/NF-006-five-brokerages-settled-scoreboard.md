@@ -185,19 +185,3 @@ The next milestone is July 28, when the court considers approval of these agreem
 I track these developments on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #Litigation #Commissions #BuyerAgent #RealEstateLaw #Leadership
-
-### X (Twitter)
-**Caption:**
-Commission Lawsuit Scoreboard (buyer side, 2026):
-
-KW: $20M
-RE/MAX: $8.5M
-Hanna: $8.25M
-Elliman: undisclosed
-NAR: $52.25M
-
-$89M+ in 3 months. Next date: July 28.
-
-If your brokerage settled, you're covered. If not, ask why.
-
-**Hashtags:** #RealEstate #NAR #Commissions

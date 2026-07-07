@@ -176,24 +176,6 @@ The agents who stay are about to see a very different organization than the one 
 
 **Hashtags:** #RealEstate #NAR #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-NAR's 2026 budget is built on 1.2 million members.
-
-They have 1.491 million today.
-
-A 291,000-agent gap. To match it, they cut $41 million in expenses.
-
-Three moves this quarter:
-
-1. Audit what you actually use from NAR.
-2. Ask your brokerage what they replace if NAR thins out.
-3. Watch which programs get cut first.
-
-Not a forecast. A fiscal bet.
-
-**Hashtags:** #RealEstate #NAR #Realtor
-
 ### Threads
 **Post:**
 NAR's 2026 budget plans for one in five Realtors to leave this year. Nobody told them that. NAR just decided.

@@ -73,9 +73,6 @@ Here's what you do now. It's free, but seats are limited. Go to kalehuddle.com a
 
 **Vibe:** Upbeat, inviting, "come get in the room" event energy. Confident and a little celebratory without tipping into hype. Major key, light forward momentum, the back half should feel like a good after-work crowd, not a webinar.
 
-**Suno / Udio:**
-> [no vocals] modern coaching-event underscore, instrumental only, upbeat and inviting, 106 BPM, clean plucked synth, warm electric piano, steady tight kick, subtle shaker, light claps low in the mix, warm sub-bass, optimistic major key, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes, no big drop
-
 **CapCut AI Music:**
 > Instrumental modern coaching-event underscore, upbeat and inviting, 106 BPM, plucked synth, warm electric piano, tight kick, light shaker, no vocals, optimistic major key, subtle bed for voiceover, loopable, 70s
 
@@ -146,13 +143,3 @@ You can price it perfectly and still lose the deal at the appraisal. Thursday we
 You can price a listing perfectly and still lose the deal at the appraisal. This Thursday, May 28, A&N Mortgage is hosting us in Chicago to teach agents how to value homes the way an appraiser actually does: real comps, real condition and feature adjustments, a number that holds up when the bank's appraisal lands. In person, with food, drinks, and raffle prizes. 3:30 to 6:00 PM at 1945 N Elston Ave. Free, seats limited. RSVP at kalehuddle.com.
 
 **Hashtags:** #shorts #realestate #realtor #homevaluation #listingagent #chicagorealestate
-
-### X (Twitter)
-**Caption:**
-You can price a listing perfectly and still watch the deal die at the appraisal.
-
-Your CMA isn't the number that decides anything. The appraiser's is.
-
-Thursday in Chicago we're teaching agents to price a home the way an appraiser does. Real comps, real adjustments. Free, RSVP at kalehuddle.com.
-
-**Hashtags:** #RealEstate #ListingAgent #ChicagoRealEstate

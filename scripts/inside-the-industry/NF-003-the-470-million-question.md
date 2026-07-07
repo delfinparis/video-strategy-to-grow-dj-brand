@@ -116,15 +116,3 @@ Whether you view this as a necessary investment in litigation protection or an u
 I break down industry shifts like this on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #RealEstateLaw #Industry #Leadership #Commissions
-
-### X (Twitter)
-**Caption:**
-$418M (Sitzer/Burnett) + $52M (Tuccori) = $470M+ in NAR settlements.
-
-NAR doesn't sell houses. That money comes from member dues.
-
-But without it? Potential damages in the tens of BILLIONS.
-
-Know what you're paying for.
-
-**Hashtags:** #RealEstate #NAR #Commissions

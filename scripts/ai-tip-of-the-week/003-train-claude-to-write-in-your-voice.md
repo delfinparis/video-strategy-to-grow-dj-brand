@@ -142,23 +142,6 @@ Grab this prompt + my full library at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors #PersonalBrand #RealtorLife
 
-### X (Twitter)
-**Caption:**
-Your AI content sounds robotic. Here's the Claude fix:
-
-1. Paste 3-5 of your own captions/emails
-2. "Analyze my voice -- tone, vocab, sentence length"
-3. "Now write [topic] in that voice. Don't sound like AI."
-4. Save as Claude Project
-
-5 min, done once. Every post after = you.
-
-Prompt + library at tapthis.co.
-
-**Hashtags:** #RealEstate #AIforRealtors
-
----
-
 ## Producer Notes
 
 - **CTA variant:** Uses "Grab this prompt and my whole library at tapthis.co." -- casual/confident variant.

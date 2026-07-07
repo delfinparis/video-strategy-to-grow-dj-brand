@@ -79,8 +79,5 @@ TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
 
 **Vibe:** Quietly empowering, forward-leaning. "You already own this. Go take it."
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, confident and reassuring with forward lift, 100 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, minor-to-major resolve in the back half, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no big drop, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, confident and reassuring, 100 BPM, plucked synth, soft electric piano, tight kick, subtle shaker, no vocals, quiet bed for voiceover, no melodic hook, loopable, 70s

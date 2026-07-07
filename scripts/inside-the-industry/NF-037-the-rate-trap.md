@@ -70,9 +70,6 @@ Here's what you do now. Before the June 17th Fed meeting hands your buyers more 
 
 **Vibe:** Big-number NF with urgency and forward momentum. The hook is a rate reversal and the body builds to a coaching fix, so the bed should feel like a moving clock, decisive, slightly tense, not alarmist.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, urgent but controlled with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, urgent but controlled, 100 BPM, ticking arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -128,13 +125,3 @@ Say this instead. "We're not buying a rate. We're buying a home you can afford t
 Before the June 17 Fed meeting hands your buyers more false hope, call every fence-sitter and run their numbers at today's rate. If the home works, the only thing costing them is the wait.
 
 **Hashtags:** #RealEstate #MortgageRates #HousingMarket #BuyersAgent #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Your buyers are waiting for rates to drop to 5%.
-
-Every signal just moved the other way. 30-year hit 6.59% (highest since August). Inflation back at 3.8%. Even the Fed is likelier to hike than cut by year-end.
-
-Stop saying "date the rate, marry the house." It promises a drop nobody can promise anymore.
-
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket

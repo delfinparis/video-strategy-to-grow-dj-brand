@@ -74,9 +74,6 @@ Here's what you do now. Be the agent who makes the disclosure NAR wouldn't manda
 
 **Vibe:** NF default with light institutional gravitas. The hook lands a governance kill and the body builds to a consumer-trust argument. Bed should feel authoritative, slightly tense, Bloomberg-explainer adjacent, with a touch of the courtroom about it.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, authoritative and slightly tense, 95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, authoritative and slightly tense, 95 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -146,15 +143,3 @@ Be the agent who makes the disclosure NAR wouldn't mandate. At your next buyer o
 That's the rule NAR voted not to make. It's still the right one.
 
 **Hashtags:** #RealEstate #NAR #RealEstateEthics #ConsumerProtection #RealtorLife #BuyersAgent #ListingAgent
-
-### X (Twitter)
-**Caption:**
-NAR Executive Committee just blocked a rule that would make agents disclose when they don't know a market or property type.
-
-Two years to draft it. One hour to kill it.
-
-In the post-Sitzer consumer-protection era, that's the worst possible signal.
-
-Be the agent who makes the disclosure NAR wouldn't mandate. At your next consult.
-
-**Hashtags:** #RealEstate #NAR #RealEstateEthics #ConsumerProtection

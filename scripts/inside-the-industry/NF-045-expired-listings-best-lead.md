@@ -66,9 +66,6 @@ Here's what you do now. Pull every listing that expired in your market in the la
 
 **Vibe:** NF default with confident momentum. The hook is a contrarian stat reveal, the body delivers a reframe, the close is an exact-words script. Bed should feel authoritative, slightly forward-leaning, like a focused coaching segment.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, confident and steady, 98 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, neutral major key, unobtrusive background for voiceover, no melodic hook, no vocal chops, no big drop, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, confident and steady, 98 BPM, plucked synth, electric piano, tight kick, no vocals, upbeat-but-quiet bed for voiceover, loopable
 
@@ -138,15 +135,3 @@ Pull every listing in your market that expired in the last 60 days. Open with th
 That gets you to the kitchen table.
 
 **Hashtags:** #RealEstate #Prospecting #ExpiredListings #ListingAgent #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Highest-converting lead source in real estate: expired listings.
-
-44% list rate. 20.7% sold rate. ~30 days from call to listing. (REDX 2026)
-
-Most agents won't call.
-
-The discomfort is the moat. Cold leads don't know they need help. FSBOs think they don't. Expireds know they do.
-
-**Hashtags:** #RealEstate #Prospecting #ExpiredListings

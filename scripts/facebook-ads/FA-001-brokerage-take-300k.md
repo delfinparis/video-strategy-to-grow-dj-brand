@@ -105,8 +105,5 @@ Just sold a $300K home? Here's what your brokerage actually took.
 
 **Vibe:** Confident, ticking, financial-reveal energy. The music exists to keep the viewer's pulse moving under D.J.'s setup, then resolves on the dollar figure. Sub-bass-driven, no melody, 100 BPM, scoreboard-moment cousin of the NF big-number preset.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog sub-bass, minor key with one resolved lift on the reveal, clean mix for voiceover, tight 15-second loopable bed, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, muted Rhodes stabs, steady kick, sub-bass, no vocals, tight 15s bed for voiceover, one resolved lift on the reveal, no melodic hook, no risers, loopable

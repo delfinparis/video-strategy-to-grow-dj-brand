@@ -142,24 +142,6 @@ Prompt + library at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors #Productivity #RealtorLife
 
-### X (Twitter)
-**Caption:**
-Top-producing agents don't work harder. They stop better.
-
-My Kale agents' 10-min shutdown ritual:
-
-1. Tell Claude what you got done, what's open, what tomorrow needs
-2. "Sort by priority. Separate urgent from brain loops. Top 3 for tomorrow."
-3. Close the laptop.
-
-Loops close. You rest.
-
-Prompt at tapthis.co.
-
-**Hashtags:** #RealEstate #AIforRealtors
-
----
-
 ## Producer Notes
 
 - **CTA variant:** Returns to baseline "Full prompt plus 569 more at tapthis.co." (same as #001). After 4 tips we'll have data on which CTA variant drives the most tapthis.co clicks: #001 baseline, #002 specificity-forward ("Tip #N of 620"), #003 casual ("Grab this prompt and my whole library"), #004 baseline again.

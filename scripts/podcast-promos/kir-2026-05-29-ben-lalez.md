@@ -68,9 +68,6 @@ No stats introduced beyond what the analysis JSON documents. "Quadrupled in thre
 
 **Vibe:** Confident and forward-moving, with a tech-informed edge. This episode is about AI and market disruption -- the bed should feel smart and analytical, not heavy. Major-key podcast-promo warmth, slightly more forward momentum than the default.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, confident and forward-moving, 95 BPM, soft electric piano, clean plucked synth motif, light brushed kick, subtle warm bass, minimal pad, major key, smart and conversational, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, confident and forward, 95 BPM, electric piano, plucked synth, brushed kick, no vocals, clean bed for voiceover, no melodic hook, loopable, 65-70s
 

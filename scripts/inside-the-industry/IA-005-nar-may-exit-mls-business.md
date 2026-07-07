@@ -122,15 +122,3 @@ The largest MLSs are consolidating. The legal exposure has mostly come through t
 Most agents will not notice until it is already changed. The MLS landscape that built modern real estate is quietly being rewritten.
 
 **Hashtags:** #RealEstate #NAR #MLS #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Sat in a closed-door NAR meeting today with Rob Hahn (Notorious R.O.B.) and a handful of other creators. 6 of us in the country.
-
-NAR senior team admitted some MLSs are telling them to get out of the business.
-
-Rob asked how they'd enforce policy if an MLS refused: "I don't have a direct answer for you on that one."
-
-The MLS landscape is quietly being rewritten.
-
-**Hashtags:** #RealEstate #NAR #MLS

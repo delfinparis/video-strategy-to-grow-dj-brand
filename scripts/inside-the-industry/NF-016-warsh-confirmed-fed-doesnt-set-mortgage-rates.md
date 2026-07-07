@@ -189,22 +189,6 @@ New Fed chair. Same rate reality. Be the agent who already explained it before t
 
 **Hashtags:** #RealEstate #Realtor #MortgageRates #HousingMarket #RealtorLife #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Kevin Warsh just got confirmed as the next Fed chair.
-
-The Fed doesn't set mortgage rates. Mortgage rates track the 10-year Treasury.
-
-Fed cut rates in 2024. Mortgage rates went up.
-
-April CPI just hit 3.8%. Markets are pricing zero cuts for 2026.
-
-When your buyer asks about the Fed chair, say: "The Fed doesn't set mortgage rates. Inflation is the gatekeeper. Your buying power isn't changing in the next sixty days."
-
-New Fed chair. Same rate reality.
-
-**Hashtags:** #RealEstate #MortgageRates #Realtor
-
 ### Threads
 **Post:**
 Kevin Warsh just got confirmed as the next Fed chair.

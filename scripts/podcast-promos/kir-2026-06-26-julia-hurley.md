@@ -68,9 +68,6 @@ Every number and claim above traces to the episode analysis JSON. No new stats i
 
 **Vibe:** Warm and forward-moving -- a comeback story with a practical payload. The bed should feel like earned momentum, not celebration. Podcast promo preset, nudged slightly up-tempo to match the episode's rebuild energy.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, warm and forward-moving, 97 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major-leaning with a sense of earned momentum, conversational and grounded, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, warm and forward-moving, 97 BPM, electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, loopable
 

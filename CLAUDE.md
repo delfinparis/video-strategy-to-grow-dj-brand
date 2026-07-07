@@ -16,7 +16,9 @@ brief is missing, offer to run `python3 scripts/news_brief.py` right then.
 
 Every walk-and-talk follows the **Viral 3-Act Spine** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)): HOOK (stop the scroll + promise the payoff) → STORY (the middle is a story with a turn, not a briefing) → PAYOFF (resolve the loop → "here's what you do now" action → loop-back). The stress-test pass runs the **Story Pass** before anything else. Narrative series (Inside the Industry NF/IS/IA, Podcast Promo) run the full three acts; tactical series (Playbook, What Actually Works, tapthis) run a compressed Act 2 -- one story beat, then the payload, and length discipline (Rule 7) wins over story.
 
-For the hook itself, reach into the **Hook Matrix** (Rule 10 in [`docs/editorial-standards.md`](docs/editorial-standards.md)): pick one of the nine families on purpose, log it as `hook_family` in frontmatter, and don't repeat a family across two consecutive posts. Friction families (Sacred Cow, System Indictment, Forbidden) ride heat 4-5 and are capped at once per week (Rule 9.2); they point friction outward at a belief or system and stand with the agent, never at the agent. Swap/List hooks (Family 9: "don't say X, say Y," stop-doing, do-don't-in-the-room) are the default saveable format for tactical series. Roughly every couple of weeks, run one **emotional / identity** script (Rule 10.7) instead of a tip -- a permission slip or why-this-work-matters piece -- because that's what earns follows and the long comments tactics don't.
+For the hook itself, reach into the **Hook Matrix** (Rule 10 in [`docs/editorial-standards.md`](docs/editorial-standards.md)): pick one of the nine families on purpose, log it as `hook_family` in frontmatter, and don't repeat a family across two consecutive posts. Friction families (Sacred Cow, System Indictment, Forbidden) ride heat 4-5 and are capped at once per week (Rule 9.2); they point friction outward at a belief or system and stand with the agent, never at the agent. Swap/List hooks (Family 9: "don't say X, say Y," stop-doing, do-don't-in-the-room) are the default saveable format for tactical series. Roughly every couple of weeks, run one **emotional / identity** script (Rule 10.7) instead of a tip -- a permission slip or why-this-work-matters piece -- because that's what earns follows and the long comments tactics don't. Ready first lines mapped to the nine families live in [`docs/opener-swipe-file.md`](docs/opener-swipe-file.md) -- pull from there before writing a hook cold.
+
+Pair every hook with a **visual open** (pattern interrupt) from [`docs/pattern-interrupt-cheatsheet.md`](docs/pattern-interrupt-cheatsheet.md). D.J. films walk-and-talks on a selfie stick, so the visual open is one of seven one-handed, mid-walk moves (The Stop, Push-In, Whip, Walk-Toward, One Prop, Location Cold-Open, Gesture-On-Beat). Pick one on purpose, log it as `pattern_interrupt` in frontmatter next to `hook_family`, and don't repeat the same move two posts in a row. The spoken hook still does the heavy lifting (captions.ai builds captions from audio); the visual open is the second stop signal. When the script is on-site at a property, prefer the Location Cold-Open -- the property is B-roll you can't otherwise shoot.
 
 ## When the script is posted, work the first hour (engagement ops)
 
@@ -38,21 +40,18 @@ These are not editorial -- they're posting-day habits the algorithm rewards hard
 
 D.J. calls these "walk-and-talks." They get cut in CapCut and need a music bed at 10-15% volume per [`docs/capcut-editing-playbook.md`](docs/capcut-editing-playbook.md) Part 6.
 
-**The rule:** Every walk-and-talk script must end with an `## AI Music Prompt` section *beneath* the `## Data Source` section. Format:
+**The rule:** Every walk-and-talk script must end with an `## AI Music Prompt` section *beneath* the `## Data Source` section. D.J. edits only in CapCut, so there is a single CapCut prompt — no Suno/Udio. Format:
 
 ```markdown
 ## AI Music Prompt
 
 **Vibe:** [one-line description tuned to this specific script's energy]
 
-**Suno / Udio:**
-> [calibrated prompt — start from the matching preset in docs/ai-music-prompts.md, then tune BPM/energy/key descriptors to the actual script content]
-
 **CapCut AI Music:**
-> [short version of the same prompt — 1-2 sentences, same DNA]
+> [calibrated CapCut prompt, <=300 chars — start from the matching preset in docs/ai-music-prompts.md, then tune BPM/energy/key descriptors to the actual script content]
 ```
 
-**Where to pull the templates from:** [`docs/ai-music-prompts.md`](docs/ai-music-prompts.md) has presets for each sub-type (NF default, NF big-number, IS, IA, Playbook, AI Tip of the Week, podcast promo) plus the master template and the troubleshooting table.
+**Where to pull the templates from:** [`docs/ai-music-prompts.md`](docs/ai-music-prompts.md) has CapCut presets for each sub-type (NF default, NF big-number, IS, IA, Playbook, AI Tip of the Week, podcast promo) plus the master template and the troubleshooting table.
 
 **Don't just paste the preset verbatim.** Tune it:
 - **BPM:** 90 for sober/legal news, 95 default NF, 100 for big-number / scoreboard moments, 105-108 for tactical/upbeat, 90 for reflective synthesis.
@@ -88,7 +87,9 @@ These series don't need an AI Music Prompt block (different format or already-se
 
 ## Social descriptions: no em dashes, no AI speak
 
-**Scope:** Every social caption block in every script in this repo (LinkedIn, Instagram Reels, TikTok, YouTube Shorts, Facebook, X, Threads). Applies in addition to the universal Rule 5 in `docs/editorial-standards.md`.
+**Scope:** Every social caption block in every script in this repo (LinkedIn, Instagram Reels, TikTok, YouTube Shorts, Facebook). Applies in addition to the universal Rule 5 in `docs/editorial-standards.md`.
+
+**No X/Twitter captions.** D.J. does not use X. Scripts produce five captions (LinkedIn, Instagram Reels, TikTok, YouTube Shorts, Facebook). Do not add an `### X (Twitter)` block to any script, and remove one if you find it in an older script you're editing.
 
 **The rule:** Social captions get the strictest scrub.
 
@@ -116,13 +117,7 @@ If a sentence in a social caption needs a pause that an em dash would normally c
 5. The "no vocals" constraint (always)
 6. Runtime hint (e.g., "55-60s")
 
-**What goes in the longer Suno/Udio prompt instead** (no character cap):
-- Reference artists or shows (Bloomberg, NYT Daily, etc.)
-- Full energy arc descriptions
-- Specific harmonic guidance
-- Mix instructions
-
-If a CapCut prompt would be meaningfully better at 350 or 400 characters, flag it to the user and ask whether to split into two CapCut generations rather than ship an over-cap prompt that gets truncated.
+The CapCut prompt is the only music prompt (no Suno/Udio). If a descriptor won't fit, drop the least-important exclusion (`no risers`, `no reverb tails`) rather than ship an over-cap prompt that gets truncated. If a prompt would be meaningfully better at 350-400 chars, flag it and ask whether to split into two CapCut generations.
 
 ---
 

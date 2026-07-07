@@ -98,13 +98,3 @@ Most real estate mentorship is training with a different name. The mentors at my
 
 ### Facebook
 **Caption:** (adapt LinkedIn)
-
-### X (Twitter)
-**Caption:**
-Most real estate mentorship is just training with a different name. The mentors at my brokerage do something completely different.
-
-They don't teach techniques. They teach decisions.
-
-Most brokerages sell training. Real mentorship is a second brain for the hard decisions. It compounds for a career, not a transaction.
-
-**Hashtags:** #RealEstate #Mentorship

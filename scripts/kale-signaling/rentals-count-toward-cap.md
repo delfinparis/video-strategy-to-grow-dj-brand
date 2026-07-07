@@ -90,12 +90,6 @@ Walk-and-talk to camera for the hook and the close. Cut to a simple animated cou
 >
 > #Shorts #realestate #realtor #chicagorealestate #realestateagent #brokerage
 
-### X (Twitter)
-
-> Changed one number at Kale: rental commissions now count toward your $6,000 cap. You keep 80% of every rental, the 20% we take hits your cap. Cap out faster, then keep 100% the rest of your year. Rentals just became a head start.
->
-> #realestate #realtor
-
 ### Threads
 
 > We just changed how the cap works at Kale. Rentals count toward your $6,000 cap now, not just the $400 sales fee. You keep 80%, the 20% the company takes hits your cap, and once you cap out it's 100% yours till your year resets. Rentals went from busywork to a head start.
@@ -111,9 +105,6 @@ Internal Kale Realty policy change (provided by D.J., 6/16/26): $6,000 annual ca
 ## AI Music Prompt
 
 **Vibe:** Good-news momentum. Confident, optimistic, money-moving-in-your-direction. Major-leaning, not dramatic.
-
-**Suno / Udio:**
-> [no vocals] modern coaching underscore with forward momentum, instrumental only, confident and optimistic, 104 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, major key with one resolved lift, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes, no big drop
 
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, confident and optimistic, 104 BPM, plucked synth, electric piano, tight kick, no vocals, upbeat unobtrusive bed for voiceover, 75s, loopable

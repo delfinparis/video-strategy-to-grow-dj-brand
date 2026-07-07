@@ -128,15 +128,3 @@ Here's what that tells you. NAR knows the press release channel is broken. Agent
 If NAR is reaching out directly to working agents to shape the narrative, that tells you where real influence lives right now. Audience and voice are becoming the same thing.
 
 **Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-NAR reached out to me directly this month about the Tuccori settlement.
-
-They have a comms department. Media partnerships. Millions of combined association followers.
-
-They contacted independent creators instead.
-
-That tells you exactly where real influence lives in real estate right now.
-
-**Hashtags:** #RealEstate #NAR

@@ -59,9 +59,6 @@ Before your next just-sold, write down the last question a client asked you. Pos
 
 **Vibe:** Motivating, fix-it-today coaching energy. Light and forward, confident without hype. The "do this before your next post" register.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, light forward energy, confident and encouraging, 105 BPM, warm felt-piano motif, soft plucked synth, gentle pulsing bass, light brushed percussion, major-leaning and hopeful, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, 105 BPM, confident, encouraging, forward. Felt piano, soft synth pluck, gentle bass, light percussion. Major-leaning. No vocals. Quiet bed for voiceover. Loopable. 60-70s
 
@@ -132,13 +129,3 @@ So give them their own spotlight. Take the last thing a client asked you at nine
 Before your next just-sold goes up, write down the last question a client asked you. Post that instead. Watch who shows up in your inbox.
 
 **Hashtags:** #RealEstate #RealtorLife #RealEstateMarketing #ContentStrategy
-
-### X (Twitter)
-**Caption:**
-Nobody saved your just-sold.
-
-It answers a question nobody scrolling was asking. Psychologists call it the spotlight effect: we think everyone's watching us, they're not. They're watching for what helps them.
-
-Post the answer to your last client's question instead. It's not about you, it's about them.
-
-**Hashtags:** #RealEstate #RealEstateMarketing

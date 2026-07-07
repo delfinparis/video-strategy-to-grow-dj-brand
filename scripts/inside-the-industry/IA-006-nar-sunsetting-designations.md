@@ -129,13 +129,3 @@ That came directly from NAR's senior team. Not a critic. Not a forum post. The i
 Some of those letters behind realtor names are going away. The question is which ones -- and which ones still mean something to a consumer when they do.
 
 **Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Sat in a closed-door NAR meeting today. 6 of us in the country.
-
-Another attendee -- Katie -- said it bluntly: "All you should need behind your name is the word realtor."
-
-NAR agreed. Their words: "Maybe not all of these designations are going to last." The plan is to sunset the ones that aren't bringing real value.
-
-**Hashtags:** #RealEstate #NAR #Realtor

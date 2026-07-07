@@ -170,20 +170,6 @@ Dual agency was always a conflict. Now it has a number. Two thousand one hundred
 
 **Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Dual agency hurts sellers.
-
-The number is $2,165 per home.
-
-Zillow analyzed 6.8M transactions. Sellers whose buyer had the same agent got lower prices every year of the study.
-
-Mechanism: when one agent represents both sides, they can't fight hard for either. The negotiation collapses to the middle. The seller absorbs the gap.
-
-Dual agency was always a conflict. Now it has a number.
-
-**Hashtags:** #RealEstate #DualAgency #Realtor
-
 ### Threads
 **Post:**
 Dual agency hurts sellers. The number is $2,165 per home.

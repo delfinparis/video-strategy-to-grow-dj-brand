@@ -129,15 +129,3 @@ This is the kind of policy story that hits agent pipelines twelve months from no
 The next NAR policy fight is not about commissions. It is about the long-term owners who would list tomorrow if the tax math worked.
 
 **Hashtags:** #RealEstate #NAR #CapitalGains #ListingAgent #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Just got out of a closed-door meeting with senior leadership at NAR. 6 of us in the country.
-
-The next big policy battle on Capitol Hill: capital gains reform.
-
-Step-up basis. Primary residence exclusion (frozen since 1997). 1031 rules.
-
-Any of these moves and the math changes for who lists, holds, and 1031s.
-
-**Hashtags:** #RealEstate #NAR #CapitalGains

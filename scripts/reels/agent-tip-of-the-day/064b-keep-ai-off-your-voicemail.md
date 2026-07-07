@@ -72,13 +72,3 @@ Top producers record their own greeting. It sounds like them. It tells every cal
 Open your phone. Delete the AI greeting. Record a new one in your own voice. Say your name. Say you will call back the same day. That is the greeting.
 
 **Hashtags:** #RealEstate #AIforRealtors #ProfessionalDevelopment
-
-### X (Twitter)
-**Caption:**
-The AI voice on your voicemail is costing you the call.
-
-I teach AI to real estate agents. This is the one place to never use it.
-
-Your greeting is the first thing a new client hears. If it sounds like a robot, they assume you will too. And they call the next agent on the list.
-
-**Hashtags:** #RealEstate #AIforRealtors

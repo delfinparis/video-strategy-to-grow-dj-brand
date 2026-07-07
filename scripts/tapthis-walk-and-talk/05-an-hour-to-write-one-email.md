@@ -84,8 +84,5 @@ Evening or golden-hour walk if possible, the episode is about getting your night
 
 **Vibe:** Relaxed evening product bed. Optimistic and unhurried, the "getting your Sunday night back" feeling.
 
-**Suno / Udio:**
-> [no vocals] modern tech-product underscore, instrumental only, relaxed and optimistic, 100 BPM, soft arpeggiated synth, muted plucked lead, gentle tight kick, subtle hi-hat pattern, warm sub-bass, easy major key, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern tech-product underscore, relaxed and optimistic, 100 BPM, soft arpeggiated synth, muted lead, gentle kick, no vocals, easy bed for voiceover, loopable

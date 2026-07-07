@@ -103,15 +103,3 @@ After 700 podcast interviews: I know what top producers do. The more interesting
 
 ### Facebook
 **Caption:** (adapt LinkedIn)
-
-### X (Twitter)
-**Caption:**
-700 podcast interviews.
-
-Top producers all look the same: CEO mindset, mentor/coach, answer every call, stay primary on every client, family buy-in.
-
-The question nobody asks: what does their brokerage do to keep them?
-
-Hint: it's not training. It's use.
-
-**Hashtags:** #RealEstate #TopProducers

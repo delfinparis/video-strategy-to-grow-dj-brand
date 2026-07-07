@@ -65,9 +65,6 @@ Here's what you do now. It's free, but seats are limited. Go to kalehuddle.com a
 
 **Vibe:** Modern coaching energy with curiosity and forward pull. The hook is a tactical teaser, so the bed should feel sharp and confident, building lightly into the event invite. Optimistic, not cheesy.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, confident with light forward energy, 105 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, neutral-to-major key, unobtrusive background for voiceover, no melodic hook, no vocal chops, no big drop, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, confident and forward, 105 BPM, plucked synth, electric piano, tight kick, no vocals, upbeat-but-quiet bed for voiceover, loopable
 
@@ -121,18 +118,6 @@ This Thursday, A&N Mortgage is hosting us on North Elston. We will pull up real 
 In person. Thursday, 3:30 to 6. Free, but seats are limited. Register at kalehuddle.com.
 
 **Hashtags:** #RealEstate #ChicagoRealEstate #ListingAgent #Appraisal #ProfessionalDevelopment #KaleRealty
-
-### X (Twitter)
-**Caption:**
-Two agents, same house, two different prices.
-
-The one closest to the appraiser is the one whose deal survives.
-
-Thursday we pull up real comps and the exact adjustments appraisers make. North Elston, 3:30-6, free.
-
-kalehuddle.com
-
-**Hashtags:** #RealEstate #ChicagoRealEstate #Appraisal
 
 ## Notes
 

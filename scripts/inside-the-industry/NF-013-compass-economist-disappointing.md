@@ -148,15 +148,3 @@ Here is what to do with it. Your seller is still pricing on December's forecast.
 Stop selling December's market in May. The chief economist just gave you permission. Use it.
 
 **Hashtags:** #RealEstate #HousingMarket #Realtor #ListingAgent #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Compass's chief economist just told Inman 2026 has been "a little disappointing."
-
-December 2025 Compass forecast: most balanced market in years, existing home sales +4-5%.
-
-Brokerages don't pay economists to be pessimistic. They pay them to keep the narrative positive. When that economist says "disappointing," it's the quiet part out loud.
-
-Stop selling December's market in May.
-
-**Hashtags:** #RealEstate #HousingMarket #Realtor

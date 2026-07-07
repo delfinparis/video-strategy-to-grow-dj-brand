@@ -112,15 +112,3 @@ Third. The agents thriving in Chicago right now are the ones with the most speci
 Chicago agents don't need a bigger organization. They need a louder one. One that says the quiet parts out loud.
 
 **Hashtags:** #RealEstate #NAR #ChicagoRealEstate #RealtorLife
-
-### X (Twitter)
-**Caption:**
-If NAR called me today and asked what Chicago agents need, I'd say:
-
-1. Stop relitigating commissions. We adapted 2 years ago.
-2. The real antitrust story is brokerage consolidation, not commission rules.
-3. Amplify local voices instead of competing with them.
-
-Chicago needs a louder NAR, not a bigger one.
-
-**Hashtags:** #RealEstate #NAR #ChicagoRealEstate

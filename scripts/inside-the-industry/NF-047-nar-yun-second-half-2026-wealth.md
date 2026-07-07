@@ -63,9 +63,6 @@ Here's what you do now. Screenshot the renter line and send it to the three buye
 
 **Vibe:** Big-number NF, but forward and optimistic, not tense. This is good news from the top of the industry: sales up, prices up, wealth building. Confident with forward momentum and one resolved lift, so the bed feels like the tide is coming back in. Financial-news explainer with a hopeful turn on the back half.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one clear resolved lift on the back half, clean mix for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident with forward momentum, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, light bass, one resolved lift, no vocals, unobtrusive bed for voiceover, loopable, 55-60s
 
@@ -123,15 +120,3 @@ That is the conversation with any buyer who is waiting for rates to drop. Every 
 (Source: NAR, published June 16, 2026.)
 
 **Hashtags:** #RealEstate #HousingMarket #HomeBuying #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-NAR's chief economist just gave you the back-half buyer script.
-
-2026 forecast: sales +4%, prices +4%, rates projected to average 6.5%, no recession. Typical homeowner builds ~$16,000 this year.
-
-His line: homeowners build wealth while renters spin their wheels.
-
-Send it to the buyers waiting for rates to drop.
-
-**Hashtags:** #RealEstate #HousingMarket #HomeBuying

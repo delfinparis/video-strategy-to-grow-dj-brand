@@ -65,9 +65,6 @@ Every number and claim above is from the episode analysis. No new stats introduc
 
 **Vibe:** Warm and quietly authoritative. The episode is about breakthrough clarity and personal decision-making -- the bed should carry grounded confidence, not urgency. Podcast promo preset, tuned for a coaching/empowerment energy.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, warm and quietly authoritative, 95 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major key, conversational and grounded, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, warm and quietly authoritative, 95 BPM, electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, loopable
 

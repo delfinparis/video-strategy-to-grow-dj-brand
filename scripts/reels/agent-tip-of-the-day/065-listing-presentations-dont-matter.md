@@ -106,17 +106,3 @@ Send one today. Then four more tomorrow.
 Be the only call. The presentation takes care of itself.
 
 **Hashtags:** #RealEstate #RealEstateAgent #ListingAgent #ReferralStrategy #ProfessionalDevelopment
-
-### X (Twitter)
-**Caption:**
-Listing presentations don't matter.
-
-81% of sellers contact only one agent before they sign (NAR 2024). Eight in ten.
-
-If you're not the one call, you didn't lose the listing. You were never in the running.
-
-Pick one person who'll sell in the next twelve months. Text them today.
-
-Be the only call. The presentation takes care of itself.
-
-**Hashtags:** #RealEstate #RealEstateAgent

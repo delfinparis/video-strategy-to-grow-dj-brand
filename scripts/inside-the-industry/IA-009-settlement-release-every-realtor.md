@@ -128,15 +128,3 @@ Most agents have no idea this exists. They paid their dues, renewed their licens
 If you have ever wondered what your NAR membership actually does for you on the legal side, that's a real dollars-and-cents answer.
 
 **Hashtags:** #RealEstate #NAR #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Sat in a closed-door NAR meeting today. 6 of us in the country.
-
-NAR negotiated a settlement release that covers every realtor, every state and local association, every realtor-creator that hadn't already settled.
-
-Entire ecosystem in one signature.
-
-Most agents have no idea.
-
-**Hashtags:** #RealEstate #NAR

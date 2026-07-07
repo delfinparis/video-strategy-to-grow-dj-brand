@@ -158,24 +158,6 @@ When the agent narrows the buyer pool, the seller pays.
 
 **Hashtags:** #RealEstate #Realtor #DualAgency #PrivateListings #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Dual agency cost sellers $1.5B.
-
-Off-MLS listings cost them another $1.3B.
-
-Same Zillow study. Same dataset. Same root cause.
-
-When the agent narrows the buyer pool, the seller pays.
-
-Two questions before your next listing presentation:
-1. MLS or private listing network only?
-2. Will you represent the buyer side?
-
-Each one has a price tag now.
-
-**Hashtags:** #RealEstate #DualAgency #PrivateListings
-
 ### Threads
 **Post:**
 Dual agency cost sellers $1.5 billion. Off-MLS listings cost them another $1.3 billion. Same Zillow study, same dataset.

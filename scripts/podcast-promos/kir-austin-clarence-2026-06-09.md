@@ -72,9 +72,6 @@ No stats introduced beyond what the transcript and analysis document. "Certain l
 
 **Vibe:** Informed and confident. This is a lending update that opens a door for agents' buyers -- not urgent breaking news, but genuinely good news they can act on today. Warm, major-key, forward energy without being cheesy.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, informed and confident, 95 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major key with a slight forward lift, conversational and grounded, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, informed and confident, 95 BPM, soft electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, no melodic hook, loopable, 65s
 

@@ -172,23 +172,6 @@ The jobs report isn't a rates story. It's a relocation story.
 
 **Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #JobsReport #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Friday's jobs report told you where your next listing lives. Most agents read it like economists.
-
-Healthcare +37,000.
-Federal gov -9,000.
-Manufacturing lost ground.
-
-Three moves this week:
-1. Pull the BLS sector breakdown for your metro. The top two are your listing pipeline.
-2. Pick three people in your sphere in growing sectors. Call one today.
-3. Watch layoff announcements. Distressed-listing leads.
-
-Read it like an agent, not an economist.
-
-**Hashtags:** #RealEstate #HousingMarket #JobsReport
-
 ### Threads
 **Post:**
 Friday's jobs report told you where your next listing lives. Most agents read it like economists.

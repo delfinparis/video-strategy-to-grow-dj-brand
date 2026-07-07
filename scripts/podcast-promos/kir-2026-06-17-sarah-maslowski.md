@@ -71,9 +71,6 @@ No stats introduced beyond what the transcript documents. "$150 million" is Sara
 
 **Vibe:** Aspirational and warm. This is a proven achievement story -- someone who built a $150M business on one channel, teaching agents the system. Confident and forward-moving without being celebratory. Major key, grounded, gives D.J.'s voice room.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, confident and aspirational, 95 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major key with forward energy, conversational and grounded, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, confident and aspirational, 95 BPM, soft electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, no melodic hook, loopable, 65s
 

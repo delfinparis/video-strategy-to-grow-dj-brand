@@ -71,9 +71,6 @@ Here's what you do now. Three names worth knowing: BrokerBot, MaxHome.ai, and Ai
 
 **Vibe:** Modern tech-explainer with confident forward momentum. The hook lands on a strategic reveal ("notice what's missing"), the body builds toward a category-level prediction, so the bed should feel like a slightly elevated NF, Bloomberg-tech-segment energy.
 
-**Suno / Udio:**
-> [no vocals] modern tech-explainer underscore, instrumental only, confident and forward-looking, 102 BPM, crisp arpeggiated synth, muted plucked motif, tight kick, subtle hi-hat pattern, clean sub-bass, minor key with an optimistic lift, unobtrusive background for voiceover, no melodic hook, no vocal chops, no big build, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern tech-explainer underscore, confident and forward, 102 BPM, arpeggiated synth, muted plucks, tight kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -143,15 +140,3 @@ The agent who wins isn't the one with more leads. It's the one whose back office
 Three names worth knowing: BrokerBot, MaxHome.ai, and AiRE. They'll start showing up at your brokerage in the next year. You don't have to agree, but you should know who's coming before the sales call.
 
 **Hashtags:** #RealEstate #PropTech #AI #BrokerageTech #NARREACH #RealEstateAgent #RealtorLife
-
-### X (Twitter)
-**Caption:**
-NAR just picked 6 startups for its AI accelerator.
-
-Notice what's missing. None are consumer search platforms.
-
-The signal: NAR thinks the next fight is operational AI inside the brokerage, not lead gen. That lane is locked (Zillow/Compass/Realtor.com).
-
-Watch: BrokerBot, MaxHome.ai, AiRE.
-
-**Hashtags:** #RealEstate #PropTech #AIforRealtors

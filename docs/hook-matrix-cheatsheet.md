@@ -3,6 +3,8 @@
 One-page glance for filming. Full doctrine: Rule 10 in [`editorial-standards.md`](editorial-standards.md).
 Pick a family on purpose. Log it as `hook_family`. Don't repeat a family two posts in a row.
 
+**This is the spoken hook.** Pair it with a **visual open** from [`pattern-interrupt-cheatsheet.md`](pattern-interrupt-cheatsheet.md) (the selfie-stick move underneath the first line). For ready-to-film first lines mapped to these nine families, see [`opener-swipe-file.md`](opener-swipe-file.md).
+
 ---
 
 ## The 9 families (first spoken line)
@@ -30,6 +32,16 @@ Pick a family on purpose. Log it as `hook_family`. Don't repeat a family two pos
 - ❌ "Lazy agents are killing this business." (attacks the agent -- banned)
 
 **3 gut checks before you film a hot one:** Is it true and would I defend it on a podcast? Does a good agent respect me *more* after this? Is the friction aimed at the system, not the person?
+
+---
+
+## First 3 seconds: the 2026 retention math
+
+**50-60% of everyone who drops off drops in the first 3 seconds** (Shorts/Reels retention data, 2026). Getting a viewer past the 3-second mark is the single biggest thing that triggers the algorithm's wider push. The hook isn't a nicety, it's the whole distribution lever.
+
+- **Spoken hook + on-screen text, both.** A voice-only hook held ~54% of viewers at 3 seconds; adding a deliberate on-screen promise line lifted it to ~71% (+17 pts) in the same test. This does NOT replace the spoken-first rule (captions.ai builds captions from the audio, so the spoken hook has to exist). It layers a second stop signal on top. Over 60% of viewing is sound-off, so the hook has to land visually too.
+- **On-screen hook text: 4-7 words max.** Longer is unreadable at scroll speed.
+- Pair the hook with a **visual open** (pattern interrupt) per [`pattern-interrupt-cheatsheet.md`](pattern-interrupt-cheatsheet.md) -- spoken line + on-screen text + a physical move in the first second.
 
 ---
 

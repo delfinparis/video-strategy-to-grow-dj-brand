@@ -164,21 +164,6 @@ The commission chapter just closed. The dual-agency chapter is the next one.
 
 **Hashtags:** #RealEstate #Realtor #DualAgency #BrokerageStrategy #RealEstateLaw #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-$1.5B. That's what dual agency cost American sellers in three years.
-
-Zillow, 15M transactions, 2023-2025. CA $533M. FL $217M. NY $146M.
-
-The commission lawsuits are wrapping. The plaintiffs' bar isn't going home. This is the next case file.
-
-3 moves this week:
-1. Pull your own dual-agency rate for the last 12 months.
-2. Brokerage leaders: audit office policy.
-3. Build a referral network. Hand off the buyer side.
-
-**Hashtags:** #RealEstate #DualAgency #RealEstateLaw
-
 ### Threads
 **Post:**
 $1.5 billion. That's what dual agency cost American sellers in three years.

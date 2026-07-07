@@ -161,9 +161,8 @@ These two platforms have the highest concentration of D.J.'s actual target audie
 3. **Personal Instagram (Reel)** - 60-second video version with caption
 4. **TikTok** - 45-60 second video version with stronger hook
 5. **YouTube Shorts** - 60-second video, search-optimized title
-6. **X (Twitter)** - distilled to 280 chars, opinion-forward
 
-The script files include all six platform versions. LinkedIn is the canonical version because that's where the audience converts.
+The script files include all five platform versions (D.J. does not use X/Twitter). LinkedIn is the canonical version because that's where the audience converts.
 
 ---
 
@@ -197,7 +196,7 @@ To stay sharp, the series has to refuse certain content types even when they're 
 
 **Never end a script with "Follow me for more" or any variant.** No "subscribe for more." No "follow along if you want..." No audience-begging CTAs of any kind.
 
-This is a convention, not a preference. It applies to the spoken script, the LinkedIn caption, the Instagram caption, the Facebook caption, the TikTok caption, the YouTube Shorts description, and the X post. Every surface.
+This is a convention, not a preference. It applies to the spoken script, the LinkedIn caption, the Instagram caption, the Facebook caption, the TikTok caption, and the YouTube Shorts description. Every surface.
 
 **Why:** Follower asks signal "I'm still at the stage where I need you to follow me." The entire point of Inside the Industry is to signal the opposite -- "You should already be following me because of who I am and what I have access to." Asking for the follow undercuts the authority position the series is designed to build.
 

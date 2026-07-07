@@ -53,9 +53,6 @@ Three texts. Today. Watch what comes back.
 
 **Vibe:** Warm and human, gently encouraging -- a little more documentary-reflective than coaching. The "send the text" warmth, not hype.
 
-**Suno / Udio:**
-> [no vocals] warm modern underscore between coaching and documentary, instrumental only, warm and encouraging, 100 BPM, soft felt-piano motif, mellow plucked guitar, gentle electric piano, light brushed kick, warm sub-bass, major-leaning and grounded, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental warm modern underscore, encouraging and human, 100 BPM, felt piano, mellow guitar, gentle electric piano, brushed kick, no vocals, quiet bed for voiceover, loopable
 
@@ -126,15 +123,3 @@ So send three today. Not a pitch. Just "thought of you. Hope you're well."
 Watch what comes back.
 
 **Hashtags:** #RealEstate #RealtorLife #Referrals #Prospecting
-
-### X (Twitter)
-**Caption:**
-The text you keep not sending? They want it more than you think.
-
-University of Chicago research: we badly underestimate how much people appreciate hearing from us. Every time they tested it.
-
-You're the only one calling it a bother.
-
-Send 3 today. Not a pitch. Just "thought of you."
-
-**Hashtags:** #RealEstate #Prospecting

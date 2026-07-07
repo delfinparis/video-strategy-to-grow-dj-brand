@@ -93,9 +93,6 @@ Walk-and-talk for hook and close. Simple fee card on "$400/sale, capped at $6,00
 >
 > #Shorts #realestate #realtor #chicagorealestate #realestateagent #brokerage
 
-### X / Threads
-TODO: derive from the copy above, same no-em-dash scrub.
-
 ## Data Source
 
 - "We charge four hundred dollars a sale, capped at six thousand a year." Source: joinkale.com/compare, 2026 ($400/closed sale, capped at $6,000/yr; plus $54/mo tech and $249/yr E&O, year-one $6,897 at 20 sides). Status: confirmed (published on Kale's site).
@@ -105,9 +102,6 @@ TODO: derive from the copy above, same no-em-dash scrub.
 ## AI Music Prompt
 
 **Vibe:** Conviction with forward momentum. The clock is moving and we have to earn it.
-
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no risers, no whooshes, loopable
 
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, muted Rhodes stabs, steady kick, subtle ride, no vocals, unobtrusive bed for voiceover, no melodic hook, loopable, 75s

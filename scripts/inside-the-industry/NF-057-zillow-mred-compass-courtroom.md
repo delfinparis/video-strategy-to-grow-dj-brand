@@ -87,9 +87,6 @@ Here's what you do now. First, don't go on social media picking a side. This is 
 
 **Vibe:** NF news-explainer with courtroom weight and a live-event pulse. The hook lands the "nobody asked you" agent-solidarity beat; the body walks the courtroom mechanics; the close arms the agent. Bed should feel authoritative and slightly tense with the pulse of a live news feed, Bloomberg-courtroom-explainer adjacent.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, authoritative and slightly tense with live-news pulse, 96 BPM, pulsing minor-key synth pad, muted plucked synth motif, soft ticking arpeggio, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, authoritative with live-news pulse, 96 BPM, pulsing minor synth pad, muted plucks, soft ticking arpeggio, tight kick, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -167,15 +164,3 @@ Second, tell every seller you sign this week what venues actually see their list
 Third, watch this ruling. When it drops, where your seller's home gets seen either got easier, or it got a lot more political.
 
 **Hashtags:** #RealEstate #Compass #Zillow #MLS #PrivateListings #RealEstateLaw #ChicagoRealEstate #ListingAgent #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Nobody asked you. But 3 CEOs are in a Chicago federal courtroom right now fighting over your listings.
-
-Zillow. Compass. MRED. Preliminary injunction hearing runs July 1-2, Judge Tharp.
-
-Two days ago, MRED filed a last-minute motion to force it all into private arbitration.
-
-Don't post about it. Tell your sellers what venues see their listing. Written.
-
-**Hashtags:** #RealEstate #Compass #Zillow #PrivateListings

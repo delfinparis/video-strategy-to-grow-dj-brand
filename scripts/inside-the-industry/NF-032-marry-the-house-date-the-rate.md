@@ -76,9 +76,6 @@ Date the rate is real. Assume the loan is mostly myth. The agent who knows the d
 
 **Vibe:** Default NF, confident and steady. This is a sort-the-truth piece, not a breaking headline -- the bed should feel measured and assured, like an explainer that has nothing to prove, with just enough pulse to keep the debunk moving.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, confident and steady, 98 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string layer on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, confident and steady, 98 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable
 
@@ -153,18 +150,6 @@ Two. Learn the refinance math cold, so you can tell a buyer the truth. Today's r
 Date the rate is real. Assume the loan is mostly myth.
 
 **Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #MortgageRates #RealEstate2026
-
-### X (Twitter)
-**Caption:**
-"Marry the house, date the rate" is half real, half fairy tale.
-
-Real: ICE counted 4.8 million owners who could already refinance lower earlier this year. Overpaying on rate today isn't permanent.
-
-Fairy tale: "just assume their 3 percent loan." Only works on FHA/VA loans, and only if the buyer covers the equity in cash.
-
-The agent who knows the difference gets paid.
-
-**Hashtags:** #RealEstate #HousingMarket #MortgageRates
 
 ### Threads
 **Post:**

@@ -157,24 +157,6 @@ Two commissions or one client's price. Pick one.
 
 **Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-$2,165. That's what your seller loses when you double-end the deal.
-
-Zillow analyzed 15M transactions, 2023-2025. Dual-agency sellers lost $2,165 per home on average. Every year of the study.
-
-Three plays:
-
-1. Refer the buyer out. Keep the listing side. Seller keeps the price.
-
-2. If you stay dual, disclose the Zillow number in writing.
-
-3. If you stay dual, renegotiate your buyer-side fee. $2K back to the seller is the floor.
-
-Two commissions or one client's price. Pick one.
-
-**Hashtags:** #RealEstate #Realtor #DualAgency
-
 ### Threads
 **Post:**
 $2,165. That's what your seller loses when you double-end the deal.

@@ -135,21 +135,9 @@ Episode 5 of The Playbook. Eighty percent of sales take five or more follow-ups 
 
 **Hashtags:** #shorts #realestate #realtor #followup #leadgeneration #thePlaybook #keepingitrealpodcast
 
-### X (Twitter)
-Eighty percent of sales take five or more follow-ups. Most agents quit after one or two.
-
-That gap is where your deals are hiding.
-
-The play: pull your twenty oldest cold leads, run five real touches over three weeks. The deal was never gone. The follow-up was.
-
-**Hashtags:** #RealEstate #FollowUp #ThePlaybook
-
 ## AI Music Prompt
 
 **Vibe:** Modern coaching underscore with confident, "go reclaim what's yours" forward energy. This is a tactical reactivation play with a contrarian edge, not breaking news. Determined and upbeat without drama, steady momentum that says go do this tonight. Major key, 105 BPM.
-
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, confident determined forward energy, 105 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, neutral major key, optimistic but not cheesy, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no big drop, no risers, loopable
 
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, confident determined forward energy, 105 BPM, plucked synth, electric piano, tight kick, subtle shaker, no vocals, upbeat-but-quiet bed for voiceover, loopable

@@ -148,17 +148,3 @@ You cannot prompt your way into that. You earn it by reps.
 The agents who survive this next decade won't be the ones with the best prompts. They'll be the ones who've had the hardest conversations.
 
 **Hashtags:** #RealEstate #AI #ChicagoRealEstate #RealtorLife
-
-### X (Twitter)
-**Caption:**
-I've interviewed 700 real estate agents. I teach agents AI.
-
-Here's what AI still can't fix:
-
-Knowing what to say when your client is falling apart. Reading a room in a negotiation. Judgment from a career of reps.
-
-You can't prompt that. You earn it by reps.
-
-The best agents have both.
-
-**Hashtags:** #RealEstate #AI

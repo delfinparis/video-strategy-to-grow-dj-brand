@@ -95,9 +95,6 @@ Here's what you do now. Don't pick a side. You're not paid for that. Be the agen
 
 **Vibe:** NF news-explainer with regulatory urgency and a ticking-clock undercurrent. The hook lands the polling number, the body lays out the constitutional clock, the close arms the agent. Bed should feel authoritative, slightly tense, Bloomberg-explainer adjacent, with a low-key ticking texture.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, authoritative with a low-key ticking-clock undercurrent, 96 BPM, pulsing minor-key synth pad, muted plucked synth motif, soft ticking arpeggio, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, authoritative with ticking-clock feel, 96 BPM, pulsing minor synth pad, muted plucks, soft ticking arpeggio, tight kick, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -165,15 +162,3 @@ Here's what you do now. Don't pick a side. You're not paid for that. Be the agen
 Every fence-sitting buyer in your pipeline gets the same message this week. If it becomes law, more homes are coming over the next two years. If it doesn't, we keep working what's on the market today. Either way, you don't wait.
 
 **Hashtags:** #RealEstate #HousingSupply #BuyersAgent #Inventory #RealtorLife #RealEstateMarket
-
-### X (Twitter)
-**Caption:**
-Congress just passed a housing bill 79% of Americans support (Redfin-Ipsos, 4,000 adults).
-
-The split is bipartisan: 83% D / 74% R.
-
-President cancelled the signing 2 days ago. 10-day constitutional clock now running to ~July 5.
-
-Don't pick a side. You're not paid for that. Be the agent who knows what's in the bill.
-
-**Hashtags:** #RealEstate #HousingSupply #BuyersAgent

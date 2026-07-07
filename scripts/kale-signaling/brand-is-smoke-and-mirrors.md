@@ -91,9 +91,6 @@ Walk-and-talk to camera for the hook and close. Cut to a simple number card for 
 >
 > #Shorts #realestate #realtor #chicagorealestate #realestateagent #brokerage
 
-### X / Threads
-TODO: derive from the copy above, same no-em-dash scrub.
-
 ## Data Source
 
 - "Some agents pay over seventy thousand dollars a year." Source: joinkale.com/compare, 2026 (Coldwell Banker and Century 21 modeled at $70,700/yr; Jameson Sotheby's $73,700). Who measured: Kale Realty's own published cost comparison, 20 sides at $400K average. Status: confirmed (published on Kale's site); note it is Kale's model, not third-party.
@@ -103,9 +100,6 @@ TODO: derive from the copy above, same no-em-dash scrub.
 ## AI Music Prompt
 
 **Vibe:** Confident and quietly defiant. Insider calling out a con without raising his voice.
-
-**Suno / Udio:**
-> [no vocals] modern boardroom underscore, instrumental only, confident with a quiet edge, 98 BPM, smooth synth pad, restrained muted plucked synth, soft kick, subtle hi-hat, tasteful sub-bass, minor key with a resolved lift in the back half, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails, loopable
 
 **CapCut AI Music:**
 > Instrumental modern boardroom underscore, confident with quiet edge, 98 BPM, smooth pad, muted plucked synth, soft kick, subtle hi-hat, no vocals, quiet bed for voiceover, no melodic hook, loopable, 60s

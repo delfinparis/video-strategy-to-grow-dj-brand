@@ -106,8 +106,5 @@ $750K listing at 2.5%? Here's what your brokerage actually took.
 
 **Vibe:** Third in the sequence -- the same scoreboard-moment DNA as FA-001 and FA-002 but with slightly more harmonic weight to match the bigger dollar figure. 100 BPM, confident with forward momentum, one resolved lift on the reveal.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, weighty analog sub-bass, minor key with one resolved lift on the reveal, light string layer on the back half, clean mix for voiceover, tight 15-second loopable bed, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, muted Rhodes stabs, steady kick, weighty sub-bass, light strings, no vocals, tight 15s bed for voiceover, one resolved lift on the reveal, no melodic hook, no risers, loopable

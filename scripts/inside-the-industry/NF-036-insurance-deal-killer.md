@@ -74,9 +74,6 @@ Here's what you do now. Get an insurance quote within forty-eight hours of every
 
 **Vibe:** Default NF news-explainer with a slightly tense edge. The hook lands on a deal-killing reveal, the body builds to a tactical fix, so the bed should feel like an authoritative news brief with light forward momentum.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, urgent but controlled, 95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, urgent but controlled, 95 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable
 
@@ -142,13 +139,3 @@ Get an insurance quote within 48 hours of every showing that could turn into an 
 The agents who run insurance early aren't losing deals at week six. The ones who don't are calling their buyers to explain what happened.
 
 **Hashtags:** #RealEstate #HomeInsurance #BuyersAgent #RealEstateAgent #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Your next deal isn't dying at the appraisal. It's dying at the insurance quote.
-
-Premiums up 20%+ YoY in many states. Quotes coming in at 2-3x expectations. DTI flips. Deal dies. Buyer walks.
-
-The move: insurance quote within 48 hours of any showing that could turn into an offer. Not at closing.
-
-**Hashtags:** #RealEstate #HomeInsurance #BuyersAgent

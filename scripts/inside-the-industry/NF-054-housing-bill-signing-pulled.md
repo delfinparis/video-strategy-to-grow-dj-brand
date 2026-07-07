@@ -80,9 +80,6 @@ Here's what you do now. Every buyer in your pipeline deserves a five-minute call
 
 **Vibe:** NF news-explainer with regulatory weight. The hook lands a policy reversal with consumer consequences; the body builds to an inventory argument. Bed should feel authoritative, slightly tense, Bloomberg-explainer adjacent, with a touch of finality.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, authoritative and slightly tense, 95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, authoritative and slightly tense, 95 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -154,15 +151,3 @@ Every buyer in your pipeline deserves a five-minute call this week. Tell them wh
 The buyers who win the next 12 months aren't waiting for the market to fix itself. They're working with the agent who knows where to look.
 
 **Hashtags:** #RealEstate #Inventory #BuyersAgent #HousingSupply #RealtorLife #RealEstateMarket
-
-### X (Twitter)
-**Caption:**
-A housing supply bill just passed the Senate 85-5 and the House 358-32. Yesterday the signing was pulled.
-
-The 21st Century Road to Housing Act would have capped institutional buyers in SFHs and eased federal permitting and zoning bottlenecks.
-
-For your buyers, more homes were coming. They're not anymore.
-
-Make the pipeline call this week.
-
-**Hashtags:** #RealEstate #Inventory #BuyersAgent

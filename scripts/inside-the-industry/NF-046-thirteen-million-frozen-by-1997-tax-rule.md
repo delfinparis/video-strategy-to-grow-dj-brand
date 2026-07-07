@@ -74,9 +74,6 @@ So here's what you do now. Summer's when these owners decide. Get there first. P
 
 **Vibe:** Sober financial-news bed with a touch of forward momentum. The number is big (thirteen million) so it carries quiet weight, but the subject is a tax law, not a market win. Controlled and authoritative, one small resolved lift under the close where the agent gets the move. Bloomberg explainer, not true crime.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, controlled and authoritative with quiet forward momentum, 98 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light analog bass, one resolved lift on the back half under the close, clean low end, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, controlled and authoritative, slight forward momentum, 98 BPM, pulsing minor synth pad, muted plucks, tight kick, subtle hi-hat, light bass, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -143,13 +140,3 @@ Here's what you do now. Pull up your database, find one owner who's owned their 
 Thirteen million people think the door is closed. For a lot of them, it isn't.
 
 **Hashtags:** #RealEstate #CapitalGains #ListingAgent #ChicagoRealEstate #HomeSelling
-
-### X (Twitter)
-**Caption:**
-13 million homeowners feel stuck. Not because of rates. Because of a 1997 tax rule.
-
-Sell your primary home, you shield $250K in gains single, $500K married. Congress set that in 1997, never indexed. NAR: 13.1M owners are already over the line.
-
-The move: ask a longtime owner if they've run the tax math on selling. Most never have.
-
-**Hashtags:** #RealEstate #CapitalGains #ListingAgent

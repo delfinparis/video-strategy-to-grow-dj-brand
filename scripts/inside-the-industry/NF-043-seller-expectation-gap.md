@@ -57,9 +57,6 @@ Here's what you do now. At your next listing consult, bring the last ten compara
 
 **Vibe:** Big-number NF with a sobering, advisory edge. The hook is a percentage and the body is a cautionary coaching beat, so the bed should feel confident and steady, not celebratory.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident and steady, 98 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, soft kick, subtle ride cymbal, light analog bass, minor key with a grounded resolve, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and steady, 98 BPM, arpeggiated synth, Rhodes stabs, soft kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -115,15 +112,3 @@ Here's where agents lose. You don't correct the number at the listing table beca
 At your next listing consult, bring the last ten comparable sales. Put list price next to sale price. Let the spread set the expectation, not the seller's hope. Set the number before you sign.
 
 **Hashtags:** #RealEstate #ListingStrategy #PricingStrategy #HousingMarket #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-83% of sellers this spring expect asking price or better (Realtor.com survey).
-
-A separate Homes.com analysis: homes closing ~1.5% under list.
-
-Your seller is doing math the market stopped supporting weeks ago.
-
-Bring 10 comps to the consult. List vs sale price. Set the number before you sign.
-
-**Hashtags:** #RealEstate #ListingStrategy #HousingMarket

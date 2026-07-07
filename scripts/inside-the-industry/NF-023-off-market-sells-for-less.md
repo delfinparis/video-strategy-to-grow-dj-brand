@@ -172,20 +172,6 @@ Off-market sounds exclusive. The data says discount. Tell your seller which one 
 
 **Hashtags:** #RealEstate #Realtor #OffMarket #PrivateListings #MLS #ListingAgent #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Off-market sells for less.
-
-The number is $1.3B.
-
-Zillow analyzed 6.2M transactions. Off-MLS homes sold for less than MLS-first homes. Every year.
-
-Mechanism: smaller buyer pool, less competition, lower price.
-
-Off-market sounds exclusive. The data says discount.
-
-**Hashtags:** #RealEstate #OffMarket #PrivateListings #MLS
-
 ### Threads
 **Post:**
 Off-market sells for less. The number is $1.3 billion. The data is in.

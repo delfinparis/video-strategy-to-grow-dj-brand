@@ -92,9 +92,6 @@ Open houses sell four percent of homes. They build the next four years of your b
 
 **Vibe:** Authoritative, gentle pushback against an industry orthodoxy. Educational and confident without being aggressive. Slightly slower than a breaking-news cue because the take's punch is "the data has been here all along."
 
-**Suno / Udio:**
-> Instrumental only, 92 BPM. Modern editorial documentary score with a gentle mythbusting tone, authoritative without being aggressive. Muted piano on top with a simple recurring motif. Low pulsing synth bass underneath. Soft brushed percussion (shaker and rim hit). Slow harmonic build through the middle, resolving on a confident final chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover, doesn't compete with speech. Loopable. Reference: NPR Planet Money explainer cue, NYT Daily mid-segment underscore. 55 to 60 second runtime with the build peaking around the 45-second mark.
-
 **CapCut AI Music:**
 ```
 Modern editorial documentary score, 92 BPM. Authoritative, gentle pushback, mythbusting tone. Muted piano, low pulsing synth bass, soft shaker. Slow build, resolved final chord. No vocals, no big drops. Reference: NPR Planet Money cue. 55-60s.
@@ -185,20 +182,6 @@ Three. Track every open house intentionally. Who came. Who lives nearby. The rel
 Open houses sell four percent of homes. They build the next four years of your business.
 
 **Hashtags:** #RealEstate #Realtor #OpenHouse #ListingAgent #ChicagoRealEstate #RealEstate2026
-
-### X (Twitter)
-**Caption:**
-4% of buyers find their home through an open house.
-
-52% find it online.
-
-NAR has been saying so for years. Most agents are still running open houses to find buyers.
-
-Open houses aren't a buyer-acquisition tool. They're a showing tool for buyers who already found the listing online.
-
-The actual ROI: feedback on price, neighbor relationships, future listings. Run them for that.
-
-**Hashtags:** #RealEstate #OpenHouse #Realtor
 
 ### Threads
 **Post:**

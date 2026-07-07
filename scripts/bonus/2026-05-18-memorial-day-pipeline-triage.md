@@ -56,9 +56,6 @@ Pull up your CRM tonight. Five active buyers. Five spring sellers. Five ghosters
 
 **Vibe:** Decisive, modern coaching/productivity. The script is action-with-a-deadline (do this before Friday), so the music should feel like clean forward push -- never preachy, never frantic.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, light forward energy with a touch of deadline pulse, 105 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, neutral major key with one grounded minor moment, optimistic but not cheesy, unobtrusive background for voiceover, no melodic hook, no vocal chops, no big drop, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, light forward energy with deadline pulse, 105 BPM, plucked synth, electric piano, tight kick, no vocals, upbeat-but-quiet bed for voiceover, loopable
 

@@ -163,21 +163,6 @@ AI didn't kill the agent. It killed the slow agent.
 
 **Hashtags:** #RealEstate #AI #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-88% of buyers still use an agent. AI was supposed to kill us. It killed something else.
-
-What AI killed was your response time.
-
-Three moves this week:
-1. Pick one daily task. Use AI to cut its time in half.
-2. Audit your last ten client texts. The slow reply is the lost listing.
-3. Tell your clients when they can expect a reply. Then deliver under that window.
-
-AI didn't kill the agent. It killed the slow agent.
-
-**Hashtags:** #RealEstate #AI #Realtor
-
 ### Threads
 **Post:**
 88% of buyers still use an agent. AI was supposed to kill us. It killed something else.

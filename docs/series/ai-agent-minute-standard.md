@@ -176,7 +176,6 @@ post_date: "[YYYY-MM-DD]"
 ### YouTube Shorts
 ### Facebook
 ### LinkedIn
-### X
 ```
 
 The `> **WOW: ...**` line is the first thing a reviewer reads. If it is vague, the script is vague. See universal Rule 0.

@@ -57,9 +57,6 @@ Five past sellers. Five stuck buyers. Five sphere contacts. Fifteen messages, be
 
 **Vibe:** Confident, ticking, modern financial-news bed. The hook is a number contrast (half the country vs. Chicago at 5x), so the music should feel like "the clock is moving" under the call-to-action -- momentum without anxiety.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 

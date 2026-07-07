@@ -131,20 +131,6 @@ Tip #2 of 620 at tapthis.co.
 
 **Hashtags:** #RealEstate #AIforRealtors #LeadGeneration #RealtorLife
 
-### X (Twitter)
-**Caption:**
-Your ghosted lead isn't gone. They just never heard anything worth responding to.
-
-The Claude prompt my Kale agents use:
-
-"Write a 3-touch re-engagement sequence built on value. No asks. Market update. Matching property. Low-pressure check-in."
-
-Tip #2 of 620 at tapthis.co.
-
-**Hashtags:** #RealEstate #AIforRealtors
-
----
-
 ## Producer Notes
 
 - **CTA variant:** Uses "Tip #2 of 620. All free at tapthis.co." -- testing specificity-forward CTA per plan documented in Tip #001.

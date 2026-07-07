@@ -81,8 +81,5 @@ TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
 
 **Vibe:** Reassuring but with backbone. Warm authority. "You were lied to, and here's the truth."
 
-**Suno / Udio:**
-> [no vocals] reflective documentary underscore, instrumental only, warm and authoritative, 95 BPM, soft felt-piano motif, ambient pad, sparse kick, gentle upright bass, light string bed, minor-to-major lift in the back half, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no drum fills, no risers, no reverb tails, loopable
-
 **CapCut AI Music:**
 > Instrumental documentary underscore, warm and authoritative, 95 BPM, felt piano, ambient pad, sparse kick, soft upright bass, no vocals, quiet bed for voiceover, no melodic hook, loopable, 70s

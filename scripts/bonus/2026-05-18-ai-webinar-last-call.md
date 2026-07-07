@@ -57,9 +57,6 @@ Tomorrow. Tuesday. Noon Central. Forty-five minutes. Free. Link in my bio -- gra
 
 **Vibe:** Modern, optimistic, forward-leaning tech-product bed. The CTA is the entire point of this script, so the music should carry quiet momentum -- the audio version of "click the link." Not anxious, not aspirational, just clean and moving.
 
-**Suno / Udio:**
-> [no vocals] modern tech-product underscore, instrumental only, clean and forward, 108 BPM, crisp arpeggiated synth, muted plucked lead, tight kick, subtle hi-hat pattern, clean sub-bass, optimistic major key with one subtle lift in the back half under the CTA, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no big build, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental modern tech-product underscore, clean and forward, 108 BPM, arpeggiated synth, muted lead, tight kick, no vocals, optimistic bed for voiceover, loopable
 

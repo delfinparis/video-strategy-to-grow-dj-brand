@@ -87,9 +87,6 @@ The market was never slow. It's handcuffed. And handcuffs come off.
 
 **Vibe:** Big-number NF. The hook is a dollar figure and a count, so the bed should feel confident and ticking -- "the clock is moving and the numbers are real" -- without tipping into alarm.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -172,19 +169,6 @@ Three. Run the real cost-to-move for one past client and send it to them.
 The market was never slow. It's handcuffed. And handcuffs come off.
 
 **Hashtags:** #RealEstate #HousingMarket #Realtor #RealtorLife #ChicagoRealEstate #MortgageRates #RealEstate2026
-
-### X (Twitter)
-**Caption:**
-More than half of America's mortgages are under 4 percent. To move, the typical owner gives up nearly fifty thousand dollars (FHFA).
-
-It was never a slow market. It's handcuffed. Lock-in stopped 1.72 million sales between 2022 and 2024.
-
-Three moves:
-1. Flag everyone in your farm who bought or refinanced in 2020-2021.
-2. Stop saying "slow market." Say "handcuffed."
-3. Run the real cost-to-move for one past client and send it.
-
-**Hashtags:** #RealEstate #HousingMarket #MortgageRates
 
 ### Threads
 **Post:**

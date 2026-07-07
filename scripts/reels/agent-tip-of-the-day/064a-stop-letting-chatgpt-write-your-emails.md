@@ -71,18 +71,3 @@ Most agents think clean AI writing makes them sound professional. Clients read i
 Before you send your next email, read it out loud. If you would not say it on the phone, cut it. Then send.
 
 **Hashtags:** #RealEstate #AIforRealtors #ProfessionalDevelopment
-
-### X (Twitter)
-**Caption:**
-Stop using ChatGPT to write your emails.
-
-I teach AI to real estate agents, and your clients can spot yours in the first line.
-
-Em dashes.
-"I hope this email finds you well."
-"In today's market."
-"I wanted to reach out."
-
-You think it sounds professional. Your client thinks you're lazy.
-
-**Hashtags:** #RealEstate #AIforRealtors

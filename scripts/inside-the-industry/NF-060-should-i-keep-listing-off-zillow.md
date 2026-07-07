@@ -86,9 +86,6 @@ Here's what you do now. When the text comes, don't give them your opinion. Give 
 
 **Vibe:** NF news-explainer with light coaching warmth. The hook lands the incoming-text scenario; the body carries the data reveal; the close arms the agent's conversation. Bed should feel authoritative and grounded with a slight forward pull -- Bloomberg-explainer adjacent, but a shade warmer than the courtroom pieces.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, authoritative with light coaching warmth, 96 BPM, pulsing minor-key synth pad, soft electric piano motif, muted plucked synth texture, tight kick, subtle hi-hat shuffle, light string bed on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, authoritative with light coaching warmth, 96 BPM, pulsing minor synth pad, soft electric piano, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -162,15 +159,3 @@ When the text comes, don't give them your opinion. Give them the numbers. Then l
 The seller who chooses off-MLS with clear data makes an informed choice. The seller who chose off-MLS because their agent didn't have the data got sold to.
 
 **Hashtags:** #RealEstate #ListingAgent #PrivateListings #Zillow #MLS #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-A seller will text you this week asking if they should keep their home off Zillow. Here's the honest answer:
-
-Samuelson testified this week: new listing gets ~180 views day 1, ~60 by day 5.
-
-Bright MLS + Drexel (1M+ transactions): on-MLS sold for ~17.5% more, ~$54K for a typical seller.
-
-Off-MLS is a service to the brokerage. On-MLS is a service to the seller.
-
-**Hashtags:** #RealEstate #ListingAgent #PrivateListings

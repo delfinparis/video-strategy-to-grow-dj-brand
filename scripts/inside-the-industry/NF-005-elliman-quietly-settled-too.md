@@ -158,15 +158,3 @@ For brokerage leadership, the strategic calculus is clear. For individual agents
 I cover these developments weekly on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #DouglasElliman #Litigation #RealEstateLaw #Industry #Leadership
-
-### X (Twitter)
-**Caption:**
-Everyone saw NAR's $52M settlement.
-
-Nobody noticed Douglas Elliman quietly settled the same day.
-
-KW: $20M (Batton). RE/MAX: $8.5M (Batton). Hanna: $8.25M (Tuccori). Elliman: undisclosed (Tuccori). NAR: $52.25M (Tuccori).
-
-The dominoes are falling fast.
-
-**Hashtags:** #RealEstate #NAR #DouglasElliman #Commissions

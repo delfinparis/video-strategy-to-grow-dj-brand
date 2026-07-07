@@ -125,17 +125,3 @@ The professionals who leaned into these changes early aren't just compliant. The
 I break down shifts like this every week on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #RealEstateLaw #BuyerAgent #ChicagoRealEstate #RealEstateIndustry #Leadership #Commissions
-
-### X (Twitter)
-**Caption:**
-NAR just settled the Tuccori lawsuit for $52M.
-
-The 2024 settlement covered sellers. This one covers buyers. Both sides are now done.
-
-This was filed in Chicago against @properties, so local agents -- pay attention.
-
-No new practice changes. No new rules.
-
-The agents who adapted early already won.
-
-**Hashtags:** #RealEstate #NAR #ChicagoRealEstate

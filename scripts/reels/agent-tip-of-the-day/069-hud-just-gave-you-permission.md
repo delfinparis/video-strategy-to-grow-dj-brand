@@ -98,16 +98,3 @@ The play: build a one-page buyer resource tonight. Two links. Your city's or pol
 You just stopped ducking the question. Without crossing the line.
 
 **Hashtags:** #RealEstate #FairHousing #BuyerAgent #HUD #NAR #ProfessionalDevelopment #RealEstate2026
-
-### X (Twitter)
-**Caption:**
-HUD No. 26-028 (April 24): sharing crime stats and school quality data with buyers is NOT a Fair Housing Act violation. NAR confirmed.
-
-The catch most agents will miss: data is fine. Opinion is not.
-
-Crime stats yes. "Bad neighborhood" no.
-School ratings yes. "I wouldn't send my kid there" no.
-
-Build a one-page buyer doc tonight.
-
-**Hashtags:** #RealEstate #FairHousing #HUD

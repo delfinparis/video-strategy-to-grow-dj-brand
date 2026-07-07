@@ -143,15 +143,3 @@ Your action this week. Text the three people from your sphere who have said "som
 Most agents will read this same news and do nothing. The ones who text three people this week win the listings of the agents who don't.
 
 **Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket #ListingAgent #SphereMarketing
-
-### X (Twitter)
-**Caption:**
-Two weeks ago: Chicago wasn't getting the buyer's market memo.
-
-Today: Case-Shiller Feb 2026 dropped. Chicago up 5%, national up 0.7%. More than half of metros are declining.
-
-Chicago appreciated 7x faster than the country.
-
-This isn't a market update. It's an arbitrage window. Your sphere has people who've been talking about leaving Chicago for years. Text three of them today.
-
-**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket

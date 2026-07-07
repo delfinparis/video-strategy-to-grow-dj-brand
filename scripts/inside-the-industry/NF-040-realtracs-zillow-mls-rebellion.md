@@ -70,9 +70,6 @@ Here's what you do now. If you sit on an MLS committee, raise the neutrality que
 
 **Vibe:** Big-number NF with the pattern-spreading energy. The hook lands on "a second MLS" and the body builds to "this is a national playbook" -- the bed should feel like a moving clock, slightly tense, financial-news adjacent. Bloomberg explainer crossed with forward momentum.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -134,17 +131,3 @@ The cooperative model breaks when the cooperative starts taking sides.
 If you sit on an MLS committee, raise the neutrality question. If you don't, ask your broker to. The MLSes that stay neutral are the ones every member can keep trusting.
 
 **Hashtags:** #RealEstate #Zillow #Compass #MLS #MLSGovernance #RealEstateLaw #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Two MLSes have now picked a side in the Compass-Zillow fight.
-
-They shouldn't have. An MLS is a database, not a political actor.
-
-Compass CEO publicly thanked one of them. That's the tell.
-
-Every member broker just got conscripted into a fight they never agreed to.
-
-Raise the neutrality question.
-
-**Hashtags:** #RealEstate #MLS #MLSGovernance

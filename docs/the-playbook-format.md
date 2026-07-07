@@ -218,7 +218,6 @@ This is different from Inside the Industry (which is LinkedIn-first). The reason
 3. **Personal LinkedIn** - adapted as a tactical post, less video-dependent
 4. **TikTok** - short, hook-driven version
 5. **YouTube Shorts** - search-optimized title with episode number
-6. **X (Twitter)** - distilled to the play + the why
 
 ---
 
@@ -256,7 +255,7 @@ This creates a recognizable series identity in feeds. Every viewer who sees more
 
 **Never end a Playbook script with "Follow me for more" or any variant.** No "Subscribe for The Playbook every Wednesday." No "Hit the follow for more plays." No audience-begging CTAs of any kind.
 
-This applies across every surface: spoken script, LinkedIn caption, Instagram caption, Facebook caption, TikTok caption, YouTube Shorts description, X post.
+This applies across every surface: spoken script, LinkedIn caption, Instagram caption, Facebook caption, TikTok caption, YouTube Shorts description.
 
 **Why:** The Playbook lives on action asks, not audience asks. The viewer should finish every video with one specific thing to try on their next deal, not one specific thing to do for you. The Jefferson Fisher reference model almost never ends with a follow CTA. His videos end with "Try this next time" because the engagement comes from watching the viewer become an active participant in their own situation, not a passive fan of his.
 

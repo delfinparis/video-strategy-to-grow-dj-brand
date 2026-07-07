@@ -62,9 +62,6 @@ Here's what you do now. When that call comes in, ask one question back. "Do you 
 
 **Vibe:** Tense modern news bed for a legal-meets-consumer story. Bloomberg-explainer energy, slightly more edge than a routine NF because there's a fight on. Sober, not dramatic.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, urgent but controlled, 95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, urgent but controlled, 95 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable
 
@@ -122,15 +119,3 @@ When that call comes in, ask one question back. Do you want privacy, or do you w
 Don't let a billboard set your seller's strategy.
 
 **Hashtags:** #RealEstate #Zillow #Compass #ChicagoRealEstate #PrivateListings #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Your seller saw the Compass billboard: "Zillow doesn't have all the listings."
-
-Now they want to go private.
-
-The no-agenda answer: private listings help in ONE case, when privacy beats money. Otherwise fewer eyeballs = fewer offers = lower price.
-
-Ask them: privacy, or top dollar?
-
-**Hashtags:** #RealEstate #Zillow #Compass #ChicagoRealEstate

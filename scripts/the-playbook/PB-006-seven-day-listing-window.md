@@ -135,21 +135,9 @@ Episode 6 of The Playbook. A new listing gets about one week of peak attention. 
 
 **Hashtags:** #shorts #realestate #realtor #listingagent #homepricing #thePlaybook #keepingitrealpodcast
 
-### X (Twitter)
-Your seller wants to list high and try it a couple weeks.
-
-A listing gets about one week of real attention. A right-priced home goes pending in 17 days. The median listing sits at 66.
-
-That gap is a pricing problem, not a market problem. Price it for week one, or beg for the rest.
-
-**Hashtags:** #RealEstate #ListingAgent #ThePlaybook
-
 ## AI Music Prompt
 
 **Vibe:** Modern coaching underscore with a straight-talk, slightly urgent edge. This is tough-love listing advice, confident and grounded, a little more weight than a feel-good tip but still forward and optimistic. Major-leaning with a touch of tension, 105 BPM.
-
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, confident grounded with light urgency, 105 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, major-leaning with a touch of tension, purposeful not dramatic, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no big drop, no risers, loopable
 
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, confident grounded with light urgency, 105 BPM, plucked synth, electric piano, tight kick, subtle shaker, no vocals, purposeful quiet bed for voiceover, loopable

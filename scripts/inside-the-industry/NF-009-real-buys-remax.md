@@ -128,15 +128,3 @@ The next wave of M&A is not legacy buying upstarts. It is upstarts buying legacy
 If you are at RE/MAX, ask your franchise leadership what changes next quarter.
 
 **Hashtags:** #RealEstate #REMAX #RealBrokerage #BrokerageNews #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Real Brokerage just bought RE/MAX for $880M.
-
-The upstart bought the legacy giant.
-
-Wins: Real shareholders, Real agents. Loses: RE/MAX franchisees who signed up for tradition.
-
-The next wave of M&A isn't legacy buying upstarts. It's upstarts with capital buying legacy brands for the parts they want.
-
-**Hashtags:** #RealEstate #REMAX #BrokerageNews

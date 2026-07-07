@@ -134,15 +134,3 @@ The Playbook Ep 2. Listing agent ghosting you? Don't chase. Send THIS one text.
 Episode 2 of The Playbook. You're trying to write an offer and the listing agent has gone silent. Here's the exact text to send (and why most agents send the wrong one). The Playbook drops every Wednesday.
 
 **Hashtags:** #shorts #realestate #realtor #buyeragent #thePlaybook #keepingitrealpodcast
-
-### X (Twitter)
-**Caption:**
-The listing agent isn't returning your calls. Here's the play.
-
-Don't keep calling. Send this exact text:
-
-"Hi [name]. Working on an offer for your listing at [address]. What's the best number to reach you in the next two hours?"
-
-You just signaled real money + a short window. Listing agents triage by signal, not order.
-
-**Hashtags:** #RealEstate #BuyerAgent

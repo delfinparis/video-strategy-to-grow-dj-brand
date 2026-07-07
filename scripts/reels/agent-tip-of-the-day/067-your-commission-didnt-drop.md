@@ -81,17 +81,3 @@ The agents who outperformed in 2026 are the ones who stopped flinching when comm
 If your buyer presentation or listing presentation contains a slide on commission, read it aloud tonight. If the language sounds defensive, rewrite it before your next appointment. The market moved on. Your script should too.
 
 **Hashtags:** #RealEstate #RealEstateAgent #Commissions #NARSettlement #ListingAgent #BuyerAgent #ProfessionalDevelopment
-
-### X (Twitter)
-**Caption:**
-Your commission didn't drop. You stopped charging it.
-
-Buyer-side: 2.5% post-settlement → bounced back to 2.82%. UP.
-
-2/3 of agents (Cotality survey) report no meaningful change.
-
-The agents earning more in 2026 stopped flinching when the number came up.
-
-Open your buyer presentation tonight. Rewrite the commission slide.
-
-**Hashtags:** #RealEstate #RealEstateAgent #NAR

@@ -57,9 +57,6 @@ Here's what you do now. If you've got a seller sitting on the fence waiting for 
 
 **Vibe:** Big-number NF energy with forward momentum. The hook is a rate figure and the take is a confident contrarian flip, so the bed should feel like a moving clock, not a warning siren.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -117,17 +114,3 @@ Fewer homes to compete against. Only motivated buyers looking. That's a seller's
 List into the quiet, not into the flood.
 
 **Hashtags:** #RealEstate #MortgageRates #HousingMarket #SellersMarket #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Rates just hit their highest since last August. Freddie Mac: 6.51%, up from 6.36%.
-
-Every fence-sitting seller: "I'll wait for rates to drop."
-
-The day they drop, every one of those sellers lists at once. Flooded market overnight.
-
-Right now = thin competition + serious buyers.
-
-List into the quiet.
-
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket

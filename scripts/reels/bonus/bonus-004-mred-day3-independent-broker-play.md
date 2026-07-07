@@ -118,14 +118,3 @@ The big national brokerages need to respond to this. Independents need to execut
 I cover developments like these weekly on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #IndependentBrokerage #BrokerageStrategy #RealEstateLeadership #MRED #Recruitment
-
-### X (Twitter)
-**Caption:** MRED + Compass didn't just go national for Compass.
-
-It opened off-market parity for every member brokerage, including the indies.
-
-20 years of "you get me, not a franchise" just got the inventory backbone it always lacked.
-
-The big 3 must respond. Indies just need to move.
-
-**Hashtags:** #RealEstate #IndependentBroker #MRED

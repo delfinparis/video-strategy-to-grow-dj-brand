@@ -88,17 +88,3 @@ The agent who walks into a Chicago, Boston, or any non-Sun-Belt listing appointm
 Before your next listing appointment, pull one statistic from your state realtors association: median price year-over-year, inventory level, days on market. Walk in with that number. Price for the market you actually live in.
 
 **Hashtags:** #RealEstate #ListingAgent #PricingStrategy #HousingMarket #RealEstate2026 #ProfessionalDevelopment #MarketIntelligence
-
-### X (Twitter)
-**Caption:**
-"34% of sellers cut prices" is a NATIONAL stat.
-
-Underlying: San Antonio 58%, Austin 55%, Tampa 46%. Sun Belt.
-
-Same week, Illinois: prices UP, inventory DOWN, sales down 6%.
-
-Two markets. Opposite directions.
-
-Don't import the wrong one into your listing appointment.
-
-**Hashtags:** #RealEstate #ListingAgent #PricingStrategy

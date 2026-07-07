@@ -163,15 +163,3 @@ The buyer did not do this to you. The seller did. And the seller did not sell be
 Stop being mad at Real. Real wrote a check. Be mad at the people who took it without telling you the franchise was for sale. Aim your anger up. Not sideways.
 
 **Hashtags:** #RealEstate #REMAX #RealBrokerage #BrokerageNews #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-A 12-year-old cap-and-stock company just bought the 50-year-old franchise icon for $880M.
-
-That's not a merger. It's a verdict. The franchise model lost.
-
-RE/MAX agents are mad at Real for buying. They should be mad at corporate for selling. The check went to shareholders. Agents got a new owner.
-
-Aim your anger up. Not sideways.
-
-**Hashtags:** #RealEstate #REMAX #RealBrokerage

@@ -137,15 +137,3 @@ In Chicago right now, the conversation is preparing your seller for multiple off
 Do not borrow someone else's market narrative for your listing appointment. Chicago is its own market. Price it like it.
 
 **Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket #ListingAgent #RealtorLife
-
-### X (Twitter)
-**Caption:**
-National headlines: "Buyer's market."
-
-Redfin: 34.2% of February sellers cut their price. Highest since 2012. Mostly Sun Belt.
-
-Chicago reality: median prices up, inventory down, sales down 6% because there's nothing to sell. My agents are strategizing for multiple offers on almost every listing.
-
-Don't borrow someone else's market narrative for your Chicago listing appointment.
-
-**Hashtags:** #RealEstate #ChicagoRealEstate #HousingMarket

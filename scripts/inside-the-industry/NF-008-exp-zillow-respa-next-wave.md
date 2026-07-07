@@ -131,15 +131,3 @@ If a brokerage's own marketing videos were enough to add them as a defendant, ev
 The commission chapter is closing. The kickback chapter is just opening. Ask your brokerage where they stand.
 
 **Hashtags:** #RealEstate #RealEstateLaw #Zillow #RESPA #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Commission lawsuits: ending.
-
-Next wave just pulled eXp into Taylor v. Zillow -- RESPA kickback case. eXp added because of 10+ YouTube videos promoting Zillow Flex.
-
-Different statute. Different playbook. Different exposure.
-
-The commission chapter is closing. The kickback chapter is just opening.
-
-**Hashtags:** #RealEstate #RESPA #Zillow #RealEstateLaw

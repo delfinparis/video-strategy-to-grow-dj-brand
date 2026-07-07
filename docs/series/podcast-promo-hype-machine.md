@@ -71,7 +71,7 @@ Every promo is a single `.md` in [`../../scripts/podcast-promos/`](../../scripts
 3. **`## Spoken Script (D.J. — to camera, walking)`** — the five beats as natural spoken paragraphs. Contractions everywhere. No stage directions inside the spoken lines.
 4. **`## B-Roll Cues (for the editor)`** — a beat-by-beat table. For KIR, cue the episode's video / guest clip if assets exist; otherwise D.J. talking-head + episode cover. Music ducks under any clip audio.
 5. **`## Data Source`** — every field pulled, with the analysis-JSON path and timestamps so claims are auditable (editorial source-rigor rule).
-6. **`## AI Music Prompt`** — Podcast promo preset from [`../ai-music-prompts.md`](../ai-music-prompts.md), tuned to the episode's energy (warm/major for an upbeat guest; a touch more grounded for a heavy topic). Suno/Udio + CapCut versions, `[no vocals]` first, BPM as a number.
+6. **`## AI Music Prompt`** — Podcast promo preset from [`../ai-music-prompts.md`](../ai-music-prompts.md), tuned to the episode's energy (warm/major for an upbeat guest; a touch more grounded for a heavy topic). Single CapCut prompt (D.J. edits only in CapCut, no Suno/Udio), `no vocals` first, BPM as a number, ≤300 chars.
 7. **`## Social Descriptions`** — IG, TikTok, YouTube Shorts, Facebook, LinkedIn, each tuned to its platform's passive signal and link-delivery rule (IG/TikTok = link in bio, YT = pinned comment, FB/LinkedIn = link in post). Plus a hashtag quick-reference.
 
 Match the structure of the reference promo: [`../../scripts/podcast-promos/breakthrough-with-michael-ep1-emma-cta.md`](../../scripts/podcast-promos/breakthrough-with-michael-ep1-emma-cta.md).

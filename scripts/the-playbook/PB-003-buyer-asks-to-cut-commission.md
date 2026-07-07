@@ -144,15 +144,3 @@ The Playbook Ep 3. Buyer asked you to cut commission? Don't defend. Ask THIS ins
 Episode 3 of The Playbook. Your buyer wants you to discount your commission. Don't defend the number. Ask this exact question instead, and then stop talking. New Playbook drops every Wednesday.
 
 **Hashtags:** #shorts #realestate #realtor #commissions #thePlaybook #keepingitrealpodcast
-
-### X (Twitter)
-**Caption:**
-Your buyer asks you to cut your commission. Here's the play.
-
-Don't defend. Don't list. Don't fold. Ask one question and stop talking:
-
-"What part of what I do do you want me to do less of?"
-
-The commission conversation isn't about price. It's about value perception. Force them to look at the work.
-
-**Hashtags:** #RealEstate #BuyerAgent #Commissions

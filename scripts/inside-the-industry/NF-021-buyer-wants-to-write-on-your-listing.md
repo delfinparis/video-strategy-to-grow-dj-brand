@@ -161,20 +161,6 @@ Two commissions or one client. Pick one.
 
 **Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Your buyer wants to write on your listing.
-
-Zillow study, May 14: dual-agency sellers lose $2,165 per home.
-
-Here's the exact line:
-
-"I represent the seller. I'm going to refer you to a buyer's agent in my office. They'll work with you. I'll work with the seller. The data shows sellers in dual deals leave money on the table. I won't put my client in that position."
-
-Two commissions or one client. Pick one.
-
-**Hashtags:** #RealEstate #DualAgency #Realtor
-
 ### Threads
 **Post:**
 Your buyer wants to write on your listing. Here's the exact line.

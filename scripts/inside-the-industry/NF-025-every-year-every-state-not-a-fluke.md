@@ -177,22 +177,6 @@ Three years. Three states. 6.8 million transactions. The data isn't going to cha
 
 **Hashtags:** #RealEstate #Realtor #DualAgency #ListingAgent #Zillow #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Zillow ran the same analysis three years.
-
-Every year, dual-agency sellers got lower prices.
-
-California, Florida, New York. All three showed it.
-
-CA $533M. FL $217M. NY $146M.
-
-One-year findings can be a fluke. Three-year findings across three big states can't.
-
-The "but maybe it's just my market" defense is over.
-
-**Hashtags:** #RealEstate #DualAgency #Zillow
-
 ### Threads
 **Post:**
 Zillow ran the same analysis three years. Every year, dual-agency sellers got lower prices. California, Florida, New York all showed it.

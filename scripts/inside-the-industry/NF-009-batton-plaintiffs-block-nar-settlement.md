@@ -135,15 +135,3 @@ What might go away is your brokerage's release from buyer-side liability. If you
 Tomorrow, walk into your office and ask your broker one question: "Did we opt into Tuccori?" Either way, keep using the buyer agreement. The lawsuits are not over. Do not act like they are.
 
 **Hashtags:** #RealEstate #RealEstateLaw #NAR #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-NAR's $52M Tuccori settlement just got called a "reverse auction" by the other plaintiffs.
-
-Practice changes aren't going away (those came from Burnett).
-
-What might go away is your brokerage's release from buyer-side liability.
-
-Tomorrow, ask your broker: "Did we opt into Tuccori?"
-
-**Hashtags:** #RealEstate #NAR #RealEstateLaw

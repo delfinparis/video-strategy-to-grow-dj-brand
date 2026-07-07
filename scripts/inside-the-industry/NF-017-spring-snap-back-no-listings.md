@@ -181,24 +181,6 @@ The spring market won't wait. Fill your pipeline this week. Or watch the next ni
 
 **Hashtags:** #RealEstate #Realtor #ListingAgent #SpringMarket #HousingMarket #RealtorLife #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-If you don't have listings right now, you're losing.
-
-Pending sales just hit a three-year high. Buyers are back. You have nothing to sell them.
-
-Three plays this week:
-
-1. Call your sphere. Anyone who said "someday" about selling. That someday just arrived.
-
-2. Hit last year's expireds. Sellers who tried and gave up are about to get a second shot.
-
-3. Call past clients you haven't talked to in a year. Send them what just sold near them. They're the listing pool most agents stop calling.
-
-Fill your pipeline this week.
-
-**Hashtags:** #RealEstate #Realtor #ListingAgent
-
 ### Threads
 **Post:**
 If you don't have listings right now, you're losing. Pending sales just hit a three-year high. Buyers are back. You have nothing to sell them.

@@ -135,16 +135,3 @@ Top producers have stopped talking about their job and started talking about the
 Here's the exercise: record yourself describing your best deal of the year. Count the "I"s and the "they"s. The ratio is a diagnostic.
 
 **Hashtags:** #RealEstate #TopProducers #ClientExperience #RealtorLife
-
-### X (Twitter)
-**Caption:**
-700 podcast interviews. One pattern that changed how I listen:
-
-Mid-producers describe deals with "I."
-Top producers describe deals with "they."
-
-Same transaction. Different subject.
-
-Top producers stopped talking about their job and started talking about their clients. That shift IS the referral engine.
-
-**Hashtags:** #RealEstate #TopProducers

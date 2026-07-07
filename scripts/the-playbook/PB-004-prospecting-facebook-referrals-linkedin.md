@@ -146,21 +146,9 @@ Episode 4 of The Playbook. Almost nine in ten agents are on Facebook. Fewer than
 
 **Hashtags:** #shorts #realestate #realtor #linkedinforrealtors #relocation #thePlaybook #keepingitrealpodcast
 
-### X (Twitter)
-You're prospecting on Facebook. The agent about to take your next relocation referral is working LinkedIn.
-
-Almost nine in ten agents are on Facebook. Fewer than half are even on LinkedIn (NAR 2024). Most who are just post and disappear.
-
-The play: comment on ten to fifteen professional posts every morning. The commenting is the move, not the posting.
-
-**Hashtags:** #RealEstate #LinkedInForRealtors #Relocation #ThePlaybook
-
 ## AI Music Prompt
 
 **Vibe:** Modern coaching underscore with confident, light forward energy. This is a tactical play with a contrarian edge, not breaking news. Optimistic, steady, "do this and you'll win" momentum without drama. Major key, 105 BPM.
-
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, confident with light forward energy, 105 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, neutral major key, optimistic but not cheesy, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no big drop, no risers, loopable
 
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, confident light forward energy, 105 BPM, plucked synth, electric piano, tight kick, subtle shaker, no vocals, upbeat-but-quiet bed for voiceover, loopable

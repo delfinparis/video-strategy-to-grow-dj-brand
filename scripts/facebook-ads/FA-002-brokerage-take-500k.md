@@ -105,8 +105,5 @@ $500K sale at 2.5%? Here's what your brokerage actually took.
 
 **Vibe:** Same campaign DNA as FA-001 -- confident, ticking, financial-reveal -- but slightly more weight in the sub-bass because the reveal number is bigger. The music says "the stakes just went up." 100 BPM, scoreboard-moment cousin of the NF big-number preset, one resolved lift on the dollar figure.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, deeper analog sub-bass than FA-001, minor key with one resolved lift on the reveal, clean mix for voiceover, tight 15-second loopable bed, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, muted Rhodes stabs, steady kick, deeper sub-bass, no vocals, tight 15s bed for voiceover, one resolved lift on the reveal, no melodic hook, no risers, loopable

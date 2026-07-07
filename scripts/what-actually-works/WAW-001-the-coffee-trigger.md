@@ -53,9 +53,6 @@ If your brokerage isn't handing you stuff like this, I'd love to talk.
 
 **Vibe:** Modern coaching, light forward momentum -- motivating without being hype. The "you can fix this today" energy.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, light forward energy, 105 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, neutral major key, optimistic but not cheesy, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no big drop, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, light forward energy, 105 BPM, plucked synth, electric piano, tight kick, no vocals, upbeat-but-quiet bed for voiceover, loopable
 
@@ -126,15 +123,3 @@ Now you're not relying on motivation. You're relying on the coffee.
 If your brokerage isn't teaching you things like this, I'd love to talk.
 
 **Hashtags:** #RealEstate #RealtorLife #Productivity #TopProducers
-
-### X (Twitter)
-**Caption:**
-You don't have a discipline problem. You have a trigger problem.
-
-Research on implementation intentions: "when X, I will Y" plans beat plain intentions 2-3x.
-
-So don't write "follow up with leads." Write "when I pour my 8am coffee, I call the first 5 names in my CRM."
-
-Rely on the coffee, not the motivation.
-
-**Hashtags:** #RealEstate #Productivity

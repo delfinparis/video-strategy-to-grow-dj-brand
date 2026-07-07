@@ -127,18 +127,6 @@ The next chapter is already running. Taylor v. Zillow, the consolidated RESPA ca
 
 **Hashtags:** #RealEstate #RealEstateLaw #NAR #Tuccori #RealtorLife #ChicagoRealEstate
 
-### X (Twitter)
-**Caption:**
-$52M. 24 hours.
-
-Batton tried to block NAR's Tuccori settlement, calling it a reverse auction worth 12% of Burnett.
-
-Judge LaShonda Hunt killed the motion in one sentence.
-
-The commission chapter of real estate litigation is structurally over. The Zillow RESPA case is the only one still running.
-
-**Hashtags:** #RealEstate #NAR #Tuccori #RealEstateLaw
-
 ### Threads
 **Post:**
 The judge took twenty-four hours. The commission chapter took five years.

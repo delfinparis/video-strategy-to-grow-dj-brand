@@ -117,20 +117,6 @@ Today I am opening it up to everyone. tapthis.co. Pick one. Use it before your n
 
 **Hashtags:** #RealEstate #AIforRealtors #RealEstateAgent #RealtorLife #ChicagoRealEstate #KaleRealty
 
-### X (Twitter)
-**Caption:**
-Every time one of my Kale agents asked what to type into ChatGPT, I wrote down the prompt.
-
-Eventually I had 620 of them.
-
-Two thousand agents have used it since I opened it past Kale.
-
-It is free. Just your email the first time you use it, and you get all 620.
-
-Today it opens to everyone. tapthis.co.
-
-**Hashtags:** #RealEstate #AIforRealtors
-
 ## Notes
 
 - Script lives in `scripts/reels/bonus/` because it is a one-off product announcement, not part of the recurring AI Tip of the Week / Inside the Industry / Agent Tip of the Day rotation.

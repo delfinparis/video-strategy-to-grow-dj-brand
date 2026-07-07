@@ -1,6 +1,29 @@
 # Platform Strategy
 
-This document defines which platforms matter most for D.J. Paris's brand goals, why, and how content should be distributed across them. It is grounded in the April 2026 Metricool baseline and gets updated quarterly.
+This document defines which platforms matter most for D.J. Paris's brand goals, why, and how content should be distributed across them. It is grounded in the April 2026 Metricool baseline (D.J.'s own audience data, still the source of truth for the platform ranking below) and layered with the mid-2026 industry refresh. Updated quarterly.
+
+---
+
+## Mid-2026 Algorithm Refresh (July 2026)
+
+D.J.'s own April baseline still sets the platform priority. What changed since then is *what each algorithm rewards* and *how the platforms are trending industry-wide*. Sources: Metricool 2026 Social Media Study (~40M posts) and 2026 Instagram Study (24M+ posts), Buffer 2026 (52M+ posts), Hootsuite 2026, Mosseri/Instagram. All are population averages, not D.J.'s audience, so treat them as starting points and A/B test.
+
+**The signal stack that now governs every platform** (in order of weight):
+
+1. **Watch time / completion + getting past the 3-second mark.** The single heaviest signal on Reels, Shorts, TikTok, and Facebook video. A hook that holds past 3 seconds is what triggers the wider push. This is why the spoken hook and the 15-second re-hook are the highest-leverage things in the script.
+2. **Sends / shares to DM.** Weighted ~3-5x a like on Instagram; the top distribution signal on both IG and Facebook. Design for "would one agent DM this to another agent."
+3. **Saves.** The engagement layer carousels are built for (see the carousel strategy doc).
+4. **Likes and follower count are weak signals.** Up to ~50% of the Facebook feed and most Reels reach is now non-followers. Chasing follower count is chasing the wrong number.
+
+**Platform-level trend since early 2026 (industry-wide, Metricool/Buffer 2026):**
+
+- **Facebook is the surprise winner:** reach +51%, impressions +57%, interactions +56% YoY. Reels are shown to non-followers *first* to test. This reinforces Facebook as a genuine #2, not a cross-post afterthought.
+- **Instagram Reels reach fell ~35% YoY** (algorithmic overcrowding), but Reels engagement is the only format still *growing* (+24.76%) and shares are +67%. Fewer people reached, but the send is the escape hatch. Carousels get ~9x the saves of single images. Reels for reach, carousels for saves.
+- **LinkedIn got harder:** impressions -23%, interactions -14% YoY (B2B overcrowding). Native vertical video is the biggest open lane, watched ~80% sound-off, so burned-in captions are mandatory. Put any link in the first comment, never the post body.
+- **YouTube is the health story:** views per video +30% YoY. The big mechanical change: **Shorts flipped from swipe-rate to watch-time-per-impression** as the primary signal, so Shorts now rank on retention like main-feed YouTube. Shorts also cross-pollinate with long-form, so they can feed the 700-episode podcast play.
+- **TikTok raised the bar:** completion + rewatch are the two heaviest signals and the virality threshold moved to ~70% completion. Still secondary for D.J. (national reach, least-aligned audience), and it demands native, TikTok-first creation. Never cross-post a watermarked Reel here.
+
+The full myth-busting companion to this refresh is [`myths-that-dont-move-the-needle.md`](myths-that-dont-move-the-needle.md).
 
 ---
 
@@ -185,12 +208,14 @@ The same script runs on multiple platforms but with different primary surfaces d
 
 ## Posting Time Recommendations
 
-**Personal Instagram:** 7pm-10pm (9pm strongest)
-**Personal LinkedIn:** 7am-9am Tuesday-Thursday
-**Personal Facebook:** Varies by content; tactical content performs at lunchtime, opinion content performs evenings
-**Brand YouTube:** Long-form clips mid-week (Wednesday-Thursday)
+**Posting time is a weak factor, not the secret sauce** (Buffer 2026). It's worth getting in the right window, but a strong hook and high completion move reach far more than an exact minute. D.J.'s *own* audience data (below) beats any population average, so these are starting points to test, not rules.
 
-These are based on the April 2026 baseline and should be retested quarterly.
+**Personal Instagram:** D.J.'s followers peak 7pm-10pm (9pm strongest) per his own insights. Note the conflict: Buffer 2026 finds a morning + 6pm surge industry-wide, Metricool finds a 7-9pm global peak. His own evening data wins until a test says otherwise. (Metricool: ~70% of a post's views land in the first 72 hours, so the first-day window matters more than the exact hour.)
+**Personal LinkedIn:** His baseline is 7am-9am Tue-Thu. **Sources now conflict:** Buffer's 2026 (~5M-post) data says afternoons beat mornings (Wed/Fri 3-4pm), while the older Hootsuite model holds Tue-Wed early AM. Genuinely unsettled. Test a morning slot vs a 3-4pm slot on his account and let the data decide. Keep at least 12 hours between LinkedIn posts (a second same-day post cannibalizes the first).
+**Personal Facebook:** Varies by content; tactical content performs at lunchtime, opinion content performs evenings. Buffer 2026 industry data leans mornings (Thu 9am, Wed-Thu 9-11am).
+**YouTube:** Shorts and long-form want *different* slots (Buffer 2026). Shorts perform evenings (weekday 6-11pm, Fri ~4pm); long-form performs weekend/weekday mornings (8-11am, Sun ~10am). Schedule them separately.
+
+These blend D.J.'s April 2026 baseline with the mid-2026 industry data. Retest quarterly, and trust his own account data over any average.
 
 ---
 

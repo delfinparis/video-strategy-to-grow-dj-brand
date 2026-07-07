@@ -67,9 +67,6 @@ Here's what you do now. Pull every fence-sitting buyer and seller in your databa
 
 **Vibe:** Big-number NF with confident forward momentum. The hook lands two data points, the body builds to a narrative kill, so the bed should feel like a moving financial-news ticker, Bloomberg explainer adjacent.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -143,17 +140,3 @@ The clients still waiting for 5% aren't doing math. They're avoiding it.
 Pull every fence-sitting buyer and seller in your database this week. The conversation isn't "rates will drop." It is "the new normal is here, and the people who moved this spring beat you to it." Run the numbers at today's rate. With your client. Today.
 
 **Hashtags:** #RealEstate #MortgageRates #HousingMarket #BuyersAgent #ListingAgent #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-Two pieces of housing news this morning:
-
-Fed median year-end fed funds: 3.4% → 3.8%. At least one hike implied.
-
-NAR Pending Home Sales: +3.8% MoM (vs 1% consensus). +4.8% YoY.
-
-Yun: "consumers' acceptance of above-6% mortgage rates as the new normal."
-
-The "wait for rates" narrative just died twice in one morning.
-
-**Hashtags:** #RealEstate #MortgageRates #HousingMarket

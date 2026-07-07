@@ -146,15 +146,3 @@ The court approval hearing is scheduled for July 28. The outcome will have signi
 I'll be tracking this closely on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #NAR #Litigation #BuyerAgent #RealEstateLaw #Industry
-
-### X (Twitter)
-**Caption:**
-Everyone's focused on Tuccori ($52M).
-
-But Batton is still out there. Plaintiffs' economist put damages at $3.6B from four MLSs -- up to $75B nationwide.
-
-NAR wants a stay. Plaintiffs are fighting it. Hearing is July 28.
-
-This isn't over yet.
-
-**Hashtags:** #RealEstate #NAR #Batton #Commissions

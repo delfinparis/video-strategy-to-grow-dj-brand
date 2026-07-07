@@ -78,9 +78,6 @@ Here's what you do now. Pull every fence-sitting buyer in your CRM who could qua
 
 **Vibe:** Confident, ticking, opportunity-news energy. The hook is a real number (and a real opportunity for the agent's pipeline), so the bed should feel like a moving clock with slight optimism, not the urgency-but-controlled sober NF default. Bloomberg explainer crossed with light forward momentum.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -157,22 +154,6 @@ Pull every fence-sitting buyer in your CRM who could qualify. Send them this tex
 Make that call today, not Monday.
 
 **Hashtags:** #ChicagoRealEstate #HomeGrown #DownPaymentAssistance #FirstTimeHomeBuyer #ChicagoHousing #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Chicago just launched the HomeGrown Purchase Assistance Program.
-
-Up to $70K grants toward a home purchase. Applications open Monday, June 8.
-
-Zone A (Lincoln Park, Lake View): up to $70K
-Zone B (Englewood, Roseland): up to $50K
-Income cap: $182,250 family of 4 / $127,650 individual
-
-300-400 grants in round 1.
-
-Call your database TODAY, not Monday.
-
-**Hashtags:** #ChicagoRealEstate #DownPaymentAssistance #FirstTimeHomeBuyer
 
 ## Notes for filming
 - "Monday" appears repeatedly as the urgency anchor. If filming on or after Monday June 8, the script no longer works as a "before launch" piece. Rewrite or shelve.

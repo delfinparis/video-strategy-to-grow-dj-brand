@@ -152,7 +152,6 @@ status: "[ready / needs-verification / draft]"
 ### YouTube Shorts
 ### Facebook
 ### LinkedIn
-### X
 ```
 
 ---

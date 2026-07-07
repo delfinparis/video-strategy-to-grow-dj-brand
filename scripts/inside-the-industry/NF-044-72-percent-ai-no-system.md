@@ -58,9 +58,6 @@ Here's what you do now. List every AI tool you're paying for. Sort them into tho
 
 **Vibe:** Confident, modern, lightly tech-forward NF. The hook is a survey number and the body is a clear-the-clutter coaching beat, so the bed should feel steady and decisive, not anxious. Bloomberg-explainer with a touch more pulse.
 
-**Suno / Udio:**
-> [no vocals] modern news-meets-tech underscore, instrumental only, confident and steady, 100 BPM, pulsing minor-key synth pad, muted plucked motif, tight kick, subtle hi-hat shuffle, clean sub-bass, minor key with a grounded resolve, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-meets-tech underscore, confident and steady, 100 BPM, pulsing synth pad, muted plucks, tight kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -122,18 +119,3 @@ List every AI tool you're paying for. Sort them into those four lanes. Any lane 
 (72% figure: NAR 2025 Technology Survey.)
 
 **Hashtags:** #RealEstate #AIforRealtors #RealEstateTech #Productivity #RealtorLife #ChicagoRealEstate
-
-### X (Twitter)
-**Caption:**
-72% of agents use AI daily (NAR 2025 Technology Survey).
-
-Most built a worse version of what they already had.
-
-The fix isn't another tool. It's a system:
-
-One tool per lane.
-Leads. Content. Scheduling. Transactions.
-
-Best tool for each. Learn the four you keep.
-
-**Hashtags:** #RealEstate #AIforRealtors #RealEstateTech

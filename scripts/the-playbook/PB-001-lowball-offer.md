@@ -133,15 +133,3 @@ Episode 1 of The Playbook: a new series from D.J. Paris that gives you one speci
 The Playbook drops every Wednesday on the Keeping It Real Podcast.
 
 **Hashtags:** #shorts #realestate #realtor #negotiation #thePlaybook #keepingitrealpodcast
-
-### X (Twitter)
-**Caption:**
-You got a lowball offer. Here's the play.
-
-Don't counter angry. Text the buyer's agent this exact phrase:
-
-"My seller is curious what brought your buyer to this number. Anything we should know?"
-
-You're asking them to teach their own client why the offer is weak. More often than not, they come back quickly with context.
-
-**Hashtags:** #RealEstate #Negotiation

@@ -70,9 +70,6 @@ Here's what you do now. Turn lead notifications on for every source today. Write
 
 **Vibe:** Tactical NF with forward pull. The hook lands a business-cost gap and the body builds to a behavioral fix. Bed should feel confident and forward-moving, like a productivity-news segment with light urgency.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, confident with forward pull, 100 BPM, pulsing minor-key synth pad, ticking arpeggiated synth motif, tight kick, subtle hi-hat shuffle, light string lift on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, confident with forward pull, 100 BPM, pulsing minor synth pad, ticking arpeggio, tight kick, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -150,15 +147,3 @@ Three actions today.
 That's how you go from 5.7 hours to five minutes.
 
 **Hashtags:** #RealEstate #LeadConversion #RealtorTips #BuyersAgent #RealEstateAgent #SpeedToLead #RealtorLife
-
-### X (Twitter)
-**Caption:**
-78% of buyers hire the first agent who responds. The average agent takes 5.7 hours.
-
-A lead contacted in 5 min is 21x more likely to qualify. Wait 30 and the number collapses (HBR / MIT).
-
-The lead doesn't pick the best agent. They pick the fastest.
-
-Lead notifications on. 60-sec template. 5-min window at the top of every hour.
-
-**Hashtags:** #RealEstate #SpeedToLead #LeadConversion

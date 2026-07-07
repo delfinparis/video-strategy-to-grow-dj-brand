@@ -81,9 +81,6 @@ Here's what you do now. If you're in Chicagoland, the ruling drops in the next f
 
 **Vibe:** NF news-explainer with courtroom-reveal weight. The hook lands the shock reveal (the billion-dollar offer); the body walks the Jensen threat testimony; the close arms the agent. Bed should feel authoritative and tense, Bloomberg-courtroom-explainer with a slight edge of live-news pulse.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, authoritative and tense with a live-news pulse, 96 BPM, pulsing minor-key synth pad, muted plucked synth motif, soft ticking arpeggio, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, authoritative and tense with live-news pulse, 96 BPM, pulsing minor synth pad, muted plucks, soft ticking arpeggio, tight kick, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -163,17 +160,3 @@ If you're in Chicagoland, the ruling drops in the next few weeks and it changes 
 If you're outside Chicago, this is the model. What happens in this courtroom goes national. Watch the ruling.
 
 **Hashtags:** #RealEstate #Compass #Zillow #MLS #PrivateListings #RealEstateLaw #ChicagoRealEstate #ListingAgent #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Zillow tried to pay Compass over $1B a year. To end private listings.
-
-Compass said no.
-
-That's under-oath testimony in the Chicago federal courtroom this week (Zillow v. MRED & Compass, Judge Tharp).
-
-MRED's CEO also testified a Zillow exec threatened her personally. Phone dumped. Texts public. Public spectacle.
-
-Ruling in weeks.
-
-**Hashtags:** #RealEstate #Compass #Zillow #PrivateListings

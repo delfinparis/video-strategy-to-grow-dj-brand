@@ -82,9 +82,6 @@ Here's what you do now. Stop writing off the twenty-eight-year-old who says they
 
 **Vibe:** NF news-explainer with a reflective edge. The hook lands a generational stat and the body builds to a long-horizon pipeline argument. Bed should feel authoritative and slightly contemplative -- less urgency than a policy story, more weight than a tactical tip.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, authoritative and slightly contemplative, 92 BPM, pulsing minor-key synth pad, soft Rhodes electric piano motif, muted plucked synth texture, soft kick, brushed snare, light string bed on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, authoritative and slightly contemplative, 92 BPM, pulsing minor synth pad, soft Rhodes piano, muted plucks, brushed snare, no vocals, subtle bed for voiceover, loopable, 60s
 
@@ -156,15 +153,3 @@ Stop writing them off. Add them to your CRM with a 5-year tag. Send them one hel
 Today's not their conversation. 2030 is. Be the agent they remember when it is.
 
 **Hashtags:** #RealEstate #GenZ #FirstTimeBuyer #BuyersAgent #RealtorTips #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Only 1 in 5 Gen Zers thinks homeownership is still part of the American Dream (LGBTQ+ Real Estate Alliance, 2026, n=389).
-
-That's 4 in 5 who don't.
-
-The 28-year-old who tells you they're never going to own a home isn't being difficult. They're convinced.
-
-CRM tag. 5-year horizon. Quarterly touch. Today's not their conversation. 2030 is.
-
-**Hashtags:** #RealEstate #GenZ #FirstTimeBuyer

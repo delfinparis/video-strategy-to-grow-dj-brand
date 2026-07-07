@@ -166,16 +166,6 @@ Realtor.com automated your busywork, not your job. What's left is the part worth
 
 **Hashtags:** #RealEstate #AI #Realtor #RealtorLife #ChicagoRealEstate #RealEstate2026
 
-### X (Twitter)
-**Caption:**
-Realtor.com just launched a free AI that compares homes, runs affordability math, and maps your commute. The agent panic started by lunch.
-
-It didn't automate your job. It automated the part you were never worth a commission for. Pulling comps was never the value.
-
-Sell what the AI can't.
-
-**Hashtags:** #RealEstate #AI #Realtor
-
 ### Threads
 **Post:**
 Realtor.com just launched a free AI that compares homes, runs your affordability math, and maps your commute. The agent panic started by lunch.
@@ -187,9 +177,6 @@ The buyer who did the homework is a better client, not a threat. Sell the thing 
 ## AI Music Prompt
 
 **Vibe:** Confident, forward-leaning tech-news bed. This isn't sober legal news; it's a product launch with a contrarian flip, so it wants momentum and optimism, not tension. Bloomberg-tech-segment energy, not true crime.
-
-**Suno / Udio:**
-> [no vocals] modern tech-news underscore, instrumental only, confident and forward-leaning, 100 BPM, pulsing synth pad, muted plucked synth motif, light kick, subtle hi-hat shuffle, clean analog bass, minor key with one resolved lift on the back half, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails
 
 **CapCut AI Music:**
 > Instrumental modern tech-news underscore, confident and forward-leaning, 100 BPM, pulsing synth pad and muted plucks, light kick, subtle hi-hat, no vocals, unobtrusive bed for voiceover, no melodic hook, loopable, 55-60s

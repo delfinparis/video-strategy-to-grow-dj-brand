@@ -73,9 +73,6 @@ Here's what you do now. This week, pull your MLS's IDX and VOW rules. Check two 
 
 **Vibe:** Default NF news-explainer. Sober, modern, slightly tense. Bloomberg / WSJ explainer energy. The hook is regulatory news and the body is a compliance brief, so the bed should feel authoritative without being dramatic.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, urgent but controlled, 95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, urgent but controlled, 95 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable
 
@@ -135,16 +132,3 @@ This week, pull your MLS's IDX and VOW rules. Check whether users can filter by 
 If you've been running private exclusives, read NAR's clear cooperation clarifier before you do the next one.
 
 **Hashtags:** #RealEstate #NAR #MLS #RealEstateLaw #ChicagoRealEstate #RealtorLife
-
-### X (Twitter)
-**Caption:**
-NAR just published rules for how your MLS can display and filter listings. 2 days ago.
-
-Allowed: geography, price, property type. The objective stuff.
-Banned: agent name, brokerage name, compensation offers.
-
-And clear cooperation got a sharper line on when broker-to-broker conversations turn into public marketing.
-
-The private-exclusive playbook just got narrower.
-
-**Hashtags:** #RealEstate #NAR #MLS #RealEstateLaw

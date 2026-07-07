@@ -74,9 +74,6 @@ Here's what you do now. At every new buyer onboarding this week, hand them a one
 
 **Vibe:** Default NF news-explainer with slight urgency edge. The hook lands on a record-high fraud figure and the body builds to a behavioral fix. Bed should feel authoritative and slightly tense, Bloomberg-explainer with light forward pull.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, urgent but controlled, 96 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, urgent but controlled, 96 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable
 
@@ -150,15 +147,3 @@ Hand every new buyer a one-page wire fraud sheet at onboarding. Say this:
 Then give them the number. Written. That's the only protocol that actually protects your client.
 
 **Hashtags:** #RealEstate #WireFraud #ClosingProtection #RealEstateAgent #RealtorLife #BuyersAgent
-
-### X (Twitter)
-**Caption:**
-Real estate wire fraud last year: $275M, 12,368 victims (FBI IC3). Up sharply YoY.
-
-1 in 5 buyers gets a suspicious message during closing. AI is making the scams more convincing.
-
-Your "be careful" speech once at the start isn't enough.
-
-Hand every buyer a written wire-fraud sheet at onboarding.
-
-**Hashtags:** #RealEstate #WireFraud #ClosingProtection

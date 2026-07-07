@@ -61,9 +61,6 @@ Here's what you do now. Open Instagram tonight. Find one of those signals from t
 
 **Vibe:** Modern coaching energy with light forward pull. Opens under a curiosity hook, builds into a tactical reveal, lands on an action. Optimistic but not peppy. The Playbook house sound.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, confident with light forward energy, 105 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, neutral major key, optimistic but not cheesy, unobtrusive background for voiceover, no melodic hook, no vocal chops, no big drop, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, confident and forward, 105 BPM, plucked synth, electric piano, tight kick, no vocals, upbeat-but-quiet bed for voiceover, loopable
 
@@ -129,20 +126,3 @@ One warm message. One soft seed. No ask.
 Open Instagram tonight. Find one of those signals from the last sixty days. Send that exact message to one person.
 
 **Hashtags:** #RealEstate #Prospecting #RealtorLife #ListingAgent #ChicagoRealEstate #LeadGeneration
-
-### X (Twitter)
-**Caption:**
-Your next listing client posted about it 3 months ago. You just didn't notice.
-
-Four signals in your feed:
-- New job
-- New baby
-- Job transfer
-- Aging parent moving in
-
-The DM:
-"Hey [name], saw the news about [event]. Huge congrats. Whenever you're ready to think through the housing side, I'm here. No rush."
-
-One warm message. One soft seed. No ask.
-
-**Hashtags:** #RealEstate #Prospecting #ListingAgent

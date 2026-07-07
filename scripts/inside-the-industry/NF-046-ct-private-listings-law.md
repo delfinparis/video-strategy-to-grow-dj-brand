@@ -70,9 +70,6 @@ Here's what you do now. If you have a Connecticut seller, your private-listing p
 
 **Vibe:** Default NF news-explainer with regulatory urgency. The hook lands on a fine and a license-suspension consequence, the body builds to a precedent claim about state law. Bed should feel authoritative, slightly tense, Bloomberg-explainer adjacent.
 
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, urgent but controlled, 95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, light string swell on the back half, clean low end, unobtrusive background for voiceover, no melodic hook, no vocal chops, no risers, no whooshes, loopable
-
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, urgent but controlled, 95 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle bed for voiceover, loopable
 
@@ -138,17 +135,3 @@ New York has the same bill on Governor Hochul's desk and it's expected to pass. 
 If you have a Connecticut seller, your private-listing playbook expires October 1. Have the conversation with them this week. If you're anywhere else, watch your state's bills. Compass just lost a state. They're going to lose more.
 
 **Hashtags:** #RealEstate #Compass #PrivateListings #RealEstateLaw #Connecticut #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Connecticut just signed the law that ends Compass-style private listings in the state.
-
-$5,000 fine or license suspension. Effective Oct 1.
-
-Any private channel (social, email, lawn signs, brokerage networks) requires a simultaneous public MLS listing. Unless the seller signs an opt-out.
-
-NY's bill is on Hochul's desk.
-
-This isn't an MLS dispute anymore. It's law.
-
-**Hashtags:** #RealEstate #Compass #PrivateListings #RealEstateLaw

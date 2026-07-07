@@ -210,7 +210,7 @@ section beneath `## Data Source`**, per [`CLAUDE.md`](../../CLAUDE.md) and
   - **Zero AI-speak transitions** ("here's what this means," "worth noting," etc.).
   - **Zero throat-clearing setups.** Lead with the substance.
 - The LinkedIn caption is the long form (it can carry the full mechanism + application). IG / TikTok
-  / X are tightened to the hook + the one move.
+  are tightened to the hook + the one move.
 - Hashtags stay realtor-first. Broad communication / self-improvement tags are allowed as
   secondary, never as the lead, so the recruiting-qualified audience stays the target.
 
@@ -249,7 +249,7 @@ problem_index_ref: "[# from the problem-index]"
  (VERIFY/INSERT until confirmed) + optional operator-lens note]
 
 ## AI Music Prompt
-[Vibe + Suno/Udio prompt + CapCut prompt (≤300 chars)]
+[Vibe + CapCut prompt (≤300 chars)]
 
 ## Social Media
 ### LinkedIn (PRIMARY)
@@ -257,7 +257,6 @@ problem_index_ref: "[# from the problem-index]"
 ### TikTok
 ### YouTube Shorts
 ### Facebook
-### X (Twitter)
 ```
 
 A script with an unverified archive tie-in carries `status: draft -- archive tie-in needs

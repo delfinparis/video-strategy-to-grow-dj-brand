@@ -82,8 +82,5 @@ TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
 
 **Vibe:** Honest, steady, a mentor leveling with you. Warm but not soft.
 
-**Suno / Udio:**
-> [no vocals] reflective documentary underscore, instrumental only, warm and grounded, 94 BPM, soft felt-piano motif, ambient pad, sparse kick, gentle upright bass, light string bed, major-leaning but grounded, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no drum fills, no risers, no reverb tails, loopable
-
 **CapCut AI Music:**
 > Instrumental documentary underscore, warm and grounded, 94 BPM, felt piano, ambient pad, sparse kick, upright bass, no vocals, quiet bed for voiceover, no melodic hook, loopable, 70s

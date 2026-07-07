@@ -66,9 +66,6 @@ Every number and claim above is from the episode analysis. No fabricated stats. 
 
 **Vibe:** Warm and grounded with a reflective undercurrent. This is a mindset conversation, not a scoreboard -- the bed should feel like a real talk starting to get honest.
 
-**Suno / Udio:**
-> [no vocals] modern interview-show theme, instrumental only, warm and reflective with gentle forward pull, 95 BPM, soft electric piano, mellow plucked guitar, light brushed kick, warm upright bass, subtle string pad, major key but grounded, conversational and introspective, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes
-
 **CapCut AI Music:**
 > Instrumental modern interview-show theme, warm and reflective, 95 BPM, soft electric piano, mellow guitar, brushed kick, warm bass, no vocals, quiet bed for voiceover, loopable, 60-65s
 

@@ -1,8 +1,8 @@
-# AI Music Prompts for Walk-and-Talk Reels
+# CapCut AI Music Prompts for Walk-and-Talk Reels
 
-How to generate background music for D.J.'s walk-and-talk reels (Inside the Industry NF/IS/IA, The Playbook, AI Tip of the Week — anything that's 45-75s of D.J. talking to camera).
+How to generate background music for D.J.'s walk-and-talk reels (Inside the Industry NF/IS/IA, The Playbook, AI Tip of the Week, podcast promos — anything that's 45-75s of D.J. talking to camera).
 
-This is the practical reference. Copy the templates, fill in 2-3 variables, paste into Suno / Udio / CapCut AI Music. Music goes **under** the voice at 10-15% volume max (per [`capcut-editing-playbook.md`](capcut-editing-playbook.md) Part 6) — its only job is to keep the viewer's nervous system engaged, never to compete with what D.J. is saying.
+**D.J. edits only in CapCut.** Every prompt in this doc is written for CapCut's AI Music generator. There is no Suno/Udio prompt anymore. Copy the preset, tune 2-3 variables, paste into CapCut AI Music. Music goes **under** the voice at 10-15% volume max (per [`capcut-editing-playbook.md`](capcut-editing-playbook.md) Part 6) — its only job is to keep the viewer's nervous system engaged, never to compete with what D.J. is saying.
 
 ---
 
@@ -12,26 +12,35 @@ This is the practical reference. Copy the templates, fill in 2-3 variables, past
 
 ---
 
-## What the research says (the short version)
+## The 300-character hard cap
 
-These principles came out of testing Suno, Udio, and CapCut AI Music against creator/voiceover benchmarks. They're what the templates below are built on:
+CapCut's AI Music input truncates silently past **300 characters** (spaces and punctuation included). Every prompt below fits. If you tune one and it grows past 300, cut a descriptor rather than let CapCut work from a partial input. What a good CapCut prompt fits in 300 chars:
 
-1. **Describe, don't command.** "Upbeat lo-fi instrumental, 95 BPM" beats "Make me an upbeat song." Front-load the genre and mood.
-2. **Be explicit about no vocals.** Put `[no vocals]` or `instrumental only` at the **start** of the style prompt. In Suno, also put `[Instrumental]` in the lyrics field (or leave it empty). Both belt-and-suspenders.
-3. **4-7 descriptors is the sweet spot.** Fewer = generic. More = the model gets confused and produces mush.
+1. Style / genre (e.g., "modern documentary editorial score")
+2. BPM as a number (e.g., "95 BPM")
+3. Mood, 2-4 words (e.g., "authoritative, confident, verdict-in")
+4. 3-4 instruments max (e.g., "muted piano, pulsing synth bass, soft percussion")
+5. The "no vocals" constraint (always, at the start)
+6. Runtime / voiceover hint (e.g., "subtle bed for voiceover, loopable")
+
+---
+
+## What makes a good CapCut prompt (the short version)
+
+1. **Describe, don't command.** "Upbeat lo-fi instrumental, 95 BPM" beats "make me an upbeat song." Front-load the genre and mood.
+2. **Put `Instrumental` / `no vocals` at the start.** CapCut sometimes adds vocals if you don't lead with the constraint.
+3. **4-7 descriptors is the sweet spot.** Fewer = generic. More = the model gets confused and the 300-char cap bites.
 4. **Name 2-3 specific instruments, not categories.** "Warm Rhodes, soft kick, subtle pad" beats "electronic."
-5. **Specify intent for voiceover.** Phrases that work: `background music`, `unobtrusive`, `subtle energy`, `doesn't compete with voice`, `loopable`, `clean low-end`.
-6. **Specify what NOT to include.** `no risers`, `no whooshes`, `no melodic hook`, `no four-on-the-floor`, `no reverb tails` — exclusions are as important as inclusions for VO beds.
+5. **Specify intent for voiceover.** `subtle bed for voiceover`, `unobtrusive`, `doesn't compete with speech`, `loopable`, `clean low-end`.
+6. **Specify what NOT to include.** `no melodic hook`, `no risers`, `no vocal chops` — exclusions matter as much as inclusions for VO beds. Trim these first if you hit the cap.
 7. **BPM matters more than you think.** Walk-and-talks land best in the **90-110 BPM** range. Slower feels funereal under D.J.'s pacing; faster fights his cadence.
-8. **Avoid artist names.** "Style of [artist]" gets watered-down results and risks rights issues. Use era + genre instead ("late-90s trip-hop," "modern corporate-cinematic").
-
-Sources at the bottom.
+8. **Avoid artist names.** Use era + genre instead ("late-90s trip-hop," "modern corporate-cinematic").
 
 ---
 
 ## D.J.'s house sound (start here every time)
 
-This is the default vibe for an NF (news-reactive) walk-and-talk. Modern, slightly tense, authoritative — the audio equivalent of "I have inside information and you should listen."
+The default vibe for an NF (news-reactive) walk-and-talk. Modern, slightly tense, authoritative — the audio equivalent of "I have inside information and you should listen."
 
 **Genre lane:** Modern corporate-cinematic, light electronic underscore, neutral-but-confident.
 **BPM:** 95-105 (90 for sober/legal news, 105-110 for high-energy market wins).
@@ -43,38 +52,23 @@ This is the default vibe for an NF (news-reactive) walk-and-talk. Modern, slight
 
 ## Master template (use this 80% of the time)
 
-### Suno / Udio (long prompt — paste into "Style of Music" field)
-
-```
-[no vocals] modern corporate cinematic underscore, instrumental only, {ENERGY}, {BPM} BPM,
-soft pulsing synth pad, muted plucked synth, light kick, subtle hi-hat,
-restrained string layer, clean low end, minor key but hopeful,
-unobtrusive background music for voiceover, doesn't compete with speech,
-loopable, no melodic hook, no vocal chops, no risers, no whooshes,
-no reverb tails, no four-on-the-floor kick
-```
-
-**Lyrics field (Suno):** `[Instrumental]` — or leave empty.
-
-**Variables to fill in:**
-- `{ENERGY}` — pick one: `subtle energy` / `confident and steady` / `urgent but controlled` / `reflective` / `building tension`
-- `{BPM}` — 90 / 95 / 100 / 105 / 110
-
-### CapCut AI Music (short prompt — the box is small, keep it tight)
-
 ```
 Instrumental modern corporate-cinematic underscore, {ENERGY}, {BPM} BPM,
 soft synth pad and muted plucked synth, light kick, no vocals,
 subtle background for voiceover, no melodic hook, loopable
 ```
 
-CapCut's generator wants 1-2 sentences. Anything longer gets truncated. The short version above is the same DNA as the Suno template, compressed.
+**Variables to fill in:**
+- `{ENERGY}` — pick one: `subtle energy` / `confident and steady` / `urgent but controlled` / `reflective` / `building tension`
+- `{BPM}` — 90 / 95 / 100 / 105 / 110
+
+Keep it to 1-2 sentences. This is the same DNA as every preset below, just neutral.
 
 ---
 
 ## Calibrated presets by script type
 
-Match the music to what the script is doing. The prompt changes; the "no vocals / voiceover-friendly" frame stays constant.
+Match the music to what the script is doing. The prompt changes; the "no vocals / voiceover-friendly" frame stays constant. Each fits under 300 chars.
 
 ### NF — News (the default walk-and-talk)
 
@@ -82,16 +76,6 @@ Match the music to what the script is doing. The prompt changes; the "no vocals 
 
 **Vibe target:** Bloomberg / WSJ explainer. Sober, modern, slightly tense, authoritative.
 
-**Suno/Udio prompt:**
-```
-[no vocals] modern news-explainer underscore, instrumental only, urgent but controlled,
-95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick,
-subtle hi-hat shuffle, light string swell on the back half,
-clean low end, unobtrusive background for voiceover,
-no melodic hook, no vocal chops, no risers, no whooshes, loopable
-```
-
-**CapCut prompt:**
 ```
 Instrumental news-explainer underscore, urgent but controlled, 95 BPM,
 pulsing minor synth pad, muted plucks, tight kick, no vocals,
@@ -104,15 +88,6 @@ subtle bed for voiceover, loopable
 
 **Vibe target:** Slightly more momentum than default NF. Confident, ticking, "the clock is moving."
 
-**Suno/Udio prompt:**
-```
-[no vocals] modern financial-news underscore, instrumental only, confident with forward momentum,
-100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick,
-subtle ride cymbal, light analog bass, minor key with one resolved lift,
-clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-```
-
-**CapCut prompt:**
 ```
 Instrumental financial-news underscore, confident and ticking, 100 BPM,
 arpeggiated synth, Rhodes stabs, steady kick, no vocals,
@@ -123,18 +98,8 @@ unobtrusive bed for voiceover, loopable
 
 **Use when:** "I've interviewed 700 agents and here's what the top producers all do." More reflective and authoritative than NF. The viewer is being let in on a pattern.
 
-**Vibe target:** Thoughtful, slightly warmer than NF. Think a documentary mid-segment under a wise narrator.
+**Vibe target:** Thoughtful, slightly warmer than NF. A documentary mid-segment under a wise narrator.
 
-**Suno/Udio prompt:**
-```
-[no vocals] reflective documentary underscore, instrumental only, warm and authoritative,
-90 BPM, soft felt-piano motif, ambient pad, sparse kick,
-gentle upright bass, light string bed, major-leaning but grounded,
-unobtrusive background for voiceover, no melodic hook, no drum fills,
-no risers, no reverb tails, loopable
-```
-
-**CapCut prompt:**
 ```
 Instrumental documentary underscore, warm and reflective, 90 BPM,
 felt piano, ambient pad, sparse kick, no vocals,
@@ -145,18 +110,8 @@ quiet bed for voiceover, loopable
 
 **Use when:** "I just spent two days with NAR's executive team." The credential and the access ARE the scroll-stopper. Music should feel insider, slightly elevated.
 
-**Vibe target:** Boardroom-modern. Slightly more polished and slightly more "high-stakes" than NF.
+**Vibe target:** Boardroom-modern. Slightly more polished and "high-stakes" than NF.
 
-**Suno/Udio prompt:**
-```
-[no vocals] modern boardroom underscore, instrumental only, confident insider feel,
-98 BPM, smooth synth pad, restrained plucked melody, soft kick,
-subtle hi-hat, tasteful sub-bass, minor-to-major lift in the back half,
-unobtrusive background for voiceover, no melodic hook, no vocal chops,
-no whooshes, no risers, loopable
-```
-
-**CapCut prompt:**
 ```
 Instrumental modern boardroom underscore, confident insider feel, 98 BPM,
 smooth pad, plucked melody, soft kick, no vocals,
@@ -169,16 +124,6 @@ quiet bed for voiceover, loopable
 
 **Vibe target:** Modern productivity / coaching. Light forward energy, no drama.
 
-**Suno/Udio prompt:**
-```
-[no vocals] modern coaching underscore, instrumental only, light forward energy,
-105 BPM, clean plucked synth, soft electric piano, steady tight kick,
-subtle shaker, warm sub-bass, neutral major key, optimistic but not cheesy,
-unobtrusive background for voiceover, no melodic hook, no vocal chops,
-no big drop, no risers, loopable
-```
-
-**CapCut prompt:**
 ```
 Instrumental modern coaching underscore, light forward energy, 105 BPM,
 plucked synth, electric piano, tight kick, no vocals,
@@ -191,16 +136,6 @@ upbeat-but-quiet bed for voiceover, loopable
 
 **Vibe target:** Modern SaaS demo / product walkthrough. Clean, forward, optimistic.
 
-**Suno/Udio prompt:**
-```
-[no vocals] modern tech-product underscore, instrumental only, clean and forward,
-108 BPM, crisp arpeggiated synth, muted plucked lead, tight kick,
-subtle hi-hat pattern, clean sub-bass, optimistic major key,
-unobtrusive background for voiceover, no melodic hook, no vocal chops,
-no big build, no risers, loopable
-```
-
-**CapCut prompt:**
 ```
 Instrumental modern tech-product underscore, clean and forward, 108 BPM,
 arpeggiated synth, muted lead, tight kick, no vocals,
@@ -213,16 +148,6 @@ optimistic bed for voiceover, loopable
 
 **Vibe target:** Modern interview-show theme. Warm, inviting, slightly elevated.
 
-**Suno/Udio prompt:**
-```
-[no vocals] modern interview-show theme, instrumental only, warm and inviting,
-95 BPM, soft electric piano, mellow plucked guitar, light brushed kick,
-warm upright bass, subtle string pad, major key, conversational and grounded,
-unobtrusive background for voiceover, no melodic hook, no vocal chops,
-no risers, loopable
-```
-
-**CapCut prompt:**
 ```
 Instrumental modern interview-show theme, warm and inviting, 95 BPM,
 electric piano, mellow guitar, brushed kick, no vocals,
@@ -234,7 +159,7 @@ warm bed for voiceover, loopable
 ## How to use a generated track in CapCut
 
 1. **Generate 3-4 takes.** AI music is non-deterministic. The first take is rarely the best.
-2. **Listen with your eyes closed.** Same trick as the cuts pass — your ear catches "this would distract from D.J.'s voice" faster than your eye.
+2. **Listen with your eyes closed.** Your ear catches "this would distract from D.J.'s voice" faster than your eye.
 3. **Reject anything with a hook line.** If you find yourself humming it, it's competing with the script.
 4. **Drop it on the timeline below the voice track.**
 5. **Volume: 10-15% max.** Per [`capcut-editing-playbook.md`](capcut-editing-playbook.md) Part 6 mistakes table. If you can hear the music clearly over D.J., it's too loud.
@@ -249,12 +174,14 @@ warm bed for voiceover, loopable
 | Problem | Fix |
 |---|---|
 | Track has a melody you keep humming | Add `no melodic hook, no lead synth melody`, regenerate |
-| Track feels too "epic trailer" | Add `no orchestral brass, no big build, no drop`, lower BPM by 5 |
-| Track has accidental vocals or vocal chops | Move `[no vocals]` to the very start, add `no vocal chops, no choir, no aahs`, put `[Instrumental]` in lyrics field |
-| Track sounds dated / 2010s EDM | Add `modern 2025 production, no four-on-the-floor, no big-room synths` |
-| Track muddies under D.J.'s voice | Add `clean low end, sparse mid-range, no piano in vocal range` |
-| Track has dramatic risers | Add `no risers, no whooshes, no transitions, no FX sweeps` |
-| Track ends abruptly / won't loop | Add `seamless loop, no fade in, no fade out, no ending` |
+| Track feels too "epic trailer" | Add `no orchestral brass, no big build`, lower BPM by 5 |
+| Track has accidental vocals or vocal chops | Move `Instrumental / no vocals` to the very start, add `no vocal chops` |
+| Track sounds dated / 2010s EDM | Add `modern production, no four-on-the-floor, no big-room synths` |
+| Track muddies under D.J.'s voice | Add `clean low end, sparse mid-range` |
+| Track has dramatic risers | Add `no risers, no whooshes` |
+| Track ends abruptly / won't loop | Add `seamless loop, no fade` |
+
+Note: with the 300-char cap, you often can't stack every fix in one prompt. Add the one that targets the specific problem, drop a less-important descriptor to make room, and regenerate.
 
 ---
 
@@ -267,14 +194,11 @@ Every walk-and-talk script (NF, IS, IA, Playbook, AI Tip of the Week, podcast pr
 
 **Vibe:** [one-line description of the energy this track should carry]
 
-**Suno / Udio:**
-> [paste calibrated prompt from the preset above, edited for this specific script]
-
 **CapCut AI Music:**
-> [paste short version]
+> [calibrated CapCut prompt from the preset above, <=300 chars, tuned for this specific script]
 ```
 
-Claude should generate both prompts and tune the energy / BPM to the specific script. A sober settlement update is not the same energy as a market-up tip — even though both are NF.
+Claude generates the CapCut prompt and tunes the energy / BPM to the specific script. A sober settlement update is not the same energy as a market-up tip — even though both are NF.
 
 ---
 
@@ -282,10 +206,7 @@ Claude should generate both prompts and tune the energy / BPM to the specific sc
 
 Research that informed this guide:
 
-- [Suno Instrumental Prompts: 50+ Tested Beats (HookGenius)](https://hookgenius.app/learn/suno-instrumental-prompts/) — voiceover-friendly prompt formula, BPM benchmarks, "no vocals" syntax for Suno v4/v5
-- [AI Music Generation Prompts: Best Practices (MusicSmith)](https://musicsmith.ai/blog/ai-music-generation-prompts-best-practices) — describe-don't-command rule, exclusion lists, loopable-track guidance
-- [How to Write Effective Prompts for Suno (Soundverse)](https://www.soundverse.ai/blog/article/how-to-write-effective-prompts-for-suno-ai-music-generation) — 4-7 descriptor sweet spot, genre+mood+instruments+vocals component model
-- [Ultimate Udio AI Prompt Guide (OpenMusicPrompt)](https://openmusicprompt.com/blog/udio-ai-prompt-guide) — Udio's natural-language + production-keyword approach
 - [CapCut AI Music Generator (CapCut docs)](https://www.capcut.com/tools/ai-music-generator) — how the in-app generator parses prompts; talking-head guidance to keep tracks subtle
 - [Top AI Music Generators for YouTube Beginners (CapCut)](https://www.capcut.com/resource/top-5-ai-music-generators-for-youtube-beginners) — short-prompt format for the CapCut generator specifically
+- [AI Music Generation Prompts: Best Practices (MusicSmith)](https://musicsmith.ai/blog/ai-music-generation-prompts-best-practices) — describe-don't-command rule, exclusion lists, loopable-track guidance
 - [Real Estate Background Music Guide (Soundstripe)](https://www.soundstripe.com/blogs/music-for-real-estate-videos) — genre/mood selection logic for real-estate-creator content

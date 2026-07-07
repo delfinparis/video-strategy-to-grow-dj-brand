@@ -158,30 +158,9 @@ I cover developments like these weekly on the Keeping It Real Podcast.
 
 **Hashtags:** #RealEstate #BrokerageStrategy #MRED #Compass #KellerWilliams #HomeServices #Cotality #Zillow #RealEstateLeadership #IndustryNews
 
-### X (Twitter)
-**Caption:** 30-day verdict on my MRED prediction.
-
-Called: one of three signs with MRED in 30 days.
-
-Actual:
-- KW: launched competing platform (Cotality BLX) in 18 days
-- Berkshire parent: co-launched same platform
-- eXp: nothing
-
-Also on May 12: Zillow sued MRED + Compass. MRED cut Zillow's feed. Judge ordered it back.
-
-The window closed. The war didn't.
-
-**Hashtags:** #RealEstate #MRED #Compass #Zillow
-
----
-
 ## AI Music Prompt
 
 **Vibe:** Verdict-in news explainer. The 30-day clock ran out. Tense, authoritative, controlled urgency -- the energy of reading a scoreboard, not celebrating a win.
-
-**Suno / Udio:**
-> [no vocals] modern news-explainer underscore, instrumental only, urgent but controlled, verdict-in tension, 95 BPM, pulsing minor-key synth pad, muted plucked synth motif, tight kick, subtle hi-hat shuffle, restrained string swell on the back half, clean low end, unobtrusive background for voiceover, doesn't compete with speech, loopable, no melodic hook, no vocal chops, no risers, no whooshes, no reverb tails
 
 **CapCut AI Music:**
 > Instrumental news-explainer underscore, urgent but controlled, 95 BPM, pulsing minor synth pad, muted plucks, tight kick, no vocals, subtle verdict-in bed for voiceover, loopable, 55s

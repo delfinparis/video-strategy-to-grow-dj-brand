@@ -81,8 +81,5 @@ TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
 
 **Vibe:** Sober, motivating, a wake-up call that respects the viewer. Builds quiet resolve.
 
-**Suno / Udio:**
-> [no vocals] reflective documentary underscore, instrumental only, sober and resolved with quiet momentum, 96 BPM, soft felt-piano motif, warm pad, sparse kick, gentle upright bass, light string bed, minor key with one resolved lift, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no drum fills, no risers, no reverb tails, loopable
-
 **CapCut AI Music:**
 > Instrumental documentary underscore, sober and resolved, 96 BPM, felt piano, warm pad, sparse kick, upright bass, no vocals, quiet bed for voiceover, no melodic hook, loopable, 70s

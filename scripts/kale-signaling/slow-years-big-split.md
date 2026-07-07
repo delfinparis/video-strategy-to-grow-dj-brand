@@ -82,8 +82,5 @@ TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
 
 **Vibe:** Clean, matter-of-fact, "let me show you the math." Light forward energy, no drama.
 
-**Suno / Udio:**
-> [no vocals] modern coaching underscore, instrumental only, clean and matter-of-fact with light forward energy, 104 BPM, clean plucked synth, soft electric piano, steady tight kick, subtle shaker, warm sub-bass, neutral major key, optimistic but not cheesy, unobtrusive background for voiceover, doesn't compete with speech, no melodic hook, no vocal chops, no big drop, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental modern coaching underscore, clean and matter-of-fact, 104 BPM, plucked synth, electric piano, tight kick, subtle shaker, no vocals, quiet bed for voiceover, no melodic hook, loopable, 65s

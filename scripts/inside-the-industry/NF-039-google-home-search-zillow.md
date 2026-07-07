@@ -72,9 +72,6 @@ Here's what you do now. Ask your broker one question. Which MLSs and partners fe
 
 **Vibe:** Big-number NF with confident forward momentum. The hook ends on a $1.6 billion market-cap stat, so the bed should feel like a moving financial-news ticker. Bloomberg / WSJ explainer with a touch of urgency.
 
-**Suno / Udio:**
-> [no vocals] modern financial-news underscore, instrumental only, confident with forward momentum, 100 BPM, ticking arpeggiated synth, muted Rhodes chord stabs, steady kick, subtle ride cymbal, light analog bass, minor key with one resolved lift, clean mix for voiceover, no melodic hook, no vocal chops, no risers, loopable
-
 **CapCut AI Music:**
 > Instrumental financial-news underscore, confident and ticking, 100 BPM, arpeggiated synth, Rhodes stabs, steady kick, no vocals, unobtrusive bed for voiceover, loopable
 
@@ -130,17 +127,3 @@ This matters even if your listing isn't in the pilot. If Google becomes where bu
 Ask your broker this week: which MLSs and partners feed our listings into Google's pilot? If the answer is "none of them," that's not a problem today. It's going to be one fast.
 
 **Hashtags:** #RealEstate #Google #Zillow #MLS #ListingStrategy #ChicagoRealEstate #RealtorLife
-
-### X (Twitter)
-**Caption:**
-Google just jumped into home search.
-
-They didn't ask Zillow. They didn't ask NAR.
-
-Pilot is live in 8 markets via HouseCanary, eXp, and 3 MLSes.
-
-Last time Google did this (Dec 2025), Zillow lost $1.6B in market cap in a day.
-
-If your brokerage isn't on a Google-fed feed, your listing isn't there.
-
-**Hashtags:** #RealEstate #Google #Zillow #MLS
