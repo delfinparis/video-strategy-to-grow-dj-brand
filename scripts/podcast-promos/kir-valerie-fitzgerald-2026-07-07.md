@@ -29,7 +29,7 @@ Valerie Fitzgerald came on Keeping It Real this week, and we got into three thin
 
 Here's what we actually solved. You don't need connections to break into high-end markets. You need to show up at the right open houses, over and over, until the trust builds.
 
-And here's your move. Go to any AI tool and ask it who comes up for luxury real estate in your city. If it's not you, that's the gap. Valerie's building content specifically to close that gap right now. You can start the same way.
+Your move. Go to any AI tool and ask it who comes up for luxury real estate in your city. If it's not you, that's the gap. Valerie's building content specifically to close that gap right now. You can start the same way.
 
 Go listen to this week's Keeping It Real. Then spend fifteen minutes on that search. That's your Plan B. Valerie didn't have one. You do.
 
