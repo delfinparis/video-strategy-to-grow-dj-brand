@@ -66,8 +66,10 @@ loop, make each slide earn the next swipe).
 | **1 -- Hook** | Stop the scroll AND promise the payoff | Carries ~80% of the weight. One idea, biggest type. Name the reward for swiping. |
 | **2 -- Standalone second hook** | Re-hook the swipers | Instagram re-serves slide 2 to people who did not swipe past slide 1. It must work with zero context. Never "continued from slide 1." |
 | **3 to N-2 -- The body** | One idea per slide, earn each swipe | After slide 3, tighten: one idea, one line of body where possible. This is the story/tactic middle. |
-| **N-1 -- Saveable recap** | The "save this" payload | The numbered list, the checklist, the scripts. This is the slide people screenshot. Make it self-contained. |
-| **N -- Close** | Save prompt first, soft CTA second | Lead with a reason to save ("save this for the next time..."). The follow ask is small and below it. Never an engagement-bait CTA. |
+| **N-1 -- Screenshot payload** | The slide people save on their own | The numbered list, the checklist, the scripts. This is the slide people screenshot. Make it so self-contained the save is automatic. The payload earns the save; the deck never asks for it. |
+| **N -- Close** | "Here's what you do now" action | Close on one specific action at the agent's own business, tied to the payload (editorial-standards Rule 4). Then, optionally, one loop-back line that echoes the hook. No "save this," no "follow for," no engagement ask of any kind. |
+
+**Reach and saves is the goal, not a line you say.** This format's goal is saves and reach, but "save this" and "follow for more" are still banned here exactly as in every other series (editorial-standards Rule 4; they appear by name in the pre-commit checklist). The resolution is not a loophole for carousels: you *earn* the save with a screenshot-worthy N-1 payload and a close that hands the agent something to do, the same way the walk-and-talks earn it. The watchlist's scoring lens uses "save-worthiness" and "send-worthiness" as internal quality tests for picking which idea to build; that is a private yardstick, never viewer-facing copy. If a draft slide or caption contains "save this," "save it," "save the carousel," "follow for," "tag," or "bookmark," it is not done.
 
 **Slide count:** 6-10. Under 6 rarely justifies the swipe format; over 10 loses people. NF-058
 ran 9 and that is a good default ceiling for a news carousel. Evergreen tip carousels often

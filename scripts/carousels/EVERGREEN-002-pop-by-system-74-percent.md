@@ -26,7 +26,7 @@ Canva-ready copy below. One slide per block. 1080x1350. Evergreen lane, so a lig
 She grew her business 74% a year. For five years.
 
 **Subhead (smaller, below):**
-And she barely spent a dollar on leads. The whole system is one habit. Save it.
+And she barely spent a dollar on leads. The whole system is one habit.
 
 ---
 
@@ -79,7 +79,7 @@ Coffee on the way to a showing. A pumpkin on the porch in October. A school-supp
 
 ## SLIDE 7 -- SAVEABLE RECAP
 **Headline:**
-Save this. Start this Saturday:
+Start this Saturday:
 
 **Numbered list:**
 1. List your 10 favorite past clients.
@@ -90,18 +90,18 @@ Save this. Start this Saturday:
 ---
 
 ## SLIDE 8 -- CLOSE
-**Line 1 (save prompt):**
-Save this and put the four hours on your calendar before you close the app.
+**Line 1 (here's what you do now):**
+Before you close this app, block four hours on Saturday and write down your first 10 names.
 
-**Line 2 (soft CTA, smaller, below):**
-Follow for the tactics top producers actually use, pulled from 700 interviews.
+**Line 2 (soft podcast tie, smaller, below):**
+This is one of the tactics top producers actually use, pulled from 700 interviews on Keeping It Real.
 
 ---
 
 ## Social Captions
 
 ### Instagram
-Real estate lead generation without paid leads. One Kansas City agent grew her business 74% a year for five years on a single habit: the pop-by. A small gift, hand-delivered to a past client, no ask. Slide 7 is the four-step start. Save it and block the time this Saturday.
+Real estate lead generation without paid leads. One Kansas City agent grew her business 74% a year for five years on a single habit: the pop-by. A small gift, hand-delivered to a past client, no ask. Slide 7 is the four-step start. Block the four hours this Saturday.
 
 #RealEstate #RealtorTips #LeadGeneration #SphereOfInfluence #KeepingItRealPodcast
 
@@ -117,7 +117,7 @@ Start this Saturday:
 3. Hand-deliver each one with a 30-second hello, no ask.
 4. Repeat in three months.
 
-Save the carousel so the four steps are there when Saturday comes.
+Block the four hours on your calendar before you close the app.
 
 #RealEstate #RealtorTips #LeadGeneration #ChicagoRealEstate #KeepingItRealPodcast
 
@@ -127,12 +127,12 @@ Save the carousel so the four steps are there when Saturday comes.
 #RealEstate #RealtorTips #LeadGeneration
 
 ### YouTube Community
-One agent grew 74% a year for five years on a single habit: the pop-by. Save the carousel for the four-step starter cadence.
+One agent grew 74% a year for five years on a single habit: the pop-by. Slide 7 is the four-step starter cadence.
 
 #RealEstate #RealtorTips #LeadGeneration
 
 ### Facebook
-A Kansas City agent grew her business 74% a year for five years, spending almost nothing on leads. The whole system is one habit: the pop-by. Save this for the four-step start.
+A Kansas City agent grew her business 74% a year for five years, spending almost nothing on leads. The whole system is one habit: the pop-by. Slide 7 is the four-step start.
 
 #RealEstate #RealtorTips
 

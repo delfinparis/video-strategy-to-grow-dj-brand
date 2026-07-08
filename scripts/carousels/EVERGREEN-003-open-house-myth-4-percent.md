@@ -26,7 +26,7 @@ Canva-ready copy below. One slide per block. 1080x1350. Evergreen lane, so a lig
 Open houses do not find buyers.
 
 **Subhead (smaller, below):**
-The data has said so for years. Here is what they actually do, and how to run one right. Save this.
+The data has said so for years. Here is what they actually do, and how to run one right.
 
 ---
 
@@ -70,7 +70,7 @@ The neighbors who stop by become your next listings. Run for names and relations
 
 ## SLIDE 6 -- SAVEABLE RECAP
 **Headline:**
-Save this. Run the next one right:
+Run the next one right:
 
 **Numbered list:**
 1. Reset the seller pitch: "feedback and neighbors," not "we will find your buyer here."
@@ -80,18 +80,18 @@ Save this. Run the next one right:
 ---
 
 ## SLIDE 7 -- CLOSE
-**Line 1 (save prompt):**
-Save this for the next listing appointment where the seller asks for an open house.
+**Line 1 (here's what you do now):**
+Before your next open house, rewrite the seller pitch to "feedback and neighbors" and set up one way to capture every visitor's name.
 
-**Line 2 (soft CTA, smaller, below):**
-Follow for the data behind the tactics everyone repeats without checking.
+**Line 2 (loop-back, smaller, below):**
+The data has said so for years. Now you are the agent in the room who checked.
 
 ---
 
 ## Social Captions
 
 ### Instagram
-Open house myth, checked against the data. Only 4% of buyers find their home at an open house or yard sign. 52% find it online (NAR 2025 Profile). Open houses are a showing tool, not a buyer magnet. Slide 6 is how to run one that actually pays off. Save it.
+Open house myth, checked against the data. Only 4% of buyers find their home at an open house or yard sign. 52% find it online (NAR 2025 Profile). Open houses are a showing tool, not a buyer magnet. Slide 6 is how to run one that actually pays off.
 
 #RealEstate #OpenHouse #ListingAgent #RealtorTips #InsideTheIndustry
 
@@ -108,7 +108,7 @@ Three moves:
 2. Move your prep time into the online listing, where most buyers actually look.
 3. Track every visitor in your CRM. Names and conversations are the real output.
 
-Save the carousel for your next listing appointment.
+Rewrite your open-house pitch to "feedback and neighbors" before the next one.
 
 #RealEstate #OpenHouse #ListingAgent #ChicagoRealEstate #InsideTheIndustry
 
@@ -118,12 +118,12 @@ Save the carousel for your next listing appointment.
 #RealEstate #OpenHouse #RealtorTips
 
 ### YouTube Community
-Only 4% of buyers find their home at an open house; 52% find it online (NAR 2025 Profile). Save the carousel for how to run one that actually pays off.
+Only 4% of buyers find their home at an open house; 52% find it online (NAR 2025 Profile). Slide 6 is how to run one that actually pays off.
 
 #RealEstate #OpenHouse #ListingAgent
 
 ### Facebook
-Only 4% of buyers find their home at an open house. 52% find it online. Run the open house for the neighbors, not the buyer who is not coming. Save this for your next listing.
+Only 4% of buyers find their home at an open house. 52% find it online. Run the open house for the neighbors, not the buyer who is not coming.
 
 #RealEstate #OpenHouse
 

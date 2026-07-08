@@ -7,6 +7,7 @@ platform_secondary: "LinkedIn (PDF/document carousel)"
 slide_count: 8
 goal: "reach-and-saves"
 generated: "2026-07-07"
+status: "DRAFT - do not publish. The four lines are illustrative placeholders; swap in real phrasing from named Keeping It Real episodes before this ships (see header note + Data Source)."
 ---
 
 # Carousel: 4 listing-appointment lines from 700 interviews with top producers
@@ -29,7 +30,7 @@ Canva-ready copy below. One slide per block. 1080x1350.
 I asked 700 top producers how they win the listing.
 
 **Subhead (smaller, below):**
-Four lines came up over and over. Save these before your next appointment.
+Four lines came up over and over. Here they are.
 
 ---
 
@@ -82,7 +83,7 @@ They say one specific thing that makes the seller feel like the decision is alre
 
 ## SLIDE 7 -- SAVEABLE RECAP
 **Headline:**
-Save this. The four moments, one line each:
+The four moments, one line each:
 
 **Numbered list:**
 1. Price-shopped -> "cheapest or nets you most?"
@@ -93,10 +94,10 @@ Save this. The four moments, one line each:
 ---
 
 ## SLIDE 8 -- CLOSE
-**Line 1 (save prompt):**
-Save this for the night before your next listing appointment.
+**Line 1 (here's what you do now):**
+Pick the one line that fits the seller you are seeing next, and say it out loud twice before you walk in.
 
-**Line 2 (soft CTA, smaller, below):**
+**Line 2 (soft podcast tie, smaller, below):**
 I pull one of these from a top-producer interview every week on Keeping It Real.
 
 ---
@@ -104,7 +105,7 @@ I pull one of these from a top-producer interview every week on Keeping It Real.
 ## Social Captions
 
 ### Instagram
-Listing appointment scripts from 700 interviews with top producing agents. Four lines that come up again and again when the best agents win the listing. The price-shopper line on slide 3 is the one to steal first. Save it for the night before your next appointment.
+Listing appointment scripts from 700 interviews with top producing agents. Four lines that come up again and again when the best agents win the listing. The price-shopper line on slide 3 is the one to steal first. Say it out loud before your next appointment.
 
 #RealEstate #ListingAgent #RealtorTips #RealEstateScripts #KeepingItRealPodcast
 
@@ -118,7 +119,7 @@ They are not pitches. Each one hands the decision back to the seller and makes t
 3. "Zillow already shows my house": "the portal shows it, I position it."
 4. Gone quiet at the end: "name the one thing still holding you back."
 
-Save the carousel for the night before your next appointment.
+Pick the one that fits your next seller and say it out loud before you walk in.
 
 #RealEstate #ListingAgent #RealtorTips #ChicagoRealEstate #KeepingItRealPodcast
 
@@ -128,12 +129,12 @@ Listing scripts from 700 top-producer interviews. Four lines that win the appoin
 #RealEstate #RealtorTips #RealEstateScripts
 
 ### YouTube Community
-Four listing-appointment lines pulled from 700+ Keeping It Real interviews with top producing agents. Save the carousel for your next appointment.
+Four listing-appointment lines pulled from 700+ Keeping It Real interviews with top producing agents. Pick the one that fits your next seller.
 
 #RealEstate #ListingAgent #RealtorTips
 
 ### Facebook
-Four listing-appointment lines that came up over and over across 700 interviews with top producing agents. Save these before your next appointment.
+Four listing-appointment lines that came up over and over across 700 interviews with top producing agents. Say the one that fits before your next appointment.
 
 #RealEstate #RealtorTips
 

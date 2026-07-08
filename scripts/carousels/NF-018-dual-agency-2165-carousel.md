@@ -26,7 +26,7 @@ Canva-ready copy below. One slide per block. 1080x1350. News lane, so use the da
 $2,165.
 
 **Subhead (smaller, below):**
-That is what your seller loses when you sit on both sides of the deal. New data on 15 million sales. Save this before your next double-ended listing.
+That is what your seller loses when you sit on both sides of the deal. New data on 15 million sales.
 
 ---
 
@@ -79,7 +79,7 @@ When one agent collects both sides, the seller absorbs the price effect. The con
 
 ## SLIDE 7 -- SAVEABLE RECAP
 **Headline:**
-Save this. Three ways to handle it:
+Three ways to handle it:
 
 **Numbered list:**
 1. Refer the buyer out. You keep the listing side, your seller keeps the full price.
@@ -89,18 +89,18 @@ Save this. Three ways to handle it:
 ---
 
 ## SLIDE 8 -- CLOSE
-**Line 1 (save prompt):**
-Save this for the next time a listing turns into a double-ended deal.
+**Line 1 (here's what you do now):**
+Before your next double-ended deal, pick one of these three and put it in writing.
 
-**Line 2 (soft CTA, smaller, below):**
-Follow for the industry data your brokerage will not put in front of you.
+**Line 2 (loop-back, smaller, below):**
+$2,165 is what it costs your seller to skip that step.
 
 ---
 
 ## Social Captions
 
 ### Instagram
-Dual agency costs home sellers money. Zillow analyzed more than 15 million sales from 2023 to 2025 and found sellers in dual-agency deals lost an average of $2,165 per home. The penalty showed up every year. Slide 7 has the three ways to handle it. Save it for your next listing.
+Dual agency costs home sellers money. Zillow analyzed more than 15 million sales from 2023 to 2025 and found sellers in dual-agency deals lost an average of $2,165 per home. The penalty showed up every year. Slide 7 has the three ways to handle it. Pick one before your next double-ended deal.
 
 #RealEstate #DualAgency #ListingAgent #RealtorTips #InsideTheIndustry
 
@@ -115,7 +115,7 @@ Three ways to handle it:
 2. If you stay dual, disclose it in writing and cite the study, above your state minimum.
 3. If you stay on both sides, credit money back to the seller. Around $2,000 is a fair floor.
 
-Save the carousel for your next listing appointment.
+Pick one and put it in writing before your next double-ended deal.
 
 #RealEstate #DualAgency #ListingAgent #ChicagoRealEstate #InsideTheIndustry
 
@@ -125,12 +125,12 @@ Dual agency cost sellers $2,165 a home across 15 million sales. Slide 7 is what 
 #RealEstate #DualAgency #RealtorTips
 
 ### YouTube Community
-Zillow analyzed 15 million-plus sales (2023-2025): dual agency cost sellers an average of $2,165 per home, every year. Save the carousel for the three ways to handle it.
+Zillow analyzed 15 million-plus sales (2023-2025): dual agency cost sellers an average of $2,165 per home, every year. Slide 7 has the three ways to handle it.
 
 #RealEstate #DualAgency #ListingAgent
 
 ### Facebook
-Zillow analyzed more than 15 million home sales. Sellers in dual-agency deals lost an average of $2,165 per home, in every year of the study. Save this for your next listing.
+Zillow analyzed more than 15 million home sales. Sellers in dual-agency deals lost an average of $2,165 per home, in every year of the study. Slide 7 is the three ways to handle it.
 
 #RealEstate #DualAgency
 
