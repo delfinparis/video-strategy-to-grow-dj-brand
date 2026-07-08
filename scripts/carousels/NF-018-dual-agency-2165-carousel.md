@@ -136,6 +136,17 @@ Zillow analyzed more than 15 million home sales. Sellers in dual-agency deals lo
 
 ---
 
+## Canva Magic Media Prompts
+
+Imagery only. Never render text, numbers, charts, or a logo (Carousel Standard, Step 3): text
+comes from the template layer. Generate vertical 1080x1350 and set as a background, text on top.
+Dark editorial lane.
+
+- **Base background (all slides):** "Dark charcoal to near-black vertical gradient, fine film grain, faint abstract ledger lines and a subtle off-balance scale motif dissolving into shadow, serious and editorial, large empty space through the center for text, cinematic low light, no text, no numbers, no logo."
+- **Slides 1 and 4 (the $2,165 slides):** "Moody near-black background, a single dim warm spotlight pooling in the lower third, deep negative space across the top for a very large figure, a quiet sense of money leaving the frame, cinematic, no text, no numbers, no logo."
+
+---
+
 ## Design Notes
 
 - Slides 1 and 4 are the number. Make $2,165 the biggest type in the deck both times so a

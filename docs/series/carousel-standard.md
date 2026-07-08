@@ -84,6 +84,64 @@ land at 6-8.
 
 ---
 
+## Building it in Canva
+
+**Do not use one AI prompt to author the deck.** Canva's Magic Design (text-to-design) paraphrases
+copy to fit a layout, and a paraphrased number is a Rule 1 fabrication: feed it "$2,165" and it
+will happily render "$2K+" or "over $2,000." The exact, sourced figure is the entire point of a
+data carousel. So the copy is always **typed from the carousel file, never generated**. Canva's AI
+is used only for imagery (Magic Media) and, at most, as a rough scaffold you immediately correct.
+
+### Step 1 -- Build the two Brand Templates (once)
+
+Create two reusable Canva **Brand Templates** at 1080x1350, one per lane, so every carousel is a
+fill-in job, not a design job:
+
+| Template | Lane | Locks |
+|---|---|---|
+| **IIR News (dark editorial)** | news-repurpose | Charcoal-to-near-black background, one accent color, bold condensed headline font, D.J. / Inside the Industry mark in a bottom corner. The "Bloomberg-courtroom-explainer" look the NF scripts call for. |
+| **Evergreen (light clean)** | evergreen | Warm off-white background, dark text, one accent, same mark. Lighter and calmer than the news look. |
+
+Each template holds the five slide *roles* as pages: Hook, Second hook, Body (duplicate as many
+as the deck needs), Screenshot payload, Close. Size the text placeholders so the hook is the
+biggest type on the page and body slides are one to two lines.
+
+### Step 2 -- Fill the copy (exact, from the file)
+
+Two ways, both keep the numbers verbatim:
+
+- **Manual:** paste each slide block's copy into the matching template page.
+- **Bulk Create (faster, still exact):** Canva's **Bulk Create** app auto-generates one page per
+  row of a data table. Connect the template's text fields to the table columns, hit generate, and
+  the whole deck builds in one pass. Because the table holds *your* typed copy, there is no
+  paraphrase risk. Table format:
+
+  | Column | Holds |
+  |---|---|
+  | `slide` | slide number (1, 2, 3 ...) |
+  | `role` | hook / second-hook / body / payload / close |
+  | `headline` | the slide's big line |
+  | `body` | the supporting line(s); use line breaks for a numbered payload or the two close lines |
+
+  A carousel file may end with a ready-to-paste Bulk Create table in this shape. If it does, it is
+  a convenience copy of the slide blocks above it, not a second source of truth: if the two ever
+  disagree, the slide blocks win.
+
+### Step 3 -- Imagery via Magic Media (the only safe AI step)
+
+Backgrounds and accent visuals only. Each carousel file carries a `## Canva Magic Media Prompts`
+section. The rules:
+
+- **Imagery only. Never ask Magic Media to render text, numbers, charts, or a logo.** AI image
+  tools mangle glyphs, and a mangled stat on a slide is a fabrication. Text comes from the template
+  layer; the mark comes from the Brand Template.
+- **Keep it subtle behind data slides** so the figure stays legible: a low-contrast texture or
+  gradient, not a busy photo.
+- **Match the lane look** (dark editorial vs light clean) so a deck reads as one system.
+- Generate at the deck's vertical ratio (1080x1350) and set it as a background layer, text on top.
+
+---
+
 ## Frontmatter
 
 Every carousel file in `scripts/carousels/` starts with:

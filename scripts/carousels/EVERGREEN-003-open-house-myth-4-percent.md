@@ -129,6 +129,17 @@ Only 4% of buyers find their home at an open house. 52% find it online. Run the 
 
 ---
 
+## Canva Magic Media Prompts
+
+Imagery only. Never render text, numbers, charts, or a logo (Carousel Standard, Step 3): text
+comes from the template layer. Generate vertical 1080x1350 and set as a background, text on top.
+Light-clean lane.
+
+- **Base background (all slides):** "Clean light off-white background, soft daylight, minimal, a faint low-contrast motif of an open front door or open-house sign far in one corner, calm and airy, generous space through the center for text, no text, no logo."
+- **Slide 3 (the 4% vs 52% data slide):** keep it nearly flat so the two-bar comparison stays legible: "Very light near-flat off-white background with the faintest paper texture, almost no imagery, maximum legibility for numbers and bars, no text, no numbers, no logo."
+
+---
+
 ## Design Notes
 
 - Slide 2 and 3 are the 4% vs 52% contrast. Make the two numbers the visual anchor; consider a

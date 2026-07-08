@@ -138,6 +138,17 @@ A Kansas City agent grew her business 74% a year for five years, spending almost
 
 ---
 
+## Canva Magic Media Prompts
+
+Imagery only. Never render text, numbers, charts, or a logo (Carousel Standard, Step 3): text
+comes from the template layer. Generate vertical 1080x1350 and set as a background, text on top.
+Light-clean lane, warm and relational.
+
+- **Base background (all slides):** "Warm off-white background with a soft morning-light gradient, cozy and relational, a faint low-contrast motif of a small wrapped gift on a doorstep in one corner, plenty of empty space through the center for text, no text, no logo."
+- **Slide 1 (the 74% hook):** "Bright warm off-white background, a small wrapped gift softly blurred on a sunlit front porch in the lower third, wide clean space across the top for a large percentage, hopeful and inviting, no text, no numbers, no logo."
+
+---
+
 ## Design Notes
 
 - Slide 1 leads with 74%; make it the biggest type. Slide 2 must land the "one gift, no ask"

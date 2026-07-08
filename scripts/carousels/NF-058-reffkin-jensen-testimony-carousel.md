@@ -111,6 +111,17 @@ A billion dollars a year is what your listings are worth to a portal. Read the a
 
 ---
 
+## Canva Magic Media Prompts
+
+Imagery only. Never render text, numbers, charts, or a logo (Carousel Standard, Step 3): text
+comes from the template layer. Generate vertical 1080x1350 and set as a background, text on top.
+Dark editorial lane, courtroom gravitas.
+
+- **Base background (all slides):** "Dark charcoal to near-black vertical gradient with fine film grain, faint abstract courtroom architecture (tall columns, a distant bench) dissolving into shadow, grave and editorial, wide empty space through the center for text, cinematic low light, no text, no numbers, no logo."
+- **Slide 1 (the billion-dollar hook):** "Moody near-black background, a single cold spotlight pooling in the lower third, an abstract sense of a high-stakes standoff, deep negative space across the top for a large line, Bloomberg-explainer gravitas, no text, no numbers, no logo."
+
+---
+
 ## Design Notes
 
 - Slide 1 and 2 carry the most text weight; keep everything after slide 3 tighter (one idea, one line of body max where possible).

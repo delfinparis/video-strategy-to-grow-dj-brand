@@ -140,6 +140,17 @@ Four listing-appointment lines that came up over and over across 700 interviews 
 
 ---
 
+## Canva Magic Media Prompts
+
+Imagery only. Never render text, numbers, charts, or a logo (Carousel Standard, Step 3): text
+comes from the template layer. Generate vertical 1080x1350 and set as a background, text on top.
+Light-clean lane.
+
+- **Base background (all slides):** "Warm off-white paper texture, soft natural window light, very minimal, generous empty space through the center for text, a single low-contrast motif in one corner (a house key resting on a notepad), calm and premium, no text, no logo."
+- **Slide 1 (hook):** "Warm off-white studio background, soft directional shadow, a house key or lockbox gently blurred in the lower corner, wide clean space across the top for a headline, editorial-lifestyle, no text, no logo."
+
+---
+
 ## Design Notes
 
 - Slides 1 and 2 carry the most text weight; keep the four line-slides (3-6) visually identical
