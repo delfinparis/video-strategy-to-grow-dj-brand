@@ -159,6 +159,10 @@ The tip is the payload: lift one physical, do-it-tomorrow tactic from the episod
 
 ---
 
+## Doing a Chicago Agent Spotlight? Follow the standard
+
+When D.J. says **"spotlight"** (or picks the Chicago Agent Spotlight option in the daily brief), build it per [`docs/series/chicago-agent-spotlight-standard.md`](docs/series/chicago-agent-spotlight-standard.md). Scout one fresh Chicago agent in the news, **verify the social handle before tagging** (never guess), verify every fact to a named source, and never AI-generate the person's face. Frame on the person + the lesson, not the rival brokerage; no poaching tone. Build the full unit (walk-and-talk + companion carousel + verified tags + post-publish DM), then log the carousel to the **Daily Carousels** Notion database (https://app.notion.com/p/27267ba77da64ef5a5033fc1dd992a0a) with the full slide copy in the page body. Judge these on reshares + followers, not saves. Reference: [`scripts/chicago-agent-spotlight/dawn-bremer-2026-07-08.md`](scripts/chicago-agent-spotlight/dawn-bremer-2026-07-08.md).
+
 ## Other project defaults
 
 - **Editorial voice:** Read [`docs/editorial-standards.md`](docs/editorial-standards.md) before drafting any script. Universal rules win over series rules.

@@ -28,6 +28,16 @@ When D.J. says **"walk and talk"** (optionally with a number), Claude:
 5. The v3 must follow this repo's CLAUDE.md rules: editorial standards, the
    AI-tells field guide, and the mandatory `## AI Music Prompt` block.
 
+## The daily Chicago Agent Spotlight option
+Every brief now carries a persistent **Chicago Agent Spotlight** option (added by
+`news_brief.py`). When D.J. picks it or says **"spotlight"**, Claude does NOT read
+it from the brief -- it scouts live: find one fresh Chicago agent in the news,
+verify the handle, and build the full unit (walk-and-talk + companion carousel +
+verified tags + post-publish DM) per
+[`../series/chicago-agent-spotlight-standard.md`](../series/chicago-agent-spotlight-standard.md),
+then log the carousel to the Notion Daily Carousels database. Scouting is on-demand
+here (where web search works), not in the 6am cron.
+
 ## The Story Pass (runs at the top of the stress test)
 Before the usual stress test, check the draft against the
 [Viral 3-Act Spine](../series/viral-3-act-spine.md):

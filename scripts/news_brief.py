@@ -753,6 +753,21 @@ def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir
                 lines.append(f"- **Why it fits today:** {_scrub(t.get('why_today'))}")
             lines.append("")
 
+    # Persistent daily option: Chicago Agent Spotlight. The actual scouting happens
+    # on demand in Claude Code (where web search works), not in this cron job.
+    lines.append("## Chicago Agent Spotlight (daily option)")
+    lines.append("*Realtors follow realtors. Feature one Chicago agent in the news, tag them + "
+                 "set an IG Collab, and D.J. becomes the unexpected hero who sent his audience "
+                 "their way. Reshare + warm-recruiting play. Judge on reshares/followers, not saves.*")
+    lines.append("")
+    lines.append("Say **\"spotlight\"** (or pick this option) and Claude scouts one fresh Chicago "
+                 "agent currently in the news (Chicago Agent Magazine, Chicago REALTOR Magazine, "
+                 "Inman, The Real Deal, award/podcast lists), verifies the social handle, and builds "
+                 "the full unit -- walk-and-talk + companion carousel + verified tags + post-publish "
+                 "DM -- per `docs/series/chicago-agent-spotlight-standard.md`, then logs the carousel "
+                 "to the Notion Daily Carousels database.")
+    lines.append("")
+
     if takes:
         lines.append("## Top candidates for NF scripts")
         lines.append("*Two-stage: Haiku ranked, Sonnet wrote the take from the article body. "
