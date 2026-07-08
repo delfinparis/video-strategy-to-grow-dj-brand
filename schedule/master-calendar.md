@@ -21,6 +21,8 @@
 
 **Target weekly volume:** 4 NF + 1 KIR promo + 1 AI Tip. The Playbook is a conditional Wed substitute (~2x/month). IA is an opportunistic Sat substitute (~1–2x/month). IS is a quiet-week backfill on any NF slot (~2x/month).
 
+**Carousel layer (added 2026-07-07, reach-and-saves).** 3 carousels/week ride *alongside* the video slots as a second post (posted a few hours off the day's Reel), ramped 1→2→3 over the first three weeks. Target split ~2 evergreen tips + 1 news-repurpose. Slots: **Tue** evergreen tip, **Thu** news-repurpose (repackages the week's strongest NF), **Sat** evergreen tip. Optional **Sun** still-text-video A/B test (~1/week for the first month). Full spec + rationale in [`../docs/series/carousel-standard.md`](../docs/series/carousel-standard.md); the account watchlist that feeds evergreen ideas is [`../docs/strategy/realtor-instagram-watchlist.md`](../docs/strategy/realtor-instagram-watchlist.md). On a light news week, drop to 2 rather than force a third.
+
 **News input:**
 - Daily brief: `python3 scripts/news_brief.py` → `data/news-briefs/YYYY-MM-DD.md`
 - Manual scan: Feedly subscription with 10 real estate news feeds

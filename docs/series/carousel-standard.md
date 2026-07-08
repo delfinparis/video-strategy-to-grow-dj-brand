@@ -27,6 +27,34 @@ authority; recruiting is the soft secondary.
 
 ---
 
+## Stat sourcing (the same engine the walk-and-talks use)
+
+A carousel does not get a looser stat standard because it is "just an image." Every number on
+a slide obeys **[editorial-standards.md](../editorial-standards.md) Rule 1 (Never Fabricate
+Statistics)** exactly like a spoken script: a named source, a publication year, and a
+`## Data Source` block in the carousel file. No rounding, no "roughly," no plausible-but-invented
+specifics. A data slide with an unsourceable number gets pulled, not shipped.
+
+Pull stats from the **same three sources** the video series already draws on, so a carousel is
+just another surface for stats D.J. has already vetted:
+
+| Stat source | Where it lives | Feeds which carousels |
+|---|---|---|
+| **Evergreen stat bank** (walk-and-talk engine) | `data/news-briefs/stat-bank.json`, maintained by [`scripts/stat_bank.py`](../../scripts/stat_bank.py) | Evergreen data-card carousels. The bank already holds sourced NAR/Zillow/Redfin/HousingWire stats with a named source + year; `news_brief.py` surfaces the best-fit one each morning. A stat good enough to film is good enough to make a carousel. |
+| **Today's news brief** | `data/news-briefs/YYYY-MM-DD.md` (from [`scripts/news_brief.py`](../../scripts/news_brief.py)) | News-repurpose carousels. Same story, same sourcing as the NF script it repackages. |
+| **Coffee Talk aired scripts** | `coffeetalk-episode-registry` repo (the Coffee Talk system prompt is also the origin of this repo's stat-integrity rules) | Coffee Talk-derived tip/stat carousels. Every number traces to the aired script. |
+| **KIR episode analysis** | `keeping-it-real-content-system/data/analysis/<episode>_analysis.json` (the source [`scripts/podcast-promos/build_promo_brief.py`](../../scripts/podcast-promos/build_promo_brief.py) already uses) | Podcast-tie-in carousels. Every number traces to the analysis JSON, never invented. |
+
+The last two repos live beside this one on D.J.'s home Mac (`~/GitHub Projects/`). They are not
+cloned into every cloud session, so when a carousel needs a Coffee Talk or KIR stat and those
+repos are not present, mark it `[STAT NEEDED: ...]` per Rule 1 and fill it on the machine that
+has them. Never fabricate to fill the gap.
+
+**Reuse rule carries over:** a stat that was right in April may be wrong by July. Re-verify
+every stat at carousel-build time, even one lifted from a script that already shipped.
+
+---
+
 ## Slide architecture
 
 Carousels are the 3-Act Spine expressed across slides instead of across 60 seconds. The
@@ -74,6 +102,56 @@ generated: "YYYY-MM-DD"
 
 `hook_family` and `goal` are new to this format; the rest mirrors the NF-058 example. Do not
 repeat the same `hook_family` two carousels in a row (same discipline as the video Hook Matrix).
+
+---
+
+## Cadence: how many per week, and how to pepper them in
+
+**The recommendation: 3 carousels per week once ramped, added *alongside* the daily videos, not
+in place of them.** Roughly 2 evergreen tips + 1 news-repurpose (the "both lanes, evenly-ish"
+split). Ramp there over the first three weeks so the format and templates settle: **week 1 = 1,
+week 2 = 2, week 3+ = 3.** Then hold and let the data decide whether to push higher.
+
+**Why 3, and why alongside:**
+
+- Carousels do a **different job** than D.J.'s videos, so they add rather than compete. Reels
+  are the reach/discovery format; carousels are the **saves and engagement** format. 2026 data:
+  carousels average a ~1.92% engagement rate vs ~0.50% for Reels, and carousels get on the order
+  of 9x the saves of a single image (this repo's own [platform-strategy.md](../platform-strategy.md)
+  and the 2026 Metricool/Socialinsider studies). Past ~50K followers, carousels also start to
+  *out-reach* Reels. This format's stated goal is reach-and-saves, so carousels are the right tool.
+- **3/week is the researched sweet spot.** The consensus optimal mix for a business account is
+  ~2-3 carousels/week; Mosseri's public guidance is consistency over raw volume. Total output
+  past ~10 pieces/week hits diminishing returns and burnout, so 3 carousels layered onto the
+  existing 6 video slots keeps the week productive without tipping into spam.
+- **1 of the 3 is nearly free.** The news-repurpose carousel repackages an NF script D.J. already
+  filmed that week (same facts, same Data Source). Only the ~2 evergreen tips are net-new work.
+
+**Weekly grid (carousels ride as a second post on news days, spaced a few hours off the video):**
+
+| Day | Existing video slot | Add |
+|---|---|---|
+| Mon | KIR Podcast Promo | - |
+| Tue | IIR News (NF) | **Evergreen tip carousel** (net-new) |
+| Wed | IIR News (NF) / Playbook | - |
+| Thu | IIR News (NF) | **News-repurpose carousel** (repackages the week's strongest NF) |
+| Fri | AI Tip of the Week | - |
+| Sat | IIR News (NF) | **Evergreen tip carousel** (net-new) |
+| Sun | off | *optional: the still-text-video A/B test (see below)* |
+
+Post the carousel several hours apart from that day's Reel (do not stack two posts back to back).
+On a light news week, drop to 2 carousels rather than force a third -- the [WOW gate](../editorial-standards.md)
+applies here too.
+
+**The still-text-video test (text over moving b-roll):** run it as an **A/B experiment for the
+first month, ~1/week**, not as a separate third format. Take one evergreen tip and build it both
+ways -- static carousel and text-on-video -- and compare saves and sends. Keep whichever your
+audience saves more, then fold the winner into the 3/week. Do not commit to producing both
+formats forever; the point is to learn which one this audience rewards. A still-text-video is a
+walk-and-talk-adjacent asset, so it needs an `## AI Music Prompt` block (see the music note below).
+
+Revisit this number after four weeks against the saves/sends data, the same way the pillar pivot
+gets reviewed.
 
 ---
 

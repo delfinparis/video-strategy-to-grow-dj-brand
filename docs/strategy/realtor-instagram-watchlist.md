@@ -203,6 +203,22 @@ When choosing which surviving ideas to actually build, rank by:
 
 ---
 
+## Cadence and stat sourcing (where this connects to the rest of the system)
+
+- **How many per week:** 3 carousels/week once ramped (~2 evergreen tips + 1 news-repurpose),
+  added *alongside* the daily videos, not in place of them, plus an optional weekly still-text-video
+  A/B test for the first month. The full rationale, the researched sweet spot, and the weekly grid
+  live in [`docs/series/carousel-standard.md`](../series/carousel-standard.md#cadence-how-many-per-week-and-how-to-pepper-them-in)
+  and are slotted into [`schedule/master-calendar.md`](../../schedule/master-calendar.md).
+- **Where the stats come from:** carousels pull numbers from the *same* vetted sources as the
+  walk-and-talks and podcast promos -- the evergreen stat bank (`data/news-briefs/stat-bank.json`
+  via `scripts/stat_bank.py`), the daily news brief, the Coffee Talk aired scripts
+  (`coffeetalk-episode-registry`), and the KIR episode analysis
+  (`keeping-it-real-content-system`) -- all under editorial-standards Rule 1. Detail in the
+  Carousel Standard's stat-sourcing section.
+
+---
+
 ## Maintenance
 
 - Re-verify handles and follower counts quarterly (accounts rebrand and change handles).
