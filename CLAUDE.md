@@ -14,6 +14,13 @@ let him pick, then build the chosen option through draft → stress-test → EP-
 and deliver only the final v3 (with the `## AI Music Prompt` block). If today's
 brief is missing, offer to run `python3 scripts/news_brief.py` right then.
 
+**The three passes are non-negotiable. Run them silently, deliver only v3.** Even when
+the first draft looks strong, never skip straight to delivery. Each pass has a concrete job:
+
+- **Pass 1 — Draft.** Build to the 3-act spine, a deliberate hook family, a pattern interrupt, the `## AI Music Prompt` block, and all five captions.
+- **Pass 2 — Stress-test.** Run the **Story Pass** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)) first: does Act 2 have a real turn, not a briefing? Then check the hook survives the 3-second test, run the AI-tells scrub ([`docs/ai-tells-field-guide.md`](docs/ai-tells-field-guide.md)), and for NF confirm every claim has a named source + date + URL. Fix what fails before polishing.
+- **Pass 3 — EP-polish.** Cut to length (Rule 7), sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the caption + hashtag-cap scrub below. Then deliver v3.
+
 Before delivering the v3, run every social caption AND its hashtag block through the
 scrub in the **Social descriptions** section below: no em dashes, no AI-speak, and the
 **hashtag caps** from [`docs/caption-and-hashtag-strategy.md`](docs/caption-and-hashtag-strategy.md)
