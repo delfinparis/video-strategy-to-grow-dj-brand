@@ -30,7 +30,9 @@ hook_family_cadence_note: "NF-059 Swap/List, NF-060 Mirror, NF-061 Named Stakes.
 ## Script (~70 seconds, walk and talk)
 
 ### HOOK (0:00-0:12)
-NAR just sent brokers new guidance on private listings, and it landed in my inbox this week from their Chief Marketing Officer. Most agents will never open it. Here's the one line that changes what you owe your seller.
+Before you take another listing off the MLS, there's one line in NAR's new broker guidance you need to read. It landed in my inbox this week from their Chief Marketing Officer, and most agents will never open it.
+
+*(Scroll-stop = the first spoken line. "Before you take another listing off the MLS" targets listing agents and opens the loop in the first 6 words. Spoken, not on-screen text: captions.ai builds the caption from the audio.)*
 
 ### CONTEXT (0:12-0:38)
 Clear Cooperation is still the rule. Publicly market a listing, and it has to hit the MLS within one business day. NAR kept that. But they also gave your seller two ways to stay off the MLS. The office exclusive, and delayed marketing. Here's the part almost nobody is reading. To use either one, you can't just keep it quiet. You have to file it with the MLS, and you have to get your seller to sign a certification. Two things on it. Your relationship to them, and a written acknowledgement that they understand the exposure they are giving up.

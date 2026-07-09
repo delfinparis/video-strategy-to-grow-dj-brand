@@ -17,9 +17,16 @@ brief is missing, offer to run `python3 scripts/news_brief.py` right then.
 **The three passes are non-negotiable. Run them silently, deliver only v3.** Even when
 the first draft looks strong, never skip straight to delivery. Each pass has a concrete job:
 
-- **Pass 1 — Draft.** Build to the 3-act spine, a deliberate hook family, a pattern interrupt, the `## AI Music Prompt` block, and all five captions.
-- **Pass 2 — Stress-test.** Run the **Story Pass** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)) first: does Act 2 have a real turn, not a briefing? Then check the hook survives the 3-second test, run the AI-tells scrub ([`docs/ai-tells-field-guide.md`](docs/ai-tells-field-guide.md)), and for NF confirm every claim has a named source + date + URL. Fix what fails before polishing.
+- **Pass 1 — Draft.** Build to the 3-act spine, a deliberate hook family, a pattern interrupt, the `## AI Music Prompt` block, and all five captions. The HOOK opens with a standalone **scroll-stop** first spoken line (rule below).
+- **Pass 2 — Stress-test.** Run the **Story Pass** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)) first: does Act 2 have a real turn, not a briefing? Then the **scroll-stop test**: read only the first spoken line — does it stop the scroll on its own in 3 seconds, or is it warm-up? Then the hook 3-second test, the AI-tells scrub ([`docs/ai-tells-field-guide.md`](docs/ai-tells-field-guide.md)), and for NF confirm every claim has a named source + date + URL. Fix what fails before polishing.
 - **Pass 3 — EP-polish.** Cut to length (Rule 7), sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the caption + hashtag-cap scrub below. Then deliver v3.
+
+**The 0:00 scroll-stop is mandatory, and it is spoken.** The first line out of D.J.'s mouth (0:00-0:03) has to stop the scroll on its own, before any context. captions.ai builds the on-screen captions from the audio, so the scroll-stop lives in the **spoken** first line, never a manual text overlay (that is why `scripts/strip_onscreen_text_v2.py` exists). Every walk-and-talk `### HOOK` beat opens with it:
+
+- **Front-load the tension in the first 3-5 words.** "NAR just changed what you owe your seller" stops the scroll. "Today I want to talk about some new NAR guidance" does not.
+- **One complete, arresting line that opens a loop** the video then closes. No warm-up, no "hey guys," no throat-clearing sentence before it.
+- **50-60% of all drop-off happens in the first 3 seconds** (2026 retention math, [`docs/hook-matrix-cheatsheet.md`](docs/hook-matrix-cheatsheet.md)). The scroll-stop is the whole distribution lever, not a nicety.
+- **Pull a ready first line from [`docs/opener-swipe-file.md`](docs/opener-swipe-file.md)** mapped to the chosen `hook_family`, then sharpen it to the specific news. Never write the hook cold.
 
 Before delivering the v3, run every social caption AND its hashtag block through the
 scrub in the **Social descriptions** section below: no em dashes, no AI-speak, and the
