@@ -14,6 +14,12 @@ let him pick, then build the chosen option through draft → stress-test → EP-
 and deliver only the final v3 (with the `## AI Music Prompt` block). If today's
 brief is missing, offer to run `python3 scripts/news_brief.py` right then.
 
+Before delivering the v3, run every social caption AND its hashtag block through the
+scrub in the **Social descriptions** section below: no em dashes, no AI-speak, and the
+**hashtag caps** from [`docs/caption-and-hashtag-strategy.md`](docs/caption-and-hashtag-strategy.md)
+(LinkedIn/IG/TikTok/YouTube 3-5, Facebook 2-3, realtor-first, one brand tag). This runs
+every time, without D.J. asking. Do not copy hashtag counts from older example scripts.
+
 Every walk-and-talk follows the **Viral 3-Act Spine** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)): HOOK (stop the scroll + promise the payoff) → STORY (the middle is a story with a turn, not a briefing) → PAYOFF (resolve the loop → "here's what you do now" action → loop-back). The stress-test pass runs the **Story Pass** before anything else. Narrative series (Inside the Industry NF/IS/IA, Podcast Promo) run the full three acts; tactical series (Playbook, What Actually Works, tapthis) run a compressed Act 2 -- one story beat, then the payload, and length discipline (Rule 7) wins over story.
 
 For the hook itself, reach into the **Hook Matrix** (Rule 10 in [`docs/editorial-standards.md`](docs/editorial-standards.md)): pick one of the nine families on purpose, log it as `hook_family` in frontmatter, and don't repeat a family across two consecutive posts. Friction families (Sacred Cow, System Indictment, Forbidden) ride heat 4-5 and are capped at once per week (Rule 9.2); they point friction outward at a belief or system and stand with the agent, never at the agent. Swap/List hooks (Family 9: "don't say X, say Y," stop-doing, do-don't-in-the-room) are the default saveable format for tactical series. Roughly every couple of weeks, run one **emotional / identity** script (Rule 10.7) instead of a tip -- a permission slip or why-this-work-matters piece -- because that's what earns follows and the long comments tactics don't. Ready first lines mapped to the nine families live in [`docs/opener-swipe-file.md`](docs/opener-swipe-file.md) -- pull from there before writing a hook cold.
@@ -96,7 +102,9 @@ These series don't need an AI Music Prompt block (different format or already-se
 - **Zero em dashes.** Not `—`. Not `--` (the editorial-standards substitute). Use periods, commas, or restructure the sentence. The `--` substitute is fine in spoken-script sections, length justifications, and Data Source notes; it is banned in social captions because it reads as AI-generated copy on a social feed.
 - **Zero AI-speak transitions.** No "Here is what this means," "Here is the part that makes this interesting," "Here is why that matters," "Worth noting," "That should change everything," "In a market like this," or any of the banned AI-speak words from Rule 5.
 - **Zero throat-clearing setups.** A new paragraph in a social caption should not begin with a transition sentence whose only purpose is to set up the next sentence. Cut the transition; lead with the substance.
-- **Apply this automatically every time.** Do not wait for the user to ask for the scrub. Any script draft, polish pass, or rewrite that includes social descriptions must run the descriptions through this filter before commit.
+- **Hashtag caps from [`docs/caption-and-hashtag-strategy.md`](docs/caption-and-hashtag-strategy.md), applied at draft time.** LinkedIn/Instagram/TikTok/YouTube Shorts = **3-5 hashtags**, Facebook = **2-3**. Realtor-first, exactly one brand tag (`#InsideTheIndustry` or `#KeepingItRealPodcast`), drop the long tail (`#RealtorLife`, `#RealEstateCoaching`, `#realtortok`, generic community tags). Fewest hashtags that still categorize the post. Do the discovery work with a real search keyword in the first line/125 chars, not a tag stack (Rule 2 of that doc).
+- **Never copy hashtag counts from an older example script.** Scripts written before 2026-07-07 (NF-060 and earlier) carry the retired 11-14 tag stacks. Build the hashtag block fresh from the caps above every time; do not lift it from a reference file.
+- **Apply this automatically every time.** Do not wait for the user to ask for the scrub. Any script draft, polish pass, or rewrite that includes social descriptions must run the descriptions AND the hashtag block through this filter before commit.
 
 If a sentence in a social caption needs a pause that an em dash would normally create, restructure as two short sentences. "X. Y." beats "X -- Y." in every social-feed context.
 
