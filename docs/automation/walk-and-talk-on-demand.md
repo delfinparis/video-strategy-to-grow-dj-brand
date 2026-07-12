@@ -21,12 +21,16 @@ When D.J. says **"walk and talk"** (optionally with a number), Claude:
 2. Presents the options as a short numbered list (headline + the one-line insider
    angle for each). No preamble.
 3. D.J. picks a number (or said it up front, e.g. "walk and talk 2").
-4. Claude builds the chosen option through the standard 3-pass walk-and-talk
-   workflow -- draft -> stress test -> EP polish -- and delivers ONLY the final
-   v3 script, inline. (Same workflow the old reply routine used.) The stress
-   test runs the **Story Pass** first (see below).
+4. Claude builds the chosen option through the standard walk-and-talk
+   workflow -- draft -> stress test -> EP polish -> **council review** -- and
+   delivers ONLY the final v3 script (with its `## AI Music Prompt` and
+   `## Council Review` blocks), inline. The stress test runs the **Story Pass**
+   first (see below); the council review is the final pass
+   ([`../short-form-council-pass.md`](../short-form-council-pass.md)) and runs
+   automatically on every pick -- D.J. never has to ask for it.
 5. The v3 must follow this repo's CLAUDE.md rules: editorial standards, the
-   AI-tells field guide, and the mandatory `## AI Music Prompt` block.
+   AI-tells field guide, the mandatory `## AI Music Prompt` block, and the
+   `## Council Review` block from Pass 4.
 
 ## The daily Chicago Agent Spotlight option
 Every brief now carries a persistent **Chicago Agent Spotlight** option (added by

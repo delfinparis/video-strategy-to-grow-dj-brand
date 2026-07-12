@@ -11,15 +11,17 @@ pushed to his phone (no email anymore). When he says **"walk and talk"** (with o
 without a number), follow [`docs/automation/walk-and-talk-on-demand.md`](docs/automation/walk-and-talk-on-demand.md):
 `git pull`, read today's `data/news-briefs/<today>.md`, show the numbered options,
 let him pick, then build the chosen option through draft → stress-test → EP-polish
-and deliver only the final v3 (with the `## AI Music Prompt` block). If today's
-brief is missing, offer to run `python3 scripts/news_brief.py` right then.
+→ council review and deliver only the final v3 (with the `## AI Music Prompt` block
+and the `## Council Review` block). If today's brief is missing, offer to run
+`python3 scripts/news_brief.py` right then.
 
-**The three passes are non-negotiable. Run them silently, deliver only v3.** Even when
+**The four passes are non-negotiable. Run them silently, deliver only the final v3.** Even when
 the first draft looks strong, never skip straight to delivery. Each pass has a concrete job:
 
 - **Pass 1 — Draft.** Build to the 3-act spine, a deliberate hook family, a pattern interrupt, the `## AI Music Prompt` block, and all five captions. The HOOK opens with a standalone **scroll-stop** first spoken line (rule below).
 - **Pass 2 — Stress-test.** Run the **Story Pass** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)) first: does Act 2 have a real turn, not a briefing? Then the **scroll-stop test**: read only the first spoken line — does it stop the scroll on its own in 3 seconds, or is it warm-up? Then the hook 3-second test, the AI-tells scrub ([`docs/ai-tells-field-guide.md`](docs/ai-tells-field-guide.md)), and for NF confirm every claim has a named source + date + URL. Fix what fails before polishing.
-- **Pass 3 — EP-polish.** Cut to length (Rule 7), sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the caption + hashtag-cap scrub below. Then deliver v3.
+- **Pass 3 — EP-polish.** Cut to length (Rule 7), sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the caption + hashtag-cap scrub below. Then hand v3 to Pass 4.
+- **Pass 4 — Council review.** Run the finished v3 through the Short-Form Council ([`docs/short-form-council-pass.md`](docs/short-form-council-pass.md)): ten creator/marketer doctrines plus two research witnesses (Heath on curiosity mechanics, Berger on shareability) pressure-test the hook, retention, and shareability. Append a `## Council Review` block beneath v3 with 2-3 tested **spoken** scroll-stop variants mapped to hook families, a one-line why-it-works (hook mechanism / share driver / retention move), and the single dissent to A/B test next. It never adds manual on-screen text (captions build from audio) and never undoes a Pass-3 scrub. If the local deep-reference skill is installed (`~/.claude/skills/short-form-council`), load its book-backed `references/*.md` for depth; otherwise run from the doctrines in the doc. Then deliver v3 (script + AI Music Prompt + Council Review).
 
 **The 0:00 scroll-stop is mandatory, and it is spoken.** The first line out of D.J.'s mouth (0:00-0:03) has to stop the scroll on its own, before any context. captions.ai builds the on-screen captions from the audio, so the scroll-stop lives in the **spoken** first line, never a manual text overlay (that is why `scripts/strip_onscreen_text_v2.py` exists). Every walk-and-talk `### HOOK` beat opens with it:
 
