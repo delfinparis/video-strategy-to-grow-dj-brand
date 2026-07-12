@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kale: What I Want Most Right Now</title>
+<meta name="description" content="Interactive concept for the top of joinkale.com — spin the wheel to find what you want most from a brokerage.">
+<style>
+  :root{
+    --bg:#ffffff; --surface:#ffffff; --surface-2:#f5f5f3;
+    --ink:#303328; --muted:#6b6d61; --faint:#9a9c90;
+    --line:#e7e7e1; --line-strong:#d7d7cf;
+    --accent:#f46942; --accent-ink:#c2461f; --accent-soft:#fdeae3;
+    --shadow:0 1px 2px rgba(48,51,40,.06),0 10px 34px rgba(48,51,40,.10);
+    --serif:"P22 Mackinac Pro","p22-mackinac-pro","Mackinac Pro",Georgia,"Times New Roman",serif;
+    --sans:"Roboto",system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --bg:#20221b; --surface:#282a22; --surface-2:#30332a; --ink:#f1f0e8; --muted:#b1b3a5; --faint:#83857a;
+    --line:#3a3d33; --line-strong:#4b4e42; --accent:#f8805c; --accent-ink:#fa9273; --accent-soft:#3a2820;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 34px rgba(0,0,0,.45);
+  }}
+  :root[data-theme="light"]{
+    --bg:#ffffff; --surface:#ffffff; --surface-2:#f5f5f3; --ink:#303328; --muted:#6b6d61; --faint:#9a9c90;
+    --line:#e7e7e1; --line-strong:#d7d7cf; --accent:#f46942; --accent-ink:#c2461f; --accent-soft:#fdeae3;
+    --shadow:0 1px 2px rgba(48,51,40,.06),0 10px 34px rgba(48,51,40,.10);
+  }
+  :root[data-theme="dark"]{
+    --bg:#20221b; --surface:#282a22; --surface-2:#30332a; --ink:#f1f0e8; --muted:#b1b3a5; --faint:#83857a;
+    --line:#3a3d33; --line-strong:#4b4e42; --accent:#f8805c; --accent-ink:#fa9273; --accent-soft:#3a2820;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 34px rgba(0,0,0,.45);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.5;-webkit-font-smoothing:antialiased;overflow-x:hidden;min-height:100vh}
+  button{font-family:inherit;cursor:pointer;color:inherit}
+
+  .themebtn{position:fixed;top:14px;right:16px;z-index:10;border:1px solid var(--line-strong);background:var(--surface);
+    color:var(--muted);border-radius:99px;padding:6px 12px;font-size:12px;font-weight:600}
+  .themebtn:hover{color:var(--ink);border-color:var(--accent)}
+
+  .hero{max-width:960px;margin:0 auto;padding:64px 22px 40px;text-align:center}
+  .eyebrow{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--accent-ink)}
+
+  /* layout: sentence left, wheel right (desktop); stacked with phrase on top (mobile) */
+  .stage{margin-top:26px;display:grid;grid-template-columns:auto auto;
+    grid-template-areas:"lede pick" ". hint" ". lock";
+    column-gap:30px;row-gap:8px;justify-content:center;align-items:center}
+  .lede{grid-area:lede;font-family:var(--serif);font-weight:600;font-size:clamp(24px,3.6vw,36px);
+    line-height:1.2;text-align:right;max-width:10ch;color:var(--ink)}
+  .picker{grid-area:pick;position:relative;width:min(74vw,420px);height:200px;perspective:1000px;
+    touch-action:none;cursor:grab;user-select:none;-webkit-user-select:none;
+    -webkit-mask:linear-gradient(transparent,#000 15%,#000 85%,transparent);
+    mask:linear-gradient(transparent,#000 15%,#000 85%,transparent)}
+  .picker:active{cursor:grabbing}
+  .picker:focus{outline:none}
+  .cyl{position:absolute;inset:0;transform-style:preserve-3d;will-change:transform}
+  .word{position:absolute;top:50%;left:0;right:0;height:60px;margin-top:-30px;
+    display:flex;align-items:center;justify-content:center;backface-visibility:hidden;
+    font-family:var(--serif);font-weight:600;text-transform:uppercase;letter-spacing:.01em;
+    color:var(--muted);white-space:nowrap}
+  .word.sel{color:var(--accent)}
+  .selband{position:absolute;left:0;right:0;top:50%;height:60px;margin-top:-30px;pointer-events:none;
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .hint{grid-area:hint;text-align:center;color:var(--faint);font-size:13.5px;margin:0}
+  .lockbtn{grid-area:lock;justify-self:center}
+  .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  @media(max-width:640px){
+    .stage{grid-template-columns:1fr;grid-template-areas:"lede" "pick" "hint" "lock";justify-items:center;row-gap:16px}
+    .lede{text-align:center;max-width:none}
+    .picker{width:min(88vw,380px);height:185px}
+  }
+
+  .btn{border:none;border-radius:12px;padding:14px 28px;font-size:15.5px;font-weight:650;background:var(--accent);
+    color:#fff;display:inline-flex;align-items:center;gap:9px;box-shadow:var(--shadow);transition:filter .15s,transform .1s}
+  .btn:hover{filter:brightness(1.06)}
+  .btn:active{transform:translateY(1px)}
+  .btn.ghost{background:transparent;color:var(--muted);border:1px solid var(--line-strong);box-shadow:none}
+  .btn.ghost:hover{color:var(--ink);border-color:var(--accent);filter:none}
+
+  .mscrim{position:fixed;inset:0;background:rgba(30,32,24,.5);backdrop-filter:blur(3px);z-index:50;
+    display:flex;align-items:center;justify-content:center;padding:20px;opacity:0;pointer-events:none;transition:opacity .2s}
+  .mscrim.on{opacity:1;pointer-events:auto}
+  .mcard{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:18px;max-width:520px;width:100%;
+    box-shadow:0 30px 80px rgba(20,22,16,.35);overflow:hidden;transform:translateY(12px) scale(.98);transition:transform .24s cubic-bezier(.2,.8,.2,1)}
+  .mscrim.on .mcard{transform:none}
+  .mx{position:absolute;top:12px;right:12px;z-index:2;width:34px;height:34px;border-radius:99px;border:none;
+    background:rgba(0,0,0,.42);color:#fff;font-size:16px;line-height:1}
+  .mx:hover{background:rgba(0,0,0,.62)}
+  .mvideo{position:relative;aspect-ratio:16/9;background:linear-gradient(135deg,#3a3d32,#26281f);display:flex;align-items:center;justify-content:center}
+  .mvideo .play{width:58px;height:58px;border-radius:99px;background:rgba(255,255,255,.94);color:#303328;
+    display:flex;align-items:center;justify-content:center;font-size:20px;box-shadow:0 6px 20px rgba(0,0,0,.3)}
+  .vtag{position:absolute;left:12px;bottom:12px;font-size:11.5px;font-weight:600;color:#fff;background:rgba(12,14,10,.7);padding:4px 9px;border-radius:99px}
+  .mbody{padding:22px 24px 24px}
+  .meyebrow{font-family:var(--serif);font-weight:600;font-size:22px;color:var(--ink);text-transform:uppercase;letter-spacing:.01em}
+  .mblurb{font-size:15.5px;line-height:1.55;color:var(--muted);margin:10px 0 20px}
+  .mlearn{width:100%;justify-content:center}
+
+  .note{max-width:600px;margin:44px auto 0;padding:0 22px;text-align:center;color:var(--faint);font-size:12.5px}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+</head>
+<body>
+
+<button class="themebtn" id="themeBtn">Theme</button>
+
+<div class="hero">
+  <div class="eyebrow">Join Kale</div>
+  <div class="stage">
+    <div class="lede">What I want most right now is</div>
+    <div class="picker" id="picker" tabindex="0" role="slider"
+         aria-label="Spin the wheel of what you want most from a brokerage. Drag up or down, or use arrow keys."
+         aria-valuemin="1" aria-valuemax="7" aria-valuenow="1" aria-valuetext="More Clients">
+      <div class="cyl" id="cyl"></div>
+      <div class="selband"></div>
+    </div>
+    <div class="hint">Drag the wheel to spin. It locks onto whatever lands in the middle.</div>
+    <button class="btn lockbtn" id="lockBtn">Lock it in <span aria-hidden="true">&rarr;</span></button>
+  </div>
+  <ul class="sr" id="wheelList"></ul>
+</div>
+
+<div class="mscrim" id="mscrim" role="dialog" aria-modal="true" aria-labelledby="mword">
+  <div class="mcard">
+    <button class="mx" id="mclose" aria-label="Close">&#10005;</button>
+    <div class="mvideo"><span class="play">&#9654;</span><span class="vtag" id="vtag">D.J. &middot; 60 sec</span></div>
+    <div class="mbody">
+      <div class="meyebrow" id="mword"></div>
+      <p class="mblurb" id="mblurb"></p>
+      <button class="btn mlearn" id="mlearn">Learn more <span aria-hidden="true">&rarr;</span></button>
+    </div>
+  </div>
+</div>
+
+<div class="note">Interactive concept for the top of joinkale.com. Fonts fall back to Georgia here; on Squarespace the real Mackinac loads. Each word opens D.J.'s 60-second answer, then its sales page.</div>
+
+<script>
+const WANTS=[
+  {word:"More Clients",full:"Get more clients and close more deals",
+   blurb:"More clients is the whole game. Here's the honest part: no brokerage hands you leads worth having. What Kale does is stop taking the money you'd use to build your own pipeline, one with your name on it that follows you anywhere."},
+  {word:"Higher Splits",full:"Make more per deal: why flat fee beats any split",
+   blurb:"You want a bigger split. Fair. But sit with this for a second: a split takes a cut of every check you ever earn, forever. Kale is a flat fee, so past a point you keep all of it. Let me run the math on your actual numbers."},
+  {word:"Better Training",full:"Better training and 1-on-1 mentorship",
+   blurb:"You want to get better, faster, and that's rarer than you'd think. Right now we've got 150-plus agents in real one-on-one mentorship, a person who has closed the deals you're working toward, looking at your pipeline with you."},
+  {word:"Faster Support",full:"Real support when a deal blows up",
+   blurb:"The last time a deal blew up at nine at night, who picked up? At Kale it's a seven-person team whose whole job is to answer. A real person, not a ticket, not a chatbot. Let me show you what that looks like."},
+  {word:"Done-For-You Marketing",full:"Done-for-you marketing that actually works",
+   blurb:"You want the marketing handled so you can just sell. That's exactly what we're building: real done-for-you marketing, not one more login you forget you have. Take a look at how it works."},
+  {word:"Grow My Team",full:"Help recruiting agents for my team (for team leaders)",
+   blurb:"If you run a team, the hardest part is finding good agents to grow it. That's something we actually help with, recruiting agents for your team, so it isn't all on you. Here's how we do it."},
+  {word:"Getting started",full:"Just got licensed? Where to start",
+   blurb:"Just got your license? Congratulations, and welcome to the best job there is. Your first move matters most, because it decides what your first year costs you and how fast you actually learn this business. Kale is built to launch you: real one-on-one mentorship with someone who has closed the deals you're working toward, and the best economics in Chicago from day one, so you keep what you earn while you're still finding your feet. Let me show you where to start."},
+  {word:"I Don't Know",full:"Not sure yet? That's fine",quiz:true,
+   blurb:"It's totally reasonable not to know exactly what you want most for your business right now. Most agents don't. The good news: I've got a simple way to help you narrow it down, so you're not guessing. Click below and let's figure it out together."}
+];
+const N=WANTS.length, ANGLE=360/N, R=Math.round(30/Math.tan(ANGLE/2*Math.PI/180));
+const $=s=>document.querySelector(s);
+const reduce=matchMedia("(prefers-reduced-motion:reduce)").matches;
+let index=0, locked=false, angle=0;
+
+const cyl=$("#cyl"), picker=$("#picker"), scrim=$("#mscrim");
+const wordEls=[];
+for(let i=0;i<N;i++){
+  const w=document.createElement("div"); w.className="word"; w.textContent=WANTS[i].word;
+  w.style.fontSize=Math.min(34,Math.floor(320/(WANTS[i].word.length*0.64)))+"px";
+  w.style.transform=`rotateX(${-i*ANGLE}deg) translateZ(${R}px)`;
+  cyl.appendChild(w); wordEls.push(w);
+}
+function norm(d){while(d>180)d-=360;while(d<-180)d+=360;return d;}
+function selFrom(a){return ((Math.round(a/ANGLE)%N)+N)%N;}
+function render(){
+  cyl.style.transform=`translateZ(${-R}px) rotateX(${angle}deg)`;
+  const sel=selFrom(angle);
+  for(let i=0;i<N;i++){
+    const net=norm(angle-i*ANGLE), vis=Math.abs(net)<92;
+    wordEls[i].style.opacity=vis?(0.18+0.82*Math.cos(net*Math.PI/180)).toFixed(3):"0";
+    wordEls[i].classList.toggle("sel",i===sel);
+  }
+  picker.setAttribute("aria-valuenow",sel+1); picker.setAttribute("aria-valuetext",WANTS[sel].word);
+}
+function angleOf(e){const r=picker.getBoundingClientRect();return e.clientY;}
+function snap(a){return Math.round(a/ANGLE)*ANGLE;}
+
+let dragging=false,y0=0,a0=0,lastY=0,lastT=0,vel=0,raf=null;
+function stopRaf(){if(raf){cancelAnimationFrame(raf);raf=null;}}
+function settle(target){
+  stopRaf();
+  if(reduce){angle=target;render();commit();return;}
+  const start=angle,dur=Math.min(720,260+Math.abs(target-start)*.85),t0=performance.now(),ease=x=>1-Math.pow(1-x,3);
+  (function step(now){const p=Math.min(1,(now-t0)/dur);angle=start+(target-start)*ease(p);render();
+    if(p<1)raf=requestAnimationFrame(step);else{angle=target;render();commit();}})(performance.now());
+}
+function commit(){setIndex(selFrom(angle));}
+function setIndex(i){index=((i%N)+N)%N;if(locked)unlock();}
+
+// auto-spin on load, stop on any interaction
+let autoOn=false,autoRaf=null;
+function startAuto(){if(reduce||locked)return;autoOn=true;
+  (function loop(){if(!autoOn){autoRaf=null;return;}angle+=0.16;render();autoRaf=requestAnimationFrame(loop);})();}
+function stopAuto(snapIt){if(!autoOn)return;autoOn=false;if(autoRaf){cancelAnimationFrame(autoRaf);autoRaf=null;}if(snapIt)settle(snap(angle));}
+
+picker.addEventListener("pointerenter",()=>stopAuto(true));
+picker.addEventListener("pointerdown",e=>{stopAuto(false);stopRaf();dragging=true;picker.setPointerCapture(e.pointerId);
+  y0=e.clientY;a0=angle;lastY=e.clientY;lastT=performance.now();vel=0;});
+picker.addEventListener("pointermove",e=>{if(!dragging)return;
+  angle=a0+(e.clientY-y0)*(ANGLE/64);
+  const now=performance.now(),dt=Math.max(now-lastT,1);
+  vel=(e.clientY-lastY)*(ANGLE/64)/dt;lastY=e.clientY;lastT=now;render();});
+function up(e){if(!dragging)return;dragging=false;try{picker.releasePointerCapture(e.pointerId);}catch(_){}
+  let boost=reduce?0:Math.max(-320,Math.min(320,vel*150));settle(snap(angle+boost));}
+picker.addEventListener("pointerup",up);
+picker.addEventListener("pointercancel",up);
+picker.addEventListener("wheel",e=>{stopAuto(false);e.preventDefault();settle(snap(angle)+(e.deltaY>0?ANGLE:-ANGLE));},{passive:false});
+picker.addEventListener("keydown",e=>{stopAuto(false);
+  if(e.key==="ArrowDown"||e.key==="ArrowRight"){e.preventDefault();settle(snap(angle)-ANGLE);}
+  else if(e.key==="ArrowUp"||e.key==="ArrowLeft"){e.preventDefault();settle(snap(angle)+ANGLE);}
+  else if(e.key==="Enter"||e.key===" "){e.preventDefault();doLock();}});
+const wl=$("#wheelList");
+WANTS.forEach((w,i)=>{const li=document.createElement("li");const b=document.createElement("button");
+  b.textContent=w.full;b.onclick=()=>settle(-i*ANGLE);li.appendChild(b);wl.appendChild(li);});
+
+// lock -> modal
+function doLock(){stopAuto(false);index=selFrom(angle);locked=true;
+  $("#mword").textContent=WANTS[index].word;
+  $("#mblurb").textContent=WANTS[index].blurb;
+  $("#vtag").textContent="D.J. · 60 sec · "+WANTS[index].word;
+  $("#mlearn").innerHTML=(WANTS[index].quiz?'Help me narrow it down':'Learn more')+' <span aria-hidden="true">&rarr;</span>';
+  scrim.classList.add("on");document.body.style.overflow="hidden";$("#mclose").focus();}
+
+function unlock(){locked=false;scrim.classList.remove("on");document.body.style.overflow="";}
+$("#lockBtn").onclick=doLock;
+$("#mclose").onclick=unlock;
+scrim.addEventListener("click",e=>{if(e.target===scrim)unlock();});
+$("#mlearn").onclick=()=>{$("#mlearn").textContent="(would continue to the next step)";};
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&scrim.classList.contains("on"))unlock();});
+
+$("#themeBtn").onclick=()=>{const d=matchMedia("(prefers-color-scheme:dark)").matches;
+  const cur=document.documentElement.getAttribute("data-theme")||(d?"dark":"light");
+  document.documentElement.setAttribute("data-theme",cur==="dark"?"light":"dark");};
+
+render(); startAuto();
+</script>
+
+</body>
+</html>
