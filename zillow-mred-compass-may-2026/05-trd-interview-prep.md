@@ -88,7 +88,7 @@ Thanks for these. My through-line is what agents should do this week, so I tried
 And yes please, loop me in once you've heard back from your team on the monthly Keeping It Real segment. Even one trial episode would be fun.
 
 D.J. Paris
-President, Sales and Marketing
+VP of Business Development
 Kale Realty
 3323 W Diversey Ave
 Chicago, IL 60647
