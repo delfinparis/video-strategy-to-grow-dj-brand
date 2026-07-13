@@ -6,6 +6,7 @@ title: "The 30-Day Stigma: What Overpricing Actually Costs Your Seller"
 avatar: "All -- listing agents especially, and any agent whose sellers want to test the market"
 content_pillar: "market_intelligence"
 hook_family: "Named Stakes"
+pattern_interrupt: "The Stop"
 heat: 3.5
 post_date: "TBD"
 status: "draft"
