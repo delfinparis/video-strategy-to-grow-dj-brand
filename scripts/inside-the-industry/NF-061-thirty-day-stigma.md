@@ -169,3 +169,19 @@ Chicagoland: 44% under contract in the first 2 weeks.
 Sellers who "test the market" aren't taking a risk. They're paying a compound tax on time.
 
 **Hashtags:** #RealEstate #ListingAgent #HomePricing
+
+## Council Review
+
+**Scroll-stop variants (spoken, pick one to A/B):**
+1. "One point eight percentage points." [hook_family: Named Stakes | emotion: curiosity]
+2. "'We can always come down' is the most expensive advice your seller ever takes." [hook_family: Sacred Cow | emotion: anger]
+3. "Every day past thirty, your seller loses money. They just don't know it yet." [hook_family: System Indictment | emotion: anxiety]
+
+**Pattern interrupt:** The Stop -- pause mid-stride on "One point eight percentage points" and let the number land on his face before continuing. Selfie-stick friendly. The stop signals the reveal is worth stopping for.
+
+**Why it should work:**
+- Hook mechanism (Heath): "One point eight percentage points" opens a curiosity loop (Huh -- what's that for?) that the next sentence closes (Aha -- the premium for closing in four weeks). Loop-open-then-close is the memorable structure.
+- Share/save driver (Berger/Hormozi): the "compound tax on time" reframe gives listing agents a save-worthy phrase for their next listing appointment AND a shareable one-liner sellers can forward to each other. High-arousal (anxiety-adjacent), Social Currency (sender looks informed), one-sentence retell survives.
+- Retention move (MrBeast): three data points (1.8pp -> Zillow 10% -> Chicagoland 44%) escalate the argument at rough 15-second intervals so attention re-hooks before decay. The WHY-section three-cost frame is a mini-recap re-hook before the CLOSE.
+
+**The dissent (your next A/B test):** Byron Lazine still holds that the news-cycle relevance (Realtor.com's fresh June release) is buried in the CLOSE ("show them the Realtor.com number") rather than earning the hook. The experiment: film a second cut with "Realtor.com just put a number on the price of sitting. One point eight percentage points." as the first two beats -- newsjacked frame vs pure-Named-Stakes number. Measure reach vs saves. Hypothesis: the news frame draws broader reach; the pure number drives more agent saves. Cheap A/B.
