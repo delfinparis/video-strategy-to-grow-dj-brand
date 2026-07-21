@@ -100,6 +100,13 @@ pattern_interrupt, AI Music Prompt). Do this silently, then append one block.
    Berger emotion each uses. These are the A/B fuel.
 5. **Confirm the pattern interrupt** ([`pattern-interrupt-cheatsheet.md`](pattern-interrupt-cheatsheet.md))
    is the right one-handed selfie-stick move for this open, or suggest a better fit.
+6. **Confirm the story shape** ([`storytelling-formats.md`](storytelling-formats.md)). Youshaei's
+   "what proven format is this remixing" and Chris Do's "where's the vulnerable beat" both land
+   here: is this running a deliberate format, is it the right one, and on an identity-lane script
+   is it one of the formats that actually earns a follow (1, 3, 7, 9)? Two hard checks the board
+   does not get to override: no CTA that is an engagement ask (Rule 4), and no first-person story
+   that has D.J. performing an agent action, since he does not practice. If the script needs a
+   practitioner, it should have been Format 10 and the fix belongs in the dissent line.
 
 ## The output: append a `## Council Review` block beneath v3
 

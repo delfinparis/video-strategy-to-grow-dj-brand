@@ -11,6 +11,10 @@ what shape does it take,"** which is a different question from the three layers 
 | Series | [`series/`](series/) + [`content-pillars.md`](content-pillars.md) | What topic am I covering? |
 | **Story shape** | **this doc** | **Whose story is it, and what arc does it run?** |
 
+Pick the shape in Pass 1, before writing Act 2. Pass 4 ([`short-form-council-pass.md`](short-form-council-pass.md))
+checks it: Youshaei asks what proven format the script is remixing, Chris Do asks where the
+vulnerable beat is on an identity-lane piece.
+
 These are orthogonal. A Lesson From Others (format 10) can open on a Confession hook (family 5),
 run the full 3-act spine, and ship inside Inside the Industry. Picking a story shape does not
 replace any of the other three choices.
