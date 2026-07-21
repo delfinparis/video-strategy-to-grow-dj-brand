@@ -223,6 +223,8 @@ The six beats below are the *texture*. The **Viral 3-Act Spine** ([`series/viral
 
 The single behavioral change this model forces: **the middle (Act 2) is a story, not a briefing.** Don't write "here's the background, here's my take." Write "here's what happened, and then here's the turn." See the "Story, not exposition" subsection below.
 
+**The three acts are the structure; the *story shape* is a separate choice.** Whose story is this (D.J.'s, a guest's, the viewer's) and what arc does it run? Ten first-person shapes, rated for fit and rewritten to survive Rules 1, 4, and 5, live in [`storytelling-formats.md`](storytelling-formats.md). Picking a shape does not replace the hook family, the acts, or the series -- the four layers stack.
+
 **Story intensity varies by series.** Narrative series (Inside the Industry NF/IS/IA, Podcast Promo) run the full three acts -- the material has a story, so tell it. Tactical series (The Playbook, What Actually Works, tapthis Walk-and-Talk) run a *compressed* Act 2 -- one story beat (the scenario, the failed-fix turn, the mid-stride frustration), then straight to the payload. For tactical content, **Rule 7 length discipline wins over story**: if a developed narrative pushes the script past its cap, compress Act 2 back to one beat. The full mapping is in the spine doc.
 
 ### Story, not exposition (the Act 2 discipline)

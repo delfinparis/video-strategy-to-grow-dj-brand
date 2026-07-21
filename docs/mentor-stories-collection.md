@@ -12,6 +12,8 @@ The fix is structural, not editorial. Instead of D.J. inventing mentorship anecd
 
 This is the strongest possible version of Kale-signaling content because every claim traces to a real person with a real quote, and D.J. is honestly reporting what he was told rather than pretending to have witnessed something he didn't.
 
+**The script shape these stories run in is Format 10, Lesson From Others** ([`storytelling-formats.md`](storytelling-formats.md)): the person, their situation, the lesson in their own words, how D.J. applied it, what changed. That format rates highest of the ten for D.J. precisely because this protocol and the 700+ KIR episodes feed it. The consent and attribution questions below (share-permission and name-permission are separate) bind on every script built from this feed, and the lesson lands as a direct quote pulled from the transcript, never reconstructed from memory (Rule 8.3).
+
 ---
 
 ## The Weekly Collection Protocol

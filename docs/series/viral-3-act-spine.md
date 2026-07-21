@@ -69,6 +69,12 @@ next.
 
 The four story modes by series type are in the table below. Pick the one your series uses.
 
+The modes below answer *what kind of tension* the middle runs on. A related but separate question is
+*whose story it is and what arc it takes* -- the ten first-person story shapes in
+[`../storytelling-formats.md`](../storytelling-formats.md), rated for fit against D.J.'s brand.
+Formats 2 (lead with proof, then teach) and 10 (tell someone else's story) both change what Act 2
+looks like without changing the three acts themselves.
+
 ### Act 3 -- PAYOFF (the last ~25%): resolve the loop, hand over the takeaway, loop back
 
 The close is not just a CTA. It's where the loop the hook opened gets *paid off*. Three things,
