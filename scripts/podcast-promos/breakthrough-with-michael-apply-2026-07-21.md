@@ -4,8 +4,8 @@ segment: "Breakthrough with Michael — Series Recruitment CTA"
 show: "Keeping It Real"
 cta: "Apply to be a future coachee (one agent selected per month, free)"
 application_form: "https://docs.google.com/forms/d/e/1FAIpQLSepHjfIzOsJM_0pzRtFVniRgt1D2mDJIjYxdnz2hFUgWMJuBw/viewform"
-hook_family: "8 — Cohort Callout"
-pattern_interrupt: "2 — The Push-In"
+hook_family: "1 — Mirror (winning on paper / losing in your head)"
+pattern_interrupt: "4 — Walk-Toward"
 target_duration: "60-70 seconds"
 placement: "IG Reels / TikTok / YT Shorts / FB Reels / LinkedIn video"
 b_roll_assets:
@@ -21,13 +21,13 @@ b_roll_assets:
 
 ## Spoken Script (D.J. — to camera, walking)
 
-If you're hitting your numbers and still dreading Monday, I'm about to hand one of you a free hour that fixes the part no strategy touches.
+You can be winning on paper and losing in your head. I'm about to hand one of you a free hour that fixes the part no strategy touches.
 
-Here's what that hour is. We put one real estate agent across from Michael Opyd and let the cameras run. Michael spent twenty years in this business, ten of them running a brokerage past two hundred million a year, and twenty-five thousand hours studying what actually separates top producers from the agents grinding just as hard for less.
+Here's what that hour is. We put one real estate agent across from Michael Opyd and let the cameras run. Michael's got twenty years in the business, ten of them running a brokerage to two hundred million a year, and twenty-five thousand hours studying what separates top producers from agents grinding just as hard for less.
 
 Our first agent was Emma. Twenty-three, six million in sales in eighteen months, and she'd stopped being able to make herself pick up the phone. One hour, no script. I watched her change her relationship with the voice in her head in real time, on camera.
 
-That's Breakthrough with Michael, a monthly segment on the Keeping It Real Podcast. Every month we pick one agent, and it's free. Winning on paper and losing in your head isn't a strategy problem. It's exactly what this exists for. If that's you, the link to apply is in the description below. Could be you in that chair next month.
+That's Breakthrough with Michael, a monthly segment on the Keeping It Real Podcast. Every month we pick one agent, and it's free. That isn't a strategy problem. It's exactly what this exists for. If that's you, the link to apply is in the description below. Could be you in that chair next month.
 
 ---
 
@@ -35,9 +35,9 @@ That's Breakthrough with Michael, a monthly segment on the Keeping It Real Podca
 
 | Beat | Visual under D.J.'s VO |
 |---|---|
-| Hook ("If you're hitting your numbers…") | D.J. talking head, walking. Push-in: pull the phone toward your face on "free hour." Land the loop on his eyes. |
+| Hook ("You can be winning on paper and losing in your head") | Walk-Toward: camera held out, D.J. walking straight *at* the lens, background sliding past. Optional micro push-in on "free hour." Land the loop on his eyes. |
 | "We put one real estate agent across from Michael…" | ~3s wide of the Emma session — Michael + agent in frame together. Music ducks under. |
-| "Twenty years in this business…" | D.J. walking, counting the credentials off with a hand. |
+| "Michael's got twenty years…" | D.J. walking, counting the credentials off with a hand. |
 | "Our first agent was Emma." | Cut to `emma_clip.mp4` — pick the moment her face shifts. Quiet, no audio bleed. |
 | "…change her relationship with the voice in her head" | Close-up Emma, hold the silence. |
 | "That's Breakthrough with Michael…" | Back to D.J., walking, slower delivery. |
@@ -50,7 +50,7 @@ Music ducks under any clip audio. Captions auto-generate from D.J.'s voice (capt
 ## Data Source
 
 - Series concept + offer: `scripts/podcast-promos/breakthrough-with-michael-ep1-emma-cta.md` (Episode 1, one agent selected per month, free live session)
-- Michael Opyd credentials: `scripts/podcast-promos/kir-michael-opyd-2026-06-24.md` + `_briefs/kir-2026-06-24-michael-opyd-brief.md` (20 years in real estate, 10 as brokerage owner at $200M+ annual, 25,000+ hours studying top producers)
+- Michael Opyd credentials: `scripts/podcast-promos/kir-michael-opyd-2026-06-24.md` + `_briefs/kir-2026-06-24-michael-opyd-brief.md` ("20 years in real estate," "10 as brokerage owner," "$200M in annual sales," "25,000+ hours studying top producers"). Spoken says "to two hundred million a year" to match the KIR promo exactly — not "past/$200M+," which would over-claim beyond the source.
 - Michael's philosophy echoed in the close ("isn't a strategy problem"): his own quote, "Real estate doesn't have a strategy problem; it has a 'you' problem." (KIR analysis JSON)
 - Emma proof beat: Episode 1 intake (23, $6M in 18 months, prospecting block after a family loss) — from the Ep 1 CTA file
 - Application form: https://docs.google.com/forms/d/e/1FAIpQLSepHjfIzOsJM_0pzRtFVniRgt1D2mDJIjYxdnz2hFUgWMJuBw/viewform
@@ -136,15 +136,15 @@ https://docs.google.com/forms/d/e/1FAIpQLSepHjfIzOsJM_0pzRtFVniRgt1D2mDJIjYxdnz2
 ## Council Review
 
 **Scroll-stop variants (spoken, pick one to A/B):**
-1. "If you're hitting your numbers and still dreading Monday, I'm about to hand one of you a free hour that fixes the part no strategy touches."  [hook_family: 8 Cohort Callout | emotion: recognition → anticipation]
-2. "Once a month I put one real estate agent across from a coach who's logged 25,000 hours studying top producers. It costs them nothing."  [hook_family: 6 Named Stakes | emotion: awe]
+1. "You can be winning on paper and losing in your head. I'm about to hand one of you a free hour that fixes the part no strategy touches."  [DEPLOYED | hook_family: 1 Mirror | emotion: recognition]
+2. "If you're hitting your numbers and still dreading Monday, one of you is about to get a free hour that fixes the part no strategy touches."  [hook_family: 8 Cohort Callout | emotion: recognition → anticipation]
 3. "A 23-year-old closed six million in eighteen months and still couldn't make herself pick up the phone. Next month, the hour that fixed it is free for one of you."  [hook_family: 6 Named Stakes / Mirror | emotion: anxiety → hope]
 
-**Pattern interrupt:** Move 2, The Push-In — start at arm's length, pull the phone toward your face on "free hour." The offer is intimate, not a headline; the push-in reads as "I'm talking to you," which the Cohort hook needs.
+**Pattern interrupt:** Move 4, Walk-Toward — camera held out, D.J. walking straight at the lens as he names the paradox, background sliding past. A Mirror open needs to read as "I'm coming at you"; the approach does that. Optional micro push-in on "free hour" to punch the promise.
 
 **Why it should work:**
-- Hook mechanism (Heath): the paradox ("hitting your numbers AND dreading Monday") opens a knowledge gap — what fixes it? — and the offer reveal closes it. Huh before Aha, not a claim stacked on a claim.
+- Hook mechanism (Heath): the paradox ("winning on paper AND losing in your head") opens a knowledge gap — what fixes it? — and the offer reveal closes it. Huh before Aha, not a claim stacked on a claim.
 - Share/save driver (Berger/Hormozi): social currency plus a free, scarce offer (one seat a month) makes an agent send it to a struggling peer with "this is you." The send, not the comment, is the 2026 distribution lever.
 - Retention move (MrBeast): the Emma proof beat re-hooks at the mid-point, right before attention decays — offer → real person → real change on camera, escalating instead of explaining.
 
-**The dissent (your next A/B test):** Miller (StoryBrand) — one problem, one plan; leading with the offer AND Emma risks a soft, two-headed CTA. Run variant 1 (offer-forward) against variant 3 (proof-forward, Emma leads) and measure application form click-through. Whichever pulls more applications sets the lead for the recurring recruitment cut.
+**The dissent (your next A/B test):** Miller (StoryBrand) — one problem, one plan; leading with the paradox AND Emma risks a soft, two-headed CTA. Run variant 1 (deployed, problem-forward) against variant 3 (proof-forward, Emma leads) and measure application-form click-through. Whichever pulls more applications sets the lead for the recurring recruitment cut.
