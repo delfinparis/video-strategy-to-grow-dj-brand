@@ -4,6 +4,44 @@ Project-specific operating rules for Claude when working in this repo. Universal
 
 ---
 
+## Read this first: the 2026-07-21 goal reset and gate layer
+
+The strategy changed on 2026-07-21. Before any content strategy work, read
+[`docs/strategy/2026-07-21-goal-reset-and-gate-layer.md`](docs/strategy/2026-07-21-goal-reset-and-gate-layer.md)
+and [`docs/content-pillars.md`](docs/content-pillars.md). The short version:
+
+**The one thing:** *D.J. Paris tells real estate agents exactly what to do and say to grow their business.*
+
+**Why it changed:** the Apr-Jul 2026 pivot produced a reliable content machine and **zero** recruiting
+conversations, because no post in 90 days asked a viewer to raise a hand
+([the review](docs/analytics/2026-07-19-pivot-results.md)).
+
+**The week: 17 posts.** 12 videos (6 Value Giveaways *gated*, 2 News, 2 Broker Problems, 2 KIRP promos;
+Chicago Agent Spotlight substitutes in) + 5 carousels (2 gated, 3 open).
+
+**Which content gets a gate — this decides how you write the close:**
+
+| Content | Gate? |
+|---|---|
+| Value Giveaways (say-this / tool use-case / prompt), tool launches, event promos | **Gated** on IG + FB |
+| Gated carousels (2 of 5) | **Gated** on IG + FB; LinkedIn gets a link in the first comment instead |
+| News, Broker Problems, KIRP promos, Spotlight, the 3 open carousels | **Never gated**, any platform |
+| Anything on **LinkedIn** | **Never a keyword gate.** Ever |
+
+A gated close is a *value-exchange gate* (a keyword delivering a real artifact), permitted by the
+Rule 4 exception in [`docs/editorial-standards.md`](docs/editorial-standards.md). Hollow bait
+("comment YES," "save this," "follow for more") stays banned everywhere, gated or not. Ungated
+content keeps the full "here's what you do now" close with zero engagement asks.
+
+**Keywords are never invented on the fly.** Pull from [`data/keyword-registry.md`](data/keyword-registry.md)
+and pass them verbatim — a reworded keyword silently breaks the ManyChat trigger and the leads vanish
+with no error. Flow spec: [`docs/automation/manychat-flows.md`](docs/automation/manychat-flows.md).
+
+**Quality floor:** the 3-pass rigor below is non-negotiable at 17 posts/week. If a week cannot clear
+that bar, ship fewer posts. Volume is never the goal.
+
+---
+
 ## When D.J. says "walk and talk", build today's script on demand
 
 D.J.'s daily options are researched + committed by the 6am home-Mac job and

@@ -267,6 +267,74 @@ A second, larger issue in the same file: the capture modal fires 1.2 seconds **a
 
 ---
 
+## 2026-07-22 addendum: pillar refinement + council review
+
+The 2026-07-21 session set the architecture. The 2026-07-22 session refined the pillars against a test question, then ran the whole plan past an adversarial council and fixed what it found. Both are folded into the docs; this section records what changed and why.
+
+### The test question that refined the pillars
+
+> "What is the most useful short-form video I can make with little or no editing, walking down a street, that gives a real estate agent something of value they can actually get excited about and become hooked on, so they watch more?"
+
+Scoring the candidate formats against it produced one decisive finding: **the exact-script ("what do I say when...") video wins on every axis** -- zero editing, removes a specific fear (that is the *excitement*, where most tips are merely useful), and serializes forever. Prompts scored lower because **the value lives off-screen**: you cannot feel a prompt walking down a street. So the Giveaway pillar is anchored on "say this, not that" scripts, with prompts as a secondary flavor.
+
+The same test exposed that **Chicago Agent Spotlight fails on viewer value** -- a spotlight is about someone else. It keeps a role (best FB distribution in the dataset, +6.0x; real recruiting reach) but as a **substitute**, never a fixed slot, judged on reshares and Chicago follows rather than viewer value.
+
+### The one thing (brand spine)
+
+> **D.J. Paris tells real estate agents exactly what to do and say to grow their business.**
+
+News and KIRP are credibility *under* that promise, not co-equal pillars. Broker Problems is the recruiting edge. This resolves the council's "five pillars is five things to be known for" finding.
+
+### Final structure
+
+**17 posts/week: 12 videos + 5 carousels, 8 gated.** Detail in [`../content-pillars.md`](../content-pillars.md) and [`../series/carousel-standard.md`](../series/carousel-standard.md).
+
+| Pillar | Weekly | Gate |
+|---|---|---|
+| Value Giveaways (3 say-this + 2 tool use-case + 1 prompt) | 6 | Gated IG/FB |
+| News / Inside the Industry | 2 | Open |
+| **Broker Problems** (new pillar) | 2 | Open; comments mined for Chicago signals |
+| KIRP Promos | 2 | Open |
+| Chicago Agent Spotlight | substitute | Open |
+| Carousels | 5 (2 gated) | 2 gated IG/FB + LinkedIn link variant |
+
+**Broker Problems** is the significant addition: content naming the pain an agent has with their *current* brokerage. It passes the test question (useful and exciting to the viewer, serializes) where Spotlight did not, and it does the recruiting-signal job better. Ungated on purpose -- FB throttles overt Kale content (-5.3x) -- with the recruiting mechanic being **comment mining**, not a gate.
+
+### The council review and the five fixes
+
+Five adversarial lenses (direct-response marketer, positioning strategist, algorithm realist, recruiting operator, COO) reviewed the plan. All five findings were adopted:
+
+| # | Finding | Fix | Where it lives |
+|---|---|---|---|
+| 1 | **Lead quality inverted** -- 6 low-intent slots vs 2 high-intent; the DM filtered geography, never intent. A prompt-downloader is a content fan, not a mover | **Q2 intent question** in every gated DM: "what's the ONE thing you'd change about your brokerage?" -> new Close field *Brokerage Pain* -> four-way routing | [`../automation/manychat-flows.md`](../automation/manychat-flows.md) |
+| 2 | **Capture ends in a dead list** -- no nurture defined, and the gated docs did not exist | 3 nurture sequences (HOT Chicago / Warm Chicago / National) + **the Objection Response Vault** as the one net-new flagship doc. Both are launch prerequisites | manychat-flows.md; Vault still to build |
+| 3 | **Quality-at-volume risk** -- 17 posts/week vs the 3-pass bar | Explicit **quality floor** (ship fewer rather than drop the bar) + **minimum-viable week** (2 News + 2 Giveaways) + batch-filming buffer | [`../content-pillars.md`](../content-pillars.md) |
+| 4 | **Five co-equal pillars, no one sentence** | The one thing (above); News/KIRP subordinated to credibility | content-pillars.md, README |
+| 5 | **Operating rules unowned** | Owner table below | this doc |
+
+### Ownership
+
+| Job | Owner |
+|---|---|
+| Film all 12 videos | D.J. (buffered by batch-filming, 2-3 sessions/wk, 1 week of evergreen in the can) |
+| Build carousels | Claude |
+| Load Loomly | Jennica |
+| Broker-problem comment mining -> flag Chicago into Close | **Jennica** (confirmed 2026-07-22) |
+| Build + maintain ManyChat flows | D.J. sets up; Jennica swaps keywords per the registry |
+| Work HOT Chicago leads + nurture sequences | Ana |
+| Week-4 checkpoint | Claude compiles, D.J. decides |
+
+### Launch prerequisites (nothing gates until these are true)
+
+- [ ] ManyChat purchased; IG + FB connected
+- [ ] **Objection Response Vault built** and genuinely worth an email (the one net-new flagship doc)
+- [ ] *Brokerage Pain* field created in Close
+- [ ] The 3 nurture sequences built in Close
+- [ ] One flow tested end-to-end (comment -> DM -> asset -> Q1 -> Q2 -> email -> correctly-sourced Close record)
+- [ ] Close field bug fixed in `kale-ai-prompts` (Kale Lead Source, not Lead Type) + `?src=` tag handling for LinkedIn capture
+
+---
+
 ## Session context
 
 Decisions in this document came from a strategy session on 2026-07-21 in which D.J. explicitly reset the goals from scratch rather than amending the April list. Two framings were proposed and rejected along the way, recorded here so they do not get re-litigated:

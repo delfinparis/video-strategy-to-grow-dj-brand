@@ -1,235 +1,152 @@
 # Content Pillars
 
-This document defines the strategic structure of D.J. Paris's video content. As of April 2026, the strategy operates on **four content pillars** corresponding to four video series, each with a distinct purpose, voice, and target avatar.
+This document defines the strategic structure of D.J. Paris's **short-form video** content. It was reset on 2026-07-21 alongside the goal reset and gate layer, and the pillar definitions were refined on 2026-07-22 against a single test question (below). Read [`strategy/2026-07-21-goal-reset-and-gate-layer.md`](strategy/2026-07-21-goal-reset-and-gate-layer.md) first; this file is the pillar-level detail under that decision.
 
-The four-pillar structure replaces the earlier five-theme model. Those five themes (The AI Agent, Top Producer Secrets, Real Talk, Market Intelligence, Systems That Scale) still exist as sub-themes inside Pillars 1 and 2, but they are no longer top-level structure.
+Carousels are a parallel surface with their own standard ([`series/carousel-standard.md`](series/carousel-standard.md)); they are not pillars and are not covered here.
+
+## The one thing (brand spine)
+
+> **D.J. Paris tells real estate agents exactly what to do and say to grow their business.**
+
+Every pillar ladders under that one promise instead of competing with it. The "do and say" content (scripts, tools, prompts) *is* the promise. News and KIRP are the credibility that makes it believable, not co-equal pillars. Broker Problems is the recruiting edge. When a pillar or a script does not obviously serve "what to do and say to grow," question whether it belongs.
+
+The April 2026 four-pillar model (AI Agent Minute, Agent Tip of the Day, The Playbook, Inside the Industry) is retired. What replaces it is below. The legacy model is preserved at the end for reference.
 
 ---
 
-## The Four Pillars
+## The test question every video pillar has to pass
 
-| Pillar | Series | Content Type | Purpose |
+> "What is the most useful short-form video I can make with little or no editing, walking down a street, that gives a real estate agent something of value they can actually get excited about and become hooked on, so they watch more?"
+
+Five criteria are baked in: **cheap to make** (one take, selfie stick, no edit), **genuinely useful**, **exciting** (fear-removal or money-found, not just "informative"), **serializes** (there is always a next one), and it **feeds a business goal**. Every gated and news pillar below is here because it passes this test. The one pillar that does not pass it (Spotlight) is deliberately a substitute, not a fixed slot, and is judged on recruiting reach instead of viewer value.
+
+---
+
+## The pillars at a glance
+
+| Pillar | Weekly | Gate | Core job |
 |---|---|---|---|
-| **Pillar 1** | AI Agent Minute | Educator | Teach AI tools and tactics for real estate |
-| **Pillar 2** | Agent Tip of the Day | Connector | Synthesize wisdom from podcast guests |
-| **Pillar 3** | The Playbook | Practitioner | One scenario, one technique, one outcome |
-| **Pillar 4** | Inside the Industry | Thought Leader | Signal insider access and sharpen opinions |
+| **Value Giveaways** | 6 | Gated (IG/FB) | Generate leads. The only gated video pillar |
+| **News / Inside the Industry** | 2 | Ungated | Reach, authority, NAR recognition |
+| **Broker Problems** | 2 | Ungated | Recruiting wedge + reach |
+| **KIRP Promos** | 2 | Ungated | Podcast listeners + reach |
+| **Chicago Agent Spotlight** | substitute | Ungated | Recruiting signal (subs into a News/Broker slot) |
 
-The four pillars deliberately do different jobs. Together they build a complete brand position that no single series can do alone.
+**12 videos per week.** With 5 carousels (2 gated) that is **17 posts, 8 gated, 9 open** — a roughly even split between value-with-an-ask and pure reach.
 
----
+Each goal-reset objective has a carrier: reach and followers (News + Broker Problems + Spotlight), engagement and leads (Value Giveaways), value to realtors (all), KIRP listeners (KIRP promos + the national route out of the gate DM), NAR and institutional recognition (News + the tool-launch cadence inside Giveaways).
 
-## Pillar 1: AI Agent Minute
-
-**Series role:** The educator / "how-to" pillar.
-**Format:** D.J. Paris talking to camera, ~60 seconds. Structure: Do X, Not Y, To Get Z.
-**Target avatar:** Forgotten Middle, Aspiring Top Producer, Stuck Intermediate.
-**Core job:** Teach agents to use AI tools (Claude, ChatGPT, Perplexity) for real estate work.
-
-**Sub-themes inside this pillar:**
-
-- Lead generation with AI
-- Conversion and sales scripts powered by AI
-- Time and productivity systems
-- Listing descriptions, negotiation prep, objection handling
-- Prompt engineering for agents specifically
-
-**Why it exists:** Positions D.J. as the tech-forward voice in the industry. Generates steady reach via utility-driven content.
-
-**What it cannot do alone:** It cannot build authority on its own because anyone can teach AI tips. The content is replicable by any competitor willing to produce it.
-
-**Volume:** 100 scripts. Runs Monday and Friday (2x/week).
+D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos ride on top of the other 10; the promo engine already runs ahead of the calendar.
 
 ---
 
-## Pillar 2: Agent Tip of the Day
+## Pillar 1: Value Giveaways (the lead engine)
 
-**Series role:** The connector / "wisdom library" pillar.
-**Format:** D.J. Paris presenting an insight from a podcast guest, ~60 seconds.
-**Target avatar:** All six avatars (especially Stuck Intermediate and Burned-Out Veteran).
-**Core job:** Surface high-signal guest wisdom from the 700-episode Keeping It Real Podcast archive.
+**Series role:** the only gated video pillar. This is where leads come from.
+**Format:** talking-head walk-and-talk, 45-75s, teaching one thing on camera and gating a deeper artifact.
+**Gate:** a single spoken keyword ask on Instagram and Facebook, delivered by ManyChat auto-DM. Never on LinkedIn. Governed by the Rule 4 value-exchange exception in [`editorial-standards.md`](editorial-standards.md).
 
-**Sub-themes inside this pillar:**
+**Design rule (non-negotiable):** the video must be worth watching even if nobody comments. Teach the thing on camera; gate the doc/tool that goes deeper. Six ungated-feeling value videos a week is a content brand. Six "watch the rest in the DM" videos a week is six ads, and the reach dies. Enforce this on every giveaway.
 
-- Top producer tactics (largest sub-theme, ~40% of scripts)
-- Real talk / mindset / burnout recovery (~35%)
-- AI tactics from guests (~18%)
-- Market intelligence from guests (~6%)
+**The 6 weekly giveaways, three flavors:**
 
-**Why it exists:** Positions D.J. as the person who has access to the people agents want to learn from. Every Agent Tip is a name-drop that borrows credibility from the guest.
+| Flavor | # / wk | Artifact gated | Why it passes the test |
+|---|:--:|---|---|
+| **"Say this, not that"** | 3 | A full doc built for that tip (make one per tip; endless supply) | The strongest answer to the test question. D.J. says the exact words walking down the street (zero edit), it removes a specific fear the agent has this week (the excitement), and "what do I say when..." serializes forever |
+| **Tool use-case** | 2 | Access to an existing tool/doc (webinar toolkit, prompt stacks, etc.) | Framed by the use case, NOT the tool. "Here's how to handle the low-appraisal call, comment for the Objection Vault," never "here's the Objection Vault" three times |
+| **AI prompt idea** | 1 | The 700-prompt vault (tapthis.co) | One vivid prompt result per week; the vault is the deeper artifact |
 
-**What it cannot do alone:** It cannot deliver D.J.'s own opinions or sharp takes. It is always filtered through someone else's voice.
+**The offer unit is the use case, not the tool or the doc.** There are only ~5 tools; at 2 tool videos a week, framing by tool burns the whole shelf in under three weeks. Framing by use case makes the same tool a fresh offer every time. Same logic protects the "say this" flavor: each is a distinct high-stakes moment, so the supply is bottomless as long as new docs get built.
 
-**Volume:** 62 scripts. Runs Tuesday and Thursday (2x/week).
+**This pillar absorbs two retired series.** The Playbook ("here's the play" script cards) and AI Tip of the Week (a prompt) were always giveaways without a gate. They are now the "say this, not that" and "AI prompt" flavors, with a hand-raise finally attached.
 
----
-
-## Pillar 3: The Playbook
-
-**Series role:** The practitioner / "tactical play" pillar.
-**Format:** D.J. Paris talking to camera, ~45 seconds. Structure: Scenario → Don't → Do → Why → Try this.
-**Target avatar:** Stuck Intermediate, Forgotten Middle, Aspiring Top Producer (anyone in active production).
-**Core job:** Give agents one specific play for one specific real estate scenario, every single week.
-
-**Why this pillar exists:**
-
-The Playbook is the answer to the question "AI can't fix interpersonal skills, so who's actually teaching them?" Right now, nobody is. Brokerages don't formally teach agent-to-agent communication. Real estate schools certainly don't. Agents learn it by failing 100 times and pattern-matching their way out.
-
-The Playbook fills that gap with one tactical play per week. The scenarios are infinite (offer submission, listing appointments, buyer consults, co-op communication, multiple-offer situations, inspection negotiation, appraisal gaps, and dozens more), and the format is endlessly repeatable.
-
-**Format structure (every script):**
-
-1. **Scenario** (3 sec) - Name the moment specifically
-2. **Don't** (5 sec) - Identify the trap most agents fall into
-3. **Do** (20 sec) - Give the exact phrase, action, or move
-4. **Why** (10 sec) - Explain why it works
-5. **Try this** (5 sec) - Direct call to action
-
-**Brandable phrase:** Every Playbook video starts with "Here's the play."
-
-**Reference model:** Jefferson Fisher (trial lawyer with massive following built on ultra-specific, immediately-applicable communication techniques). The Playbook is the real estate equivalent of his content model.
-
-**Credibility anchors:**
-
-The Playbook depends on credibility because D.J. is no longer a full-time producing agent. Every script must anchor to one of three credibility sources:
-- A specific Keeping It Real Podcast guest who taught D.J. the play
-- A pattern observed across multiple top-producer interviews
-- A practice in use by Kale Realty agents (recruiting alignment)
-
-Without an anchor, the script is just opinion. With an anchor, it's reported field intelligence.
-
-**Why it cannot do alone:**
-
-The Playbook is utility content. It builds skill, not position. It needs Inside the Industry running underneath it to convert utility into authority.
-
-**Volume:** Pilot batch of 8 scripts. Wednesday slot, 1x/week. Expand to 2x/week if pilot performs.
+**Keyword discipline:** every offer's keyword is registered in [`../data/keyword-registry.md`](../data/keyword-registry.md) so offers do not silently repeat and keywords do not collide. Keep the active set small and repeated. On carousels and in Loomly, the keyword is passed verbatim; a reworded keyword silently destroys that post's leads.
 
 ---
 
-## Pillar 4: Inside the Industry
+## Pillar 2: News / Inside the Industry
 
-**Series role:** The thought leader / "insider access" pillar.
-**Format:** D.J. Paris talking to camera, 45-75 seconds. Three sub-formats (see below).
-**Target avatar:** The Forgotten Middle and The Aspiring Top Producer primarily. Senior decision-makers watching D.J.'s Personal LinkedIn.
-**Core job:** Signal D.J.'s direct access to NAR leadership, top producers, and the 700-episode archive. Deliver sharp opinions, not neutral reporting.
+**Series role:** reach, authority, and the NAR/institutional signal.
+**Format:** the Inside the Industry NF (news flash) and IS (synthesis) sub-types, 45-75s, sharp take on real estate industry news within 24 hours, Chicago angle where possible. 2 of the best stories per week, not every story.
+**Gate:** none, on any platform. A serious industry take with a keyword ask stapled to it cheapens the credibility that makes it work. D.J.'s explicit decision.
 
-**This is the newest pillar and the most strategically important** for the current brand-building phase. It exists specifically to build positioning that the other three pillars cannot.
+**Why it stays ungated and central:** this is the pillar the 2026 LinkedIn feed is built to distribute (news-first, topical), and it is the credibility layer that makes NAR and sponsors take calls. Measured on reach and authority, never on leads.
 
-### The Three Sub-Types
-
-**Type A - Access ("I just talked to...")**
-
-D.J. references a recent conversation with a NAR leader, industry titan, or podcast guest, and surfaces one thing they said or one thing he observed. The content is not a quote; it is an observation only possible because D.J. was in the room.
-
-Example: "I spent a day in a room with NAR's executive leadership team. Here's what I noticed." (IA-001)
-
-**Type B - Synthesis ("After 700 interviews...")**
-
-D.J. synthesizes patterns across hundreds of podcast interviews into a sharp, opinion-forward take. The 700-episode archive is the credential.
-
-Example: "After 700 interviews, here's what AI still can't fix." (IS-001)
-
-**Type C - Reactive ("News flash + my take")**
-
-D.J. reacts to major industry news (settlements, rate decisions, NAR policy changes) within 24 hours, with a local Chicago angle and a clear point of view.
-
-Example: "NAR settles Tuccori lawsuit for $52M. Here's what it means for Chicago agents." (NF-001)
-
-### Why it exists
-
-The brand goals require more than education and curation. For Kale recruiting (priority #1), NAR relationship (#2), and podcast growth (#3), the audience needs to feel like they're getting information and opinion they cannot get anywhere else.
-
-### What it cannot do alone
-
-Inside the Industry lacks the steady utility of AI Agent Minute and the volume of Agent Tip. It needs the educator base to earn the thought leader premium.
-
-### Volume
-
-As of April 2026 the script archive contains:
-
-- 3 Type A scripts (IA-001 through IA-003)
-- 3 Type B scripts (IS-001 through IS-003)
-- 6 Type C scripts (NF-001 through NF-006)
-
-Saturday is the fixed slot (1x/week). Reactive Type C posts can override any weekday slot when major news breaks.
+**Feeding it:** `python3 scripts/news_brief.py` each morning, the Feedly real estate feeds, and D.J.'s NAR + Kale operational view. IS drafts pull from the 700-episode podcast archive on quiet news weeks.
 
 ---
 
-## Why the Four-Pillar Structure Works
+## Pillar 3: Broker Problems
 
-Each pillar builds a different kind of authority. Together they compound.
+**Series role:** the recruiting wedge. Content that names the pain an agent has with their *current* brokerage.
+**Format:** talking-head walk-and-talk, 45-75s. One specific broker-side pain: bad splits, junk fees, no support, dead company leads, no training, no tech. Name the math, name the fix.
+**Gate:** none. D.J.'s call, and his own Facebook data backs it: overt Kale/recruiting content gets throttled (-5.3x on "Kale coaches," -10.5x on webinar promo). Gating these would cost reach AND read as a pitch. Keep them open.
 
-- **AI Agent Minute** makes people say "D.J. teaches me AI."
-- **Agent Tip of the Day** makes people say "D.J. knows the best agents."
-- **The Playbook** makes people say "D.J. makes me better at my job today."
-- **Inside the Industry** makes people say "D.J. knows what's happening before I do."
+**The recruiting mechanic is the comment section, not a gate.** When D.J. posts "if your brokerage takes 30% and hands you nothing, here's the math," Chicago agents out themselves in the replies ("that's exactly my split"). That is a live, unforced recruiting signal. **Operating rule: someone reads every comment on a Broker Problems video and flags Chicago complainers into Close** for Ana/Jennica to work. The video does reach; the comments do recruiting.
 
-All four together make people say "I need to follow D.J. or I'll fall behind."
-
-That's the brand position. No single pillar delivers it alone.
+**Why it passes the test where Spotlight doesn't:** a broker-problem video is genuinely useful and exciting to the person watching (it validates a frustration and hands them a fix), and it serializes (there is always another brokerage pain). It is the recruiting-signal job Spotlight was reaching for, but pointed at the viewer instead of at a third party.
 
 ---
 
-## Avatar-to-Pillar Targeting
+## Pillar 4: KIRP Promos
 
-| Avatar | Primary Pillar | Secondary Pillar |
+**Series role:** drive podcast listeners and carry reach, using the episode engine already built.
+**Format:** walk-and-talk promo, built through the Hype Machine (`scripts/podcast-promos/build_promo_brief.py` + [`series/podcast-promo-hype-machine.md`](series/podcast-promo-hype-machine.md)).
+**Gate:** none. D.J.'s decision: the ask is simply "go check out the episode."
+**Cadence:** 2 per week, promoting the show's best recent episodes. The engine outruns the calendar (14 promos built, 8 posted), so slotting is the constraint, not supply.
+
+---
+
+## Pillar 5 (substitute): Chicago Agent Spotlight
+
+**Series role:** recruiting signal via generosity. Not a fixed slot.
+**Format:** per [`series/chicago-agent-spotlight-standard.md`](series/chicago-agent-spotlight-standard.md). Scout a fresh Chicago agent in the news, verify the handle before tagging, verify every fact, never AI-generate the person's face, frame on the person and the lesson.
+**Gate:** none.
+
+**Why substitute, not fixed:** it fails the test question — a spotlight gives the *viewer* little they get excited about, because it is about someone else. It still does real work (the best FB distribution in the dataset, +6.0x on a guest feature; tags recruitable Chicago agents; feeds the IG attract play), so it substitutes into a News or Broker Problems slot whenever a worthy Chicago subject exists, and is skipped when one does not. Judge on reshares and new Chicago followers, never on saves or viewer value.
+
+---
+
+## Weekly shape (target)
+
+| | Count | Gate |
 |---|---|---|
-| Overwhelmed Newbie | Agent Tip (Real Talk) | The Playbook |
-| Stuck Intermediate | The Playbook | AI Agent Minute |
-| Forgotten Middle | Inside the Industry | The Playbook |
-| Aspiring Top Producer | Inside the Industry | The Playbook |
-| Burned-Out Veteran | Agent Tip (Real Talk) | Inside the Industry |
-| Team Leader / Aspiring Team Leader | Inside the Industry | The Playbook |
+| Value Giveaways (3 "say this" + 2 tool + 1 prompt) | 6 | gated |
+| News / Inside the Industry | 2 | none |
+| Broker Problems | 2 | none |
+| KIRP promos | 2 | none |
+| Chicago Agent Spotlight | substitutes into a News/Broker slot | none |
+| **Video total** | **12** | 6 gated |
+| Carousels | 5 (2 gated, 3 not) | see carousel standard |
+| **Week total** | **17** | 8 gated |
 
-The Forgotten Middle, Aspiring Top Producer, and Team Leader avatars are all primarily served by Inside the Industry. The Stuck Intermediate is primarily served by The Playbook. These four avatars are the highest-value avatars for Kale Realty recruiting. That alignment is not accidental.
+The day-by-day grid lives in [`../schedule/master-calendar.md`](../schedule/master-calendar.md). Every sixth week, one Giveaway slot becomes a **tool launch**, and the six-week cycle also runs the event-promo runway (weeks 4-6) out of Giveaway slots. See the goal-reset doc for the cycle.
 
----
+### Quality floor (never negotiable)
 
-## Publishing Cadence (as of April 2026)
+17 posts a week is a volume that can quietly erode the standard the whole brand was built on. It does not get to.
 
-| Day | Series | Pillar |
-|---|---|---|
-| Monday | AI Agent Minute | 1 |
-| Tuesday | Agent Tip of the Day | 2 |
-| Wednesday | **The Playbook** (NEW) | **3** |
-| Thursday | Agent Tip of the Day | 2 |
-| Friday | AI Agent Minute | 1 |
-| Saturday | Inside the Industry | 4 |
-| Sunday | Off | - |
+- **The 3-pass rigor (draft → stress-test → EP-polish) is non-negotiable on every video.** If a week cannot clear 17 posts at that bar, ship fewer. A skipped slot costs nothing; a 2-pass filler post costs brand. Volume is never the goal -- recruits are.
+- **Carousels get their own defined QA** (the checklist in the Loomly handoff, [`series/carousel-standard.md`](series/carousel-standard.md)), so "lighter than a video" never means "sloppy."
+- **The week-4 checkpoint tests this explicitly:** is production quality holding at 17/week? If it is slipping, cut to 12 videos or drop carousels to 3 before cutting anything else. Reach and leads are worthless if the content that earns them stops being good.
 
-Total: 6 posts per week. Same volume as before, redistributed across four pillars.
+### Minimum-viable week (bad weeks)
 
-Reactive (Type C) Inside the Industry posts can override any weekday slot when major news breaks. The displaced script reschedules to the next available slot of its original series.
+When D.J. is traveling, sick, or slammed, the system degrades gracefully instead of collapsing. **Four posts always ship, no matter what: 2 News + 2 Giveaways.** Everything else is optional that week. A batch-filming buffer (film in 2-3 sessions a week, keep one week of evergreen giveaways in the can) exists so D.J. filming every video is not a single point of failure.
 
 ---
 
-## Content Runway (April 2026)
+## Retired: the April 2026 four-pillar model
 
-| Series | Scripts | Frequency | Runway |
-|---|---|---|---|
-| AI Agent Minute | 100 | 2x/week | ~50 weeks |
-| Agent Tip of the Day | 62 | 2x/week | ~31 weeks |
-| The Playbook | 8 (pilot) | 1x/week | ~8 weeks |
-| Inside the Industry | 12 | 1x/week | ~12 weeks |
+The prior model organized around AI Agent Minute (educator), Agent Tip of the Day (connector), The Playbook (practitioner), and Inside the Industry (thought leader), at 6 posts/week.
 
-Agent Tip is the constraint at ~31 weeks. After that, either the Agent Tip series refreshes from new podcast clips, or the calendar shifts to absorb the slot into other pillars.
+What happened to each:
 
-The Playbook starts as a pilot. If it performs, expand the script library and consider moving to 2x/week.
+- **AI Agent Minute** (100 scripts): frozen at the April pivot; underperformed its investment. Its AI-tool use-cases now feed the AI-prompt giveaway flavor.
+- **Agent Tip of the Day** (62 scripts): frozen; the podcast-wisdom job moved to KIRP promos and IS synthesis.
+- **The Playbook** (8 pilot): absorbed into Value Giveaways as the "say this, not that" flavor. The script card is now a gated doc.
+- **Inside the Industry**: survives and split. NF/IS became the News pillar; the IA (access) sub-type evolved into Chicago Agent Spotlight.
 
----
+The deeper reason for the reset: the April model had no capture layer. Every pillar produced followers because none asked for a hand-raise. The 90-day test (Apr 20 - Jul 18) produced zero recruiting conversations. The new structure keeps what reached people and adds the gate that converts them, plus a Broker Problems pillar that turns the recruiting wedge into viewer value. Full analysis: [`analytics/2026-07-19-pivot-results.md`](analytics/2026-07-19-pivot-results.md).
 
-## Legacy Five-Theme Model (Now Deprecated as Top-Level Structure)
-
-The earlier five-theme model (The AI Agent, Top Producer Secrets, Real Talk, Market Intelligence, Systems That Scale) is preserved below for reference. These themes still appear as sub-categories inside Pillars 1 and 2, but are no longer the top-level organizing structure.
-
-**Theme distribution in Agent Tips (62 scripts):**
-
-| Sub-theme | Count | % |
-|---|---|---|
-| Top Producer Secrets | 25 | 40% |
-| Real Talk | 22 | 35% |
-| The AI Agent | 11 | 18% |
-| Market Intelligence | 4 | 6% |
-| Systems That Scale | 0 | 0% |
-
-The zero coverage of "Systems That Scale" in Agent Tips was identified as a gap in the earlier model. Under the new four-pillar structure, Systems That Scale content is absorbed into The Playbook (since most agent-to-agent tactical plays are operating systems for the moment) or AI Agent Minute (for AI-enabled systems).
+The legacy five-theme model (The AI Agent, Top Producer Secrets, Real Talk, Market Intelligence, Systems That Scale) that preceded the four pillars is fully retired and no longer referenced.

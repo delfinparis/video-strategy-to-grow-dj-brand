@@ -13,7 +13,21 @@ Reference implementation already in the repo:
 
 ## What a carousel is for here
 
-**Primary job: reach and saves** (set 2026-07-07). A carousel earns its slot when an agent
+> **UPDATED 2026-07-22.** Carousels were promoted from a saves layer to **the lead surface that
+> runs alongside video**. The week is now **5 carousels: 2 gated + 3 open**, the KPI is split by
+> type (gated = leads, open = saves/sends), and gated carousels ship in **two variants** (IG/FB
+> keyword gate, LinkedIn link-in-first-comment). See [The 5-carousel week](#the-5-carousel-week-2026-07-22)
+> and [Loomly handoff](#loomly-handoff-what-jennica-receives) below; they govern where they
+> conflict with older text. Strategy: [`../strategy/2026-07-21-goal-reset-and-gate-layer.md`](../strategy/2026-07-21-goal-reset-and-gate-layer.md).
+>
+> **What carousels are for (the test question):** video carries what wants to be *watched*;
+> carousels carry what wants to be **saved and sent**. Ask: "would an agent screenshot this,
+> save it to a folder, or text it to another agent?" Reference material (scripts, checklists,
+> comparison tables, data cards) passes. Opinion and narrative do not -- that is video's job.
+> The 0-1 saves the format was getting came from putting video's content on a surface that
+> rewards something else.
+
+**Primary job (superseded, see the update box above): reach and saves** (set 2026-07-07). A carousel earns its slot when an agent
 would *save* it to act on later or *send* it to another agent. That is a different job than the
 walk-and-talk videos, which carry the recruiting-first load. Carousels grow follows and
 authority; recruiting is the soft secondary.
@@ -68,6 +82,8 @@ loop, make each slide earn the next swipe).
 | **3 to N-2 -- The body** | One idea per slide, earn each swipe | After slide 3, tighten: one idea, one line of body where possible. This is the story/tactic middle. |
 | **N-1 -- Screenshot payload** | The slide people save on their own | The numbered list, the checklist, the scripts. This is the slide people screenshot. Make it so self-contained the save is automatic. The payload earns the save; the deck never asks for it. |
 | **N -- Close** | "Here's what you do now" action | Close on one specific action at the agent's own business, tied to the payload (editorial-standards Rule 4). Then, optionally, one loop-back line that echoes the hook. No "save this," no "follow for," no engagement ask of any kind. |
+
+**Gate exception (2026-07-22):** the **2 gated carousels** each week close on a value-exchange gate instead -- a single keyword ask delivering a real artifact, per the Rule 4 exception in [editorial-standards.md](../editorial-standards.md). That is permitted on **Instagram and Facebook only**. The **3 open carousels** keep the rule below exactly as written, and *no* carousel on **LinkedIn** ever carries a keyword ask. Hollow bait ("save this," "follow for," "tag") stays banned on all five, on every platform, gated or not.
 
 **Reach and saves is the goal, not a line you say.** This format's goal is saves and reach, but "save this" and "follow for more" are still banned here exactly as in every other series (editorial-standards Rule 4; they appear by name in the pre-commit checklist). The resolution is not a loophole for carousels: you *earn* the save with a screenshot-worthy N-1 payload and a close that hands the agent something to do, the same way the walk-and-talks earn it. The watchlist's scoring lens uses "save-worthiness" and "send-worthiness" as internal quality tests for picking which idea to build; that is a private yardstick, never viewer-facing copy. If a draft slide or caption contains "save this," "save it," "save the carousel," "follow for," "tag," or "bookmark," it is not done.
 
@@ -165,9 +181,80 @@ repeat the same `hook_family` two carousels in a row (same discipline as the vid
 
 ---
 
-## Cadence: how many per week, and how to pepper them in
+## The 5-carousel week (2026-07-22)
 
-**The recommendation: 3 carousels per week once ramped, added *alongside* the daily videos, not
+**5 carousels per week: 2 gated + 3 open**, alongside the 12 videos. Claude builds them; Jennica loads them into Loomly. The lineup maps to the video pillars so most of the work is repurpose, not net-new.
+
+| # | Carousel | Gate | What is on the slides | Judged on |
+|---|---|---|---|---|
+| 1 | **"Say this, not that" script card** | Gated | The exact word-for-word responses. The screenshot format | Leads |
+| 2 | **Tool / prompt use-case** | Gated | The use case + a taste of the output | Leads |
+| 3 | **Broker-problem comparison** | Open | "What your brokerage should give you vs what most do" -- a table agents save AND send | Saves + sends |
+| 4 | **News explainer card** | Open | The week's biggest story as a saveable data/timeline card | Saves + reach |
+| 5 | **Evergreen checklist** | Open | Net-new saveable how-to (Coffee & Contracts model) | Saves |
+
+**#3 is the sleeper.** The broker-problem comparison table is the most *sendable* thing on the list: an agent screenshots "here's what you're missing" and texts it to a friend at another brokerage. That is the recruiting wedge spreading peer-to-peer on the surface built for it. It stays open (ungated) for the same reason the broker-problem videos do -- overt Kale content gets throttled on FB (-5.3x), and gating it would cost reach and read as a pitch.
+
+**The 2 gated carousels reinforce that week's video offers.** Same asset, same keyword as one of the week's giveaway videos. The agent sees the tip as a video and again as a saveable carousel: two shots at one conversion, one keyword to remember, no extra ManyChat flow. Do not mint separate carousel-only offers.
+
+### Two variants for every gated carousel
+
+The same deck ships twice, because the gate mechanic does not exist on LinkedIn (ManyChat has no LinkedIn channel, and LinkedIn bans comment-to-DM automation *and* downranks "comment X" asks):
+
+| Platform | Capture mechanic | Close source |
+|---|---|---|
+| **Instagram + Facebook** | Keyword gate: "comment SCRIPTS and I'll send it" | `IG Gate - <keyword>` |
+| **LinkedIn** | Identical slides, **resource link in the FIRST COMMENT** (never the post body -- LinkedIn downranks body links). The tapthis page asks for the email | `LinkedIn - <asset>` |
+
+Both roads end in a Close lead. Only the door changes. Links and their source tags live in [`../../data/keyword-registry.md`](../../data/keyword-registry.md).
+
+**The 3 open carousels should all go to LinkedIn.** Documents and carousels out-engage video there (~6.6-6.8%) and it is the most agent-dense audience. This is finally using LinkedIn's one genuine strength.
+
+### KPI split
+
+The old single "reach and saves" KPI is retired -- it was failing on its own terms (saves running 0-1). Judge by type:
+
+- **Gated (1, 2):** leads captured. Saves are a nice-to-have.
+- **Open (3, 4, 5):** saves + sends, and for #3, comment-mined Chicago signals.
+
+---
+
+## Loomly handoff: what Jennica receives
+
+Claude builds the carousel; **Jennica inputs it into Loomly**. She is loading, not interpreting, so every carousel file ends with a paste-ready handoff block. Nothing in it should require a judgment call.
+
+The block contains, in order:
+
+1. **Slide-by-slide copy** -- numbered, exact, paste-per-slide. (The Canva Bulk Create table above serves this.)
+2. **The caption**, per platform, final. No "pick one."
+3. **The hashtag block**, already capped per [caption-and-hashtag-strategy](../caption-and-hashtag-strategy.md).
+4. **The ManyChat keyword** (gated only) -- flagged VERBATIM.
+5. **The LinkedIn first-comment link** (gated only), with its `?src=` tag.
+6. **The pinned first comment** (open carousels) -- value-extending, never a "follow me."
+7. **Platform routing** -- which of IG / FB / LinkedIn this deck goes to.
+
+> **The keyword is copied exactly, never reworded.** "Comment SCRIPT" instead of "comment SCRIPTS" silently breaks the ManyChat trigger. There is no error message; the leads simply never arrive. Same for the `?src=` tag on LinkedIn links.
+
+### Carousel QA checklist (the lighter-than-video bar, still a bar)
+
+Run before handing to Loomly. "Lighter than a walk-and-talk" never means sloppy (see the quality floor in [content-pillars.md](../content-pillars.md)):
+
+- [ ] Every stat has a named source + year and a `## Data Source` block (Rule 1 applies to slides exactly as to scripts)
+- [ ] Slide 1 carries one idea and names the reward for swiping
+- [ ] Slide 2 stands alone with zero context (IG re-serves it to non-swipers)
+- [ ] The N-1 payload is self-contained enough to screenshot
+- [ ] No em dashes, no AI-speak, hashtag caps respected
+- [ ] No hollow bait anywhere ("save this," "follow for," "tag a friend") -- gated or open
+- [ ] Gated only: keyword matches the registry exactly, and a flow exists for it
+- [ ] LinkedIn variant: link is in the first comment, carries its `?src=` tag, and no keyword ask appears anywhere
+
+---
+
+## Cadence: superseded background
+
+*The 3/week recommendation below is superseded by the 5-carousel week above. The reasoning is kept because the format-vs-video logic still holds.*
+
+**The original recommendation: 3 carousels per week once ramped, added *alongside* the daily videos, not
 in place of them.** Roughly 2 evergreen tips + 1 news-repurpose (the "both lanes, evenly-ish"
 split). Ramp there over the first three weeks so the format and templates settle: **week 1 = 1,
 week 2 = 2, week 3+ = 3.** Then hold and let the data decide whether to push higher.

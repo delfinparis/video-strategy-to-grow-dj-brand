@@ -18,30 +18,53 @@ The two surfaces answer different questions and don't cannibalize. Both reinforc
 
 ---
 
-## Brand Goals (priority order)
+## The one thing
 
-1. **Kale Realty recruiting in Chicago** - primary, most valuable, drives D.J.'s compensation
-2. NAR relationship deepening
-3. Keeping It Real Podcast subscriber growth
-4. National thought leader reach
+> **D.J. Paris tells real estate agents exactly what to do and say to grow their business.**
 
-Every strategy decision is filtered through "does this serve #1?" first. The content-to-recruiting bridge is documented in [`docs/content-recruiting-integration.md`](docs/content-recruiting-integration.md) - read that before making any content strategy decision.
+Every pillar ladders under that promise. The "do and say" content (scripts, tools, prompts) is the promise; News and KIRP are the credibility that makes it believable; Broker Problems is the recruiting edge.
+
+## Brand Goals (reset 2026-07-21)
+
+The content machine is one funnel, not a list of competing priorities:
+
+```
+VALUE CONTENT -> REACH + FOLLOWERS -> ENGAGEMENT -> OFFER ("comment X for free Y")
+                                                        |
+                                        Chicago agent -> Kale recruiting lead
+                                        Everywhere else -> KIRP listener + tool user
+                                                        |
+                              NAR + INSTITUTIONAL RECOGNITION (byproduct, never optimized)
+```
+
+1. **Generate real leads via gated offers** that become Kale recruits (Chicago) or KIRP listeners and tool users (everywhere else)
+2. **Add value** to realtors who want the news or the tips
+3. **Reach, followers, and engagement** as the inputs that feed the offer
+4. **KIRP listener growth**
+5. **NAR and institutional recognition** -- a byproduct of running the above at volume, never a slot on the calendar
+
+National reach is an **input**, not a goal. The governing decision is [`docs/strategy/2026-07-21-goal-reset-and-gate-layer.md`](docs/strategy/2026-07-21-goal-reset-and-gate-layer.md) -- read it before making any content strategy decision, along with [`docs/content-pillars.md`](docs/content-pillars.md) for the pillar detail.
+
+**Why this changed:** the Apr-Jul 2026 pivot produced a reliable content machine and **zero** recruiting conversations, because no post in 90 days asked a viewer to raise a hand. See [`docs/analytics/2026-07-19-pivot-results.md`](docs/analytics/2026-07-19-pivot-results.md).
 
 ---
 
-## The Schedule
+## The Schedule (reset 2026-07-22)
 
-| Day | Primary slot | Fallback / substitute |
+**17 posts a week: 12 videos + 5 carousels. 8 gated, 9 open.** Pillar detail in [`docs/content-pillars.md`](docs/content-pillars.md).
+
+| Pillar | Weekly | Gate |
 |---|---|---|
-| **Mon** | KIR Podcast Promo (new episode) | - |
-| **Tue** | **Inside the Industry - News (NF)** | IS (synthesis) if news slow |
-| **Wed** | **Inside the Industry - News (NF)** or **The Playbook** | Whichever is timelier |
-| **Thu** | **Inside the Industry - News (NF)** | - |
-| **Fri** | **AI Tip of the Week → tapthis.co** | - |
-| **Sat** | **Inside the Industry - News (NF)** | IA (Access) when D.J. attended something notable |
-| _Sun_ | _Off_ | - |
+| **Value Giveaways** (3 "say this, not that" + 2 tool use-case + 1 prompt) | 6 | Gated, IG/FB |
+| **News / Inside the Industry** | 2 | Open |
+| **Broker Problems** | 2 | Open (comments mined for Chicago signals) |
+| **KIRP Promos** | 2 | Open |
+| Chicago Agent Spotlight | substitutes into a News/Broker slot | Open |
+| **Carousels** | 5 (2 gated, 3 open) | see [carousel standard](docs/series/carousel-standard.md) |
 
-**Weekly volume:** 6 posts, ~67% news-commentary focus.
+The fixed spine is **4 Giveaways + 2 KIRP**; the remaining slots flex between News, Broker Problems, and Spotlight. Every sixth week runs a **tool launch** (week 1) and an **event runway** (weeks 4-6) out of Giveaway slots.
+
+**Quality floor:** the 3-pass rigor is non-negotiable. If a week cannot clear 17 posts at that bar, ship fewer. **Minimum-viable week** on bad weeks: 2 News + 2 Giveaways.
 
 - **4 NF slots/week** minimum (Tue, Wed-when-news, Thu, Sat)
 - **1 KIR podcast promo/week** (Mon)

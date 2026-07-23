@@ -335,6 +335,31 @@ Reference creators to model: Steven Bartlett (Diary of a CEO), Ryan Serhant, Jef
 
 You can say *"I cover shifts like this weekly on the Keeping It Real Podcast"* or *"More from inside the industry on the Keeping It Real Podcast."* These are informational - they tell the reader where else to find D.J. - without asking them to do anything. That is fine.
 
+### The value-exchange gate exception (offer content only)
+
+Added 2026-07-21. Governing decision: [`docs/strategy/2026-07-21-goal-reset-and-gate-layer.md`](strategy/2026-07-21-goal-reset-and-gate-layer.md).
+
+There is one bounded exception to the engagement-ask ban, and it exists because the ban left the content machine with no way to convert a viewer into a lead. The exception is narrow on purpose. Read the scope before applying it.
+
+**A value-exchange gate is not an engagement ask.** "Comment YES if you agree" manufactures a hollow signal and stays banned everywhere. "Comment PROMPTS and I'll send you the exact prompt that writes your listing description" is the delivery mechanism for a real artifact the viewer asked for. The comment is how the thing gets delivered, not a favor to the channel. The first is bait. The second is a value exchange. Only the second is permitted, and only inside the scope below.
+
+**Where it is allowed.** Four content types, all of them offer content:
+
+- Use-case giveaway videos (one prompt or play, gated)
+- Tool-launch videos
+- Event promos (the registration link is the gated asset)
+- Gated offer carousels (2 of the 5 weekly carousels)
+
+**Where it stays banned, with no exception:**
+
+- **News walk-and-talks and KIRP promos.** Ungated on every platform, by D.J.'s decision. A serious industry take with "comment BRIEF below" attached cheapens the exact credibility that makes it work.
+- **LinkedIn, entirely.** No gates, no keyword asks, ever. LinkedIn downranks engagement bait explicitly, and its audience is the wrong one for this mechanic. The gate lives on Instagram and Facebook only.
+- **Hollow bait, on every platform and every content type.** "Comment YES," "double tap if," "save this," "tag a broker," "follow for more." The banned-closes table above is unchanged. The exception permits value-exchange delivery, not the farming the table forbids.
+
+**The permitted form.** A single spoken keyword ask, tied to a specific artifact, delivered by ManyChat auto-DM: *"Want the actual prompt? Comment LISTING and I'll send it to you."* The keyword is registered in [`data/keyword-registry.md`](../data/keyword-registry.md) and, on carousels, is passed to the person loading Loomly verbatim -- a reworded keyword silently destroys that post's leads.
+
+**The test.** Does the ask deliver something real that the viewer requested, on IG or FB, on one of the four offer types? Then it is a value exchange and it is allowed. Anything else -- a bare "comment below," anything on LinkedIn, anything on a news or podcast post -- is still an engagement ask and still banned.
+
 The test: does the phrase DIRECT the reader to take an action for your benefit, or INFORM them that more content exists? Informational is fine. Directive is banned.
 
 ---
@@ -889,7 +914,7 @@ Every new script must pass all of these before committing. If any one is "no," t
 
 - [ ] The close is a "Here's what you do now" action at the viewer's own life - not a question, not an engagement ask.
 - [ ] The action is executable in the next hour, not "someday."
-- [ ] Zero engagement asks across spoken script AND all platform captions (LinkedIn, Instagram, Facebook, TikTok, YouTube Shorts, X).
+- [ ] Zero engagement asks across spoken script AND all platform captions (LinkedIn, Instagram, Facebook, TikTok, YouTube Shorts). This checklist governs news walk-and-talks and KIRP promos, which stay ungated everywhere. Offer content (giveaway videos, tool launches, event promos, gated carousels) runs the value-exchange gate exception in Rule 4 instead -- gate on IG/FB only, never on LinkedIn.
 - [ ] Zero "follow me," "subscribe," "save this," "tag a broker," "let me know in the comments," or "what's your take" phrases.
 
 ### Length
