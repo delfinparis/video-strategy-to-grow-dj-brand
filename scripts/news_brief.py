@@ -702,7 +702,48 @@ def cadence_flags():
     else:
         flags.append("**Emotional lane: none logged.** Rule 10.7 wants one identity/permission post "
                      "roughly every 2 weeks. Tag it `lane: identity` so this counter starts working.")
+
+    flags.extend(carousel_take_flags(now))
     return flags
+
+
+CAROUSEL_TAKES_PER_WEEK = 3
+
+
+def carousel_take_flags(now):
+    """Carousel takes run their own budget: 3 a week at heat 3.5.
+
+    They do NOT consume the video friction slot above. Rule 9.2 caps heat 4-5 at
+    one a week; a 3.5 take is the 'defensible contrarian, cites a source, names
+    the wrong default' register, which the scale already treats as the default.
+    Counted separately so neither budget silently eats the other.
+    """
+    d = REPO_ROOT / "scripts" / "carousels"
+    if not d.exists():
+        return []
+    week_ago = now - timedelta(days=7)
+    used = 0
+    for p in d.glob("*.md"):
+        fm = _frontmatter(p)
+        if not fm or (fm.get("lane", "") or "").strip().lower() != "take":
+            continue
+        when = datetime.fromtimestamp(p.stat().st_mtime, tz=timezone.utc)
+        m = re.match(r"(\d{4})-(\d{2})-(\d{2})", fm.get("generated", "") or "")
+        if m:
+            try:
+                when = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)),
+                                tzinfo=timezone.utc)
+            except ValueError:
+                pass
+        if when >= week_ago:
+            used += 1
+
+    left = CAROUSEL_TAKES_PER_WEEK - used
+    if left > 0:
+        return [f"**Carousel takes: {used}/{CAROUSEL_TAKES_PER_WEEK} used.** {left} left this week "
+                "at heat 3.5. Tag them `lane: take`. These are separate from the video friction slot."]
+    return [f"**Carousel takes: {used}/{CAROUSEL_TAKES_PER_WEEK} used.** Budget spent. "
+            "Another take this week needs to displace one, not add to it."]
 
 
 # ---------------------------------------------------------------------------

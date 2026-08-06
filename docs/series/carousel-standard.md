@@ -69,6 +69,42 @@ every stat at carousel-build time, even one lifted from a script that already sh
 
 ---
 
+## The close, settled (2026-08-06)
+
+**D.J.'s ruling: never say "save this" or "follow for." Just post the tip. The CTA is
+"learn more at joinkale.com."**
+
+There is no CTA slide and no engagement ask anywhere in a carousel. Every rendered slide
+already carries `learn more at joinkale.com` in its footer next to the Kale logo, and that
+is the entire call to action. The last slide is just the takeaway: one line the agent can
+act on at their own business.
+
+This governs where it conflicts with anything below, and it is now enforced in three
+places: this standard, the `render_carousel.py` footer, and the cloud routine's prompt
+(which had been ordering the banned lines since before the 2026-07-21 reset).
+
+### Scoped by platform (council decision, 2026-08-06)
+
+The ban is absolute on hollow bait and absolute on LinkedIn. It does **not** kill the
+keyword gate on Instagram and Facebook, because that gate is the only carousel mechanic
+that has ever put a lead into Close, and the 2026-07-21 reset exists precisely because
+90 days of content asked nobody to raise a hand.
+
+| Platform | Asks | The CTA |
+|---|---|---|
+| **LinkedIn** | None, ever. No keyword, no "save," no "follow." LinkedIn downranks comment-bait and bans comment-to-DM automation | Tagged joinkale link in the first comment |
+| **Instagram / Facebook** | No hollow bait. The **2 gated decks** keep their ManyChat keyword | Keyword gate on the 2 gated decks; footer URL on the other 9 |
+
+Nine of the eleven weekly carousels carry zero asks of any kind. Two carry one keyword
+each, matched to that week's video offer, per [The 5-carousel week](#the-5-carousel-week-2026-07-22).
+
+**The footer URL is not clickable and never was.** It appears on slide 1 and the last
+slide only (on all nine it becomes wallpaper), and it is a brand impression, not a
+conversion path. The measurable link is the tagged one the renderer writes into
+`caption.txt`: `https://joinkale.com/?src=carousel-<slug>`. Use that in the LinkedIn first
+comment and anywhere else a link actually works, or the traffic lands in Close as
+untracked direct.
+
 ## Slide architecture
 
 Carousels are the 3-Act Spine expressed across slides instead of across 60 seconds. The
@@ -99,6 +135,85 @@ land at 6-8.
 - POV / relatable ("POV: the lead who ghosted you for 6 months just liked your story.")
 
 ---
+
+## Rendering the slides (the default path)
+
+The carousel file is the source of truth. **[`scripts/render_carousel.py`](../../scripts/render_carousel.py)
+turns it into upload-ready images** in one command, so a finished deck never sits as unrendered
+markdown waiting on a design pass:
+
+```bash
+python3 scripts/render_carousel.py scripts/carousels/NF-064-first-time-buyer-turned-forty-carousel.md --pdf
+python3 scripts/render_carousel.py <file> --theme light              # flip to the light scheme
+python3 scripts/render_carousel.py "scripts/carousels/*.md" --alternate --pdf   # rebuild everything
+```
+
+Output lands in `graphics/carousels/<carousel-slug>/`, matching the Drive layout:
+
+| File | What it is |
+|---|---|
+| `slide-01.png` ... `slide-NN.png` | The slides, 1080x1350 (4:5), the size Instagram and LinkedIn both want. Upload in filename order |
+| `caption.txt` | The LinkedIn caption, plain text, lifted from the file's caption block |
+| `<slug>.pdf` | Optional, `--pdf` only. The multi-page document for a LinkedIn carousel |
+| `<slug>.zip` | All slides in one download, for handing off |
+| `preview.html` | Contact sheet. Open it in a browser and read the deck before it goes to Loomly |
+
+### The two color schemes
+
+**Two carousels a day, one dark and one light.** Both run the same navy-and-accent
+design; only the background flips.
+
+| Theme | Background | Type | Kale logo |
+|---|---|---|---|
+| `dark` (default) | Navy `#16294D` | White headline, `#9BA9BE` body | White |
+| `light` | Off-white `#F6F4F0` | Navy headline, `#5A6577` body | Navy |
+
+Set it per deck with `theme: "light"` in frontmatter, override per run with `--theme`,
+or pass `--alternate` to flip dark/light across a batch automatically.
+
+The **accent** comes from the lane, not the theme: `news-repurpose` renders gold,
+`tactical-repurpose` and `evergreen` render coral. Each accent darkens on the light
+theme so it stays legible against off-white.
+
+### Emphasis, and the slide shapes the renderer knows
+
+- **`**bold**` in a headline or body line renders in the accent color.** That is how a
+  single word gets pulled out, the way `KNOW` and `LISTENING` are pulled out in the
+  reference decks. Use it once per slide at most.
+- **Slide 1** gets the series eyebrow, the headline, an accent rule, then the subhead.
+- **Slide 2** leads with an oversized quote mark instead of a counter, since it is the
+  standalone re-hook.
+- **Middle slides** carry a `03 / 08` counter and sit top-aligned.
+- **A short headline built around a number** (`21 percent.`, `$54,000`) renders as an
+  oversized accent data card automatically. No flag needed.
+- **The last slide** is eyebrowed `THE TAKEAWAY` and centered.
+- **Numbered lists** render with accent numerals. Write an item as
+  `**Ask at the door.** What does your current place not have?` to get a bold action
+  line with a lighter explainer under it.
+
+Every slide carries the same footer: `D.J. Paris` over `Keeping It Real Podcast` bottom
+left, the Kale logo over `learn more at joinkale.com` bottom right. Logos are pulled from
+`sales-workflow/brand/ads/`, so that repo needs to sit beside this one.
+
+**Why a script and not Magic Design:** the renderer types the copy straight out of the markdown.
+It cannot paraphrase, round, or re-word a sourced number, which is the Rule 1 failure mode that
+made "do not let AI author the deck" a rule in the first place. It also means a stat correction
+is a one-line markdown edit plus a re-run, not a redesign.
+
+**The look comes from the lane.** `lane: "news-repurpose"` renders the dark editorial theme
+(ink `#0B1220`, gold `#F2C94C`) that matches the Inside the Industry video graphics in
+[`graphics/insider-news-merger-take/`](../../graphics/insider-news-merger-take/README.md);
+`lane: "evergreen"` renders the light clean theme. Override per run with `--lane`.
+
+**What the renderer reads.** It parses the `## SLIDE N` blocks and their `**Headline:**`,
+`**Subhead:**`, `**Body:**`, `**Numbered list:**`, and `**Line 1 / Line 2:**` labels, exactly the
+Body format spec below. Slide headings that name a viewer-facing section (`THE GAP`, `THE FIX`)
+become the gold eyebrow; production labels (`HOOK`, `SAVEABLE RECAP`, `CLOSE`) never appear on a
+slide. Headline type auto-shrinks to fit, so copy is sized down, never cut. Write the file to the
+spec and it renders; no other prep needed.
+
+Everything below stays true for a deck someone wants to hand-build, or when a carousel needs
+imagery behind the text rather than the flat brand background.
 
 ## Building it in Canva
 
@@ -225,6 +340,9 @@ Claude builds the carousel; **Jennica inputs it into Loomly**. She is loading, n
 
 The block contains, in order:
 
+0. **The rendered slides** -- `graphics/carousels/<slug>/01.png` onward, built by
+   [`scripts/render_carousel.py`](../../scripts/render_carousel.py). Jennica uploads these in
+   filename order. She only needs the slide copy below when a deck is being hand-built in Canva instead.
 1. **Slide-by-slide copy** -- numbered, exact, paste-per-slide. (The Canva Bulk Create table above serves this.)
 2. **The caption**, per platform, final. No "pick one."
 3. **The hashtag block**, already capped per [caption-and-hashtag-strategy](../caption-and-hashtag-strategy.md).
@@ -239,6 +357,7 @@ The block contains, in order:
 
 Run before handing to Loomly. "Lighter than a walk-and-talk" never means sloppy (see the quality floor in [content-pillars.md](../content-pillars.md)):
 
+- [ ] Slides are rendered and the `preview.html` contact sheet has been read end to end
 - [ ] Every stat has a named source + year and a `## Data Source` block (Rule 1 applies to slides exactly as to scripts)
 - [ ] Slide 1 carries one idea and names the reward for swiping
 - [ ] Slide 2 stands alone with zero context (IG re-serves it to non-swipers)
