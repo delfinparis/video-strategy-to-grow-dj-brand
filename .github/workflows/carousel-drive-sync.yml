@@ -1,0 +1,57 @@
+name: Carousel slides to Drive
+
+# Rendered slides are committed by the carousel routines. This mirrors whatever
+# changed into Google Drive, where Jennica works.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "graphics/carousels/**"
+  workflow_dispatch:
+    inputs:
+      all:
+        description: "Sync every deck, not just changed ones"
+        type: boolean
+        default: false
+
+concurrency:
+  group: carousel-drive-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Need the previous commit to diff against.
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Drive client
+        run: pip install --quiet google-api-python-client google-auth
+
+      - name: Work out which decks changed
+        id: decks
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.all }}" = "true" ]; then
+            echo "args=--all" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # Unique deck folders touched by this push.
+          DECKS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'graphics/carousels/*/*' \
+            | cut -d/ -f1-3 | sort -u | tr '\n' ' ')
+          if [ -z "$DECKS" ]; then
+            echo "No deck folders changed."
+          fi
+          echo "args=$DECKS" >> "$GITHUB_OUTPUT"
+
+      - name: Sync to Drive
+        if: steps.decks.outputs.args != ''
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          DRIVE_CAROUSELS_FOLDER_ID: ${{ secrets.DRIVE_CAROUSELS_FOLDER_ID }}
+        run: python3 scripts/drive_sync.py ${{ steps.decks.outputs.args }}

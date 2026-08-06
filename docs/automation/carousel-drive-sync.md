@@ -2,6 +2,56 @@
 
 Rendered slides land in the repo. Jennica works out of Drive. This is the bridge.
 
+> **Built as a GitHub Action (2026-08-06).** Make.com was the first plan and it did not
+> survive contact: its GitHub app has no branch-level commit watcher. Every candidate
+> module turned out to be pull-request scoped, asking for a PR state and then a PR
+> number, and the carousel routines push straight to `main` without ever opening a
+> pull request. The Action below does the job with no third party in the path.
+> The Make scenario is kept at the bottom for reference only.
+
+## The Action
+
+[`.github/workflows/carousel-drive-sync.yml`](../../.github/workflows/carousel-drive-sync.yml)
+fires on any push to `main` touching `graphics/carousels/**`, works out which deck
+folders changed, and runs [`scripts/drive_sync.py`](../../scripts/drive_sync.py) on them.
+Each deck becomes a folder of the same name inside the Drive `carousels` folder.
+
+Uploads are idempotent. A file already in the target folder is updated in place rather
+than duplicated, which matters because decks get re-rendered whenever their copy changes.
+
+Run it by hand from the Actions tab any time, and tick **Sync every deck** to push the
+whole back catalogue rather than just what changed.
+
+### One-time setup
+
+Two repo secrets, and one sharing step that is easy to forget.
+
+1. **Create a service account.** In Google Cloud console, pick or create a project,
+   enable the **Google Drive API**, then create a service account. No roles needed; it
+   only ever touches folders explicitly shared with it.
+2. **Create a JSON key** for that service account and download it.
+3. **Share the Drive folder with the service account.** Open `My Drive > carousels`,
+   Share, paste the service account's email (it looks like
+   `something@project-id.iam.gserviceaccount.com`), give it **Editor**. Without this the
+   Action authenticates fine and then reports the folder does not exist, because a
+   service account sees nothing by default.
+4. **Add the repo secrets** under Settings > Secrets and variables > Actions:
+
+   | Secret | Value |
+   |---|---|
+   | `GOOGLE_SERVICE_ACCOUNT_JSON` | The entire contents of the JSON key file |
+   | `DRIVE_CAROUSELS_FOLDER_ID` | `14ZkFmPVWjZL0cJGNM3cfiFwanomVKVQW` |
+
+5. **Test it.** Actions tab, "Carousel slides to Drive", Run workflow, tick "Sync every
+   deck". All 16 decks should appear in Drive.
+
+Until those secrets exist the Action runs and fails at the last step. Nothing else
+breaks; the routines and the renderer do not depend on it.
+
+---
+
+## Reference: the Make.com approach that did not work
+
 ## Why Make.com and not the routine itself
 
 The Google Drive connector can upload a file, but only by being handed the file's
