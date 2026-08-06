@@ -77,3 +77,5 @@ For Coffee Talk, this stacks on top of the stat registry in
 | "A top producer told our coach her family kept losing to her calendar." | Breakthrough CTA / Julia Linquist 2026-08-05 |
 | "Agents one to three years in. There's a kind of stuck nobody warned you about." | Breakthrough CTA / Emma stuck 2026-08-05 |
 | Income goal instead of production volume (write the income number you need, count the deals it takes) | Breakthrough CTA / Julia Linquist 2026-08-05 |
+| "This agent has 200 YouTube subscribers and it's already one of his best lead sources" (Data Reveal -- tiny channel, real clients) | KIR / Sam Burke 2026-08-05 |
+| Cold calling with a buy box: write the specific neighborhood/price range/property type you'd want to own, find those owners, call and ask if they'd consider selling | KIR / Sam Burke 2026-08-05 |
