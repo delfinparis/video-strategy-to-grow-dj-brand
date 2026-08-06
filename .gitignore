@@ -14,3 +14,8 @@ scripts/inside-the-industry/_drafts/
 
 # Generated growth-digest state (not source)
 data/growth-digests/.seen-content.json
+
+# Carousel slide zips: byte-for-byte duplicates of the PNGs beside them, and
+# rebuilt in seconds by scripts/render_carousel.py. The PNGs and PDFs are
+# tracked because Jennica and the other Macs need them without a render step.
+graphics/carousels/*/*.zip
