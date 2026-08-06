@@ -10,11 +10,19 @@ Uploads are idempotent: a file that already exists by name in the target folder
 is updated in place rather than duplicated, because decks get re-rendered
 whenever their copy changes.
 
-Auth is a Google service account. The `carousels` Drive folder has to be shared
-with the service account's email as Editor, or it cannot see the folder at all.
+Auth is an OAuth refresh token, acting as D.J. himself, NOT a service account.
+Service accounts have no Drive storage quota of their own, so anything they
+upload to a personal My Drive is rejected with storageQuotaExceeded. Google's
+workarounds for that are shared drives or domain-wide delegation, and both need
+Google Workspace. This is a personal Gmail account, so the script authenticates
+as the user and the files land against his own quota.
+
+Get the token once with scripts/drive_auth.py.
 
 Env:
-    GOOGLE_SERVICE_ACCOUNT_JSON   the service account key, as JSON
+    GOOGLE_OAUTH_CLIENT_ID
+    GOOGLE_OAUTH_CLIENT_SECRET
+    GOOGLE_OAUTH_REFRESH_TOKEN
     DRIVE_CAROUSELS_FOLDER_ID     the parent folder id in Drive
 
 Usage:
@@ -27,7 +35,9 @@ import mimetypes
 import os
 import sys
 
-from google.oauth2 import service_account
+from google.auth.transport.requests import Request
+
+from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
@@ -41,34 +51,43 @@ UPLOAD_EXT = {".png", ".pdf", ".txt"}
 
 
 def drive_client():
-    raw = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON", "").strip()
-    if not raw:
-        sys.exit("GOOGLE_SERVICE_ACCOUNT_JSON is not set")
-
-    # Diagnose a bad secret without ever printing it. A truncated or partial
-    # paste is the usual cause, and the raw JSONDecodeError says nothing useful.
-    try:
-        info = json.loads(raw)
-    except json.JSONDecodeError as e:
-        sys.exit(
-            "GOOGLE_SERVICE_ACCOUNT_JSON is not valid JSON "
-            f"({e.msg} at char {e.pos}). Length is {len(raw)} chars and it starts "
-            f"with {raw[:1]!r}. A real key is ~2300 chars and starts with '{{'. "
-            "Re-set it straight from the file so nothing is lost in a paste:\n"
-            "  gh secret set GOOGLE_SERVICE_ACCOUNT_JSON < /path/to/key.json"
+    """Build a Drive client from a stored refresh token."""
+    missing = [
+        k
+        for k in (
+            "GOOGLE_OAUTH_CLIENT_ID",
+            "GOOGLE_OAUTH_CLIENT_SECRET",
+            "GOOGLE_OAUTH_REFRESH_TOKEN",
         )
-
-    if not isinstance(info, dict) or info.get("type") != "service_account":
-        sys.exit(
-            "GOOGLE_SERVICE_ACCOUNT_JSON parsed but is not a service account key. "
-            "Download a fresh JSON key from the service account's Keys tab."
-        )
-    missing = [k for k in ("client_email", "private_key", "token_uri") if not info.get(k)]
+        if not os.environ.get(k, "").strip()
+    ]
     if missing:
-        sys.exit(f"Service account key is missing required field(s): {', '.join(missing)}")
+        sys.exit(
+            "Missing OAuth secret(s): "
+            + ", ".join(missing)
+            + "\nRun scripts/drive_auth.py once to mint them, then add them as repo "
+            "secrets. See docs/automation/carousel-drive-sync.md."
+        )
 
-    print(f"Authenticating as {info['client_email']}")
-    creds = service_account.Credentials.from_service_account_info(info, scopes=SCOPES)
+    creds = Credentials(
+        None,
+        refresh_token=os.environ["GOOGLE_OAUTH_REFRESH_TOKEN"].strip(),
+        client_id=os.environ["GOOGLE_OAUTH_CLIENT_ID"].strip(),
+        client_secret=os.environ["GOOGLE_OAUTH_CLIENT_SECRET"].strip(),
+        token_uri="https://oauth2.googleapis.com/token",
+        scopes=SCOPES,
+    )
+    try:
+        creds.refresh(Request())
+    except Exception as e:
+        sys.exit(
+            f"Could not refresh the OAuth token: {e}\n"
+            "If this says invalid_grant, the refresh token has been revoked or "
+            "expired. That happens when the OAuth consent screen is still in "
+            "Testing status, where Google expires refresh tokens after 7 days. "
+            "Set the consent screen to In production, then re-run "
+            "scripts/drive_auth.py and update the GOOGLE_OAUTH_REFRESH_TOKEN secret."
+        )
     return build("drive", "v3", credentials=creds, cache_discovery=False)
 
 

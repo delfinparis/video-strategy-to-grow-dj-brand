@@ -22,31 +22,63 @@ than duplicated, which matters because decks get re-rendered whenever their copy
 Run it by hand from the Actions tab any time, and tick **Sync every deck** to push the
 whole back catalogue rather than just what changed.
 
+### Why OAuth and not a service account
+
+The first attempt used a service account and got as far as authenticating and
+opening the folder before Drive rejected the upload:
+
+> Service Accounts do not have storage quota.
+
+A service account owns no Drive storage, so it cannot put a file in a personal My
+Drive. Google's two sanctioned workarounds, shared drives and domain-wide delegation,
+both require Google Workspace. `delfinparis@gmail.com` is a personal account, so the
+sync authenticates **as D.J.** with a refresh token instead, and the files land against
+his own quota. The service account and its key are dead; delete them if you like.
+
 ### One-time setup
 
-Two repo secrets, and one sharing step that is easy to forget.
+**1. OAuth consent screen** (Google Cloud console > APIs & Services > OAuth consent
+screen), in the `carousel-drive-sync` project:
 
-1. **Create a service account.** In Google Cloud console, pick or create a project,
-   enable the **Google Drive API**, then create a service account. No roles needed; it
-   only ever touches folders explicitly shared with it.
-2. **Create a JSON key** for that service account and download it.
-3. **Share the Drive folder with the service account.** Open `My Drive > carousels`,
-   Share, paste the service account's email (it looks like
-   `something@project-id.iam.gserviceaccount.com`), give it **Editor**. Without this the
-   Action authenticates fine and then reports the folder does not exist, because a
-   service account sees nothing by default.
-4. **Add the repo secrets** under Settings > Secrets and variables > Actions:
+- User type **External**, add `delfinparis@gmail.com` as a test user.
+- Then set **Publishing status to "In production"**. This one matters. While the app
+  sits in *Testing*, Google expires refresh tokens after **7 days**, and the sync would
+  quietly stop working a week later. Publishing shows an "unverified app" warning at
+  consent, which is expected for a personal script: click Advanced, then continue.
 
-   | Secret | Value |
-   |---|---|
-   | `GOOGLE_SERVICE_ACCOUNT_JSON` | The entire contents of the JSON key file |
-   | `DRIVE_CAROUSELS_FOLDER_ID` | `14ZkFmPVWjZL0cJGNM3cfiFwanomVKVQW` |
+**2. OAuth client** (APIs & Services > Credentials > Create credentials > OAuth client
+ID): application type **Desktop app**. Download the JSON.
 
-5. **Test it.** Actions tab, "Carousel slides to Drive", Run workflow, tick "Sync every
-   deck". All 16 decks should appear in Drive.
+**3. Mint the token**, once, on the Mac:
 
-Until those secrets exist the Action runs and fails at the last step. Nothing else
-breaks; the routines and the renderer do not depend on it.
+```bash
+pip install google-auth-oauthlib
+python3 scripts/drive_auth.py ~/Downloads/client_secret_*.json
+```
+
+A browser opens, you approve, and it prints three values.
+
+**4. Add four repo secrets** at
+[Settings > Secrets and variables > Actions](https://github.com/delfinparis/video-strategy-to-grow-dj-brand/settings/secrets/actions):
+
+| Secret | Value |
+|---|---|
+| `GOOGLE_OAUTH_CLIENT_ID` | printed by the script |
+| `GOOGLE_OAUTH_CLIENT_SECRET` | printed by the script |
+| `GOOGLE_OAUTH_REFRESH_TOKEN` | printed by the script |
+| `DRIVE_CAROUSELS_FOLDER_ID` | `14ZkFmPVWjZL0cJGNM3cfiFwanomVKVQW` (already set) |
+
+**5. Test.** Actions tab > "Carousel slides to Drive" > Run workflow, tick **Sync every
+deck**. All 16 decks should appear in Drive.
+
+The refresh token is a live credential with full access to D.J.'s Drive. It goes into
+GitHub secrets and nowhere else, never into a file in this repo.
+
+### If it breaks later
+
+`invalid_grant` on refresh means the token was revoked or expired. The usual cause is
+the consent screen slipping back to Testing status. Fix that, re-run `drive_auth.py`,
+update the `GOOGLE_OAUTH_REFRESH_TOKEN` secret.
 
 ---
 
