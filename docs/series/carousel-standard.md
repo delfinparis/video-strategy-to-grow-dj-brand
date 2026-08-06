@@ -83,12 +83,27 @@ This governs where it conflicts with anything below, and it is now enforced in t
 places: this standard, the `render_carousel.py` footer, and the cloud routine's prompt
 (which had been ordering the banned lines since before the 2026-07-21 reset).
 
-> **Open question this raises:** the two *gated* carousels a week below still close on a
-> ManyChat keyword ask ("comment SCRIPTS and I'll send it"). That is a keyword gate, not
-> hollow bait, so the reset permitted it. But it is still an engagement ask, and it is the
-> only carousel mechanic that puts leads into Close. D.J. has not said whether the gates
-> die with the rest of the asks. Until he does, treat gated carousels as unchanged and
-> raise it before building one.
+### Scoped by platform (council decision, 2026-08-06)
+
+The ban is absolute on hollow bait and absolute on LinkedIn. It does **not** kill the
+keyword gate on Instagram and Facebook, because that gate is the only carousel mechanic
+that has ever put a lead into Close, and the 2026-07-21 reset exists precisely because
+90 days of content asked nobody to raise a hand.
+
+| Platform | Asks | The CTA |
+|---|---|---|
+| **LinkedIn** | None, ever. No keyword, no "save," no "follow." LinkedIn downranks comment-bait and bans comment-to-DM automation | Tagged joinkale link in the first comment |
+| **Instagram / Facebook** | No hollow bait. The **2 gated decks** keep their ManyChat keyword | Keyword gate on the 2 gated decks; footer URL on the other 9 |
+
+Nine of the eleven weekly carousels carry zero asks of any kind. Two carry one keyword
+each, matched to that week's video offer, per [The 5-carousel week](#the-5-carousel-week-2026-07-22).
+
+**The footer URL is not clickable and never was.** It appears on slide 1 and the last
+slide only (on all nine it becomes wallpaper), and it is a brand impression, not a
+conversion path. The measurable link is the tagged one the renderer writes into
+`caption.txt`: `https://joinkale.com/?src=carousel-<slug>`. Use that in the LinkedIn first
+comment and anywhere else a link actually works, or the traffic lands in Close as
+untracked direct.
 
 ## Slide architecture
 
