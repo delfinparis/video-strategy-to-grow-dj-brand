@@ -44,9 +44,31 @@ def drive_client():
     raw = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON", "").strip()
     if not raw:
         sys.exit("GOOGLE_SERVICE_ACCOUNT_JSON is not set")
-    creds = service_account.Credentials.from_service_account_info(
-        json.loads(raw), scopes=SCOPES
-    )
+
+    # Diagnose a bad secret without ever printing it. A truncated or partial
+    # paste is the usual cause, and the raw JSONDecodeError says nothing useful.
+    try:
+        info = json.loads(raw)
+    except json.JSONDecodeError as e:
+        sys.exit(
+            "GOOGLE_SERVICE_ACCOUNT_JSON is not valid JSON "
+            f"({e.msg} at char {e.pos}). Length is {len(raw)} chars and it starts "
+            f"with {raw[:1]!r}. A real key is ~2300 chars and starts with '{{'. "
+            "Re-set it straight from the file so nothing is lost in a paste:\n"
+            "  gh secret set GOOGLE_SERVICE_ACCOUNT_JSON < /path/to/key.json"
+        )
+
+    if not isinstance(info, dict) or info.get("type") != "service_account":
+        sys.exit(
+            "GOOGLE_SERVICE_ACCOUNT_JSON parsed but is not a service account key. "
+            "Download a fresh JSON key from the service account's Keys tab."
+        )
+    missing = [k for k in ("client_email", "private_key", "token_uri") if not info.get(k)]
+    if missing:
+        sys.exit(f"Service account key is missing required field(s): {', '.join(missing)}")
+
+    print(f"Authenticating as {info['client_email']}")
+    creds = service_account.Credentials.from_service_account_info(info, scopes=SCOPES)
     return build("drive", "v3", credentials=creds, cache_discovery=False)
 
 
@@ -102,6 +124,25 @@ def upload(svc, folder_id, path):
     return "created"
 
 
+def check_parent(svc, parent_id):
+    """Confirm the service account can actually see the target folder.
+
+    A service account sees nothing in Drive until the folder is explicitly
+    shared with its email, and the API's 404 for that case reads identically to
+    a wrong folder id. Say which it is.
+    """
+    try:
+        f = svc.files().get(fileId=parent_id, fields="id, name", supportsAllDrives=True).execute()
+        print(f"Target folder: {f['name']}")
+    except Exception as e:
+        sys.exit(
+            f"Cannot open Drive folder {parent_id}: {e}\n"
+            "If this is a 404, the folder is almost certainly not shared with the "
+            "service account. Open the folder in Drive, Share, add the "
+            "client_email printed above as Editor."
+        )
+
+
 def sync_deck(svc, parent_id, deck_dir):
     slug = os.path.basename(deck_dir.rstrip("/"))
     files = sorted(
@@ -142,6 +183,7 @@ def main():
         return
 
     svc = drive_client()
+    check_parent(svc, parent_id)
     print(f"Syncing {len(decks)} deck(s) to Drive:")
     for deck in decks:
         sync_deck(svc, parent_id, deck)
