@@ -18,7 +18,9 @@ from PIL import Image, ImageDraw, ImageFont
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONT_DIR = os.path.join(BASE_DIR, "assets", "fonts")
-LOGO_DIR = os.path.join(os.path.dirname(BASE_DIR), "sales-workflow", "brand", "ads")
+# Vendored, not read from the sibling sales-workflow repo. Cloud routines clone
+# this repo alone, so anything the renderer needs has to live inside it.
+LOGO_DIR = os.path.join(BASE_DIR, "assets", "brand")
 
 WIDTH, HEIGHT = 1080, 1350
 PAD_X, PAD_TOP, PAD_BOTTOM = 80, 88, 76

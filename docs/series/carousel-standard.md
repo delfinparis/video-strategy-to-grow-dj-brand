@@ -193,7 +193,8 @@ theme so it stays legible against off-white.
 
 Every slide carries the same footer: `D.J. Paris` over `Keeping It Real Podcast` bottom
 left, the Kale logo over `learn more at joinkale.com` bottom right. Logos are pulled from
-`sales-workflow/brand/ads/`, so that repo needs to sit beside this one.
+`assets/brand/`, alongside the fonts in `assets/fonts/`. Everything the renderer needs is
+vendored inside this repo, because the cloud routines clone this repo alone.
 
 **Why a script and not Magic Design:** the renderer types the copy straight out of the markdown.
 It cannot paraphrase, round, or re-word a sourced number, which is the Rule 1 failure mode that
