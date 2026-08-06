@@ -48,6 +48,9 @@ ACCENTS = {
 BYLINE = "D.J. Paris"
 SUB_BYLINE = "Keeping It Real Podcast"
 KALE_URL = "learn more at joinkale.com"
+# Podcast decks exist to grow the Keeping It Real audience, not to book Kale
+# appointments, so they carry the show's address instead.
+POD_URL = "keepingitrealpod.com"
 
 _FONT_CACHE = {}
 
@@ -84,34 +87,51 @@ def run_width(draw, runs, fnt):
     return sum(draw.textlength(text, font=fnt) for text, _ in runs)
 
 
-def wrap_runs(draw, runs, fnt, max_w):
-    """Word-wrap colored runs. Returns a list of lines, each a list of runs.
+def _tokenize(runs):
+    """Flatten colored runs into (word, color, space_before) tokens.
 
-    Runs are (text, color) pairs, so a single accent word inside a headline
-    stays a single word and wraps with the rest of the line.
+    space_before has to be tracked explicitly. '**marketing**.' arrives as two
+    runs and the trailing period must stay welded to the accent word, not drift
+    off behind a space.
     """
-    words = []
+    tokens = []
     for text, color in runs:
-        for i, w in enumerate(text.split()):
-            words.append((w, color))
+        if not text:
+            continue
+        leading_space = text[:1].isspace()
+        for i, word in enumerate(text.split()):
+            space = True if i else (leading_space and bool(tokens))
+            tokens.append((word, color, space))
+    return tokens
+
+
+def _line_text(line):
+    out = ""
+    for word, _, space in line:
+        out += (" " if space and out else "") + word
+    return out
+
+
+def wrap_runs(draw, runs, fnt, max_w):
+    """Word-wrap colored runs. Returns a list of lines, each a list of tokens."""
     lines, line = [], []
-    for word, color in words:
-        trial = line + [(word, color)]
-        text = " ".join(w for w, _ in trial)
-        if draw.textlength(text, font=fnt) <= max_w or not line:
+    for token in _tokenize(runs):
+        trial = line + [token]
+        if draw.textlength(_line_text(trial), font=fnt) <= max_w or not line:
             line = trial
         else:
             lines.append(line)
-            line = [(word, color)]
+            # First token on a new line never carries a leading space.
+            line = [(token[0], token[1], False)]
     if line:
         lines.append(line)
     return lines
 
 
 def draw_runs_line(draw, x, y, line, fnt, default):
-    """Draw one wrapped line, advancing per run so colors land correctly."""
-    for i, (word, color) in enumerate(line):
-        text = word if i == 0 else " " + word
+    """Draw one wrapped line, advancing per token so colors land correctly."""
+    for i, (word, color, space) in enumerate(line):
+        text = (" " if space and i else "") + word
         draw.text((x, y), text, font=fnt, fill=color or default)
         x += draw.textlength(text, font=fnt)
 
@@ -145,6 +165,36 @@ def eyebrow_for(index, total, series_mark):
     return f"{index + 1:02d} / {total:02d}"
 
 
+def circular_avatar(path, size, ring=None, ring_w=0):
+    """Square-crop a guest headshot from the centre and mask it to a circle.
+
+    Podcast headshots come in every aspect ratio, so the crop is centred on the
+    upper-middle of the frame, where a face usually sits, rather than dead
+    centre.
+    """
+    src = Image.open(path).convert("RGB")
+    side = min(src.width, src.height)
+    left = (src.width - side) // 2
+    top = int((src.height - side) * 0.35)
+    src = src.crop((left, top, left + side, top + side)).resize(
+        (size, size), Image.Resampling.LANCZOS
+    )
+
+    mask = Image.new("L", (size * 4, size * 4), 0)
+    ImageDraw.Draw(mask).ellipse([0, 0, size * 4 - 1, size * 4 - 1], fill=255)
+    mask = mask.resize((size, size), Image.Resampling.LANCZOS)
+
+    if not ring_w:
+        return src, mask
+
+    total = size + ring_w * 2
+    plate = Image.new("RGB", (total, total), ring)
+    plate.paste(src, (ring_w, ring_w), mask)
+    outer = Image.new("L", (total * 4, total * 4), 0)
+    ImageDraw.Draw(outer).ellipse([0, 0, total * 4 - 1, total * 4 - 1], fill=255)
+    return plate, outer.resize((total, total), Image.Resampling.LANCZOS)
+
+
 def load_logo(theme, height):
     path = os.path.join(LOGO_DIR, theme["logo"])
     logo = Image.open(path).convert("RGBA")
@@ -152,7 +202,8 @@ def load_logo(theme, height):
     return logo.resize((w, height), Image.Resampling.LANCZOS)
 
 
-def build_blocks(draw, slide, index, total, theme, accent, series_mark, sizes, s):
+def build_blocks(draw, slide, index, total, theme, accent, series_mark, sizes, s,
+                 img=None, photo=None):
     """Measure every block on the slide. Returns (blocks, total_height).
 
     A block is (height, draw_fn). draw_fn takes the y it should start at, so
@@ -168,6 +219,21 @@ def build_blocks(draw, slide, index, total, theme, accent, series_mark, sizes, s
     col = (WIDTH - PAD_X * 2) * s
     sub_col = (860 if centered else 640) * s
     blocks = []
+
+    # A guest headshot leads the hook and the takeaway on podcast decks. It is
+    # the only image in the system, so it does the work a pattern interrupt does
+    # on video: it stops a feed of flat type.
+    if photo and (is_hook or is_close):
+        d = int(180 * s)
+        ring = int(4 * s)
+
+        def draw_avatar(y, d=d, ring=ring):
+            if img is None:
+                return
+            plate, mask = circular_avatar(photo, d, ring=accent, ring_w=ring)
+            img.paste(plate, (int(x), int(y)), mask)
+
+        blocks.append((d + ring * 2 + int(34 * s), draw_avatar))
 
     if is_second:
         # The re-hook slide leads with a quote mark instead of a counter.
@@ -284,7 +350,7 @@ def build_items(draw, slide, theme, accent, sizes, s, x):
     return int(height), draw_items
 
 
-def draw_footer(draw, img, theme, s, show_url):
+def draw_footer(draw, img, theme, s, show_url, cta=KALE_URL):
     """Byline and logo carry the brand on every slide. The URL is the call to
     action, so it appears only on the first and last slide. Repeated on all nine
     it stops being read at all."""
@@ -296,8 +362,8 @@ def draw_footer(draw, img, theme, s, show_url):
     right = (WIDTH - PAD_X) * s
     if show_url:
         u_f = font("Medium", 22 * s)
-        uw = draw.textlength(KALE_URL, font=u_f)
-        draw.text((right - uw, y - 28 * s), KALE_URL, font=u_f, fill=theme["body"])
+        uw = draw.textlength(cta, font=u_f)
+        draw.text((right - uw, y - 28 * s), cta, font=u_f, fill=theme["body"])
         logo_y = y - 92 * s
     else:
         logo_y = y - 62 * s
@@ -318,7 +384,7 @@ class HookTooLong(Exception):
 HOOK_MAX_LINES = 5
 
 
-def count_headline_lines(slide, index, total, theme, accent, series_mark):
+def count_headline_lines(slide, index, total, theme, accent, series_mark, photo=None):
     """Wrap slide 1's headline at its final size and count the lines."""
     s = SUPERSAMPLE
     probe = Image.new("RGB", (1, 1))
@@ -332,7 +398,7 @@ def count_headline_lines(slide, index, total, theme, accent, series_mark):
     avail = (HEIGHT - PAD_TOP - PAD_BOTTOM - 110) * s
     while True:
         _, height = build_blocks(
-            draw, slide, index, total, theme, accent, series_mark, sizes, s
+            draw, slide, index, total, theme, accent, series_mark, sizes, s, None, photo
         )
         if height <= avail or sizes["headline"] <= 34 * s:
             break
@@ -343,7 +409,7 @@ def count_headline_lines(slide, index, total, theme, accent, series_mark):
     return len(wrap_runs(draw, runs, f, (WIDTH - PAD_X * 2) * s))
 
 
-def render_slide(slide, index, total, theme, accent, series_mark):
+def render_slide(slide, index, total, theme, accent, series_mark, photo=None, cta=KALE_URL):
     s = SUPERSAMPLE
     img = Image.new("RGB", (WIDTH * s, HEIGHT * s), theme["bg"])
     draw = ImageDraw.Draw(img)
@@ -375,7 +441,8 @@ def render_slide(slide, index, total, theme, accent, series_mark):
     for key, floor in (("headline", 34 * s), ("sub", 24 * s)):
         while True:
             blocks, height = build_blocks(
-                draw, slide, index, total, theme, accent, series_mark, sizes, s
+                draw, slide, index, total, theme, accent, series_mark, sizes, s,
+                img, photo
             )
             if height <= avail or sizes[key] <= floor:
                 break
@@ -385,12 +452,12 @@ def render_slide(slide, index, total, theme, accent, series_mark):
                 sizes["item_sub"] = max(sizes["item_sub"] - 2 * s, 20 * s)
 
     blocks, height = build_blocks(
-        draw, slide, index, total, theme, accent, series_mark, sizes, s
+        draw, slide, index, total, theme, accent, series_mark, sizes, s, img, photo
     )
     y = top + max((avail - height) // 2, 0) if centered else top
     for h, fn in blocks:
         fn(y)
         y += h
 
-    draw_footer(draw, img, theme, s, show_url=(is_hook or is_close))
+    draw_footer(draw, img, theme, s, show_url=(is_hook or is_close), cta=cta)
     return img.resize((WIDTH, HEIGHT), Image.Resampling.LANCZOS)

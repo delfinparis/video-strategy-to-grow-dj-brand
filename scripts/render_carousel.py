@@ -38,6 +38,8 @@ import zipfile
 from carousel_render import (
     ACCENTS,
     BYLINE,
+    KALE_URL,
+    POD_URL,
     HOOK_MAX_LINES,
     THEMES,
     HookTooLong,
@@ -50,12 +52,16 @@ OUT_ROOT = os.path.join(BASE_DIR, "graphics", "carousels")
 
 LANE_ACCENT = {
     "news-repurpose": "gold",
+    "take": "gold",
     "tactical-repurpose": "coral",
     "evergreen": "coral",
+    "podcast": "coral",
 }
 
 LANE_MARK = {
     "news-repurpose": "Inside the Industry",
+    "podcast": "Keeping It Real",
+    "take": "Inside the Industry",
 }
 
 # Headings that name the slide's production role rather than viewer-facing copy.
@@ -282,13 +288,23 @@ def render(md_path, theme_override=None, want_pdf=False, allow_long_hooks=False)
         theme_name = "dark"
     theme = THEMES[theme_name]
     accent = ACCENTS[LANE_ACCENT.get(lane, "coral")][theme_name]
-    series_mark = LANE_MARK.get(lane, BYLINE)
+    series_mark = (meta.get("series_mark", "") or "").strip() or LANE_MARK.get(lane, BYLINE)
+    cta = POD_URL if lane == "podcast" else KALE_URL
+
+    # A KIRP deck names its guest headshot in frontmatter. Missing file is not
+    # fatal: the deck renders as type, which is what non-podcast decks do anyway.
+    photo = (meta.get("guest_photo", "") or "").strip()
+    if photo:
+        photo = photo if os.path.isabs(photo) else os.path.join(BASE_DIR, photo)
+        if not os.path.exists(photo):
+            print(f"  WARNING: guest_photo not found, rendering without it: {photo}")
+            photo = ""
 
     slug = os.path.splitext(os.path.basename(md_path))[0]
 
     # Slide 1 carries ~80% of the weight. If the hook needs more than five lines
     # it is not a hook, and shrinking the type only hides that.
-    lines = count_headline_lines(slides[0], 0, len(slides), theme, accent, series_mark)
+    lines = count_headline_lines(slides[0], 0, len(slides), theme, accent, series_mark, photo or None)
     if lines > HOOK_MAX_LINES:
         message = (
             f"slide 1 hook wraps to {lines} lines (max {HOOK_MAX_LINES}). "
@@ -303,7 +319,7 @@ def render(md_path, theme_override=None, want_pdf=False, allow_long_hooks=False)
 
     images, pngs = [], []
     for i, slide in enumerate(slides):
-        img = render_slide(slide, i, len(slides), theme, accent, series_mark)
+        img = render_slide(slide, i, len(slides), theme, accent, series_mark, photo or None, cta)
         png_path = os.path.join(out_dir, f"slide-{i + 1:02d}.png")
         img.save(png_path, "PNG", optimize=True)
         images.append(img)
