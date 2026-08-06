@@ -23,10 +23,10 @@ Cadence note: companion piece to the NF-060 carousel. Space a few posts apart so
 ## SLIDE 1 -- HOOK (carries ~80% of the weight)
 
 **Headline (large, top third):**
-Before you take another listing off the MLS, there's one line in NAR's new broker guidance you need to read.
+One line in NAR's new **broker guidance**.
 
 **Subhead (smaller, below):**
-It landed in my inbox this week. Most agents will never open it.
+Read it before you take another listing off the MLS. Most agents never will.
 
 ---
 

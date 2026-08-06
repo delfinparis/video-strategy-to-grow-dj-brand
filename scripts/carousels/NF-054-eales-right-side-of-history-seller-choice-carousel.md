@@ -21,10 +21,10 @@ Canva-ready copy below. One slide per block. Drop straight into a LinkedIn docum
 ## SLIDE 1 -- HOOK (carries ~80% of the weight)
 
 **Headline (large, top third):**
-The CEO of Realtor.com just told agents who push private listings they're on the wrong side of history.
+Realtor.com's CEO just called out **private listings**.
 
 **Subhead (smaller, below):**
-He's right. But one word in his argument gives away his real motive.
+Damian Eales said agents pushing them are on the wrong side of history. He's right, and one word gives away his real motive.
 
 ---
 

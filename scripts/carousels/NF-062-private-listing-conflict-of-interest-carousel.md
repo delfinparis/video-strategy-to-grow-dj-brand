@@ -23,10 +23,10 @@ Cadence note: companion piece to the NF-061 carousel. Space a few posts apart so
 ## SLIDE 1 -- HOOK (carries ~80% of the weight)
 
 **Headline (large, top third):**
-Almost every reason you've been given to pull a listing off the MLS was written by someone who makes money when you do.
+Only **two honest reasons** exist to go off-MLS.
 
 **Subhead (smaller, below):**
-There are two honest reasons to sell a home in private. Here's both, and why the rest is a story your brokerage needs you to believe.
+Almost every other reason was written by someone who makes money when you do.
 
 ---
 

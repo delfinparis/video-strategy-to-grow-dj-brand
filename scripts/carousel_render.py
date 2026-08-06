@@ -53,6 +53,7 @@ KALE_URL = "learn more at joinkale.com"
 # Podcast decks exist to grow the Keeping It Real audience, not to book Kale
 # appointments, so they carry the show's address instead.
 POD_URL = "keepingitrealpod.com"
+POD_WORDMARK = "KEEPING IT REAL"
 
 _FONT_CACHE = {}
 
@@ -97,13 +98,18 @@ def _tokenize(runs):
     off behind a space.
     """
     tokens = []
+    pending = False  # a space was seen at the seam between two runs
     for text, color in runs:
         if not text:
             continue
-        leading_space = text[:1].isspace()
+        if text[:1].isspace():
+            pending = True
         for i, word in enumerate(text.split()):
-            space = True if i else (leading_space and bool(tokens))
+            space = True if i else (pending and bool(tokens))
             tokens.append((word, color, space))
+            pending = False
+        if text[-1:].isspace():
+            pending = True
     return tokens
 
 
@@ -352,10 +358,16 @@ def build_items(draw, slide, theme, accent, sizes, s, x):
     return int(height), draw_items
 
 
-def draw_footer(draw, img, theme, s, show_url, cta=KALE_URL):
-    """Byline and logo carry the brand on every slide. The URL is the call to
+def draw_footer(draw, img, theme, s, show_url, cta=KALE_URL, accent=None, wordmark=None):
+    """Byline and mark carry the brand on every slide. The URL is the call to
     action, so it appears only on the first and last slide. Repeated on all nine
-    it stops being read at all."""
+    it stops being read at all.
+
+    Podcast decks pass a wordmark instead of the Kale logo. A guest is being
+    asked to reshare these, and a rival brokerage's logo on the post is friction
+    on exactly that. The show's cover art is a photograph, unreadable at footer
+    size, so the mark is set in type like the rest of the system.
+    """
     y = HEIGHT * s - PAD_BOTTOM * s
     b_f, s_f = font("Bold", 30 * s), font("Medium", 26 * s)
     draw.text((PAD_X * s, y - 66 * s), BYLINE, font=b_f, fill=theme["headline"])
@@ -366,12 +378,19 @@ def draw_footer(draw, img, theme, s, show_url, cta=KALE_URL):
         u_f = font("Medium", 22 * s)
         uw = draw.textlength(cta, font=u_f)
         draw.text((right - uw, y - 28 * s), cta, font=u_f, fill=theme["body"])
-        logo_y = y - 92 * s
+        mark_y = y - 92 * s
     else:
-        logo_y = y - 62 * s
+        mark_y = y - 62 * s
+
+    if wordmark:
+        w_f = font("ExtraBold", 27 * s)
+        width = tracked_width(draw, wordmark, w_f, 5 * s)
+        draw_tracked(draw, right - width, mark_y + 10 * s, wordmark, w_f,
+                     accent or theme["headline"], 5 * s)
+        return
 
     logo = load_logo(theme, int(46 * s))
-    img.paste(logo, (int(right - logo.width), int(logo_y)), logo)
+    img.paste(logo, (int(right - logo.width), int(mark_y)), logo)
 
 
 class HookTooLong(Exception):
@@ -411,7 +430,8 @@ def count_headline_lines(slide, index, total, theme, accent, series_mark, photo=
     return len(wrap_runs(draw, runs, f, (WIDTH - PAD_X * 2) * s))
 
 
-def render_slide(slide, index, total, theme, accent, series_mark, photo=None, cta=KALE_URL):
+def render_slide(slide, index, total, theme, accent, series_mark, photo=None,
+                 cta=KALE_URL, wordmark=None):
     s = SUPERSAMPLE
     img = Image.new("RGB", (WIDTH * s, HEIGHT * s), theme["bg"])
     draw = ImageDraw.Draw(img)
@@ -461,5 +481,6 @@ def render_slide(slide, index, total, theme, accent, series_mark, photo=None, ct
         fn(y)
         y += h
 
-    draw_footer(draw, img, theme, s, show_url=(is_hook or is_close), cta=cta)
+    draw_footer(draw, img, theme, s, show_url=(is_hook or is_close), cta=cta,
+                accent=accent, wordmark=wordmark)
     return img.resize((WIDTH, HEIGHT), Image.Resampling.LANCZOS)

@@ -328,10 +328,34 @@ Both roads end in a Close lead. Only the door changes. Links and their source ta
 
 ### KPI split
 
-The old single "reach and saves" KPI is retired -- it was failing on its own terms (saves running 0-1). Judge by type:
+**Superseded 2026-08-06. D.J.'s call: the metric is engagement, hearts and comments.**
+Not saves, not sends. Judge by type:
 
-- **Gated (1, 2):** leads captured. Saves are a nice-to-have.
-- **Open (3, 4, 5):** saves + sends, and for #3, comment-mined Chicago signals.
+| Type | Metric |
+|---|---|
+| **Gated (1, 2)** | Leads captured |
+| **Open tips, takes, comparisons (3, 4, 5)** | **Engagement: hearts + comments** |
+| **Podcast decks** | Reshares + new followers (the guest's reshare is the whole point) |
+
+**What this changes about how a deck is built.** Saves come from reference material.
+Comments come from a position someone wants to answer. Those pull in different
+directions, and engagement is now the target, so a carousel needs a *view*, not just a
+checklist. The craft that produces this without breaking the no-asks rule is
+**Rule 10.4 passive comment engineering** in [editorial-standards.md](../editorial-standards.md):
+
+- **Intentional incompleteness.** Give the four phrases and fully unpack three. People
+  comment to supply or ask for the fourth. The loop makes the comment; you never asked.
+- **The defensible line that recruits defenders.** A heat-3.5 take where the people who
+  agree feel compelled to back you up against the people who don't.
+- **"You tell me if I'm wrong."** Stated, never directed: "I think 80 percent of agents
+  do this. I could be wrong about the number, I'm not wrong about the pattern."
+
+The test against the no-asks rule stays exactly as written: nothing may *direct* the
+viewer to do something for the channel. A deck that earns a comment by being
+incomplete or arguable is fine. "Comment your number below" is still banned.
+
+The old "reach and saves" KPI is retired, and so is the "saves and sends" one that
+replaced it. Saves were running 0-1 and failing on their own terms.
 
 ---
 

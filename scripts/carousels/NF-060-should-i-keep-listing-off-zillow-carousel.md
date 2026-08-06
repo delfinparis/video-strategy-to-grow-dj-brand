@@ -23,10 +23,10 @@ Cadence note: NF-018 and NF-058 both ran `data-card`. Space this one a few posts
 ## SLIDE 1 -- HOOK (carries ~80% of the weight)
 
 **Headline (large, top third):**
-A seller is going to text you this week asking if they should keep their home off Zillow.
+"Should we keep it **off Zillow**?"
 
 **Subhead (smaller, below):**
-Here's the honest answer, backed by the numbers.
+A seller will text you that this week. Here's the honest answer, backed by the numbers.
 
 ---
 

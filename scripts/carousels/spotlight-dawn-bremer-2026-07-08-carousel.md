@@ -23,7 +23,7 @@ profile is verified. Frame on Dawn + the lesson, never on the brokerage brand.
 ---
 
 ## Slide 1 (cover)
-**The Chicago agent who ran a real estate team before she ever took a listing.**
+**She ran a team before she ever took a listing.**
 
 (small: a spotlight from the Keeping It Real Podcast)
 

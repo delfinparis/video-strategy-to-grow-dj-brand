@@ -25,10 +25,10 @@ Canva-ready copy below. One slide per block. Drop straight into a LinkedIn docum
 ## SLIDE 1 -- HOOK (carries ~80% of the weight)
 
 **Headline (large, top third):**
-You walk a buyer into a house and start narrating: "And this is the kitchen."
+Stop narrating the house. They already **know** it's a kitchen.
 
 **Subhead (smaller, below):**
-Stop. They already know it's a kitchen. Here's what to do instead.
+Here's the question to ask at the front door instead.
 
 ---
 

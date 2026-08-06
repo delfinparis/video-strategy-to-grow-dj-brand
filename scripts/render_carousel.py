@@ -40,6 +40,7 @@ from carousel_render import (
     BYLINE,
     KALE_URL,
     POD_URL,
+    POD_WORDMARK,
     HOOK_MAX_LINES,
     THEMES,
     HookTooLong,
@@ -289,7 +290,9 @@ def render(md_path, theme_override=None, want_pdf=False, allow_long_hooks=False)
     theme = THEMES[theme_name]
     accent = ACCENTS[LANE_ACCENT.get(lane, "coral")][theme_name]
     series_mark = (meta.get("series_mark", "") or "").strip() or LANE_MARK.get(lane, BYLINE)
-    cta = POD_URL if lane == "podcast" else KALE_URL
+    is_pod = lane == "podcast"
+    cta = POD_URL if is_pod else KALE_URL
+    wordmark = POD_WORDMARK if is_pod else None
 
     # A KIRP deck names its guest headshot in frontmatter. Missing file is not
     # fatal: the deck renders as type, which is what non-podcast decks do anyway.
@@ -319,7 +322,7 @@ def render(md_path, theme_override=None, want_pdf=False, allow_long_hooks=False)
 
     images, pngs = [], []
     for i, slide in enumerate(slides):
-        img = render_slide(slide, i, len(slides), theme, accent, series_mark, photo or None, cta)
+        img = render_slide(slide, i, len(slides), theme, accent, series_mark, photo or None, cta, wordmark)
         png_path = os.path.join(out_dir, f"slide-{i + 1:02d}.png")
         img.save(png_path, "PNG", optimize=True)
         images.append(img)

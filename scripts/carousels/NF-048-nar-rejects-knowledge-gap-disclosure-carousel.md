@@ -21,10 +21,10 @@ Canva-ready copy below. One slide per block. Drop straight into a LinkedIn docum
 ## SLIDE 1 -- HOOK (carries ~80% of the weight)
 
 **Headline (large, top third):**
-This week NAR voted down a rule that would've required agents to admit when a neighborhood isn't their specialty.
+Agents won't have to admit what they **don't know**.
 
 **Subhead (smaller, below):**
-Their reason why is exactly backwards.
+NAR voted down a knowledge-gap disclosure rule this week. Their reason why is exactly backwards.
 
 ---
 

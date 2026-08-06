@@ -25,10 +25,10 @@ template (1080x1350 or 1080x1080).
 ## SLIDE 1 -- HOOK (carries ~80% of the weight)
 
 **Headline (large, top third):**
-I use software that scores which agents are most likely to leave their brokerage.
+I know which agents are **about to quit**.
 
 **Subhead (smaller, below):**
-It's never recruited a single one for me. Here's the rule I run instead.
+Software scores them for me. It has never recruited a single one. Here's the rule I run instead.
 
 ---
 

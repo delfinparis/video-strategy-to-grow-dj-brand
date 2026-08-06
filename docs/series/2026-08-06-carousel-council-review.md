@@ -87,8 +87,33 @@ rewritten hooks:
 unresolved. The experiment, before going to 11 a week:
 
 > Ship **6 carousels over two weeks**: 2 repurposed tips, 2 KIRP, 2 broker-problem
-> comparison tables. Measure **sends and saves only**. If the comparison tables beat the
+> comparison tables. Measure **hearts and comments**. If the comparison tables beat the
 > repurposed tips, as this standard predicts they will, rebuild the engine around that
 > format instead of around video repurposing.
 
 Learn it at 6 posts rather than at 22.
+
+---
+
+## Amendment, 2026-08-06: the metric is engagement
+
+D.J.'s call after this review: **hearts and comments**, not sends and saves. Podcast
+decks keep their own metric (reshares and followers) because the guest's reshare is the
+entire mechanism there.
+
+**This partly contradicts fix #2 above**, and the contradiction is worth stating plainly
+rather than quietly resolving. Fix #2 repointed the tips engine at reference material and
+told it to skip opinion and narrative, on the logic that carousels are for saving and
+sending. Under an engagement metric that logic inverts: a checklist gets saved silently,
+a defensible position gets argued with. Comments come from a view, not a table.
+
+The resolution is not to discard fix #2. Its real insight survives: **do not paste a
+video script onto a carousel**. What changes is the filter. A deck no longer has to be
+reference material, it has to be *carousel-shaped* — it needs a position worth answering
+and a payload worth keeping, and it earns the comment through Rule 10.4 mechanics rather
+than by asking.
+
+The practical effect is that the **3 weekly takes stop being a side dish**. Under an
+engagement KPI they are the format most aligned with the metric, and the heat-3.5
+register is the one the scale already describes as high comment volume at manageable
+risk.
