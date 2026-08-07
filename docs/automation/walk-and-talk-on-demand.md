@@ -1,16 +1,25 @@
 # Walk-and-Talk: on-demand selection + build
 
-This replaces the old Gmail round-trip (cloud routine emails options -> D.J.
-replies with a number -> second routine polls Gmail 7am-1pm -> Gmail draft).
-There is no email and no polling anymore. The morning job just researches the
-options, commits them, and pushes D.J.'s phone. Selection and the full build
-happen here, on demand, on any device.
+This covers the **build half** only: how Claude turns a chosen option into a
+finished v3 script. Selection and the build happen on demand, on any device.
 
-## The morning half (automated, home Mac)
-`scripts/walk_and_talk_brief.sh` (launchd, 6:00am) runs `news_brief.py`, which
-writes the day's options to `data/news-briefs/YYYY-MM-DD.md`, commits + pushes
-them, and fires one ntfy push: success ("N options ready") or failure
-("NO options today"). See `scripts/com.djparis.walkandtalk.plist.template`.
+For **how the morning options are produced and delivered**, see
+[`walk-and-talk-delivery.md`](walk-and-talk-delivery.md). Read that one before
+debugging a missing brief.
+
+## The morning half (automated, cloud routine + email)
+A Claude cloud routine researches at 5:30am CT and drafts the options as an
+email; an Apps Script in D.J.'s Gmail sends it at ~6:15am CT, or emails an
+alarm if there was nothing to send. Full chain and failure modes:
+[`walk-and-talk-delivery.md`](walk-and-talk-delivery.md).
+
+> **Correction (2026-08-07).** This doc previously described a home-Mac launchd
+> job (`scripts/walk_and_talk_brief.sh`) delivering via ntfy phone push, and
+> stated that email was retired in PR #16. That rebuild was designed but never
+> installed: no `com.djparis.*` launchd job exists on any machine and no ntfy
+> topic was ever configured. Email has remained the only live channel
+> throughout. The scripts and plist templates are kept in the repo as an
+> uninstalled option, not a description of what runs.
 
 ## The build half (on demand, in Claude Code)
 When D.J. says **"walk and talk"** (optionally with a number), Claude:
@@ -67,24 +76,20 @@ compressed Act 2 -- one story beat, then the payload.
 - Options == the brief's top takes. The brief already drops already-covered
   stories, so options are fresh by construction.
 - If D.J. wants to draft more than one, repeat step 4 per number.
-- Nothing here touches Gmail. Delivery is ntfy phone push, not email (email was
-  retired 2026-06-16, PR #16). The brief still generates + commits daily either
-  way; only the notification changed.
+- Delivery is **email**, via the cloud routine + the Apps Script sender. The
+  brief is also committed to `data/news-briefs/` daily, which is the recovery
+  path when email fails.
 
-## When the morning push stops arriving
-Run the doctor on the home Mac -- it tests every link in the chain and sends a
-live test push:
+## When the morning brief stops arriving
+See [`walk-and-talk-delivery.md`](walk-and-talk-delivery.md) -- it has the full
+chain, the three failure modes, and the alarm.
 
-```bash
-bash scripts/walk_and_talk_doctor.sh
-```
+Short version: you should now get an alarm email ("NO Walk & Talk brief today")
+naming the cause. The most common cause is the **Claude Gmail connector losing
+its authorization**, fixed by reauthorizing Gmail in claude.ai connector
+settings. Either way today's options are usually still recoverable from
+`data/news-briefs/<today>.md` -- open Claude Code and say "walk and talk".
 
-It checks: launchd agent loaded, `NTFY_TOPIC` actually set (the #1 cause of a
-silent no-show is the topic still being the `REPLACE_` placeholder), ntfy.sh
-reachable, and whether a live test push is accepted. The morning job now also
-logs each push result (`push: ok` / `push: FAILED` / `push: SKIPPED`) to
-`/tmp/walkandtalk-err.log`, so a failed push is no longer invisible.
-
-Two non-code things that block delivery even when the job is perfect:
-1. The ntfy iOS app must be **subscribed to the exact `NTFY_TOPIC`**.
-2. iOS Settings > Notifications > ntfy must be **on**.
+`scripts/walk_and_talk_doctor.sh` only diagnoses the **uninstalled** home-Mac
+ntfy path. It is not part of the live chain and will report failures that do
+not matter. Do not start there.
