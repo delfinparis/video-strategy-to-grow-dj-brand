@@ -126,4 +126,4 @@ to back. Log each use below.
 
 | Date | Entry | Deck file |
 |---|---|---|
-| | | |
+| 2026-08-07 | "Stack hashtags for reach" (Marketing and social) | `scripts/carousels/TAKE-hashtag-stacking-carousel.md` |
