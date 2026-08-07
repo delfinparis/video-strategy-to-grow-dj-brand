@@ -79,25 +79,42 @@ the repo file so the video can still be made.
 
 **Silence now means delivered.** It no longer means nobody checked.
 
-### Install (one time, ~2 minutes)
+### Install (one time, ~1 minute)
+
+`scripts/apps-script/walk-and-talk-project.gs` is the **complete** Apps Script
+project, not a fragment: the sender/alarm, the trigger installer, the reply
+watcher, the script generator, and the voice spec.
 
 1. Open the Apps Script project attached to `delfinparis@gmail.com`.
-2. Replace the **entire** existing `autoSendWalkAndTalkBriefs()` function with
-   the contents of `scripts/apps-script/walk-and-talk-autosend.gs`.
-3. Leave `processWalkAndTalkReplies()` alone.
-4. Save. The existing daily trigger keeps firing -- the function name is
-   unchanged.
-5. **Add a second daily trigger** on the same `autoSendWalkAndTalkBriefs`
-   function, set to the **7am-8am** window. Reason below.
+2. Select all, paste the file over it, save.
+3. Run `installTriggers` once from the editor.
 
-The pasted function declares every constant inside itself, so it cannot collide
-with constants already declared at the top of the file.
+Step 3 is the trigger setup -- triggers in this project are managed in code, not
+through the UI. It clears and recreates the sender at ~6am and ~7am Chicago plus
+the 5-minute reply watcher.
 
-### Why two triggers
+### Model configuration
+
+`MODEL` is `claude-opus-4-7`. Two things to know before changing it:
+
+- **Claude Opus 5 (`claude-opus-5`) is current and costs the same** ($5/$25 per
+  million tokens), and is a better model for this job.
+- **It is not a one-line swap.** On Opus 5 adaptive thinking is on by default,
+  and `max_tokens` caps thinking *plus* response text together. This project
+  sets `max_tokens: 6000`, which a full script already fills, so an unchanged
+  swap would truncate scripts mid-section. Raise `max_tokens` in the same change
+  (16000 is a safe start for a non-streaming request).
+
+Also worth knowing: the cached system prompt is roughly 1,700 tokens, and Opus
+4.7's minimum cacheable prefix is **2048 tokens** -- so the `cache_control`
+marker on it is probably doing nothing today. Opus 5 drops that minimum to 512,
+which would make the cache start working. The generator already logs
+`cache_read=` on every call, so the execution log confirms it either way.
+
+### Why two send triggers
 
 Google time-driven triggers fire at a **random minute inside their hour**. The
-existing one is on the 6am-7am window, which is why observed sends have landed
-anywhere from 6:15 to 6:56.
+6am one is why observed sends have landed anywhere from 6:15 to 6:56.
 
 That randomness races the 6:50am watchdog routine. If the Apps Script happens
 to fire at 6:20 and the watchdog then regenerates a missing brief at 6:50, that
