@@ -28,23 +28,27 @@
  *
  * INSTALL
  * -------
- * Replace the ENTIRE existing autoSendWalkAndTalkBriefs() function with this
- * one. Keep the function name identical so the existing daily trigger keeps
- * firing with no trigger changes. Leave processWalkAndTalkReplies() alone.
+ * Replace TWO functions in the existing script project:
+ *   1. autoSendWalkAndTalkBriefs()  -- the sender, now also the alarm
+ *   2. installTriggers()            -- adds a second send window
+ * Then run installTriggers() once. Leave processWalkAndTalkReplies() and the
+ * VOICE_SYSTEM_PROMPT constant alone.
  *
- * This function is deliberately self-contained -- every constant is declared
- * inside it -- so pasting it cannot collide with constants already declared at
- * the top of the script file.
+ * This file deliberately does NOT redeclare SUBJECT_PREFIX. The script project
+ * already declares it at top level, and a local copy here would shadow it:
+ * editing the top-level constant would then silently fail to change what the
+ * sender matches on. That is exactly the class of bug behind the 2026-06-10
+ * five-day outage, so there is one definition and the sender reads it.
  */
 function autoSendWalkAndTalkBriefs() {
-  // Separator-agnostic on purpose. The 2026-06-10 outage happened because the
-  // routine switched the subject from an em dash to a hyphen and this prefix
+  // Uses the project's top-level SUBJECT_PREFIX ('Walk & Talk Options'), which
+  // is separator-agnostic on purpose: the June 2026 outage happened because the
+  // routine switched the subject from an em dash to a hyphen while the prefix
   // still had the em dash, so five days of briefs piled up unsent. Matching on
   // the words alone survives any future separator change.
   //
   // indexOf(...) === 0 (not a plain "contains") is what skips reply drafts:
   // in "Re: Walk & Talk Options - Fri Aug 7" the prefix starts at index 4.
-  var SUBJECT_PREFIX = 'Walk & Talk Options';
   var TZ = 'America/Chicago';
   var REPO_BRIEFS =
     'https://github.com/delfinparis/video-strategy-to-grow-dj-brand/blob/main/data/news-briefs/';
@@ -138,4 +142,37 @@ function autoSendWalkAndTalkBriefs() {
   });
 
   props.setProperty('wtLastAlarmDate', today);
+}
+
+/**
+ * Trigger installer. Safe to re-run: it clears and recreates only our triggers.
+ *
+ * CHANGED: two daily send windows instead of one.
+ *
+ * Google fires a time-based trigger at a RANDOM minute inside its hour, so the
+ * 6am trigger can fire anywhere from 6:00 to 6:59. The Walk & Talk watchdog
+ * routine runs at 6:50am and regenerates the brief when the 5:30am research
+ * routine produced nothing. If the send trigger already fired at, say, 6:20,
+ * that regenerated draft has missed its ride -- and since the sender only sends
+ * drafts dated today, tomorrow's run skips it too. It would sit unsent forever.
+ *
+ * The 7am pass closes that gap. Running the sender twice a day is safe by
+ * design: a sent draft no longer exists to re-send, and the wtLastSendDate
+ * guard stops the second run from firing a false "no brief today" alarm.
+ */
+function installTriggers() {
+  const managed = ['autoSendWalkAndTalkBriefs', 'processWalkAndTalkReplies'];
+  ScriptApp.getProjectTriggers().forEach(function (t) {
+    if (managed.indexOf(t.getHandlerFunction()) !== -1) ScriptApp.deleteTrigger(t);
+  });
+
+  ScriptApp.newTrigger('autoSendWalkAndTalkBriefs')
+    .timeBased().everyDays(1).atHour(6).inTimezone('America/Chicago').create();
+  ScriptApp.newTrigger('autoSendWalkAndTalkBriefs')
+    .timeBased().everyDays(1).atHour(7).inTimezone('America/Chicago').create();
+
+  ScriptApp.newTrigger('processWalkAndTalkReplies')
+    .timeBased().everyMinutes(5).create();
+
+  Logger.log('Installed: send ~6am + ~7am Chicago, reply watcher every 5 min');
 }
