@@ -27,7 +27,10 @@
 const SUBJECT_PREFIX        = 'Walk & Talk Options';
 const MODEL                 = 'claude-opus-4-7';   // see the model note in walk-and-talk-delivery.md before changing
 const SCRIPTED_LABEL        = 'WT-Scripted';
-const MAX_PICKS_PER_REPLY   = 3;                   // each script web-verifies + writes full format; 3 keeps us under the 6-min limit
+const MAX_PICKS_PER_REPLY   = 3;                   // most options one reply may trigger (each is a paid Opus call)
+const MAX_ATTEMPTS_PER_PICK = 3;                   // hard stop on retries -- this is the runaway-cost backstop
+const STATE_TTL_DAYS        = 7;                   // must exceed the 4-day search window (see pruneThreadState)
+const STATE_PREFIX          = 'wt:';
 
 /* ---------- 1. Send the morning brief, or raise the alarm ---------- */
 function autoSendWalkAndTalkBriefs() {
@@ -164,51 +167,192 @@ function installTriggers() {
 }
 
 /* ---------- 3. Watch for replies, turn picked numbers into scripts ---------- */
+//
+// ONE script per run, with a script lock and a per-pick attempt ceiling.
+//
+// The previous version generated up to three scripts, replied once, then
+// labeled the thread. Apps Script kills a consumer execution at six minutes,
+// and three web-searching Opus calls do not reliably fit inside that. A timeout
+// left the thread unlabeled, so the next run five minutes later restarted the
+// same batch, died at the same place, and repeated every five minutes until the
+// thread aged out of the four-day search window -- roughly 1,100 runs that each
+// paid for an Opus call or two and delivered nothing.
+//
+// Three changes make that impossible: one pick per run (a run is now one API
+// call, not three), the attempt counter is written BEFORE the call (so a
+// killed execution still counts and retries are bounded), and a script lock
+// stops two overlapping runs from both answering the same thread.
 function processWalkAndTalkReplies() {
+  const lock = LockService.getScriptLock();
+  // Google does not guarantee that two executions of the same trigger never
+  // overlap, and a 5-minute trigger running a job that can approach 6 minutes
+  // is exactly where they do. Without this, both runs see the same unanswered
+  // thread and both reply.
+  if (!lock.tryLock(1000)) return;
+  try {
+    runOneReplyJob();
+  } finally {
+    lock.releaseLock();
+  }
+}
+
+function runOneReplyJob() {
   const apiKey = PropertiesService.getScriptProperties().getProperty('ANTHROPIC_API_KEY');
   if (!apiKey) { console.error('Missing ANTHROPIC_API_KEY script property'); return; }
-  const label = GmailApp.getUserLabelByName(SCRIPTED_LABEL) || GmailApp.createLabel(SCRIPTED_LABEL);
 
-  const threads = GmailApp.search('subject:"Walk & Talk Options" -label:' + SCRIPTED_LABEL + ' newer_than:4d');
-  threads.forEach(function (thread) {
+  pruneThreadState();
+
+  // Deliberately NOT filtered on the WT-Scripted label. Completion is tracked
+  // per pick in script properties instead. The old label filter is what made
+  // the "reply again with the rest" instruction impossible to satisfy: the
+  // label went on with the first reply, so a second reply was never seen.
+  const threads = GmailApp.search('subject:"' + SUBJECT_PREFIX + '" newer_than:4d');
+
+  for (const thread of threads) {
     const msgs = thread.getMessages();
-    if (msgs.length < 2) return;                                  // no reply yet
+    if (msgs.length < 2) continue;                       // no reply yet
 
-    const brief = msgs[0].getPlainBody();
     const reply = msgs[msgs.length - 1].getPlainBody();
-    const topText = reply.split(/On .*?wrote:/s)[0].split(/\n\s*>/)[0]; // ignore quoted brief
+    const picks = parsePicks(reply).slice(0, MAX_PICKS_PER_REPLY);
+    if (picks.length === 0) continue;
 
-    // Every option number he listed (1-8), de-duped, in the order written
-    const found = topText.match(/\b[1-8]\b/g) || [];
-    const picks = [];
-    found.forEach(function (n) { if (picks.indexOf(n) === -1) picks.push(n); });
-    if (picks.length === 0) return;
+    const threadId = thread.getId();
+    const state = readThreadState(threadId);
 
-    const todo = picks.slice(0, MAX_PICKS_PER_REPLY);
-    const parts = [];
-    const succeeded = [];
-    todo.forEach(function (pick) {
-      const header = '==================== OPTION ' + pick + ' ====================\n\n';
-      try {
-        parts.push(header + generateScript(apiKey, brief, reply, pick));
-        succeeded.push(pick);
-      } catch (e) {
-        console.error('Claude failed for option ' + pick + ': ' + e);
-        parts.push(header + '[Script generation failed for this option. Remove the "' +
-                   SCRIPTED_LABEL + '" label from this thread to retry.]');
-      }
-    });
-
-    if (succeeded.length === 0) return;   // total failure (e.g. API down) -> no reply, retry next run
-
-    let body = 'Here are the scripts you picked (' + succeeded.join(', ') + ').\n\n\n' + parts.join('\n\n\n');
-    if (picks.length > MAX_PICKS_PER_REPLY) {
-      body += '\n\n\nYou picked ' + picks.length + ' options. I wrote the first ' + MAX_PICKS_PER_REPLY +
-              '. Reply again with the rest to get those.';
+    let pick = null;
+    for (const p of picks) {
+      if (!state.done[p] && (state.attempts[p] || 0) < MAX_ATTEMPTS_PER_PICK) { pick = p; break; }
     }
 
-    thread.reply(body);     // build all, then send one reply, then label -> a timeout mid-run retries cleanly
-    thread.addLabel(label);
+    if (pick === null) {
+      // Every pick on this thread is delivered or has exhausted its retries.
+      if (!state.labeled) {
+        const label = GmailApp.getUserLabelByName(SCRIPTED_LABEL) || GmailApp.createLabel(SCRIPTED_LABEL);
+        thread.addLabel(label);
+        state.labeled = true;
+        writeThreadState(threadId, state);
+      }
+      continue;
+    }
+
+    // Record the attempt BEFORE calling the API. If this execution is killed
+    // mid-generation the attempt still counts, so the retry is bounded. This
+    // one line is what stops the runaway loop.
+    state.attempts[pick] = (state.attempts[pick] || 0) + 1;
+    const attemptNo = state.attempts[pick];
+    writeThreadState(threadId, state);
+
+    const brief = msgs[0].getPlainBody();
+    try {
+      const script = generateScript(apiKey, brief, reply, pick);
+      state.done[pick] = true;
+      writeThreadState(threadId, state);
+
+      const pending = picks.filter(function (p) { return !state.done[p]; });
+      let body = 'Option ' + pick + ':\n\n\n' + script;
+      if (pending.length) {
+        body += '\n\n\nStill working on ' + pending.join(', ') +
+                '. Each one arrives as its own reply, a few minutes apart.';
+      }
+      thread.reply(body);
+    } catch (e) {
+      console.error('Option ' + pick + ' attempt ' + attemptNo + ' failed: ' + e);
+      // A rate limit or overload is worth another run; a refusal or a malformed
+      // request will fail identically forever, so burn the remaining attempts
+      // rather than paying to confirm it three times. Anything unrecognized
+      // (no retryable flag) also fails closed -- on a system whose whole defect
+      // was an unbounded retry loop, the safe default for an unknown error is
+      // to stop and tell D.J., not to keep paying.
+      if (!e.retryable) state.attempts[pick] = MAX_ATTEMPTS_PER_PICK;
+      writeThreadState(threadId, state);
+      if (state.attempts[pick] >= MAX_ATTEMPTS_PER_PICK) notifyPickFailed(pick, e);
+    }
+    return;   // one pick per run, success or failure
+  }
+}
+
+// Which options D.J. actually picked. Reads ONLY the first line of what he
+// typed, above any quoted text.
+//
+// The old version scanned the whole un-quoted block for /\b[1-8]\b/g, so
+// "3 - can you make it 45 seconds?" generated scripts for 3, 4 and 5. Worse,
+// the attribution regex below only matches some mail clients; on one that
+// quotes differently the entire numbered brief survived into the scan and every
+// option in it looked like a pick. Reading one line neutralizes both, because
+// the quoted brief is never on the first line.
+function parsePicks(replyBody) {
+  const above = (replyBody || '').split(/On .*?wrote:/s)[0].split(/\n\s*>/)[0];
+  const firstLine = (above.trim().split(/\r?\n/)[0] || '');
+
+  const lead = firstLine.match(/^\s*(?:options?\s*)?#?\s*([1-8](?:\s*(?:,|and|&|\+|\/)\s*#?\s*[1-8])*)/i);
+  let digits;
+  if (lead) {
+    digits = lead[1].match(/[1-8]/g) || [];
+  } else {
+    // No leading pick. Accept one unambiguous digit ("let's do 3"), but take
+    // nothing from a line containing several -- guessing costs a paid call.
+    const all = firstLine.match(/\b[1-8]\b/g) || [];
+    digits = (all.length === 1) ? all : [];
+  }
+
+  const picks = [];
+  digits.forEach(function (n) { if (picks.indexOf(n) === -1) picks.push(n); });
+  return picks;
+}
+
+/* ---------- 3b. Per-thread progress state ---------- */
+
+function stateKey(threadId) { return STATE_PREFIX + threadId; }
+
+function readThreadState(threadId) {
+  const raw = PropertiesService.getScriptProperties().getProperty(stateKey(threadId));
+  let s = {};
+  if (raw) { try { s = JSON.parse(raw); } catch (e) { s = {}; } }
+  return {
+    done: s.done || {},
+    attempts: s.attempts || {},
+    labeled: s.labeled || false,
+    ts: s.ts || 0
+  };
+}
+
+function writeThreadState(threadId, state) {
+  state.ts = new Date().getTime();
+  PropertiesService.getScriptProperties()
+    .setProperty(stateKey(threadId), JSON.stringify(state));
+}
+
+function pruneThreadState() {
+  // STATE_TTL_DAYS must stay LONGER than the 4-day search window. If state
+  // expired first, a thread still inside the window would read as untouched and
+  // every script on it would be generated and paid for again.
+  const props = PropertiesService.getScriptProperties();
+  const all = props.getProperties();
+  const cutoff = new Date().getTime() - STATE_TTL_DAYS * 24 * 3600 * 1000;
+  Object.keys(all).forEach(function (k) {
+    if (k.indexOf(STATE_PREFIX) !== 0) return;
+    let ts = 0;
+    try { ts = JSON.parse(all[k]).ts || 0; } catch (e) { ts = 0; }
+    if (ts < cutoff) props.deleteProperty(k);
+  });
+}
+
+function notifyPickFailed(pick, err) {
+  let me = Session.getActiveUser().getEmail();
+  if (!me) me = Session.getEffectiveUser().getEmail();
+  MailApp.sendEmail({
+    to: me,
+    subject: 'Walk & Talk: option ' + pick + ' could not be scripted',
+    body: [
+      'Option ' + pick + ' failed ' + MAX_ATTEMPTS_PER_PICK + ' times and will not be retried.',
+      '',
+      'Last error: ' + err,
+      '',
+      'Rate limits and overloads retry on their own, so this means it kept',
+      'failing, or the model declined the option outright.',
+      '',
+      'To build it anyway, open Claude Code and say "walk and talk ' + pick + '".'
+    ].join('\n')
   });
 }
 
@@ -241,7 +385,7 @@ function generateScript(apiKey, brief, reply, pick) {
       })
     });
 
-    if (res.getResponseCode() !== 200) throw new Error('API ' + res.getResponseCode() + ': ' + res.getContentText());
+    if (res.getResponseCode() !== 200) throw apiError(res.getResponseCode(), res.getContentText());
     const data = JSON.parse(res.getContentText());
     if (data.usage) {
       console.log('option ' + pick + ' | cache_read=' + (data.usage.cache_read_input_tokens || 0) +
@@ -254,12 +398,28 @@ function generateScript(apiKey, brief, reply, pick) {
     // A refusal returns HTTP 200 with empty content, and max_tokens truncates
     // mid-script. Both would otherwise be pushed into the reply as a silently
     // empty or half-written OPTION block that reads as success.
-    if (data.stop_reason === 'refusal') throw new Error('model declined this option');
+    if (data.stop_reason === 'refusal') throw tagged('model declined this option', false);
     const text = extractFinalText(data.content);
-    if (!text) throw new Error('empty response (stop_reason: ' + data.stop_reason + ')');
+    if (!text) throw tagged('empty response (stop_reason: ' + data.stop_reason + ')', true);
     return text;
   }
-  throw new Error('web search did not finish after repeated continuations');
+  throw tagged('web search did not finish after repeated continuations', true);
+}
+
+// Errors carry a `retryable` flag so the caller knows whether spending another
+// attempt is worth anything. Without it a momentary 529 was written into the
+// thread as a permanent "[Script generation failed]" and the label made sure it
+// was never tried again.
+function tagged(message, retryable) {
+  const e = new Error(message);
+  e.retryable = retryable;
+  return e;
+}
+
+function apiError(code, body) {
+  // 429 rate limit and 5xx overload are transient. 400/401/404 are our request
+  // or our key, and will fail identically on every future attempt.
+  return tagged('API ' + code + ': ' + body, code === 429 || code >= 500);
 }
 
 // Keep only the final answer: text blocks after the last web-search/tool block
