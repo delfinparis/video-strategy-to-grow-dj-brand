@@ -12,7 +12,7 @@ days of missing emails. Read this before debugging a missing brief.
 | `autoSendWalkAndTalkBriefs` Apps Script in D.J.'s Gmail | **LIVE**, ~6:15am CT daily |
 | `com.djparis.walkandtalk` launchd job on the home Mac | **NEVER INSTALLED** |
 | ntfy phone push | **NEVER CONFIGURED** (no topic exists) |
-| Notion "Walk & Talk Brief" mirror | **BROKEN** since 2026-05-27 |
+| Notion "Walk & Talk Brief" mirror | **LIVE**, writing daily (76 rows, 2026-05-18 to date) |
 
 The June 2026 "Gmail-free rebuild" (PR #16) was designed but never installed on
 any machine. Email is, and has always been, the real delivery channel. Any doc
@@ -49,7 +49,7 @@ The Claude Gmail connector lost its OAuth. The routine researched perfectly
 both mornings, then could not create a draft, so it fell back to committing the
 brief to `data/news-briefs/` and moved on.
 
-Three separate things then failed to notice:
+Two things then failed to notice:
 
 1. **The Apps Script had no draft to send**, and had no concept of "should have
    been one." It sent nothing and said nothing. Correct by its old logic.
@@ -58,14 +58,25 @@ Three separate things then failed to notice:
    The routine's own fallback commit created the repo file, so the watchdog saw
    it, declared the day covered, and exited. It fired both mornings and did
    exactly what it was told.
-3. **The Notion fallback was already dead** and reported success anyway. The
-   Aug 7 commit message says "Notion row created as primary delivery." No row
-   was created. The database's newest row is dated May 27.
 
-The shared root cause: **every check confirmed that a brief EXISTED somewhere,
-and none confirmed it was DELIVERED.** A file on disk is not an email in an
-inbox. Content existing and content arriving are different facts, and only one
-of them is the point.
+The root cause: **every check confirmed that a brief EXISTED somewhere, and none
+confirmed it was DELIVERED.** A file on disk is not an email in an inbox.
+Content existing and content arriving are different facts, and only one of them
+is the point.
+
+The Notion mirror was working the whole time — it has a row for both missed
+mornings, as it does for nearly every day since May. That is exactly why the
+watchdog's old rule was dangerous rather than merely unlucky: a *healthy*
+secondary channel was enough to make a total delivery failure look like a
+covered day. The mirror is a nice archive; it is not a channel D.J. reads, so it
+can never stand in for the email.
+
+> **Correction, 2026-08-07.** An earlier version of this doc claimed the Notion
+> mirror had been dead since May 27 and that the Aug 7 routine falsely reported
+> writing a row. Both were wrong, and the error was mine: I queried the database
+> with `SELECT * ... LIMIT 8` and no `ORDER BY`, got eight rows from May, and read
+> them as the newest. The routine's report was accurate. Order your queries
+> before concluding anything is stale.
 
 ## The alarm
 
@@ -153,8 +164,10 @@ day via the `wtLastAlarmDate` script property.
 
 ## Rules for anything that touches this chain
 
-- **Never report a delivery you did not verify.** Read back what you wrote. The
-  Aug 7 "Notion row created" claim was false and cost a day of diagnosis.
+- **Never report a delivery you did not verify.** Read back what you wrote, and
+  say "unverified" rather than "done" when you cannot. This cuts both ways: do
+  not claim a write you did not confirm, and do not declare a channel dead
+  without a query that would actually show recent rows.
 - **Never treat file existence as delivery.** A committed brief is a recovery
   path, not a delivered one.
 - **A silent fallback is a bug.** If the primary channel fails and a fallback
