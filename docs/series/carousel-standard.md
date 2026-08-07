@@ -113,19 +113,26 @@ loop, make each slide earn the next swipe).
 
 | Slide | Job | Rule |
 |---|---|---|
-| **1 -- Hook** | Stop the scroll AND promise the payoff | Carries ~80% of the weight. One idea, biggest type. Name the reward for swiping. |
+| **1 -- Hook** | Stop the scroll AND promise the payoff | Carries ~80% of the weight. One idea, biggest type. Name the reward for swiping. The renderer hard-fails a hook wrapping past 5 lines, so about 8 words. |
 | **2 -- Standalone second hook** | Re-hook the swipers | Instagram re-serves slide 2 to people who did not swipe past slide 1. It must work with zero context. Never "continued from slide 1." |
-| **3 to N-2 -- The body** | One idea per slide, earn each swipe | After slide 3, tighten: one idea, one line of body where possible. This is the story/tactic middle. |
-| **N-1 -- Screenshot payload** | The slide people save on their own | The numbered list, the checklist, the scripts. This is the slide people screenshot. Make it so self-contained the save is automatic. The payload earns the save; the deck never asks for it. |
-| **N -- Close** | "Here's what you do now" action | Close on one specific action at the agent's own business, tied to the payload (editorial-standards Rule 4). Then, optionally, one loop-back line that echoes the hook. No "save this," no "follow for," no engagement ask of any kind. |
+| **3 -- The turn** | The one idea, and only one | The number that contradicts the belief, the shift, the reframe. With five slides there is exactly one of these, so the deck has to be about one thing. If an idea needs two body slides, it is two decks. |
+| **4 -- Screenshot payload** | The slide people save on their own | The numbered list, the checklist, the scripts. Self-contained enough that the save is automatic. The payload earns the save; the deck never asks for it. |
+| **5 -- Takeaway** | "Here's what you do now" | One specific action at the agent's own business, tied to the payload (editorial-standards Rule 4). Optionally one loop-back line echoing the hook. No "save this," no "follow for," no engagement ask of any kind. |
 
 **Gate exception (2026-07-22):** the **2 gated carousels** each week close on a value-exchange gate instead -- a single keyword ask delivering a real artifact, per the Rule 4 exception in [editorial-standards.md](../editorial-standards.md). That is permitted on **Instagram and Facebook only**. The **3 open carousels** keep the rule below exactly as written, and *no* carousel on **LinkedIn** ever carries a keyword ask. Hollow bait ("save this," "follow for," "tag") stays banned on all five, on every platform, gated or not.
 
 **Reach and saves is the goal, not a line you say.** This format's goal is saves and reach, but "save this" and "follow for more" are still banned here exactly as in every other series (editorial-standards Rule 4; they appear by name in the pre-commit checklist). The resolution is not a loophole for carousels: you *earn* the save with a screenshot-worthy N-1 payload and a close that hands the agent something to do, the same way the walk-and-talks earn it. The watchlist's scoring lens uses "save-worthiness" and "send-worthiness" as internal quality tests for picking which idea to build; that is a private yardstick, never viewer-facing copy. If a draft slide or caption contains "save this," "save it," "save the carousel," "follow for," "tag," or "bookmark," it is not done.
 
-**Slide count:** 6-10. Under 6 rarely justifies the swipe format; over 10 loses people. NF-058
-ran 9 and that is a good default ceiling for a news carousel. Evergreen tip carousels often
-land at 6-8.
+**Slide count: 5, fixed (2026-08-06).** D.J.'s call, and it supersedes the 6-10 range this
+doc used to carry. Five is exactly the five roles above with nothing spare, which is the
+point: at two decks a day the binding constraint is D.J.'s attention, not the format's
+capacity, and a fixed five stops a thin idea from being padded into nine slides.
+
+**What five costs, so it is a deliberate trade and not a surprise.** There is one body
+slide. A deck can carry one idea and its payload, nothing more. Anything with two ideas
+in it is two decks, and a story that needs setup is a video. The old note that "under 6
+rarely justifies the swipe format" was written when carousels were a saves play; under an
+engagement metric a tight five that people argue with beats a padded nine they scroll past.
 
 **Format families for slide 1** (pick on purpose, log it):
 - One-tactic breakdown ("The one caption change that doubled saves")
@@ -297,7 +304,48 @@ repeat the same `hook_family` two carousels in a row (same discipline as the vid
 
 ---
 
-## The 5-carousel week (2026-07-22)
+## The 14-carousel week (2026-08-06)
+
+**Two a day, every day, five slides each.** D.J.'s call, superseding the 5-carousel week
+below. Four routines cover it, each keeping its own craft rules rather than one generic
+prompt trying to hold all of them.
+
+| Day | Slot 1 | Slot 2 |
+|---|---|---|
+| Mon | KIRP episode | Take |
+| Tue | Broker-problem | News / tip |
+| Wed | KIRP episode | Take |
+| Thu | News / tip | News / tip |
+| Fri | KIRP episode | Take |
+| Sat | News / tip | News / tip |
+| Sun | News / tip | News / tip |
+
+Weekly totals: **3 KIRP, 3 takes, 1 broker-problem, 7 news/tip = 14.**
+
+| Routine | Cron (CT) | Quota |
+|---|---|---|
+| KIRP episode carousel | Mon/Wed/Fri 8:00am | 1 |
+| Take carousel | Mon/Wed/Fri 9:00am | 1 |
+| Broker-problem comparison | Tue 8:00am | 1 |
+| News / tip carousel | Tue/Thu/Sat/Sun 7:05am | 2, except Tuesday 1 |
+
+**The weekend problem this had to solve.** The news/tip routine used to trigger off
+walk-and-talk scripts committed in the previous 26 hours. No filming happens at the
+weekend, so that source is empty exactly when four of the seven slots need filling. It now
+draws in order of preference: a new script if one exists, then the day's news brief
+(`data/news-briefs/`), then the evergreen stat bank. It is still allowed to build nothing
+and say so, because a thin deck at volume is how the format failed the first time.
+
+**Standing caution.** The council's dissent from
+[the 2026-08-06 review](2026-08-06-carousel-council-review.md) is unresolved and this
+doubles down against it: nothing has yet proven that one carousel earns one comment, and
+the plan went from 5 a week to 11 to 14 without that evidence. The machine can produce the
+volume. Whether it should is still open, and the two-week, six-deck read on hearts and
+comments is still the cheapest way to find out.
+
+---
+
+## Superseded: the 5-carousel week (2026-07-22)
 
 **5 carousels per week: 2 gated + 3 open**, alongside the 12 videos. Claude builds them; Jennica loads them into Loomly. The lineup maps to the video pillars so most of the work is repurpose, not net-new.
 
