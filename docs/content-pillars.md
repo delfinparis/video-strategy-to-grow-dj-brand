@@ -30,9 +30,10 @@ Five criteria are baked in: **cheap to make** (one take, selfie stick, no edit),
 | **News / Inside the Industry** | 2 | Ungated | Reach, authority, NAR recognition |
 | **Broker Problems** | 2 | Ungated | Recruiting wedge + reach |
 | **KIRP Promos** | 2 | Ungated | Podcast listeners + reach |
+| **The Take** | 3 | Ungated | Reach + authority via defensible contrarian positions |
 | **Chicago Agent Spotlight** | substitute | Ungated | Recruiting signal (subs into a News/Broker slot) |
 
-**12 videos per week.** With 5 carousels (2 gated) that is **17 posts, 8 gated, 9 open** — a roughly even split between value-with-an-ask and pure reach.
+**15 videos per week** (12 plus the 3 takes added 2026-08-10). With 5 carousels (2 gated) that is **20 posts, 8 gated, 12 open** — the open side now carries the majority, which is the intended trade: the gate layer converts, the open layer feeds it.
 
 Each goal-reset objective has a carrier: reach and followers (News + Broker Problems + Spotlight), engagement and leads (Value Giveaways), value to realtors (all), KIRP listeners (KIRP promos + the national route out of the gate DM), NAR and institutional recognition (News + the tool-launch cadence inside Giveaways).
 
@@ -97,7 +98,27 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 
 ---
 
-## Pillar 5 (substitute): Chicago Agent Spotlight
+## Pillar 5: The Take (added 2026-08-10)
+
+**Series role:** reach and authority through defensible contrarian positions. The lane that gets argued with.
+**Format:** talking-head walk-and-talk, 45-60s, Mon/Wed/Fri. Full standard: [`series/take-standard.md`](series/take-standard.md).
+**Gate:** none, on any platform. A take with a keyword stapled to it reads as bait, and bait is what turns a defensible position into a pile-on.
+
+**The shape:** *realtors shouldn't do X, do Y instead.* Five beats: THE COW (the wrong default) → WHO PROFITS (the turn) → THE RECEIPT (one real number) → THE SWAP (do Y) → LOOP-BACK.
+
+**Beat 2 is why this is a pillar and not a hook style.** Naming who makes money from a belief surviving is what separates a take from a tip, and it is what keeps friction pointed outward at an incentive instead of down at the agent who believed it. Candidates live in [`../data/sacred-cows.md`](../data/sacred-cows.md), which records a `Profits:` line for every entry so that beat is never improvised.
+
+**Heat discipline is the whole design constraint.** 3.5 on Monday and Friday, exactly one heat 4 on Wednesday. Rule 9.2 caps heat 4-5 at one post per week across the *entire* schedule, so the Wednesday take spends the brand's only friction slot. Heat 5 (naming a person, brokerage, coach, or product) is banned outright in this lane.
+
+**Each take pairs with the take carousel already scheduled that day.** Same bank entry, one verification pass, two surfaces: the video argues it, the carousel hands over the receipt in saveable form. That pairing is the only reason 3 more videos a week is affordable at the quality floor.
+
+**Why it passes the test question:** a take is cheap to make (one take, no edit, the argument is the whole production), genuinely useful (it names a thing the agent is wasting money or Sundays on and hands over the replacement), exciting in the fear-removal sense, and it serializes without limit as long as the bank stays fed. It feeds recruiting the same way Broker Problems does: **someone reads the comments on every take** and flags Chicago agents who out themselves into Close.
+
+**Distinguish it from two neighbors.** Against the "say this, not that" giveaway: that one is gated and helpful, this one is open and contrarian, and the difference is beat 2. Against Broker Problems: that one points at the viewer's brokerage, this one points at a practice or incentive anywhere in the business.
+
+---
+
+## Pillar 6 (substitute): Chicago Agent Spotlight
 
 **Series role:** recruiting signal via generosity. Not a fixed slot.
 **Format:** per [`series/chicago-agent-spotlight-standard.md`](series/chicago-agent-spotlight-standard.md). Scout a fresh Chicago agent in the news, verify the handle before tagging, verify every fact, never AI-generate the person's face, frame on the person and the lesson.
@@ -112,21 +133,25 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 | | Count | Gate |
 |---|---|---|
 | Value Giveaways (3 "say this" + 2 tool + 1 prompt) | 6 | gated |
+| The Take (Mon/Wed/Fri) | 3 | none |
 | News / Inside the Industry | 2 | none |
 | Broker Problems | 2 | none |
 | KIRP promos | 2 | none |
 | Chicago Agent Spotlight | substitutes into a News/Broker slot | none |
-| **Video total** | **12** | 6 gated |
+| **Video total** | **15** | 6 gated |
 | Carousels | 5 (2 gated, 3 not) | see carousel standard |
-| **Week total** | **17** | 8 gated |
+| **Week total** | **20** | 8 gated |
+
+**Heat budget across the whole week: one post at heat 4-5, and it is the Wednesday take.** Rule 9.2 counts posts, not series. If a News or Broker Problems script wants heat 4 in a given week, one of them gives way. The `news_brief.py` hook-cadence banner reports whether the slot is still open.
 
 The day-by-day grid lives in [`../schedule/master-calendar.md`](../schedule/master-calendar.md). Every sixth week, one Giveaway slot becomes a **tool launch**, and the six-week cycle also runs the event-promo runway (weeks 4-6) out of Giveaway slots. See the goal-reset doc for the cycle.
 
 ### Quality floor (never negotiable)
 
-17 posts a week is a volume that can quietly erode the standard the whole brand was built on. It does not get to.
+20 posts a week is a volume that can quietly erode the standard the whole brand was built on. It does not get to. The take lane added 3 videos on 2026-08-10 and is the newest, least proven load on the system, so it is named explicitly in the cut order below.
 
-- **The 3-pass rigor (draft → stress-test → EP-polish) is non-negotiable on every video.** If a week cannot clear 17 posts at that bar, ship fewer. A skipped slot costs nothing; a 2-pass filler post costs brand. Volume is never the goal -- recruits are.
+- **The 3-pass rigor (draft → stress-test → EP-polish) is non-negotiable on every video.** If a week cannot clear 20 posts at that bar, ship fewer. A skipped slot costs nothing; a 2-pass filler post costs brand. Volume is never the goal -- recruits are.
+- **Cut order when the week is too heavy:** takes drop from 3 to 1 (keep Wednesday, the heat-4 slot, since that is the one doing the distinctive work), then carousels 5 → 3, then videos back to 12. Takes are cut first because they are the newest lane and the least attributable, not because they are the least valuable. **A half-researched take is worse than no take** -- the receipt is the whole defense when the comments arrive.
 - **Carousels get their own defined QA** (the checklist in the Loomly handoff, [`series/carousel-standard.md`](series/carousel-standard.md)), so "lighter than a video" never means "sloppy."
 - **The week-4 checkpoint tests this explicitly:** is production quality holding at 17/week? If it is slipping, cut to 12 videos or drop carousels to 3 before cutting anything else. Reach and leads are worthless if the content that earns them stops being good.
 

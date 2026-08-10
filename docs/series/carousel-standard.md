@@ -322,6 +322,15 @@ prompt trying to hold all of them.
 
 Weekly totals: **3 KIRP, 3 takes, 1 broker-problem, 7 news/tip = 14.**
 
+**The 3 take carousels now pair with 3 take videos** (added 2026-08-10,
+[`take-standard.md`](take-standard.md)). Same Mon/Wed/Fri days, and critically the **same bank
+entry** from [`../../data/sacred-cows.md`](../../data/sacred-cows.md), so one verification pass
+covers both surfaces and the pair logs a single row in the rotation table. Division of labor: the
+video makes the argument and carries the who-profits turn; the carousel hands over the receipt in
+saveable form. The video claims the day's entry when D.J. films, so the 9:00am routine reads the
+rotation table first and does not re-pick a claimed entry. **Different hook family from the
+video** -- the video claims its family first.
+
 | Routine | Cron (CT) | Quota |
 |---|---|---|
 | KIRP episode carousel | Mon/Wed/Fri 8:00am | 1 |

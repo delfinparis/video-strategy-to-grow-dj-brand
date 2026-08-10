@@ -16,8 +16,9 @@ and [`docs/content-pillars.md`](docs/content-pillars.md). The short version:
 conversations, because no post in 90 days asked a viewer to raise a hand
 ([the review](docs/analytics/2026-07-19-pivot-results.md)).
 
-**The week: 17 posts.** 12 videos (6 Value Giveaways *gated*, 2 News, 2 Broker Problems, 2 KIRP promos;
-Chicago Agent Spotlight substitutes in) + 5 carousels (2 gated, 3 open).
+**The week: 20 posts.** 15 videos (6 Value Giveaways *gated*, 3 Takes, 2 News, 2 Broker Problems,
+2 KIRP promos; Chicago Agent Spotlight substitutes in) + 5 carousels (2 gated, 3 open).
+The 3 takes were added 2026-08-10 ([`docs/series/take-standard.md`](docs/series/take-standard.md)).
 
 **Which content gets a gate — this decides how you write the close:**
 
@@ -25,7 +26,7 @@ Chicago Agent Spotlight substitutes in) + 5 carousels (2 gated, 3 open).
 |---|---|
 | Value Giveaways (say-this / tool use-case / prompt), tool launches, event promos | **Gated** on IG + FB |
 | Gated carousels (2 of 5) | **Gated** on IG + FB; LinkedIn gets a link in the first comment instead |
-| News, Broker Problems, KIRP promos, Spotlight, the 3 open carousels | **Never gated**, any platform |
+| News, Broker Problems, **Takes**, KIRP promos, Spotlight, the 3 open carousels | **Never gated**, any platform |
 | Anything on **LinkedIn** | **Never a keyword gate.** Ever |
 
 A gated close is a *value-exchange gate* (a keyword delivering a real artifact), permitted by the
@@ -96,6 +97,7 @@ These are not editorial -- they're posting-day habits the algorithm rewards hard
 **Scope:** Any 45-75s talking-head script in this repo. Specifically:
 - All `scripts/inside-the-industry/` scripts (NF, IS, IA)
 - All `scripts/the-playbook/` scripts
+- All `scripts/takes/` scripts
 - All `scripts/ai-tip-of-the-week/` scripts
 - All `scripts/podcast-promos/` scripts
 - Any new short-form talking-head series we add
@@ -222,6 +224,31 @@ Any walk-and-talk that promotes a podcast episode (Keeping It Real or Coffee Tal
 The tip is the payload: lift one physical, do-it-tomorrow tactic from the episode. No fabricated stats -- every number traces to the analysis JSON (KIR) or the aired script (Coffee Talk).
 
 ---
+
+## D.J. says "take" (or "spicy take")? Follow the take standard
+
+When D.J. says **"take"**, **"spicy take"**, or picks a take slot, build it per
+[`docs/series/take-standard.md`](docs/series/take-standard.md). Three a week, Mon/Wed/Fri, ungated
+on every platform, output to `scripts/takes/TAKE-###-slug.md`. The short version:
+
+1. **Pull a candidate from [`data/sacred-cows.md`](data/sacred-cows.md)** and check the rotation
+   table at the bottom. No repeats inside 8 weeks. Entries marked `evidence: research` need their
+   number verified before they can ship; if it cannot be verified, pick another entry.
+2. **Five beats:** THE COW → WHO PROFITS → THE RECEIPT → THE SWAP → LOOP-BACK. Beat 2 (who makes
+   money from this belief surviving) is what makes it a take instead of a tip. Beat 4 is the
+   "do Y instead" half and it is not optional -- an indictment with no swap is a rant.
+3. **Heat: 3.5 Mon and Fri, exactly one 4 on Wed.** That Wednesday take is the *whole schedule's*
+   only heat-4/5 post under Rule 9.2, not just the series'. Heat 5 (naming a person, brokerage,
+   coach, or product) is banned outright in this lane, never rationed.
+4. **Rotate the hook family** so three swaps a week don't read formulaic: Mon Family 9, Wed
+   Family 2 or 4, Fri Family 5, 7, or 8. Never the same family as the day's paired carousel.
+5. **Pair it.** Each take shares its bank entry with that day's take carousel and logs one row in
+   the rotation table for both. Video argues it, carousel hands over the receipt.
+6. **Never gate a take.** No keyword, on any platform, including IG and FB.
+
+Two extra checks in the stress-test pass: the **rant test** (strip the swap -- is what's left
+still worth posting?) and the **recruiting test** (read the hook as a good agent who might join
+Kale; do they respect D.J. more or less?).
 
 ## Doing a Chicago Agent Spotlight? Follow the standard
 
