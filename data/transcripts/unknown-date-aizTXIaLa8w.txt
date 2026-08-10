@@ -1,0 +1,7 @@
+# The AI Prompt Realtors Should Run Before Every Showing
+video_id: aizTXIaLa8w
+url: https://www.youtube.com/watch?v=aizTXIaLa8w
+upload_date: unknown-date
+caption_status: MISSING (title recovered via oEmbed; upload date unavailable -- YT rate-limited metadata fetch 2026-08-10)
+------------------------------------------------------------
+
