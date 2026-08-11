@@ -194,6 +194,304 @@ themselves into Close, the same operating rule Broker Problems runs on.
 
 ---
 
+## Provocation is the point (D.J., 2026-08-11)
+
+**"We almost want people to get a little angry. We can cross the line with our statement, as
+long as it calls out bad behavior, hypocrisy, etc."**
+
+That is the register. A take that everyone nods along to did not work. But "cross the line" has
+to mean one specific thing, because there are two different lines and only one of them is
+available.
+
+### The line you can cross: intensity, and who the target is
+
+The original build of this lane pointed all friction at *practices and incentives*, and told
+scripts never to point at a person. That was too narrow. It is why the first brief came back
+polite. There is a third target class, and it is the best one:
+
+**Bad behavior and hypocrisy by other agents.** Not the viewer. The agent on the other side of
+the deal who does not return calls, who lies about multiple offers, who ghosts a buyer's agent
+for a week and then complains about communication, who takes an overpriced listing they know
+will not sell because they want the sign in the yard.
+
+This is where the anger belongs, and it is the safest anger available, because:
+
+- **The good agent watching is not the accused, they are the wronged party.** They have lost a
+  deal to exactly this person. They are not defensive, they are vindicated, and they comment.
+- **It is a recruiting asset, not a liability.** D.J. publicly holding a standard is the single
+  most attractive thing a brokerage president can do for the agents he wants to hire. Nobody
+  good ever left a brokerage because its president had standards.
+- **Anger at a bad practice is righteous. Anger at your audience is contempt.** Same volume,
+  opposite effect.
+
+So: go harder, and aim it sideways at the bad actor rather than down at the viewer.
+
+### The line you cannot cross: identifiability
+
+Not caution, and not mine. **D.J.'s own rule**, written into
+[`../../data/sacred-cows.md`](../../data/sacred-cows.md) the same day: *"Specific about the
+practice, unidentifiable as a party."* The test there is whether a reader could name one
+company with confidence, not whether the name was typed. A knowing wink carries the same
+exposure with less punch.
+
+That rule does not soften when the volume goes up. It matters *more*, because an angry line
+about a named party is the one that gets screenshotted.
+
+The two failure modes on either side:
+
+| Too far | Right | Too safe |
+|---|---|---|
+| "Agents at [named brokerage] don't return calls" | "The agent who takes four days to return a call is costing their seller real money, and everyone in this market knows who they are" | "Communication could be better in our industry" |
+
+The middle one is angrier than the right-hand column and legally and professionally safer than
+the left. Maximum specificity about the *behavior*, zero identifiability of the *party*. Every
+agent watching supplies a name themselves, which is the Rule 10.4 loop closing in their head.
+
+### The reference hook for this register
+
+> **"If you're using the Private Listing Network as a test-the-market tool, shame on you. Also,
+> you're going to get sued."**
+
+D.J.'s, and the best single example of the escalation. Moral condemnation plus a consequence,
+in two sentences, aimed at a practice that genuinely harms sellers. When calibrating how hot a
+take may run, calibrate against this.
+
+Note what it does with naming, because it looks like an exception and is not. The Private
+Listing Network is named, but **it is not the villain. The agent misusing it is.** Naming an
+industry mechanism that is already the subject of public litigation and public policy argument
+is a different act from calling a competitor bad at their job. D.J. is on the record in the
+trade press on private listings, so this is a position he already holds in public, not a
+subtweet.
+
+The distinction to carry forward: **name the mechanism, condemn the behavior, never disparage
+the company.** "Agents using the PLN to test price are going to get sued" is fair and hot.
+"[Brokerage] built the PLN to screw sellers" is heat 5 and stays banned.
+
+### Shape 7: the conditional + legal consequence
+
+Both of D.J.'s hottest examples run the same construction, so it gets a number:
+
+> **"If you're using the Private Listing Network as a test-the-market tool, shame on you. Also,
+> you're going to get sued."**
+>
+> **"If you're still doing dual agency in 2026, you're going to get sued."**
+
+*If you're still doing X, [consequence].* The "still" is doing quiet work: it frames the
+practice as something the industry has already moved past, so the viewer is not just wrong,
+they are behind. That is the sharpest legitimate provocation available, and it does not insult
+anyone's intelligence.
+
+This is the highest-heat shape in the set. It runs in the **Wednesday slot** and nowhere else.
+
+**It also carries the highest evidence burden in the lane.** "You're going to get sued" is a
+legal prediction, and it needs a receipt like any other claim: the live litigation, the actual
+statute, the Clear Cooperation obligation, the state disclosure rule, a real filed case. Cite
+what the exposure actually is and do not overstate certainty about how a court will rule. A
+named consequence with nothing behind it is the one overclaim this lane cannot survive,
+precisely because the angrier version travels further.
+
+Say the exposure, not the verdict. "This is what the pending Chicago case turns on" is
+defensible. "You will lose" is a prediction D.J. cannot back.
+
+**This vein is under-supplied.** The bank has no legal-exposure section, and these two examples
+show why it needs one: dual agency, private-listing misuse, Clear Cooperation, buyer-agreement
+and disclosure failures. Those are all practices with real filed litigation behind them, which
+means the receipt already exists. Worth adding to
+[`../../data/sacred-cows.md`](../../data/sacred-cows.md) as its own section.
+
+### Anger still pays a debt
+
+The escalation does not repeal beat 4. **An angry take that hands over nothing is a rant**, and
+it is worse at volume than it was at heat 3.5, because now the viewer is agitated and abandoned.
+If the script raises someone's blood pressure, the swap has to give them somewhere to put it.
+
+Two things that stay true no matter how hot it runs: no fabricated receipt, and no punching
+down at newer or struggling agents. Hypocrisy and bad behavior are the targets. Inexperience is
+not.
+
+## The hook is a verdict, not an observation
+
+**Name the mistake, flat, in the first five words.** D.J.'s note, 2026-08-11: the hooks were
+coming back too soft. A take opens by telling the viewer they are doing a specific thing wrong.
+It does not ease into it, hedge it, or arrive at it by the back door.
+
+**Firmness comes from stakes, not from grammar.** A hook is not soft because it uses a
+negative. It is soft because nothing is at risk in it. D.J.'s own example, which fixed a hook
+in the 2026-08-11 brief:
+
+> Soft: "Your brokerage's logo isn't why they hired you."
+> Firm: **"Your brokerage's logo isn't worth what they charge you."**
+
+Both are negations. The first is trivia about how buyers choose an agent, and the correct
+reaction is a shrug. The second says the viewer is overpaying, right now, every month, for a
+thing. Same sentence shape, and one of them has a price tag in it.
+
+So the question is never "is this phrased positively." It is **what does this cost the person
+watching, and did I say so.**
+
+The four ways a take hook goes soft, all of which have shipped in a draft brief:
+
+| Soft | Why it fails | Firm |
+|---|---|---|
+| **No cost named.** "Your brokerage's logo isn't why they hired you" | True, and free. Nothing is at stake, so nothing stops | "Your brokerage's logo isn't worth what they charge you" |
+| **Hedging adverb.** "quietly killing your reach," "probably costing you" | "Quietly" is the writer apologising for the claim mid-sentence | "'Comment below' is killing your reach" |
+| **Nothing concrete anywhere.** "the model," "the system," "the industry," and nothing else | Nobody recognises their own Tuesday in a hook made entirely of abstractions | Keep the system as the villain if you want, but anchor it: a cohort, a deadline, a fee, a sentence the manager says |
+| **Observation.** "A lot of agents struggle with..." | A weather report. No verdict, no tension, nothing to argue with | "You are doing this, and it is costing you" |
+
+The stakes do not have to be money, though money is the sharpest and the most available in this
+business. A wasted Sunday, a listing lost, a lead that went cold, a year that did not compound:
+all are costs. "You spent Sunday on this and got nothing" is firm. "This is not the best use of
+Sunday" is not.
+
+### The two shapes (D.J.'s, 2026-08-11)
+
+Both are second person, both name the specific behaviour, and both attach the harm in the same
+breath. Start here before writing anything else.
+
+**1. The imperative + harm.** A direct order, then what it is doing to them.
+
+> **"Stop using 'comment below' on your posts. It's hurting you."**
+
+**2. The verdict + cost.** A flat ruling on a thing they own or pay for, with the price in it.
+
+> **"Your brokerage's logo isn't worth what they charge you."**
+
+**3. The cohort reversal.** Name a group by the position they hold, tell them flatly they are
+wrong, then reframe rather than demolish.
+
+> **"For those of you who say open houses aren't effective, you are dead wrong. They're just
+> effective at something else."**
+
+This one is worth more than it looks. The other two shapes both run at the mainstream default,
+and a lane that only ever does that becomes predictable inside a month: every video is
+everything-you-know-is-wrong, and the audience starts discounting the hook before D.J. finishes
+it. The reversal runs at the *contrarian* consensus instead, which is a position half the
+sophisticated agents in the audience already hold, so it surprises the exact viewers who had
+stopped being surprised.
+
+It also protects a bank entry from being spent as a demolition when the honest answer is "the
+practice is fine, the stated purpose is wrong." Several entries are really this shape:
+open houses, and arguably follow-up cadence and market-update emails. Reach for it when killing
+the practice outright would be an overclaim D.J. would have to walk back.
+
+The reframe half is mandatory. "You are dead wrong" with no "it's actually for this" is a
+contrarian pose, not a take, and it leaves the viewer with nothing to do on Monday.
+
+**4. The cohort address + indictment + promise.** Say who it is for, name what is being done to
+them with a hard marker, then promise the way out in the same breath.
+
+> **"If you're a realtor in your first year, the whole system is designed to get you to quit
+> before month 12. And here's how to survive it."**
+
+Three moving parts, and each is doing a job:
+
+- **"If you're a realtor in your first year"** is a targeting line. It costs a second of runtime
+  and buys the entire remaining audience, because everyone outside the cohort leaves and
+  everyone inside it leans in. Use it when the take only applies to a slice.
+- **"before month 12"** is the anchor. This is what lets the villain be "the whole system"
+  without going vague. A deadline, a dollar figure, or a named practice will all do it. One
+  concrete thing is enough.
+- **"And here's how to survive it"** is an explicit forward promise. The other three shapes open
+  their loop implicitly and trust the viewer to want the resolution; this one states it. Use it
+  when the problem is heavy enough that a viewer might bail out of dread rather than boredom,
+  which is exactly the risk on the first-year and money entries.
+
+The promise is not an engagement ask and does not touch Rule 4. It promises the viewer
+something in the video, not an action for the channel. "Here's how to survive it" is fine.
+"Comment SURVIVE and I'll send it" is a gate, and takes are never gated.
+
+**5. The paradox verdict.** Take a thing they believe is fine, or even good, and rule it a
+failure in one line.
+
+> **"If you show up for a listing appointment on time, you're late."**
+
+The shortest shape and the highest ceiling. It works because the viewer's first reaction is
+"that's wrong" and their second is "wait, why would he say that," which is the loop opening by
+itself. Keep it under about ten words. The whole force is in the flip, and every extra clause
+bleeds it.
+
+It only works on a behaviour with a genuine standard attached. "On time" is a real norm, so
+overturning it is a real claim. Flipping something nobody believed in the first place is just
+noise.
+
+**6. The diagnosed loss.** Open on a specific defeat the viewer has actually lived, ask why it
+happened, then answer it bluntly with the exact missing move.
+
+> **"You know why your offer didn't get accepted? You didn't call and text the listing agent
+> one minute after you sent it."**
+
+The most agitating shape in the set, and the one to reach for when the entry maps to a loss
+rather than a waste. The viewer is not being asked to imagine a hypothetical; they are
+remembering a specific deal they lost. The answer has to be equally specific: "one minute after
+you sent it" is the shape, "follow up promptly" is not.
+
+The rhetorical question is doing real work here and is not the self-answered-question AI tell
+the [field guide](../ai-tells-field-guide.md) bans. That ban is about questions asked to fill
+space and answered with a restatement. This one names a concrete outcome the viewer owns and
+answers with a tactic they can run tomorrow.
+
+### Which shape to reach for
+
+| Situation | Shape |
+|---|---|
+| A habit they perform, and you have the better version | 1, imperative + harm |
+| Something they pay for or own | 2, verdict + cost |
+| The practice is fine, the stated purpose is wrong | 3, cohort reversal |
+| Applies to one slice, and the news is heavy | 4, address + indictment + promise |
+| A norm they think they are meeting | 5, paradox verdict |
+| A specific deal or listing they lost | 6, diagnosed loss |
+
+Rotate them. Six shapes across three videos a week means no shape repeats inside a week, and
+the hook family rotation in the next section still governs on top of this.
+
+**A note on shapes 5 and 6, and the lane boundary.** Both of D.J.'s examples for these are
+execution details rather than sacred cows: showing up early, calling one minute after sending
+an offer. Neither has an obvious who-profits beat, because nobody is making money off agents
+arriving on time. That does not make them worse hooks. It means a script built on one of them
+has to either find the real beat 2 (who taught them the weaker version, and why it stuck) or
+ship as a **"say this, not that" Value Giveaway** instead, which is the gated lane that exists
+for exactly this kind of tactical payload. Do not force a who-profits villain that is not there
+just to keep a hook in this lane. The hook is portable; the beats are what decide which series
+it belongs to.
+
+What both have that the soft versions did not: the viewer is the subject, the behaviour is
+named exactly (not "engagement bait," the literal words "comment below"), and the sentence does
+not end until the damage is stated. A hook that names the behaviour but stops before the harm
+is half a hook.
+
+The imperative shape is the blunter of the two and is the default for Monday's Family 9 Swap,
+where "stop X, do Y" is already the spine. The verdict shape carries the heavier Wednesday
+Family 2 and 4 slots, where the target is a practice or an incentive rather than a habit.
+
+Do not write "STOP" in capitals in the script itself. These are spoken lines and captions are
+generated from the audio, so emphasis comes from delivery. The capitals in D.J.'s note are him
+telling you the register, not the typography.
+
+Tests before a hook ships:
+
+- **What does this cost them, and did I say it?** The first test, and the one the others hang
+  off. If the hook can be answered with "sure, so what," go back and put the price in.
+- **Could a viewer disagree with it out loud?** If there is nothing to argue with, it is an
+  observation and it will not stop a scroll or earn a comment.
+- **Does it name a specific thing the viewer did this week?** Not a belief they hold, a
+  behaviour they performed. "You sat an open house Sunday" beats "open houses are overrated."
+- **Is the verdict in the first five words?** "Your brokerage budgeted for you to quit" lands
+  in four. "There's something worth understanding about how brokerages think about first-year
+  agents" lands never.
+- **Would D.J. say it to one agent, to their face, over coffee?** That is the register. Firm,
+  specific, not cruel, and not softened because it is going out to thousands instead of one.
+
+**Firm about the mistake, generous about why they made it.** This is the pairing that keeps
+bluntness from tipping into contempt, and it is why beat 2 exists. The hook names the error
+without flinching; the very next beat names who profits from them having believed it. The
+viewer gets about three seconds of "that's me and it's wrong" before the script hands them the
+reason it was never really their fault. Blunt hook plus who-profits turn is the whole engine.
+A blunt hook *without* that turn is just an insult with good timing.
+
+What still does not change: friction points outward at the practice, never at the person. "You
+are opening with the wrong thing" is firm. "You are lazy for opening with the wrong thing" is
+an insult and fails qualifying test 4.
+
 ## Hook rotation
 
 The swap construction ("stop X, do Y") is the spine of every script in this lane, which means it
