@@ -1,0 +1,115 @@
+# The weekly take brief: how it gets produced
+
+The take lane ([`../series/take-standard.md`](../series/take-standard.md)) needs 3 scripts a
+week. This is how D.J. gets 5-7 vetted options to pick them from, every Sunday.
+
+Deliberately **not** built like the walk-and-talk chain. That one is a daily 5:30am research
+routine feeding a Gmail draft, an Apps Script sender, an alarm, and a reply watcher, and
+[`walk-and-talk-delivery.md`](walk-and-talk-delivery.md) is a post-mortem of what happens when
+one link in it goes quiet. A weekly planning artifact does not need to beat D.J. to the alarm
+clock, so it does not buy a second copy of that risk. The brief lands in the repo and D.J.
+picks from it in Claude Code whenever he sits down.
+
+## The chain
+
+```text
+Sunday 7:00am CT   Take Brief routine
+                     |
+                     |  1. git pull
+                     |  2. python3 scripts/take_brief.py --count 6
+                     |       (deterministic: rotation, section spread, receipt status)
+                     |  3. web-verify every NEEDS RECEIPT option
+                     |  4. write Hook / Swap / Loop-back into each option
+                     |  5. commit + push
+                     v
+       data/take-briefs/YYYY-MM-DD.md
+                     |
+                     v
+Any time that week   D.J.: "takes"  ->  Claude lists the options
+                     D.J.: "takes 2" ->  Claude builds the full script
+```
+
+## The split, and why it is where it is
+
+| Half | Runs where | Why |
+|---|---|---|
+| Rotation math, section spread, receipt status | `scripts/take_brief.py`, offline, no dependencies | The 8-week window is arithmetic. A model asked to count weeks gets it wrong eventually, and gets it wrong *silently* |
+| Sourcing numbers, writing hooks | The routine | 19 of 42 bank entries have no verified number. Sourcing needs web search, which a script-side API call would not have |
+
+The script writes a **skeleton** with `_[routine fills in]_` where the hook, swap, and loop-back
+go. That is on purpose: a half-run routine should look obviously broken rather than look
+finished. If D.J. opens a brief and sees those placeholders, step 3 or 4 did not happen.
+
+## The script
+
+```bash
+python3 scripts/take_brief.py               # 6 options -> data/take-briefs/<today>.md
+python3 scripts/take_brief.py --count 7     # 5-7 allowed
+python3 scripts/take_brief.py --verified-only   # only entries that already have a receipt
+python3 scripts/take_brief.py --stdout      # print, don't write
+```
+
+Standard library only. It reads [`../../data/sacred-cows.md`](../../data/sacred-cows.md) and
+nothing else, so it runs anywhere the repo is checked out.
+
+What it guarantees:
+
+- **No entry used inside 8 weeks**, counted off the rotation table at the bottom of the bank.
+- **Section spread** by round-robin, so one section cannot fill the brief.
+- **Ship-ready first.** Entries with in-repo evidence outrank entries still needing research.
+- **Bank health footer** listing what is blocked and until when, plus a refill warning when
+  eligible entries drop under 24.
+
+What it refuses to do: invent a number, or write a hook that implies one.
+
+## The routine's job
+
+Beyond running the script, the routine owns the part that needs judgment and the web:
+
+1. **Clear every NEEDS RECEIPT block.** Find a real figure with a named publisher and a year.
+   If one cannot be found, **drop that option and note it** rather than softening the claim
+   into something unfalsifiable. Six honest options beat seven with a soft one.
+2. **Re-check in-repo receipts that carry a caveat.** Several bank entries say things like
+   "needs the current NAR Profile citation." A stat that was right in April may be wrong now.
+3. **Write the hook, swap, and loop-back** per the take standard: spoken scroll-stop, tension
+   in the first 3-5 words, friction outward at the incentive, swap physical and doable
+   tomorrow.
+4. **Assign slots.** Exactly one Wednesday pick (the week's only heat-4 post under Rule 9.2),
+   the rest across Mon and Fri, hook families rotated per the standard.
+5. **Never name** a brokerage, coach, product, or individual agent. That is heat 5 and banned
+   outright in this lane.
+
+## Picking and building
+
+In Claude Code, on any device:
+
+- **"takes"** reads the newest `data/take-briefs/*.md` and lists the options.
+- **"takes 2"** (or several numbers) builds the full script through the four passes, out to
+  `scripts/takes/TAKE-###-slug.md`.
+
+Claude re-verifies the receipt at build time regardless of what the brief says. The brief is a
+shortlist, not a clearance.
+
+After building, the chosen entries get logged in the rotation table in
+[`../../data/sacred-cows.md`](../../data/sacred-cows.md) so the 9:00am take-carousel routine
+does not re-pick them.
+
+## When the brief does not show up
+
+There is no alarm on this one, by design: a missing weekly planning doc is a mild
+inconvenience, not a missed post, and an alarm nobody needs is how real alarms get ignored.
+
+1. `git pull`, then check whether `data/take-briefs/<sunday>.md` exists.
+2. If it does not, just run `python3 scripts/take_brief.py` yourself. It needs no API key and
+   no network, and it produces the skeleton in under a second. Then say "takes" and Claude
+   fills in the rest live, which is the same work the routine would have done.
+3. Check the routine at <https://claude.ai/code/routines> if it keeps missing.
+
+The recovery path is genuinely as good as the happy path here, which is the main reason this
+lane does not need the walk-and-talk chain's machinery.
+
+## Failure mode worth knowing
+
+**The brief exists but is full of `_[routine fills in]_`.** The script ran and the routine
+died before step 4. The options are still real and the rotation math is still correct, so say
+"takes" and Claude fills them in live. Do not post from a skeleton.

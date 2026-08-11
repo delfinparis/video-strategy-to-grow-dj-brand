@@ -225,15 +225,31 @@ The tip is the payload: lift one physical, do-it-tomorrow tactic from the episod
 
 ---
 
-## D.J. says "take" (or "spicy take")? Follow the take standard
+## D.J. says "takes"? Show the week's options, then build the pick
 
-When D.J. says **"take"**, **"spicy take"**, or picks a take slot, build it per
-[`docs/series/take-standard.md`](docs/series/take-standard.md). Three a week, Mon/Wed/Fri, ungated
-on every platform, output to `scripts/takes/TAKE-###-slug.md`. The short version:
+When D.J. says **"takes"** (with or without a number), work from the weekly brief:
 
-1. **Pull a candidate from [`data/sacred-cows.md`](data/sacred-cows.md)** and check the rotation
-   table at the bottom. No repeats inside 8 weeks. Entries marked `evidence: research` need their
-   number verified before they can ship; if it cannot be verified, pick another entry.
+1. `git pull` (3 devices), then read the newest `data/take-briefs/*.md`.
+2. Show the options as a short numbered list: the cow plus its one-line hook. No preamble.
+3. D.J. picks a number, or several. Build each per the standard below.
+4. If today's brief is missing, run `python3 scripts/take_brief.py` right then. It needs no API
+   key and no network. If the brief exists but its options still say `_[routine fills in]_`, the
+   Sunday routine died halfway: source the receipts and write the hooks live before building.
+
+The brief is produced Sunday 7:00am CT by the **Take Brief** routine, which runs the script and
+then web-verifies every option marked NEEDS RECEIPT. Full chain, and why it deliberately does
+NOT use the walk-and-talk email machinery: [`docs/automation/take-brief.md`](docs/automation/take-brief.md).
+
+## Building a take? Follow the take standard
+
+Build per [`docs/series/take-standard.md`](docs/series/take-standard.md). Three a week,
+Mon/Wed/Fri, ungated on every platform, output to `scripts/takes/TAKE-###-slug.md`.
+The short version:
+
+1. **Re-verify the receipt before drafting, every time**, whatever the brief says. A brief is a
+   shortlist, not a clearance. Entries marked `evidence: research` in
+   [`data/sacred-cows.md`](data/sacred-cows.md) have no sourced number yet; if one cannot be
+   found, drop the option rather than soften the claim. No repeats inside 8 weeks.
 2. **Five beats:** THE COW → WHO PROFITS → THE RECEIPT → THE SWAP → LOOP-BACK. Beat 2 (who makes
    money from this belief surviving) is what makes it a take instead of a tip. Beat 4 is the
    "do Y instead" half and it is not optional -- an indictment with no swap is a rant.
