@@ -66,7 +66,7 @@ Every number and claim above is from the episode. No new stats introduced.
 **Vibe:** Warm and inviting with enough forward momentum to match the "human expert beats AI" reveal. Guest-interview energy -- the bed should feel like something clicked, not a news alert.
 
 **CapCut AI Music:**
-> Instrumental modern interview-show theme, warm and inviting, 95 BPM, electric piano, mellow guitar, brushed kick, no vocals, warm bed for voiceover, loopable
+> Instrumental only, modern interview-show theme, warm and inviting, 95 BPM, electric piano, mellow guitar, brushed kick, no vocals, no melodic hook, no vocal chops, no risers, no whooshes, unobtrusive background for voiceover, loopable, 60-70s
 
 ---
 

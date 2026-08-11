@@ -48,6 +48,38 @@ before drafting.
 heat 5 and it is banned outright on both surfaces, not rationed. Point at the practice and
 the incentive behind it. Entries below that sit close to that line carry a **Heat check**.
 
+### Specific about the practice, unidentifiable as a party
+
+**The rule is not "avoid the name." It is "create no identifiable target."** Those are
+different, and confusing them produces the two failure modes on either side of the good
+version.
+
+A knowing wink is not a shield. Defamation and commercial disparagement turn on whether a
+reasonable reader can identify who is meant, not on whether the name was typed. "We all
+know which brokerage does this" carries the same exposure as naming them, with less punch.
+D.J. is a brokerage president quoted in the trade press, not an anonymous account.
+
+The opposite failure is worse for the content: hedging into mush. "Some brokerages don't
+provide great value" is safe and says nothing, and it will not earn a single comment.
+
+**Go maximally specific about the practice, while the target stays a category:**
+
+> The brokerage charging you a monthly technology fee for a website you never asked for
+> and three leads a year you didn't close.
+
+Every agent reading that supplies a name themselves, which is exactly the Rule 10.4 loop
+closing in their head. Nobody can point at a defendant. Name the fee, the number, the
+thing that happens on the deal, the sentence the manager says. Never the company.
+
+**The recruiting reason, which matters more than the legal one.** These agents are the
+people D.J. wants to hire. Someone at a brokerage that was obviously subtweeted cannot
+come work for him without eating crow first. The post has to read as a description of
+their *situation*, never an attack on their employer.
+
+Test before shipping: **could a reader name one company with confidence?** If yes, it is
+too identifiable, no matter how careful the wording. If no, and the practice still lands
+hard enough that an agent recognises their own Tuesday in it, it is right.
+
 ---
 
 ## Bank
