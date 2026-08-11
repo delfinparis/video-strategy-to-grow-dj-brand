@@ -316,9 +316,33 @@ an agent on a color palette. Evidence: research.
 Do not repeat an entry inside **8 weeks**, and do not run two from the same section back
 to back. Log each use below.
 
-**One row per entry, not per surface.** A paired video and carousel share a row. The video
-claims the entry when D.J. films and logs it here; the 9:00am carousel routine reads this
-table and does not re-pick a claimed entry.
+**One row per entry, not per surface.** A paired video and carousel share a row.
+
+**Paired, not mutually exclusive (settled 2026-08-11).** The video and the carousel for a
+given day work the **same entry**. The video makes the argument, the carousel hands over
+the receipt. An earlier version of this note said the carousel "does not re-pick a claimed
+entry," which read as avoidance and contradicted
+[`take-standard.md`](../docs/series/take-standard.md). Pairing is correct, and the runway
+math is why: 3 entries a week against this bank is roughly 14 weeks of clean rotation, and
+consuming them divergently would be 6 a week and about 7 weeks before repeats are forced.
+
+**Who claims, and what happens when nobody has.** The video claims the day's entry when
+D.J. films and writes the row. The 9:00am carousel routine then reads the row for today and
+builds the same entry, filling in the Carousel column.
+
+If no row exists for today, the carousel **does not block**. It picks its own entry, writes
+the row itself, and leaves the Video column as `--`. A video filmed later that day pairs
+onto that row. Whichever surface goes first claims; the other follows. The carousel never
+waits on filming, and filming never waits on the carousel.
+
+**The two rules the carousel follows when pairing:**
+
+1. **A different hook family than the video's.** The video claims its family first, per the
+   rotation table in `take-standard.md`. Same entry, same argument, two openings.
+2. **Brokerage economics entries are not take material.** Splits, fees, support and training
+   belong to Broker Problems. The take slot is for practice, marketing, prospecting and money
+   beliefs. This applies to both surfaces, and it is the rule the 2026-08-07
+   switching-brokerages carousel broke before it was written down.
 
 **Runway.** 3 entries a week against a 42-entry bank with an 8-week no-repeat rule is
 roughly 14 weeks of clean rotation. When the bank drops under 24 unused entries, refill it

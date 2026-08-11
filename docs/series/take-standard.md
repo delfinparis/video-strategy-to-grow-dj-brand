@@ -97,6 +97,15 @@ coach, or a specific product as wrong. D.J. runs a 769-agent brokerage and is on
 trade press. Point at the practice and the incentive behind it, never at a named party. This is
 not a cadence rule that can be spent; it is a floor.
 
+**And the rule is "no identifiable target," not "no name typed."** Read
+[`sacred-cows.md`](../../data/sacred-cows.md), the section *Specific about the practice,
+unidentifiable as a party*, before drafting beat 1 or beat 2. A knowing wink is not a shield:
+"we all know which brokerage does this" carries the same exposure as naming them, with less
+punch. The opposite failure is more common and worse for this lane, which lives or dies on
+disagreement: hedging into "some brokerages don't provide great value" is safe, says nothing,
+and nobody argues with it. Go maximally specific about the *practice* while the target stays a
+category. Ship test: could a viewer name ONE company with confidence? If yes, rewrite.
+
 ---
 
 ## The qualifying test (inherited from the bank)
