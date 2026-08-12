@@ -128,6 +128,13 @@ doc used to carry. Five is exactly the five roles above with nothing spare, whic
 point: at two decks a day the binding constraint is D.J.'s attention, not the format's
 capacity, and a fixed five stops a thin idea from being padded into nine slides.
 
+**Every lane, no exceptions (re-confirmed 2026-08-12).** Five is not a news/tip rule that
+the longer-form lanes get to opt out of. **KIRP episode decks and broker-problem decks are
+five slides too** -- a podcast episode has more in it than five slides can hold, and that
+is the point: the deck carries one idea from the episode and the episode carries the rest.
+Same for the broker-problem comparison. A KIRP deck that wants eight slides is a KIRP deck
+that has not picked its one idea yet.
+
 **What five costs, so it is a deliberate trade and not a surprise.** There is one body
 slide. A deck can carry one idea and its payload, nothing more. Anything with two ideas
 in it is two decks, and a story that needs setup is a video. The old note that "under 6
@@ -302,7 +309,7 @@ carousel_for: "Working title of the post"
 hook_family: "data-card"          # the slide-1 family, per the list above
 platform_primary: "Instagram (carousel)"
 platform_secondary: "LinkedIn (PDF/document carousel)"
-slide_count: 8
+slide_count: 5                    # always 5. Every lane, no exceptions
 goal: "reach-and-saves"
 generated: "YYYY-MM-DD"
 ---
