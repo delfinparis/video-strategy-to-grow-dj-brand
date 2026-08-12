@@ -7,8 +7,8 @@ Deliberately **not** built like the walk-and-talk chain. That one is a daily 5:3
 routine feeding a Gmail draft, an Apps Script sender, an alarm, and a reply watcher, and
 [`walk-and-talk-delivery.md`](walk-and-talk-delivery.md) is a post-mortem of what happens when
 one link in it goes quiet. A weekly planning artifact does not need to beat D.J. to the alarm
-clock, so it does not buy a second copy of that risk. The brief lands in the repo and D.J.
-picks from it in Claude Code whenever he sits down.
+clock, so it does not buy a second copy of that risk. The brief lands in the repo, a Gmail
+draft nudges him, and he picks from it in Claude Code whenever he sits down.
 
 ## The chain
 
@@ -21,13 +21,49 @@ Sunday 7:00am CT   Take Brief routine
                      |  3. web-verify every NEEDS RECEIPT option
                      |  4. write Hook / Swap / Loop-back into each option
                      |  5. commit + push
+                     |  6. create ONE Gmail draft (unsent)
                      v
-       data/take-briefs/YYYY-MM-DD.md
+       data/take-briefs/YYYY-MM-DD.md   +   draft "Take options - week of <Mon date>"
                      |
                      v
 Any time that week   D.J.: "takes"  ->  Claude lists the options
                      D.J.: "takes 2" ->  Claude builds the full script
 ```
+
+## The email is a DRAFT, and a draft is not a delivery
+
+D.J.'s call, 2026-08-12, matching what the take-carousel, KIRP, and news/tip routines already
+do. Read this before assuming he has seen a brief.
+
+**The Gmail connector cannot send.** It only creates drafts. That is the whole reason the
+walk-and-talk chain needs an Apps Script sender at all. So this brief produces a draft sitting
+in D.J.'s drafts folder, titled `Take options - week of <Mon date>`, and nothing moves it to
+his inbox.
+
+That is a deliberate trade, not an oversight. A real sent email would need a second
+subject-line contract in the Apps Script, and that contract is exactly what caused the
+five-day outage in June 2026 when a routine switched an em dash to a hyphen. For a weekly
+planning doc the draft is enough of a nudge, and the repo file is the real artifact.
+
+**What follows from that:**
+
+- **A created draft is not proof D.J. read it.** The walk-and-talk doc's rule ("never treat
+  file existence as delivery") applies here with one more step removed. Do not report a brief
+  as delivered because a draft exists.
+- **The draft is written to be pickable from a phone.** Spoken hook first on every option,
+  because that is what he is actually choosing between, then slot, swap, and receipt. He should
+  not need to open the repo to choose.
+- **Replying to it does nothing.** There is no reply watcher on this routine, unlike the
+  walk-and-talk chain. The draft says so in its last line. If a reply-to-build flow is ever
+  wanted here, it needs building; do not assume it works because the daily one does.
+- **A failed draft must be reported, never silent.** The routine is instructed to say so
+  loudly in its summary if the Gmail connector is down, because a silent fallback is a bug
+  (same rule as the walk-and-talk chain). The connector losing OAuth is the single most common
+  failure across these routines.
+
+**Upgrade path if the draft turns out to be too easy to miss:** extend
+`scripts/apps-script/walk-and-talk-project.gs` with a second sender keyed to the
+`Take options` subject prefix. Change the subject in one place, change it in both.
 
 ## The split, and why it is where it is
 
@@ -98,6 +134,8 @@ does not re-pick them.
 
 There is no alarm on this one, by design: a missing weekly planning doc is a mild
 inconvenience, not a missed post, and an alarm nobody needs is how real alarms get ignored.
+The Gmail draft is a nudge, not a watchdog. No draft means no alarm fires, so silence here
+means nothing either way.
 
 1. `git pull`, then check whether `data/take-briefs/<sunday>.md` exists.
 2. If it does not, just run `python3 scripts/take_brief.py` yourself. It needs no API key and
@@ -113,3 +151,8 @@ lane does not need the walk-and-talk chain's machinery.
 **The brief exists but is full of `_[routine fills in]_`.** The script ran and the routine
 died before step 4. The options are still real and the rotation math is still correct, so say
 "takes" and Claude fills them in live. Do not post from a skeleton.
+
+**The draft arrived but the repo file did not, or vice versa.** These are steps 5 and 6 and
+either can fail alone. The repo file is the authoritative artifact; the draft is a copy for
+reading on a phone. If they disagree, trust the file. If only the draft exists, the commit
+failed and the brief will be missing from the repo for anyone on another device.
