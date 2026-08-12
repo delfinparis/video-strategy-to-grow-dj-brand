@@ -19,14 +19,20 @@ as the user and the files land against his own quota.
 
 Get the token once with scripts/drive_auth.py.
 
+GBP post cards ride the same pipe. They are flat files in graphics/gbp/ rather
+than a folder per deck, so that whole directory syncs as one unit.
+
 Env:
     GOOGLE_OAUTH_CLIENT_ID
     GOOGLE_OAUTH_CLIENT_SECRET
     GOOGLE_OAUTH_REFRESH_TOKEN
     DRIVE_CAROUSELS_FOLDER_ID     the parent folder id in Drive
+    DRIVE_GBP_FOLDER_ID           optional. Where GBP cards go. Unset, they
+                                  land in a `gbp` subfolder beside the decks.
 
 Usage:
-    python3 scripts/drive_sync.py <deck-dir> [<deck-dir> ...]
+    python3 scripts/drive_sync.py <dir> [<dir> ...]
+    python3 scripts/drive_sync.py graphics/gbp
     python3 scripts/drive_sync.py --all
 """
 
@@ -43,6 +49,9 @@ from googleapiclient.http import MediaFileUpload
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CAROUSEL_ROOT = os.path.join(BASE_DIR, "graphics", "carousels")
+# GBP post cards are flat files in one folder, not a folder per deck, so they
+# sync as a single directory rather than one Drive folder per card.
+GBP_ROOT = os.path.join(BASE_DIR, "graphics", "gbp")
 SCOPES = ["https://www.googleapis.com/auth/drive"]
 
 # Zips are gitignored, so they never reach CI. Everything else in a deck folder
@@ -162,21 +171,31 @@ def check_parent(svc, parent_id):
         )
 
 
-def sync_deck(svc, parent_id, deck_dir):
-    slug = os.path.basename(deck_dir.rstrip("/"))
+def sync_dir(svc, parent_id, src_dir, nest=True):
+    """Mirror one local directory into Drive.
+
+    nest=True puts the files in a Drive subfolder named after the directory,
+    which is what every deck wants. nest=False uploads straight into parent_id,
+    for when the target folder in Drive already is the destination.
+    """
+    slug = os.path.basename(src_dir.rstrip("/"))
     files = sorted(
-        os.path.join(deck_dir, f)
-        for f in os.listdir(deck_dir)
+        os.path.join(src_dir, f)
+        for f in os.listdir(src_dir)
         if os.path.splitext(f)[1].lower() in UPLOAD_EXT
     )
     if not files:
         print(f"  {slug}: nothing to upload")
         return
-    folder_id = ensure_folder(svc, parent_id, slug)
+    folder_id = ensure_folder(svc, parent_id, slug) if nest else parent_id
     counts = {"created": 0, "updated": 0}
     for path in files:
         counts[upload(svc, folder_id, path)] += 1
     print(f"  {slug}: {counts['created']} new, {counts['updated']} updated")
+
+
+def is_gbp(path):
+    return os.path.abspath(path).rstrip("/") == GBP_ROOT
 
 
 def main():
@@ -184,28 +203,40 @@ def main():
     if not args:
         sys.exit(__doc__)
 
-    parent_id = os.environ.get("DRIVE_CAROUSELS_FOLDER_ID", "").strip()
-    if not parent_id:
+    carousels_id = os.environ.get("DRIVE_CAROUSELS_FOLDER_ID", "").strip()
+    if not carousels_id:
         sys.exit("DRIVE_CAROUSELS_FOLDER_ID is not set")
+    # Optional. Without it the GBP cards land in a `gbp` subfolder beside the
+    # decks, which still gets them to Jennica. Set it to give them their own
+    # top-level folder, and they upload straight into it.
+    gbp_id = os.environ.get("DRIVE_GBP_FOLDER_ID", "").strip()
 
     if args == ["--all"]:
-        decks = [
+        dirs = [
             os.path.join(CAROUSEL_ROOT, d)
             for d in sorted(os.listdir(CAROUSEL_ROOT))
             if os.path.isdir(os.path.join(CAROUSEL_ROOT, d))
         ]
+        if os.path.isdir(GBP_ROOT):
+            dirs.append(GBP_ROOT)
     else:
-        decks = [d for d in args if os.path.isdir(d)]
+        dirs = [d for d in args if os.path.isdir(d)]
 
-    if not decks:
-        print("No deck folders to sync.")
+    if not dirs:
+        print("Nothing to sync.")
         return
 
     svc = drive_client()
-    check_parent(svc, parent_id)
-    print(f"Syncing {len(decks)} deck(s) to Drive:")
-    for deck in decks:
-        sync_deck(svc, parent_id, deck)
+    check_parent(svc, carousels_id)
+    if gbp_id and any(is_gbp(d) for d in dirs):
+        check_parent(svc, gbp_id)
+
+    print(f"Syncing {len(dirs)} folder(s) to Drive:")
+    for path in dirs:
+        if is_gbp(path):
+            sync_dir(svc, gbp_id or carousels_id, path, nest=not gbp_id)
+        else:
+            sync_dir(svc, carousels_id, path)
 
 
 if __name__ == "__main__":

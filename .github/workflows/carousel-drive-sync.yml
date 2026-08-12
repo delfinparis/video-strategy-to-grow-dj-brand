@@ -1,20 +1,21 @@
-name: Carousel slides to Drive
+name: Graphics to Drive
 
-# Rendered slides are committed by the carousel routines. This mirrors whatever
-# changed into Google Drive, where Jennica works.
+# Rendered carousel slides and GBP post cards are committed by the routines.
+# This mirrors whatever changed into Google Drive, where Jennica works.
 on:
   push:
     branches: [main]
     paths:
       - "graphics/carousels/**"
+      - "graphics/gbp/**"
   workflow_dispatch:
     inputs:
       all:
-        description: "Sync every deck, not just changed ones"
+        description: "Sync everything, not just what changed"
         type: boolean
         default: false
       decks:
-        description: "Space-separated deck paths to sync (ignored when the box above is ticked)"
+        description: "Space-separated folder paths to sync (ignored when the box above is ticked)"
         type: string
         default: ""
 
@@ -75,13 +76,26 @@ jobs:
             exit 0
           fi
 
-          # Unique deck folders touched by this push.
-          DECKS=$(git diff --name-only "$BEFORE" "$AFTER" -- 'graphics/carousels/*/*' \
-            | cut -d/ -f1-3 | sort -u | tr '\n' ' ')
-          if [ -z "$DECKS" ]; then
-            echo "No deck folders changed."
+          CHANGED=$(git diff --name-only "$BEFORE" "$AFTER")
+
+          # Unique deck folders touched by this push. grep exits 1 on no match,
+          # which under pipefail would kill the step, so absorb it.
+          DECKS=$(printf '%s\n' "$CHANGED" \
+            | grep -E '^graphics/carousels/[^/]+/' \
+            | cut -d/ -f1-3 | sort -u | tr '\n' ' ' || true)
+
+          # GBP cards are flat files in one folder, not a folder per deck, so
+          # the folder itself is the unit of sync.
+          GBP=""
+          if printf '%s\n' "$CHANGED" | grep -qE '^graphics/gbp/[^/]+$'; then
+            GBP="graphics/gbp"
           fi
-          echo "args=$DECKS" >> "$GITHUB_OUTPUT"
+
+          ARGS=$(printf '%s %s' "$DECKS" "$GBP" | xargs || true)
+          if [ -z "$ARGS" ]; then
+            echo "No carousel decks or GBP cards changed."
+          fi
+          echo "args=$ARGS" >> "$GITHUB_OUTPUT"
 
       - name: Sync to Drive
         if: steps.decks.outputs.args != ''
@@ -90,7 +104,9 @@ jobs:
           GOOGLE_OAUTH_CLIENT_SECRET: ${{ secrets.GOOGLE_OAUTH_CLIENT_SECRET }}
           GOOGLE_OAUTH_REFRESH_TOKEN: ${{ secrets.GOOGLE_OAUTH_REFRESH_TOKEN }}
           DRIVE_CAROUSELS_FOLDER_ID: ${{ secrets.DRIVE_CAROUSELS_FOLDER_ID }}
+          # Optional. Unset, GBP cards land in a `gbp` subfolder beside the decks.
+          DRIVE_GBP_FOLDER_ID: ${{ secrets.DRIVE_GBP_FOLDER_ID }}
           SYNC_ARGS: ${{ steps.decks.outputs.args }}
-        # Unquoted on purpose: the deck list is space-separated and each word is
-        # one argument.
+        # Unquoted on purpose: the folder list is space-separated and each word
+        # is one argument.
         run: python3 scripts/drive_sync.py $SYNC_ARGS

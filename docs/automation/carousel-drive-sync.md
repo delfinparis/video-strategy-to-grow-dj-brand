@@ -45,6 +45,27 @@ unreadable `before` SHA raises a warning and falls back to `--all` instead of qu
 syncing nothing. **A run that legitimately has nothing to do still says so; a run that
 cannot work out what to do now says that too.**
 
+### GBP post cards ride the same pipe (2026-08-12)
+
+Google Business Profile cards render to `graphics/gbp/` as flat files
+(`YYYY-MM-DD-<slug>.png`), not a folder per deck, so the whole folder is the unit of
+sync rather than each card. The workflow watches `graphics/gbp/**` alongside the
+carousels and is now called **Graphics to Drive**, because it is no longer only slides.
+
+Where they land depends on one optional secret:
+
+| `DRIVE_GBP_FOLDER_ID` | Result |
+|---|---|
+| unset (today) | cards go to `carousels > gbp` in Drive |
+| set to a folder id | cards upload straight into that folder |
+
+Nothing needs doing to make the sync work. Set the secret only to give the cards their
+own top-level Drive folder instead of a subfolder of `carousels`.
+
+Cards are rendered by [`scripts/render_gbp.py`](../../scripts/render_gbp.py) at 1200x900,
+which is GBP's aspect ratio. Carousel slides are 1080x1350 and **cannot** be reused as
+GBP images: the center-crop between the two eats the headline and the byline.
+
 ### Why OAuth and not a service account
 
 The first attempt used a service account and got as far as authenticating and
@@ -91,7 +112,7 @@ A browser opens, you approve, and it prints three values.
 | `GOOGLE_OAUTH_REFRESH_TOKEN` | printed by the script |
 | `DRIVE_CAROUSELS_FOLDER_ID` | `14ZkFmPVWjZL0cJGNM3cfiFwanomVKVQW` (already set) |
 
-**5. Test.** Actions tab > "Carousel slides to Drive" > Run workflow, tick **Sync every
+**5. Test.** Actions tab > "Graphics to Drive" > Run workflow, tick **Sync every
 deck**. All 16 decks should appear in Drive.
 
 The refresh token is a live credential with full access to D.J.'s Drive. It goes into
