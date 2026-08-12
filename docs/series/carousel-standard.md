@@ -203,6 +203,15 @@ left, the Kale logo over `learn more at joinkale.com` bottom right. Logos are pu
 `assets/brand/`, alongside the fonts in `assets/fonts/`. Everything the renderer needs is
 vendored inside this repo, because the cloud routines clone this repo alone.
 
+**Decks posted from Kale's own pages drop the personal byline.** Set `byline: "none"` in
+frontmatter and the footer becomes brand-only: the Kale logo moves to the bottom left
+where the byline was, `learn more at joinkale.com` stays bottom right, and neither
+`D.J. Paris` nor `Keeping It Real Podcast` appears anywhere. A deck going out from Kale's
+Facebook, Instagram, LinkedIn, or Google Business Profile is Kale's, and a personal byline
+on a brand page reads as a repost of someone else's work. **Set `series_mark` too when you
+do this**, because slide 1's eyebrow falls back to `D.J. Paris` when the lane has no mark
+of its own, which puts the byline back on the deck through the side door.
+
 **Why a script and not Magic Design:** the renderer types the copy straight out of the markdown.
 It cannot paraphrase, round, or re-word a sourced number, which is the Rule 1 failure mode that
 made "do not let AI author the deck" a rule in the first place. It also means a stat correction

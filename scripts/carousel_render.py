@@ -358,7 +358,8 @@ def build_items(draw, slide, theme, accent, sizes, s, x):
     return int(height), draw_items
 
 
-def draw_footer(draw, img, theme, s, show_url, cta=KALE_URL, accent=None, wordmark=None):
+def draw_footer(draw, img, theme, s, show_url, cta=KALE_URL, accent=None, wordmark=None,
+                byline=True):
     """Byline and mark carry the brand on every slide. The URL is the call to
     action, so it appears only on the first and last slide. Repeated on all nine
     it stops being read at all.
@@ -367,13 +368,28 @@ def draw_footer(draw, img, theme, s, show_url, cta=KALE_URL, accent=None, wordma
     asked to reshare these, and a rival brokerage's logo on the post is friction
     on exactly that. The show's cover art is a photograph, unreadable at footer
     size, so the mark is set in type like the rest of the system.
+
+    `byline=False` drops the personal byline entirely, for decks posted from
+    Kale's own pages rather than D.J.'s. The logo then moves to the left, where
+    the byline was, so the footer stays a balanced two-corner bar instead of
+    leaving half of it empty.
     """
     y = HEIGHT * s - PAD_BOTTOM * s
+    right = (WIDTH - PAD_X) * s
+
+    if not byline:
+        logo = load_logo(theme, int(46 * s))
+        img.paste(logo, (int(PAD_X * s), int(y - 62 * s)), logo)
+        if show_url:
+            u_f = font("Medium", 22 * s)
+            uw = draw.textlength(cta, font=u_f)
+            draw.text((right - uw, y - 52 * s), cta, font=u_f, fill=theme["body"])
+        return
+
     b_f, s_f = font("Bold", 30 * s), font("Medium", 26 * s)
     draw.text((PAD_X * s, y - 66 * s), BYLINE, font=b_f, fill=theme["headline"])
     draw.text((PAD_X * s, y - 30 * s), SUB_BYLINE, font=s_f, fill=theme["body"])
 
-    right = (WIDTH - PAD_X) * s
     if show_url:
         u_f = font("Medium", 22 * s)
         uw = draw.textlength(cta, font=u_f)
@@ -431,7 +447,7 @@ def count_headline_lines(slide, index, total, theme, accent, series_mark, photo=
 
 
 def render_slide(slide, index, total, theme, accent, series_mark, photo=None,
-                 cta=KALE_URL, wordmark=None):
+                 cta=KALE_URL, wordmark=None, byline=True):
     s = SUPERSAMPLE
     img = Image.new("RGB", (WIDTH * s, HEIGHT * s), theme["bg"])
     draw = ImageDraw.Draw(img)
@@ -482,5 +498,5 @@ def render_slide(slide, index, total, theme, accent, series_mark, photo=None,
         y += h
 
     draw_footer(draw, img, theme, s, show_url=(is_hook or is_close), cta=cta,
-                accent=accent, wordmark=wordmark)
+                accent=accent, wordmark=wordmark, byline=byline)
     return img.resize((WIDTH, HEIGHT), Image.Resampling.LANCZOS)

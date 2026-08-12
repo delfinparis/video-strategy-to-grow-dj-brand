@@ -7,6 +7,8 @@ slide_count: 5
 goal: "engagement"
 generated: "2026-08-11"
 theme: "light"
+byline: "none"
+series_mark: "By The Numbers"
 ---
 
 # Carousel: 80 percent of sellers contact only one agent

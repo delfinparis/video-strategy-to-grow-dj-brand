@@ -294,6 +294,13 @@ def render(md_path, theme_override=None, want_pdf=False, allow_long_hooks=False)
     cta = POD_URL if is_pod else KALE_URL
     wordmark = POD_WORDMARK if is_pod else None
 
+    # `byline: "none"` drops "D.J. Paris / Keeping It Real Podcast" from the
+    # footer. Decks posted from Kale's own pages are Kale's, not D.J.'s, and a
+    # personal byline on a brand page reads as a repost of someone else's work.
+    byline = (meta.get("byline", "") or "").strip().lower() not in {
+        "none", "off", "no", "false",
+    }
+
     # A KIRP deck names its guest headshot in frontmatter. Missing file is not
     # fatal: the deck renders as type, which is what non-podcast decks do anyway.
     photo = (meta.get("guest_photo", "") or "").strip()
@@ -322,7 +329,8 @@ def render(md_path, theme_override=None, want_pdf=False, allow_long_hooks=False)
 
     images, pngs = [], []
     for i, slide in enumerate(slides):
-        img = render_slide(slide, i, len(slides), theme, accent, series_mark, photo or None, cta, wordmark)
+        img = render_slide(slide, i, len(slides), theme, accent, series_mark, photo or None,
+                           cta, wordmark, byline)
         png_path = os.path.join(out_dir, f"slide-{i + 1:02d}.png")
         img.save(png_path, "PNG", optimize=True)
         images.append(img)
