@@ -13,6 +13,10 @@ on:
         description: "Sync every deck, not just changed ones"
         type: boolean
         default: false
+      decks:
+        description: "Space-separated deck paths to sync (ignored when the box above is ticked)"
+        type: string
+        default: ""
 
 concurrency:
   group: carousel-drive-sync
@@ -24,8 +28,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # Need the previous commit to diff against.
-          fetch-depth: 2
+          # Full history. A shallow clone does not contain github.event.before
+          # once a push carries more than one commit, and the diff below then
+          # dies with "fatal: bad object" and silently syncs nothing.
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -36,13 +42,41 @@ jobs:
 
       - name: Work out which decks changed
         id: decks
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SYNC_ALL: ${{ inputs.all }}
+          SYNC_DECKS: ${{ inputs.decks }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.all }}" = "true" ]; then
+          set -euo pipefail
+
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            if [ "$SYNC_ALL" = "true" ]; then
+              echo "args=--all" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ -z "$SYNC_DECKS" ]; then
+              echo "::error::A manual run needs either 'Sync every deck' ticked or a deck list in the decks input."
+              exit 1
+            fi
+            echo "args=$SYNC_DECKS" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # The diff needs github.event.before to be a real commit in this clone.
+          # When it is not (branch created, force push, history rewritten) fall
+          # back to a full sync. The old version let git fail inside a pipeline,
+          # which turned an unreadable diff into an empty deck list and reported
+          # "No deck folders changed" while quietly skipping the whole push.
+          if [ -z "$BEFORE" ] || ! git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then
+            echo "::warning::Cannot diff against '$BEFORE'; syncing every deck instead."
             echo "args=--all" >> "$GITHUB_OUTPUT"
             exit 0
           fi
+
           # Unique deck folders touched by this push.
-          DECKS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'graphics/carousels/*/*' \
+          DECKS=$(git diff --name-only "$BEFORE" "$AFTER" -- 'graphics/carousels/*/*' \
             | cut -d/ -f1-3 | sort -u | tr '\n' ' ')
           if [ -z "$DECKS" ]; then
             echo "No deck folders changed."
@@ -56,4 +90,7 @@ jobs:
           GOOGLE_OAUTH_CLIENT_SECRET: ${{ secrets.GOOGLE_OAUTH_CLIENT_SECRET }}
           GOOGLE_OAUTH_REFRESH_TOKEN: ${{ secrets.GOOGLE_OAUTH_REFRESH_TOKEN }}
           DRIVE_CAROUSELS_FOLDER_ID: ${{ secrets.DRIVE_CAROUSELS_FOLDER_ID }}
-        run: python3 scripts/drive_sync.py ${{ steps.decks.outputs.args }}
+          SYNC_ARGS: ${{ steps.decks.outputs.args }}
+        # Unquoted on purpose: the deck list is space-separated and each word is
+        # one argument.
+        run: python3 scripts/drive_sync.py $SYNC_ARGS

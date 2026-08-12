@@ -19,8 +19,31 @@ Each deck becomes a folder of the same name inside the Drive `carousels` folder.
 Uploads are idempotent. A file already in the target folder is updated in place rather
 than duplicated, which matters because decks get re-rendered whenever their copy changes.
 
-Run it by hand from the Actions tab any time, and tick **Sync every deck** to push the
-whole back catalogue rather than just what changed.
+Run it by hand from the Actions tab any time. Tick **Sync every deck** to push the whole
+back catalogue, or leave it unticked and paste space-separated deck paths into the
+**decks** box to sync exactly those:
+
+```text
+graphics/carousels/EVERGREEN-004-sellers-call-one-agent-carousel graphics/carousels/NF-018-dual-agency-2165-carousel
+```
+
+Targeting specific decks matters when some deck folders have been moved out of `carousels`
+in Drive: a `--all` run cannot see them there, so it creates a second copy inside
+`carousels` and leaves the moved one behind as a duplicate.
+
+### The silent-skip bug, fixed 2026-08-12
+
+The checkout used `fetch-depth: 2`, which is enough history to diff a single-commit push
+and nothing more. Push two or more commits at once and `github.event.before` is not in the
+clone, so the diff died with `fatal: bad object`. Because that `git diff` sat inside a
+pipeline its exit code was thrown away, the deck list came out empty, and the job printed
+**"No deck folders changed"** and finished green while skipping the entire push. That is
+how `EVERGREEN-004` reached the repo on 2026-08-11 and never reached Drive.
+
+The checkout now uses `fetch-depth: 0`, the step runs under `set -euo pipefail`, and an
+unreadable `before` SHA raises a warning and falls back to `--all` instead of quietly
+syncing nothing. **A run that legitimately has nothing to do still says so; a run that
+cannot work out what to do now says that too.**
 
 ### Why OAuth and not a service account
 
