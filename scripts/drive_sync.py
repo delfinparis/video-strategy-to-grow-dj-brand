@@ -39,6 +39,7 @@ Usage:
 import json
 import mimetypes
 import os
+import re
 import sys
 
 from google.auth.transport.requests import Request
@@ -53,6 +54,11 @@ CAROUSEL_ROOT = os.path.join(BASE_DIR, "graphics", "carousels")
 # sync as a single directory rather than one Drive folder per card.
 GBP_ROOT = os.path.join(BASE_DIR, "graphics", "gbp")
 SCOPES = ["https://www.googleapis.com/auth/drive"]
+
+# Kale and the podcast are different audiences with different footers, so their
+# decks are different deliverables and live in different Drive folders.
+KR_FOLDER_NAME = "KR Carousels"
+KIRP_FOLDER_NAME = "KIRP Carousels"
 
 # Zips are gitignored, so they never reach CI. Everything else in a deck folder
 # is something Jennica or LinkedIn needs.
@@ -198,6 +204,58 @@ def is_gbp(path):
     return os.path.abspath(path).rstrip("/") == GBP_ROOT
 
 
+LANE_RE = re.compile(r'^lane:\s*"?([\w-]+)')
+
+
+def deck_lane(deck_dir):
+    """Read the lane out of the deck's source markdown frontmatter.
+
+    A rendered deck folder carries no metadata of its own, but it is named for
+    the same slug as its source file, so the lane is one read away. Anything
+    unreadable falls back to the Kale side, which is where 27 of 30 decks
+    belong: a misfiled Kale deck is a smaller problem than a KIRP folder that
+    silently stops receiving decks.
+    """
+    slug = os.path.basename(deck_dir.rstrip("/"))
+    src = os.path.join(BASE_DIR, "scripts", "carousels", slug + ".md")
+    try:
+        with open(src, encoding="utf-8") as fh:
+            for _ in range(30):
+                line = fh.readline()
+                if not line:
+                    break
+                match = LANE_RE.match(line)
+                if match:
+                    return match.group(1)
+    except OSError:
+        pass
+    return ""
+
+
+def is_kirp(deck_dir):
+    return deck_lane(deck_dir) == "podcast"
+
+
+def kirp_folder(svc, kr_id):
+    """The KIRP folder, resolved as a sibling of the Kale one.
+
+    Pinning it to a secret is supported but not required. Without one the
+    folder is found (or created) by name next to the Kale folder, so the split
+    works the moment the code lands, with no secret to mint first.
+    """
+    pinned = os.environ.get("DRIVE_KIRP_FOLDER_ID", "").strip()
+    if pinned:
+        return pinned
+    parents = (
+        svc.files()
+        .get(fileId=kr_id, fields="parents", supportsAllDrives=True)
+        .execute()
+        .get("parents")
+        or ["root"]
+    )
+    return ensure_folder(svc, parents[0], KIRP_FOLDER_NAME)
+
+
 def main():
     args = sys.argv[1:]
     if not args:
@@ -231,10 +289,17 @@ def main():
     if gbp_id and any(is_gbp(d) for d in dirs):
         check_parent(svc, gbp_id)
 
+    # Resolved once, and only when a podcast deck is actually in this run.
+    kirp_id = None
+
     print(f"Syncing {len(dirs)} folder(s) to Drive:")
     for path in dirs:
         if is_gbp(path):
             sync_dir(svc, gbp_id or carousels_id, path, nest=not gbp_id)
+        elif is_kirp(path):
+            if kirp_id is None:
+                kirp_id = kirp_folder(svc, carousels_id)
+            sync_dir(svc, kirp_id, path)
         else:
             sync_dir(svc, carousels_id, path)
 

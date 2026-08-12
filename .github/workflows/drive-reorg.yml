@@ -1,0 +1,45 @@
+name: Drive reorg (one-time)
+
+# Splits the single `carousels` Drive folder into "KR Carousels" and
+# "KIRP Carousels". Manual only: this moves things, so it never fires on a push.
+# Safe to re-run, and it dry-runs unless the apply box is ticked.
+on:
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: "Actually make the changes (leave unticked for a dry run)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: drive-reorg
+  cancel-in-progress: false
+
+jobs:
+  reorg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Drive client
+        run: pip install --quiet google-api-python-client google-auth google-auth-oauthlib
+
+      - name: Reorg
+        env:
+          GOOGLE_OAUTH_CLIENT_ID: ${{ secrets.GOOGLE_OAUTH_CLIENT_ID }}
+          GOOGLE_OAUTH_CLIENT_SECRET: ${{ secrets.GOOGLE_OAUTH_CLIENT_SECRET }}
+          GOOGLE_OAUTH_REFRESH_TOKEN: ${{ secrets.GOOGLE_OAUTH_REFRESH_TOKEN }}
+          DRIVE_CAROUSELS_FOLDER_ID: ${{ secrets.DRIVE_CAROUSELS_FOLDER_ID }}
+          DRIVE_KIRP_FOLDER_ID: ${{ secrets.DRIVE_KIRP_FOLDER_ID }}
+          APPLY: ${{ inputs.apply }}
+        run: |
+          set -euo pipefail
+          if [ "$APPLY" = "true" ]; then
+            python3 scripts/drive_reorg.py --apply
+          else
+            python3 scripts/drive_reorg.py
+          fi

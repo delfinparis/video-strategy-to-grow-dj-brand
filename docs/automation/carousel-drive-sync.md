@@ -45,6 +45,39 @@ unreadable `before` SHA raises a warning and falls back to `--all` instead of qu
 syncing nothing. **A run that legitimately has nothing to do still says so; a run that
 cannot work out what to do now says that too.**
 
+### Kale and KIRP split into two folders (2026-08-12)
+
+Drive now looks like this:
+
+```
+KR Carousels/           27 Kale and D.J.-brand decks
+  gbp/                  GBP post cards, 1200x900
+KIRP Carousels/         3 podcast decks
+```
+
+The old `carousels` folder was 27 Kale decks to 3 podcast ones, so it keeps its
+contents and gets renamed to what it already mostly was. Only the three podcast decks
+move.
+
+**What decides where a deck goes is `lane`, not the folder name.** `lane: "podcast"`
+in the deck's source markdown routes it to KIRP; everything else goes to KR. That is
+the same field that already decides whether a slide carries the podcast wordmark and
+the keepingitrealpod.com footer instead of Kale's, so naming and routing cannot drift
+apart. A deck whose source has no `lane` defaults to KR, because a misfiled Kale deck
+is a smaller problem than a KIRP folder that quietly stops receiving decks.
+
+`DRIVE_KIRP_FOLDER_ID` is **optional**. Without it the sync finds the KIRP folder by
+name beside the Kale one, creating it if it is missing, so nothing needs minting for
+this to work.
+
+**Running the split.** Actions tab > **Drive reorg (one-time)**. It dry-runs by
+default and prints exactly what it would do; tick the apply box to make the changes.
+Safe to re-run: renaming a folder already named right is a no-op, and a deck already
+in the KIRP folder is left alone.
+
+> `kirp-test` is named like a podcast deck but has no source markdown and no `lane`,
+> so it routes to KR. It is a leftover test folder. Delete it rather than fix it.
+
 ### GBP post cards ride the same pipe (2026-08-12)
 
 Google Business Profile cards render to `graphics/gbp/` as flat files
