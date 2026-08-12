@@ -356,3 +356,4 @@ Rows dated before 2026-08-10 predate the video lane and are carousel-only.
 |---|---|---|---|
 | 2026-08-07 | "Stack hashtags for reach" (Marketing and social) | -- | `scripts/carousels/TAKE-hashtag-stacking-carousel.md` |
 | 2026-08-10 | "Switching means starting over. Your clients won't follow." (Brokerage economics) | -- | `scripts/carousels/TAKE-switching-brokerages-carousel.md` |
+| 2026-08-12 | "Chase the follower count." (Marketing and social) | -- | `scripts/carousels/TAKE-follower-count-carousel.md` |
