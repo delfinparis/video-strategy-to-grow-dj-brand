@@ -52,6 +52,27 @@ push() {
 
 cd "$REPO_DIR" || { push "Walk & talk FAILED" "Could not cd to repo $REPO_DIR"; exit 1; }
 
+# Branch guard. This job commits the brief and pushes so every device sees it,
+# but it pushes whatever branch happens to be checked out. Left on a side branch
+# with no upstream, the push fails, the commit stays local, and the only symptom
+# is a notification that is easy to swipe away. That is exactly what happened
+# between 2026-07-08 and 2026-08-11: 33 briefs piled up on
+# claude/realtor-instagram-research-exyvs8 and 25 of them never reached main.
+BRANCH="$(git rev-parse --abbrev-ref HEAD 2>/dev/null)"
+if [ "$BRANCH" != "main" ]; then
+  if git diff --quiet 2>/dev/null && git diff --cached --quiet 2>/dev/null; then
+    git checkout -q main 2>/dev/null \
+      && echo "branch guard: switched from ${BRANCH} to main" >&2 \
+      || echo "branch guard: could not switch from ${BRANCH} to main" >&2
+  else
+    # Uncommitted work present -- switching would disrupt it, so leave the tree
+    # alone and make the consequence loud instead of letting it go quiet again.
+    echo "branch guard: on ${BRANCH} with uncommitted changes; staying put" >&2
+    push "Walk & talk: wrong branch" \
+         "Repo is on ${BRANCH}, not main, with local edits. Today's brief will commit there and will NOT reach your other devices until you switch to main."
+  fi
+fi
+
 # Get latest first (D.J. works across 3 devices).
 git pull --rebase --autostash -q 2>/dev/null || true
 
@@ -70,8 +91,10 @@ fi
 git add "$BRIEF" 2>/dev/null
 if ! git diff --cached --quiet 2>/dev/null; then
   git commit -q -m "news brief / walk-and-talk options: ${DATE}" 2>/dev/null
-  git push -q 2>/dev/null || push "Walk & talk: options ready (push failed)" \
-       "Options committed locally but git push failed. Pull manually on your device."
+  # Let stderr reach the log. Swallowing it is why a no-upstream push failure
+  # looked identical to a network blip for 33 days.
+  git push -q || push "Walk & talk: options ready (push failed)" \
+       "Options committed locally on ${BRANCH} but git push failed. See /tmp/walkandtalk-err.log, then pull manually on your device."
 fi
 
 # Count options for the heartbeat (top-take headings in the brief).
