@@ -56,19 +56,22 @@ function makeEnv(opts) {
     Logger: { log: () => {} },
     UrlFetchApp: {},
     ScriptApp: {},
-    console: { log: () => {}, error: () => {} },
+    console: { log: () => {}, warn: () => {}, error: () => {} },
   };
 
   vm.createContext(env);
   vm.runInContext(SRC, env);
 
-  // Swap in a controllable generateScript.
+  // Swap in a controllable generateScript -- except for the tests that are
+  // about generateScript itself, which stub UrlFetchApp instead.
   env.__calls = calls;
-  env.generateScript = function (apiKey, brief, reply, pick) {
-    calls.push(pick);
-    if (o.fail) throw o.fail();
-    return 'SCRIPT FOR ' + pick;
-  };
+  if (!o.keepRealGenerator) {
+    env.generateScript = function (apiKey, brief, reply, pick) {
+      calls.push(pick);
+      if (o.fail) throw o.fail();
+      return 'SCRIPT FOR ' + pick;
+    };
+  }
 
   return { env, store, calls, replies, alarms, labeled };
 }
@@ -207,6 +210,95 @@ r = run({ noThreads: true, props: {
 } });
 check('8-day-old state pruned', !('wt:OLD' in r.store), Object.keys(r.store).join(','));
 check('3-day-old state kept (thread still searchable)', 'wt:FRESH' in r.store, Object.keys(r.store).join(','));
+
+// ------------------------------------------------ the reply must BE the script
+//
+// On Aug 12 2026 D.J. picked option 1 and got back "Script drafted and exported
+// as nf_first_time_buyers.md" plus a stress-test summary. Nothing in this chain
+// can write a file; the script existed for the length of one API response and
+// was thrown away. The pick was marked done, the thread was labeled, and every
+// check said success. These tests exist so that reply can never be mailed again.
+console.log('\nH. missingScriptSections tells a script from a report about one');
+const V = makeEnv({}).env;
+const missing = s => vm.runInContext('missingScriptSections(' + JSON.stringify(s) + ')', V);
+
+const VALID_SCRIPT = [
+  '---',
+  'series: "Inside the Industry"',
+  'script_number: "NF-TBD"',
+  'post_date: "2026-08-12"',
+  '---',
+  '',
+  '# First-time buyers just hit 29 percent',
+  '',
+  '## Script (~55 seconds)',
+  '',
+  '### HOOK (0:00-0:09)',
+  'First-time buyers just hit twenty-nine percent of every home sold.',
+  '',
+  '## Data Source',
+  '- **Claim:** "29 percent" — NAR, August 11 2026',
+  '',
+  '## AI Music Prompt',
+  '**Vibe:** sober, documentary',
+  '',
+  '## Social Media',
+  '### LinkedIn (PRIMARY)',
+  'caption text',
+].join('\n');
+
+const THE_AUG_12_REPLY =
+  'Script drafted and exported as `nf_first_time_buyers.md`. Stress-test cleared ' +
+  "every number in the brief against NAR's August 11, 2026 release, nothing corrected.";
+
+check('a real script passes clean', missing(VALID_SCRIPT).length === 0, JSON.stringify(missing(VALID_SCRIPT)));
+check('THE AUG 12 REPLY is caught', missing(THE_AUG_12_REPLY).length === 5, JSON.stringify(missing(THE_AUG_12_REPLY)));
+check('a script truncated before the captions is caught',
+  JSON.stringify(missing(VALID_SCRIPT.split('## Social Media')[0])) === '["## Social Media"]',
+  JSON.stringify(missing(VALID_SCRIPT.split('## Social Media')[0])));
+check('a script wrapped in chatty preamble is caught (frontmatter must open it)',
+  missing('Here you go!\n\n' + VALID_SCRIPT).indexOf('YAML frontmatter') !== -1,
+  JSON.stringify(missing('Here you go!\n\n' + VALID_SCRIPT)));
+
+console.log('\nI. generateScript corrects a report once, then fails closed');
+const say = t => ({ stop_reason: 'end_turn', content: [{ type: 'text', text: t }] });
+
+function callGenerate(bodies) {
+  const ctx = makeEnv({ keepRealGenerator: true });
+  let i = 0;
+  ctx.env.UrlFetchApp = {
+    fetch: () => {
+      const body = bodies[Math.min(i, bodies.length - 1)];
+      i++;
+      return { getResponseCode: () => 200, getContentText: () => JSON.stringify(body) };
+    },
+  };
+  let out = null, err = null;
+  try { out = ctx.env.generateScript('sk-test', 'brief body', '1', '1'); }
+  catch (e) { err = e; }
+  return { out, err, calls: i };
+}
+
+let g = callGenerate([say(THE_AUG_12_REPLY), say(VALID_SCRIPT)]);
+check('a report is not accepted, the model is sent back', g.calls === 2, 'api calls=' + g.calls);
+check('and the corrected script is what gets returned', /### HOOK/.test(g.out || ''),
+  String(g.out).slice(0, 70));
+
+g = callGenerate([say(THE_AUG_12_REPLY)]);
+check('two reports in a row throws instead of mailing prose',
+  !!(g.err && /prose, not a script/.test(g.err.message)), String(g.err));
+check('it fails CLOSED -- no paying for a third summary',
+  !!(g.err && g.err.retryable === false), String(g.err && g.err.retryable));
+check('the correction is capped at one extra call', g.calls === 2, 'api calls=' + g.calls);
+
+g = callGenerate([say(VALID_SCRIPT)]);
+check('a good script still costs exactly one call',
+  g.calls === 1 && g.out === VALID_SCRIPT, 'api calls=' + g.calls);
+
+console.log('\n   ...and a pause_turn search loop is unaffected by the correction cap');
+const paused = { stop_reason: 'pause_turn', content: [{ type: 'server_tool_use', name: 'web_search' }] };
+g = callGenerate([paused, paused, paused, paused, say(VALID_SCRIPT)]);
+check('four search pauses then a script', g.calls === 5 && g.out === VALID_SCRIPT, 'api calls=' + g.calls);
 
 console.log('\n' + pass + ' passed, ' + fail + ' failed\n');
 process.exit(fail ? 1 : 0);

@@ -29,6 +29,8 @@ const MODEL                 = 'claude-opus-4-7';   // see the model note in walk
 const SCRIPTED_LABEL        = 'WT-Scripted';
 const MAX_PICKS_PER_REPLY   = 3;                   // most options one reply may trigger (each is a paid Opus call)
 const MAX_ATTEMPTS_PER_PICK = 3;                   // hard stop on retries -- this is the runaway-cost backstop
+const MAX_TURNS             = 8;                   // pause_turn continuations + format corrections, per call
+const MAX_FORMAT_CORRECTIONS = 1;                  // see missingScriptSections()
 const STATE_TTL_DAYS        = 7;                   // must exceed the 4-day search window (see pruneThreadState)
 const STATE_PREFIX          = 'wt:';
 
@@ -362,11 +364,12 @@ function generateScript(apiKey, brief, reply, pick) {
     "Here is this morning's Walk & Talk brief I emailed D.J.:\n\n" + brief +
     "\n\n---\n\nD.J. replied:\n\n" + reply +
     "\n\nHe is choosing option " + pick +
-    ". First stress-test that option's facts with web search, correct anything wrong or unverifiable, then write the full repo-format walk-and-talk script. Work in any note he added.";
+    ". First stress-test that option's facts with web search, correct anything wrong or unverifiable, then write the full repo-format walk-and-talk script directly in your reply. Work in any note he added.";
 
   let messages = [{ role: 'user', content: userMsg }];
+  let corrections = 0;
 
-  for (let attempt = 0; attempt < 4; attempt++) {
+  for (let attempt = 0; attempt < MAX_TURNS; attempt++) {
     const res = UrlFetchApp.fetch('https://api.anthropic.com/v1/messages', {
       method: 'post',
       contentType: 'application/json',
@@ -401,10 +404,62 @@ function generateScript(apiKey, brief, reply, pick) {
     if (data.stop_reason === 'refusal') throw tagged('model declined this option', false);
     const text = extractFinalText(data.content);
     if (!text) throw tagged('empty response (stop_reason: ' + data.stop_reason + ')', true);
+
+    // The reply body IS the deliverable. On Aug 12 2026 this returned "Script
+    // drafted and exported as nf_first_time_buyers.md" plus a stress-test
+    // summary -- a status report about a file that was never written anywhere,
+    // because nothing in this chain can write a file. It was emailed as a
+    // success and the pick was marked done, so the script was simply gone.
+    // A summary and a script are both non-empty text; only the structure tells
+    // them apart, so the structure is what gets checked.
+    const missing = missingScriptSections(text);
+    if (missing.length) {
+      if (corrections >= MAX_FORMAT_CORRECTIONS) {
+        // Twice in a row is the prompt failing, not luck. Non-retryable: three
+        // more paid calls would buy three more summaries. Fail loudly instead
+        // -- D.J. gets the "could not be scripted" email and can build it in
+        // Claude Code, which beats an email that claims success and carries
+        // nothing.
+        throw tagged('model returned prose, not a script (missing: ' + missing.join(', ') + ')', false);
+      }
+      corrections++;
+      console.warn('option ' + pick + ' | format correction, missing: ' + missing.join(', '));
+      messages.push({ role: 'assistant', content: data.content });
+      messages.push({ role: 'user', content: FORMAT_CORRECTION });
+      continue;
+    }
     return text;
   }
-  throw tagged('web search did not finish after repeated continuations', true);
+  throw tagged('did not finish after ' + MAX_TURNS + ' turns', true);
 }
+
+// The sections a real script always has and a progress report never does.
+// Kept to structural markers from the format spec, not word counts -- a short
+// script is fine, a script with no Data Source block is not.
+function missingScriptSections(text) {
+  const required = [
+    { label: 'YAML frontmatter', re: /^---\r?\n[\s\S]*?\r?\n---\r?\n/ },
+    { label: '### HOOK',          re: /^###\s+HOOK\b/m },
+    { label: '## Data Source',    re: /^##\s+Data Source\b/m },
+    { label: '## AI Music Prompt',re: /^##\s+AI Music Prompt\b/m },
+    { label: '## Social Media',   re: /^##\s+Social Media\b/m }
+  ];
+  return required
+    .filter(function (s) { return !s.re.test(text); })
+    .map(function (s) { return s.label; });
+}
+
+const FORMAT_CORRECTION =
+  'That was a report about the script, not the script.\n\n' +
+  'You have no filesystem and no repo access. You did not export, save, or ' +
+  'write any file, and no file by that name exists. Your reply text is mailed ' +
+  'to D.J. verbatim and is the only copy of the script that will ever exist. ' +
+  'What you just sent means he received nothing.\n\n' +
+  'Send the finished markdown file now: start at the opening --- of the ' +
+  'frontmatter, end after the Facebook caption. No preamble, no summary of ' +
+  'your fact-checking, no closing commentary. Anything you corrected during ' +
+  'the stress test belongs in the WOW paragraph and the Data Source ' +
+  'fabrication audit, which are inside the file.';
 
 // Errors carry a `retryable` flag so the caller knows whether spending another
 // attempt is worth anything. Without it a momentary 529 was written into the
@@ -436,10 +491,14 @@ function extractFinalText(content) {
 /* ---------- 5. Voice + format spec (cached system prompt) ---------- */
 const VOICE_SYSTEM_PROMPT = `You are D.J. Paris's research-and-scriptwriting agent. D.J. is President of Sales & Marketing at Kale Realty in Chicago and posts a daily "walk and talk" video (the "Inside the Industry" News Flash series). When he replies to a brief with an option number, you produce a finished, fact-checked, repo-format script for that option.
 
+HOW YOUR ANSWER REACHES HIM — READ THIS FIRST:
+Your reply text is pasted straight into an email to D.J. It is the only copy of the script that will ever exist. You are a single API call with web search and nothing else: no filesystem, no repo, no commits, no exports, no "saving" anything anywhere. Nobody is on the other end to run a follow-up step.
+So: never claim you wrote, saved, exported, drafted, or filed anything, and never name a file as if it exists. Never send a status report, a summary of your fact-checking, or a note about what you would produce. If the finished script is not literally in your response, D.J. opens his email and finds nothing, and the day's video does not get made.
+
 STEP 1 — STRESS TEST (do this first, silently, using web_search and web_fetch):
 Verify EVERY factual claim, number, date, dollar figure, and named source in the chosen option. Open the brief's cited source URL when you can. If a figure is wrong, stale, or you cannot confirm it from a reputable source, CORRECT it to the verified value and cite the real source. Never reproduce a number you could not confirm. Prefer primary/authoritative sources: Freddie Mac, NAR, Illinois Realtors, Chicago Agent Magazine, Crain's, Block Club, court dockets, McKinsey, company filings. Do not round ("about 6.5%" is wrong if the source says 6.65%).
 
-STEP 2 — WRITE THE FULL SCRIPT FILE. Output ONLY the finished markdown file, no preamble and no commentary about your searching. Match this exact structure:
+STEP 2 — OUTPUT THE FULL SCRIPT AS YOUR ENTIRE RESPONSE. Your first character is the opening --- of the frontmatter and your last is the end of the Facebook caption. No preamble, no commentary about your searching, no sign-off. Corrections you made during the stress test go in the WOW paragraph and the Data Source fabrication audit, which are inside the file. Match this exact structure:
 
 ---
 series: "Inside the Industry"

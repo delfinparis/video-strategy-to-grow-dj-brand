@@ -78,6 +78,40 @@ can never stand in for the email.
 > them as the newest. The routine's report was accurate. Order your queries
 > before concluding anything is stale.
 
+## The reply IS the script (2026-08-12)
+
+D.J. picked option 1 and the thread replied:
+
+> Option 1:
+>
+> Script drafted and exported as `nf_first_time_buyers.md`. Stress-test cleared
+> every number in the brief against NAR's August 11, 2026 release [...]
+
+There is no `nf_first_time_buyers.md`. Not in the repo, not on any branch, not
+in any object in git history, not on the home Mac. **Nothing in this chain can
+write a file.** The generator is one `UrlFetchApp.fetch` to the Messages API with
+web search and no other tools; the reply body is `'Option N:' + <the response
+text>`. The model wrote a status report about work it could not do, and the
+script existed for exactly as long as that HTTP response.
+
+Then every mechanism downstream agreed it had worked. `generateScript` returned
+non-empty text, so the pick was marked `done`, the thread got labeled, and the
+attempt counter was satisfied. A summary and a script are both just text.
+
+The same shape as the Aug 6-7 outage, one layer in: **a check confirmed that
+*something came back*, and nothing confirmed it was the thing D.J. needed.**
+
+The fix is `missingScriptSections()` — the reply has to carry YAML frontmatter,
+`### HOOK`, `## Data Source`, `## AI Music Prompt`, and `## Social Media` or it
+is not a script. On the first miss the model is sent back with a correction turn
+telling it plainly that it has no filesystem and that its response text is the
+only copy that will ever exist. A second miss throws **non-retryable**, so D.J.
+gets the "could not be scripted" email instead of confident prose. The system
+prompt now leads with that same fact before it says anything about scripts.
+
+This also catches truncation. `max_tokens: 6000` cuts a long script off
+mid-captions, which used to mail a half-written script that read as complete.
+
 ## The alarm
 
 `scripts/apps-script/walk-and-talk-autosend.gs` now raises the alarm itself.
@@ -170,5 +204,10 @@ day via the `wtLastAlarmDate` script property.
   without a query that would actually show recent rows.
 - **Never treat file existence as delivery.** A committed brief is a recovery
   path, not a delivered one.
+- **Never treat a response as a deliverable.** Something came back is not the
+  right thing came back. Check the artifact's structure, not its length.
+- **The model has no hands.** It cannot write, save, export, commit, or file
+  anything. If a reply claims it did, that reply is the only place the work ever
+  existed, and it is now gone. Fail loudly rather than mail the claim.
 - **A silent fallback is a bug.** If the primary channel fails and a fallback
   is used, that fact has to reach D.J., not just the git log.
