@@ -266,6 +266,35 @@ Two extra checks in the stress-test pass: the **rant test** (strip the swap -- i
 still worth posting?) and the **recruiting test** (read the hook as a good agent who might join
 Kale; do they respect D.J. more or less?).
 
+## D.J. says "stupid things"? Pull from the bank, then build the pick
+
+The **Stupid Things Realtors Do** lane names a specific bad behavior and hands over the exact
+fix. It is **not** The Take: a take needs a *who profits* beat, and nobody profits from an agent
+who doesn't return a call. Charter and qualifying test:
+[`data/stupid-things.md`](data/stupid-things.md).
+
+1. `git pull` (3 devices), then `python3 scripts/stupid_things.py pick --count 5 --stdout`.
+2. Show the options as a short numbered list. No preamble.
+3. D.J. picks a number. Build it through the four passes, out to
+   `scripts/stupid-things/STUPID-###-slug.md`.
+4. **Re-verify the receipt at build time, every time.** Most bank entries ship
+   `receipt: needed` on purpose. If a number cannot be sourced to a named publisher and a year,
+   drop it or run the script without a number. Never soften an unverified figure into a claim.
+5. **Log the angle when the script is done**, or it stays in the pool and gets built twice:
+   `python3 scripts/stupid_things.py log --id ST-00XX --script scripts/stupid-things/...md`
+
+**Availability is counted in angles, not practices** (D.J., 2026-08-13). The same practice runs
+again as long as the angle on the *solution* is new; a reword is not a new angle and
+`intake` refuses it. Bank target 20, refill fires at 5, and the weekly routine only does the
+expensive scouring when `health` returns exit code 10. Full chain:
+[`docs/automation/stupid-things-bank.md`](docs/automation/stupid-things-bank.md).
+
+Two things this lane does that the others do not: every entry is tagged `target: sideways`
+(the agent on the other side of the deal) or `target: self` (the viewer), and `pick` alternates
+them so the lane never becomes all-confessional or all-finger-pointing. Sideways is the default
+because the good agent watching is the wronged party, not the accused. Say **"stupid things
+refill"** to run a refill by hand.
+
 ## Doing a Chicago Agent Spotlight? Follow the standard
 
 When D.J. says **"spotlight"** (or picks the Chicago Agent Spotlight option in the daily brief), build it per [`docs/series/chicago-agent-spotlight-standard.md`](docs/series/chicago-agent-spotlight-standard.md). Scout one fresh Chicago agent in the news, **verify the social handle before tagging** (never guess), verify every fact to a named source, and never AI-generate the person's face. Frame on the person + the lesson, not the rival brokerage; no poaching tone. Build the full unit (walk-and-talk + companion carousel + verified tags + post-publish DM), then log the carousel to the **Daily Carousels** Notion database (https://app.notion.com/p/27267ba77da64ef5a5033fc1dd992a0a) with the full slide copy in the page body. Judge these on reshares + followers, not saves. Reference: [`scripts/chicago-agent-spotlight/dawn-bremer-2026-07-08.md`](scripts/chicago-agent-spotlight/dawn-bremer-2026-07-08.md).

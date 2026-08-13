@@ -1,0 +1,2503 @@
+{
+  "schema_version": 1,
+  "updated": "2026-08-13",
+  "config": {
+    "target_size": 20,
+    "refill_trigger": 5,
+    "note": "Availability is counted in OPEN ANGLES, not practices. A practice with every angle spent is not gone, it is waiting for the refill routine to bank a new angle on the fix. D.J., 2026-08-13: same topics can run again as long as the angle on the solution is new."
+  },
+  "receipt_cautions": [
+    {
+      "label": "87% of agents fail",
+      "reason": "No traceable source. Industry legend.",
+      "say_instead": "Use the sourced one: 49% of agents who first closed in 2022 closed nothing in 2023 (Relitix via Inman).",
+      "match_terms": [
+        "87% of agents",
+        "87 percent of agents",
+        "87% fail",
+        "87% of new agents"
+      ]
+    },
+    {
+      "label": "80% of sales need 5 follow-ups",
+      "reason": "Murky origin, repeated everywhere, sourced nowhere.",
+      "say_instead": "Use: 44% of agents quit after one follow-up (JustCall).",
+      "match_terms": [
+        "80% of sales",
+        "five follow-ups",
+        "5 follow-ups",
+        "80% of deals"
+      ]
+    },
+    {
+      "label": "21x / 100x lead response time",
+      "reason": "From the 2007 MIT/InsideSales study, which is CROSS-INDUSTRY sales, not real estate. Attributing it to NAR is a fabrication.",
+      "say_instead": "Say 'sales research shows,' never 'NAR says.' The bulletproof real-estate-native version: roughly 70% of buyers interview only one agent (NAR).",
+      "match_terms": [
+        "21x",
+        "21 times more likely",
+        "100x",
+        "insidesales",
+        "5 vs 30 minutes",
+        "5 minutes vs 30"
+      ]
+    },
+    {
+      "label": "~10% of clients remember their agent's name",
+      "reason": "Widely credited to NAR but only confirmable in secondary sources.",
+      "say_instead": "Frame as 'a widely cited industry figure,' or use the solid NAR pairing instead: 88% would use their agent again, about 12% actually do.",
+      "match_terms": [
+        "10% of clients remember",
+        "remember their agent's name",
+        "10 percent remember"
+      ]
+    },
+    {
+      "label": "CRM causes higher income",
+      "reason": "The figures are real but CORRELATIONAL. Stating them causally is the Rule 8.3 causal-claim failure.",
+      "say_instead": "Say 'successful agents run systems,' never 'a CRM makes you rich.'",
+      "match_terms": [
+        "crm users earn",
+        "crm increases income",
+        "a crm makes"
+      ]
+    },
+    {
+      "label": "78% work with the first agent who responds",
+      "reason": "Unverifiable. D.J.'s instruction: skip it entirely.",
+      "say_instead": "Do not use. Use the 70%-interview-only-one-agent figure (NAR) instead.",
+      "match_terms": [
+        "78%",
+        "78 percent",
+        "first agent who responds"
+      ]
+    },
+    {
+      "label": "Redfin 47% higher asking price",
+      "reason": "Unverifiable. D.J.'s instruction: skip it entirely.",
+      "say_instead": "Do not use. The verified Redfin photo figures are $3,000-$11,200 over list and 118% more online views.",
+      "match_terms": [
+        "47% higher",
+        "47 percent higher",
+        "47% more than asking"
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "ST-0001",
+      "practice": "Taking a listing at a price the comps don't support, because another agent already agreed to it and you don't want to lose the appointment",
+      "category": "Pricing and listing intake",
+      "who_complains": "Sellers after the fact, and buyer's agents who watch the listing go stale",
+      "target": "self",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Realtor.com",
+        "year": 2026,
+        "url": "https://www.prnewswire.com/news-releases/by-week-four-your-listing-is-either-getting-offers-or-price-cuts-302797293.html",
+        "claim": "Homes closing around the four week mark sell 1.8% above the monthly average relative to asking; homes still on market at 18 weeks close 1.3% below. Realtor.com frames the gap as more than 3 percentage points. Published 2026-06-11, senior economist Joel Berner.",
+        "verified": "2026-08-12"
+      },
+      "sightings": [
+        {
+          "date": "2026-08-12",
+          "where": "Realtor.com research release",
+          "url": "https://www.prnewswire.com/news-releases/by-week-four-your-listing-is-either-getting-offers-or-price-cuts-302797293.html",
+          "gist": "Timing analysis showing the price penalty for a listing that sits"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Zillow Research",
+          "url": "https://www.zillow.com/research/overpricing-impacts-time-market-12476/",
+          "gist": "The price of overpricing: time on market and final discount"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The pre-listing number conversation: say the honest-number line before you ever give a figure",
+          "swap": "Before your next appointment, write this down. 'I'll tell you what your house is worth, and I won't tell you what you want to hear.' Say it before you give a number. Then hold your number.",
+          "status": "used",
+          "used_date": "2026-08-13",
+          "script": "scripts/stupid-things/STUPID-001-you-bought-that-listing.md"
+        },
+        {
+          "angle": "The seller's side of it: what to say when the seller tells you another agent promised more",
+          "swap": "Ask one question back. 'Did they show you the three closest comps, or did they show you a number?' Then show yours.",
+          "status": "open"
+        },
+        {
+          "angle": "Put the reduction schedule in writing up front so a cut is a plan instead of a panic",
+          "swap": "Price to the comps and be willing to lose a listing you can't price honestly. If a seller insists on testing high, put the reduction schedule in the listing agreement on day one, so the cut is a plan rather than a monthly argument.",
+          "hook": "The agent who quoted you the highest price didn't do you a favor. They bought your listing, and you'll pay it back at closing with interest.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Marketing, photos and pricing",
+      "looks_like": "Three agents pitch. Two give an honest number, the third buys the listing at fifty thousand higher to flatter the seller. Then no showings, no offers, and thirty days later the let's discuss an adjustment calls begin. Then another. Then another."
+    },
+    {
+      "id": "ST-0002",
+      "practice": "Going radio silent after the contract is signed, as if the job ended at acceptance",
+      "category": "Responsiveness and communication",
+      "who_complains": "Buyers, sellers, and the agent on the other side of the deal",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR",
+        "year": 2026,
+        "url": "https://www.nar.realtor/news/real-estate-news/sales-marketing/what-buyers-sellers-want-most-from-real-estate-agents",
+        "claim": "Responsiveness ranks among the qualities buyers value most; Gen X and Boomers rank it above process knowledge."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Larry's Take (industry commentary)",
+          "url": "https://larrystake.substack.com/p/the-curious-case-of-disappearing-agent",
+          "gist": "Buyer's agent goes radio silent for three weeks mid-transaction; listing agent cannot reach them by email, text, or phone"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "TREC (Texas Real Estate Commission) guidance",
+          "url": "https://www.trec.texas.gov/article/don%E2%80%99t-be-one-who-gets-blamed-when-buyer-does-not-get-buyer-approval",
+          "gist": "Regulator states a license holder cannot sit back after negotiation; the duty is to shepherd the transaction to closing"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Redfin consumer guide",
+          "url": "https://www.redfin.com/blog/what-to-do-when-your-realtor-ignores-you/",
+          "gist": "A consumer-facing article titled 'What to do when your REALTOR ignores you' exists at all, which is the tell"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "NAR",
+          "url": "https://www.nar.realtor/news/real-estate-news/sales-marketing/what-buyers-sellers-want-most-from-real-estate-agents",
+          "gist": "What buyers and sellers want most from agents"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The published response standard: tell the client your response window out loud at signing, so silence becomes a breach they can name",
+          "swap": "At the signing table, say the window. 'You'll hear from me every Friday, and inside four hours on anything urgent.' Then put a recurring Friday task in your phone before you leave the table.",
+          "status": "open"
+        },
+        {
+          "angle": "The holding text: the cost is the silence, not the delay",
+          "swap": "Set the standard out loud on day one and hold it forever. 'You'll hear back within a few hours on any weekday, and if I'm heads-down you'll get a one-line got it, full answer by 5.' That holding text is the whole trick.",
+          "hook": "You answered my texts in four minutes when I was shopping. Now it takes two days. What changed? Oh right, I already signed.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Responsiveness and showings",
+      "looks_like": "Four-minute replies while they're shopping. Then the ink dries and 'did the inspector send anything back?' sits unanswered for two days. You've trained the client to open every text with 'sorry to bug you again.'"
+    },
+    {
+      "id": "ST-0003",
+      "practice": "Not returning the buyer's agent's call on a live submitted offer",
+      "category": "Responsiveness and communication",
+      "who_complains": "Buyer's agents, and the sellers who never learn the offer went cold",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "OneKey MLS",
+        "year": 2026,
+        "url": "https://support.onekeymls.com/hc/en-us/articles/47507969337492-Offer-Presentation-and-Acknowledgment-Rules-Update-and-Guidance",
+        "claim": "NAR's 2026 Code update added explicit offer-acknowledgment guidance and many MLSs now require written acknowledgment of receipt."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "BiggerPockets forum",
+          "url": "https://www.biggerpockets.com/forums/41/topics/142997-listing-agent-not-responding-to-my-realitor",
+          "gist": "Agents advising each other on what to do when a listing agent will not respond to an offer"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Consumer real estate column",
+          "url": "https://issuu.com/danvillelivingca/docs/danville_living_dec18/s/29696",
+          "gist": "'Non-Responsive Listing Agent, What Can a Buyer Do?' Escalation path is the managing broker, then the state board"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "OneKey MLS rules guidance",
+          "url": "https://support.onekeymls.com/hc/en-us/articles/47507969337492-Offer-Presentation-and-Acknowledgment-Rules-Update-and-Guidance",
+          "gist": "Offer presentation and acknowledgment rules update"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The receipt-and-time-stamp move: make non-response visible to the seller instead of only to you",
+          "swap": "Send the offer, then text the listing agent one line: 'Sent at 2:40, confirming you'll present it today.' A text creates a timestamp. A voicemail does not.",
+          "status": "open"
+        },
+        {
+          "angle": "No offer sits unacknowledged overnight, and the acknowledgment carries a timeline",
+          "swap": "Acknowledge within a few hours, always. 'Received at 6:15, thank you. Presenting to my sellers tomorrow evening, response to you by Wednesday noon.' Hard rule: no offer sits unacknowledged overnight.",
+          "hook": "You submitted a strong offer and the listing agent went dark for three days. That's not strategy, and now the seller's own deal is at risk.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Responsiveness and showings",
+      "looks_like": "Buyer's agent submits a clean, strong offer at 6pm, clients are vibrating. Listing agent goes dark. No received, no timeline. Buyers are sure they're being ignored or shopped and can't move on because they don't even know it landed."
+    },
+    {
+      "id": "ST-0004",
+      "practice": "Deciding an offer is too weak to bother presenting to the seller",
+      "category": "Duty and disclosure",
+      "who_complains": "Sellers, buyers, and state license boards",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Pinnacle Real Estate Academy",
+          "url": "https://pinnaclerealestateacademy.com/the-most-common-complaint-filed-against-real-estate-agents",
+          "gist": "Failure to present an offer is named as a breach of the duty of obedience and a recurring complaint category"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "CRES Insurance (E&O carrier)",
+          "url": "https://www.cresinsurance.com/real-estate-broker-beware-most-common-complaints-that-lead-to-litigation/",
+          "gist": "Carrier-side list of the complaints that most often become litigation"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "It is not your decision to make, and the fix is a forwarding habit, not a judgment call",
+          "swap": "Every offer gets forwarded to the seller within the hour, with one line of your opinion under it. Your opinion goes below the offer, not instead of it.",
+          "status": "open"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0005",
+      "practice": "Photographing a client's largest asset on a phone, in bad light, and putting it in the MLS",
+      "category": "Marketing the listing",
+      "who_complains": "Sellers, and every buyer scrolling past the listing",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR and Redfin",
+        "year": 2026,
+        "url": "https://www.redfin.com/blog/professional-real-estate-photos-sell-homes-for-more/",
+        "claim": "NAR: 87% of buyers rank photos the single most useful listing feature. Redfin: homes $200K-$1M sold for $3,000-$11,200 more relative to list with professional photos and pulled 118% more online views. Redfin is not in the photography business, which is why these are the two to say on camera."
+      },
+      "flag": "Every number found so far traces to a real estate photography vendor selling photography. Do NOT use the '$4,200 lost' or '32% faster' figures without tracing them to the primary research. Source a neutral one or ship this without a number.",
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Vendor blog roundup (photography sellers)",
+          "url": "https://www.therealestatepros.com/blog/bad-listing-photos-can-cost-you-thousands-why-professional-real-estate-photography-matters",
+          "gist": "Claims of lost offer value from poor photos, all published by parties selling photography"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "HomeRise",
+          "url": "https://homerise.com/5-common-mls-listing-mistakes-to-avoid/",
+          "gist": "Dark, cluttered, phone-in-a-hurry shots listed among the most common MLS mistakes"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Redfin research",
+          "url": "https://www.redfin.com/blog/professional-real-estate-photos-sell-homes-for-more/",
+          "gist": "Pro photos sell homes for more"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Virtuance eye-tracking study",
+          "url": "https://www.virtuance.com/blog/eye-tracking-study/",
+          "gist": "The primary photo is a 2.7-second decision"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "VHT via PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/professional-real-estate-photography-sells-homes-32-faster-273534171.html",
+          "gist": "Chicago-area study: pro-photographed homes sold in 89 days vs 123, 32% faster. VHT sells photography, so treat as supporting, not primary"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The minimum standard framed as a cost your client already paid for",
+          "swap": "Look at your three newest listings on your own phone, at arm's length, the way a buyer sees them. Any photo you would not text to a friend gets reshot before you do anything else this week.",
+          "status": "open"
+        },
+        {
+          "angle": "The 2.7-second decision, and the standard that meets it",
+          "swap": "Never shoot a listing on a phone, at any price point. Standard: wide angle, HDR or flash-balanced windows, straight verticals, daylight plus every lamp on, 25 or more images. Lead with the strongest exterior or the kitchen.",
+          "hook": "You have two and a half seconds to stop a buyer from scrolling past your listing, and you spent them on a photo of your toilet.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Marketing, photos and pricing",
+      "looks_like": "Vertical 4pm phone shots with the blinds half open. Toilet lids as the hero image. Flash bouncing off the TV, crooked verticals, the agent reflected in the bathroom mirror. Eight photos, none of them the kitchen."
+    },
+    {
+      "id": "ST-0006",
+      "practice": "Writing 'Beautiful home, must see!' as the entire MLS description",
+      "category": "Marketing the listing",
+      "who_complains": "Buyers, buyer's agents, and sellers who read their own listing",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR Profile of Home Buyers and Sellers",
+        "year": 2026,
+        "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
+        "claim": "Buyers rank detailed property information the second most useful feature at 85%, right behind photos, and 52% find the home they buy online."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "HomeRise",
+          "url": "https://homerise.com/5-common-mls-listing-mistakes-to-avoid/",
+          "gist": "Generic descriptions named as a top MLS mistake; 'Beautiful home, must see!' tells a buyer nothing"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Congress Realty (broker commentary)",
+          "url": "https://congressrealty.com/biggest-mistakes-home-sellers-make-listing-on-mls-idaho-broker-reveals/",
+          "gist": "Broker-side list of listing-input mistakes that cost sellers attention"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "NAR Profile of Home Buyers and Sellers",
+          "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
+          "gist": "Photos and detailed information are the top two buyer decision factors"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Write the one thing the photos cannot show, since that is the only job the description has",
+          "swap": "Open your newest listing description. Delete every adjective. Whatever is left, if it isn't a fact a photo can't show you, the description isn't written yet.",
+          "status": "open"
+        },
+        {
+          "angle": "Treat the MLS sheet like a checklist you do not submit until it is 100% full",
+          "swap": "If a field exists, fill it. Dimensions, full remarks with features and neighborhood and updates, HOA and assessments, taxes, parking, live-booking showing instructions, material disclosures. Do not submit at 60%.",
+          "hook": "Your listing description says must see. That's not a description, that's you admitting you didn't write one.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Marketing, photos and pricing",
+      "looks_like": "Public remarks that say great home, must see, and nothing else. Blank dimensions, no HOA fee on a condo, no parking detail, empty showing instructions so the buyer's agent calls, gets voicemail, and gives up."
+    },
+    {
+      "id": "ST-0007",
+      "practice": "Sitting on earnest money instead of depositing it into the trust account on time",
+      "category": "Money and licensing",
+      "who_complains": "Buyers, sellers, and state regulators",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "flag": "Legal-exposure entry. Runs the 'if you're still doing X' shape, which carries the highest evidence burden in the lane. Cite the actual state escrow rule and a real enforcement action. Say the exposure, never predict the verdict.",
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "IDFPR enforcement reports (Illinois)",
+          "url": "https://idfpr.illinois.gov/news/disciplines/discreportsdefault.html",
+          "gist": "Monthly Illinois discipline reports; escrow and trust-account failures are a standing category"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Nevada Real Estate Division enforcement report",
+          "url": "https://red.nv.gov/uploadedFiles/rednvgov/Content/Meetings/REC/2026/Supporting_Materials/February/Enforcement-Report.pdf",
+          "gist": "State enforcement docket, February 2026"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The deposit clock is a calendar entry, not a memory test",
+          "swap": "The day you accept a check, put the state deposit deadline in your calendar as an all-day event with the file name on it. Not a reminder. An event you have to look at.",
+          "status": "open"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0008",
+      "practice": "Practicing on a lapsed license, or letting sponsorship lapse and working anyway",
+      "category": "Money and licensing",
+      "who_complains": "Regulators, managing brokers who inherit the liability, and clients whose deal is exposed",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "flag": "D.J. runs the kale-license-monitor reconciliation, so this is a practice he has direct standing on. Verify the current Illinois civil-penalty figure against the statute before it is spoken; the $25,000-per-offense number seen in search results traces to a law-firm marketing page, not the statute.",
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "IDFPR June 2026 enforcement report",
+          "url": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/forms/discpln/2026-06enf.pdf",
+          "gist": "Live Illinois discipline docket including unlicensed-practice matters"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Illinois REALTORS",
+          "url": "https://www.illinoisrealtors.org/blog/real-estate-disciplines/",
+          "gist": "Association-side summary of discipline categories"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The managing broker eats this too, which is the part nobody tells the agent",
+          "swap": "Pull up your license record on the state portal right now and read the expiration date out loud. If it is inside 90 days, renew today, not at the deadline.",
+          "status": "open"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0009",
+      "practice": "Rushing a client through signing so they don't have time to understand what they're agreeing to",
+      "category": "Duty and disclosure",
+      "who_complains": "Buyers, especially first-time buyers",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "ADHI Schools",
+          "url": "https://www.adhischools.com/blog/common-complaints-against-real-estate-agents",
+          "gist": "Feeling pressured to move quickly without understanding the legal implications is named as a top buyer frustration"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Salcines Law",
+          "url": "https://salcineslaw.com/whats-the-most-common-complaint-about-real-estate-agents/",
+          "gist": "Attorney-side view of the most common agent complaint categories"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Slowing down is the close, not the obstacle to it",
+          "swap": "On the next agreement you put in front of someone, say 'take a minute, I'll wait' and then actually stop talking. Count to ten in your head. The silence is the service.",
+          "status": "open"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0010",
+      "practice": "Leaving a material property fact out of the disclosure and hoping nobody asks",
+      "category": "Duty and disclosure",
+      "who_complains": "Buyers, and the E&O carrier",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Illinois Residential Real Property Disclosure Act, 765 ILCS 77",
+        "year": 2026,
+        "url": "https://codes.findlaw.com/il/chapter-765-property/il-st-sect-765-77-35/",
+        "claim": "Illinois 765 ILCS 77 requires disclosing known material defects on the 23-item form, and under 765 ILCS 77/55 a violating seller is liable for actual damages plus court costs and attorney's fees."
+      },
+      "flag": "Legal-exposure entry. Cite the state disclosure statute and a real filed case, not a general 'you could get sued.'",
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "CRES Insurance",
+          "url": "https://www.cresinsurance.com/real-estate-broker-beware-most-common-complaints-that-lead-to-litigation/",
+          "gist": "Misrepresentation and non-disclosure named as the complaints most likely to become litigation"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "SJ Harris Law",
+          "url": "https://www.sjharrislaw.com/blog/how-to-avoid-common-real-estate-complaints/",
+          "gist": "Misrepresentation and failure to disclose lead the complaint categories"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "FindLaw, 765 ILCS 77/35",
+          "url": "https://codes.findlaw.com/il/chapter-765-property/il-st-sect-765-77-35/",
+          "gist": "Illinois residential disclosure statute"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Houzeo",
+          "url": "https://www.houzeo.com/blog/seller-disclosures-in-illinois/",
+          "gist": "Illinois seller disclosure liability under 765 ILCS 77/55"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The question that finds the thing the seller wasn't going to mention",
+          "swap": "Ask the seller one question before the disclosure goes out: 'What would you want to know if you were buying this house?' Then write down whatever they pause on.",
+          "status": "open"
+        },
+        {
+          "angle": "A defect disclosed and priced in is a closed deal; hidden, it is a rescission or a judgment",
+          "swap": "Guide sellers to fix or disclose: get a bid, credit the buyer, or state it plainly in writing. Every time. NAR Article 2 is explicit that latent material defects are not confidential.",
+          "hook": "Your agent told the seller not to mention the flooding. In Illinois, that's the seller who gets sued, and here's the statute.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Trust, ethics and conflicts",
+      "looks_like": "Seller mentions the basement takes water every spring. Agent says don't put that on the disclosure, repaint the water line and mark unaware. Buyers move in, first storm hits, four inches ruin the finished basement they were promised was dry."
+    },
+    {
+      "id": "ST-0011",
+      "practice": "Listing a property with no showing instructions, no working lockbox, and a phone number nobody answers",
+      "category": "Showings and access",
+      "who_complains": "Buyer's agents, and sellers who never learn the showings didn't happen",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Virtuance",
+        "year": 2026,
+        "url": "https://www.virtuance.com/blog/chicago-real-estate-market/",
+        "claim": "The typical Chicago home takes about 47 days to sell."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Colorado DRE division notification",
+          "url": "https://dre.colorado.gov/division-notifications/the-what-why-and-risks-of-using-lockboxes",
+          "gist": "Regulator guidance on lockbox use and access risk"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "South Carolina LLR showing-agents bulletin",
+          "url": "https://www.llr.sc.gov/re/News/Showing-Agents-Bulletin.pdf",
+          "gist": "State bulletin on showing access practice"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Virtuance Chicago market data",
+          "url": "https://www.virtuance.com/blog/chicago-real-estate-market/",
+          "gist": "Chicago days-on-market baseline"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "A showing that never happened looks exactly like a house nobody wanted, and the seller can't tell the difference",
+          "swap": "Open your own active listings in the MLS as if you were a buyer's agent. If you can't figure out how to get in within thirty seconds, neither can they.",
+          "status": "open"
+        },
+        {
+          "angle": "Every hoop is a filter that removes buyers, and the seller should hear that tradeoff out loud",
+          "swap": "Default to a lockbox and app scheduling with the widest reasonable window. If restrictions are real, make the response instant: 30-minute callback guarantee and real same-day slots. Tell the seller the honest tradeoff.",
+          "hook": "Seven homes had a lockbox. Yours said call agent to show. You didn't protect your seller, you hid their house.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Responsiveness and showings",
+      "looks_like": "Buyer in town for one afternoon, eight homes. Seven have lockboxes and book in ten minutes. The eighth is call to show. Voicemail, text, wait, callback four hours later, seller can only do Thursday. Buyer flies home Wednesday. Never shown."
+    },
+    {
+      "id": "ST-0012",
+      "practice": "Telling buyer's agents there are multiple offers when there are none",
+      "category": "Offers and negotiation",
+      "who_complains": "Buyer's agents, buyers, and ethics panels",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "flag": "Verify the exact NAR Code of Ethics citation before this is spoken. Standard of Practice 1-15 governs disclosure of the existence of offers and requires seller consent; confirm the current wording and year rather than paraphrasing from memory.",
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "The true version of the line that does the same job better",
+          "swap": "You never have to lie to create urgency. Say the real thing: 'We're reviewing everything Sunday at six.' A deadline does what a fake offer does, and it's true.",
+          "status": "open"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0013",
+      "practice": "Running down the agent on the other side of the deal in front of your own client",
+      "category": "Offers and negotiation",
+      "who_complains": "Clients who lose confidence in the whole deal, and the agent being run down",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR Code of Ethics Article 15",
+        "year": 2026,
+        "url": "https://www.nar.realtor/code-of-ethics-and-arbitration-manual/case-interpretations-related-to-article-15",
+        "claim": "Article 15 bars knowingly or recklessly false or misleading statements about other real estate professionals, explicitly including social media and casual talk."
+      },
+      "flag": "Verify the NAR Code of Ethics Article 15 wording (false or misleading statements about competitors) before citing it on camera.",
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NAR Article 15 case interpretations",
+          "url": "https://www.nar.realtor/code-of-ethics-and-arbitration-manual/case-interpretations-related-to-article-15",
+          "gist": "Article 15 case law on statements about competitors"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Inman",
+          "url": "https://www.inman.com/2023/02/08/is-your-trash-talk-violating-the-code-of-ethics/",
+          "gist": "Is your trash talk violating the Code of Ethics"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Your client is not hearing an opinion about that agent, they are hearing what you'll say about them",
+          "swap": "Next time the other agent does something that deserves it, say one sentence to your client: 'I'll handle it.' Then handle it. The complaint goes to the managing broker, not to the person you're representing.",
+          "status": "open"
+        },
+        {
+          "angle": "Critique positions, not people, because a cooperative tone gets your client faster answers and softer counters",
+          "swap": "Say the factual version instead. 'Their counter is high for the comps, here's how we respond.' Take the complaint to the managing broker, never to the person you represent.",
+          "hook": "If your agent spends the whole deal trashing the other agent, ask yourself what they say about you when you're not in the room.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Trust, ethics and conflicts",
+      "looks_like": "Feels like being on the client's team. That listing agent is an idiot, the seller's clearly cheap and difficult, this'll be a nightmare. Said right before two sides have to cooperate to close, and the client quietly wonders what you say about them."
+    },
+    {
+      "id": "ST-0014",
+      "practice": "Disappearing the day after closing and never contacting the client again",
+      "category": "After the close",
+      "who_complains": "Past clients, who then use somebody else next time",
+      "target": "self",
+      "heat_ceiling": 3,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR via Stylograph",
+        "year": 2026,
+        "url": "https://www.stylograph.ai/blog/real-estate-client-retention-repeat-business-gap",
+        "claim": "About 88% of buyers say they would use their agent again, yet only about 12% actually do. The goodwill is already there; the follow-up is not."
+      },
+      "flag": "The NAR Profile of Home Buyers and Sellers repeat-and-referral share is the natural receipt here. Pull the current edition rather than reusing the figure from the recruiting-objections doc, which needs re-verification.",
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Stylograph, on the repeat-business gap",
+          "url": "https://www.stylograph.ai/blog/real-estate-client-retention-repeat-business-gap",
+          "gist": "88% would use again, about 12% do"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The client didn't leave you, you left them, and the fix is one calendar entry made at the closing table",
+          "swap": "Before you leave the closing table, put one calendar entry 90 days out with the client's name on it. Not a drip campaign. One entry, one call.",
+          "status": "open"
+        },
+        {
+          "angle": "Own the loose ends for 30 days and say so out loud at closing",
+          "swap": "Say it at the table. 'My job doesn't end today. Anything comes up with the house, the utilities, the seller, you call me first.' Then run the cadence: 48-hour check-in, 30-day follow-up, one-year note.",
+          "hook": "They handed you the keys and never heard from their agent again. The commission cleared, so you stopped existing.",
+          "status": "open",
+          "banked": "2026-08-13"
+        },
+        {
+          "angle": "The after-sale system: an anniversary note and two genuinely useful check-ins a year that are not disguised asks",
+          "swap": "Build the calendar now: closing-anniversary note, tax-appeal season, a trusted-contractor list, and one real how's the house that asks for nothing.",
+          "hook": "Ninety percent of people would use their agent again. Ten percent remember their name. That gap is where every referral goes to die.",
+          "status": "open",
+          "banked": "2026-08-13"
+        },
+        {
+          "angle": "The sphere nurture plan: 8 to 12 touches a year with an A-list segmented for higher contact",
+          "swap": "No past client goes 90 days without hearing from you in a way that is not a mass blast. Segment your A-list and give them more.",
+          "hook": "You didn't lose that repeat client to a better agent. You lost them to the agent who simply didn't disappear for three years.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "family": "Responsiveness and showings",
+      "looks_like": "Everyone hugs at the title company, agent posts the SOLD photo, then the seller never left the garage remotes, the utility transfer got fumbled, the repair credit is in limbo, and the texts go unanswered. Commission cleared, client filed under done."
+    },
+    {
+      "id": "ST-0015",
+      "practice": "Walking into a listing appointment with a CMA you pulled that morning and never read",
+      "category": "Pricing and listing intake",
+      "who_complains": "Sellers, who can tell, and the agent who wins the listing instead",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "The seller is not evaluating your number, they are evaluating whether you have been in the houses",
+          "swap": "Before the next appointment, drive past two of your three comps. Say which two you saw and what was different about them. That's the entire edge.",
+          "status": "open"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0016",
+      "practice": "The pre-contract superstar who disappears after the client signs",
+      "family": "Responsiveness and showings",
+      "category": "The slow fade",
+      "looks_like": "Four-minute replies while they're shopping. Then the ink dries and 'did the inspector send anything back?' sits unanswered for two days. You've trained the client to open every text with 'sorry to bug you again.'",
+      "who_complains": "Buyers and sellers, who grade you against the you they met three weeks ago",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR",
+        "year": 2026,
+        "url": "https://www.nar.realtor/news/real-estate-news/sales-marketing/what-buyers-sellers-want-most-from-real-estate-agents",
+        "claim": "Responsiveness ranks among the qualities buyers value most; Gen X and Boomers rank it above process knowledge."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NAR",
+          "url": "https://www.nar.realtor/news/real-estate-news/sales-marketing/what-buyers-sellers-want-most-from-real-estate-agents",
+          "gist": "What buyers and sellers want most from agents"
+        }
+      ],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0002"
+    },
+    {
+      "id": "ST-0017",
+      "practice": "Vanishing during the week before closing",
+      "family": "Responsiveness and showings",
+      "category": "The slow fade",
+      "looks_like": "Highest-anxiety week of the whole deal. Wiring their life savings in five days, lender wants two more docs, walkthrough unconfirmed, and the agent goes quiet. Client refreshes email at midnight sure the deal is dying.",
+      "who_complains": "Buyers at peak emotional investment",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Redfin",
+        "year": 2026,
+        "url": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
+        "claim": "The typical U.S. home spent about 64 days on market before going under contract in early 2026, the longest in six years."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Redfin housing market update",
+          "url": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
+          "gist": "Days on market at a six-year high"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Increase contact that week instead of coasting, and verify wire instructions by phone",
+          "swap": "Daily one-liner even when nothing moved. 'Tues update: lender has everything, waiting on clear-to-close, expect Thursday, walkthrough locked Friday 4pm. Nothing needed from you.' Verify wire instructions by phone, never email.",
+          "hook": "The week you're wiring two hundred grand is the week your agent goes silent. Here's why that happens, and why it should terrify you.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0018",
+      "practice": "Ghosting on loose ends after the keys change hands",
+      "family": "Responsiveness and showings",
+      "category": "The slow fade",
+      "looks_like": "Everyone hugs at the title company, agent posts the SOLD photo, then the seller never left the garage remotes, the utility transfer got fumbled, the repair credit is in limbo, and the texts go unanswered. Commission cleared, client filed under done.",
+      "who_complains": "Past clients, and the three referrals they were going to send",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0014"
+    },
+    {
+      "id": "ST-0019",
+      "practice": "Putting the entire follow-up burden on the client with 'I'll let you know if anything comes up'",
+      "family": "Responsiveness and showings",
+      "category": "The slow fade",
+      "looks_like": "The signature move is 'I'll let you know if anything comes up.' Sounds proactive, it's the opposite. Now the buyer is chasing. Any word from the inspector? Did the appraisal come in? Doing unpaid project management on their own six-figure purchase.",
+      "who_complains": "Buyers who hired you so they wouldn't have to babysit the deal",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Replace the passive promise with a schedule they can set a watch to",
+          "swap": "Say the schedule. 'Every Friday by noon you get a status update, even if it's nothing changed. And anything material, you hear it from me first.' The goal is that your client never types the words any update.",
+          "hook": "I'll let you know if anything comes up is agent-speak for you're on your own.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0020",
+      "practice": "Never replying to showing feedback requests, leaving the seller in the dark",
+      "family": "Responsiveness and showings",
+      "category": "Agent-to-agent cooperation",
+      "looks_like": "Twelve showings, zero feedback replies, and a seller spiraling. Is it the price? The kitchen? The smell? Nobody will tell us anything. The listing agent has nothing to bring to the price conversation.",
+      "who_complains": "Listing agents and their sellers, flying blind on price",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NorthstarMLS",
+        "year": 2026,
+        "url": "https://northstarmls.com/insights/are-you-following-these-nine-showing-etiquette-best-practices/",
+        "claim": "Showing etiquette standard is to give sellers roughly 24 hours before the feedback request even goes out."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NorthstarMLS showing etiquette",
+          "url": "https://northstarmls.com/insights/are-you-following-these-nine-showing-etiquette-best-practices/",
+          "gist": "Nine showing etiquette best practices"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "A saved template with three blanks turns a 40-second job into a habit",
+          "swap": "Answer every feedback request within 24 hours, even a no. Save a template with three blanks: overall, dealbreaker, price reaction. 'Showed beautifully but the second bedroom was smaller than they need. Price felt fair for the finishes.'",
+          "hook": "A dozen showings, zero feedback, and a seller losing their mind over what's wrong with their house. Be the agent who hits reply.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0021",
+      "practice": "Calling another agent without identifying yourself or naming the listing",
+      "family": "Responsiveness and showings",
+      "category": "Agent-to-agent cooperation",
+      "looks_like": "Phone rings mid-showing. 'Hey, is it still available?' No name, no brokerage, no address. The listing agent has forty listings and is now playing twenty questions with a stranger.",
+      "who_complains": "Listing agents, and the buyer whose access just got slower",
+      "target": "sideways",
+      "heat_ceiling": 3,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Three parts in the first ten seconds, and the address in the first line of any text",
+          "swap": "Lead every agent call with who you are, your brokerage, the exact property. 'Hi, this is Jordan with Kale Realty, calling about 1420 West Cortland unit three. Still available, and can I ask a couple quick questions?' Same for texts.",
+          "hook": "Is it still available? Available what? I have forty listings and no idea who you are.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0022",
+      "practice": "Only texting during negotiations and refusing to get on the phone",
+      "family": "Responsiveness and showings",
+      "category": "Agent-to-agent cooperation",
+      "looks_like": "Three counters deep on a six hundred thousand dollar deal and one agent will only text. 'We can't do that price' reads as hostile when it was meant as regretful. A ninety-second call becomes a thirty-text, four-hour back-and-forth while the deal cools.",
+      "who_complains": "The agent on the other side, and both clients",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Text to schedule, phone to negotiate, then recap in writing",
+          "swap": "Say this instead of typing a counter. 'Got your counter, calling you in five so we can talk it through.' Then recap in writing: 'To confirm, 585 if you cover the survey, close the fifteenth.'",
+          "hook": "You're negotiating a six hundred thousand dollar deal by thumb-typing. Tone doesn't survive text, and neither will this deal.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0023",
+      "practice": "Sitting on a submitted offer with no acknowledgment of receipt",
+      "family": "Responsiveness and showings",
+      "category": "Agent-to-agent cooperation",
+      "looks_like": "Buyer's agent submits a clean, strong offer at 6pm, clients are vibrating. Listing agent goes dark. No received, no timeline. Buyers are sure they're being ignored or shopped and can't move on because they don't even know it landed.",
+      "who_complains": "Buyer's agents, buyers, and the seller whose own deal is at risk",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "OneKey MLS",
+        "year": 2026,
+        "url": "https://support.onekeymls.com/hc/en-us/articles/47507969337492-Offer-Presentation-and-Acknowledgment-Rules-Update-and-Guidance",
+        "claim": "NAR's 2026 Code update added explicit offer-acknowledgment guidance and many MLSs now require written acknowledgment of receipt."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "OneKey MLS rules guidance",
+          "url": "https://support.onekeymls.com/hc/en-us/articles/47507969337492-Offer-Presentation-and-Acknowledgment-Rules-Update-and-Guidance",
+          "gist": "Offer presentation and acknowledgment rules update"
+        }
+      ],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0003"
+    },
+    {
+      "id": "ST-0024",
+      "practice": "Setting an offer deadline and never telling the other agents the seller already accepted",
+      "family": "Responsiveness and showings",
+      "category": "Agent-to-agent cooperation",
+      "looks_like": "All offers due Sunday 5pm. Six agents pull an all-nighter with their buyers. Sunday 2pm the seller quietly accepts an early offer and the other five are never told. They submit at the deadline, wait through Monday, and find out days later by accident.",
+      "who_complains": "The five agents who did hours of unpaid work on a dead deal",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR 2026 Code of Ethics, Standard of Practice 1-15",
+        "year": 2026,
+        "url": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/2026-code-of-ethics-standards-of-practice",
+        "claim": "Standard of Practice 1-15 requires disclosing the existence of accepted offers to cooperating brokers who ask, with the seller's approval."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NAR 2026 Code of Ethics",
+          "url": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/2026-code-of-ethics-standards-of-practice",
+          "gist": "SOP 1-15 on disclosing accepted offers"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Five minutes of notification protects the agents you need on your next fifty listings",
+          "swap": "The moment your seller accepts, notify everyone working the property. 'Update on 1420 Cortland: seller has accepted, deadline is off. Reach out for backup status.' Five minutes.",
+          "hook": "Six agents stayed up all weekend writing offers on a house that already sold Sunday afternoon. Nobody told them.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0025",
+      "practice": "Call agent to show with no lockbox, turning a showing into a multi-day ordeal",
+      "family": "Responsiveness and showings",
+      "category": "Showings and access",
+      "looks_like": "Buyer in town for one afternoon, eight homes. Seven have lockboxes and book in ten minutes. The eighth is call to show. Voicemail, text, wait, callback four hours later, seller can only do Thursday. Buyer flies home Wednesday. Never shown.",
+      "who_complains": "Buyer's agents, and the seller whose house got skipped",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Virtuance",
+        "year": 2026,
+        "url": "https://www.virtuance.com/blog/chicago-real-estate-market/",
+        "claim": "The typical Chicago home takes about 47 days to sell."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Virtuance Chicago market data",
+          "url": "https://www.virtuance.com/blog/chicago-real-estate-market/",
+          "gist": "Chicago days-on-market baseline"
+        }
+      ],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0011"
+    },
+    {
+      "id": "ST-0026",
+      "practice": "Not confirming showings, so buyers get dragged across town to a locked door",
+      "family": "Responsiveness and showings",
+      "category": "Showings and access",
+      "looks_like": "2pm showing booked, family loaded up, thirty-five minutes across Chicago traffic. Locked door, dead code, or a tenant who was never told. Two restless kids on a stoop and an agent apologizing for something that wasn't their fault.",
+      "who_complains": "Buyer's agents, buyers, and the seller who lost a showing entirely",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NorthstarMLS",
+        "year": 2026,
+        "url": "https://northstarmls.com/insights/are-you-following-these-nine-showing-etiquette-best-practices/",
+        "claim": "Showing standards are explicit that appointments should be confirmed with the occupant before the buyer travels."
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Confirm from both sides, and never point the car at an unconfirmed property",
+          "swap": "Listing side, confirm with the occupant and reply before they leave: 'Confirmed 2pm, code 4471, side door.' Buyer side, never point the car at a property you haven't confirmed that morning.",
+          "hook": "Two kids in the car, thirty-five minutes across town, and a locked door. Nobody confirmed the showing.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0027",
+      "practice": "Showing up late or no-showing and blowing up everyone else's schedule",
+      "family": "Responsiveness and showings",
+      "category": "Showings and access",
+      "looks_like": "A seller vacates with a dog and a toddler for a 3:00 to 3:30 window and sits in a coffee shop. The 3:00 agent rolls in at 3:25, or never shows and never calls. The whole disruption was for nothing, and the 3:30 agent is stuck waiting.",
+      "who_complains": "Sellers who cleared out, and the agent queued behind you",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "St. Louis REALTORS",
+        "year": 2021,
+        "url": "https://www.stlrealtors.com/news/2021/06/30/professionalism/showing-etiquette-and-professionalism/",
+        "claim": "Association guidance calls a late arrival or no-show particularly disruptive because sellers arrange their lives and other agents queue around fixed windows."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "St. Louis REALTORS professionalism guidance",
+          "url": "https://www.stlrealtors.com/news/2021/06/30/professionalism/showing-etiquette-and-professionalism/",
+          "gist": "Showing etiquette and professionalism"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The call before the appointment converts a disaster into a forgivable delay",
+          "swap": "Build buffer and treat the window as sacred. If you're even ten minutes behind, call before the appointment: 'Running fifteen late, still coming, there by 3:15.'",
+          "hook": "A seller cleared out with a dog and a toddler for your three o'clock. You showed up at 3:25 with no call. You disrespected a family.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0028",
+      "practice": "Overstaying the showing window while the next agent and their buyers wait",
+      "family": "Responsiveness and showings",
+      "category": "Showings and access",
+      "looks_like": "Buyers fall in love and linger. Measuring the bedroom, debating paint, sitting on the deck imagining summers, while the 3:30 agent and their buyers stand in the entryway feeling like intruders.",
+      "who_complains": "The next agent, and the buyer whose showing just got rushed",
+      "target": "sideways",
+      "heat_ceiling": 3,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Selling CF",
+        "year": 2026,
+        "url": "https://www.sellingcf.com/modern-house-showing-etiquette-what-buyers-and-sellers-should-know/",
+        "claim": "The standard is to respect the scheduled time because the owner may be returning and other agents are waiting."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Selling CF showing etiquette",
+          "url": "https://www.sellingcf.com/modern-house-showing-etiquette-what-buyers-and-sellers-should-know/",
+          "gist": "Modern house showing etiquette"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "A second showing is better for your buyer anyway, and it signals interest to the listing agent",
+          "swap": "Treat the window as a hard stop and warn buyers at the twenty-five minute mark. If they're in love, that's good news: 'Strong yes, let's book a second, longer showing.'",
+          "hook": "Your buyers loved it so much you camped there an hour. My clients waited on the porch for their turn.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0029",
+      "practice": "Taking days to schedule a showing while the listing sells to somebody faster",
+      "family": "Responsiveness and showings",
+      "category": "Showings and access",
+      "looks_like": "Buyer texts Monday: can we see the new Logan Square listing? Agent replies Wednesday: how's the weekend? By Saturday it has three offers and is gone. The buyer starts checking Zillow at midnight and realizes they're faster than the person they hired.",
+      "who_complains": "Buyers who keep losing houses and don't know why",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR via Virginia REALTORS",
+        "year": 2025,
+        "url": "https://virginiarealtors.org/2025/12/08/key-takeaways-from-nars-2025-profile-of-home-buyers-and-sellers/",
+        "claim": "Roughly 70% of buyers interview only one agent, so the fast agent wins the client and keeps them."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NAR Profile via Virginia REALTORS",
+          "url": "https://virginiarealtors.org/2025/12/08/key-takeaways-from-nars-2025-profile-of-home-buyers-and-sellers/",
+          "gist": "70% of buyers interview only one agent"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "A same-day showing standard, with self-scheduling so you are never the bottleneck",
+          "swap": "Acknowledge within an hour and propose a concrete time the same day. Use self-scheduling tools and a standing showing block so you are never the bottleneck.",
+          "hook": "You texted your agent Monday to see the house. They booked it for the weekend. It sold Saturday.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0030",
+      "practice": "The part-timer who hides the day job and cannot keep pace with the transaction",
+      "family": "Responsiveness and showings",
+      "category": "Showings and access",
+      "looks_like": "A nine-to-five they don't mention. Showings only after 6pm, calls to voicemail all day, offer deadlines landing while they're unreachable at their desk. The buyer loses a house because the offer couldn't go in until 8pm, and never knew why.",
+      "who_complains": "Clients who discover the constraint by losing a house to it",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "HousingWire and Colibri",
+        "year": 2026,
+        "url": "https://www.housingwire.com/articles/datadigest-study-shows-agents-are-aplenty-most-with-few-or-no-sales/",
+        "claim": "The typical full-time NAR member closed about 10 sides in 2024, while agents working under 20 hours a week mostly earn under $25,000."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "HousingWire DataDigest",
+          "url": "https://www.housingwire.com/articles/datadigest-study-shows-agents-are-aplenty-most-with-few-or-no-sales/",
+          "gist": "Most agents have few or no sales"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Colibri Real Estate",
+          "url": "https://www.colibrirealestate.com/career-hub/blog/what-is-a-part-time-real-estate-agent/",
+          "gist": "Part-time agent production and earnings"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Disclose it up front and build real business-hours coverage, so the client never discovers it by losing",
+          "swap": "If you're part-time, say so at the first meeting and build actual coverage, a licensed partner or TC who works business hours. Never let a client find out by losing a house.",
+          "hook": "Your agent has a full-time job they never told you about. That's why you keep losing houses. Ask the question.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0031",
+      "practice": "Dark, blurry, badly composed iPhone photos on the MLS",
+      "family": "Marketing, photos and pricing",
+      "category": "The listing itself",
+      "looks_like": "Vertical 4pm phone shots with the blinds half open. Toilet lids as the hero image. Flash bouncing off the TV, crooked verticals, the agent reflected in the bathroom mirror. Eight photos, none of them the kitchen.",
+      "who_complains": "Sellers, and every buyer who scrolls past",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR and Redfin",
+        "year": 2026,
+        "url": "https://www.redfin.com/blog/professional-real-estate-photos-sell-homes-for-more/",
+        "claim": "NAR: 87% of buyers rank photos the single most useful listing feature. Redfin: homes $200K-$1M sold for $3,000-$11,200 more relative to list with professional photos and pulled 118% more online views. Redfin is not in the photography business, which is why these are the two to say on camera."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Redfin research",
+          "url": "https://www.redfin.com/blog/professional-real-estate-photos-sell-homes-for-more/",
+          "gist": "Pro photos sell homes for more"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Virtuance eye-tracking study",
+          "url": "https://www.virtuance.com/blog/eye-tracking-study/",
+          "gist": "The primary photo is a 2.7-second decision"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "VHT via PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/professional-real-estate-photography-sells-homes-32-faster-273534171.html",
+          "gist": "Chicago-area study: pro-photographed homes sold in 89 days vs 123, 32% faster. VHT sells photography, so treat as supporting, not primary"
+        }
+      ],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0005"
+    },
+    {
+      "id": "ST-0032",
+      "practice": "Calling a windowless or closetless room a bedroom in the listing",
+      "family": "Marketing, photos and pricing",
+      "category": "The listing itself",
+      "looks_like": "A finished-basement fourth bedroom with no window. A six by seven nook listed as a bedroom because it has a door. A three-bed where the third is a converted attic with no egress and no heat vent.",
+      "who_complains": "Buyers, appraisers, lenders, and eventually a plaintiff's attorney",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "IRC via ListWithClever and HomeLight",
+        "year": 2026,
+        "url": "https://listwithclever.com/real-estate-blog/what-is-the-legal-definition-of-a-bedroom/",
+        "claim": "Under the IRC a legal bedroom needs egress: roughly 5.7 sq ft of openable area (about 20 by 24 inches), about 70 sq ft of floor area, and a permanent heat source."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "ListWithClever",
+          "url": "https://listwithclever.com/real-estate-blog/what-is-the-legal-definition-of-a-bedroom/",
+          "gist": "Legal definition of a bedroom"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Rocket Mortgage",
+          "url": "https://www.rocketmortgage.com/learn/what-qualifies-as-a-bedroom",
+          "gist": "Miscounting surfaces at appraisal and can blow up financing"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Count the way an appraiser will, and use the honest word instead",
+          "swap": "No legal egress plus heat source means den, flex room, office, or bonus room. Never bedroom. If it is close, say easily converted to a fourth bedroom instead of miscounting.",
+          "hook": "That room you're calling a bedroom? If a buyer can't climb out the window in a fire, it's not a bedroom, and now you own that lie.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0033",
+      "practice": "Submitting an incomplete MLS listing with no room sizes, no remarks, and no HOA information",
+      "family": "Marketing, photos and pricing",
+      "category": "The listing itself",
+      "looks_like": "Public remarks that say great home, must see, and nothing else. Blank dimensions, no HOA fee on a condo, no parking detail, empty showing instructions so the buyer's agent calls, gets voicemail, and gives up.",
+      "who_complains": "Buyers and buyer's agents, who book the other house instead",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR Profile of Home Buyers and Sellers",
+        "year": 2026,
+        "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
+        "claim": "Buyers rank detailed property information the second most useful feature at 85%, right behind photos, and 52% find the home they buy online."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NAR Profile of Home Buyers and Sellers",
+          "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
+          "gist": "Photos and detailed information are the top two buyer decision factors"
+        }
+      ],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0006"
+    },
+    {
+      "id": "ST-0034",
+      "practice": "Over-Photoshopping listing images so the house is unrecognizable in person",
+      "family": "Marketing, photos and pricing",
+      "category": "The listing itself",
+      "looks_like": "Radioactive green grass, sky replacement, virtual staging that removes a wall, wide angle that turns a ten-foot bedroom into a ballroom. Then the buyer walks in and the bright open kitchen is a dim galley.",
+      "who_complains": "Buyers, at the door, out loud",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Virtuance eye-tracking study",
+        "year": 2026,
+        "url": "https://www.virtuance.com/blog/eye-tracking-study/",
+        "claim": "Buyers preferred enhanced images about two-thirds of the time. Enhancement works; deception is the part that backfires."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Virtuance eye-tracking study",
+          "url": "https://www.virtuance.com/blog/eye-tracking-study/",
+          "gist": "Buyers prefer enhanced images"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Edit to represent, not to deceive, and label virtual staging as virtual",
+          "swap": "Exposure, white balance, straighten the lines, tidy the sky, yes. Removing walls or defects or distorting scale, no. Label virtual staging. The test: would a buyer standing in that room feel the photo told the truth?",
+          "hook": "If your buyers gasp when they walk in, and not in a good way, your photos wrote a check the house can't cash.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0035",
+      "practice": "Reusing old or expired-listing photos instead of shooting the house fresh",
+      "family": "Marketing, photos and pricing",
+      "category": "The listing itself",
+      "looks_like": "Last owner's furniture, snow on the lawn in a July listing, sapling trees, or a kitchen that has since been renovated, so the listing actually undersells the house.",
+      "who_complains": "Sellers, whose renovation you failed to market",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "A seasonal mismatch reads as previously failed, which is a discount lever you handed the buyer",
+          "swap": "New listing, new shoot, in current condition and current season. Reshoot on a seasonal relist. The photo budget is the cheapest lever on a six-figure sale.",
+          "hook": "Snow on the lawn in your summer listing tells every buyer one thing: nobody wanted this house the first time either.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0036",
+      "practice": "Throw it on the MLS and pray, with no staging, no marketing plan, and no launch",
+      "family": "Marketing, photos and pricing",
+      "category": "Marketing and strategy",
+      "looks_like": "The whole plan: enter it in the MLS, jam a sign in the yard, hang a lockbox, wait. No prep, no staging, no launch, no social, no coming soon, no feedback loop. The seller pays a full commission for data entry.",
+      "who_complains": "Sellers paying six figures for distribution",
+      "target": "self",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR Profile of Home Buyers and Sellers",
+        "year": 2026,
+        "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
+        "claim": "More than 90% of buyers search online and photos plus detailed information are the top two decision factors, which makes syndication distribution rather than marketing."
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Syndication is distribution, not marketing, and the seller should get the plan in writing",
+          "swap": "Hand the seller a written marketing plan at the listing appointment: prep punch-list, staging, pro photo and video, a coming-soon window, a launch across MLS and social and email, an open house plan, a feedback loop. Distribution is step five, not the plan.",
+          "hook": "Some agents call it a marketing plan. It's three steps: sign in the yard, box on the door, and pray.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0037",
+      "practice": "Sitting on the pending or sold status change to keep the listing looking active",
+      "family": "Marketing, photos and pricing",
+      "category": "Marketing and strategy",
+      "looks_like": "Home goes under contract but stays Active on the portals so it keeps drawing buyer leads. The sold price gets reported late. The phone rings with buyers on a house they can't have, and the agent farms those leads.",
+      "who_complains": "Buyers chasing a dead listing, and every agent pricing off corrupted days-on-market data",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "It is using the seller's listing to harvest the agent's leads, which is the fiduciary problem underneath the rules violation",
+          "swap": "Change status the moment the contract and your MLS rules require. Capture leads honestly instead: 'That one's under contract, but here are three like it.' Know your MLS deadline and beat it.",
+          "hook": "If your listing's been active three weeks after it went under contract, you're not marketing a house, you're running a bait shop with someone else's home.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "Verify the specific MLS status-change deadline before citing a number on camera. Commonly 24 to 72 hours, but it is MLS-specific and MRED's own rule is the one that matters for Chicago. Cite MRED, not a national generality."
+    },
+    {
+      "id": "ST-0038",
+      "practice": "Overpricing to win the listing, then hammering the seller for cuts every thirty days",
+      "family": "Marketing, photos and pricing",
+      "category": "Pricing and listing-appointment integrity",
+      "looks_like": "Three agents pitch. Two give an honest number, the third buys the listing at fifty thousand higher to flatter the seller. Then no showings, no offers, and thirty days later the let's discuss an adjustment calls begin. Then another. Then another.",
+      "who_complains": "Sellers, who get less money and take longer to get it",
+      "target": "self",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Zillow",
+        "year": 2026,
+        "url": "https://www.zillow.com/research/overpricing-impacts-time-market-12476/",
+        "claim": "Zillow: homes that sold quickly went about 1% below list; at about two months out, 5% below; the longest-sitting at 11 months, 12% below. Homes priced 12% or more over market were about 50% less likely to sell within 60 days."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Zillow Research",
+          "url": "https://www.zillow.com/research/overpricing-impacts-time-market-12476/",
+          "gist": "The price of overpricing: time on market and final discount"
+        }
+      ],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0001"
+    },
+    {
+      "id": "ST-0039",
+      "practice": "Overpromising buyers already waiting in order to lock up the listing",
+      "family": "Marketing, photos and pricing",
+      "category": "Pricing and listing-appointment integrity",
+      "looks_like": "I've got three buyers who'd jump on this tomorrow, said to win the signature. The listing goes live, the phantom buyers never appear, and the seller wonders where the demand went.",
+      "who_complains": "Sellers, by about day eight",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Sell your actual process instead of fictional demand, because real marketing creates real demand",
+          "swap": "Say the true version. 'I'll notify my active buyer list and my office of two hundred agents on day one.' Then do it. Real marketing creates the demand the lie was promising.",
+          "hook": "I've got buyers ready to go. If that were true, you'd have sold it already instead of standing in my kitchen promising it.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "Ethics and positioning mechanism, not a stat. No honest number exists for this one, so do not invent one. NAR Article 12 truthfulness is the citation, and it needs verifying against the current Code before it is spoken."
+    },
+    {
+      "id": "ST-0040",
+      "practice": "Panic-cutting your own commission the moment a seller pushes back on it",
+      "family": "Marketing, photos and pricing",
+      "category": "Pricing and listing-appointment integrity",
+      "looks_like": "Seller says that seems high and before they finish the sentence the agent folds. Well, I can do less. No defense, no explanation of what the fee funds. Just an instant discount to escape the discomfort.",
+      "who_complains": "Sellers, who just learned exactly how you negotiate",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "You just showed the seller how you'll defend their money, using your own as the demo",
+          "swap": "Anchor the fee to the plan. On pushback, name what it buys and what under-marketing costs. If you ever adjust, trade for something: price, terms, exclusivity. Never just give it away.",
+          "hook": "You cut your own commission the second I frowned. So how hard are you really going to fight for my money?",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0041",
+      "practice": "Being unable to explain the difference between the tools you have and the work you do",
+      "family": "Marketing, photos and pricing",
+      "category": "Pricing and listing-appointment integrity",
+      "looks_like": "Asked what do you do for your commission, the agent lists access. I put it in the MLS, I've got a lockbox, a sign, I'll do an open house. That's the plumbing every agent has, not the work only a pro delivers.",
+      "who_complains": "Sellers, who then negotiate you on fee because you gave them nothing else to compare",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR Profile of Home Buyers and Sellers",
+        "year": 2026,
+        "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
+        "claim": "More than 90% of buyers find homes online themselves, yet 88% of purchases still go through an agent. The value is real and it is in the judgment, not the access."
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Build the two-column answer and sell the right column",
+          "swap": "Left column is tools: MLS, lockbox, sign, table stakes. Right column is the work: pricing to net the most, prep and staging that move days and price, marketing that creates competing demand, negotiation that protects the money. Know it cold and sell the right column.",
+          "hook": "A lockbox and the MLS aren't your value, those are the tools. If you can't tell me the difference, you just proved you're not worth your commission.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0042",
+      "practice": "Posting nothing but Just Listed, Just Sold, and call me graphics",
+      "family": "Marketing, photos and pricing",
+      "category": "Personal brand and digital presence",
+      "looks_like": "Every post is a listing graphic or thinking of selling, call me. No face, no neighborhood, no personality, no education. A rotating sales pitch that everyone is an expert at ignoring.",
+      "who_complains": "Nobody, which is the problem",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Placester",
+        "year": 2026,
+        "url": "https://placester.com/real-estate-marketing-academy/real-estate-social-media-tips-mistakes",
+        "claim": "People move roughly once every 8.5 years, so under 2% of your audience is in-market at any moment. Meanwhile 71% of buyers are more likely to work with an agent who has a strong social presence, and listings with video pull about 400% more inquiries."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Placester",
+          "url": "https://placester.com/real-estate-marketing-academy/real-estate-social-media-tips-mistakes",
+          "gist": "Real estate social media mistakes and the in-market share"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Under 2% of your audience is in-market, so a pure sales feed is relevant to almost nobody",
+          "swap": "Run 80/20. Eighty percent valuable, interesting, or entertaining to your local audience, twenty percent max direct ask. Lead with short-form video and your actual face. Wins and listings are the smallest bucket, not the whole feed.",
+          "hook": "If every post on your page is just sold, call me, congratulations, you built a billboard. Nobody in history has stopped scrolling for a billboard.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0043",
+      "practice": "Using a headshot that is ten years and twenty pounds out of date",
+      "family": "Marketing, photos and pricing",
+      "category": "Personal brand and digital presence",
+      "looks_like": "The photo on the sign, the card, and the profile is a decade old. Different hair, twenty pounds ago, a suit from another era. Then the agent shows up at the door and the seller does a double-take.",
+      "who_complains": "Sellers, silently, at the door",
+      "target": "self",
+      "heat_ceiling": 3,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "The mismatch plants a what else here is out of date doubt at the exact moment you ask for a signature",
+          "swap": "Update every two to three years, or immediately after a significant change in appearance. Professional shot, current styling, and the same photo everywhere so people recognize you in person.",
+          "hook": "If sellers don't recognize you at the door because your headshot's ten years old, you've got a trust problem before you say a word.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "No clean stat isolates headshot age. Do not fake one. The mechanism is trust, and it should be argued as a mechanism, not dressed up with a borrowed number."
+    },
+    {
+      "id": "ST-0044",
+      "practice": "Running inconsistent branding across the website, Instagram, and business card",
+      "family": "Marketing, photos and pricing",
+      "category": "Personal brand and digital presence",
+      "looks_like": "Website is navy and gold, Instagram is pink script, the card is a third scheme, and the name reads Mike, Michael, and The Mike Team across three touchpoints. Nothing looks like the same person.",
+      "who_complains": "Sellers comparing you to a polished competitor",
+      "target": "self",
+      "heat_ceiling": 3,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Every inconsistent touchpoint restarts recognition from zero",
+          "swap": "Lock a simple brand kit and apply it identically everywhere: one logo, one palette, one or two fonts, one name, one headshot, across website, social, cards, signage, email signature. Consistency beats clever.",
+          "hook": "Your website, your Instagram, and your business card look like three different agents. So which one is the seller actually hiring?",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "Recognition and credibility argument. No isolated dollar stat exists; do not manufacture one."
+    },
+    {
+      "id": "ST-0045",
+      "practice": "Having a dead or broken digital presence when the client Googles you",
+      "family": "Marketing, photos and pricing",
+      "category": "Personal brand and digital presence",
+      "looks_like": "You Google the agent and get nothing. No site, or a broken 2015 brokerage sub-page, a portal profile with one review and a blank bio, an Instagram with forty followers and a two-year-old last post. The ready-to-reach-out client quietly decides not to.",
+      "who_complains": "The client who never called, so you never heard about it",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR and Placester",
+        "year": 2026,
+        "url": "https://placester.com/real-estate-marketing-academy/real-estate-social-media-tips-mistakes",
+        "claim": "More than 90% of buyers search online and 52% find their home there (NAR), and 71% say a strong social presence makes them more likely to work with an agent (Placester)."
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Your own presence is the live demo of the marketing you are asking them to buy",
+          "swap": "Own a clean, current home base: a simple site with bio, listings, sold results, reviews, contact, plus one active social channel. Keep reviews current and respond to them. The search is the interview.",
+          "hook": "Before a seller calls you, they Google you. If they find a broken link and a dead Instagram, that was the interview and you already lost it.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0046",
+      "practice": "Manufacturing false urgency with a deadline that does not exist on paper",
+      "family": "Trust, ethics and conflicts",
+      "category": "Manufactured pressure",
+      "looks_like": "8pm, buyers saw the condo once for twenty minutes. Seller wants a decision by midnight, there's a lot of interest. No written deadline, no other offer, no second showing. They cancel their evening and sign because the window is closing.",
+      "who_complains": "Buyers, once they find out there was no clock",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Only cite a deadline that exists on paper, and show it",
+          "swap": "Real competition: 'The listing agent confirmed offers are due Sunday at five, here's the email.' No competition: 'There's no deadline. Let's sleep on it.' If you can't forward the proof, you don't have a deadline.",
+          "hook": "If your agent says you have to decide tonight, ask them to show you in writing where that deadline comes from. Watch what happens.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "NAR Article 1 is the citation. Verify the current Code wording before it is spoken on camera."
+    },
+    {
+      "id": "ST-0047",
+      "practice": "Pushing buyers to bid above the number they set when they were calm",
+      "family": "Trust, ethics and conflicts",
+      "category": "Manufactured pressure",
+      "looks_like": "Buyers set 520 as their breathe-easy ceiling. The agent nudges: 520 won't get it, you don't want to lose your dream home over fifteen grand, that's twenty bucks a month. Exhausted from three lost offers they stretch to 540, win, then the taxes reset and they're house poor by March.",
+      "who_complains": "Buyers, in March",
+      "target": "self",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Twenty bucks a month hides the real math, and the bigger commission is the conflict nobody names",
+          "swap": "Anchor to the number they set when calm, not the one they'll accept when desperate. Run the actual monthly payment with taxes at each price point. Then say the sentence most agents won't: 'This one's over your comfort line. There will be another.'",
+          "hook": "The best thing my clients ever heard me say was walk away. Here's the deal I talked them out of.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0048",
+      "practice": "Guilting or insulting a client who pushes back on your advice",
+      "family": "Trust, ethics and conflicts",
+      "category": "Manufactured pressure",
+      "looks_like": "Buyer wants to slow down on the inspection. I've done two hundred deals, you've done one, do you want the house or not? Seller questions the pricing. Fine, we'll do it your way and it'll sit six months, don't blame me. The client goes quiet, not convinced, and stops asking the questions that protect them.",
+      "who_complains": "Clients, who remember the humiliation long after closing",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Treat pushback as data, because the client's discomfort usually points at a real risk",
+          "swap": "Answer the pushback with 'That's a fair question, here's what I'd want to know if it were my money.' Pair the experience with humility. A client made to feel stupid stops voicing the doubt that would have saved them.",
+          "hook": "If your agent ever makes you feel dumb for asking a question, that's not confidence. That's a red flag.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0049",
+      "practice": "Talking buyers into waiving the inspection to make the offer look cleaner",
+      "family": "Trust, ethics and conflicts",
+      "category": "Cutting corners on protection",
+      "looks_like": "To win this we need to waive inspection, sellers hate contingencies. First-timers agree because the agent said so. Two months later the sewer line collapses or the knob-and-tube shows up behind the drywall. No contingency, no leverage, no recourse, and the bill is theirs.",
+      "who_complains": "Buyers, holding a five-figure repair bill",
+      "target": "self",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Preferred Inspections",
+        "year": 2026,
+        "url": "https://www.preferredinspectionsde.com/home-inspection-statistics/",
+        "claim": "The inspection guards against an average of about $11,222 in hidden repairs, 86% of inspections find at least one issue, and buyers who inspect and negotiate save about $14,000 on average. Only about 18% of buyers actually waive, so it is not the norm the pressure implies."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Preferred Inspections statistics",
+          "url": "https://www.preferredinspectionsde.com/home-inspection-statistics/",
+          "gist": "Inspection findings and savings data"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Redfin",
+          "url": "https://www.redfin.com/blog/should-you-waive-home-inspection/",
+          "gist": "A single waived $40K foundation problem lands entirely on the buyer"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The information-only inspection is the middle path buyers do not know exists",
+          "swap": "Offer the option nobody told them about: an information-only or pass-fail inspection. Walk from major defects, agree not to nickel-and-dime the small stuff. Or shorten the window instead of deleting it. Reserve a true waiver for buyers who can self-insure a five-figure surprise.",
+          "hook": "Your agent wants you to waive the inspection to look serious. Here's the forty thousand dollars that decision can cost you.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0050",
+      "practice": "Coaching a seller to hide a known defect off the disclosure form",
+      "family": "Trust, ethics and conflicts",
+      "category": "Cutting corners on protection",
+      "looks_like": "Seller mentions the basement takes water every spring. Agent says don't put that on the disclosure, repaint the water line and mark unaware. Buyers move in, first storm hits, four inches ruin the finished basement they were promised was dry.",
+      "who_complains": "Buyers, then their attorney, then the seller who took the advice",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Illinois Residential Real Property Disclosure Act, 765 ILCS 77",
+        "year": 2026,
+        "url": "https://codes.findlaw.com/il/chapter-765-property/il-st-sect-765-77-35/",
+        "claim": "Illinois 765 ILCS 77 requires disclosing known material defects on the 23-item form, and under 765 ILCS 77/55 a violating seller is liable for actual damages plus court costs and attorney's fees."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "FindLaw, 765 ILCS 77/35",
+          "url": "https://codes.findlaw.com/il/chapter-765-property/il-st-sect-765-77-35/",
+          "gist": "Illinois residential disclosure statute"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Houzeo",
+          "url": "https://www.houzeo.com/blog/seller-disclosures-in-illinois/",
+          "gist": "Illinois seller disclosure liability under 765 ILCS 77/55"
+        }
+      ],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0010"
+    },
+    {
+      "id": "ST-0051",
+      "practice": "Steering buyers toward the agent's own listings or higher-commission homes",
+      "family": "Trust, ethics and conflicts",
+      "category": "Conflicts of interest",
+      "looks_like": "The buyer's criteria fit forty homes, but the agent only sends the three that are the brokerage's own or the builder homes paying a higher co-op. Better-fitting, lower-paying homes never hit the inbox. The buyer thinks they're seeing the market. They're seeing the comp plan.",
+      "who_complains": "Buyers who never knew what they weren't shown",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Illinois 225 ILCS 454/15-45",
+        "year": 2026,
+        "url": "https://codes.findlaw.com/il/chapter-225-professionsoccupations-and-business-operations/il-st-sect-225-454-15-45/",
+        "claim": "When steering funnels a buyer into the agent's own listing it collapses into dual agency, which in Illinois requires written informed consent under 225 ILCS 454/15-45."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "FindLaw, 225 ILCS 454/15-45",
+          "url": "https://codes.findlaw.com/il/chapter-225-professionsoccupations-and-business-operations/il-st-sect-225-454-15-45/",
+          "gist": "Illinois dual agency written consent requirement"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Let fit drive the shortlist, not fee, and name the conflict out loud when you show your own",
+          "swap": "Run the search on the client's criteria, full stop, every fitting listing regardless of who holds it or what it pays. When showing your own, say the conflict out loud and explain their right to separate representation.",
+          "hook": "Ever notice your agent only shows you their own brokerage's listings? There's a reason, and it isn't for you.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0052",
+      "practice": "Taking undisclosed kickbacks from recommended inspectors, lenders, or title companies",
+      "family": "Trust, ethics and conflicts",
+      "category": "Conflicts of interest",
+      "looks_like": "Use my guy for the lender, the inspector, and the title company. Warm and helpful. What the client never hears is that the agent gets a per-referral payment, a marketing fee, or a stake in the affiliated title company.",
+      "who_complains": "Clients, the CFPB, and federal prosecutors",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "RESPA Section 8, 12 CFR 1024.14",
+        "year": 2026,
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/1024/14/",
+        "claim": "RESPA Section 8 prohibits any fee, kickback, or thing of value for referring settlement-service business on a federally related mortgage. Penalties include criminal fines up to $10,000 and up to one year in prison, plus treble civil damages."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "CFPB 12 CFR 1024.14",
+          "url": "https://www.consumerfinance.gov/rules-policy/regulations/1024/14/",
+          "gist": "RESPA Section 8 prohibited referral fees"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "FindLaw corporate",
+          "url": "https://corporate.findlaw.com/finance/respa-section-8-the-confusion-continues.html",
+          "gist": "RESPA Section 8 penalties"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Recommend on merit, disclose every dollar, and hand them three independent options",
+          "swap": "Put any affiliated-business arrangement in writing before the referral and let the client choose freely. Better: give three independent options and say it plainly. 'I get nothing if you use them, I recommend them because they're good.'",
+          "hook": "When your agent says use my guy, ask one question. Do you get paid if I do? Federal law says they have to tell you.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0053",
+      "practice": "Double-ending by talking an unrepresented buyer out of getting their own agent",
+      "family": "Trust, ethics and conflicts",
+      "category": "Conflicts of interest",
+      "looks_like": "A buyer calls the listing agent about a sign. You don't need your own agent, I can just write it up for you, it's simpler. The buyer doesn't grasp that this agent already has a fiduciary duty to the seller, and now confides their max budget and timeline to the one person bound to use it against them.",
+      "who_complains": "Unrepresented buyers, who routinely overpay",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Illinois 225 ILCS 454/15-45",
+        "year": 2026,
+        "url": "https://codes.findlaw.com/il/chapter-225-professionsoccupations-and-business-operations/il-st-sect-225-454-15-45/",
+        "claim": "Illinois requires written informed consent from all clients for dual agency, plus a separate written confirmation at the offer."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Oak Park REALTORS agency compliance manual",
+          "url": "https://www.oakparkrealtors.org/wp-content/uploads/2025/01/Agency-Compliance-Manual-1-2025.pdf",
+          "gist": "Illinois dual agency consent and confirmation requirements"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Tell unrepresented buyers the truth about who you work for, because it costs you nothing and protects everything",
+          "swap": "Say it plainly. 'I represent the seller. You have the right to your own agent, and it costs you nothing to have someone in your corner.' If both truly want dual agency, get the written informed consent Illinois requires.",
+          "hook": "The listing agent said you don't need your own agent. That's like the other team's lawyer offering to represent you too.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0054",
+      "practice": "Leaking your own client's bottom line or motivation to the other side",
+      "family": "Trust, ethics and conflicts",
+      "category": "Confidence and respect",
+      "looks_like": "A buyer's agent, chatting to seem friendly, says between us they'd go to 560 if they had to. The listing agent now knows exactly how hard to hold. Or a listing agent lets slip that the sellers are desperate, they already bought their next place.",
+      "who_complains": "The client, who just lost ten grand to one sentence in a hallway",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Guard the number like a PIN, and have the deflection ready before someone fishes for it",
+          "swap": "When another agent asks what's their real max, the answer is 'They're comfortable at their offer, make your case to the seller.' Reveal position only when the client authorizes it as strategy.",
+          "hook": "One sentence from your agent in a hallway can cost you ten grand at the table. Here's the sentence.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0055",
+      "practice": "Badmouthing the other agent or the seller in front of your own buyers",
+      "family": "Trust, ethics and conflicts",
+      "category": "Confidence and respect",
+      "looks_like": "That listing agent is an idiot, the seller's clearly cheap and difficult, this'll be a nightmare. Feels like being on the client's team. Actually poisons the well right before two sides have to cooperate to close.",
+      "who_complains": "Clients, who start wondering what you say about them",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR Code of Ethics Article 15",
+        "year": 2026,
+        "url": "https://www.nar.realtor/code-of-ethics-and-arbitration-manual/case-interpretations-related-to-article-15",
+        "claim": "Article 15 bars knowingly or recklessly false or misleading statements about other real estate professionals, explicitly including social media and casual talk."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NAR Article 15 case interpretations",
+          "url": "https://www.nar.realtor/code-of-ethics-and-arbitration-manual/case-interpretations-related-to-article-15",
+          "gist": "Article 15 case law on statements about competitors"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "Inman",
+          "url": "https://www.inman.com/2023/02/08/is-your-trash-talk-violating-the-code-of-ethics/",
+          "gist": "Is your trash talk violating the Code of Ethics"
+        }
+      ],
+      "angles": [],
+      "status": "retired",
+      "first_seen": "2026-08-13",
+      "merged_into": "ST-0013"
+    },
+    {
+      "id": "ST-0056",
+      "practice": "Not knowing basic factual things about the neighborhood you sell in",
+      "family": "Competence, preparation and systems",
+      "category": "Market competence",
+      "looks_like": "What are the taxes on this two-flat, and is it in the Goethe boundary? Let me get back to you. Doesn't know the township reassessed last year, can't explain the transfer-tax stack, never heard of the permit-parking zones. Calls every neighborhood up and coming.",
+      "who_complains": "Buyers, who quietly find an agent who sounds like they live there",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR via HousingWire",
+        "year": 2026,
+        "url": "https://www.housingwire.com/articles/nar-2026-member-profile-experience/",
+        "claim": "82% of transactions come from referral or repeat business, and the median agent gets 28% of business from repeat clients, rising to 49% for 16-plus-year veterans."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NAR 2026 Member Profile via HousingWire",
+          "url": "https://www.housingwire.com/articles/nar-2026-member-profile-experience/",
+          "gist": "Referral and repeat share of transactions"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "A one-page market sheet per neighborhood, answerable in one sentence without reaching for your phone",
+          "swap": "Build one page per neighborhood and know it cold: price per square foot, days on market, reassessment cycle, school boundaries, zoning quirks, assessment norms, transit, and the three things locals complain about.",
+          "hook": "A buyer asked me the property taxes on the house we were standing in front of, and I froze. That was the day I lost the deal, and I hadn't even shown the kitchen.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0057",
+      "practice": "Giving wildly wrong price estimates, property after property",
+      "family": "Competence, preparation and systems",
+      "category": "Market competence",
+      "looks_like": "Tells a seller their Ravenswood home is worth 825 to win the listing when comps say 710. Guesses eh, probably 600 on a place that's clearly a 720. No comps, no condition adjustments, Zestimate vibes. Two months of no showings, then blames the market.",
+      "who_complains": "Sellers and buyers, who can check the one number you gave them",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Relitix via Inman",
+        "year": 2026,
+        "url": "https://www.inman.com/2026/05/14/new-agents-say-how-theyre-surviving/",
+        "claim": "49% of agents who first closed in 2022 closed nothing in 2023. This is the sourced replacement for the untraceable 87%-of-agents-fail figure."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Relitix via Inman",
+          "url": "https://www.inman.com/2026/05/14/new-agents-say-how-theyre-surviving/",
+          "gist": "New agent survival and zero-closing rates"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Give a range with reasoning instead of a hero number, and never say a price you cannot defend in two sentences",
+          "swap": "Never state a price without a defensible CMA: three to five true comps, same area, similar size and condition, sold in 90 to 180 days, plus adjustments you can explain out loud.",
+          "hook": "The fastest way to lose a seller's trust isn't a low price. It's a high one you can't back up.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0058",
+      "practice": "Emailing the disclosures with sign where highlighted and never walking the client through them",
+      "family": "Competence, preparation and systems",
+      "category": "Market competence",
+      "looks_like": "Disclosure, lead pamphlet, radon report, HOA docs emailed with sign where highlighted. Never reads the yes, prior water in basement out loud, never flags the special assessment buried on page four. Client signs blind, water shows up after closing, now it's a lawsuit.",
+      "who_complains": "Buyers, and then their attorney",
+      "target": "sideways",
+      "heat_ceiling": 4,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Read the yes boxes and the dollar figures out loud, then document that you did",
+          "swap": "Schedule a dedicated disclosure review, in person or screen-share. Stop on every yes and every dollar figure, translate the jargon, then send a follow-up summary email so the review is documented.",
+          "hook": "The seller checked one box that said water in the basement. Nobody read it out loud. Guess where the buyer's lawyer started.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "Legal-exposure entry. The Illinois disclosure statute (765 ILCS 77) is the natural citation and it is already sourced on ST-0010. Verify before speaking, and say the exposure rather than predicting a verdict."
+    },
+    {
+      "id": "ST-0059",
+      "practice": "Submitting sloppy offers with blank lines, outdated forms, and missing addenda",
+      "family": "Competence, preparation and systems",
+      "category": "Contract and paperwork craft",
+      "looks_like": "Closing date blank, earnest-money line empty, an outdated 2019 form, no lead-paint addendum on a pre-1978 building, buyer's signature missing on page six. The listing agent sighs and ranks this buyer below the clean competing offer.",
+      "who_complains": "Listing agents, and the buyer who lost the house on paperwork",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "In multiple offers a sloppy contract is a reason to pick someone else at the same price",
+          "swap": "Pre-submission checklist on every offer: current forms, every blank filled or marked N/A, all addenda attached, earnest money and dates confirmed, all signatures and initials. Second set of eyes before it goes.",
+          "hook": "Same price, same buyer strength. The clean offer won. The one with three blank lines went in the trash.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0060",
+      "practice": "Not being able to explain the contract you wrote without reading it",
+      "family": "Competence, preparation and systems",
+      "category": "Contract and paperwork craft",
+      "looks_like": "So what happens if the inspection finds something? Um, I think we can back out? Can't explain the attorney-review period, the mortgage-contingency deadline, or what the earnest money is at risk for. They wrote it, but they're reading it for the first time with the client.",
+      "who_complains": "Clients, who feel it instantly",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Know every contingency, deadline, and dollar at risk before you present it",
+          "swap": "Do a contract walkthrough with the client before signing. If you're newer, sit with your managing broker clause by clause until you can teach it, not just fill it.",
+          "hook": "If you can't explain the contract you wrote without reading it, you didn't write it. You copied it.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0061",
+      "practice": "Writing a full-price offer for a buyer with no pre-approval or proof of funds",
+      "family": "Competence, preparation and systems",
+      "category": "Contract and paperwork craft",
+      "looks_like": "A strong full-price offer with no pre-approval letter and no proof of funds, because the buyer thinks they're good. The listing agent can't verify they can close, so goes with the pre-approved buyer five thousand lower. Or it's accepted, and financing falls apart three weeks in.",
+      "who_complains": "Sellers, listing agents, and the buyer who lost at full price",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Without the letter, your full-price offer is worth less than a lower verified one",
+          "swap": "No offers ever, and no showings past the first appointment, without a current lender pre-approval, not a pre-qual, or documented proof of funds. Connect every buyer to a lender before touring.",
+          "hook": "Full price offer, and the seller still said no. Why? Nobody could prove the buyer had a dime.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0062",
+      "practice": "Showing up to the closing table unprepared and flailing in front of the client",
+      "family": "Competence, preparation and systems",
+      "category": "Contract and paperwork craft",
+      "looks_like": "Closing day and the agent is texting the lender for a corrected CD, can't find the disclosure from six weeks ago, didn't confirm the walkthrough, doesn't know why the wire is two thousand off. Everyone sits while the professional flails on the most important financial day of the client's year.",
+      "who_complains": "Clients, on the one day they remember forever",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Closing is the client's lasting memory and the moment right before they decide whether to refer you",
+          "swap": "Closing-week checklist: confirm clear-to-close, review the CD line by line 72 hours out, verify the walkthrough, confirm wire instructions via a verified phone number, assemble the full file, and send the client a what-to-bring note the day before.",
+          "hook": "The client remembers exactly one day of the whole deal. Make sure it's not the day you fell apart.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0063",
+      "practice": "Taking four hours to respond to a new lead, then blaming the lead quality",
+      "family": "Competence, preparation and systems",
+      "category": "Lead response and follow-up",
+      "looks_like": "Lead comes in at 10am, agent finishes coffee, runs errands, replies at 3pm. The lead already talked to two other agents and booked with one. These portal leads are garbage. Buys more, repeats the delay.",
+      "who_complains": "Nobody, which is why the agent keeps blaming the vendor",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "Harvard Business Review, analysis of 2.24 million leads, via Motarme",
+        "year": 2026,
+        "url": "https://motarme.com/how-much-time-do-you-have-to-respond-to-sales-leads/",
+        "claim": "An HBR analysis of 2.24 million leads found firms reaching out within an hour were about 7 times more likely to qualify the lead."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "HBR analysis via Motarme",
+          "url": "https://motarme.com/how-much-time-do-you-have-to-respond-to-sales-leads/",
+          "gist": "Response time and qualification odds across 2.24M leads"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The lead wasn't bad, it was cold by the time you called, and those feel identical afterward",
+          "swap": "Treat inbound like a fire alarm. Five-minute standard during working hours, instant text plus a call. Notifications on, auto-text-back after hours, and a partner or system if you can't cover it yourself.",
+          "hook": "You didn't get a bad lead. You called it five hours late. Those are not the same thing, even though they feel identical once the deal's gone.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "The 21x and 100x figures from the 2007 MIT/InsideSales study are CROSS-INDUSTRY sales research, not real estate, and are on the caution list. If used, say 'sales research shows,' never 'NAR says.' The HBR figure above is the cleaner one."
+    },
+    {
+      "id": "ST-0064",
+      "practice": "One-and-done follow-up, marking a lead dead after a single unanswered text",
+      "family": "Competence, preparation and systems",
+      "category": "Lead response and follow-up",
+      "looks_like": "Texts a new lead once, no reply, marks it dead, moves on. Never calls, never emails, never tries a different time of day. Online leads never convert.",
+      "who_complains": "Nobody, and that is the whole problem",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "JustCall",
+        "year": 2026,
+        "url": "https://justcall.io/blog/lead-conversion-in-real-estate-guide.html",
+        "claim": "44% of agents give up after a single follow-up, and leads worked with six or more attempts convert dramatically better."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "JustCall lead conversion guide",
+          "url": "https://justcall.io/blog/lead-conversion-in-real-estate-guide.html",
+          "gist": "44% of agents quit after one follow-up"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The lead that ignored text one answers call four",
+          "swap": "Fixed cadence: multiple attempts across text, call, and email over the first ten to fourteen days, varying the time of day, then a long-term drip. No lead gets fewer than six to eight touches before you call it dead.",
+          "hook": "You texted once, they didn't reply, and you called it dead. It wasn't dead. You stopped at attempt one out of the six it needed.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "Do NOT use the '80% of sales need 5 follow-ups' figure. Murky origin, on the caution list. The verifiable 44%-quit-after-one figure carries the same argument."
+    },
+    {
+      "id": "ST-0065",
+      "practice": "Buying more leads to fix what is actually a follow-up problem",
+      "family": "Competence, preparation and systems",
+      "category": "Lead response and follow-up",
+      "looks_like": "Fifteen hundred a month on portal leads handled with the same slow, one-touch, no-system approach. Leads sit for hours, get one text, fall through the cracks. Then: paid leads don't work.",
+      "who_complains": "The agent's bank account",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "JustCall",
+        "year": 2026,
+        "url": "https://justcall.io/blog/lead-conversion-in-real-estate-guide.html",
+        "claim": "Average real estate lead conversion runs roughly 0.4% to 1.2%, which means the entire game is squeezing more out of each lead rather than buying more of them."
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Fix the system before scaling the spend, and track speed-to-lead and touch count instead of lead volume",
+          "swap": "Route every paid lead into a CRM that fires an instant auto-response and a task-based cadence. Then measure speed-to-lead and touches per lead as your real KPIs, not how many leads you bought.",
+          "hook": "Stop buying leads. You've got a follow-up problem, and no amount of new leads fixes a leaky bucket. It just makes the puddle bigger.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0066",
+      "practice": "Running the business out of the Contacts app, a legal pad, and memory",
+      "family": "Competence, preparation and systems",
+      "category": "Systems and sphere",
+      "looks_like": "The database is the Contacts app, a legal pad, and memory. Birthdays missed, past clients forgotten, follow-ups dropped, no way to see who's due. Pipeline? Somewhere in my head and three notebooks.",
+      "who_complains": "Every past client who quietly aged out of the business",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "Citrusbug CRM statistics roundup",
+          "url": "https://citrusbug.com/blog/real-estate-crm-statistics",
+          "gist": "CRM adoption among higher-earning agents. Correlational"
+        },
+        {
+          "date": "2026-08-13",
+          "where": "BoldTrail",
+          "url": "https://boldtrail.com/blog/7-game-changing-benefits-of-real-estate-crm/",
+          "gist": "Referral and revenue differences among CRM users. Vendor source, correlational"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Sticky notes cap the business at whatever your memory holds",
+          "swap": "One CRM as the single source of truth. Every lead, client, and past client in it with tags, every relationship carrying a next scheduled touch, activity logged daily. If it isn't in the CRM, it doesn't exist.",
+          "hook": "Your database is a shoebox of business cards and your memory. That's not a business. That's a hobby with a lockbox code.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13",
+      "flag": "CRM-to-income figures are CORRELATIONAL and are on the caution list. Say 'successful agents run systems,' never 'a CRM makes you rich.' Do not state a causal claim in the hook or the close."
+    },
+    {
+      "id": "ST-0067",
+      "practice": "The secret agent who is too embarrassed to tell their own network what they do for a living",
+      "family": "Competence, preparation and systems",
+      "category": "Systems and sphere",
+      "looks_like": "Terrified of being salesy, so never posts they're in real estate, never mentions it at the barbecue. Their own cousin uses a different agent. I didn't know you did that.",
+      "who_complains": "The agent, after the fact",
+      "target": "self",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "confirmed",
+        "source": "NAR 2025 via BAM",
+        "year": 2025,
+        "url": "https://nowbam.com/how-home-buyers-and-sellers-find-their-agents-in-2025/",
+        "claim": "68% of sellers and 52% of buyers find their agent through a referral or a personal connection, which is the engine a silent agent starves."
+      },
+      "sightings": [
+        {
+          "date": "2026-08-13",
+          "where": "NAR 2025 via BAM",
+          "url": "https://nowbam.com/how-home-buyers-and-sellers-find-their-agents-in-2025/",
+          "gist": "How buyers and sellers find their agents"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Your warm network can only refer you if it knows what you do",
+          "swap": "Everyone who knows your name should know you sell real estate and have seen evidence of it in the last thirty days. Post a closing, a market tip, a client win. Mention it in conversation without pitching.",
+          "hook": "Your own cousin bought a house last month. With someone else. Because you were too shy to tell people what you do for a living.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0068",
+      "practice": "Leaning on the agent across the deal to quarterback your side of the transaction",
+      "family": "Competence, preparation and systems",
+      "category": "Co-op etiquette",
+      "looks_like": "Submits the offer, then goes quiet, letting the other side chase the deadlines, coordinate the inspection, remind about the appraisal, prep the closing. Asks basic questions they should know, misses their own contingency dates. Their client thinks the agent is hands off. The client's right.",
+      "who_complains": "The agent doing both jobs, who remembers your name next time",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Every gap you leave is a gap your client is unrepresented in, because the other agent's duty runs to the other party",
+          "swap": "Own your side. Keep your own timeline with every deadline on it, drive your client's contingencies, coordinate their inspection and appraisal, and communicate proactively so the other agent never has to chase you.",
+          "hook": "If the other agent is running your side of the deal too, your client has one agent. And it isn't you.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0069",
+      "practice": "Turning the cooperating agent into your unpaid errand service",
+      "family": "Competence, preparation and systems",
+      "category": "Co-op etiquette",
+      "looks_like": "Can you show my buyer since you're closer? Can you meet the inspector for me? Can you let the appraiser in? Offloading your own client's showings and coordination onto the agent representing the other side, who's now doing your job for free.",
+      "who_complains": "Every agent in town, eventually",
+      "target": "sideways",
+      "heat_ceiling": 3.5,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "You are asking someone with a fiduciary duty to the other party to do your job, which is a conflict you created",
+          "swap": "Show your own buyers, meet your own inspectors and appraisers. If you genuinely can't cover a showing, use a licensed showing service or a teammate, and offer to return the favor.",
+          "hook": "Asking the listing agent to show your buyer is like asking the other lawyer to argue your case. And every agent in town notices you doing it.",
+          "status": "open",
+          "banked": "2026-08-13"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-08-13"
+    }
+  ],
+  "rotation": [
+    {
+      "date": "2026-08-13",
+      "id": "ST-0001",
+      "angle": "The pre-listing number conversation: say the honest-number line before you ever give a figure",
+      "script": "scripts/stupid-things/STUPID-001-you-bought-that-listing.md"
+    }
+  ],
+  "rejected": [
+    {
+      "practice": "Waiting until week six to bring up a price reduction on a stale listing",
+      "reason": "Not rejected on merit. Owned by NF-067 (Inside the Industry), which already works the price-cut timing lane with Denver Q2 data. Kept out so the two lanes do not ship the same argument twice. Revisit after NF-067 posts.",
+      "match_terms": [
+        "price reduction",
+        "price cut",
+        "reduce the price",
+        "lower the price",
+        "price improvement"
+      ]
+    },
+    {
+      "practice": "Agents who are bad at their job because they are new or inexperienced",
+      "reason": "Punching down. The lane's floor: hypocrisy and bad behavior are the targets, inexperience is not. Never bank a variant of this, however it is phrased.",
+      "match_terms": [
+        "new agent",
+        "new agents",
+        "newly licensed",
+        "just got licensed",
+        "just licensed",
+        "inexperienced",
+        "rookie",
+        "first year agent",
+        "first-year agent",
+        "green agent",
+        "no idea what they are doing",
+        "do not know what they are doing",
+        "don't know what they're doing",
+        "part time agent",
+        "part-time agent"
+      ]
+    },
+    {
+      "practice": "Agents who are stupid, lazy, or bad people",
+      "reason": "Character attacks, not behavior. Rule 9.4: the cohort name cannot be the insult, and friction points at the practice, never at the person. A candidate phrased as a character judgment gets rewritten as the behavior or dropped.",
+      "match_terms": [
+        "lazy agent",
+        "lazy agents",
+        "stupid agent",
+        "stupid agents",
+        "dumb agent",
+        "dumb agents",
+        "bad agents",
+        "incompetent agent",
+        "idiot"
+      ]
+    }
+  ]
+}
