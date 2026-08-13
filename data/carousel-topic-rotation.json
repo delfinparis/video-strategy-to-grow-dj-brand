@@ -1,0 +1,17 @@
+{
+  "_comment": "Topic rotation for the daily KIRP carousel engine. The routine picks the two topics with the oldest last_used date, builds them, and stamps today's date back. A file, not a day-of-week table, because a routine that skips a day should resume where it left off rather than jump to whatever Wednesday's slot happens to be.",
+  "_types": {
+    "market-tip": "A tactic for the current market. What an agent does differently this month.",
+    "stat": "One sourced number and what it means. Rule 1 applies: named source, year, Data Source block.",
+    "do-this-dont-do-that": "The swap. Two columns, the wrong move and the right one, in the agent's own words.",
+    "dont-make-this-mistake": "One specific, common, costly error and the fix.",
+    "kirp-guest-tip": "A tactic credited to a named Keeping It Real guest. These are the decks that do NOT translate to KR."
+  },
+  "topics": [
+    {"type": "market-tip", "last_used": "2026-08-08"},
+    {"type": "stat", "last_used": "2026-08-09"},
+    {"type": "do-this-dont-do-that", "last_used": "2026-08-10"},
+    {"type": "dont-make-this-mistake", "last_used": "2026-08-11"},
+    {"type": "kirp-guest-tip", "last_used": "2026-08-12"}
+  ]
+}

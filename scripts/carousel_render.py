@@ -360,9 +360,11 @@ def build_items(draw, slide, theme, accent, sizes, s, x):
 
 def draw_footer(draw, img, theme, s, show_url, cta=KALE_URL, accent=None, wordmark=None,
                 byline=True):
-    """Byline and mark carry the brand on every slide. The URL is the call to
-    action, so it appears only on the first and last slide. Repeated on all nine
-    it stops being read at all.
+    """The whole brand bar: byline left, mark and URL right.
+
+    Called on the first and last slide only. It used to run on every slide with
+    the URL suppressed in the middle; since 2026-08-13 the middle slides carry
+    no brand at all, so this draws the complete footer or nothing draws it.
 
     Podcast decks pass a wordmark instead of the Kale logo. A guest is being
     asked to reshare these, and a rival brokerage's logo on the post is friction
@@ -497,6 +499,10 @@ def render_slide(slide, index, total, theme, accent, series_mark, photo=None,
         fn(y)
         y += h
 
-    draw_footer(draw, img, theme, s, show_url=(is_hook or is_close), cta=cta,
-                accent=accent, wordmark=wordmark, byline=byline)
+    # Brand on the first and last slide only (D.J.'s call, 2026-08-13). The
+    # middle three are the ones people screenshot, and a byline repeated on all
+    # five stops being read while still competing with the payload for room.
+    if is_hook or is_close:
+        draw_footer(draw, img, theme, s, show_url=True, cta=cta,
+                    accent=accent, wordmark=wordmark, byline=byline)
     return img.resize((WIDTH, HEIGHT), Image.Resampling.LANCZOS)

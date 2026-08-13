@@ -19,16 +19,18 @@ as the user and the files land against his own quota.
 
 Get the token once with scripts/drive_auth.py.
 
-GBP post cards ride the same pipe. They are flat files in graphics/gbp/ rather
-than a folder per deck, so that whole directory syncs as one unit.
+GBP post cards ride the same pipe, with one level less nesting than a deck. A
+card is an image plus its caption, so graphics/gbp holds two folders rather than
+one folder per card, and they mirror as `gbp > image` and `gbp > caption`.
+Passing graphics/gbp syncs both.
 
 Env:
     GOOGLE_OAUTH_CLIENT_ID
     GOOGLE_OAUTH_CLIENT_SECRET
     GOOGLE_OAUTH_REFRESH_TOKEN
     DRIVE_CAROUSELS_FOLDER_ID     the parent folder id in Drive
-    DRIVE_GBP_FOLDER_ID           optional. Where GBP cards go. Unset, they
-                                  land in a `gbp` subfolder beside the decks.
+    DRIVE_GBP_FOLDER_ID           optional. The `gbp` folder itself. Unset, it
+                                  is found or created beside the decks.
 
 Usage:
     python3 scripts/drive_sync.py <dir> [<dir> ...]
@@ -50,9 +52,10 @@ from googleapiclient.http import MediaFileUpload
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CAROUSEL_ROOT = os.path.join(BASE_DIR, "graphics", "carousels")
-# GBP post cards are flat files in one folder, not a folder per deck, so they
-# sync as a single directory rather than one Drive folder per card.
+# A GBP post is an image plus its caption. They are split into two folders so
+# Drive stays scannable, and both mirror under a single `gbp` folder.
 GBP_ROOT = os.path.join(BASE_DIR, "graphics", "gbp")
+GBP_FOLDER_NAME = "gbp"
 SCOPES = ["https://www.googleapis.com/auth/drive"]
 
 # Kale and the podcast are different audiences with different footers, so their
@@ -201,7 +204,36 @@ def sync_dir(svc, parent_id, src_dir, nest=True):
 
 
 def is_gbp(path):
-    return os.path.abspath(path).rstrip("/") == GBP_ROOT
+    """True for graphics/gbp itself and for anything directly inside it."""
+    p = os.path.abspath(path).rstrip("/")
+    return p == GBP_ROOT or os.path.dirname(p) == GBP_ROOT
+
+
+def gbp_subdirs():
+    """The image/ and caption/ folders, whichever of them exist."""
+    if not os.path.isdir(GBP_ROOT):
+        return []
+    return [
+        os.path.join(GBP_ROOT, d)
+        for d in sorted(os.listdir(GBP_ROOT))
+        if os.path.isdir(os.path.join(GBP_ROOT, d))
+    ]
+
+
+def expand_gbp(dirs):
+    """Replace graphics/gbp with its subfolders, keeping the order given.
+
+    Callers pass the root because that is what the workflow computes from a
+    diff. The unit of sync is one level down, so the root is expanded here
+    rather than at every call site.
+    """
+    out = []
+    for d in dirs:
+        if os.path.abspath(d).rstrip("/") == GBP_ROOT:
+            out.extend(gbp_subdirs())
+        else:
+            out.append(d)
+    return out
 
 
 LANE_RE = re.compile(r'^lane:\s*"?([\w-]+)')
@@ -264,9 +296,8 @@ def main():
     carousels_id = os.environ.get("DRIVE_CAROUSELS_FOLDER_ID", "").strip()
     if not carousels_id:
         sys.exit("DRIVE_CAROUSELS_FOLDER_ID is not set")
-    # Optional. Without it the GBP cards land in a `gbp` subfolder beside the
-    # decks, which still gets them to Jennica. Set it to give them their own
-    # top-level folder, and they upload straight into it.
+    # Optional. Without it the `gbp` folder is found or created beside the
+    # decks, which still gets the cards to Jennica. Set it to pin the folder.
     gbp_id = os.environ.get("DRIVE_GBP_FOLDER_ID", "").strip()
 
     if args == ["--all"]:
@@ -275,10 +306,9 @@ def main():
             for d in sorted(os.listdir(CAROUSEL_ROOT))
             if os.path.isdir(os.path.join(CAROUSEL_ROOT, d))
         ]
-        if os.path.isdir(GBP_ROOT):
-            dirs.append(GBP_ROOT)
+        dirs.extend(gbp_subdirs())
     else:
-        dirs = [d for d in args if os.path.isdir(d)]
+        dirs = expand_gbp([d for d in args if os.path.isdir(d)])
 
     if not dirs:
         print("Nothing to sync.")
@@ -289,13 +319,16 @@ def main():
     if gbp_id and any(is_gbp(d) for d in dirs):
         check_parent(svc, gbp_id)
 
-    # Resolved once, and only when a podcast deck is actually in this run.
+    # Both resolved lazily, and only when this run actually carries one.
     kirp_id = None
+    gbp_parent_id = gbp_id or None
 
     print(f"Syncing {len(dirs)} folder(s) to Drive:")
     for path in dirs:
         if is_gbp(path):
-            sync_dir(svc, gbp_id or carousels_id, path, nest=not gbp_id)
+            if gbp_parent_id is None:
+                gbp_parent_id = ensure_folder(svc, carousels_id, GBP_FOLDER_NAME)
+            sync_dir(svc, gbp_parent_id, path)
         elif is_kirp(path):
             if kirp_id is None:
                 kirp_id = kirp_folder(svc, carousels_id)
