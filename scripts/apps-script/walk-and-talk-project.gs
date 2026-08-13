@@ -25,6 +25,7 @@
  ******************************************************************************/
 
 const SUBJECT_PREFIX        = 'Walk & Talk Options';
+const CAROUSEL_FAIL_PREFIX  = 'Carousel engine FAILED';   // contract with the Carousel watchdog routine
 const MODEL                 = 'claude-opus-4-7';   // see the model note in walk-and-talk-delivery.md before changing
 const SCRIPTED_LABEL        = 'WT-Scripted';
 const MAX_PICKS_PER_REPLY   = 3;                   // most options one reply may trigger (each is a paid Opus call)
@@ -139,9 +140,50 @@ function autoSendWalkAndTalkBriefs() {
   return 0;
 }
 
+/* ---------- 1b. Send the carousel watchdog's failure alert ---------- */
+//
+// The Claude Gmail connector can create a draft and cannot send one. D.J. wants
+// a carousel failure to land in his inbox, not sit in drafts where it competes
+// with the drafts he never opens, so the send happens here for the same reason
+// the walk-and-talk send does: this runs inside his Google account.
+//
+// DELIBERATELY SILENT WHEN THERE IS NO DRAFT. Unlike the brief above, the
+// absence of a draft is the GOOD outcome here: the watchdog only writes one when
+// something is missing, so an alarm-on-nothing would fire every healthy morning
+// and train him to ignore it. The case this cannot see, a watchdog that never
+// ran at all, is covered from outside Google entirely by the Carousel heartbeat
+// GitHub Action (scripts/check_heartbeat.py). Two alarms, no overlap.
+function sendCarouselAlerts() {
+  const TZ = 'America/Chicago';
+  const today = Utilities.formatDate(new Date(), TZ, 'yyyy-MM-dd');
+
+  let sent = 0;
+  for (const draft of GmailApp.getDrafts()) {
+    const msg = draft.getMessage();
+    const subject = msg.getSubject() || '';
+
+    // indexOf(...) === 0, not a plain contains, so a reply ("Re: Carousel
+    // engine FAILED ...") is never re-sent as a fresh alert.
+    if (subject.indexOf(CAROUSEL_FAIL_PREFIX) !== 0) continue;
+
+    // Date filter for the same reason as the brief sender: one stale unsent
+    // alert from last week must not be re-sent every morning forever.
+    if (Utilities.formatDate(msg.getDate(), TZ, 'yyyy-MM-dd') !== today) continue;
+
+    draft.send();
+    sent++;
+    Logger.log('Sent carousel alert: ' + subject);
+  }
+  return sent;
+}
+
 /* ---------- 2. Triggers: two daily send windows + 5-min reply watcher ---------- */
 function installTriggers() {
-  const managed = ['autoSendWalkAndTalkBriefs', 'processWalkAndTalkReplies'];
+  const managed = [
+    'autoSendWalkAndTalkBriefs',
+    'processWalkAndTalkReplies',
+    'sendCarouselAlerts',
+  ];
   ScriptApp.getProjectTriggers().forEach(function (t) {
     if (managed.indexOf(t.getHandlerFunction()) !== -1) ScriptApp.deleteTrigger(t);
   });
@@ -165,7 +207,18 @@ function installTriggers() {
   ScriptApp.newTrigger('processWalkAndTalkReplies')
     .timeBased().everyMinutes(5).create();
 
-  Logger.log('Installed: send ~6am + ~7am Chicago, reply watcher every 5 min');
+  // The Carousel watchdog routine runs at 9am CT. Google fires an hourly
+  // trigger at a random minute inside its hour, so 10am gives the watchdog a
+  // full hour to finish drafting before this looks for the draft. A second pass
+  // at 11am covers a watchdog that ran late, and re-running is free: a sent
+  // draft no longer exists to send twice.
+  ScriptApp.newTrigger('sendCarouselAlerts')
+    .timeBased().everyDays(1).atHour(10).inTimezone('America/Chicago').create();
+  ScriptApp.newTrigger('sendCarouselAlerts')
+    .timeBased().everyDays(1).atHour(11).inTimezone('America/Chicago').create();
+
+  Logger.log('Installed: brief send ~6am + ~7am Chicago, reply watcher every 5 min, '
+             + 'carousel alert send ~10am + ~11am Chicago');
 }
 
 /* ---------- 3. Watch for replies, turn picked numbers into scripts ---------- */

@@ -95,6 +95,57 @@ evidence of delivery.
 The watchdog never builds a missing deck. It is a smoke alarm, not a second engine: a deck
 that quietly filled a gap D.J. was never told about is worse than the gap.
 
+## How a failure actually reaches D.J.
+
+Three alarms, deliberately on different infrastructure, because the question "how would I
+know?" has a bad answer if they all die together.
+
+| Alarm | Runs on | Catches | Reaches him as |
+|---|---|---|---|
+| Carousel watchdog, 9:00am CT | Claude routine + Gmail connector | A deck missing from the repo or from Drive | A drafted email, sent by Apps Script |
+| `sendCarouselAlerts()`, ~10 and ~11am CT | Apps Script inside his Google account | Nothing on its own. It is the delivery leg | The actual sent email |
+| Carousel heartbeat, 11:30am CT | GitHub Actions | A watchdog that never ran, or a dead Gmail connector | GitHub's workflow-failure email |
+
+**Why the send lives in Apps Script.** The Claude Gmail connector can create a draft and
+cannot send one. There is no send tool. So the watchdog drafts with a subject beginning
+`Carousel engine FAILED`, and `sendCarouselAlerts()` in
+[`../../scripts/apps-script/walk-and-talk-project.gs`](../../scripts/apps-script/walk-and-talk-project.gs)
+sends it, exactly as `autoSendWalkAndTalkBriefs` already does for the morning brief.
+
+**That subject prefix is a contract.** Reword it and the alert is created and never
+delivered, with no error anywhere. This has already happened once on the walk-and-talk side:
+the routine switched an em dash to a hyphen while the Apps Script constant still had the em
+dash, and five days of briefs piled up unsent
+([walk-and-talk-delivery.md](walk-and-talk-delivery.md)). Change one, change both.
+
+**Why the heartbeat exists.** Everything above rides the Gmail connector, and when that
+connector lost its authorization in August 2026 a broken morning and a good one produced
+identical silence. So the watchdog writes `data/carousel-heartbeat.json` on every run, pass
+or fail, and pushes it. The **Carousel heartbeat** Action reads it at 11:30am CT and fails
+the build when it is stale or says `failed`, which makes GitHub email him. That path touches
+no connector, no routine scheduler, and no Make scenario.
+
+The heartbeat records `checked: {repo, drive}`, and the watchdog is instructed to set
+`status: failed` on a check it could not run rather than assume. A false `ok` is worse than
+no heartbeat: it is the alarm reporting all clear while the system is down.
+
+Verify the checker by hand any time:
+
+```bash
+python3 scripts/check_heartbeat.py                     # exits 1 if stale or failed
+python3 scripts/check_heartbeat.py --today 2026-08-14  # pretend it is that day
+```
+
+### What still is not covered
+
+**Quality.** Five decks, five slides each, all in Drive, with a fabricated stat on slide 3
+reads as a perfect morning to every alarm here. Rule 1 is enforced at authoring time by the
+engine's prompt and by nothing afterwards.
+
+**A wrong deck.** Nothing checks that today's KR twin actually matches its KIRP source, or
+that a guest deck was correctly flagged. `reskin_kr.py` refusing is the only guard, and it
+only sees what the frontmatter says.
+
 ### Retired the same day
 
 Disabled, not deleted, so their prompts stay readable:

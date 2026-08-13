@@ -1,0 +1,37 @@
+name: Carousel heartbeat
+
+# The alarm for the alarm.
+#
+# The watchdog routine checks that the morning's decks reached Drive, but
+# nothing watched the watchdog. If it stopped firing, or the Claude Gmail
+# connector lost its authorization, a broken morning produced exactly as much
+# email as a perfect one: none.
+#
+# This job fails when the heartbeat is stale or reports a bad morning, and a
+# failed scheduled workflow makes GitHub email the repo owner. That path runs
+# on GitHub's own infrastructure, so it survives every upstream failure this
+# system has: the routine scheduler, the Gmail connector, Make, Drive.
+
+on:
+  schedule:
+    # 16:30 UTC = 11:30am CT. The watchdog runs at 14:00 UTC, so this leaves
+    # 2.5 hours of slack for a slow run without stretching so far that a
+    # vanished morning goes unnoticed until tomorrow.
+    - cron: "30 16 * * *"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # No pip install: the check reads one JSON file and needs nothing but
+      # the standard library, which is deliberate. An alarm with dependencies
+      # is an alarm with more ways to fail than the thing it is watching.
+      - name: Check the watchdog reported today
+        run: python3 scripts/check_heartbeat.py
