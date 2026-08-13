@@ -1,5 +1,14 @@
 # Carousel + Static Post Standard
 
+> **SUPERSEDED IN PART (2026-08-13).** The 14-carousel week below no longer runs. One routine
+> now produces the same five deliverables every day: 2 KIRP decks, 2 KR re-skins of them, and
+> 1 GBP card. The take, broker-problem and news/tip routines are retired. Slide architecture,
+> the five-slide rule, stat sourcing and the no-asks close below all still stand.
+> See [`../automation/daily-carousel-engine.md`](../automation/daily-carousel-engine.md), which
+> governs where it conflicts with the cadence tables here.
+>
+> Branding also moved: slides 2, 3 and 4 now carry no footer at all, not just no URL.
+
 The format spec for D.J.'s **static and carousel Instagram posts** -- the saveable, swipeable
 format that sits alongside the 45-75s walk-and-talk videos. Sourced from the best realtor
 carousel accounts (see [`docs/strategy/realtor-instagram-watchlist.md`](../strategy/realtor-instagram-watchlist.md))

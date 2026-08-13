@@ -84,10 +84,11 @@ jobs:
             | grep -E '^graphics/carousels/[^/]+/' \
             | cut -d/ -f1-3 | sort -u | tr '\n' ' ' || true)
 
-          # GBP cards are flat files in one folder, not a folder per deck, so
-          # the folder itself is the unit of sync.
+          # A GBP card is an image plus a caption, split across graphics/gbp/
+          # image and caption. Pass the root and let drive_sync expand it, so
+          # this stays right if a third GBP folder ever appears.
           GBP=""
-          if printf '%s\n' "$CHANGED" | grep -qE '^graphics/gbp/[^/]+$'; then
+          if printf '%s\n' "$CHANGED" | grep -qE '^graphics/gbp/'; then
             GBP="graphics/gbp"
           fi
 

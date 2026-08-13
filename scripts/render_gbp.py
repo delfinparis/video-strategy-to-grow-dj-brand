@@ -25,8 +25,18 @@ Usage:
     python3 scripts/render_gbp.py scripts/gbp/*.md --theme light
     python3 scripts/render_gbp.py --headline "..." --sub "..." --slug cap-math
 
-Output lands in graphics/gbp/<date>-<slug>.png, which the Drive sync mirrors to
-My Drive > carousels > gbp.
+A GBP post is an image AND the words under it, so a card renders both:
+
+    graphics/gbp/image/<date>-<slug>.png
+    graphics/gbp/caption/<date>-<slug>.txt
+
+Split into two folders rather than interleaved in one, because D.J. reads these
+in Drive and a folder of alternating png/txt is unscannable. The Drive sync
+mirrors both to My Drive > KR Carousels > gbp > image / caption.
+
+A card with no '**Caption:**' block still renders its image; the caption file is
+simply not written, and the run says so. Never invent the caption to fill the
+pair. It is the half a human actually posts.
 """
 
 import argparse
@@ -55,6 +65,8 @@ from render_carousel import parse_frontmatter, parse_labeled
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_ROOT = os.path.join(BASE_DIR, "graphics", "gbp")
+IMAGE_DIR = os.path.join(OUT_ROOT, "image")
+CAPTION_DIR = os.path.join(OUT_ROOT, "caption")
 
 WIDTH, HEIGHT = 1200, 900
 # 150 each side keeps every drawn pixel inside the central 900x900 safe square.
@@ -65,6 +77,29 @@ DEFAULT_EYEBROW = "KALE REALTY"
 
 
 # --- parsing -----------------------------------------------------------------
+
+
+def parse_caption(content):
+    """Pull the '**Caption:**' block out of one card.
+
+    Deliberately not routed through the carousel FIELD_MAP. That map is shared
+    with the slide parser, and teaching it a field only GBP uses would have every
+    carousel silently collecting a 'caption' the slides then ignore. This also
+    keeps blank lines, which the slide parser drops: a caption is a paragraph
+    someone pastes into Google, not a stack of slide lines.
+
+    Runs to the next '**Label:**' or the end of the card.
+    """
+    lines = content.splitlines()
+    out, collecting = [], False
+    for raw in lines:
+        label = re.match(r"\*\*(.+?):?\*\*\s*$", raw.strip())
+        if label:
+            collecting = label.group(1).strip().lower().rstrip(":") == "caption"
+            continue
+        if collecting:
+            out.append(raw.rstrip())
+    return "\n".join(out).strip()
 
 
 def parse_cards(body):
@@ -91,6 +126,10 @@ def parse_cards(body):
                 "slug": slug,
                 "headline": headline,
                 "sub": " ".join(fields.get("sub", [])),
+                # Joined on newlines, not spaces: a GBP caption is a short
+                # paragraph plus its closing line, and collapsing it to one line
+                # would be a rewrite of copy that ships as typed.
+                "caption": parse_caption(content),
             }
         )
     return cards
@@ -239,10 +278,25 @@ def write_card(card, theme_name, accent_name, date, eyebrow, no_url):
     theme = THEMES[theme_name]
     accent = ACCENTS[accent_name][theme_name]
     img = render_card(card, theme, accent, eyebrow=eyebrow, show_url=not no_url)
-    os.makedirs(OUT_ROOT, exist_ok=True)
-    path = os.path.join(OUT_ROOT, f"{date}-{card['slug']}.png")
+
+    stem = f"{date}-{card['slug']}"
+    os.makedirs(IMAGE_DIR, exist_ok=True)
+    path = os.path.join(IMAGE_DIR, stem + ".png")
     img.save(path, "PNG", optimize=True)
     print(f"  {os.path.relpath(path, BASE_DIR)}")
+
+    # No caption is a loud warning, never a generated one. The caption is the
+    # half a human posts, and inventing it here would put words on Kale's own
+    # profile that nobody wrote.
+    if card["caption"]:
+        os.makedirs(CAPTION_DIR, exist_ok=True)
+        cap_path = os.path.join(CAPTION_DIR, stem + ".txt")
+        with open(cap_path, "w", encoding="utf-8") as fh:
+            fh.write(card["caption"].rstrip() + "\n")
+        print(f"  {os.path.relpath(cap_path, BASE_DIR)}")
+    else:
+        print(f"  WARNING: '{card['slug']}' has no **Caption:** block, image only",
+              file=sys.stderr)
     return path
 
 
@@ -252,6 +306,8 @@ def main():
     ap.add_argument("files", nargs="*", help="GBP batch markdown file(s)")
     ap.add_argument("--headline", help="render one card from the command line")
     ap.add_argument("--sub", default="")
+    ap.add_argument("--caption", default="",
+                    help="post caption, written beside the image in gbp/caption/")
     ap.add_argument("--slug", help="output slug, required with --headline")
     ap.add_argument("--theme", choices=sorted(THEMES), default="dark")
     ap.add_argument("--accent", choices=sorted(ACCENTS), default="gold")
@@ -269,7 +325,8 @@ def main():
             ap.error("--slug is required with --headline")
         print("Rendering 1 card:")
         write_card(
-            {"slug": args.slug, "headline": args.headline, "sub": args.sub},
+            {"slug": args.slug, "headline": args.headline, "sub": args.sub,
+             "caption": args.caption},
             args.theme, args.accent, date, args.eyebrow, args.no_url,
         )
         return

@@ -1,0 +1,7 @@
+{
+  "date": "2026-08-13",
+  "status": "ok",
+  "checked": {"repo": true, "drive": true},
+  "missing": [],
+  "note": "Seeded by hand when the engine was built. The watchdog overwrites this every run."
+}
