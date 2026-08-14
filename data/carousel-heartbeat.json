@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "status": "ok",
   "checked": {"repo": true, "drive": true},
   "missing": [],
-  "note": "Seeded by hand when the engine was built. The watchdog overwrites this every run."
+  "note": "All six items confirmed present in repo and Drive: 2 KIRP decks, 2 KR decks, GBP image, GBP caption, each with 5 slides where applicable."
 }
