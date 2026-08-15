@@ -1,7 +1,10 @@
 {
-  "date": "2026-08-14",
-  "status": "ok",
+  "date": "2026-08-15",
+  "status": "failed",
   "checked": {"repo": true, "drive": true},
-  "missing": [],
-  "note": "All six items confirmed present in repo and Drive: 2 KIRP decks, 2 KR decks, GBP image, GBP caption, each with 5 slides where applicable."
+  "missing": [
+    "KIRP-2026-08-15-hold-your-number-swap-carousel: missing from the 'KIRP Carousels' Drive folder (built in repo with 5 slides, synced to Drive but filed under 'KR Carousels' instead)",
+    "KIRP-2026-08-15-late-price-cut-mistake-carousel: missing from the 'KIRP Carousels' Drive folder (built in repo with 5 slides, synced to Drive but filed under 'KR Carousels' instead)"
+  ],
+  "note": "Both KIRP decks built correctly and reached Drive but were misfiled under KR Carousels instead of KIRP Carousels; KR decks and GBP image/caption are correct in both repo and Drive."
 }
