@@ -102,11 +102,12 @@ def in_trash(svc, slug):
     one thing that distinguishes a posted deck from one that never arrived.
     Emptying the trash loses that receipt, and the deck reads as missing.
     """
+    safe = slug.replace("'", "\\'")
     res = (
         svc.files()
         .list(
             q=(
-                f"name = '{slug}' and trashed = true "
+                f"name = '{safe}' and trashed = true "
                 "and mimeType = 'application/vnd.google-apps.folder'"
             ),
             fields="files(id)",
