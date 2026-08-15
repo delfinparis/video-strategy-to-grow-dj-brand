@@ -10,14 +10,13 @@ podcast decks move out to a sibling folder.
       KIRP-*-carousel/         ->    KIRP Carousels/KIRP-*-carousel/
       gbp/                     ->    KR Carousels/gbp/   (stays put)
 
-Which decks are KIRP is not decided by the folder name. It comes from the
-`lane: "podcast"` frontmatter on each deck's source markdown, the same field
-that already decides whether a slide gets the podcast wordmark and the
-keepingitrealpod.com footer instead of Kale's. Naming and routing cannot drift
-apart that way.
+Which decks are KIRP comes from drive_sync.is_kirp(), so this script and the
+sync can never disagree about where a deck belongs. It is the `KIRP-` slug
+prefix, with `lane: "podcast"` as the fallback for anything unprefixed.
 
-Safe to re-run. Renaming a folder that is already named right is a no-op, and a
-deck already in the KIRP folder is left alone.
+Safe to re-run, and worth re-running as the repair tool whenever a deck lands in
+the wrong folder: renaming a folder that is already named right is a no-op, and
+a deck already in the KIRP folder is left alone.
 
 Dry run by default. Nothing changes in Drive without --apply.
 
@@ -36,10 +35,10 @@ from drive_sync import (
     CAROUSEL_ROOT,
     KIRP_FOLDER_NAME,
     KR_FOLDER_NAME,
-    deck_lane,
     drive_client,
     ensure_folder,
     find_child,
+    is_kirp,
 )
 
 
@@ -54,14 +53,18 @@ def parent_of(svc, folder_id):
 
 
 def local_kirp_decks():
-    """Deck slugs whose source markdown declares the podcast lane."""
+    """Deck slugs that belong in the KIRP folder, by the same rule the sync uses.
+
+    Sharing is_kirp() with drive_sync is the point: if the two ever disagreed,
+    this script would faithfully move decks the next sync would file back.
+    """
     if not os.path.isdir(CAROUSEL_ROOT):
         return []
     return sorted(
         d
         for d in os.listdir(CAROUSEL_ROOT)
         if os.path.isdir(os.path.join(CAROUSEL_ROOT, d))
-        and deck_lane(os.path.join(CAROUSEL_ROOT, d)) == "podcast"
+        and is_kirp(os.path.join(CAROUSEL_ROOT, d))
     )
 
 
@@ -81,8 +84,8 @@ def main():
     decks = local_kirp_decks()
     if not decks:
         print(
-            "No podcast-lane decks found locally. Nothing would move.\n"
-            "Check that scripts/carousels/*.md still carry lane: \"podcast\".",
+            "No KIRP decks found locally. Nothing would move.\n"
+            "Expected folders named KIRP-* under graphics/carousels/.",
             file=sys.stderr,
         )
 
@@ -117,7 +120,7 @@ def main():
         kirp_id = None
         print(f"\nKIRP folder: would create '{KIRP_FOLDER_NAME}' beside the Kale one")
 
-    print(f"\nPodcast-lane decks to move ({len(decks)}):")
+    print(f"\nKIRP decks to move ({len(decks)}):")
     moved = missing = already = 0
     for slug in decks:
         src_id = find_child(svc, kr_id, slug, folder=True)

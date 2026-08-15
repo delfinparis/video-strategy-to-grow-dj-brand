@@ -92,6 +92,12 @@ while skipping an entire push, and `EVERGREEN-004` sat in the repo for a day wit
 reaching Drive ([carousel-drive-sync.md](carousel-drive-sync.md)). A green engine run is not
 evidence of delivery.
 
+**Existing in Drive is not delivery either. Check the parent folder.** On 2026-08-14 the
+watchdog found both KIRP decks in Drive and reported `ok`; they were sitting in `KR Carousels`,
+where Jennica does not look for them, and the same routing bug misfiled 08-15's pair before it
+was caught. A KIRP deck counts as delivered only when it is inside `KIRP Carousels`, and a KR
+deck only when it is inside `KR Carousels`.
+
 The watchdog never builds a missing deck. It is a smoke alarm, not a second engine: a deck
 that quietly filled a gap D.J. was never told about is worse than the gap.
 

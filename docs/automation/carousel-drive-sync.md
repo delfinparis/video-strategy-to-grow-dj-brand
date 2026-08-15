@@ -59,24 +59,44 @@ The old `carousels` folder was 27 Kale decks to 3 podcast ones, so it keeps its
 contents and gets renamed to what it already mostly was. Only the three podcast decks
 move.
 
-**What decides where a deck goes is `lane`, not the folder name.** `lane: "podcast"`
-in the deck's source markdown routes it to KIRP; everything else goes to KR. That is
-the same field that already decides whether a slide carries the podcast wordmark and
-the keepingitrealpod.com footer instead of Kale's, so naming and routing cannot drift
-apart. A deck whose source has no `lane` defaults to KR, because a misfiled Kale deck
-is a smaller problem than a KIRP folder that quietly stops receiving decks.
+**What decides where a deck goes is the slug prefix.** `KIRP-*` routes to KIRP,
+`KR-*` routes to KR, and anything unprefixed falls back to `lane: "podcast"` in the
+deck's source markdown. A deck that matches none of that defaults to KR, because a
+misfiled Kale deck is a smaller problem than a KIRP folder that quietly stops
+receiving decks. One rule, `drive_sync.is_kirp()`, and both the sync and the reorg
+import it, so they cannot disagree about where a deck belongs.
 
 `DRIVE_KIRP_FOLDER_ID` is **optional**. Without it the sync finds the KIRP folder by
 name beside the Kale one, creating it if it is missing, so nothing needs minting for
 this to work.
 
-**Running the split.** Actions tab > **Drive reorg (one-time)**. It dry-runs by
-default and prints exactly what it would do; tick the apply box to make the changes.
-Safe to re-run: renaming a folder already named right is a no-op, and a deck already
-in the KIRP folder is left alone.
+**Running the split, or repairing a misfile.** Actions tab > **Drive reorg
+(one-time)**. It dry-runs by default and prints exactly what it would do; tick the
+apply box to make the changes. Safe to re-run: renaming a folder already named right
+is a no-op, and a deck already in the KIRP folder is left alone. The dry run is also
+the misfile audit, because it lists every KIRP deck currently sitting in KR.
 
 > `kirp-test` is named like a podcast deck but has no source markdown and no `lane`,
 > so it routes to KR. It is a leftover test folder. Delete it rather than fix it.
+
+#### Routing read `lane` alone, and the daily engine broke it (2026-08-15)
+
+`lane: "podcast"` was the whole rule from 2026-08-12, and it held for exactly as long
+as every KIRP deck was an episode deck. The daily carousel engine then started
+building two KIRP decks a day whose `lane` is the *content* type instead
+(`stat`, `market-tip`, `do-this-dont-do-that`, `dont-make-this-mistake`). None of
+those equal `podcast`, so all four decks from 2026-08-14 and 2026-08-15 hit the
+KR default and were filed under **KR Carousels**.
+
+Nothing errored. The decks rendered, committed, and synced; only the parent folder
+was wrong, and the 08-14 watchdog reported `ok` because it checked that the files
+existed in Drive without checking *where*. Two days of KIRP decks were misfiled
+before anyone saw it.
+
+The fix is the prefix rule above: the engine, `reskin_kr.py`, and the folder names
+already agree on `KIRP-`/`KR-`, so routing now reads the one signal that cannot drift
+from what the deck actually is. **Any Drive check has to verify the parent folder,
+not just existence** — misfiled and delivered look identical otherwise.
 
 ### GBP post cards ride the same pipe (2026-08-12)
 

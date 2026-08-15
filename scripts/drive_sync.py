@@ -63,6 +63,11 @@ SCOPES = ["https://www.googleapis.com/auth/drive"]
 KR_FOLDER_NAME = "KR Carousels"
 KIRP_FOLDER_NAME = "KIRP Carousels"
 
+# Every deck the daily engine builds is named for its brand, so the prefix is
+# the routing signal. See is_kirp() for why `lane` no longer decides this.
+KIRP_PREFIX = "KIRP-"
+KR_PREFIX = "KR-"
+
 # Zips are gitignored, so they never reach CI. Everything else in a deck folder
 # is something Jennica or LinkedIn needs.
 UPLOAD_EXT = {".png", ".pdf", ".txt"}
@@ -244,9 +249,9 @@ def deck_lane(deck_dir):
 
     A rendered deck folder carries no metadata of its own, but it is named for
     the same slug as its source file, so the lane is one read away. Anything
-    unreadable falls back to the Kale side, which is where 27 of 30 decks
-    belong: a misfiled Kale deck is a smaller problem than a KIRP folder that
-    silently stops receiving decks.
+    unreadable falls back to the Kale side, which is where most decks belong: a
+    misfiled Kale deck is a smaller problem than a KIRP folder that silently
+    stops receiving decks.
     """
     slug = os.path.basename(deck_dir.rstrip("/"))
     src = os.path.join(BASE_DIR, "scripts", "carousels", slug + ".md")
@@ -265,6 +270,26 @@ def deck_lane(deck_dir):
 
 
 def is_kirp(deck_dir):
+    """Which of the two brand folders a deck belongs in.
+
+    The slug prefix decides, and `lane` is only a fallback. Routing used to read
+    `lane: "podcast"` alone, which was true while every KIRP deck was an episode
+    deck. The daily engine broke that on 2026-08-14: it names its decks
+    `KIRP-<date>-<slug>` / `KR-<date>-<slug>` and uses `lane` for the *content*
+    type instead ("stat", "market-tip", "do-this-dont-do-that"), so four KIRP
+    decks matched nothing and defaulted into KR Carousels over two days.
+
+    The prefix is what the engine, the reskinner (`reskin_kr.py`) and the file
+    names themselves already agree on, so it is the signal that cannot drift.
+    An unprefixed deck still falls back to `lane`, which keeps the older
+    episode decks (`KIRP-carrie-mccormick-carousel` and friends, all prefixed
+    anyway) and every legacy Kale deck routing exactly as before.
+    """
+    slug = os.path.basename(deck_dir.rstrip("/"))
+    if slug.startswith(KIRP_PREFIX):
+        return True
+    if slug.startswith(KR_PREFIX):
+        return False
     return deck_lane(deck_dir) == "podcast"
 
 
