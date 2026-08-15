@@ -30,8 +30,29 @@ jobs:
         with:
           python-version: "3.12"
 
-      # No pip install: the check reads one JSON file and needs nothing but
-      # the standard library, which is deliberate. An alarm with dependencies
-      # is an alarm with more ways to fail than the thing it is watching.
+      # No pip install for this one: the check reads one JSON file and needs
+      # nothing but the standard library, which is deliberate. An alarm with
+      # dependencies is an alarm with more ways to fail than the thing it is
+      # watching.
       - name: Check the watchdog reported today
         run: python3 scripts/check_heartbeat.py
+
+      # The watchdog's Drive check reported ok on 2026-08-14 with both KIRP
+      # decks sitting in KR Carousels, because it only asked whether the files
+      # existed. This asks where they are, from GitHub's own infrastructure, and
+      # it does not depend on the watchdog having run. Scoped to today's decks:
+      # the library's older folders are a separate manual cleanup, and an alarm
+      # that cries every morning about them is an alarm he stops reading.
+      - name: Install Drive client
+        if: always()
+        run: pip install --quiet google-api-python-client google-auth google-auth-oauthlib
+
+      - name: Check today's decks are in the right Drive folder
+        if: always()
+        env:
+          GOOGLE_OAUTH_CLIENT_ID: ${{ secrets.GOOGLE_OAUTH_CLIENT_ID }}
+          GOOGLE_OAUTH_CLIENT_SECRET: ${{ secrets.GOOGLE_OAUTH_CLIENT_SECRET }}
+          GOOGLE_OAUTH_REFRESH_TOKEN: ${{ secrets.GOOGLE_OAUTH_REFRESH_TOKEN }}
+          DRIVE_CAROUSELS_FOLDER_ID: ${{ secrets.DRIVE_CAROUSELS_FOLDER_ID }}
+          DRIVE_KIRP_FOLDER_ID: ${{ secrets.DRIVE_KIRP_FOLDER_ID }}
+        run: python3 scripts/drive_audit.py --date "$(date -u +%F)"
