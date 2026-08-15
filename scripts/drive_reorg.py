@@ -1,22 +1,28 @@
 #!/usr/bin/env python3
 """
-One-time Drive reorg: split the single `carousels` folder into Kale and KIRP.
+Put every deck in the Drive folder it belongs in.
 
-The folder started life holding everything. It is now 27 Kale decks and 3
-podcast decks, so it is renamed to what it mostly already is, and the three
-podcast decks move out to a sibling folder.
+It started as the one-time split of the single `carousels` folder into Kale and
+KIRP, and it is now the standing repair tool for whatever
+[`drive_audit.py`](drive_audit.py) finds:
 
     carousels/                 ->  KR Carousels/
       KIRP-*-carousel/         ->    KIRP Carousels/KIRP-*-carousel/
       gbp/                     ->    KR Carousels/gbp/   (stays put)
 
+It moves in **both** directions. A KIRP deck in KR goes to KIRP, and a Kale deck
+in KIRP goes back to KR: on 2026-08-14 twenty-one older Kale decks turned up
+inside KIRP Carousels, having been moved there by hand after the 08-12 sync put
+them in KR, and a one-way tool could not put them back.
+
 Which decks are KIRP comes from drive_sync.is_kirp(), so this script and the
 sync can never disagree about where a deck belongs. It is the `KIRP-` slug
 prefix, with `lane: "podcast"` as the fallback for anything unprefixed.
 
-Safe to re-run, and worth re-running as the repair tool whenever a deck lands in
-the wrong folder: renaming a folder that is already named right is a no-op, and
-a deck already in the KIRP folder is left alone.
+Safe to re-run: renaming a folder that is already named right is a no-op, and a
+deck already in the right folder is left alone. It only ever moves a folder
+between those two, never deletes, and never touches a deck it cannot find in
+either.
 
 Dry run by default. Nothing changes in Drive without --apply.
 
@@ -52,8 +58,8 @@ def parent_of(svc, folder_id):
     return parents[0] if parents else "root"
 
 
-def local_kirp_decks():
-    """Deck slugs that belong in the KIRP folder, by the same rule the sync uses.
+def local_decks():
+    """Every deck in the repo, as (slug, belongs_in_kirp).
 
     Sharing is_kirp() with drive_sync is the point: if the two ever disagreed,
     this script would faithfully move decks the next sync would file back.
@@ -61,10 +67,9 @@ def local_kirp_decks():
     if not os.path.isdir(CAROUSEL_ROOT):
         return []
     return sorted(
-        d
+        (d, is_kirp(os.path.join(CAROUSEL_ROOT, d)))
         for d in os.listdir(CAROUSEL_ROOT)
         if os.path.isdir(os.path.join(CAROUSEL_ROOT, d))
-        and is_kirp(os.path.join(CAROUSEL_ROOT, d))
     )
 
 
@@ -81,11 +86,11 @@ def main():
     if not kr_id:
         sys.exit("DRIVE_CAROUSELS_FOLDER_ID is not set")
 
-    decks = local_kirp_decks()
+    decks = local_decks()
     if not decks:
         print(
-            "No KIRP decks found locally. Nothing would move.\n"
-            "Expected folders named KIRP-* under graphics/carousels/.",
+            "No decks found locally. Nothing would move.\n"
+            "Expected deck folders under graphics/carousels/.",
             file=sys.stderr,
         )
 
@@ -120,31 +125,43 @@ def main():
         kirp_id = None
         print(f"\nKIRP folder: would create '{KIRP_FOLDER_NAME}' beside the Kale one")
 
-    print(f"\nKIRP decks to move ({len(decks)}):")
+    print(f"\nDecks checked ({len(decks)}):")
     moved = missing = already = 0
-    for slug in decks:
-        src_id = find_child(svc, kr_id, slug, folder=True)
-        if not src_id:
-            if kirp_id and find_child(svc, kirp_id, slug, folder=True):
-                print(f"  {slug}: already in KIRP Carousels")
-                already += 1
-            else:
-                print(f"  {slug}: not in Drive yet, will land there on next sync")
-                missing += 1
+    for slug, want_kirp in decks:
+        want_id, want_name = (
+            (kirp_id, KIRP_FOLDER_NAME) if want_kirp else (kr_id, KR_FOLDER_NAME)
+        )
+        from_id, from_name = (
+            (kr_id, KR_FOLDER_NAME) if want_kirp else (kirp_id, KIRP_FOLDER_NAME)
+        )
+
+        if want_id and find_child(svc, want_id, slug, folder=True):
+            already += 1
             continue
-        print(f"  {slug}: move -> {KIRP_FOLDER_NAME}")
+
+        src_id = find_child(svc, from_id, slug, folder=True) if from_id else None
+        if not src_id:
+            # Not in either folder. It may be loose somewhere else in Drive, but
+            # this script only ever moves between the two known folders, so the
+            # honest answer is to name it and let the next sync re-upload it.
+            print(f"  {slug}: in neither folder, re-sync it to put it in '{want_name}'")
+            missing += 1
+            continue
+
+        print(f"  {slug}: move '{from_name}' -> '{want_name}'")
         if args.apply:
             svc.files().update(
                 fileId=src_id,
-                addParents=kirp_id,
-                removeParents=kr_id,
+                addParents=want_id,
+                removeParents=from_id,
                 fields="id, parents",
                 supportsAllDrives=True,
             ).execute()
         moved += 1
 
     print(
-        f"\n{moved} to move, {already} already there, {missing} not yet in Drive."
+        f"\n{moved} to move, {already} already in the right folder, "
+        f"{missing} in neither folder."
     )
     if not args.apply:
         print("\nDry run. Re-run with --apply to make these changes.")
