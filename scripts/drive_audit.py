@@ -28,8 +28,8 @@ Verdicts:
     ok          in the right folder
     misfiled    in Drive, in the wrong folder                       fails
     duplicate   in both folders, one copy goes stale on re-render   fails
-    posted      gone from Drive, or sitting in the trash            passes
-    missing     gone, no trace in the trash, and dated today        fails
+    posted      gone from Drive, or trashed on the audited day      passes
+    missing     gone, nothing trashed that day, and dated today     fails
 
 Drive folders with no matching deck in the repo are printed as a note, never a
 failure: retired decks are allowed to stay in Drive.
@@ -94,13 +94,18 @@ def child_folders(svc, parent_id):
             return out
 
 
-def in_trash(svc, slug):
-    """True if a folder by this name is sitting in Drive's trash.
+def in_trash(svc, slug, date):
+    """True if this deck was trashed ON the day being audited.
 
     Deleting a posted deck is how the folder empties out, so the trash is the
     receipt: it says the folder existed and was cleared on purpose, which is the
     one thing that distinguishes a posted deck from one that never arrived.
-    Emptying the trash loses that receipt, and the deck reads as missing.
+
+    The day matters. The trash also holds old copies cleared during the
+    2026-08-15 cleanup, and a name match against one of those would let a deck
+    that never arrived this morning pass as posted. That is the false all-clear
+    this whole check exists to stop, so only a same-day trashing counts.
+    Emptying the trash loses the receipt and the deck reads as missing.
     """
     safe = slug.replace("'", "\\'")
     res = (
@@ -110,14 +115,16 @@ def in_trash(svc, slug):
                 f"name = '{safe}' and trashed = true "
                 "and mimeType = 'application/vnd.google-apps.folder'"
             ),
-            fields="files(id)",
-            pageSize=1,
+            fields="files(id, trashedTime)",
+            pageSize=10,
             supportsAllDrives=True,
             includeItemsFromAllDrives=True,
         )
         .execute()
     )
-    return bool(res.get("files"))
+    return any(
+        str(f.get("trashedTime", "")).startswith(date) for f in res.get("files", [])
+    )
 
 
 def local_decks(date=None):
@@ -182,8 +189,8 @@ def main():
             verdict, detail = "misfiled", f"in '{other}', belongs in '{want}'"
         elif not args.date:
             verdict, detail = "posted", "gone from Drive, so it went out"
-        elif in_trash(svc, slug):
-            verdict, detail = "posted", "in the trash, so it went out and was cleared"
+        elif in_trash(svc, slug, args.date):
+            verdict, detail = "posted", "trashed today, so it went out and was cleared"
         else:
             verdict, detail = (
                 "missing",
