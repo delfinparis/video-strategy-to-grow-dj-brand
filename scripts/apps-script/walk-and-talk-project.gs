@@ -29,6 +29,7 @@ const CAROUSEL_FAIL_PREFIX  = 'Carousel engine FAILED';   // contract with the C
 const MODEL                 = 'claude-opus-4-7';   // see the model note in walk-and-talk-delivery.md before changing
 const SCRIPTED_LABEL        = 'WT-Scripted';
 const MAX_PICKS_PER_REPLY   = 3;                   // most options one reply may trigger (each is a paid Opus call)
+const REPLY_PREFIX          = 'Option ';           // opener of OUR replies -- a contract with isGeneratedReply()
 const MAX_ATTEMPTS_PER_PICK = 3;                   // hard stop on retries -- this is the runaway-cost backstop
 const MAX_TURNS             = 8;                   // pause_turn continuations + format corrections, per call
 const MAX_FORMAT_CORRECTIONS = 1;                  // see missingScriptSections()
@@ -267,7 +268,11 @@ function runOneReplyJob() {
     const msgs = thread.getMessages();
     if (msgs.length < 2) continue;                       // no reply yet
 
-    const reply = msgs[msgs.length - 1].getPlainBody();
+    // NOT msgs[msgs.length - 1]. Our own script goes out as a reply on this
+    // same thread, so after the first delivery the newest message is ours, not
+    // D.J.'s. See newestPickBody().
+    const reply = newestPickBody(msgs);
+    if (reply === null) continue;
     const picks = parsePicks(reply).slice(0, MAX_PICKS_PER_REPLY);
     if (picks.length === 0) continue;
 
@@ -304,7 +309,7 @@ function runOneReplyJob() {
       writeThreadState(threadId, state);
 
       const pending = picks.filter(function (p) { return !state.done[p]; });
-      let body = 'Option ' + pick + ':\n\n\n' + script;
+      let body = REPLY_PREFIX + pick + ':\n\n\n' + script;
       if (pending.length) {
         body += '\n\n\nStill working on ' + pending.join(', ') +
                 '. Each one arrives as its own reply, a few minutes apart.';
@@ -324,6 +329,50 @@ function runOneReplyJob() {
     }
     return;   // one pick per run, success or failure
   }
+}
+
+// D.J.'s newest instruction, walking back from the end of the thread and
+// stepping over our own deliveries.
+//
+// THE BUG THIS EXISTS TO KILL (2026-08-15). This used to read
+// msgs[msgs.length - 1], the newest message, on the assumption that the newest
+// message is D.J.'s. It is not: thread.reply() posts our script INTO the same
+// thread, so the moment option 2 was delivered the newest message became our
+// own "Option 2: ..." -- which parsePicks reads as a pick of 2, which is
+// already done. Every run after the first delivery therefore concluded that
+// every pick was finished, labeled the thread, and exited without a sound.
+//
+// D.J. replied "2, 3, 4" on Aug 15 and got exactly one script. Options 3 and 4
+// were never generated and nothing anywhere said so -- the reply even promised
+// "Still working on 3, 4," which was the very message that made them
+// unreachable. Same shape as every other failure in this file: something
+// confirmed the work happened, nothing confirmed D.J. got it.
+//
+// Stops at index 1, never 0. msgs[0] is the brief, and the brief's own opening
+// line ("5 options for today ...") parses as a pick of 5.
+function newestPickBody(msgs) {
+  for (let i = msgs.length - 1; i >= 1; i--) {
+    const body = msgs[i].getPlainBody();
+    if (isGeneratedReply(body)) continue;
+    if (parsePicks(body).length) return body;
+  }
+  return null;
+}
+
+// Is this message one of ours? Both sides of the thread are the same address,
+// so the sender cannot answer this -- only the shape of the message can.
+//
+// Two conditions, because either alone is wrong. A first line of exactly
+// "Option 3:" is something D.J. might plausibly type as a pick, and a script
+// body can appear in a message he forwards or quotes back. Ours are the only
+// messages that are BOTH. The first-line test is quote-proof: quoted material
+// lands below it, so a script he quotes underneath his own pick can never make
+// his pick look generated.
+function isGeneratedReply(body) {
+  const firstLine = ((body || '').split(/\r?\n/)[0] || '').trim();
+  const re = new RegExp('^' + REPLY_PREFIX + '\\s*[1-8]\\s*:$', 'i');
+  if (!re.test(firstLine)) return false;
+  return /^###\s+HOOK\b/m.test(body) || /^##\s+Data Source\b/m.test(body);
 }
 
 // Which options D.J. actually picked. Reads ONLY the first line of what he

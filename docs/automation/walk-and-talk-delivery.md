@@ -112,6 +112,46 @@ prompt now leads with that same fact before it says anything about scripts.
 This also catches truncation. A `max_tokens` that a long script overruns cuts it
 off mid-captions, which used to mail a half-written script that read as complete.
 
+## The thread grows under your feet (2026-08-15)
+
+D.J. replied **"2, 3, 4"** and got exactly one script. Options 3 and 4 were never
+generated, no alarm fired, and the reply he did get ended with *"Still working
+on 3, 4. Each one arrives as its own reply, a few minutes apart."*
+
+`runOneReplyJob` read the newest message on the thread to find the pick:
+
+```js
+const reply = msgs[msgs.length - 1].getPlainBody();   // WRONG
+```
+
+But `thread.reply()` posts our script **onto that same thread**, so the instant
+option 2 was delivered the newest message stopped being D.J.'s. It was ours, and
+it opens with `Option 2:` — which `parsePicks` reads as a pick of 2, which is
+already done. So every run after the first delivery concluded that every pick on
+the thread was finished, applied the `WT-Scripted` label, and exited without a
+sound. The Executions log showed runs with **no output at all**, because they
+never reached the API call.
+
+Both sides of the thread are `delfinparis@gmail.com`, so the sender cannot tell
+our messages from his. Only the shape can. `newestPickBody()` now walks backward
+from the newest message, skips anything `isGeneratedReply()` recognizes as ours,
+and stops at index 1 — never 0, because the brief's own opening line
+("5 options for today ...") parses as a pick of 5.
+
+`isGeneratedReply()` requires **both** a first line of exactly `Option N:` and a
+script marker in the body. Either test alone is wrong: D.J. might plausibly type
+"Option 3:" as his pick, and a script can appear in a message he quotes back.
+Ours are the only messages that are both, and the first-line test is what makes
+it quote-proof.
+
+**Why the tests were green through all of it.** The harness's thread stub
+returned a frozen two-message array and pushed replies into a side list, so no
+test could ever see the newest message stop being D.J.'s. Test F is literally
+named "a follow-up reply is still seen" and it passed the whole time. The stub
+now appends replies to the thread the way Gmail does, and section J runs five
+consecutive firings against one growing thread. **A mock that cannot change is a
+mock that cannot fail.**
+
 ## The email path runs all four passes (2026-08-15)
 
 Until this date the emailed script was quietly weaker than the one D.J. gets in

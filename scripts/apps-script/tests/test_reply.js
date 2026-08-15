@@ -15,14 +15,22 @@ function makeEnv(opts) {
   const replies = [];
   const alarms = [];
   const labeled = [];
+  const seenReplies = [];   // what each call was told D.J. said
+
+  // ONE array, and reply() appends to it. Gmail threads grow: our own script
+  // goes out as a message on this same thread and becomes the newest one. The
+  // old stub returned a fresh frozen 2-message array and dropped replies into a
+  // side list, so no test could see the newest message stop being D.J.'s --
+  // which is exactly how the Aug 15 bug passed a green suite.
+  const messages = [
+    { getPlainBody: () => o.brief !== undefined ? o.brief : 'brief body with options 1. 2. 3. 4. 5.' },
+    { getPlainBody: () => o.reply !== undefined ? o.reply : '3' },
+  ];
 
   const thread = {
     getId: () => 'THREAD1',
-    getMessages: () => [
-      { getPlainBody: () => 'brief body with options 1. 2. 3. 4. 5.' },
-      { getPlainBody: () => o.reply !== undefined ? o.reply : '3' },
-    ],
-    reply: b => { replies.push(b); },
+    getMessages: () => messages,
+    reply: b => { replies.push(b); messages.push({ getPlainBody: () => b }); },
     addLabel: () => { labeled.push('WT-Scripted'); },
   };
 
@@ -68,12 +76,17 @@ function makeEnv(opts) {
   if (!o.keepRealGenerator) {
     env.generateScript = function (apiKey, brief, reply, pick) {
       calls.push(pick);
+      seenReplies.push(reply);
       if (o.fail) throw o.fail();
-      return 'SCRIPT FOR ' + pick;
+      // Script-SHAPED, not just a marker string. The real generator can only
+      // return a full script (missingScriptSections guarantees it), and
+      // isGeneratedReply keys off that shape to recognize our own messages.
+      return 'SCRIPT FOR ' + pick +
+        '\n\n### HOOK (0:00-0:09)\nfirst spoken line\n\n## Data Source\n- **Claim:** "x"';
     };
   }
 
-  return { env, store, calls, replies, alarms, labeled };
+  return { env, store, calls, replies, alarms, labeled, messages, seenReplies };
 }
 
 function run(opts) {
@@ -314,6 +327,64 @@ console.log('\n   ...and a pause_turn search loop is unaffected by the correctio
 const paused = { stop_reason: 'pause_turn', content: [{ type: 'server_tool_use', name: 'web_search' }] };
 g = callGenerate([paused, paused, paused, paused, say(VALID_SCRIPT)]);
 check('four search pauses then a script', g.calls === 5 && g.out === VALID_SCRIPT, 'api calls=' + g.calls);
+
+// ------------------------------------------- the thread grows under our feet
+//
+// THE AUG 15 BUG, end to end. thread.reply() posts our script onto the same
+// thread, so after the first delivery the newest message is OURS. The old code
+// read the newest message, found its own "Option 2:", decided every pick was
+// already done, labeled the thread and went silent. D.J. asked for 2, 3 and 4,
+// got one script, and the reply he did get promised the other two were coming.
+//
+// Consecutive calls on ONE env is what a run of trigger firings actually looks
+// like: script properties persist, and Gmail hands back the same thread with
+// every message on it.
+console.log('\nJ. THE AUG 15 BUG: "2, 3, 4" must deliver three scripts, not one');
+const multi = makeEnv({ reply: '2, 3, 4' });
+for (let i = 0; i < 5; i++) vm.runInContext('processWalkAndTalkReplies();', multi.env);
+
+check('all three were generated', JSON.stringify(multi.calls) === '["2","3","4"]',
+  JSON.stringify(multi.calls));
+check('three separate scripts were mailed', multi.replies.length === 3,
+  'replies=' + multi.replies.length);
+check('each reply carries its own script',
+  /SCRIPT FOR 2/.test(multi.replies[0] || '') &&
+  /SCRIPT FOR 3/.test(multi.replies[1] || '') &&
+  /SCRIPT FOR 4/.test(multi.replies[2] || ''),
+  multi.replies.map(r => r.split('\n')[0]).join(' | '));
+check('every generator call was told what D.J. said, never our own script',
+  multi.seenReplies.every(r => r === '2, 3, 4'),
+  JSON.stringify(multi.seenReplies.map(r => String(r).slice(0, 18))));
+check('labeled exactly once, and only after all three landed',
+  multi.labeled.length === 1, JSON.stringify(multi.labeled));
+check('two idle runs after delivery cost nothing', multi.calls.length === 3,
+  JSON.stringify(multi.calls));
+
+console.log('\nK. Telling our own deliveries from what D.J. types');
+const G = makeEnv({}).env;
+const isGen = s => vm.runInContext('isGeneratedReply(' + JSON.stringify(s) + ')', G);
+
+check('our delivery is recognized as ours', isGen('Option 2:\n\n\n' + VALID_SCRIPT), '');
+check('a bare "Option 3:" from D.J. is NOT ours -- no script in it',
+  !isGen('Option 3:'), 'must not swallow a plausible human pick');
+check('D.J. quoting our script under his pick is still HIS message',
+  !isGen('3\n\nOn Sat, Aug 15, 2026 D.J. wrote:\n' + VALID_SCRIPT),
+  'the first-line test is what makes this quote-proof');
+check('a thank-you is not ours', !isGen('thanks, that one is great'), '');
+
+console.log('\nL. The brief is never read as a pick');
+// The real brief opens "5 options for today ...", which parsePicks reads as a
+// pick of 5. It is msgs[0], so the walk-back must stop before it -- otherwise
+// every thread where D.J. never replies quietly generates option 5.
+const REAL_BRIEF_OPENER = '5 options for today. All stories from Aug 13-14.\n\n1. THE BUYERS MARKET';
+check('parsePicks does read the brief opener as a pick (this is why the guard exists)',
+  JSON.stringify(vm.runInContext('parsePicks(' + JSON.stringify(REAL_BRIEF_OPENER) + ')', G)) === '["5"]',
+  JSON.stringify(vm.runInContext('parsePicks(' + JSON.stringify(REAL_BRIEF_OPENER) + ')', G)));
+
+const briefOnly = makeEnv({ brief: REAL_BRIEF_OPENER, reply: 'thanks!' });
+vm.runInContext('processWalkAndTalkReplies();', briefOnly.env);
+check('but a thread with no real pick spends nothing', briefOnly.calls.length === 0,
+  JSON.stringify(briefOnly.calls));
 
 console.log('\n' + pass + ' passed, ' + fail + ' failed\n');
 process.exit(fail ? 1 : 0);
