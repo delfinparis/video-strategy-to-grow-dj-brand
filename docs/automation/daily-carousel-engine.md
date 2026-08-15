@@ -92,6 +92,12 @@ while skipping an entire push, and `EVERGREEN-004` sat in the repo for a day wit
 reaching Drive ([carousel-drive-sync.md](carousel-drive-sync.md)). A green engine run is not
 evidence of delivery.
 
+**A deck that has vanished from Drive was posted, not lost.** The folder gets deleted once
+the deck goes out, so absence is the posting record
+([carousel-drive-sync.md](carousel-drive-sync.md)). The watchdog only treats a missing deck
+as a failure on the day it was built, and it never re-syncs one: putting a published deck
+back in Drive makes it look unposted.
+
 **Existing in Drive is not delivery either. Check the parent folder.** On 2026-08-14 the
 watchdog found both KIRP decks in Drive and reported `ok`; they were sitting in `KR Carousels`,
 where Jennica does not look for them, and the same routing bug misfiled 08-15's pair before it

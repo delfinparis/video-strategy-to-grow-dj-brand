@@ -79,6 +79,28 @@ the misfile audit, because it lists every KIRP deck currently sitting in KR.
 > `kirp-test` is named like a podcast deck but has no source markdown and no `lane`,
 > so it routes to KR. It is a leftover test folder. Delete it rather than fix it.
 
+### A deleted folder means posted (2026-08-15)
+
+**D.J. and Jennica delete a deck's Drive folder once the deck goes out.** The empty
+space is the record of what has shipped, and it is the only such record: nothing in
+the repo tracks posting.
+
+Two rules follow, and both are load-bearing:
+
+1. **Never re-sync a deck just because it is not in Drive.** Re-uploading a posted
+   deck puts it back in the folder looking like it still needs posting, and the
+   next person works from that. Run the Graphics to Drive Action on a specific deck
+   only when you know it never arrived.
+2. **Absence is not a fault, but a wrong folder always is.** `drive_audit.py` treats
+   a deck missing from the whole library as posted, and only fails on absence when
+   auditing a single day, where this morning's decks should still be sitting there.
+   For that case it checks Drive's trash, so a deck posted and cleared before the
+   11:30am heartbeat still reads as delivered. Emptying the trash loses that
+   receipt and the deck reads as missing.
+
+The sync itself is unaffected. It uploads what changed, and a deck re-rendered
+after being posted comes back on purpose.
+
 #### Routing read `lane` alone, and the daily engine broke it (2026-08-15)
 
 `lane: "podcast"` was the whole rule from 2026-08-12, and it held for exactly as long

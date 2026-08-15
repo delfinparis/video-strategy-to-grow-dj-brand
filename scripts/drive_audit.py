@@ -11,15 +11,28 @@ missing as far as the morning is concerned.
 So this asks the harder question, per deck: is it in the folder that
 drive_sync.is_kirp() says it belongs in, and is it in only that folder?
 
+**A deck that is gone from Drive has usually been posted.** D.J. and Jennica delete
+a deck's folder once it goes out, so an empty space is how they track what has
+shipped. That makes absence ambiguous rather than bad, and the ambiguity is only
+resolvable by date:
+
+  - Auditing the whole library, a deck in neither folder is assumed posted and
+    cleared. Failing on those would mean an alarm that rings for every deck ever
+    published, which is an alarm nobody reads.
+  - Auditing one day (`--date`, what the heartbeat runs), a deck in neither folder
+    is a real failure, because this morning's decks should still be sitting there
+    unposted. If one was posted and cleared before the check ran, Drive's trash
+    still holds the folder, and a deck found there counts as delivered.
+
 Verdicts:
     ok          in the right folder
-    misfiled    in Drive, in the wrong folder
-    duplicate   in both folders, so one copy is stale the moment a deck re-renders
-    missing     not in either folder
+    misfiled    in Drive, in the wrong folder                       fails
+    duplicate   in both folders, one copy goes stale on re-render   fails
+    posted      gone from Drive, or sitting in the trash            passes
+    missing     gone, no trace in the trash, and dated today        fails
 
-Anything but ok exits 1, so a GitHub Action can fail on it and mail D.J. Drive
-folders with no matching deck in the repo are printed as a note, never a failure:
-retired decks are allowed to stay in Drive.
+Drive folders with no matching deck in the repo are printed as a note, never a
+failure: retired decks are allowed to stay in Drive.
 
 Env: same as drive_sync.py.
 
@@ -42,6 +55,11 @@ from drive_sync import (
     is_kirp,
     kirp_folder,
 )
+
+
+# A deck that is where it belongs and one that was posted and cleared are both
+# fine mornings. Only a wrong folder or a deck that never arrived is a fault.
+PASSING = {"ok", "posted"}
 
 
 def child_folders(svc, parent_id):
@@ -74,6 +92,31 @@ def child_folders(svc, parent_id):
         token = res.get("nextPageToken")
         if not token:
             return out
+
+
+def in_trash(svc, slug):
+    """True if a folder by this name is sitting in Drive's trash.
+
+    Deleting a posted deck is how the folder empties out, so the trash is the
+    receipt: it says the folder existed and was cleared on purpose, which is the
+    one thing that distinguishes a posted deck from one that never arrived.
+    Emptying the trash loses that receipt, and the deck reads as missing.
+    """
+    res = (
+        svc.files()
+        .list(
+            q=(
+                f"name = '{slug}' and trashed = true "
+                "and mimeType = 'application/vnd.google-apps.folder'"
+            ),
+            fields="files(id)",
+            pageSize=1,
+            supportsAllDrives=True,
+            includeItemsFromAllDrives=True,
+        )
+        .execute()
+    )
+    return bool(res.get("files"))
 
 
 def local_decks(date=None):
@@ -136,11 +179,18 @@ def main():
             verdict, detail = "ok", f"in '{want}'"
         elif slug in there:
             verdict, detail = "misfiled", f"in '{other}', belongs in '{want}'"
+        elif not args.date:
+            verdict, detail = "posted", "gone from Drive, so it went out"
+        elif in_trash(svc, slug):
+            verdict, detail = "posted", "in the trash, so it went out and was cleared"
         else:
-            verdict, detail = "missing", f"not in '{want}' or '{other}'"
+            verdict, detail = (
+                "missing",
+                f"not in '{want}', '{other}', or the trash. It never arrived",
+            )
 
         results.append({"deck": slug, "verdict": verdict, "expected": want})
-        mark = " " if verdict == "ok" else "!"
+        mark = " " if verdict in PASSING else "!"
         print(f"{mark} {verdict:9} {slug}: {detail}")
 
     known = set(decks) if not args.date else set(local_decks())
@@ -151,13 +201,18 @@ def main():
             where = KR_FOLDER_NAME if name in in_kr else KIRP_FOLDER_NAME
             print(f"  {name} ({where})")
 
-    bad = [r for r in results if r["verdict"] != "ok"]
-    print(f"\n{len(results) - len(bad)} ok, {len(bad)} not ok.")
+    bad = [r for r in results if r["verdict"] not in PASSING]
+    posted = [r for r in results if r["verdict"] == "posted"]
+    print(
+        f"\n{len(results) - len(bad) - len(posted)} ok, {len(posted)} already posted, "
+        f"{len(bad)} not ok."
+    )
     if bad:
         print(
             "\nFix a misfiled or duplicated deck with the Drive reorg Action "
             "(dry run first). A missing deck needs the Graphics to Drive Action "
-            "re-run for that folder."
+            "re-run for that folder. Re-syncing a deck that was posted and cleared "
+            "puts it back in Drive looking unposted, so check before re-running."
         )
     if args.json:
         print("\n" + json.dumps({"decks": results, "orphans": orphans}, indent=2))

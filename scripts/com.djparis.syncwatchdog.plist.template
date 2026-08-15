@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd template for the weekly YouTube-sync watchdog.
+
+  Runs scripts/sync_watchdog.sh on the always-on home Mac every MONDAY at 5:07pm
+  (about 4 hours after the 1pm cloud routine "Auto-sync publishing log from
+  YouTube"). It checks origin/main for a fresh sync commit and, only if YouTube
+  has Shorts newer than the publishing log, pushes a phone alert. No alert means
+  either the sync ran or nothing new was posted -- never a silent miss.
+
+  Read-only on the repo (git fetch only). The only side effect is one ntfy push
+  when something is wrong.
+
+  Setup (mirror scripts/install-walk-and-talk.sh, or do it by hand):
+  1. Copy this file to ~/Library/LaunchAgents/com.djparis.syncwatchdog.plist
+  2. Fill in the placeholder below:
+       - NTFY_TOPIC   (required; the SAME private push topic the walk-and-talk
+                       job uses -- you are already subscribed to it in the ntfy app)
+     Adjust the two REPO paths if the repo is not at ~/video-strategy-to-grow-dj-brand.
+  3. Load:    launchctl load ~/Library/LaunchAgents/com.djparis.syncwatchdog.plist
+  4. Verify:  launchctl list | grep syncwatchdog
+  5. Test:    launchctl start com.djparis.syncwatchdog
+              (with the log behind, this should push a WARNING to your phone;
+               when the log is current it pushes nothing -- check
+               /tmp/syncwatchdog.log to confirm it ran and decided "OK")
+
+  Secrets live ONLY in the installed copy, never in this repo template.
+
+  Disable:    launchctl unload ~/Library/LaunchAgents/com.djparis.syncwatchdog.plist
+  Change time: edit Weekday/Hour/Minute, then unload + reload
+  Logs:       cat /tmp/syncwatchdog.log  /  cat /tmp/syncwatchdog-err.log
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.djparis.syncwatchdog</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/djparis/video-strategy-to-grow-dj-brand/scripts/sync_watchdog.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/djparis/video-strategy-to-grow-dj-brand</string>
+
+  <!-- Monday (Weekday 1) at 5:07pm, ~4h after the 1pm cloud sync. -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key><integer>1</integer>
+    <key>Hour</key><integer>17</integer>
+    <key>Minute</key><integer>7</integer>
+  </dict>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>NTFY_TOPIC</key>
+    <string>REPLACE_WITH_PRIVATE_NTFY_TOPIC</string>
+    <key>REPO_DIR</key>
+    <string>/Users/djparis/video-strategy-to-grow-dj-brand</string>
+    <!-- yt-dlp may live in any of these depending on how it was installed
+         (brew on Apple Silicon / Intel, or pipx/pip --user in ~/.local/bin). -->
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/Users/djparis/.local/bin:/usr/bin:/bin</string>
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>/tmp/syncwatchdog.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/tmp/syncwatchdog-err.log</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>

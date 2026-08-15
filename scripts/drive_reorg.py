@@ -141,10 +141,10 @@ def main():
 
         src_id = find_child(svc, from_id, slug, folder=True) if from_id else None
         if not src_id:
-            # Not in either folder. It may be loose somewhere else in Drive, but
-            # this script only ever moves between the two known folders, so the
-            # honest answer is to name it and let the next sync re-upload it.
-            print(f"  {slug}: in neither folder, re-sync it to put it in '{want_name}'")
+            # In neither folder, which usually means it was posted and the folder
+            # deleted. Never re-upload on a hunch: that puts a published deck back
+            # in Drive looking like it still needs posting. Name it and stop.
+            print(f"  {slug}: in neither folder, most likely posted and cleared")
             missing += 1
             continue
 
@@ -161,7 +161,7 @@ def main():
 
     print(
         f"\n{moved} to move, {already} already in the right folder, "
-        f"{missing} in neither folder."
+        f"{missing} gone from Drive (posted)."
     )
     if not args.apply:
         print("\nDry run. Re-run with --apply to make these changes.")
