@@ -1,0 +1,48 @@
+name: Drive audit
+
+# Is every deck in the RIGHT Drive folder? The watchdog only ever asked whether a
+# deck existed somewhere in Drive, and a misfiled deck answers yes: four KIRP
+# decks sat in KR Carousels for two days while the heartbeat said ok.
+#
+# Read-only. It moves nothing. The Drive reorg Action is what fixes what this
+# finds.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Only audit decks whose slug carries this date (blank = every deck)"
+        type: string
+        default: ""
+
+concurrency:
+  group: drive-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Drive client
+        run: pip install --quiet google-api-python-client google-auth google-auth-oauthlib
+
+      - name: Audit
+        env:
+          GOOGLE_OAUTH_CLIENT_ID: ${{ secrets.GOOGLE_OAUTH_CLIENT_ID }}
+          GOOGLE_OAUTH_CLIENT_SECRET: ${{ secrets.GOOGLE_OAUTH_CLIENT_SECRET }}
+          GOOGLE_OAUTH_REFRESH_TOKEN: ${{ secrets.GOOGLE_OAUTH_REFRESH_TOKEN }}
+          DRIVE_CAROUSELS_FOLDER_ID: ${{ secrets.DRIVE_CAROUSELS_FOLDER_ID }}
+          DRIVE_KIRP_FOLDER_ID: ${{ secrets.DRIVE_KIRP_FOLDER_ID }}
+          AUDIT_DATE: ${{ inputs.date }}
+        run: |
+          set -euo pipefail
+          if [ -n "$AUDIT_DATE" ]; then
+            python3 scripts/drive_audit.py --date "$AUDIT_DATE"
+          else
+            python3 scripts/drive_audit.py
+          fi
