@@ -417,7 +417,7 @@ function generateScript(apiKey, brief, reply, pick) {
     "Here is this morning's Walk & Talk brief I emailed D.J.:\n\n" + brief +
     "\n\n---\n\nD.J. replied:\n\n" + reply +
     "\n\nHe is choosing option " + pick +
-    ". First stress-test that option's facts with web search, correct anything wrong or unverifiable, then write the full repo-format walk-and-talk script directly in your reply. Work in any note he added.";
+    ". Run all four passes on it -- draft, stress test (web search, correct anything wrong or unverifiable), EP polish, council review -- then put the finished v3 script plus its Council Review block directly in your reply. Work in any note he added.";
 
   let messages = [{ role: 'user', content: userMsg }];
   let corrections = 0;
@@ -430,7 +430,11 @@ function generateScript(apiKey, brief, reply, pick) {
       muteHttpExceptions: true,
       payload: JSON.stringify({
         model: MODEL,
-        max_tokens: 6000,
+        // Was 6000, which a script alone already filled. Pass 4 appends a
+        // Council Review block on top of that, and a truncated file now fails
+        // the section check (no Council Review) and burns the format
+        // correction instead of quietly mailing half a script.
+        max_tokens: 12000,
         // System block is cached (stable prefix); brief/reply live in the user turn so they never invalidate it
         system: [{ type: 'text', text: VOICE_SYSTEM_PROMPT, cache_control: { type: 'ephemeral' } }],
         tools: [
@@ -489,13 +493,22 @@ function generateScript(apiKey, brief, reply, pick) {
 // The sections a real script always has and a progress report never does.
 // Kept to structural markers from the format spec, not word counts -- a short
 // script is fine, a script with no Data Source block is not.
+//
+// ## Council Review is on this list for a second reason beyond format. Pass 4
+// is the one pass with no other evidence that it ran: a stress test shows up as
+// corrected numbers and an EP polish shows up as a tighter close, but a council
+// review that got skipped looks exactly like a script. The block is the only
+// proof, so its absence is treated as a missing deliverable, not a stylistic
+// preference. Same principle as the rest of this file -- check the artifact,
+// not the claim.
 function missingScriptSections(text) {
   const required = [
     { label: 'YAML frontmatter', re: /^---\r?\n[\s\S]*?\r?\n---\r?\n/ },
     { label: '### HOOK',          re: /^###\s+HOOK\b/m },
     { label: '## Data Source',    re: /^##\s+Data Source\b/m },
     { label: '## AI Music Prompt',re: /^##\s+AI Music Prompt\b/m },
-    { label: '## Social Media',   re: /^##\s+Social Media\b/m }
+    { label: '## Social Media',   re: /^##\s+Social Media\b/m },
+    { label: '## Council Review', re: /^##\s+Council Review\b/m }
   ];
   return required
     .filter(function (s) { return !s.re.test(text); })
@@ -509,10 +522,12 @@ const FORMAT_CORRECTION =
   'to D.J. verbatim and is the only copy of the script that will ever exist. ' +
   'What you just sent means he received nothing.\n\n' +
   'Send the finished markdown file now: start at the opening --- of the ' +
-  'frontmatter, end after the Facebook caption. No preamble, no summary of ' +
-  'your fact-checking, no closing commentary. Anything you corrected during ' +
-  'the stress test belongs in the WOW paragraph and the Data Source ' +
-  'fabrication audit, which are inside the file.';
+  'frontmatter, end after the dissent line of the Council Review block. No ' +
+  'preamble, no summary of your fact-checking, no closing commentary. All four ' +
+  'passes run silently and leave their evidence inside the file: corrections ' +
+  'from the stress test go in the WOW paragraph and the Data Source ' +
+  'fabrication audit, and the council round becomes the ## Council Review ' +
+  'block at the end. Nothing about the passes is narrated outside the file.';
 
 // Errors carry a `retryable` flag so the caller knows whether spending another
 // attempt is worth anything. Without it a momentary 529 was written into the
@@ -548,10 +563,37 @@ HOW YOUR ANSWER REACHES HIM — READ THIS FIRST:
 Your reply text is pasted straight into an email to D.J. It is the only copy of the script that will ever exist. You are a single API call with web search and nothing else: no filesystem, no repo, no commits, no exports, no "saving" anything anywhere. Nobody is on the other end to run a follow-up step.
 So: never claim you wrote, saved, exported, drafted, or filed anything, and never name a file as if it exists. Never send a status report, a summary of your fact-checking, or a note about what you would produce. If the finished script is not literally in your response, D.J. opens his email and finds nothing, and the day's video does not get made.
 
-STEP 1 — STRESS TEST (do this first, silently, using web_search and web_fetch):
-Verify EVERY factual claim, number, date, dollar figure, and named source in the chosen option. Open the brief's cited source URL when you can. If a figure is wrong, stale, or you cannot confirm it from a reputable source, CORRECT it to the verified value and cite the real source. Never reproduce a number you could not confirm. Prefer primary/authoritative sources: Freddie Mac, NAR, Illinois Realtors, Chicago Agent Magazine, Crain's, Block Club, court dockets, McKinsey, company filings. Do not round ("about 6.5%" is wrong if the source says 6.65%).
+THE FOUR PASSES — ALL FOUR, EVERY TIME, IN THIS ORDER:
+This is the same build D.J. gets in Claude Code, and the passes are non-negotiable there. Even when the first draft looks strong, never skip to delivery. Run every pass silently and never narrate them. Your visible output is the finished v3 script followed by one Council Review block, and nothing else.
 
-STEP 2 — OUTPUT THE FULL SCRIPT AS YOUR ENTIRE RESPONSE. Your first character is the opening --- of the frontmatter and your last is the end of the Facebook caption. No preamble, no commentary about your searching, no sign-off. Corrections you made during the stress test go in the WOW paragraph and the Data Source fabrication audit, which are inside the file. Match this exact structure:
+PASS 1 — DRAFT.
+Build the chosen option on the Viral 3-Act Spine: HOOK (stop the scroll AND promise the payoff, opening a loop) -> STORY (a middle with a real turn, not a briefing) -> PAYOFF (resolve the loop, then "here's what you do now," then loop back to the hook). Pick a hook family on purpose and log it as hook_family in the frontmatter. Pick a visual open on purpose and log it as pattern_interrupt. Write the AI Music Prompt and all five captions in this pass, not as an afterthought.
+
+The nine hook families (this is the first SPOKEN line, never on-screen text):
+1 Mirror, name their private behavior. 2 Sacred Cow, attack a sacred practice. 3 Defector, credential versus claim. 4 System Indictment, indict the system and defend them. 5 Confession, "I was wrong about...". 6 Named Stakes, a real number or name or moment. 7 Forbidden, the thing nobody tells them. 8 Cohort Callout, name a professional cohort. 9 Swap/List, "don't say X, say Y" (the save magnet).
+Friction always points OUTWARD at a belief, tool, practice, or system. You stand next to the agent, never across from them. Families 2 and 4 run hot and the week only has room for one hot post, which is already spoken for elsewhere; you cannot see that schedule, so use them only when the news itself is the friction.
+
+The seven pattern interrupts, all one-handed and mid-walk on a selfie stick: The Stop, Push-In, Whip, Walk-Toward, One Prop, Location Cold-Open, Gesture-On-Beat. Prefer Location Cold-Open when the story is on-site.
+
+PASS 2 — STRESS TEST (this is where web_search and web_fetch belong).
+Story Pass FIRST. Does Act 2 have a real turn? Run the reorder test: if the sentences can be shuffled without breaking it, it is a list, not a story, so find the turn and rebuild. Does every line micro-loop into the next, or are there sitters to cut? Does the payoff deliver the exact thing the hook promised? No invented scene, character, detail, or quote to make the middle land.
+Then the scroll-stop test. Read ONLY the first spoken line, alone. Does it stop the scroll in three seconds by itself, or is it warm-up? Front-load the tension in the first three to five words. Captions are generated from the audio, so a hook that needs a text overlay does not exist. No "hey guys," no throat-clearing sentence in front of it.
+Then the fact check. Verify EVERY factual claim, number, date, dollar figure, and named source. Open the brief's cited source URL when you can. If a figure is wrong, stale, or you cannot confirm it from a reputable source, CORRECT it to the verified value and cite the real source. Never reproduce a number you could not confirm. Prefer primary/authoritative sources: Freddie Mac, NAR, Illinois Realtors, Chicago Agent Magazine, Crain's, Block Club, court dockets, McKinsey, company filings. Do not round ("about 6.5%" is wrong if the source says 6.65%).
+Then the AI-tells scrub. The banned vocabulary below is absolute. The rhetorical moves are rationed, not banned: at most ONE "it's not X, it's Y," ONE Rule of Three, ONE "here's the [adjective] part" per script. One lands, three read as a machine.
+Fix everything that fails here before you polish.
+
+PASS 3 — EP POLISH.
+Cut to length; every second is earned or it goes. Sharpen the Shareable Moment into one line an agent would actually forward to another agent. Read the CLOSE aloud and kill any motivational-poster ending. Then run every caption and its hashtag block through the scrub: zero em-dashes and zero double-hyphens in captions, no AI-speak throat-clearing, hashtag caps built fresh. What comes out of this pass is v3.
+
+PASS 4 — COUNCIL REVIEW.
+Run v3 past the Short-Form Council. Convene the four to seven members with the most at stake for THIS script, not all twelve (a friction news script: Byron leads, Hormozi, MrBeast and Berger weigh in). Embody them, do not blend them: if everyone agrees, you ran the round wrong. Each says what they would CHANGE, in character, in one line.
+The board. Hormozi, value density: where is the reward, and boredom is the only enemy. MrBeast, retention to the second: do the first three seconds earn the next, and where does the re-hook land before attention decays. Brendan Kane, the hook is a testable device: which family is this and where is the second variant, your first hook is never your best. GaryVee, native and current: does this smell like an ad or like the platform. Donald Miller, clarity: who is the hero, one problem and one plan, two CTAs is zero CTAs. Byron Lazine, the newsjacker: what is the take and is it fast enough to own the story. Eric Simon, relatability: will one agent send this to another and say "this is us." Justin Welsh, sustainable solo: can D.J. run this every day, alone, on a selfie stick. Jon Youshaei, platform mechanics: what is the pattern interrupt and what proven format is this remixing. Chris Do, the human: where is the one honest line that costs something and earns the follow.
+Two research witnesses, called only when someone makes a mechanism claim. Heath (Made to Stick) rules on any "this creates curiosity": did you OPEN the loop before closing it, and are you the tapper assuming the agent already hears the tune in your head. Berger (Contagious) rules on any "this will get shared": is the emotion HIGH-arousal (awe, anger, anxiety, excitement, amusement, never low-arousal sadness or contentment), is there Social Currency, and if an agent retells this in one sentence does D.J.'s point survive.
+Surface the one real disagreement and resolve it against this script's actual goal (reach vs saves vs follows vs reshares), rather than papering over it.
+Four things the board never gets to do: add on-screen text, undo a Pass 3 scrub, propose a CTA that is an engagement ask ("comment YES," "save this," "follow for more"), or suggest anything needing a crew or a budget. One more hard check: D.J. does not practice real estate, so no first-person story may have him performing an agent action. If the script needs a practitioner, it should have been someone else's story, and that fix goes in the dissent line.
+All of this happens silently. The only thing that reaches the page is the Council Review block at the end of the file.
+
+FINALLY — OUTPUT THE FULL FILE AS YOUR ENTIRE RESPONSE. Your first character is the opening --- of the frontmatter and your last is the end of the Council Review dissent line. No preamble, no commentary about your searching, no pass-by-pass report, no sign-off. Corrections you made during the stress test go in the WOW paragraph and the Data Source fabrication audit, which are inside the file. Match this exact structure:
 
 ---
 series: "Inside the Industry"
@@ -560,6 +602,8 @@ script_number: "NF-TBD"
 title: "<headline-style title>"
 avatar: "All"
 content_pillar: "market_intelligence"
+hook_family: "<the family number and name you chose in Pass 1>"
+pattern_interrupt: "<the visual open you chose in Pass 1>"
 post_date: "<the brief's date, YYYY-MM-DD>"
 status: "draft"
 ---
@@ -621,6 +665,13 @@ HASHTAG CAPS (apply to every caption, do not copy counts from older scripts):
 - LinkedIn, Instagram Reels, TikTok, YouTube Shorts: 3-5 hashtags each.
 - Facebook: 2-3 hashtags.
 - Realtor-first tags. Exactly ONE brand tag (#InsideTheIndustry or #KeepingItRealPodcast). Drop the long tail (#RealtorLife, #RealEstateCoaching, #realtortok, generic community tags). Fewest hashtags that still categorize the post; do the discovery work with a real search keyword in the first line, not a tag stack.
+
+## Council Review
+The last block in the file and the entire visible output of Pass 4. Keep it tight and do NOT restate the script.
+**Scroll-stop variants (spoken, pick one to A/B):** three numbered alternate first spoken lines, each tagged with the hook family it uses and the Berger emotion it runs on. These are the A/B fuel, so they must be genuinely different devices, not three rewordings of the line already in the script.
+**Pattern interrupt:** the confirmed visual open, or a better fit if the board upgraded it.
+**Why it should work:** exactly three bullets, one line each. Hook mechanism (Heath). Share/save driver (Berger/Hormozi). Retention move (MrBeast).
+**The dissent (your next A/B test):** the one member still objecting, named, plus the single experiment to run because of it. Never "the board agreed" -- a round with no dissent was run wrong, so go back and find it.
 
 VOICE RULES (non-negotiable):
 - First person always. Short sentences (11-15 word avg, 25 max). Contractions always.

@@ -109,8 +109,42 @@ only copy that will ever exist. A second miss throws **non-retryable**, so D.J.
 gets the "could not be scripted" email instead of confident prose. The system
 prompt now leads with that same fact before it says anything about scripts.
 
-This also catches truncation. `max_tokens: 6000` cuts a long script off
-mid-captions, which used to mail a half-written script that read as complete.
+This also catches truncation. A `max_tokens` that a long script overruns cuts it
+off mid-captions, which used to mail a half-written script that read as complete.
+
+## The email path runs all four passes (2026-08-15)
+
+Until this date the emailed script was quietly weaker than the one D.J. gets in
+Claude Code. The system prompt had exactly two steps -- stress test, then output
+-- so **EP-polish and the council review never ran on the email path at all**,
+and nothing checked for them. The two channels build the same thing from the
+same brief, so they now run the same four passes:
+
+| Pass | What it does | How you can tell it ran |
+| --- | --- | --- |
+| 1 Draft | 3-act spine, deliberate `hook_family` + `pattern_interrupt` | those two frontmatter fields |
+| 2 Stress test | Story Pass, scroll-stop test, fact check, AI-tells scrub | corrected figures in the Data Source audit |
+| 3 EP-polish | length, shareable line, close read aloud, caption + hashtag scrub | *nothing* |
+| 4 Council review | ten doctrines + two witnesses pressure-test v3 | the `## Council Review` block |
+
+The order matches [`../short-form-council-pass.md`](../short-form-council-pass.md):
+council is **last** and appends beneath the finished v3, so it never undoes a
+Pass-3 scrub.
+
+`missingScriptSections()` now also requires `## Council Review`, and that is a
+delivery check, not a formatting preference. **Pass 4 is the only pass with an
+artifact.** A stress test leaves corrected numbers behind and an EP-polish leaves
+a tighter close, but a council review that silently didn't happen produces a file
+indistinguishable from one where it did. The block is the sole evidence, so its
+absence gets the same correction turn as the Aug 12 prose reply. Pass 3 remains
+unverifiable from the output — that is a known hole, not an oversight.
+
+The board, the nine hook families, and the seven pattern interrupts are inlined
+in the system prompt because this generator has no repo access and cannot read
+`short-form-council-pass.md`, `hook-matrix-cheatsheet.md`, or
+`pattern-interrupt-cheatsheet.md`. **Those four files are now a contract, the
+same way the subject line is.** Change a hook family or a council doctrine in the
+docs and the email path keeps using the old one until someone edits the `.gs`.
 
 ## The alarm
 
@@ -145,16 +179,19 @@ the 5-minute reply watcher.
 - **Claude Opus 5 (`claude-opus-5`) is current and costs the same** ($5/$25 per
   million tokens), and is a better model for this job.
 - **It is not a one-line swap.** On Opus 5 adaptive thinking is on by default,
-  and `max_tokens` caps thinking *plus* response text together. This project
-  sets `max_tokens: 6000`, which a full script already fills, so an unchanged
-  swap would truncate scripts mid-section. Raise `max_tokens` in the same change
-  (16000 is a safe start for a non-streaming request).
+  and `max_tokens` caps thinking *plus* response text together. Adding the four
+  passes raised `max_tokens` from 6000 to **12000** (a full script already filled
+  6000; the Council Review block sits on top of it). On Opus 5 that same 12000
+  has to cover thinking as well, so raise it again in the same change -- 16000 is
+  a safe start for a non-streaming request.
 
-Also worth knowing: the cached system prompt is roughly 1,700 tokens, and Opus
-4.7's minimum cacheable prefix is **2048 tokens** -- so the `cache_control`
-marker on it is probably doing nothing today. Opus 5 drops that minimum to 512,
-which would make the cache start working. The generator already logs
-`cache_read=` on every call, so the execution log confirms it either way.
+Also worth knowing: the cached system prompt was roughly 1,700 tokens, under Opus
+4.7's **2048-token** minimum cacheable prefix, so the `cache_control` marker on it
+was doing nothing. The four-pass rewrite took it to roughly **3,150 tokens**,
+which clears that floor and should make the cache start working. The generator
+logs `cache_read=` on every call, so the execution log confirms it -- if that
+number is still 0 after a few days of picks, the marker is still inert and worth
+a look. (Opus 5 drops the minimum to 512, so this stops mattering on a swap.)
 
 ### Why two send triggers
 

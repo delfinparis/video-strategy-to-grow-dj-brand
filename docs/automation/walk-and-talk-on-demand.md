@@ -3,6 +3,13 @@
 This covers the **build half** only: how Claude turns a chosen option into a
 finished v3 script. Selection and the build happen on demand, on any device.
 
+**The email path builds the same way.** When D.J. replies to the morning brief
+with a number, the Apps Script generator runs these same four passes and returns
+v3 plus its `## Council Review` block. Its copy of the rules is inlined in the
+system prompt in `scripts/apps-script/walk-and-talk-project.gs`, because that
+generator is one API call with no repo access. **If you change a pass here,
+change it there too, or the two channels drift.**
+
 For **how the morning options are produced and delivered**, see
 [`walk-and-talk-delivery.md`](walk-and-talk-delivery.md). Read that one before
 debugging a missing brief.

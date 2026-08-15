@@ -14,6 +14,14 @@ No em dashes in captions, AI Music Prompt stays, 300-char CapCut cap, hashtag
 caps, NF source rigor. The council sharpens within those rules, never around
 them.
 
+**Two places run this pass.** The on-demand build in Claude Code reads this file.
+The email path (D.J. replies to the morning brief with a number) is a single API
+call with no repo access, so it carries a condensed copy of the board inlined in
+the system prompt of `scripts/apps-script/walk-and-talk-project.gs`. Edit a
+doctrine here and it must be edited there too, or the emailed scripts keep
+convening the old board. See
+[`automation/walk-and-talk-delivery.md`](automation/walk-and-talk-delivery.md).
+
 **Deep-reference note.** The full council, with book-backed distillations
 (Hook Point, The Guide to Going Viral, Made to Stick, Contagious, the MrBeast
 production doc), lives in the LOCAL skill at `~/.claude/skills/short-form-council`.

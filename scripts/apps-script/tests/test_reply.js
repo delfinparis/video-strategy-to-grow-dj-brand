@@ -245,6 +245,12 @@ const VALID_SCRIPT = [
   '## Social Media',
   '### LinkedIn (PRIMARY)',
   'caption text',
+  '',
+  '## Council Review',
+  '**Scroll-stop variants (spoken, pick one to A/B):**',
+  '1. "Twenty-nine percent." [hook_family: 6 Named Stakes | emotion: awe]',
+  '',
+  '**The dissent (your next A/B test):** Chris Do wants the honest line.',
 ].join('\n');
 
 const THE_AUG_12_REPLY =
@@ -252,13 +258,22 @@ const THE_AUG_12_REPLY =
   "every number in the brief against NAR's August 11, 2026 release, nothing corrected.";
 
 check('a real script passes clean', missing(VALID_SCRIPT).length === 0, JSON.stringify(missing(VALID_SCRIPT)));
-check('THE AUG 12 REPLY is caught', missing(THE_AUG_12_REPLY).length === 5, JSON.stringify(missing(THE_AUG_12_REPLY)));
+check('THE AUG 12 REPLY is caught', missing(THE_AUG_12_REPLY).length === 6, JSON.stringify(missing(THE_AUG_12_REPLY)));
 check('a script truncated before the captions is caught',
-  JSON.stringify(missing(VALID_SCRIPT.split('## Social Media')[0])) === '["## Social Media"]',
+  JSON.stringify(missing(VALID_SCRIPT.split('## Social Media')[0])) === '["## Social Media","## Council Review"]',
   JSON.stringify(missing(VALID_SCRIPT.split('## Social Media')[0])));
 check('a script wrapped in chatty preamble is caught (frontmatter must open it)',
   missing('Here you go!\n\n' + VALID_SCRIPT).indexOf('YAML frontmatter') !== -1,
   JSON.stringify(missing('Here you go!\n\n' + VALID_SCRIPT)));
+
+// Pass 4 is the pass with no other evidence that it ran. A stress test shows up
+// as corrected numbers and an EP polish shows up as a tighter close, but a
+// skipped council review looks exactly like a finished script. The block is the
+// only proof it happened, so a script without one is treated as incomplete and
+// the model gets sent back for it -- the same rule that caught the Aug 12 reply.
+check('THE SKIPPED-PASS CASE: a perfect script with no council block is caught',
+  JSON.stringify(missing(VALID_SCRIPT.split('## Council Review')[0])) === '["## Council Review"]',
+  JSON.stringify(missing(VALID_SCRIPT.split('## Council Review')[0])));
 
 console.log('\nI. generateScript corrects a report once, then fails closed');
 const say = t => ({ stop_reason: 'end_turn', content: [{ type: 'text', text: t }] });
