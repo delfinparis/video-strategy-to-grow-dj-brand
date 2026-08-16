@@ -1,13 +1,7 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "status": "ok",
   "checked": {"repo": true, "drive": true},
   "missing": [],
-  "repaired": [
-    "KIRP-2026-08-15-hold-your-number-swap-carousel: moved from 'KR Carousels' to 'KIRP Carousels'",
-    "KIRP-2026-08-15-late-price-cut-mistake-carousel: moved from 'KR Carousels' to 'KIRP Carousels'",
-    "KIRP-2026-08-14-chicago-balanced-market-carousel: moved from 'KR Carousels' to 'KIRP Carousels'",
-    "KIRP-2026-08-14-senior-housing-wealth-carousel: moved from 'KR Carousels' to 'KIRP Carousels'"
-  ],
-  "note": "Both KIRP decks built correctly and reached Drive but were misfiled under KR Carousels, as did 2026-08-14's pair. Cause: drive_sync routed on lane, and the daily engine uses lane for the content type. Routing now reads the KIRP-/KR- slug prefix, and the Drive reorg Action moved all four decks into KIRP Carousels. Verified by scripts/drive_audit.py, which checks the parent folder rather than existence."
+  "note": "All six items present and correct in both repo and Drive: 2 KIRP decks and 2 KR decks with 5 slides each, plus the GBP image and caption."
 }
