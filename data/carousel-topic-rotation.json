@@ -10,8 +10,8 @@
   "topics": [
     {"type": "market-tip", "last_used": "2026-08-16"},
     {"type": "stat", "last_used": "2026-08-14"},
-    {"type": "do-this-dont-do-that", "last_used": "2026-08-15"},
-    {"type": "dont-make-this-mistake", "last_used": "2026-08-15"},
+    {"type": "do-this-dont-do-that", "last_used": "2026-08-17"},
+    {"type": "dont-make-this-mistake", "last_used": "2026-08-17"},
     {"type": "kirp-guest-tip", "last_used": "2026-08-16"}
   ]
 }
