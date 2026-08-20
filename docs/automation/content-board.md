@@ -89,12 +89,24 @@ python3 scripts/content_board.py footer --lane Take --ref "sacred-cows.md #2"
 `board.json` is the snapshot the routine exports from Notion before planning:
 
 ```json
-[{"url": "...", "lane": "News", "status": "Open",
-  "hook": "...", "expires": "2026-08-22", "has_body": false}]
+[{"url": "...", "lane": "News", "status": "Open", "hook": "...",
+  "expires": "2026-08-22", "has_body": false, "ref": "news-briefs/2026-08-20.md #1"}]
 ```
 
-`has_body` is true only when the page already contains a `## Script` heading.
-An empty page, or a page holding only an angle, is `false`.
+`ref` is the bank pointer read back out of the page footer, or `null`. It is how
+the mirror lanes below know a committed script is already on the board.
+
+`has_body` is true when the page carries **any** heading from
+`python3 scripts/content_board.py body-markers`:
+
+```
+## Script            board-native rows
+## Spoken Script     podcast promos
+## Full Script       Chicago spotlights
+```
+
+The series have never agreed on one heading. Checking only for `## Script` would
+mark every mirrored row empty and rewrite a good script on top of itself.
 
 ---
 
@@ -121,8 +133,8 @@ Where candidates come from:
 | Take | `data/take-briefs/<latest>.md`, `data/sacred-cows.md` |
 | Broker Problems | `docs/content-pillars.md` + a live receipt from web search |
 | Stupid Things | `python3 scripts/stupid_things.py pick --count N` |
-| Agent Spotlight | scout live per `docs/series/chicago-agent-spotlight-standard.md` |
-| KIRP Episode | `python3 scripts/kirp_source.py --peek` |
+| Agent Spotlight | **mirrored** from `scripts/chicago-agent-spotlight/` — see below |
+| KIRP Episode | **mirrored** from `scripts/podcast-promos/kir-*.md` — see below |
 
 > **Broker Problems has no bank file.** The rows loaded on 2026-08-19 cite
 > `brokerage-pain.md`, which does not exist in this repo and never did. Those
@@ -132,6 +144,54 @@ Where candidates come from:
 > with the number and a shrug.
 
 ---
+
+## The two mirror lanes: Agent Spotlight and KIRP Episode
+
+These two lanes are **not researched here**, and adding research for them would
+be a mistake. Both already have a producing routine that does the scouting and
+commits a finished walk-and-talk to this repo:
+
+| Lane | Producing routine | Lands in |
+|---|---|---|
+| Agent Spotlight | `trig_01Fr5tCSZnfhxSXtSPEcCVhe` — Weekly Chicago Agent Spotlight, Mon 6am CT | `scripts/chicago-agent-spotlight/<agent>-<date>.md` |
+| KIRP Episode | `trig_01S1nWLHuJ3jYLg7BzyC9Kaf` — Daily KIR episode → walk-and-talk promo, 7am CT | `scripts/podcast-promos/kir-<guest>-<date>.md` |
+
+So the board **mirrors the committed file** rather than scouting the same agent
+or guest a second time. If the board did its own research here, two routines
+would pick two different Chicago agents in the same week and D.J. would have to
+work out which one was real.
+
+```
+python3 scripts/content_board.py mirror --board board.json
+```
+
+For each mirror lane it reports what is on the board, how much room is left to
+target, how many committed scripts are not on the board yet, the parsed rows to
+post (newest first, by the date in the filename), and how many it held back.
+
+Each parsed row gives you the whole thing:
+
+- **Hook** — the first line D.J. actually says, taken from under the script
+  heading, past any `**HOOK (0:00-0:08)**` beat label. Not the frontmatter title
+  and not the H1: neither of those is what stops a scroll.
+- **Angle** — the file's `> **WOW:**` note, which is already a one-line statement
+  of why the script exists.
+- **Heat** — 2. Both lanes are amplification plays, not friction plays.
+- **Body** — the file at `body_path`, posted as the page body.
+- **Expires** — empty. A promo and a spotlight both keep.
+
+**The repo path is the dedupe key**, not the hook text, and it is matched against
+rows at *every* status. An episode already Posted can never reappear as a new
+row. This is stronger than `check-hook`, so mirror rows skip that check.
+
+**Post the file as-is.** Do not re-run the four passes on a mirrored script —
+its producing routine already ran its own standard, the spotlight carries
+`## Verified Tags` and a post-publish DM that the board template has no slot for,
+and rewriting it would silently fork the script from the file D.J.'s other
+tooling reads. Mirror lanes are the one exception to the body template below.
+
+**A held-back script is not a lost one.** It waits in the repo and gets mirrored
+when a row ahead of it goes Posted. That is the point of the shelf.
 
 ## The page body: what "ready to film" means
 
@@ -179,9 +239,13 @@ Notion connector and this repo.
    - **fill** — for every row in `fill[]`, write the full v3 body. This comes
      first among the writes: a row already on the board that D.J. might open
      today matters more than a row that does not exist yet.
+   - **mirror** — run `content_board.py mirror` and post every row in each
+     lane's `post[]`, using the file at `body_path` as the page body, unchanged.
+     This runs before `need`, because it costs no research.
    - **need** — add new rows per lane, each one created *with its body already
      written*. Run `check-hook` on every candidate hook before creating it; an
-     exit 11 candidate is dropped, not reworded.
+     exit 11 candidate is dropped, not reworded. Agent Spotlight and KIRP
+     Episode never appear here — `mirror` owns them.
 4. Report what changed in one short block. Email only on failure.
 
 **The failure mode this system is built against:** a check confirms rows exist

@@ -37,9 +37,22 @@ Usage:
   python3 scripts/content_board.py footer --lane News --ref "news-briefs/2026-08-20.md #1"
       The exact footer line to paste at the bottom of a page body.
 
+  python3 scripts/content_board.py mirror --board board.json
+      The two lanes that are NOT researched here. Agent Spotlight and KIRP
+      Episode already have their own producing routines, which commit finished
+      scripts to the repo. This lists the committed scripts that are not on the
+      board yet, parsed and ready to post, newest first.
+
+  python3 scripts/content_board.py body-markers
+      The headings that count as "this page has a script". Series differ:
+      podcast promos head it `## Spoken Script`, spotlights `## Full Script`.
+
 board.json is the snapshot the routine exports from Notion before planning:
-  [{"url": "...", "lane": "News", "status": "Open",
-    "hook": "...", "expires": "2026-08-22", "has_body": false}, ...]
+  [{"url": "...", "lane": "News", "status": "Open", "hook": "...",
+    "expires": "2026-08-22", "has_body": false, "ref": "news-briefs/..."}, ...]
+
+`ref` is the bank pointer read back out of the page footer, or null. It is how
+the mirror lanes know a committed script is already on the board.
 
 Dependencies: none (standard library only).
 """
@@ -88,8 +101,9 @@ SOURCES = {
     "Take": ["data/take-briefs/<latest>.md", "data/sacred-cows.md"],
     "Broker Problems": ["docs/content-pillars.md", "web search for the receipt"],
     "Stupid Things Realtors Do": ["python3 scripts/stupid_things.py pick --count N"],
-    "Agent Spotlight": ["docs/series/chicago-agent-spotlight-standard.md (scout live)"],
-    "KIRP Episode": ["python3 scripts/kirp_source.py --peek"],
+    # Mirror lanes: never researched here, only mirrored. See `mirror`.
+    "Agent Spotlight": ["MIRROR scripts/chicago-agent-spotlight/"],
+    "KIRP Episode": ["MIRROR scripts/podcast-promos/kir-*.md"],
 }
 
 # Lanes whose rows rot. Everything else waits on the shelf indefinitely.
@@ -97,6 +111,33 @@ PERISHABLE = {"News": 3, "Agent Tip": 7}
 
 LIVE_STATUSES = {"Open", "Picked"}
 FOOTER_PREFIX = "Bank ref:"
+
+# A page counts as having a script if it carries any of these. The series do not
+# agree on one heading and never have: podcast promos head it `## Spoken Script`,
+# Chicago spotlights `## Full Script (Spoken)`, board-native rows `## Script`.
+# Checking only for `## Script` would mark every mirrored row empty and rewrite a
+# perfectly good script on top of itself.
+SCRIPT_HEADINGS = ("## Script", "## Spoken Script", "## Full Script")
+
+# The two lanes this board does NOT research. Both already have a producing
+# routine that commits a finished walk-and-talk to the repo, so the board mirrors
+# the committed file instead of scouting the same guest or agent a second time.
+# The repo path is the dedupe key, which is stronger than hook text: an episode
+# already Posted can never come back as a new row.
+MIRROR_LANES = {
+    "KIRP Episode": {
+        "dir": "scripts/podcast-promos",
+        "pattern": r"^kir-.+\.md$",
+        "heat": 2,
+        "producer": "trig_01S1nWLHuJ3jYLg7BzyC9Kaf (Daily KIR episode -> walk-and-talk promo)",
+    },
+    "Agent Spotlight": {
+        "dir": "scripts/chicago-agent-spotlight",
+        "pattern": r"^(?!README).+\.md$",
+        "heat": 2,
+        "producer": "trig_01Fr5tCSZnfhxSXtSPEcCVhe (Weekly Chicago Agent Spotlight)",
+    },
+}
 
 STOPWORDS = {
     "a", "an", "and", "are", "as", "at", "be", "because", "but", "by", "for",
@@ -267,6 +308,131 @@ def cmd_footer(args):
     return 0
 
 
+
+def split_sentences(text):
+    return [t.strip() for t in re.split(r"(?<=[.!?])\s+", text.strip()) if t.strip()]
+
+
+def parse_script_file(path, lane, heat):
+    """Pull the board row out of a finished script file.
+
+    The hook is the first thing D.J. actually says, which is not in the
+    frontmatter and not the H1 -- it is the first prose line under the script
+    heading, past any `**HOOK (0:00-0:08)**` beat label.
+    """
+    with open(path) as fh:
+        body = fh.read()
+
+    lines = body.splitlines()
+    start = None
+    for i, line in enumerate(lines):
+        if line.startswith(SCRIPT_HEADINGS):
+            start = i + 1
+            break
+    if start is None:
+        return None  # not a script file (a registry, a README, a brief)
+
+    spoken = ""
+    for line in lines[start:]:
+        stripped = line.strip()
+        if not stripped or stripped.startswith(("#", ">", "*Production", "|")):
+            continue
+        if re.fullmatch(r"\*\*[A-Z][A-Za-z ]*\(?[0-9:\-\. ]*\)?\*\*", stripped):
+            continue  # a beat label, not a spoken line
+        if stripped.startswith("---"):
+            break
+        spoken = stripped
+        break
+    if not spoken:
+        return None
+
+    sentences = split_sentences(spoken)
+    hook = sentences[0] if sentences else spoken
+    if len(hook) < 60 and len(sentences) > 1:
+        hook = f"{hook} {sentences[1]}"
+
+    # The WOW note is the one-line reason this script exists, which is exactly
+    # what the Angle column wants. Take the WHOLE blockquote, not the bolded
+    # head of it -- spotlights bold only a two-word label ("Person + lesson.")
+    # and put the substance after the closing asterisks.
+    angle = ""
+    for i, line in enumerate(lines):
+        if re.match(r"^>\s*\*\*WOW", line):
+            quote = []
+            for follow in lines[i:]:
+                if not follow.startswith(">"):
+                    break
+                quote.append(follow.lstrip("> ").strip())
+            text = " ".join(quote)
+            text = text.replace("**", "")
+            text = re.sub(r"^WOW:?\s*", "", text)
+            angle = " ".join(split_sentences(text)[:2])
+            break
+    if not angle:
+        title = re.search(r'^title:\s*"(.+?)"', body, re.M)
+        angle = title.group(1) if title else hook
+
+    return {
+        "ref": os.path.relpath(path, BASE_DIR),
+        "lane": lane,
+        "hook": re.sub(r"\s+", " ", hook).strip(),
+        "angle": re.sub(r"\s+", " ", angle).strip()[:400],
+        "heat": heat,
+        "body_path": os.path.relpath(path, BASE_DIR),
+    }
+
+
+def cmd_mirror(args):
+    rows = load_board(args.board)
+    # Every ref ever seen, at ANY status. A Posted episode must not come back.
+    claimed = {r.get("ref") for r in rows if r.get("ref")}
+    live_counts = {}
+    for row in rows:
+        if row["status"] in LIVE_STATUSES:
+            live_counts[row["lane"]] = live_counts.get(row["lane"], 0) + 1
+
+    out = {}
+    for lane, cfg in MIRROR_LANES.items():
+        directory = os.path.join(BASE_DIR, cfg["dir"])
+        candidates = []
+        if os.path.isdir(directory):
+            # Names are `<guest-or-agent>-<YYYY-MM-DD>.md`, so a plain reverse
+            # sort orders by guest name and buries the newest episode. Sort on
+            # the date the filename actually carries.
+            def file_date(name):
+                found = re.search(r"(\d{4}-\d{2}-\d{2})", name)
+                return found.group(1) if found else "0000-00-00"
+
+            names = sorted(os.listdir(directory), key=file_date, reverse=True)
+            for name in names:
+                if not re.match(cfg["pattern"], name):
+                    continue
+                ref = os.path.join(cfg["dir"], name)
+                if ref in claimed:
+                    continue
+                parsed = parse_script_file(os.path.join(directory, name), lane, cfg["heat"])
+                if parsed:
+                    candidates.append(parsed)
+        room = max(0, TARGETS[lane] - live_counts.get(lane, 0))
+        out[lane] = {
+            "producer": cfg["producer"],
+            "on_board": live_counts.get(lane, 0),
+            "target": TARGETS[lane],
+            "room": room,
+            "available": len(candidates),
+            "post": candidates[:room],
+            "held_back": max(0, len(candidates) - room),
+        }
+    print(json.dumps(out, indent=2))
+    return 0
+
+
+def cmd_body_markers(args):
+    for heading in SCRIPT_HEADINGS:
+        print(heading)
+    return 0
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -280,6 +446,13 @@ def main():
     p.add_argument("--board", required=True)
     p.add_argument("--hook", required=True)
     p.set_defaults(fn=cmd_check_hook)
+
+    p = sub.add_parser("mirror")
+    p.add_argument("--board", required=True)
+    p.set_defaults(fn=cmd_mirror)
+
+    p = sub.add_parser("body-markers")
+    p.set_defaults(fn=cmd_body_markers)
 
     p = sub.add_parser("footer")
     p.add_argument("--lane", required=True)
