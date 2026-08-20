@@ -141,6 +141,51 @@ Cards are rendered by [`scripts/render_gbp.py`](../../scripts/render_gbp.py) at 
 which is GBP's aspect ratio. Carousel slides are 1080x1350 and **cannot** be reused as
 GBP images: the center-crop between the two eats the headline and the byline.
 
+### The GBP cards were misfiling, and nothing could see it (2026-08-20)
+
+D.J.: the GBP engine "isn't running well." It ran every morning and the heartbeat
+said ok every morning. Both were true.
+
+**What was actually happening.** `KR Carousels > gbp > image` and `> caption` were
+empty. All ten cards and their captions sat loose in the root of My Drive, next to
+Screencastify and Saved from Chrome. `2026-08-14-chicago-balanced-market.png`
+existed three times over, created 08-14, 08-15 and 08-18, because the de-dupe looks
+for an existing copy *inside the folder it is writing to* and kept not finding the
+one that had gone elsewhere.
+
+**Why no alarm.** [`drive_audit.py`](../../scripts/drive_audit.py) was written after
+the 2026-08-14 misfiling incident, on the rule stated higher up this page: *any
+Drive check has to verify the parent folder, not just existence.* It audits **decks**.
+GBP was carved out of it — the orphan scan skipped the `gbp` folder by name — so from
+the day that fix landed, the cards were the one artifact the morning check could not
+see. The rule was right and it was pointed at four fifths of the problem.
+
+`drive_audit.py` now audits cards too, with a `half-card` verdict for the case where
+the image arrived and the caption did not. Two folders exist precisely to make that
+visible; now something looks.
+
+**The mechanism is still unexplained, and that is recorded rather than guessed.**
+Every code path in this repo is correct on inspection. `DRIVE_GBP_FOLDER_ID` is not
+set, so `gbp` resolves under the carousels folder and `sync_dir` nests `image` and
+`caption` beneath it. `find_child` scopes by parent. `drive_reorg` only moves deck
+folders between the two brand folders and never writes to root. There is exactly one
+folder named `gbp` under `KR Carousels`, so a duplicate-folder race is ruled out too.
+
+A manual re-run of the same workflow, same secrets, same code, on 2026-08-20 at
+19:33 filed all 17 files correctly and reported `image: 10 new, 0 updated` — where
+the 11:46 run that morning had reported `1 new, 9 updated` and left everything at
+the root. Same inputs, different outcome, eight hours apart.
+
+**So the sync stops trusting its own request.** `upload()` reads the file's parents
+back after writing and raises if the target folder is not among them, naming the
+intended id and the actual one. That pair is the whole diagnosis and there is no
+other way to get it: the log only ever printed intent, which was the thing in doubt.
+
+The next misfile is loud and self-diagnosing. Until one happens there is nothing
+honest to write here about the cause, and a plausible story in this space would be
+worse than an admission — the last two outages on this page both started with a
+check that assumed rather than measured.
+
 ### Why OAuth and not a service account
 
 The first attempt used a service account and got as far as authenticating and
