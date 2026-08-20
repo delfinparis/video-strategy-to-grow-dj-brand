@@ -43,6 +43,11 @@ Usage:
       scripts to the repo. This lists the committed scripts that are not on the
       board yet, parsed and ready to post, newest first.
 
+  python3 scripts/content_board.py cache-known
+      Rows already known to have a body, so the routine can skip fetching those
+      pages. Returns nothing at all once the cache is a week old, forcing a full
+      re-read. Pair with cache-update after the run.
+
   python3 scripts/content_board.py body-markers
       The headings that count as "this page has a script". Series differ:
       podcast promos head it `## Spoken Script`, spotlights `## Full Script`.
@@ -66,6 +71,17 @@ from datetime import date, timedelta
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(BASE_DIR, "data")
+
+# Whether a page has a script body can only be learned by fetching the page,
+# and a filled page never empties itself. Remembering the answer turns roughly
+# thirty full-script page fetches per run into zero, and it is also a record of
+# the board that lives somewhere other than Notion.
+STATE_PATH = os.path.join(DATA, "content-board-state.json")
+
+# How long the cache is trusted before the routine re-reads every page anyway.
+# The cache can only go wrong one way -- a body deleted by hand in Notion still
+# reads as filled -- and a weekly full check is what catches that.
+STATE_MAX_AGE_DAYS = 7
 
 # How many Open rows each lane should carry. Sized off the weekly plan in
 # CLAUDE.md (15 videos/week) so the board holds roughly two weeks of runway,
@@ -109,7 +125,12 @@ SOURCES = {
 # Lanes whose rows rot. Everything else waits on the shelf indefinitely.
 PERISHABLE = {"News": 3, "Agent Tip": 7}
 
+# A row is LIVE for the purposes of killing it and filling its body -- a Picked
+# row still needs a script. It is only AVAILABLE if D.J. can still choose it.
+# Counting Picked as inventory means a lane where he has claimed everything
+# reads as full and never refills, leaving him nothing to pick from.
 LIVE_STATUSES = {"Open", "Picked"}
+AVAILABLE_STATUSES = {"Open"}
 FOOTER_PREFIX = "Bank ref:"
 
 # A page counts as having a script if it carries any of these. The series do not
@@ -155,8 +176,14 @@ def today():
 
 
 def normalize(text):
-    """Content words only, so 'Your cap you never hit' collides with 'The cap you have never once hit'."""
-    words = re.findall(r"[a-z0-9]+", (text or "").lower())
+    """Content words only, so 'Your cap you never hit' collides with 'The cap you have never once hit'.
+
+    Apostrophes are closed up rather than split on, because splitting turns
+    "you're" into the tokens "re" and "don't" into "don" + "t", and those
+    fragments then read as shared content between two unrelated hooks.
+    """
+    text = (text or "").lower().replace("'", "").replace("\u2019", "")
+    words = re.findall(r"[a-z0-9]+", text)
     return [w for w in words if w not in STOPWORDS]
 
 
@@ -168,7 +195,17 @@ def similarity(a, b):
     return len(sa & sb) / len(sa | sb)
 
 
+# Jaccard cannot separate every case, and the two error directions are not
+# equally bad. A false DUPE costs one candidate the routine can simply replace.
+# A false NOVEL puts a repeat in front of D.J. and makes the board look broken.
+# So this stays deliberately aggressive, and the near band exists to make the
+# borderline calls visible in the run log instead of silently dropped.
+#
+# Known false positive: "Your BUYERS are about to ask if rates drop" scores
+# 0.71 against "Your SELLERS are about to ask if rates drop". Same shape, real
+# difference, and word overlap cannot see it. Rejecting is the safer miss.
 DUPE_THRESHOLD = 0.6
+NEAR_THRESHOLD = 0.45
 
 
 def load_board(path):
@@ -176,7 +213,10 @@ def load_board(path):
         rows = json.load(fh)
     if not isinstance(rows, list):
         sys.exit("board.json must be a list of row objects")
-    for row in rows:
+    for i, row in enumerate(rows):
+        if not isinstance(row, dict) or not row.get("url"):
+            sys.exit(f"board.json row {i} has no url -- the snapshot is broken, "
+                     f"not the board. Re-export it before planning.")
         row.setdefault("status", "Open")
         row.setdefault("lane", "")
         row.setdefault("hook", "")
@@ -238,7 +278,7 @@ def build_plan(rows):
 
     counts = {lane: 0 for lane in TARGETS}
     for row in live:
-        if row["lane"] in counts:
+        if row["lane"] in counts and row["status"] in AVAILABLE_STATUSES:
             counts[row["lane"]] += 1
 
     need = {}
@@ -284,16 +324,21 @@ def cmd_health(args):
 
 
 def cmd_check_hook(args):
+    # Deliberately every status, not just the live ones. A hook D.J. already
+    # Posted coming back as a fresh row is the most embarrassing failure this
+    # board can have, and it is the one a live-only scan would allow.
     rows = load_board(args.board)
-    live = [r for r in rows if r["status"] in LIVE_STATUSES]
-    worst = (0.0, None)
-    for row in live:
+    worst = (0.0, None, None)
+    for row in rows:
         score = similarity(args.hook, row["hook"])
         if score > worst[0]:
-            worst = (score, row["hook"])
+            worst = (score, row["hook"], row["status"])
     if worst[0] >= DUPE_THRESHOLD:
-        print(f"DUPE {worst[0]:.2f} vs: {worst[1]}")
+        print(f"DUPE {worst[0]:.2f} vs [{worst[2]}]: {worst[1]}")
         return 11
+    if worst[0] >= NEAR_THRESHOLD:
+        print(f"NEAR {worst[0]:.2f} vs [{worst[2]}]: {worst[1]}")
+        return 0
     print(f"NOVEL (closest {worst[0]:.2f})")
     return 0
 
@@ -385,7 +430,13 @@ def parse_script_file(path, lane, heat):
 def cmd_mirror(args):
     rows = load_board(args.board)
     # Every ref ever seen, at ANY status. A Posted episode must not come back.
-    claimed = {r.get("ref") for r in rows if r.get("ref")}
+    #
+    # Matched on BASENAME, not the whole path. The ref is read back out of a
+    # page footer written by a model, and one that says "podcast-promos/x.md"
+    # instead of "scripts/podcast-promos/x.md" is not a new episode -- but exact
+    # path matching would call it one and post a duplicate. The basenames carry
+    # their own date and are unique.
+    claimed = {os.path.basename(r["ref"]) for r in rows if r.get("ref")}
     live_counts = {}
     for row in rows:
         if row["status"] in LIVE_STATUSES:
@@ -407,8 +458,7 @@ def cmd_mirror(args):
             for name in names:
                 if not re.match(cfg["pattern"], name):
                     continue
-                ref = os.path.join(cfg["dir"], name)
-                if ref in claimed:
+                if name in claimed:
                     continue
                 parsed = parse_script_file(os.path.join(directory, name), lane, cfg["heat"])
                 if parsed:
@@ -433,6 +483,68 @@ def cmd_body_markers(args):
     return 0
 
 
+
+def load_state():
+    if not os.path.exists(STATE_PATH):
+        return {"updated": None, "rows": {}}
+    try:
+        with open(STATE_PATH) as fh:
+            state = json.load(fh)
+    except (json.JSONDecodeError, OSError):
+        return {"updated": None, "rows": {}}   # a corrupt cache is a slow run, not a wrong one
+    state.setdefault("rows", {})
+    return state
+
+
+def state_is_fresh(state):
+    if not state.get("updated"):
+        return False
+    try:
+        age = (today() - date.fromisoformat(state["updated"])).days
+    except ValueError:
+        return False
+    return 0 <= age < STATE_MAX_AGE_DAYS
+
+
+def cmd_cache_known(args):
+    """The rows whose page body the routine can skip fetching."""
+    state = load_state()
+    if not state_is_fresh(state):
+        # Deliberately hand back nothing rather than a stale yes. A full re-read
+        # is a slower run; a wrong yes is a blank row D.J. opens on set.
+        print(json.dumps({"fresh": False, "reason": "cache stale or missing", "known": {}}, indent=2))
+        return 0
+    known = {
+        url: {"ref": row.get("ref")}
+        for url, row in state["rows"].items()
+        if row.get("has_body")
+    }
+    print(json.dumps({"fresh": True, "updated": state["updated"], "known": known}, indent=2))
+    return 0
+
+
+def cmd_cache_update(args):
+    """Fold the post-run board snapshot back into the cache."""
+    rows = load_board(args.board)
+    state = load_state()
+    for row in rows:
+        # Only ever remember a body that exists. Never cache a false, or a run
+        # that failed halfway would teach the cache the row is permanently empty.
+        if row.get("has_body"):
+            state["rows"][row["url"]] = {
+                "has_body": True,
+                "ref": row.get("ref"),
+                "lane": row.get("lane"),
+            }
+    state["updated"] = today().isoformat()
+    os.makedirs(DATA, exist_ok=True)
+    with open(STATE_PATH, "w") as fh:
+        json.dump(state, fh, indent=1, sort_keys=True)
+        fh.write("\n")
+    print(f"Cached {len(state['rows'])} filled rows -> {os.path.relpath(STATE_PATH, BASE_DIR)}")
+    return 0
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -450,6 +562,13 @@ def main():
     p = sub.add_parser("mirror")
     p.add_argument("--board", required=True)
     p.set_defaults(fn=cmd_mirror)
+
+    p = sub.add_parser("cache-known")
+    p.set_defaults(fn=cmd_cache_known)
+
+    p = sub.add_parser("cache-update")
+    p.add_argument("--board", required=True)
+    p.set_defaults(fn=cmd_cache_update)
 
     p = sub.add_parser("body-markers")
     p.set_defaults(fn=cmd_body_markers)
