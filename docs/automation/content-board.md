@@ -84,7 +84,41 @@ python3 scripts/content_board.py check-hook --board board.json --hook "..."
 
 python3 scripts/content_board.py footer --lane Take --ref "sacred-cows.md #2"
     The exact footer line for the bottom of the page body.
+
+python3 scripts/content_board.py cache-known
+    Rows already known to have a body, so those pages are not fetched again.
+
+python3 scripts/content_board.py cache-update --board board.json
+    Fold the post-run snapshot back into the cache. Commit the result.
 ```
+
+### Open vs Picked
+
+Lane inventory counts **Open only**. A `Picked` row is still live — it can be
+killed, and it still needs a body — but D.J. has already claimed it, so it is not
+something he can choose. Counting Picked as inventory would let a lane where he
+has claimed everything read as full and never refill, leaving him a board with
+six Takes on it and nothing to pick.
+
+### The body cache
+
+Whether a page has a script can only be learned by fetching the page, and a
+filled page never empties itself. `data/content-board-state.json` remembers the
+answer, which turns roughly thirty full-script page fetches per run into zero.
+
+The routine reads `cache-known` first and only fetches the pages it does not
+already know about. After the run it calls `cache-update` and commits the file.
+
+Two rules keep the cache honest:
+
+- **Only a `true` is ever cached.** Caching a `false` would let a run that died
+  halfway teach the cache that a row is permanently empty.
+- **It expires after 7 days.** The one way this cache can be wrong is a body
+  deleted by hand in Notion, which still reads as filled. A weekly full re-read
+  catches it. A stale cache returns nothing rather than a stale yes: a slower
+  run is fine, a blank row D.J. opens on set is not.
+
+The file is also the only record of board state that lives outside Notion.
 
 `board.json` is the snapshot the routine exports from Notion before planning:
 
@@ -181,7 +215,10 @@ Each parsed row gives you the whole thing:
 - **Expires** — empty. A promo and a spotlight both keep.
 
 **The repo path is the dedupe key**, not the hook text, and it is matched against
-rows at *every* status. An episode already Posted can never reappear as a new
+rows at *every* status — on **basename**, not the full path. The ref is read back
+out of a footer a model wrote, and one that says `podcast-promos/x.md` instead of
+`scripts/podcast-promos/x.md` is not a new episode. Exact path matching would
+call it one and post a duplicate. An episode already Posted can never reappear as a new
 row. This is stronger than `check-hook`, so mirror rows skip that check.
 
 **Post the file as-is.** Do not re-run the four passes on a mirrored script —
@@ -242,6 +279,10 @@ Notion connector and this repo.
    - **mirror** — run `content_board.py mirror` and post every row in each
      lane's `post[]`, using the file at `body_path` as the page body, unchanged.
      This runs before `need`, because it costs no research.
+   - **need** — `check-hook` scans **every** status, not just the live ones, so
+     a hook D.J. already Posted cannot come back as a fresh row. It is tuned to
+     over-reject: a false DUPE costs one candidate the routine can replace, a
+     false NOVEL puts a repeat in front of D.J. Log every dropped candidate.
    - **need** — add new rows per lane, each one created *with its body already
      written*. Run `check-hook` on every candidate hook before creating it; an
      exit 11 candidate is dropped, not reworded. Agent Spotlight and KIRP
