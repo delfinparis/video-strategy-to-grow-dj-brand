@@ -74,6 +74,8 @@ Every promo is a single `.md` in [`../../scripts/podcast-promos/`](../../scripts
 6. **`## AI Music Prompt`** — Podcast promo preset from [`../ai-music-prompts.md`](../ai-music-prompts.md), tuned to the episode's energy (warm/major for an upbeat guest; a touch more grounded for a heavy topic). Single CapCut prompt (D.J. edits only in CapCut, no Suno/Udio), `no vocals` first, BPM as a number, ≤300 chars.
 7. **`## Social Descriptions`** — IG, TikTok, YouTube Shorts, Facebook, LinkedIn, each tuned to its platform's passive signal and link-delivery rule (IG/TikTok = link in bio, YT = pinned comment, FB/LinkedIn = link in post). Plus a hashtag quick-reference.
 
+   **The YouTube Shorts block needs a `**Title:**` line**, and until 2026-08-20 this lane was the worst offender: **not one** of the 24 `kir-*.md` promos had one. Lead the title with the guest's name where it fits — it is the searchable term for a podcast clip, and it is the reason someone finds the episode a year later. See [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md#youtube-shorts-is-two-fields-not-one).
+
 Match the structure of the reference promo: [`../../scripts/podcast-promos/breakthrough-with-michael-ep1-emma-cta.md`](../../scripts/podcast-promos/breakthrough-with-michael-ep1-emma-cta.md).
 
 ---

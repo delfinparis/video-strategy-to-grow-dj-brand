@@ -306,6 +306,12 @@ Until the field exists, this lane produces reach and no retrievable recruiting d
 - [ ] Every receipt carries its limit (sample size, "estimates," "anecdotal") in the spoken
       line, not just in the Data Source block
 - [ ] No engagement ask in the script or any of the five captions
+- [ ] **The YouTube Shorts caption carries a `**Title:**` line.** All five BP scripts written
+      before 2026-08-20 were missing it. It is the only caption of the five that is two fields
+      (title + description), and the title is the primary ranked text on the platform. Keep it
+      under 60 characters, and keep the Kale rule and the no-named-target rule inside it too —
+      a title is a caption, not an exception. See
+      [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md#youtube-shorts-is-two-fields-not-one)
 - [ ] Heat is 3.5 or below unless the take lane surrendered the slot this week (Run The Math
       With Me is heat 4 and always needs the slot)
 - [ ] If Run The Math With Me: the concession clause is intact, the arithmetic hesitations

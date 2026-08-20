@@ -753,6 +753,105 @@ def cmd_check_heat(args):
     return 0
 
 
+# --------------------------------------------------------------------------
+# Caption lint
+#
+# D.J., 2026-08-20: "the youtube shorts (in notion) doesn't list a youtube
+# title (just the descriptions and hashs)."
+#
+# He was right, and it was not one row. `### YouTube Shorts` existed nearly
+# everywhere; the `**Title:**` line inside it did not. It was present in
+# inside-the-industry (101/101) and agent-tip (62/62) and absent in
+# podcast-promos (0/24 kir-*), broker-problems (0/5) and takes (0/2) -- the
+# three lanes whose standards described the section as one blob like the other
+# four platforms.
+#
+# YouTube Shorts is the only caption of the five that is two fields. Nothing
+# checked, so three lanes drifted for months and the defect rode the mirror
+# straight onto the board.
+# --------------------------------------------------------------------------
+
+# Match the platform ANYWHERE in the heading, not at the start of it. The lanes
+# do not agree on labels and never have: "### Personal LinkedIn (PRIMARY)",
+# "### Personal Instagram (Reel)", "### Instagram Reels". A first cut of this
+# lint required the heading to start with the platform name and reported 34
+# false positives across the-playbook and kale-signaling, both of which carry
+# all five captions under their own names. A linter that cries wolf gets muted,
+# and a muted linter is worse than none.
+CAPTION_PLATFORMS = (
+    ("LinkedIn", r"LinkedIn"),
+    ("Instagram", r"Instagram|IG\b"),
+    ("TikTok", r"TikTok"),
+    ("YouTube Shorts", r"YouTube|YT\b"),
+    ("Facebook", r"Facebook|FB\b"),
+)
+YT_SECTION = re.compile(r"^#{2,3} .*(?:YouTube|YT\b).*$", re.M | re.I)
+YT_TITLE = re.compile(r"^\s*\*\*Title:\*\*\s*\S", re.M)
+
+
+def lint_captions(text):
+    """Return a list of problems with a script's caption block."""
+    problems = []
+    if not any(h in text for h in ("## Social Media", "## Social Descriptions")):
+        return ["no caption block at all"]
+
+    headings = re.findall(r"^#{2,3} .*$", text, re.M)
+    for label, pattern in CAPTION_PLATFORMS:
+        if not any(re.search(pattern, h, re.I) for h in headings):
+            problems.append("missing the %s caption" % label)
+
+    hit = YT_SECTION.search(text)
+    if hit:
+        after = text[hit.end():]
+        # Only look inside this section, not the whole rest of the file.
+        nxt = re.search(r"^#{2,3} ", after, re.M)
+        section = after[: nxt.start()] if nxt else after
+        if not YT_TITLE.search(section):
+            problems.append(
+                "YouTube Shorts has no **Title:** line -- it is the primary "
+                "ranked text on the platform, and the only caption of the five "
+                "that is two fields"
+            )
+    return problems
+
+
+def cmd_lint_captions(args):
+    targets = []
+    for path in args.paths:
+        if os.path.isdir(path):
+            for root, _dirs, files in os.walk(path):
+                targets += [os.path.join(root, f) for f in sorted(files)
+                            if f.endswith(".md") and not f.startswith("README")]
+        else:
+            targets.append(path)
+
+    bad = 0
+    for path in sorted(targets):
+        try:
+            text = open(path, encoding="utf-8").read()
+        except OSError as exc:
+            print("%s: unreadable (%s)" % (path, exc))
+            bad += 1
+            continue
+        # A file with no caption block at all is very often not a script.
+        problems = lint_captions(text)
+        if problems == ["no caption block at all"] and not args.strict:
+            continue
+        if problems:
+            bad += 1
+            print(os.path.relpath(path, BASE_DIR))
+            for problem in problems:
+                print("    - " + problem)
+
+    total = len(targets)
+    if bad:
+        print()
+        print("%d of %d file(s) have caption problems." % (bad, total))
+        return 13
+    print("%d file(s) checked, every caption block complete." % total)
+    return 0
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -780,6 +879,13 @@ def main():
 
     p = sub.add_parser("body-markers")
     p.set_defaults(fn=cmd_body_markers)
+
+    p = sub.add_parser("lint-captions")
+    p.add_argument("paths", nargs="+",
+                   help="Script files or directories under scripts/ to check.")
+    p.add_argument("--strict", action="store_true",
+                   help="Also fail files with no caption block at all.")
+    p.set_defaults(fn=cmd_lint_captions)
 
     p = sub.add_parser("week")
     p.add_argument("--board", required=True)

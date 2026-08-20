@@ -586,8 +586,12 @@ status: "[ready / draft -- receipt needs verification]"
 ### Instagram Reels
 ### TikTok
 ### YouTube Shorts
+**Title:** [<=60 chars, a searchable claim, never a label]
+**Description:**
 ### Facebook
 ```
+
+**The YouTube Shorts block carries a `**Title:**` line.** It is the only caption of the five that is two fields, and it is the one most often dropped. See [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md#youtube-shorts-is-two-fields-not-one).
 
 Scripts live in `scripts/takes/`. Numbering is `TAKE-001` forward. Note that the existing
 `scripts/carousels/TAKE-hashtag-stacking-carousel.md` predates this and is a carousel, not a

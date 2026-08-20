@@ -20,6 +20,25 @@ Use the **fewest** hashtags that still categorize the post. More is not better i
 
 D.J. does not post to X/Twitter, so there is no X caption. Scripts produce five captions: LinkedIn, Instagram, TikTok, YouTube Shorts, Facebook.
 
+### YouTube Shorts is two fields, not one
+
+**Added 2026-08-20, after D.J. found board rows whose YouTube block had a description and hashtags and no title.** Every other platform's caption is one blob. YouTube Shorts is not:
+
+```markdown
+### YouTube Shorts
+
+**Title:** The First-Time Buyer Number You've Been Quoting Is Wrong
+
+**Description:**
+[plain, searchable, names the person / source / date / topic]
+
+#shorts #RealEstateAgent #FirstTimeHomeBuyer #InsideTheIndustry
+```
+
+**A YouTube Shorts block with no `**Title:**` line is incomplete, not merely terse.** The title is the primary ranked text on the platform and the only part that shows in search, suggested, and the subscriptions feed. Leave it out and YouTube falls back to the first line of the description, truncated wherever it happens to end, or to nothing at all. The row above already states that "the title and description do the real work" and caps hashtags across *title + description* — both sentences assume a title exists.
+
+Write it as a claim a realtor would search for, not a label. "The First-Time Buyer Number You've Been Quoting Is Wrong" beats "First-Time Buyer Stats." Under about 60 characters so it does not truncate.
+
 **Keep the realtor-first discipline.** The recruiting-qualified audience is the target, so realtor/real estate tags lead. One brand tag (#KeepingItRealPodcast or #InsideTheIndustry) is fine within the cap. Drop the long tail (#RealtorLife, #RealEstateCoaching, #SphereOfInfluence stacked together) -- pick the 1-2 most specific to the post.
 
 **Concrete before/after** (LinkedIn, from NF-053):
