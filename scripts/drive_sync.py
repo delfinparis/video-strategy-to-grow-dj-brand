@@ -150,20 +150,51 @@ def ensure_folder(svc, parent_id, name):
 
 
 def upload(svc, folder_id, path):
+    """Upload one file into folder_id, then CONFIRM that is where it landed.
+
+    The read-back is not paranoia. On 2026-08-20 every GBP card for a week was
+    sitting loose in the root of My Drive while this function reported
+    "1 new, 9 updated" against a folder that a Drive audit found empty. Every
+    code path here was correct on inspection, which is the worst kind of bug to
+    have: nothing to read, and a log that says the work was done.
+
+    So this stops trusting the request and reads the parents back. A file that
+    did not land where it was sent raises, naming both folder ids, because that
+    pair is the entire diagnosis and it is unobtainable any other way.
+    """
     name = os.path.basename(path)
     mime = mimetypes.guess_type(path)[0] or "application/octet-stream"
     media = MediaFileUpload(path, mimetype=mime, resumable=False)
     existing = find_child(svc, folder_id, name)
     if existing:
-        svc.files().update(fileId=existing, media_body=media, supportsAllDrives=True).execute()
-        return "updated"
-    svc.files().create(
-        body={"name": name, "parents": [folder_id]},
-        media_body=media,
-        fields="id",
-        supportsAllDrives=True,
-    ).execute()
-    return "created"
+        svc.files().update(
+            fileId=existing, media_body=media, fields="id", supportsAllDrives=True
+        ).execute()
+        outcome, file_id = "updated", existing
+    else:
+        file_id = svc.files().create(
+            body={"name": name, "parents": [folder_id]},
+            media_body=media,
+            fields="id",
+            supportsAllDrives=True,
+        ).execute()["id"]
+        outcome = "created"
+
+    landed = (
+        svc.files()
+        .get(fileId=file_id, fields="parents", supportsAllDrives=True)
+        .execute()
+        .get("parents")
+        or []
+    )
+    if folder_id not in landed:
+        raise RuntimeError(
+            f"{name} was uploaded to folder {folder_id} but Drive reports its "
+            f"parents as {landed or '(none)'}. The upload succeeded and the file "
+            f"is in the wrong place, which is exactly the failure a 'files "
+            f"exist' check cannot see. Nothing further is synced this run."
+        )
+    return outcome
 
 
 def check_parent(svc, parent_id):
