@@ -83,6 +83,18 @@ Before writing Act 2, decide the **story shape** ([`docs/storytelling-formats.md
 
 Pair every hook with a **visual open** (pattern interrupt) from [`docs/pattern-interrupt-cheatsheet.md`](docs/pattern-interrupt-cheatsheet.md). D.J. films walk-and-talks on a selfie stick, so the visual open is one of seven one-handed, mid-walk moves (The Stop, Push-In, Whip, Walk-Toward, One Prop, Location Cold-Open, Gesture-On-Beat). Pick one on purpose, log it as `pattern_interrupt` in frontmatter next to `hook_family`, and don't repeat the same move two posts in a row. The spoken hook still does the heavy lifting (captions.ai builds captions from audio); the visual open is the second stop signal. When the script is on-site at a property, prefer the Location Cold-Open -- the property is B-roll you can't otherwise shoot.
 
+## The Notion Content Board is where finished scripts wait
+
+Every lane's picked-over inventory lives on the [Content Board](https://www.notion.so/35037694472d47d9a5c8c34cfa95d9e4)
+in Notion, and **every row carries its finished v3 in the page body** -- D.J. opens
+a row and films it. A row with a good hook and an empty body is a failure, not a
+draft. The contract, the lane targets, and the body template are in
+[`docs/automation/content-board.md`](docs/automation/content-board.md); the
+deterministic half is `scripts/content_board.py` (exit 10 = work due, same
+convention as `stupid_things.py`). The board carries no Source and no Bank ref
+column on purpose -- the receipt lives under `## Data Source` in the body and the
+bank pointer lives in the footer line.
+
 ## When the script is posted, work the first hour (engagement ops)
 
 These are not editorial -- they're posting-day habits the algorithm rewards harder than anything in the script (Rule 10.4-10.6):
