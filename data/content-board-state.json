@@ -1,0 +1,75 @@
+{
+ "rows": {
+  "https://app.notion.com/p/3c1313fa2892811a855cf9d7db1138d1": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-08-19.md #5"
+  },
+  "https://app.notion.com/p/3c1313fa28928131afb9ef13a5828ad5": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-08-19.md #4"
+  },
+  "https://app.notion.com/p/3c1313fa2892814ead0ef8824fbf18a6": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Tech and AI: \"Use AI to write your listing descriptions.\""
+  },
+  "https://app.notion.com/p/3c1313fa2892817b9ea6ec629ebf8e13": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-08-19.md #3"
+  },
+  "https://app.notion.com/p/3c1313fa28928199b154dd4220cd4e5b": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-08-19.md #1"
+  },
+  "https://app.notion.com/p/3c1313fa289281cc9034fd0f885f0b46": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-08-19.md #2"
+  },
+  "https://app.notion.com/p/3c2313fa2892810bb971ee8bda906842": {
+   "has_body": true,
+   "lane": "Agent Spotlight",
+   "ref": "scripts/chicago-agent-spotlight/stefanie-campbell-2026-08-17.md"
+  },
+  "https://app.notion.com/p/3c2313fa289281338b93e2fd6cecacb5": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-sarah-maslowski-2026-08-19.md"
+  },
+  "https://app.notion.com/p/3c2313fa2892813fb7e5ff5f2d3e58d2": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-austin-clarence-2026-08-12.md"
+  },
+  "https://app.notion.com/p/3c2313fa289281928debc225a82b8f0f": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-gwen-snyder-2026-08-13.md"
+  },
+  "https://app.notion.com/p/3c2313fa289281aaaa61d518fd9b1143": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-sam-burke-2026-08-05.md"
+  },
+  "https://app.notion.com/p/3c2313fa289281adb688fa673e43e919": {
+   "has_body": true,
+   "lane": "Agent Spotlight",
+   "ref": "scripts/chicago-agent-spotlight/dawn-bremer-2026-07-08.md"
+  },
+  "https://app.notion.com/p/3c2313fa289281b5a10bcad5cab71968": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-08-20.md #5"
+  },
+  "https://app.notion.com/p/3c2313fa289281ed9f6aeb294fd5626f": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-08-20.md #6"
+  }
+ },
+ "updated": "2026-08-20"
+}
