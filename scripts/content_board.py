@@ -133,6 +133,48 @@ LIVE_STATUSES = {"Open", "Picked"}
 AVAILABLE_STATUSES = {"Open"}
 FOOTER_PREFIX = "Bank ref:"
 
+# --------------------------------------------------------------------------
+# The weekly grid this board feeds.
+#
+# TARGETS above is SHELF DEPTH -- how many rows wait in a lane. This is a
+# different question: how many of the week's videos each lane is allowed to
+# become. schedule/master-calendar.md carries 15 videos a week, and D.J. cut
+# gated Value Giveaways from 6 to 3 on 2026-08-19 to make room for the three
+# lanes that had no slot at all, so:
+#
+#     15 videos - 3 giveaways = 12 board-fed video slots a week
+#
+# The MAXIMUMS sum to 19 against those 12, deliberately. A range says what a
+# lane may do in a good week, never what it is entitled to. The minimums sum to
+# 9, which leaves 3 genuinely discretionary slots -- and that number is the
+# whole reason this is arithmetic in a script instead of a judgment call at
+# 5:30am.
+# --------------------------------------------------------------------------
+
+VIDEOS_PER_WEEK = 15
+GIVEAWAY_SLOTS = 3
+BOARD_SLOTS = VIDEOS_PER_WEEK - GIVEAWAY_SLOTS
+
+WEEKLY = {
+    # lane                          min  max
+    "News":                          (2,  2),
+    "Agent Tip":                     (1,  3),
+    "Agent Spotlight":               (1,  2),
+    "Stupid Things Realtors Do":     (1,  3),
+    "Broker Problems":               (1,  3),
+    "Take":                          (2,  4),
+    "KIRP Episode":                  (1,  2),
+}
+
+# Rule 9.2: one heat-4-or-higher video across the entire week.
+HEAT_4_BUDGET = 1
+HOT = 4.0
+
+# A row that has left Open has spent one of the week's 12 slots.
+SPENT_STATUSES = {"Picked", "Filmed", "Posted"}
+
+EXIT_HEAT_SPENT = 12
+
 # A page counts as having a script if it carries any of these. The series do not
 # agree on one heading and never have: podcast promos head it `## Spoken Script`,
 # Chicago spotlights `## Full Script (Spoken)`, board-native rows `## Script`.
@@ -222,6 +264,10 @@ def load_board(path):
         row.setdefault("hook", "")
         row.setdefault("expires", None)
         row.setdefault("has_body", False)
+        row.setdefault("heat", None)
+        # Optional, and the week accounting degrades honestly without them.
+        row.setdefault("picked_on", None)
+        row.setdefault("last_edited", None)
     return rows
 
 
@@ -545,6 +591,168 @@ def cmd_cache_update(args):
     return 0
 
 
+# --------------------------------------------------------------------------
+# Weekly slot accounting
+#
+# "When did this row spend its slot" has no column on the board, by design --
+# D.J. stripped the board back to seven columns on 2026-08-20 and adding a
+# Picked date would walk that straight back. So this reads `picked_on` when the
+# snapshot carries one and falls back to Notion's `last_edited`.
+#
+# That fallback is an APPROXIMATION and it is named as one everywhere it is
+# printed. It is right unless a row was edited again for some other reason
+# after being picked, which moves it into the wrong week. It is never used to
+# refuse anything on its own -- `check-heat` is advisory and says so.
+# --------------------------------------------------------------------------
+
+def week_key(day):
+    year, week, _ = day.isocalendar()
+    return "%d-W%02d" % (year, week)
+
+
+def week_bounds(day):
+    monday = day - timedelta(days=day.isoweekday() - 1)
+    return monday, monday + timedelta(days=6)
+
+
+def parse_day(value):
+    if not value:
+        return None
+    try:
+        return date.fromisoformat(str(value)[:10])
+    except ValueError:
+        return None
+
+
+def spent_when(row):
+    """The day this row spent its slot, and how confident we are about it."""
+    day = parse_day(row.get("picked_on"))
+    if day:
+        return day, "exact"
+    day = parse_day(row.get("last_edited"))
+    if day:
+        return day, "approx"
+    return None, "unknown"
+
+
+def week_report(rows, ref):
+    want = week_key(ref)
+    report, undated = [], []
+
+    spent = {}
+    for row in rows:
+        if row.get("status") not in SPENT_STATUSES:
+            continue
+        day, how = spent_when(row)
+        if day is None:
+            undated.append(row)
+            continue
+        if week_key(day) == want:
+            spent.setdefault(row.get("lane", ""), []).append((row, how))
+
+    for lane, (lo, hi) in WEEKLY.items():
+        used = spent.get(lane, [])
+        available = sum(
+            1 for r in rows
+            if r.get("lane") == lane and r.get("status") in AVAILABLE_STATUSES
+        )
+        report.append({
+            "lane": lane,
+            "used": len(used),
+            "min": lo,
+            "max": hi,
+            "owed": max(0, lo - len(used)),
+            "room": max(0, hi - len(used)),
+            "available": available,
+            "approx": sum(1 for _, how in used if how == "approx"),
+        })
+
+    hot = [r for lane_rows in spent.values() for r, _ in lane_rows
+           if float(r.get("heat") or 0) >= HOT]
+    return report, hot, undated
+
+
+def cmd_week(args):
+    rows = load_board(args.board)
+    ref = today()
+    monday, sunday = week_bounds(ref)
+    report, hot, undated = week_report(rows, ref)
+
+    used = sum(r["used"] for r in report)
+    owed = sum(r["owed"] for r in report)
+    discretionary = BOARD_SLOTS - used - owed
+
+    print("Week of %s to %s (%s)" % (monday, sunday, week_key(ref)))
+    print("%d videos a week, %d of them giveaways, so %d come off this board."
+          % (VIDEOS_PER_WEEK, GIVEAWAY_SLOTS, BOARD_SLOTS))
+    print()
+    print("  filled        %2d / %d" % (used, BOARD_SLOTS))
+    print("  still owed    %2d   (lane minimums not yet met)" % owed)
+    print("  discretionary %2d   (pull whatever you want)" % discretionary)
+    print()
+
+    if owed:
+        print("Owed this week:")
+        for row in report:
+            if row["owed"]:
+                short = "  SHORT -- nothing Open in this lane" if not row["available"] else ""
+                print("  %dx %-28s (%d available)%s"
+                      % (row["owed"], row["lane"], row["available"], short))
+        print()
+
+    spare = [r for r in report if r["room"] > r["owed"]]
+    if spare and discretionary > 0:
+        print("Room above the minimum (%d slot(s) to spend):" % discretionary)
+        for row in spare:
+            print("  up to %d more %-28s (%d available)"
+                  % (row["room"] - row["owed"], row["lane"], row["available"]))
+        print()
+
+    if hot:
+        print("Heat %g+ slot: SPENT by %s. Rule 9.2 -- keep the rest of the week "
+              "at 3.5 or below." % (HOT, ", ".join(r.get("hook", "?")[:40] for r in hot)))
+    else:
+        print("Heat %g+ slot: open. Rule 9.2 allows %d this week."
+              % (HOT, HEAT_4_BUDGET))
+
+    approx = sum(r["approx"] for r in report)
+    if approx:
+        print()
+        print("%d of the %d filled slot(s) were dated from Notion's last_edited "
+              "rather than an explicit picked_on, so they could land in the wrong "
+              "week if the row was edited again later." % (approx, used))
+    if undated:
+        print("%d row(s) have left Open but carry no date at all, so they are "
+              "NOT counted above. Add last_edited to the snapshot to fix this."
+              % len(undated))
+    if discretionary < 0:
+        print()
+        print("OVER BUDGET by %d. The lane minimums cannot all be met in %d slots "
+              "this week -- something gives, and the cut order is in "
+              "schedule/master-calendar.md." % (abs(discretionary), BOARD_SLOTS))
+    return 0
+
+
+def cmd_check_heat(args):
+    """Advisory guard for Rule 9.2, for a routine about to bank a hot row."""
+    rows = load_board(args.board)
+    _, hot, _ = week_report(rows, today())
+    if args.heat is not None and float(args.heat) < HOT:
+        print("heat %g is under the %g threshold -- Rule 9.2 does not apply."
+              % (float(args.heat), HOT))
+        return 0
+    if len(hot) >= HEAT_4_BUDGET:
+        print("Heat %g+ slot for %s is already spent by: %s"
+              % (HOT, week_key(today()),
+                 ", ".join(r.get("hook", "?")[:50] for r in hot)))
+        print("Rule 9.2 allows %d a week. Bank this row at 3.5 or below, or hold "
+              "it for next week. This is ADVISORY -- the week dating is "
+              "approximate when the snapshot has no picked_on." % HEAT_4_BUDGET)
+        return EXIT_HEAT_SPENT
+    print("Heat %g+ slot for %s is open." % (HOT, week_key(today())))
+    return 0
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -572,6 +780,16 @@ def main():
 
     p = sub.add_parser("body-markers")
     p.set_defaults(fn=cmd_body_markers)
+
+    p = sub.add_parser("week")
+    p.add_argument("--board", required=True)
+    p.set_defaults(fn=cmd_week)
+
+    p = sub.add_parser("check-heat")
+    p.add_argument("--board", required=True)
+    p.add_argument("--heat", type=float, default=None,
+                   help="Heat of the row about to be banked. Under 4, always exits 0.")
+    p.set_defaults(fn=cmd_check_heat)
 
     p = sub.add_parser("footer")
     p.add_argument("--lane", required=True)

@@ -16,9 +16,15 @@ and [`docs/content-pillars.md`](docs/content-pillars.md). The short version:
 conversations, because no post in 90 days asked a viewer to raise a hand
 ([the review](docs/analytics/2026-07-19-pivot-results.md)).
 
-**The week: 20 posts.** 15 videos (6 Value Giveaways *gated*, 3 Takes, 2 News, 2 Broker Problems,
-2 KIRP promos; Chicago Agent Spotlight substitutes in) + 5 carousels (2 gated, 3 open).
-The 3 takes were added 2026-08-10 ([`docs/series/take-standard.md`](docs/series/take-standard.md)).
+**The week: 29 posts.** 15 videos + 14 carousels, 5 gated. Videos are 3 Takes, 2 News,
+2 Broker Problems, 2 KIRP promos, 3 Value Giveaways *gated*, 1 Stupid Things, 1 Agent Tip,
+1 Chicago Agent Spotlight. **12 of the 15 come off the
+[Content Board](docs/automation/content-board.md)**; the calendar names the category and the
+board names the row. Gated giveaways were cut 6 → 3 on 2026-08-19 to make room for the lanes
+that had no slot; the grid and the tradeoff are in
+[`schedule/master-calendar.md`](schedule/master-calendar.md). Before suggesting anything to
+film, run `python3 scripts/content_board.py week --board board.json` — it is the only place
+that knows which lane minimums are still unmet and whether the heat-4 slot is spent.
 
 **Which content gets a gate — this decides how you write the close:**
 
