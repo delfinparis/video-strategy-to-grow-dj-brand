@@ -251,17 +251,31 @@ Where candidates come from:
 |---|---|
 | News, Agent Tip | `data/news-briefs/<today>.md` |
 | Take | `data/take-briefs/<latest>.md`, `data/sacred-cows.md` |
-| Broker Problems | `docs/content-pillars.md` + a live receipt from web search |
+| Broker Problems | `data/brokerage-pain.md` (22 entries), plus a re-verified receipt |
 | Stupid Things | `python3 scripts/stupid_things.py pick --count N` |
 | Agent Spotlight | **mirrored** from `scripts/chicago-agent-spotlight/` — see below |
 | KIRP Episode | **mirrored** from `scripts/podcast-promos/kir-*.md` — see below |
 
-> **Broker Problems has no bank file.** The rows loaded on 2026-08-19 cite
-> `brokerage-pain.md`, which does not exist in this repo and never did. Those
-> pointers are phantom. Until a real bank exists, Broker Problems candidates
-> must be sourced from `docs/content-pillars.md` plus a verified live receipt,
-> and a row whose number cannot be sourced ships with the claim removed — not
-> with the number and a shrug.
+> **Correction, 2026-08-20. The Broker Problems bank is real.** An earlier
+> version of this note said `brokerage-pain.md` "does not exist in this repo and
+> never did" and called the pointers phantom. It exists: 22 entries, written
+> 2026-08-18 alongside
+> [`../series/broker-problems-standard.md`](../series/broker-problems-standard.md)
+> and [`../strategy/2026-08-18-why-agents-leave.md`](../strategy/2026-08-18-why-agents-leave.md).
+> All three sat **uncommitted** in one machine's working tree for two days, so a
+> second machine could not see them and read the absence as a fact. They are
+> committed now.
+>
+> The lesson is the one this repo keeps relearning from the other direction: **a
+> file you cannot see is not a file that does not exist.** Across three machines,
+> `git fetch` and a look at the other device's working state come before
+> concluding anything is missing. The original note was right about one thing and
+> it still stands: a row whose number cannot be sourced ships with the claim
+> removed, never with the number and a shrug.
+>
+> Build rules for the lane live in the standard, and the seed that converts is
+> **"I have never once checked whether this is normal,"** never "my brokerage is
+> bad." Never mention Kale. Heat 5 is banned outright.
 
 ---
 
