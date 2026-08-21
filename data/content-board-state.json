@@ -1,5 +1,10 @@
 {
  "rows": {
+  "https://app.notion.com/p/3c1313fa289281078eb3ca720f3a14ab": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: tenure without a terms review"
+  },
   "https://app.notion.com/p/3c1313fa2892811a855cf9d7db1138d1": {
    "has_body": true,
    "lane": "Agent Tip",
@@ -25,10 +30,35 @@
    "lane": "News",
    "ref": "news-briefs/2026-08-19.md #1"
   },
+  "https://app.notion.com/p/3c1313fa2892819fa83ccb064aea7f03": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: the split, converted to dollars"
+  },
+  "https://app.notion.com/p/3c1313fa289281a2acaacf0b01ffef4d": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Marketing and social: \"Post at exactly the right time or you miss the window.\""
+  },
+  "https://app.notion.com/p/3c1313fa289281b081bef31f3835bed1": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Marketing and social: \"Ask for the comment.\""
+  },
+  "https://app.notion.com/p/3c1313fa289281c7a0aafb2909777a99": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Marketing and social: \"Keep every video under 15 seconds.\""
+  },
   "https://app.notion.com/p/3c1313fa289281cc9034fd0f885f0b46": {
    "has_body": true,
    "lane": "News",
    "ref": "news-briefs/2026-08-19.md #2"
+  },
+  "https://app.notion.com/p/3c1313fa289281d78906ff1c3836f76d": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Career and identity: \"Your first year is supposed to be brutal.\""
   },
   "https://app.notion.com/p/3c2313fa2892810bb971ee8bda906842": {
    "has_body": true,
@@ -69,7 +99,22 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-08-20.md #6"
+  },
+  "https://app.notion.com/p/3c3313fa28928158b999eabb4943c2af": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-vija-williams-2026-07-31.md"
+  },
+  "https://app.notion.com/p/3c3313fa2892817cbe0cf8e382a00918": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-greg-roeder-2026-08-20.md"
+  },
+  "https://app.notion.com/p/3c3313fa289281d49e75d40646c1746b": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-2026-08-03-carrie-mccormick.md"
   }
  },
- "updated": "2026-08-20"
+ "updated": "2026-08-21"
 }
