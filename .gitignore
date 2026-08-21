@@ -19,3 +19,8 @@ data/growth-digests/.seen-content.json
 # rebuilt in seconds by scripts/render_carousel.py. The PNGs and PDFs are
 # tracked because Jennica and the other Macs need them without a render step.
 graphics/carousels/*/*.zip
+
+# Per-run Notion export for the Content Board routine. Rebuilt from Notion at
+# the top of every run and stale the moment the run ends; the durable record of
+# board state is data/content-board-state.json, which IS tracked.
+board.json
