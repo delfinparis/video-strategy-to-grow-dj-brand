@@ -5,10 +5,20 @@
    "lane": "Broker Problems",
    "ref": "content-pillars.md Pillar 3 Broker Problems: tenure without a terms review"
   },
+  "https://app.notion.com/p/3c1313fa28928119b3b9c763e07a8d36": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: the cap priced for a producer you are not"
+  },
   "https://app.notion.com/p/3c1313fa2892811a855cf9d7db1138d1": {
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-08-19.md #5"
+  },
+  "https://app.notion.com/p/3c1313fa2892812c8e60d330986d7d4e": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "stupid-things.md ST-0001 angle 2: the seller says another agent promised more"
   },
   "https://app.notion.com/p/3c1313fa28928131afb9ef13a5828ad5": {
    "has_body": true,
@@ -19,6 +29,11 @@
    "has_body": true,
    "lane": "Take",
    "ref": "sacred-cows.md Tech and AI: \"Use AI to write your listing descriptions.\""
+  },
+  "https://app.notion.com/p/3c1313fa2892816891aee82084e28841": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: the required platform that returns nothing"
   },
   "https://app.notion.com/p/3c1313fa2892817b9ea6ec629ebf8e13": {
    "has_body": true,
@@ -40,10 +55,20 @@
    "lane": "Take",
    "ref": "sacred-cows.md Marketing and social: \"Post at exactly the right time or you miss the window.\""
   },
+  "https://app.notion.com/p/3c1313fa289281a587d8ca50879fb273": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: the admin fee your client pays and you defend"
+  },
   "https://app.notion.com/p/3c1313fa289281b081bef31f3835bed1": {
    "has_body": true,
    "lane": "Take",
    "ref": "sacred-cows.md Marketing and social: \"Ask for the comment.\""
+  },
+  "https://app.notion.com/p/3c1313fa289281c1b9d8cce3dde0815e": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Practice: \"Open houses are how you get buyers.\""
   },
   "https://app.notion.com/p/3c1313fa289281c7a0aafb2909777a99": {
    "has_body": true,
@@ -59,6 +84,11 @@
    "has_body": true,
    "lane": "Take",
    "ref": "sacred-cows.md Career and identity: \"Your first year is supposed to be brutal.\""
+  },
+  "https://app.notion.com/p/3c1313fa289281fa98c3e64231a5f10d": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: total contact with the managing broker"
   },
   "https://app.notion.com/p/3c2313fa2892810bb971ee8bda906842": {
    "has_body": true,
@@ -116,5 +146,5 @@
    "ref": "scripts/podcast-promos/kir-2026-08-03-carrie-mccormick.md"
   }
  },
- "updated": "2026-08-21"
+ "updated": "2026-08-22"
 }
