@@ -110,8 +110,10 @@ Beyond running the script, the routine owns the part that needs judgment and the
 3. **Write the hook, swap, and loop-back** per the take standard: spoken scroll-stop, tension
    in the first 3-5 words, friction outward at the incentive, swap physical and doable
    tomorrow.
-4. **Assign slots.** Exactly one Wednesday pick (the week's only heat-4 post under Rule 9.2),
-   the rest across Mon and Fri, hook families rotated per the standard.
+4. **Assign slots.** One pick each for Mon, Wed and Fri, all three at heat 4 (the once-a-week
+   friction ration was removed 2026-08-15), hook families rotated per the standard. With the
+   heat now flat across the week, the family rotation is the only thing preventing three takes
+   from reading as one repeated move, so it matters more than it used to.
 5. **Never name** a brokerage, coach, product, or individual agent. That is heat 5 and banned
    outright in this lane.
 

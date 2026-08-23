@@ -38,11 +38,13 @@ A candidate is only a take if it clears all four:
 names the wrong default," which the register already describes as high comment volume at
 manageable risk.
 
-**Video: 3.5 default, with exactly one heat 4 per week.** Rule 9.2 caps heat 4-5 at one
-post a week across the entire publishing schedule, and that slot is the **Wednesday take
-video**. It is one post, not one per series -- if a News or Broker Problems script wants
-heat 4 that week, one of them gives way. Check the `news_brief.py` hook-cadence banner
-before drafting.
+**Video: heat 4 default, every day the lane runs** (revised 2026-08-15). Rule 9.2 no longer
+caps heat 4 at one post a week, so the Wednesday take does not spend a shared slot and News
+and Broker Problems no longer have to give way. Nothing competes. Drop to 3.5 only when a cow
+genuinely has no wrong default worth naming, and never manufacture the fight -- a fabricated
+indictment fails Rule 1 the same way a fabricated number does. The `news_brief.py` cadence
+banner now reports hook-family spread rather than a friction slot; check it so three takes a
+week at the same heat don't all reach for the same device.
 
 **Never name a person, a brokerage, a coaching program, or a software product.** That is
 heat 5 and it is banned outright on both surfaces, not rationed. Point at the practice and
@@ -357,3 +359,6 @@ Rows dated before 2026-08-10 predate the video lane and are carousel-only.
 | 2026-08-07 | "Stack hashtags for reach" (Marketing and social) | -- | `scripts/carousels/TAKE-hashtag-stacking-carousel.md` |
 | 2026-08-10 | "Switching means starting over. Your clients won't follow." (Brokerage economics) | -- | `scripts/carousels/TAKE-switching-brokerages-carousel.md` |
 | 2026-08-12 | "Chase the follower count." (Marketing and social) | -- | `scripts/carousels/TAKE-follower-count-carousel.md` |
+| 2026-08-19 | "Use AI to write your listing descriptions." (Tech and AI) | `scripts/takes/TAKE-001-ai-listing-descriptions.md` | -- |
+| 2026-08-21 | "Open houses are how you get buyers." (Practice) | `scripts/takes/TAKE-002-open-houses.md` | -- |
+| 2026-08-24 | "Ask for the comment." (Marketing and social) | `scripts/takes/TAKE-003-comment-below.md` | -- |

@@ -70,8 +70,11 @@ Before the usual stress test, check the draft against the
 3. **Each line micro-loops?** Every sentence pulls to the next. Cut the sitters.
 4. **Payoff resolves the hook's promise?** The ending delivers the promised
    thing -> the "here's what you do now" action -> the loop-back.
-5. **Length still holds?** For tactical series, if story pushed it past the cap,
-   compress Act 2 to one beat. Length wins (editorial Rule 7).
+5. **Length still holds?** Count the spoken words, do not estimate. The script is
+   22-30 seconds / 48-72 words, hard cap 35s / 85 words, on **every** series
+   (editorial Rule 7, revised 2026-08-15). Act 2 is one sentence with one turn.
+   If it is over, cut whole sentences and never the hook. If it will not fit at
+   all, it is two scripts -- build the stronger half and say which half you built.
 6. **No fabricated story.** No invented scene, character, detail, or quote was
    added to make the middle land. Every specific traces to a source (Rule 1).
 

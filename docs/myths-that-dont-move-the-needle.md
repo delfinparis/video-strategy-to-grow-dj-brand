@@ -74,9 +74,9 @@ Sources: Metricool 2026 Social Media Study (~40M posts) and 2026 Instagram Study
 
 **The myth:** Shorter always wins.
 
-**2026 reality:** Length is retention-relative. Shorts run to 3 minutes, TikTok is pushing 1-3 minutes, IG Reels up to 3 minutes reach non-followers, as long as completion holds. A 15-second video with a weak hook loses to a 60-second one that holds attention.
+**2026 reality:** Length is retention-relative, and the myth is still a myth: 15 seconds is not magic, and a 15-second video with a weak hook loses to a 30-second one that holds attention. What *is* true is that completion sets the ranking, and the threshold moves with runtime -- roughly 65% average view duration on sub-30s video, and a harder effective bar above it.
 
-**What we do instead:** Keep the walk-and-talk length discipline (45-60s, under a minute) because it fits D.J.'s format and completion, not because short is magically better. Match length to how long the story can hold.
+**What we do instead:** Run the walk-and-talk at 22-30s, hard cap 35s (Rule 7, revised 2026-08-15). Note this is not "short is better." It is "this is the band where D.J.'s format can clear 65% completion." A story that genuinely needs 50 seconds becomes two scripts rather than one script that misses the threshold. Match the *number of ideas* to the runtime, not the runtime to the story.
 
 ## 10. "Every reach drop is a shadowban"
 

@@ -126,11 +126,16 @@ still apply to any real estate number in the script (production volume, market f
 
 ## Length and pacing (extends Rule 7)
 
-- **Target: 45-60 seconds** (~100-150 spoken words).
-- **Hard cap: 75 seconds** (~185 spoken words).
-- These run slightly longer than a pure tip because beat 2 (why the obvious fix fails) and beat 3
-  (the mechanism) both need room. The extra length is earned only when the mechanism genuinely
-  needs the setup. If beats 2 and 3 can be tightened, tighten them.
+- **Target: 22-30 seconds** (48-72 spoken words).
+- **Hard cap: 35 seconds** (85 spoken words). No exceptions.
+- Set 2026-08-15, replacing the old 45-60s target and 75s cap.
+- **Beats 2 and 3 no longer get room, they get one sentence each.** This series used to claim
+  extra length because "why the obvious fix fails" and "the mechanism" both needed setup. They
+  still both need to be present, but each is now a single sentence. A mechanism that cannot be
+  stated in one sentence is a mechanism the viewer was not going to retain from a video anyway.
+- **The research finding is named, not explained.** "Researchers found the opposite" plus what
+  they found. Skip the study design, the sample size, and the year unless the number is the hook.
+  The full citation lives in the Data Source block, unspoken.
 
 ---
 
@@ -240,7 +245,7 @@ problem_index_ref: "[# from the problem-index]"
 
 > **Strongest Line:** "[the one line a viewer would screenshot]"
 
-## Script (45-60 seconds)
+## Script (22-30 seconds, XX words)
 [Five-beat structure: PROBLEM / WHY THE OBVIOUS FIX FAILS / MECHANISM / APPLICATION / CLOSE,
  with the archive tie-in woven in before the close]
 

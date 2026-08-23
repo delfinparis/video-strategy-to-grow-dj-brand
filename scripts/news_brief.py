@@ -86,6 +86,7 @@ import smtplib
 import ssl
 import sys
 import urllib.request
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from difflib import SequenceMatcher
 from email.message import EmailMessage
@@ -479,19 +480,26 @@ HARD EDITORIAL RULES (a take that needs one of these is wrong, rewrite it):
 - NO fabricated or "plausible specific" stats. Every number must trace to the source. If you're not sure of a number, don't use one.
 - NO em dashes. NO AI-speak filler.
 - Always "D.J. Paris" with periods.
-- LENGTH: 40-50 second target, 60 second HARD CAP. Keep the reframe to two sentences and the close to one action. The whole thing has to be filmable in under a minute. The hook is the first sentence and it has to stop the scroll.
+- LENGTH: 22-30 second target, 35 second HARD CAP. That is 48-72 spoken words, 85 at the absolute wall. The reframe is ONE sentence and the close is one action. Every take must be filmable in under 35 seconds. If a story needs more room than that, it is two takes, not one long one.
+- HOOK: the first sentence, and it has to stop the scroll on its own in 3 seconds with no set-up clause in front of it.
 
-HOOK MATRIX (Rule 10): for each take, assign the family its hook best fits and that family's heat band. Pick the family that genuinely fits the story's strongest hook -- do NOT force a friction family onto a story that doesn't earn it.
-- 1 Mirror (name their private behavior; heat 2-3)
-- 2 Sacred Cow (attack a sacred practice; heat 4-5)
-- 3 Defector (credential vs. claim, "I teach X but..."; heat 3-4)
-- 4 System Indictment (indict the system, defend the agent; heat 4-5)
-- 5 Confession ("I was wrong about..."; heat 2-3)
-- 6 Named Stakes (a real number, name, or moment; heat 3-3.5)
-- 7 Forbidden (the thing nobody will tell them; heat 3-4)
-- 8 Cohort Callout (name a professional cohort; heat 3.5-4)
-- 9 Swap/List ("don't say X, say Y" / stop-doing / do-don't-in-the-room; heat 2-3.5)
-FRICTION RULE: for families 2, 4, and 7 the friction must point OUTWARD at a belief, tool, practice, or system, and stand with the agent. Never attack the agent or a demographic/protected group. If the strongest hook for a story is friction, write it that way; if not, pick the honest family.
+HEAT (Rule 9.2, revised 2026-08-15): write every take at heat 4 by default. The old "one heat-4 per week" ration is gone. At a 25-second runtime the hook carries the whole distribution load, so a merely defensible reframe is not strong enough. Drop to 3.5 only when the story genuinely has no wrong default to name -- never manufacture a fight the material does not contain, which fails the no-fabrication rule the same way an invented number does.
+
+HEAT 5 IS BANNED. Never name a specific person, brokerage, coach, or product as wrong. Institutional public record stays reportable at heat 4: a filed lawsuit, a published settlement, an announced policy change. Reporting what an organization did is fine; calling a named company or person wrong is not.
+
+NEGATIVE FRAMING IS THE DEFAULT. Open on the cost, the loss, the mistake, or the thing quietly being taken from the agent. Loss lands harder and faster than gain at equal magnitude, and 3 seconds is not enough time for an upside promise to register. "This is costing you a listing a quarter" beats "here is how to win one more listing a quarter."
+
+HOOK MATRIX (Rule 10): for each take, assign the family its hook best fits and that family's heat band. Friction families are the default now; pick a non-friction family when it genuinely produces the stronger hook, and when you do, still open it on a cost or a wrong default so it earns heat 4.
+- 1 Mirror (name their private behavior; heat 3-4)
+- 2 Sacred Cow (attack a sacred practice; heat 4)
+- 3 Defector (credential vs. claim, "I teach X but..."; heat 3.5-4)
+- 4 System Indictment (indict the system, defend the agent; heat 4)
+- 5 Confession ("I was wrong about..."; heat 3-4)
+- 6 Named Stakes (a real number, name, or moment; heat 3.5-4)
+- 7 Forbidden (the thing nobody will tell them; heat 4)
+- 8 Cohort Callout (name a professional cohort; heat 4)
+- 9 Swap/List ("don't say X, say Y" / stop-doing / do-don't-in-the-room; heat 3.5-4)
+FRICTION RULE: for families 2, 4, and 7 the friction must point OUTWARD at a belief, tool, practice, or system, and stand with the agent. Never attack the agent or a demographic/protected group. This rule is what replaced the weekly ration, so it is absolute: a hook aimed at the viewer is dead no matter how well it would perform.
 
 {kir_block}
 
@@ -607,11 +615,13 @@ def write_takes_sidecar(takes, candidates):
 
 
 # ---------------------------------------------------------------------------
-# Hook Matrix cadence flags (Rule 9.2 friction cap + Rule 10.7 emotional lane)
+# Hook Matrix cadence flags (family variety + heat drift + Rule 10.7 emotional lane)
+#
+# The Rule 9.2 friction cap this block used to police was removed 2026-08-15 when
+# heat 4 became the default register, which is why FRICTION_FAMILIES is gone.
 # ---------------------------------------------------------------------------
 CADENCE_SCRIPT_DIRS = ["inside-the-industry", "the-playbook", "what-actually-works",
-                       "ai-tip-of-the-week", "podcast-promos"]
-FRICTION_FAMILIES = {"2", "4", "7"}
+                       "ai-tip-of-the-week", "podcast-promos", "takes", "stupid-things"]
 
 
 def _frontmatter(path):
@@ -642,10 +652,14 @@ def _heat_num(val):
 
 
 def cadence_flags():
-    """Scan recent script front-matter and return advisory cadence lines: is the
-    once-a-week heat-4/5 friction slot already used (Rule 9.2), and how long since
-    the last emotional/identity-lane post (Rule 10.7). Advisory only -- a scan
-    failure returns [] and never blocks the brief."""
+    """Scan recent script front-matter and return advisory cadence lines.
+
+    Since 2026-08-15 heat 4 is the default register and the once-a-week friction
+    ration is gone, so there is no friction slot left to report. What still needs
+    watching is the opposite failure: every script landing in the same one or two
+    hook families now that friction is unrationed, which reads formulaic fast.
+    Also reports how long since the last emotional/identity-lane post (Rule 10.7).
+    Advisory only -- a scan failure returns [] and never blocks the brief."""
     scripts_root = REPO_ROOT / "scripts"
     rows = []
     for sub in CADENCE_SCRIPT_DIRS:
@@ -680,16 +694,38 @@ def cadence_flags():
     flags = []
 
     week_ago = now - timedelta(days=7)
-    recent_friction = [r for r in rows if r["when"] >= week_ago and
-                       ((r["heat"] is not None and r["heat"] >= 4) or r["family"] in FRICTION_FAMILIES)]
-    if recent_friction:
-        last = recent_friction[0]
-        days = (now - last["when"]).days
-        flags.append(f"**Friction slot: USED** (heat {last['heat']}, {days}d ago). "
-                     "Rule 9.2 allows one heat-4/5 per week, so keep today at heat 3.5 or below.")
+    week_rows = [r for r in rows if r["when"] >= week_ago]
+
+    # Family variety. Friction is unrationed now, so the risk is repetition, not heat.
+    fams = [r["family"] for r in week_rows if r["family"]]
+    if fams:
+        counts = Counter(fams)
+        top_fam, top_n = counts.most_common(1)[0]
+        last3 = [r["family"] for r in rows[:3] if r["family"]]
+        if len(last3) == 3 and len(set(last3)) == 1:
+            flags.append(f"**Hook family: REPEATING.** The last 3 posts all ran family {last3[0]}. "
+                         "Pick a different family today, even if the story would fit that one.")
+        elif top_n >= 4:
+            flags.append(f"**Hook family: drifting.** Family {top_fam} ran {top_n}x in the last 7 days. "
+                         "Vary the device; unrationed friction still reads formulaic when it is always the same shape.")
+        else:
+            spread = ", ".join(f"{f}x{n}" for f, n in counts.most_common())
+            flags.append(f"**Hook family spread (7d):** {spread}. No family is over-running.")
     else:
-        flags.append("**Friction slot: OPEN.** No heat-4/5 post in the last 7 days. "
-                     "A Sacred Cow (2) or System Indictment (4) is in budget today if a story earns it.")
+        flags.append("**Hook family: none logged.** Tag `hook_family` in frontmatter so this "
+                     "variety check starts working.")
+
+    # Heat drift. Default is 4; a week sitting at 3.5 means the hooks went soft.
+    heats = [r["heat"] for r in week_rows if r["heat"] is not None]
+    if heats:
+        soft = [h for h in heats if h < 4]
+        if len(soft) > len(heats) / 2:
+            flags.append(f"**Heat: SOFT** ({len(soft)} of {len(heats)} posts under 4 this week). "
+                         "Heat 4 is the default since 2026-08-15. Open on a cost or a wrong default, not a neutral reveal.")
+        hot = [h for h in heats if h >= 5]
+        if hot:
+            flags.append("**Heat 5 logged this week, and heat 5 is banned.** "
+                         "Check that no script named a person, brokerage, coach, or product as wrong.")
 
     identity = [r for r in rows if r["lane"] == "identity"]
     if identity:
@@ -711,12 +747,12 @@ CAROUSEL_TAKES_PER_WEEK = 3
 
 
 def carousel_take_flags(now):
-    """Carousel takes run their own budget: 3 a week at heat 3.5.
+    """Carousel takes run their own budget: 3 a week.
 
-    They do NOT consume the video friction slot above. Rule 9.2 caps heat 4-5 at
-    one a week; a 3.5 take is the 'defensible contrarian, cites a source, names
-    the wrong default' register, which the scale already treats as the default.
-    Counted separately so neither budget silently eats the other.
+    This is a volume budget, not a heat budget. The video friction slot it used to
+    be kept separate from no longer exists (heat 4 became the default 2026-08-15),
+    so nothing here competes with the video lane -- it just counts whether the
+    week's three carousel takes have been built.
     """
     d = REPO_ROOT / "scripts" / "carousels"
     if not d.exists():
@@ -741,7 +777,7 @@ def carousel_take_flags(now):
     left = CAROUSEL_TAKES_PER_WEEK - used
     if left > 0:
         return [f"**Carousel takes: {used}/{CAROUSEL_TAKES_PER_WEEK} used.** {left} left this week "
-                "at heat 3.5. Tag them `lane: take`. These are separate from the video friction slot."]
+                "at heat 4. Tag them `lane: take`. This is a volume budget, not a heat budget."]
     return [f"**Carousel takes: {used}/{CAROUSEL_TAKES_PER_WEEK} used.** Budget spent. "
             "Another take this week needs to displace one, not add to it."]
 

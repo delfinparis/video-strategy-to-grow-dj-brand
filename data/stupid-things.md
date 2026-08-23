@@ -126,9 +126,15 @@ comments and sends.
 
 ## Heat, and the line that does not move
 
-**Default 3.5. One heat 4 per week across the entire publishing schedule** (Rule 9.2), and
-that slot is shared with every other series. Check the hook-cadence banner in the day's news
-brief before drafting a 4.
+**Default 4** (revised 2026-08-15). The old "3.5 default, one heat 4 per week across the entire
+publishing schedule" ration was removed when Rule 9.2 made heat 4 the standard register. There
+is no shared friction slot to check anymore. Drop to 3.5 only when the practice genuinely has
+no wrong default worth naming.
+
+**The heat ceiling in this lane is still real, and it comes from the target rule below, not from
+a weekly count.** `target: sideways` entries can carry full heat because the wronged party is the
+agent watching. `target: self` entries stay at 3.5: the viewer is the one doing the stupid thing,
+and Rule 9.4 does not let friction point at them.
 
 **Heat 5 is banned outright.** Never name a brokerage, franchise, team, coach, coaching
 program, software product presented as the villain, or an identifiable individual agent. Not
@@ -173,8 +179,9 @@ out until it traces to primary research.
 
 ## The four-beat reel this bank is built for
 
-D.J.'s formula, and the reason every entry carries the fields it does. A complete 30-45 second
-reel is already sitting in each entry:
+D.J.'s formula, and the reason every entry carries the fields it does. A complete 22-30 second
+reel (48-72 spoken words, hard cap 35s, per Rule 7 as revised 2026-08-15) is already sitting in
+each entry, one sentence per beat:
 
 ```
 HOOK          the angle's `hook` -- spoken, because captions.ai builds captions from audio

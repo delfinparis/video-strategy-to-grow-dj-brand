@@ -457,23 +457,36 @@ When those three conditions are met, document the phrase in this section along w
 
 ## Rule 7: Length and Pacing
 
-**Target 30 to 60 seconds. Hard cap 90 seconds. Every second past 45 must earn its place.** This rule is grounded in the reels-scorecard review of D.J.'s first five reels, which found that videos over 70 seconds with a single static shot tanked retention and algorithmic reach, and that the 30-45 second range was the retention sweet spot.
+**Target 22 to 30 seconds. Hard cap 35 seconds. There is no earned-length exception.** Set 2026-08-15, replacing the old 30-60s target and 90s cap.
+
+**Why the number moved.** Completion replaced swipe rate as the primary ranking signal on every platform we publish to. The threshold that decides whether a video escapes the follower graph and gets matched into topic clusters is roughly **65% average view duration on sub-30s** video (about 50% once you pass 30s). A 28-second script that 65% of viewers finish out-distributes a 55-second script that 45% finish, even though the longer one holds attention for more total seconds. Length is no longer a creative choice with a retention cost attached. It is the single input that decides which retention threshold the video is graded against, and the sub-30 threshold is the one D.J.'s format can actually clear.
 
 ### Word-count targets
 
 At a natural delivery pace of roughly 130-150 spoken words per minute:
 
-- **30 seconds** ≈ 65-75 spoken words
-- **45 seconds** ≈ 100-110 spoken words
-- **60 seconds** ≈ 130-150 spoken words
-- **90 seconds** ≈ 195-225 spoken words (the hard cap, rarely justified)
+- **22 seconds** ≈ 48-55 spoken words
+- **25 seconds** ≈ 55-62 spoken words (**the mark to aim at**)
+- **30 seconds** ≈ 65-72 spoken words
+- **35 seconds** ≈ 76-85 spoken words (**the wall — nothing ships past this**)
+
+Count the words. Do not estimate. A draft that reads as "about 30 seconds" is almost always 45.
 
 ### The length discipline
 
-- A script longer than 45 seconds must have a documented reason - in the script metadata - why it earned the extra length. "The topic is complex" is not a reason. "This is a four-beat story and cutting a beat kills the payoff" is a reason.
-- A script longer than 60 seconds must have a 15-second re-hook in the spoken line to catch the drift point.
-- A script longer than 75 seconds should probably be two scripts. Before committing, ask: can this be split into two videos with a shared through-line? Usually yes, and usually better.
-- If a tip can be told in 30 seconds and the draft is 60 seconds, the draft is wrong. Cut it.
+- **Nothing ships over 35 seconds.** There is no documented-justification path anymore. The old "explain why it earned the extra length" clause is deleted, because in practice it approved every script that asked.
+- **The headroom between 30 and 35 seconds buys one thing:** a sourced number, a case citation, or a legal caveat that Rule 1 requires and that cannot be shortened. It does not buy a second example, a fuller story, or a warmer close.
+- **If it does not fit in 35 seconds, it is two scripts.** Ask what the single strongest beat is, build that, and bank the rest. A story with two turns is two videos with a shared through-line, and both will out-perform the combined version.
+- **Cut the weakest beat, never trim every beat evenly.** Shaving three words off five sentences produces a flat 30-second script. Deleting one whole sentence produces a sharp one.
+- **The hook is exempt from compression.** When the script runs long, the words come out of Act 2 and the close. Never out of the first spoken line.
+
+### What 25 seconds actually forces
+
+Three real constraints, and they are the point of the rule:
+
+1. **One idea per script.** Not one idea with a supporting example. One.
+2. **Act 2 is one sentence with a turn.** The compressed Act 2 that was previously reserved for tactical series is now the default for every series, narrative ones included.
+3. **The close is the action plus the loop-back, and nothing else.** No summary, no restatement, no "and that's why this matters."
 
 ### No padding
 
@@ -484,6 +497,7 @@ Every sentence either advances the arc or gets cut. Specifically, cut:
 - Credentials that the hook already carries
 - Second, third, or fourth examples when one example did the work
 - Any sentence that does not move the viewer through the emotional arc in Rule 3
+- Any set-up clause in front of the hook, including the half-second of throat-clearing that survives most drafts
 
 The reels scorecard observation stands: *"If YOU get bored watching your own video at 2x speed, your audience definitely will."*
 
@@ -656,15 +670,21 @@ Every script has a register on the contrarian scale. Pick it before drafting. Th
 | 1 | Tip-of-the-day, no controversy | Low | Low reach |
 | 2 | Pattern reveal, mild reframe | Low-mid | Safe |
 | 3 | Defensible reframe of conventional wisdom | Mid | Manageable |
-| **3.5** | **Defensible contrarian -- cites a source, names the wrong default** | **High** | **Default register** |
-| 4 | Names a coaching cohort or industry behavior pattern as wrong | High | Visible disagreement |
-| 5 | Names a person, brand, or specific product as wrong | Highest | Public conflict |
+| 3.5 | Defensible contrarian -- cites a source, names the wrong default | High | Floor for a weak news day |
+| **4** | **Names a coaching cohort or industry behavior pattern as wrong** | **High** | **Default register** |
+| 5 | Names a person, brand, or specific product as wrong | Highest | **Banned** |
 
-**Default register: 3.5.** Script 065 sits there. That's where the brand earns reach without burning relationships.
+**Default register: 4.** Changed 2026-08-15, from 3.5-with-a-weekly-4 to 4-as-the-norm. A 22-30 second script has room for exactly one reason to stop scrolling, so the hook carries the whole distribution load and a defensible-reframe opener is no longer strong enough to earn the stop. Write at 4 unless the material genuinely has no wrong default to name, in which case 3.5 is the floor.
 
-**Dial-up cadence:** allow a 4 or 5 register at most once per week. More than that and the brand becomes the controversy, not the credibility.
+**The old once-per-week cap on heat 4 is removed.** It existed to stop the brand becoming the controversy. That job now belongs to the direction rule below, which is a better control than rationing was: a friction hook pointed outward can run daily without accumulating brand risk, and a friction hook pointed at agents was never acceptable even once a week.
 
-**Dial-down cadence:** if the script is lifting from a guest tip with no contrarian load (most Agent Tip of the Day scripts in the back catalog), publish at register 2-3. Don't manufacture controversy that isn't there. Specificity carries the script at low heat.
+**Heat 5 is banned outright, not rationed.** Naming a specific person, brokerage, coach, or product as wrong is off the table on every series, every platform, every week. Two reasons, and both are load-bearing: the recruiting pitch and the content have to be the same brand, and D.J. cannot ask an agent to join Kale on Tuesday after naming their broker on Monday. Public-record institutional facts stay reportable at heat 4 (a filed lawsuit, a published settlement, an announced policy) because reporting what an organization did is not naming a person as wrong.
+
+**Direction is the control, and it is absolute.** Point the friction at a belief, a practice, a tool, a system, or an incentive. Stand next to the agent, never across from them. "The split you're paying buys a website you have never logged into" is heat 4 aimed at the model, and the agent watching is the wronged party. "Lazy agents are killing this business" is heat 4 aimed at the viewer, and it is banned under Rule 9.4 no matter how well it performs.
+
+**Negative framing is the default valence.** Open on the cost, the loss, the mistake, or the thing quietly being taken. Loss lands harder than gain at equal magnitude, and it lands fastest, which is what a 3-second window requires. "This is costing you a listing a quarter" beats "here is how to get one more listing a quarter," and they are the same script.
+
+**Dial-down:** if the script is lifting from a guest tip with no contrarian load, publish at 3 rather than manufacturing a fight that isn't in the material. Specificity carries the script at low heat. Fabricated outrage fails Rule 1 the same way a fabricated statistic does.
 
 The writer documents the register in the script frontmatter under `heat` so the reviewer can audit register cadence across the publishing schedule.
 
@@ -730,7 +750,7 @@ loop_back: "[final line that recontextualizes the hook]"
 stat_anchored: [true/false]  # Was the hook anchored on a real, sourced statistic?
 ```
 
-These fields exist so the reviewer can audit register cadence (no more than one 4-5 per week), loop-back compliance (every script lands the rewatch), and stat cadence (roughly half stat-anchored, no fabrications on stat-light days).
+These fields exist so the reviewer can audit register cadence (heat 4 is the default, heat 5 never ships), loop-back compliance (every script lands the rewatch), and stat cadence (roughly half stat-anchored, no fabrications on stat-light days).
 
 ---
 
@@ -816,7 +836,7 @@ A hook only ships if it clears all four:
 1. **Friction outward, you stand inward.** Every Family 2, 4, and 7 hook attacks a myth, tool, practice, or system -- never the agent, never a protected group (10.0).
 2. **The truth filter.** The claim is actually true for the target avatar and D.J. would defend it on a podcast. No manufactured hot takes. Rule 1 and Rule 8.2 bind harder than any hook -- a fabricated number or invented scene to make a hook punchier is the exact failure those rules exist to stop.
 3. **The recruiting test.** Read the hook as a good agent who might join Kale. Do they respect D.J. more or less? Less means kill it, regardless of view count. This is the test that protects the recruiting asset.
-4. **Cadence on the existing heat dial.** The matrix invents no new cap -- it maps onto Rule 9.2. Friction families (2, 4) and any "fight me" energy ride heat 4-5, capped at once per week. Families 1, 3, 5, 6, 8, 9 carry the daily load at heat 2-3.5.
+4. **Cadence on the existing heat dial.** The matrix invents no new cap -- it maps onto Rule 9.2. Friction families (2, 4, 7) ride heat 4 and are now the *daily default*, not a weekly ration. Families 1, 3, 5, 6, 8, 9 are still in full rotation and still carry real load, but they have to reach heat 4 to earn the slot: run them on a cost, a loss, or a named wrong default rather than on a neutral reveal. Heat 5 ships never, from any family.
 
 ### 10.4 Passive comment engineering (no asks)
 
@@ -853,9 +873,9 @@ hook_family: [1-9]          # Which Hook Matrix family the first spoken line use
 lane: tactical | identity   # Default tactical. Set to identity for an emotional-lane post (Rule 10.7)
 ```
 
-`hook_family` lets the reviewer audit family variety across the publishing schedule (no family mass-produced across consecutive posts) and confirm the heat band of the chosen family matches the `heat` field and the Rule 9.2 cadence (no more than one heat 4-5 per week).
+`hook_family` lets the reviewer audit family variety across the publishing schedule (no family mass-produced across consecutive posts) and confirm the heat band of the chosen family matches the `heat` field.
 
-`lane` defaults to `tactical` and only needs to be set on an emotional/identity-lane post. The morning research routine (`scripts/news_brief.py`) reads both fields off recent scripts to print a **Hook cadence** banner at the top of the daily brief -- whether this week's one heat-4/5 friction slot is still open, and how many days since the last `lane: identity` post (due roughly every two weeks). Tagging these fields is what keeps that banner honest.
+`lane` defaults to `tactical` and only needs to be set on an emotional/identity-lane post. The morning research routine (`scripts/news_brief.py`) reads both fields off recent scripts to print a **Hook cadence** banner at the top of the daily brief -- which families have run recently, whether the week is drifting into a single family, and how many days since the last `lane: identity` post (due roughly every two weeks). Tagging these fields is what keeps that banner honest. The banner no longer tracks a friction slot, because there is no longer a friction ration to spend.
 
 ---
 
@@ -919,11 +939,12 @@ Every new script must pass all of these before committing. If any one is "no," t
 
 ### Length
 
-- [ ] Script is 90 seconds or less (hard cap).
-- [ ] If over 45 seconds, the script metadata documents why the extra length is earned.
-- [ ] If over 60 seconds, the script has a 15-second re-hook.
-- [ ] If over 75 seconds, the writer has considered splitting into two scripts and documented why not.
+- [ ] **Spoken words counted, not estimated**, and the count is in the script metadata.
+- [ ] Script is 35 seconds / 85 spoken words or less (hard cap, no exceptions).
+- [ ] Script is in the 22-30 second target band (48-72 spoken words) unless a Rule 1 citation forced it into the 30-35 headroom.
+- [ ] One idea. Act 2 is a single sentence with a turn. The close is the action plus the loop-back and nothing else.
 - [ ] No padding: every sentence advances the arc or is cut.
+- [ ] Nothing was trimmed out of the hook to make the length work.
 
 ### Writing discipline (Rule 8)
 
@@ -941,7 +962,7 @@ Every new script must pass all of these before committing. If any one is "no," t
 ### Engagement mechanics (Rule 9)
 
 - [ ] Loop-back test passes: read the first spoken line, then the last. The last line makes the first line hit harder on rewatch.
-- [ ] Heat register is documented in frontmatter; default 3.5; a heat-4 or heat-5 script has not been published in the last seven days.
+- [ ] Heat register is documented in frontmatter; it reads 4 unless the material genuinely has no wrong default to name (3.5 floor); it never reads 5.
 - [ ] Stat cadence: if `stat_anchored: true`, the stat passes Rule 1 verification. If `stat_anchored: false`, the hook uses one of the four sourced-fallback types in 9.3.
 - [ ] If the hook uses the named-cohort callout (Rule 2 type 5), the cohort is professional (role, experience tier, market segment), not demographic, and the cohort name itself is not the insult.
 
@@ -951,7 +972,8 @@ Every new script must pass all of these before committing. If any one is "no," t
 - [ ] If the hook uses a friction family (2, 4, or 7): the friction points outward at a belief, practice, tool, or system -- never at the agent or a protected group (10.0, 10.3 guardrail 1).
 - [ ] Truth filter: the hook's claim is actually true for the target avatar and D.J. would defend it on a podcast (10.3 guardrail 2). No hot take built on an unsourced number or invented scene.
 - [ ] Recruiting test: a good agent who might join Kale respects D.J. *more* after this hook, not less (10.3 guardrail 3).
-- [ ] The family's heat band matches the `heat` field and the Rule 9.2 once-per-week cap on heat 4-5.
+- [ ] The family's heat band matches the `heat` field, and the hook opens on a cost, loss, or wrong default rather than a neutral reveal.
+- [ ] No person, brokerage, coach, or product is named as wrong anywhere in the script (heat 5, banned outright).
 - [ ] Any comment-driver is passive (incompleteness, defensible line, "tell me if I'm wrong") -- it produces the comment without directing the viewer to act for the channel (10.4, Rule 4).
 - [ ] Any follow or series signal is informational ("I do one of these every week"), never a directive "follow for more" (10.5, Rule 4).
 - [ ] Any cross-video loop references a video that actually exists -- no invented prior or future post (10.6).
