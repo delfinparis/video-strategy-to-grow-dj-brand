@@ -899,7 +899,7 @@ A hook only ships if it clears all four:
 1. **Friction outward, you stand inward.** Every Family 2, 4, and 7 hook attacks a myth, tool, practice, or system -- never the agent, never a protected group (10.0).
 2. **The truth filter.** The claim is actually true for the target avatar and D.J. would defend it on a podcast. No manufactured hot takes. Rule 1 and Rule 8.2 bind harder than any hook -- a fabricated number or invented scene to make a hook punchier is the exact failure those rules exist to stop.
 3. **The recruiting test.** Read the hook as a good agent who might join Kale. Do they respect D.J. more or less? Less means kill it, regardless of view count. This is the test that protects the recruiting asset.
-4. **Cadence on the existing heat dial.** The matrix invents no new cap -- it maps onto Rule 9.2, which since 2026-08-20 is a **band of 4 to 4.7**, not a once-per-week allowance. Friction families (2, 4) and any "fight me" energy sit naturally at the top of the band. Families 1, 3, 5, 6, 8, 9 used to carry the daily load at 2-3.5 and now have to clear 4 like everything else -- which means those families need a sharper wrong-default named in the hook, not a manufactured one bolted on.
+4. **Cadence on the existing heat dial.** The matrix invents no new cap -- it maps onto Rule 9.2, which since 2026-08-20 is a **band of 4 to 5** averaging 4.3-4.5, not a once-per-week allowance. Friction families (2, 4) and any "fight me" energy sit naturally at the top of the band. Families 1, 3, 5, 6, 8, 9 used to carry the daily load at 2-3.5 and now have to clear 4 like everything else -- which means those families need a sharper wrong-default named in the hook, not a manufactured one bolted on.
 
 ### 10.4 Passive comment engineering (no asks)
 
