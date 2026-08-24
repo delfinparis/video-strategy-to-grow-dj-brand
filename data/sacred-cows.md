@@ -38,9 +38,10 @@ A candidate is only a take if it clears all four:
 names the wrong default," which the register already describes as high comment volume at
 manageable risk.
 
-**Video: the band is 4 to 4.7.** D.J. raised the floor on 2026-08-20. Rule 9.2 no longer
-caps heat 4-5 at one post a week; nothing ships below 4 and nothing reaches 5. The
-**Wednesday take** takes the top of the band at 4.7, Monday and Friday run 4 to 4.3.
+**Video: the band is 4 to 5, averaging 4.3-4.5.** D.J. raised the floor and then opened the
+ceiling on 2026-08-20. Rule 9.2 no longer caps heat 4-5 at one post a week; nothing ships below
+4, 5 is available and expensive, and the average is the governing number. The **Wednesday take**
+runs 4.5-5, Monday and Friday run 4 to 4.3.
 
 There is no friction slot left for series to compete over, so the `news_brief.py`
 hook-cadence banner has nothing to report and no script waits on another lane yielding.

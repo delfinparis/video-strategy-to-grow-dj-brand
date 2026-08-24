@@ -126,9 +126,10 @@ comments and sends.
 
 ## Heat, and the line that does not move
 
-**Band 4 to 4.7. Floor 4, ceiling 4.7** (Rule 9.2, raised by D.J. 2026-08-20). There is no
+**Band 4 to 5, body of work averaging 4.3-4.5** (Rule 9.2, D.J. 2026-08-20). There is no
 weekly friction slot to compete for any more and no hook-cadence banner to check: every script
-in every series now lives in this band.
+in every series now lives in this band. A 5 names an identifiable party and is priced against
+the average -- ship one and the next few come in at the floor.
 
 **This lane got the instruction first** ("up the spice level" for the do-this-don't-do-that
 tips, 2026-08-20), and what it means here is specific. This lane's friction has always pointed

@@ -43,7 +43,7 @@ Governing docs, in precedence order when they conflict:
 |---|---|---|---|---|---|:--:|
 | **Mon** | Take | KIRP promo | Giveaway: say this 🔒 | KIRP episode | Take 🔒 | 5 |
 | **Tue** | News / IIR | Broker Problem | Stupid Things | Broker-problem compare | News / tip | 5 |
-| **Wed** | Take (heat 4.7) | News / IIR | Agent Tip | KIRP episode | Take | 5 |
+| **Wed** | Take (heat 4.5-5) | News / IIR | Agent Tip | KIRP episode | Take | 5 |
 | **Thu** | Broker Problem | KIRP promo | Agent Spotlight | News / tip | News / tip 🔒 | 5 |
 | **Fri** | Take | Giveaway: AI prompt 🔒 | -- | KIRP episode | Take | 4 |
 | **Sat** | Giveaway: tool use-case 🔒 | -- | -- | News / tip | News / tip | 3 |
@@ -90,15 +90,15 @@ Monday's take and take carousel work the **same** [`sacred-cows.md`](../data/sac
 
 | Slot | Category | Gate | Fed by | Post window (CT) |
 |---|---|---|---|---|
-| Video | **The Take -- heat 4.7** | none | Sunday take brief | LI 2-5pm |
+| Video | **The Take -- heat 4.5-5** | none | Sunday take brief | LI 2-5pm |
 | Video | **News / Inside the Industry** | none | 5:30am walk-and-talk brief | midday |
 | Video | **Agent Tip** | none | [Content Board](../docs/automation/content-board.md), **Agent Tip** lane | IG/FB midday-evening |
 | Carousel | **KIRP episode** | none | 8:00am routine | mid-morning |
 | Carousel | **Take** | none | 9:00am routine | afternoon |
 
-**Wednesday is the week's hardest swing, not its only hot one.** D.J. raised the floor on 2026-08-20: Rule 9.2 is a **band of 4 to 4.7** across the whole schedule, so there is no single friction slot left for series to compete over. Wednesday takes the top of the band at 4.7; Monday and Friday run 4 to 4.3.
+**Wednesday is the week's hardest swing, not its only hot one.** D.J. raised the floor and then opened the ceiling on 2026-08-20: Rule 9.2 is a **band of 4 to 5** across the whole schedule with the body of work **averaging 4.3-4.5**, so there is no single friction slot left for series to compete over. Wednesday runs 4.5-5; Monday and Friday run 4 to 4.3.
 
-**Heat 5 (naming a person, brokerage, coach, or product) is banned outright** and is now the only ceiling there is. Every post on this grid runs a few tenths beneath a banned line, which makes the ship test — *could a viewer name one company with confidence?* — a per-script check rather than a weekly one.
+**Heat 5 (naming a person, brokerage, coach, or product) is permitted and priced, not banned.** The governing number is the average, so a 5 needs 4.0s around it. Run `python3 scripts/content_board.py check-heat --board board.json` to see where the week actually sits — it says plainly when the schedule is running hot.
 
 ### Thursday -- 5 posts
 
@@ -159,7 +159,7 @@ evergreen lanes because they come off a shelf that is already stocked on Monday.
 |---|---|---|---|
 | **Mon** | Batch A, 9 videos for the week | Take, KIRP promo, giveaway | KIRP deck 8:00a, take deck 9:00a |
 | **Tue** | News, same day off the 5:30a brief | News, broker problem, Stupid Things | News deck 7:05a, broker deck 8:00a |
-| **Wed** | News, same day. Batch B if not Thu | Take (heat 4.7), news, Agent Tip | KIRP deck 8:00a, take deck 9:00a |
+| **Wed** | News, same day. Batch B if not Thu | Take (heat 4.5-5), news, Agent Tip | KIRP deck 8:00a, take deck 9:00a |
 | **Thu** | Spotlight, same week. Batch B, next week's 3 giveaways | Broker problem, KIRP promo, Spotlight | Two news decks 7:05a |
 | **Fri** | nothing | Take, giveaway | KIRP deck 8:00a, take deck 9:00a |
 | **Sat** | nothing | Giveaway, from the can | Two news decks 7:05a |
@@ -234,7 +234,7 @@ this grid has never invented a post to fill itself.
 
 0. The three discretionary slots go first -- that is what they are for. `content_board.py week --board board.json`
    names them, and cutting them costs nothing, because every lane still clears its minimum
-1. Takes drop from 3 to 1 -- **keep Wednesday**, the 4.7 slot doing the distinctive work
+1. Takes drop from 3 to 1 -- **keep Wednesday**, the 4.5-5 slot doing the distinctive work
 2. Carousels 14 → 7 (one a day)
 3. Videos 15 → 12
 

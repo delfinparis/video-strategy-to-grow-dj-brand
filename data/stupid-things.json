@@ -7,9 +7,12 @@
     "note": "Availability is counted in OPEN ANGLES, not practices. A practice with every angle spent is not gone, it is waiting for the refill routine to bank a new angle on the fix. D.J., 2026-08-13: same topics can run again as long as the angle on the solution is new.",
     "heat_band": {
       "floor": 4.0,
-      "ceiling": 4.7,
-      "banned": 5.0,
-      "note": "Rule 9.2 band, raised by D.J. 2026-08-20. Nothing ships below 4; 5 names an identifiable target and is banned outright. target:self entries cap at 4.3 -- they reach the band through specificity about the cost, never a harder verdict about the viewer."
+      "ceiling": 5.0,
+      "target_average": [
+        4.3,
+        4.5
+      ],
+      "note": "Rule 9.2 band, D.J. 2026-08-20. Nothing ships below 4. Heat 5 names an identifiable party and is permitted, priced against the 4.3-4.5 average rather than banned. Per-entry heat_ceiling stays a content judgment: most entries here indict a behaviour, which has no party to name, so 4.7 is as high as the material goes. target:self entries cap at 4.3 -- they reach the band through specificity about the cost, never a harder verdict about the viewer."
     }
   },
   "receipt_cautions": [

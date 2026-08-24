@@ -181,8 +181,17 @@ WEEKLY = {
 #
 # So there is no weekly budget left to spend, and nothing here counts one.
 HEAT_FLOOR = 4.0
-HEAT_CEILING = 4.7
-HEAT_BANNED = 5.0
+HEAT_CEILING = 5.0
+# D.J., 2026-08-20, revising the 4.7 ceiling set hours earlier: "all content can
+# do heat up to 5 - it should probably average at 4.3-4.5, but it can go to 5."
+#
+# So 5 is no longer banned, and the instrument changes shape again. A ceiling
+# says what one script may do; an AVERAGE says what the body of work is. Under an
+# average, a 5 is not forbidden, it is EXPENSIVE -- ship one and the week needs
+# 4.0s to pay for it. That is self-limiting in a way a cap never was, and it is
+# what he actually described.
+HEAT_AVG_MIN = 4.3
+HEAT_AVG_MAX = 4.5
 
 # A row that has left Open has spent one of the week's 12 slots.
 SPENT_STATUSES = {"Picked", "Filmed", "Posted"}
@@ -681,12 +690,11 @@ def week_report(rows, ref):
             "approx": sum(1 for _, how in used if how == "approx"),
         })
 
-    # Anything at or above the banned line that has already gone out. Under the
-    # old cadence rule this counted the week's one hot post; now it should always
-    # be empty, and a non-empty list is a script that should never have shipped.
-    banned = [r for lane_rows in spent.values() for r, _ in lane_rows
-              if float(r.get("heat") or 0) >= HEAT_BANNED]
-    return report, banned, undated
+    # Every heat that actually shipped this week, so the average can be read.
+    # The average is the governing number now, not any single script's register.
+    heats = [float(r["heat"]) for lane_rows in spent.values() for r, _ in lane_rows
+             if r.get("heat") is not None]
+    return report, heats, undated
 
 
 def cmd_week(args):
@@ -726,19 +734,29 @@ def cmd_week(args):
         print()
 
     if hot:
-        print("BANNED HEAT SHIPPED. %d post(s) at %g or above went out this week: %s"
-              % (len(hot), HEAT_BANNED,
-                 ", ".join(r.get("hook", "?")[:40] for r in hot)))
-        print("Heat 5 names a person, brokerage, coach or product. It is banned "
-              "outright, not rationed. These need reviewing.")
+        avg = sum(hot) / len(hot)
+        hottest = max(hot)
+        if avg < HEAT_AVG_MIN:
+            verdict = "COOL -- the body of work is softer than the target"
+        elif avg > HEAT_AVG_MAX:
+            verdict = "HOT -- sustained, not occasional. Spend some 4.0s"
+        else:
+            verdict = "on target"
+        print("Heat: %d post(s) shipped, average %.2f (target %g-%g), hottest %g. %s"
+              % (len(hot), avg, HEAT_AVG_MIN, HEAT_AVG_MAX, hottest, verdict))
+        if hottest >= 5.0:
+            print("  A 5 shipped this week. It names an identifiable party, so it "
+                  "carries the highest evidence burden in the system: the statute, "
+                  "the live litigation, or the enforcement docket. Say the exposure, "
+                  "never predict the verdict.")
     else:
-        print("Heat: band is %g to %g, nothing at or above %g has shipped."
-              % (HEAT_FLOOR, HEAT_CEILING, HEAT_BANNED))
+        print("Heat: nothing shipped yet this week. Band %g-%g, target average %g-%g."
+              % (HEAT_FLOOR, HEAT_CEILING, HEAT_AVG_MIN, HEAT_AVG_MAX))
 
     off_band = [r for r in rows
                 if r.get("status") in AVAILABLE_STATUSES
                 and r.get("heat") is not None
-                and not (HEAT_FLOOR <= float(r["heat"]) <= HEAT_CEILING)]
+                and not (HEAT_FLOOR <= float(r["heat"]) <= HEAT_CEILING)]  # 4.0-5.0
     if off_band:
         print()
         print("%d open row(s) sit outside the %g-%g band and cannot ship as written:"
@@ -776,31 +794,41 @@ def cmd_check_heat(args):
     """
     if args.heat is None:
         rows = load_board(args.board)
-        _, banned, _ = week_report(rows, today())
-        if banned:
-            print("%d shipped post(s) at or above the banned line %g:"
-                  % (len(banned), HEAT_BANNED))
-            for row in banned:
-                print("  heat %s  %s" % (row.get("heat"), row.get("hook", "?")[:50]))
+        _, heats, _ = week_report(rows, today())
+        if not heats:
+            print("Nothing shipped yet this week. Band %g-%g, target average %g-%g."
+                  % (HEAT_FLOOR, HEAT_CEILING, HEAT_AVG_MIN, HEAT_AVG_MAX))
+            return 0
+        avg = sum(heats) / len(heats)
+        print("%d post(s) shipped, average heat %.2f (target %g-%g), hottest %g."
+              % (len(heats), avg, HEAT_AVG_MIN, HEAT_AVG_MAX, max(heats)))
+        if avg > HEAT_AVG_MAX:
+            print("Running hot. A 5 is meant to be paid for with 4.0s, not "
+                  "sustained. Bank the next few at the floor.")
             return EXIT_HEAT_SPENT
-        print("Nothing at or above %g has shipped. Band is %g to %g."
-              % (HEAT_BANNED, HEAT_FLOOR, HEAT_CEILING))
+        if avg < HEAT_AVG_MIN:
+            print("Running cool for the target average.")
         return 0
 
     heat = float(args.heat)
-    if heat >= HEAT_BANNED:
-        print("heat %g is BANNED. Heat 5 names a person, a brokerage, a franchise, "
-              "a team, a coach, a coaching program, a product cast as the villain, "
-              "or an identifiable individual agent -- in the script, the captions, "
-              "or as a knowing wink. Ship test: could a viewer name one company "
-              "with confidence? Rewrite until the target is a category." % heat)
-        return EXIT_HEAT_SPENT
     if heat > HEAT_CEILING:
-        print("heat %g is over the %g ceiling and under the %g ban. That gap is "
-              "deliberately narrow: it is the room between a hard verdict about a "
-              "practice and a verdict about a party. Bring it back to %g."
-              % (heat, HEAT_CEILING, HEAT_BANNED, HEAT_CEILING))
+        print("heat %g is over the %g ceiling. 5 is the top of the scale."
+              % (heat, HEAT_CEILING))
         return EXIT_HEAT_SPENT
+    if heat >= 5.0:
+        print("heat 5 names an identifiable party -- a person, brokerage, franchise, "
+              "team, coach, coaching program, or a product cast as the villain. "
+              "Allowed since 2026-08-20 and it is the expensive end of the scale:")
+        print("  - it is priced against the %g-%g average, so this post needs 4.0s "
+              "around it" % (HEAT_AVG_MIN, HEAT_AVG_MAX))
+        print("  - highest evidence burden in the system. The statute, the live "
+              "litigation, or the real enforcement docket. Say the exposure, never "
+              "predict the verdict")
+        print("  - Rule 1 binds hardest here: no figure that cannot be sourced to a "
+              "named publisher and a year")
+        print("  - recruiting test (10.3): agents AT the named firm are the "
+              "recruiting target, and an agent whose firm is attacked defends it")
+        return 0
     if heat < HEAT_FLOOR:
         print("heat %g is under the %g floor. Since 2026-08-20 nothing ships below "
               "4. Do not bolt a manufactured hot take onto it -- Rule 1 still binds "
@@ -808,7 +836,8 @@ def cmd_check_heat(args):
               "naming and say it flatly, or the script is not ready."
               % (heat, HEAT_FLOOR))
         return EXIT_HEAT_SPENT
-    print("heat %g is inside the band (%g to %g)." % (heat, HEAT_FLOOR, HEAT_CEILING))
+    print("heat %g is inside the band (%g to %g, target average %g-%g)."
+          % (heat, HEAT_FLOOR, HEAT_CEILING, HEAT_AVG_MIN, HEAT_AVG_MAX))
     return 0
 
 

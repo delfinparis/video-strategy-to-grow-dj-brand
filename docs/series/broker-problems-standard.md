@@ -317,10 +317,14 @@ Until the field exists, this lane produces reach and no retrievable recruiting d
       under 60 characters, and keep the Kale rule and the no-named-target rule inside it too —
       a title is a caption, not an exception. See
       [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md#youtube-shorts-is-two-fields-not-one)
-- [ ] Heat is between **4 and 4.7** (Rule 9.2 band, raised by D.J. 2026-08-20). There is no slot
-      to surrender any more, so Run The Math With Me no longer waits on the take lane -- the
-      recommendation in "The heat budget" below was effectively adopted, by a different route
-      than the one it proposed
+- [ ] Heat is between **4 and 5** (Rule 9.2 band, D.J. 2026-08-20), with the body of work
+      averaging 4.3-4.5. There is no slot to surrender any more, so Run The Math With Me no
+      longer waits on the take lane
+- [ ] **If this is a 5, the lane's own strategy was weighed first.** 5 means naming the firm, and
+      this lane exists on the finding that an agent whose brokerage is attacked defends it out
+      loud -- turning a private doubt into a public commitment against us. Rule 9.2 permits it;
+      [`../strategy/2026-08-18-why-agents-leave.md`](../strategy/2026-08-18-why-agents-leave.md)
+      argues against it. Not a rule conflict, a judgment call, and it gets made deliberately
 - [ ] If Run The Math With Me: the concession clause is intact, the arithmetic hesitations
       survived the edit, and the closing question is left unanswered on camera
 - [ ] Rotation table in the bank updated with the entry and the date
