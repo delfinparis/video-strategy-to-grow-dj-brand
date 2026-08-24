@@ -156,9 +156,11 @@ proposed. Heat 5 went from banned to permitted-and-priced the same day, so a 5 i
 allowed by Rule 9.2 and argued against by this lane's own strategy. That is a judgment call the
 writer makes deliberately, per the pre-flight above.
 
-Run The Math With Me no longer waits for a surrendered slot. What it now has to clear instead is
-the ceiling: at 4.7 the arithmetic is public and the target is a category, and the moment a viewer
-could name one firm with confidence it is a 5 and it does not ship.
+Run The Math With Me no longer waits for a surrendered slot. What it has to clear instead is the
+lane's own judgment call: the arithmetic is public and the target is a category, and the moment a
+viewer could name one firm with confidence the script has become a 5. Rule 9.2 permits that now.
+This lane's strategy still argues against it, because an agent whose firm is named defends it out
+loud. Decide on purpose, and write down which way you went.
 
 ## Heat and the identifiable-target rule
 
