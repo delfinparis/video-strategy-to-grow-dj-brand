@@ -24,3 +24,8 @@ graphics/carousels/*/*.zip
 # the top of every run and stale the moment the run ends; the durable record of
 # board state is data/content-board-state.json, which IS tracked.
 board.json
+
+# An unfinished local take draft that collides with the shipped TAKE-001
+# (ai-listing-descriptions). Kept on disk, deliberately not tracked: see the
+# 2026-08-24 merge commit. Renumber and remove this line to ship it.
+scripts/takes/TAKE-001-meet-more-people-not-get-better.md
