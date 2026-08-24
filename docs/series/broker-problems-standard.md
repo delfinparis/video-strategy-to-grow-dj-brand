@@ -148,9 +148,14 @@ heat 4 built entirely on public arithmetic with no named party carry very differ
 and the current rule prices them identically. **A target-based cap would be a better instrument
 than a temperature-based one.**
 
-**This is D.J.'s call and it is a real change to a governing rule, not a lane-level decision.**
-Until he makes it, the cap holds as written and this flavor waits for a surrendered slot. Do not
-quietly ship a heat-4 broker problem in a week the take already spent the budget.
+**Resolved 2026-08-20, and the argument above won.** D.J. did not raise the cap from one heat-4
+post to two. He removed the temperature cap entirely and replaced it with a band of **4 to 4.7**
+plus the standing heat-5 ban -- which is precisely the "target-based cap would be a better
+instrument than a temperature-based one" recommendation, taken further than this section proposed.
+
+Run The Math With Me no longer waits for a surrendered slot. What it now has to clear instead is
+the ceiling: at 4.7 the arithmetic is public and the target is a category, and the moment a viewer
+could name one firm with confidence it is a 5 and it does not ship.
 
 ## Heat and the identifiable-target rule
 
@@ -312,8 +317,10 @@ Until the field exists, this lane produces reach and no retrievable recruiting d
       under 60 characters, and keep the Kale rule and the no-named-target rule inside it too —
       a title is a caption, not an exception. See
       [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md#youtube-shorts-is-two-fields-not-one)
-- [ ] Heat is 3.5 or below unless the take lane surrendered the slot this week (Run The Math
-      With Me is heat 4 and always needs the slot)
+- [ ] Heat is between **4 and 4.7** (Rule 9.2 band, raised by D.J. 2026-08-20). There is no slot
+      to surrender any more, so Run The Math With Me no longer waits on the take lane -- the
+      recommendation in "The heat budget" below was effectively adopted, by a different route
+      than the one it proposed
 - [ ] If Run The Math With Me: the concession clause is intact, the arithmetic hesitations
       survived the edit, and the closing question is left unanswered on camera
 - [ ] Rotation table in the bank updated with the entry and the date

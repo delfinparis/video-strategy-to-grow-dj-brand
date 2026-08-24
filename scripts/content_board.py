@@ -166,9 +166,23 @@ WEEKLY = {
     "KIRP Episode":                  (1,  2),
 }
 
-# Rule 9.2: one heat-4-or-higher video across the entire week.
-HEAT_4_BUDGET = 1
-HOT = 4.0
+# Rule 9.2, as rewritten by D.J. on 2026-08-20. The old rule was a cadence cap:
+# one heat-4-or-higher video a week across the whole grid. It is now a BAND.
+#
+#     floor 4.0   nothing ships below it
+#     ceiling 4.7 everything a 4 does with no hedge left in it
+#     5.0         BANNED -- names a person, brokerage, coach, or product
+#
+# The cap moved off temperature and onto target, which is the axis that actually
+# carries the risk: a 4 built on public arithmetic with no named party and a 5
+# naming a brokerage were priced identically by the old rule and are not remotely
+# the same exposure. docs/series/broker-problems-standard.md had already argued
+# this; the raise adopted it.
+#
+# So there is no weekly budget left to spend, and nothing here counts one.
+HEAT_FLOOR = 4.0
+HEAT_CEILING = 4.7
+HEAT_BANNED = 5.0
 
 # A row that has left Open has spent one of the week's 12 slots.
 SPENT_STATUSES = {"Picked", "Filmed", "Posted"}
@@ -667,9 +681,12 @@ def week_report(rows, ref):
             "approx": sum(1 for _, how in used if how == "approx"),
         })
 
-    hot = [r for lane_rows in spent.values() for r, _ in lane_rows
-           if float(r.get("heat") or 0) >= HOT]
-    return report, hot, undated
+    # Anything at or above the banned line that has already gone out. Under the
+    # old cadence rule this counted the week's one hot post; now it should always
+    # be empty, and a non-empty list is a script that should never have shipped.
+    banned = [r for lane_rows in spent.values() for r, _ in lane_rows
+              if float(r.get("heat") or 0) >= HEAT_BANNED]
+    return report, banned, undated
 
 
 def cmd_week(args):
@@ -709,11 +726,28 @@ def cmd_week(args):
         print()
 
     if hot:
-        print("Heat %g+ slot: SPENT by %s. Rule 9.2 -- keep the rest of the week "
-              "at 3.5 or below." % (HOT, ", ".join(r.get("hook", "?")[:40] for r in hot)))
+        print("BANNED HEAT SHIPPED. %d post(s) at %g or above went out this week: %s"
+              % (len(hot), HEAT_BANNED,
+                 ", ".join(r.get("hook", "?")[:40] for r in hot)))
+        print("Heat 5 names a person, brokerage, coach or product. It is banned "
+              "outright, not rationed. These need reviewing.")
     else:
-        print("Heat %g+ slot: open. Rule 9.2 allows %d this week."
-              % (HOT, HEAT_4_BUDGET))
+        print("Heat: band is %g to %g, nothing at or above %g has shipped."
+              % (HEAT_FLOOR, HEAT_CEILING, HEAT_BANNED))
+
+    off_band = [r for r in rows
+                if r.get("status") in AVAILABLE_STATUSES
+                and r.get("heat") is not None
+                and not (HEAT_FLOOR <= float(r["heat"]) <= HEAT_CEILING)]
+    if off_band:
+        print()
+        print("%d open row(s) sit outside the %g-%g band and cannot ship as written:"
+              % (len(off_band), HEAT_FLOOR, HEAT_CEILING))
+        for row in off_band[:12]:
+            where = "under the floor" if float(row["heat"]) < HEAT_FLOOR else "over the ceiling"
+            print("  heat %-4s %s  %s" % (row["heat"], where, row.get("hook", "?")[:46]))
+        if len(off_band) > 12:
+            print("  ... and %d more" % (len(off_band) - 12))
 
     approx = sum(r["approx"] for r in report)
     if approx:
@@ -734,22 +768,47 @@ def cmd_week(args):
 
 
 def cmd_check_heat(args):
-    """Advisory guard for Rule 9.2, for a routine about to bank a hot row."""
-    rows = load_board(args.board)
-    _, hot, _ = week_report(rows, today())
-    if args.heat is not None and float(args.heat) < HOT:
-        print("heat %g is under the %g threshold -- Rule 9.2 does not apply."
-              % (float(args.heat), HOT))
+    """Is this row inside the Rule 9.2 band? Floor 4, ceiling 4.7, 5 banned.
+
+    Unlike the cadence check this replaced, this needs no week context and is not
+    advisory: the band is a property of the single script in front of you, not of
+    what else happened to ship on Tuesday. It is a hard check and it exits non-zero.
+    """
+    if args.heat is None:
+        rows = load_board(args.board)
+        _, banned, _ = week_report(rows, today())
+        if banned:
+            print("%d shipped post(s) at or above the banned line %g:"
+                  % (len(banned), HEAT_BANNED))
+            for row in banned:
+                print("  heat %s  %s" % (row.get("heat"), row.get("hook", "?")[:50]))
+            return EXIT_HEAT_SPENT
+        print("Nothing at or above %g has shipped. Band is %g to %g."
+              % (HEAT_BANNED, HEAT_FLOOR, HEAT_CEILING))
         return 0
-    if len(hot) >= HEAT_4_BUDGET:
-        print("Heat %g+ slot for %s is already spent by: %s"
-              % (HOT, week_key(today()),
-                 ", ".join(r.get("hook", "?")[:50] for r in hot)))
-        print("Rule 9.2 allows %d a week. Bank this row at 3.5 or below, or hold "
-              "it for next week. This is ADVISORY -- the week dating is "
-              "approximate when the snapshot has no picked_on." % HEAT_4_BUDGET)
+
+    heat = float(args.heat)
+    if heat >= HEAT_BANNED:
+        print("heat %g is BANNED. Heat 5 names a person, a brokerage, a franchise, "
+              "a team, a coach, a coaching program, a product cast as the villain, "
+              "or an identifiable individual agent -- in the script, the captions, "
+              "or as a knowing wink. Ship test: could a viewer name one company "
+              "with confidence? Rewrite until the target is a category." % heat)
         return EXIT_HEAT_SPENT
-    print("Heat %g+ slot for %s is open." % (HOT, week_key(today())))
+    if heat > HEAT_CEILING:
+        print("heat %g is over the %g ceiling and under the %g ban. That gap is "
+              "deliberately narrow: it is the room between a hard verdict about a "
+              "practice and a verdict about a party. Bring it back to %g."
+              % (heat, HEAT_CEILING, HEAT_BANNED, HEAT_CEILING))
+        return EXIT_HEAT_SPENT
+    if heat < HEAT_FLOOR:
+        print("heat %g is under the %g floor. Since 2026-08-20 nothing ships below "
+              "4. Do not bolt a manufactured hot take onto it -- Rule 1 still binds "
+              "harder than the floor. Find the wrong default this script is actually "
+              "naming and say it flatly, or the script is not ready."
+              % (heat, HEAT_FLOOR))
+        return EXIT_HEAT_SPENT
+    print("heat %g is inside the band (%g to %g)." % (heat, HEAT_FLOOR, HEAT_CEILING))
     return 0
 
 
@@ -894,7 +953,8 @@ def main():
     p = sub.add_parser("check-heat")
     p.add_argument("--board", required=True)
     p.add_argument("--heat", type=float, default=None,
-                   help="Heat of the row about to be banked. Under 4, always exits 0.")
+                   help="Heat of the row about to be banked. Omit to scan the board "
+                        "for anything already shipped at or above the banned line.")
     p.set_defaults(fn=cmd_check_heat)
 
     p = sub.add_parser("footer")

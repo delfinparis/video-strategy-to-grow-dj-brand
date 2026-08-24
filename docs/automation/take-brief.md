@@ -110,7 +110,8 @@ Beyond running the script, the routine owns the part that needs judgment and the
 3. **Write the hook, swap, and loop-back** per the take standard: spoken scroll-stop, tension
    in the first 3-5 words, friction outward at the incentive, swap physical and doable
    tomorrow.
-4. **Assign slots.** Exactly one Wednesday pick (the week's only heat-4 post under Rule 9.2),
+4. **Assign slots.** Exactly one Wednesday pick (the week's hardest swing, 4.7 at the top of
+   the Rule 9.2 band; Mon and Fri run 4 to 4.3),
    the rest across Mon and Fri, hook families rotated per the standard.
 5. **Never name** a brokerage, coach, product, or individual agent. That is heat 5 and banned
    outright in this lane.

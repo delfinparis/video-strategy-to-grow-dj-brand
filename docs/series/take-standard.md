@@ -84,15 +84,22 @@ Three takes a week does not get to break it.
 | Slot | Heat | Hook family | Posture |
 |---|---|---|---|
 | **Mon** | 3.5 | 9 (Swap / List) | Defensible contrarian. Names the wrong default, cites the source |
-| **Wed** | **4** | 2 (Sacred Cow) or 4 (System Indictment) | The week's one friction slot. Names a practice or an incentive as wrong |
-| **Fri** | 3-3.5 | 7 (Forbidden), 8 (Cohort Callout), or 5 (Confession) | Contrarian from a different angle |
+| **Wed** | **4.7** | 2 (Sacred Cow) or 4 (System Indictment) | The week's hardest swing. Names a practice or an incentive as wrong, with nothing hedged |
+| **Fri** | 4-4.3 | 7 (Forbidden), 8 (Cohort Callout), or 5 (Confession) | Contrarian from a different angle |
 
-**Wednesday is the only heat-4 video anywhere in the week.** If a News or Broker Problems script
-wants heat 4 that week, one of them gives way -- the cap is one post, not one per series. The
-`news_brief.py` hook-cadence banner reports whether the friction slot is still open; check it
-before drafting.
+**The friction slot is gone, because every slot is now a friction slot.** D.J. raised the floor on
+2026-08-20: Rule 9.2 is a **band of 4 to 4.7** across the entire schedule, not one heat-4 post a
+week. Nothing in this lane ships below 4, and Wednesday is no longer special for being hot -- it is
+special for being the week's hardest swing inside the band.
 
-**Heat 5 is banned in this lane, permanently.** Heat 5 means naming a person, a brokerage, a
+The old weekly-slot arithmetic and the `news_brief.py` friction-slot banner are both obsolete:
+there is no slot left to compete for. What replaces them is the ceiling, and the ceiling is a
+target test rather than a temperature one -- see below.
+
+**Heat 5 is banned in this lane, permanently, and the 2026-08-20 raise made this rule matter more
+rather than less.** With the floor at 4 and the ceiling at 4.7, every script in this lane now runs
+a few tenths below the banned line, so the ship test gets read on every draft instead of once a
+week. Heat 5 means naming a person, a brokerage, a
 coach, or a specific product as wrong. D.J. runs a 769-agent brokerage and is on the record in
 trade press. Point at the practice and the incentive behind it, never at a named party. This is
 not a cadence rule that can be spent; it is a floor.

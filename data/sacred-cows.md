@@ -38,11 +38,14 @@ A candidate is only a take if it clears all four:
 names the wrong default," which the register already describes as high comment volume at
 manageable risk.
 
-**Video: 3.5 default, with exactly one heat 4 per week.** Rule 9.2 caps heat 4-5 at one
-post a week across the entire publishing schedule, and that slot is the **Wednesday take
-video**. It is one post, not one per series -- if a News or Broker Problems script wants
-heat 4 that week, one of them gives way. Check the `news_brief.py` hook-cadence banner
-before drafting.
+**Video: the band is 4 to 4.7.** D.J. raised the floor on 2026-08-20. Rule 9.2 no longer
+caps heat 4-5 at one post a week; nothing ships below 4 and nothing reaches 5. The
+**Wednesday take** takes the top of the band at 4.7, Monday and Friday run 4 to 4.3.
+
+There is no friction slot left for series to compete over, so the `news_brief.py`
+hook-cadence banner has nothing to report and no script waits on another lane yielding.
+What replaced the cap is the ceiling below, and it is a target test rather than a
+temperature one.
 
 **Never name a person, a brokerage, a coaching program, or a software product.** That is
 heat 5 and it is banned outright on both surfaces, not rationed. Point at the practice and
@@ -297,6 +300,20 @@ Profits: the recruiting pitch that needs a full-time body. Turn: the part-timer 
 a real database beats the full-timer who waits at open houses. Evidence: research.
 **Heat check:** this defends a cohort rather than attacking one, which is the right shape.
 
+**"You need to get better before you can grow."**
+Profits: the training economy. Courses, coaching, another designation. A skill gap is
+recurring revenue; a math problem gets answered once. Turn: at a 2.8% national turnover
+rate, a 200-person database holds about six transactions a year no matter how good the
+agent is. The constraint is the size of the list, not ability. Evidence: **verified.**
+Redfin home turnover report, 31 Oct 2025, 28 of every 1,000 U.S. homes changed hands
+(2.8%), lowest in at least 30 years.
+**Reconciliation:** this sits in tension with *"Real estate is a numbers game"* in the
+Prospecting and follow-up section, which argues volume on a broken conversation just
+scales the broken part. Both can be true and the line between them is where the agent
+actually is: this entry is for the agent whose conversations already convert and whose
+list is too small to feed them. **Do not run both entries in the same 8-week window**, and
+settle which one D.J. defends before the second one ships.
+
 **"Just hustle harder."**
 Profits: hustle-culture coaching. Turn: hours are the input an agent controls least and
 measures worst. Evidence: research or archive tie-in.
@@ -357,3 +374,4 @@ Rows dated before 2026-08-10 predate the video lane and are carousel-only.
 | 2026-08-07 | "Stack hashtags for reach" (Marketing and social) | -- | `scripts/carousels/TAKE-hashtag-stacking-carousel.md` |
 | 2026-08-10 | "Switching means starting over. Your clients won't follow." (Brokerage economics) | -- | `scripts/carousels/TAKE-switching-brokerages-carousel.md` |
 | 2026-08-12 | "Chase the follower count." (Marketing and social) | -- | `scripts/carousels/TAKE-follower-count-carousel.md` |
+| 2026-08-17 | "You need to get better before you can grow." (Career and identity) | `scripts/takes/TAKE-001-meet-more-people-not-get-better.md` | -- |

@@ -108,7 +108,7 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 
 **Beat 2 is why this is a pillar and not a hook style.** Naming who makes money from a belief surviving is what separates a take from a tip, and it is what keeps friction pointed outward at an incentive instead of down at the agent who believed it. Candidates live in [`../data/sacred-cows.md`](../data/sacred-cows.md), which records a `Profits:` line for every entry so that beat is never improvised.
 
-**Heat discipline is the whole design constraint.** 3.5 on Monday and Friday, exactly one heat 4 on Wednesday. Rule 9.2 caps heat 4-5 at one post per week across the *entire* schedule, so the Wednesday take spends the brand's only friction slot. Heat 5 (naming a person, brokerage, coach, or product) is banned outright in this lane.
+**Heat discipline is still the whole design constraint, but the constraint moved.** D.J. raised the floor on 2026-08-20: Rule 9.2 is now a **band of 4 to 4.7** across the entire schedule, replacing the one-heat-4-post-per-week cap. Monday and Friday run 4 to 4.3, Wednesday runs 4.7. Nothing ships below 4. **Heat 5 (naming a person, brokerage, coach, or product) is banned outright**, and with the whole schedule now running a few tenths beneath it, that ban is the only thing standing between this brand and a public fight — so the ship test gets read on every script, not once a week.
 
 **Each take pairs with the take carousel already scheduled that day.** Same bank entry, one verification pass, two surfaces: the video argues it, the carousel hands over the receipt in saveable form. That pairing is the only reason 3 more videos a week is affordable at the quality floor.
 

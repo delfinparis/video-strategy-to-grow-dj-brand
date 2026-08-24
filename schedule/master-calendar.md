@@ -43,7 +43,7 @@ Governing docs, in precedence order when they conflict:
 |---|---|---|---|---|---|:--:|
 | **Mon** | Take | KIRP promo | Giveaway: say this 🔒 | KIRP episode | Take 🔒 | 5 |
 | **Tue** | News / IIR | Broker Problem | Stupid Things | Broker-problem compare | News / tip | 5 |
-| **Wed** | Take (heat 4) | News / IIR | Agent Tip | KIRP episode | Take | 5 |
+| **Wed** | Take (heat 4.7) | News / IIR | Agent Tip | KIRP episode | Take | 5 |
 | **Thu** | Broker Problem | KIRP promo | Agent Spotlight | News / tip | News / tip 🔒 | 5 |
 | **Fri** | Take | Giveaway: AI prompt 🔒 | -- | KIRP episode | Take | 4 |
 | **Sat** | Giveaway: tool use-case 🔒 | -- | -- | News / tip | News / tip | 3 |
@@ -66,7 +66,7 @@ script, not in this table, because a number maintained in two places drifts.
 
 | Slot | Category | Gate | Fed by | Post window (CT) |
 |---|---|---|---|---|
-| Video | **The Take** (heat 3.5) | none | Sunday take brief, `data/take-briefs/` | LI 2-5pm, IG 12-6pm, FB 5-8pm |
+| Video | **The Take** (heat 4-4.3) | none | Sunday take brief, `data/take-briefs/` | LI 2-5pm, IG 12-6pm, FB 5-8pm |
 | Video | **KIRP promo** | none | Hype Machine, `scripts/podcast-promos/` | midday |
 | Video | **Giveaway: "say this, not that"** | 🔒 keyword | purpose-built doc per tip | IG/FB midday-evening |
 | Carousel | **KIRP episode** | none | 8:00am routine | mid-morning |
@@ -90,13 +90,15 @@ Monday's take and take carousel work the **same** [`sacred-cows.md`](../data/sac
 
 | Slot | Category | Gate | Fed by | Post window (CT) |
 |---|---|---|---|---|
-| Video | **The Take -- heat 4** | none | Sunday take brief | LI 2-5pm |
+| Video | **The Take -- heat 4.7** | none | Sunday take brief | LI 2-5pm |
 | Video | **News / Inside the Industry** | none | 5:30am walk-and-talk brief | midday |
 | Video | **Agent Tip** | none | [Content Board](../docs/automation/content-board.md), **Agent Tip** lane | IG/FB midday-evening |
 | Carousel | **KIRP episode** | none | 8:00am routine | mid-morning |
 | Carousel | **Take** | none | 9:00am routine | afternoon |
 
-**This is the week's only heat-4 post.** Rule 9.2 caps heat 4-5 at one post across the entire schedule, and Wednesday spends it. If a News or Broker Problem script wants heat 4 in a given week, one of them gives way. Heat 5 (naming a person, brokerage, coach, or product) is banned in the take lane outright.
+**Wednesday is the week's hardest swing, not its only hot one.** D.J. raised the floor on 2026-08-20: Rule 9.2 is a **band of 4 to 4.7** across the whole schedule, so there is no single friction slot left for series to compete over. Wednesday takes the top of the band at 4.7; Monday and Friday run 4 to 4.3.
+
+**Heat 5 (naming a person, brokerage, coach, or product) is banned outright** and is now the only ceiling there is. Every post on this grid runs a few tenths beneath a banned line, which makes the ship test — *could a viewer name one company with confidence?* — a per-script check rather than a weekly one.
 
 ### Thursday -- 5 posts
 
@@ -114,7 +116,7 @@ Same comment duty as Tuesday on the Broker Problem video.
 
 | Slot | Category | Gate | Fed by | Post window (CT) |
 |---|---|---|---|---|
-| Video | **The Take** (heat 3.5) | none | Sunday take brief | LI 2-5pm |
+| Video | **The Take** (heat 4-4.3) | none | Sunday take brief | LI 2-5pm |
 | Video | **Giveaway: AI prompt** | 🔒 keyword | the 700-prompt vault, tapthis.co | IG/FB midday |
 | Carousel | **KIRP episode** | none | 8:00am routine | mid-morning |
 | Carousel | **Take** | none | 9:00am routine | afternoon |
@@ -157,7 +159,7 @@ evergreen lanes because they come off a shelf that is already stocked on Monday.
 |---|---|---|---|
 | **Mon** | Batch A, 9 videos for the week | Take, KIRP promo, giveaway | KIRP deck 8:00a, take deck 9:00a |
 | **Tue** | News, same day off the 5:30a brief | News, broker problem, Stupid Things | News deck 7:05a, broker deck 8:00a |
-| **Wed** | News, same day. Batch B if not Thu | Take (heat 4), news, Agent Tip | KIRP deck 8:00a, take deck 9:00a |
+| **Wed** | News, same day. Batch B if not Thu | Take (heat 4.7), news, Agent Tip | KIRP deck 8:00a, take deck 9:00a |
 | **Thu** | Spotlight, same week. Batch B, next week's 3 giveaways | Broker problem, KIRP promo, Spotlight | Two news decks 7:05a |
 | **Fri** | nothing | Take, giveaway | KIRP deck 8:00a, take deck 9:00a |
 | **Sat** | nothing | Giveaway, from the can | Two news decks 7:05a |
@@ -232,7 +234,7 @@ this grid has never invented a post to fill itself.
 
 0. The three discretionary slots go first -- that is what they are for. `content_board.py week --board board.json`
    names them, and cutting them costs nothing, because every lane still clears its minimum
-1. Takes drop from 3 to 1 -- **keep Wednesday**, the heat-4 slot doing the distinctive work
+1. Takes drop from 3 to 1 -- **keep Wednesday**, the 4.7 slot doing the distinctive work
 2. Carousels 14 → 7 (one a day)
 3. Videos 15 → 12
 
