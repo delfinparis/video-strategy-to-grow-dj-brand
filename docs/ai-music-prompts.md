@@ -1,6 +1,8 @@
 # CapCut AI Music Prompts for Walk-and-Talk Reels
 
-How to generate background music for D.J.'s walk-and-talk reels (Inside the Industry NF/IS/IA, The Playbook, AI Tip of the Week, podcast promos — anything that's 45-75s of D.J. talking to camera).
+How to generate background music for D.J.'s walk-and-talk reels (Inside the Industry NF/IS/IA, The Playbook, AI Tip of the Week, podcast promos — anything that's 22-35s of D.J. talking to camera).
+
+**Runtime changed 2026-08-15** (Rule 7: 22-30s target, 35s hard cap). Two things follow for the music. **Put the runtime hint in every CapCut prompt as "25-30s"**, not the old 55-60s, or the generator builds an arrangement with a development section the video never reaches. And **ask for a bed that is already at full energy on the first beat** -- at 25 seconds there is no room for an intro ramp, so add `starts at full energy, no intro build` to the prompt and drop a less important exclusion to stay inside the 300-character cap.
 
 **D.J. edits only in CapCut.** Every prompt in this doc is written for CapCut's AI Music generator. There is no Suno/Udio prompt anymore. Copy the preset, tune 2-3 variables, paste into CapCut AI Music. Music goes **under** the voice at 10-15% volume max (per [`capcut-editing-playbook.md`](capcut-editing-playbook.md) Part 6) — its only job is to keep the viewer's nervous system engaged, never to compete with what D.J. is saying.
 

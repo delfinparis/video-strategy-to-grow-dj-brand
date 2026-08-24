@@ -104,9 +104,12 @@ The watchpoint close works for NF scripts where the news is unfolding. It still 
 
 ## Length target
 
-- **Target: 45-60 seconds** (approximately 100-150 spoken words).
-- **Hard cap: 75 seconds** (approximately 185 spoken words).
-- Inside the Industry scripts typically need slightly more room than Agent Tip or Playbook because they carry more context (the news event, the 700-interview pattern, the access observation). The extra length is earned when the context is necessary for the insight to land.
+- **Target: 22-30 seconds** (48-72 spoken words).
+- **Hard cap: 35 seconds** (85 spoken words). No exceptions, no earned-length clause.
+- Set 2026-08-15, replacing the old 45-60s target and 75s cap. See Rule 7 in [`editorial-standards.md`](../editorial-standards.md) for why completion now sets the number.
+- **This series lost the most room, and that is deliberate.** Inside the Industry used to claim extra length for context: the news event, the 700-interview pattern, the access observation. At 60 words you get *one* of those, not all three. Pick the one the insight actually needs and cut the other two. The 700-interview pattern is usually the one worth keeping, because it is the thing no other account can say.
+- **Say the news in one clause, not one paragraph.** "NAR just changed what you owe your seller" is the whole setup. The viewer does not need the docket number, the date, and the committee that voted before the take arrives. Sourcing rigor still binds in full: the named source, date, and URL live in the `## Data Source` block, which is not spoken and does not count against the word budget.
+- If a story genuinely carries two separate second-order reads, that is two scripts on two days, and both will out-perform the merged version.
 
 ---
 

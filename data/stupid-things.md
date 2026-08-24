@@ -126,24 +126,28 @@ comments and sends.
 
 ## Heat, and the line that does not move
 
-**Band 4 to 5, body of work averaging 4.3-4.5** (Rule 9.2, D.J. 2026-08-20). There is no
-weekly friction slot to compete for any more and no hook-cadence banner to check: every script
-in every series now lives in this band. A 5 names an identifiable party and is priced against
-the average -- ship one and the next few come in at the floor.
+**Band 4 to 5, body of work averaging 4.3-4.5** (Rule 9.2, D.J. 2026-08-20, superseding the
+2026-08-15 flat-4 revision). There is no weekly friction slot to compete for and no shared
+ration to check: every script in every series now lives in this band. A 5 names an identifiable
+party and is priced against the average, so ship one and the next few come in at the floor.
 
 **This lane got the instruction first** ("up the spice level" for the do-this-don't-do-that
 tips, 2026-08-20), and what it means here is specific. This lane's friction has always pointed
 at a *behavior*, which is already the safest place to put it, so raising the floor costs this
 lane less than it costs the others. Write to the top of the band: name the wrong default flatly,
 put the cost in the first ten seconds, and cut the softeners -- "maybe," "a lot of agents,"
-"this might be," "I could be wrong." A 4.7 in this lane is a verdict with a receipt, not a
+"this might be," "I could be wrong." Heat in this lane is a verdict with a receipt, not a
 stronger adjective.
 
-**`target: self` entries carry the floor differently.** When the "don't do that" points at the
-viewer, a hotter register reads as contempt rather than candour, and Test 4 of the qualifying
-test still bans blaming the agent for having believed it. Take those to 4.7 through *specificity
-about the cost*, never through a harder verdict about the person. The sideways entries are where
-a flat verdict belongs.
+**The real ceiling here comes from the target rule, not from a number.** `target: sideways`
+entries carry full heat because the wronged party is the agent watching. **`target: self`
+entries cap at 4.3**, because the viewer is the one doing the stupid thing and **Rule 9.4 does
+not let friction point at them**. Test 4 of the qualifying test still bans blaming the agent for
+having believed it. Those entries reach the band through *specificity about the cost*, never
+through a harder verdict about the person.
+
+**Never manufacture the fight to reach the floor.** A practice with no wrong default worth
+naming is not a heat problem, it is the wrong practice. Drop it and pick another.
 
 **Heat 5 is banned outright.** Never name a brokerage, franchise, team, coach, coaching
 program, software product presented as the villain, or an identifiable individual agent. Not
@@ -188,8 +192,9 @@ out until it traces to primary research.
 
 ## The four-beat reel this bank is built for
 
-D.J.'s formula, and the reason every entry carries the fields it does. A complete 30-45 second
-reel is already sitting in each entry:
+D.J.'s formula, and the reason every entry carries the fields it does. A complete 22-30 second
+reel (48-72 spoken words, hard cap 35s, per Rule 7 as revised 2026-08-15) is already sitting in
+each entry, one sentence per beat:
 
 ```
 HOOK          the angle's `hook` -- spoken, because captions.ai builds captions from audio

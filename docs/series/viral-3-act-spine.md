@@ -94,11 +94,22 @@ You need all three.
 
 ---
 
-## Story is mandatory for some series, compressed for others
+## Story is compressed for every series now
 
-Story takes time. Density is the other superpower of this content, and Rule 7 (cut every second past
-45, 30-45s is the sweet spot) is non-negotiable. For tactical content, a full three-act narrative
-adds length the format doesn't want. So the spine applies at two intensities:
+**Revised 2026-08-15.** This section used to split the roster into narrative series (full three
+acts) and tactical series (compressed Act 2). That split is retired. Rule 7 now sets a 22-30
+second target with a 35-second hard cap, and **48-72 spoken words cannot hold a developed middle
+in any series.** Every walk-and-talk runs the compressed Act 2: one sentence carrying one real
+turn, then the payload.
+
+What did *not* change: the turn is still mandatory. A one-sentence Act 2 with no turn is a
+briefing, and the Story Pass fails it exactly as before. Compression is about how many words the
+turn gets, never about whether there is one. The reorder test still applies to that single
+sentence: if it could be swapped with the sentence before it without breaking anything, there is
+no turn in it.
+
+The table below is kept for reference on *which* story shape each series reaches for, but the
+"story intensity" column is now historical -- read every row as compressed.
 
 | Series | Type | Story intensity |
 |---|---|---|
@@ -182,7 +193,7 @@ ACT 1  HOOK     stop the scroll AND promise the payoff (open the loop)
 ACT 2  STORY    subject + turn + micro-loops (NOT exposition; NOT invented)
 ACT 3  PAYOFF   resolve the loop -> hand over the action -> loop back
 
-Narrative series (NF/IS/IA, Podcast Promo): full 3-act, mandatory.
-Tactical series (Playbook, WAW, tapthis): compressed -- one story beat, length wins.
+EVERY series: compressed -- Act 2 is one sentence with one real turn, then the payload.
+22-30s, 48-72 spoken words, hard cap 35s. No series runs the full 3-act version anymore.
 Rule 1 and Rule 7 override the story instinct. Always.
 ```

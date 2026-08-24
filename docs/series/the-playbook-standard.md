@@ -54,7 +54,7 @@ The WHY beat also serves as the reframe - it shifts how the viewer thinks about 
 - **Act 2 (STORY, compressed):** DON'T -- the mirror-moment turn, one beat. The viewer recognizes their wrong default. Do not develop past recognition.
 - **Act 3 (PAYOFF):** DO (resolve: the exact words) -> WHY (the reframe) -> TRY THIS (the action + loop-back to the scenario).
 
-If story discipline ever pushes the script past the 50-second cap, compress back. Length wins (universal Rule 7).
+If story discipline ever pushes the script past the 35-second cap, compress back. Length wins (universal Rule 7).
 
 The Playbook scripts move through these beats in this order.
 
@@ -66,16 +66,23 @@ The Playbook scripts move through these beats in this order.
 5. TRY THIS - "Here's what you do now." Specific application.
 ```
 
-### Beat length guidance (for a 40-second script)
+### Beat length guidance (for a 25-second script)
+
+Revised 2026-08-15 from the old 40-second table.
 
 | Beat | Target seconds | Target words |
 | --- | --- | --- |
-| Scenario | 3-5 | 8-12 |
-| Don't | 5-8 | 12-20 |
-| Do (the exact words) | 10-15 | 25-35 |
-| Why | 8-12 | 20-30 |
-| Try this | 5-8 | 12-20 |
-| **Total** | **~40s** | **~80-120 words** |
+| Scenario | 2-3 | 6-9 |
+| Don't | 3-4 | 8-11 |
+| **Do (the exact words)** | **8-10** | **20-26** |
+| Why | 4-5 | 10-13 |
+| Try this | 3-4 | 7-10 |
+| **Total** | **~25s** | **~55-68 words** |
+
+**The DO beat keeps its share and everything else pays.** The exact words are the entire reason
+the viewer stopped, so the payload holds at roughly 40% of the runtime while the surrounding
+beats each compress to a single sentence. A Playbook script that trims the quoted words to make
+room for a fuller WHY has cut the wrong thing.
 
 ### Why this order
 
@@ -85,9 +92,10 @@ The scenario IS the hook - the viewer is already in this situation or will be so
 
 ## Length target
 
-- **Target: 30-45 seconds** (approximately 65-110 spoken words).
-- **Hard cap: 50 seconds** (approximately 110-125 words).
-- Playbook scripts should be tight. The scenario is pre-understood (the viewer is already living it). The words are short (one or two sentences). The why is one paragraph. If it's running long, the WHY is usually the padding - cut there first.
+- **Target: 22-30 seconds** (48-72 spoken words).
+- **Hard cap: 35 seconds** (85 spoken words). Set 2026-08-15, replacing the old 30-45s target and 50s cap.
+- Playbook scripts should be tight. The scenario is pre-understood (the viewer is already living it). The words are short (one or two sentences). The WHY is now **one sentence, not one paragraph**. If it's running long, the WHY is still the padding - cut there first, then the scenario.
+- **Never cut the quoted words to make length.** They are the payload. Cut the WHY to a clause, drop the TRY THIS to five words, merge the scenario into the DON'T. The exact phrasing in quotes is the last thing standing.
 
 ---
 

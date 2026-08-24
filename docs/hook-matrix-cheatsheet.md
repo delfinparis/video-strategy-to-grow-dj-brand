@@ -47,8 +47,10 @@ Pick a family on purpose. Log it as `hook_family`. Don't repeat a family two pos
 
 ## Cadence
 
-- Heat **4-5** (Sacred Cow, System Indictment) = **once a week max.**
-- Everything else carries the daily load at heat **2-3.5.**
+- Heat **4** is the **default** (revised 2026-08-15). Sacred Cow and System Indictment are the normal choice, not a weekly ration.
+- The other families stay in rotation for variety, but each has to open on a **cost, a loss, or a wrong default** to earn heat 4.
+- Heat **5** (naming a person, brokerage, coach, or product as wrong) is **banned outright**, not rationed.
+- Friction points **outward** at a belief, tool, practice, or system. Never at the agent. This is what replaced the weekly cap, so it is absolute.
 - Every **~2 weeks**: run one **emotional / identity** post instead of a tip (permission slip, why-this-work-matters). That's what earns follows.
 
 ## Power phrases (slot into any family)

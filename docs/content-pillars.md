@@ -44,7 +44,7 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 ## Pillar 1: Value Giveaways (the lead engine)
 
 **Series role:** the only gated video pillar. This is where leads come from.
-**Format:** talking-head walk-and-talk, 45-75s, teaching one thing on camera and gating a deeper artifact.
+**Format:** talking-head walk-and-talk, 22-30s (hard cap 35s), teaching one thing on camera and gating a deeper artifact.
 **Gate:** a single spoken keyword ask on Instagram and Facebook, delivered by ManyChat auto-DM. Never on LinkedIn. Governed by the Rule 4 value-exchange exception in [`editorial-standards.md`](editorial-standards.md).
 
 **Design rule (non-negotiable):** the video must be worth watching even if nobody comments. Teach the thing on camera; gate the doc/tool that goes deeper. Six ungated-feeling value videos a week is a content brand. Six "watch the rest in the DM" videos a week is six ads, and the reach dies. Enforce this on every giveaway.
@@ -68,7 +68,7 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 ## Pillar 2: News / Inside the Industry
 
 **Series role:** reach, authority, and the NAR/institutional signal.
-**Format:** the Inside the Industry NF (news flash) and IS (synthesis) sub-types, 45-75s, sharp take on real estate industry news within 24 hours, Chicago angle where possible. 2 of the best stories per week, not every story.
+**Format:** the Inside the Industry NF (news flash) and IS (synthesis) sub-types, 22-30s (hard cap 35s), sharp take on real estate industry news within 24 hours, Chicago angle where possible. 2 of the best stories per week, not every story.
 **Gate:** none, on any platform. A serious industry take with a keyword ask stapled to it cheapens the credibility that makes it work. D.J.'s explicit decision.
 
 **Why it stays ungated and central:** this is the pillar the 2026 LinkedIn feed is built to distribute (news-first, topical), and it is the credibility layer that makes NAR and sponsors take calls. Measured on reach and authority, never on leads.
@@ -80,7 +80,7 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 ## Pillar 3: Broker Problems
 
 **Series role:** the recruiting wedge. Content that names the pain an agent has with their *current* brokerage.
-**Format:** talking-head walk-and-talk, 45-75s. One specific broker-side pain: bad splits, junk fees, no support, dead company leads, no training, no tech. Name the math, name the fix.
+**Format:** talking-head walk-and-talk, 22-30s (hard cap 35s). One specific broker-side pain: bad splits, junk fees, no support, dead company leads, no training, no tech. Name the math, name the fix. At this length that is **one** pain per script, not a list, and the math is one number.
 **Gate:** none. D.J.'s call, and his own Facebook data backs it: overt Kale/recruiting content gets throttled (-5.3x on "Kale coaches," -10.5x on webinar promo). Gating these would cost reach AND read as a pitch. Keep them open.
 
 **The recruiting mechanic is the comment section, not a gate.** When D.J. posts "if your brokerage takes 30% and hands you nothing, here's the math," Chicago agents out themselves in the replies ("that's exactly my split"). That is a live, unforced recruiting signal. **Operating rule: someone reads every comment on a Broker Problems video and flags Chicago complainers into Close** for Ana/Jennica to work. The video does reach; the comments do recruiting.
@@ -142,7 +142,7 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 | Carousels | 5 (2 gated, 3 not) | see carousel standard |
 | **Week total** | **20** | 8 gated |
 
-**Heat budget across the whole week: one post at heat 4-5, and it is the Wednesday take.** Rule 9.2 counts posts, not series. If a News or Broker Problems script wants heat 4 in a given week, one of them gives way. The `news_brief.py` hook-cadence banner reports whether the slot is still open.
+**There is no weekly heat budget anymore.** Heat 4 is the default register on every video pillar (Rule 9.2, revised 2026-08-15), so News, Broker Problems and Takes can all run at 4 in the same week without competing. What the `news_brief.py` cadence banner now reports instead is **hook-family spread** -- whether one device is over-running the week -- plus a soft-heat warning when most of the week landed under 4. Heat 5 never ships.
 
 The day-by-day grid lives in [`../schedule/master-calendar.md`](../schedule/master-calendar.md). Every sixth week, one Giveaway slot becomes a **tool launch**, and the six-week cycle also runs the event-promo runway (weeks 4-6) out of Giveaway slots. See the goal-reset doc for the cycle.
 
@@ -151,7 +151,7 @@ The day-by-day grid lives in [`../schedule/master-calendar.md`](../schedule/mast
 29 posts a week is a volume that can quietly erode the standard the whole brand was built on. It does not get to. The take lane added 3 videos on 2026-08-10 and is the newest, least proven load on the system, so it is named explicitly in the cut order below.
 
 - **The 3-pass rigor (draft → stress-test → EP-polish) is non-negotiable on every video.** If a week cannot clear 29 posts at that bar, ship fewer. A skipped slot costs nothing; a 2-pass filler post costs brand. Volume is never the goal -- recruits are.
-- **Cut order when the week is too heavy:** takes drop from 3 to 1 (keep Wednesday, the heat-4 slot, since that is the one doing the distinctive work), then carousels 5 → 3, then videos back to 12. Takes are cut first because they are the newest lane and the least attributable, not because they are the least valuable. **A half-researched take is worse than no take** -- the receipt is the whole defense when the comments arrive.
+- **Cut order when the week is too heavy:** takes drop from 3 to 1 (keep Wednesday, since the Sacred Cow / System Indictment angle at the top of the band is the one doing the most distinctive work), then carousels 5 → 3, then videos back to 12. Takes are cut first because they are the newest lane and the least attributable, not because they are the least valuable. **A half-researched take is worse than no take** -- the receipt is the whole defense when the comments arrive.
 - **Carousels get their own defined QA** (the checklist in the Loomly handoff, [`series/carousel-standard.md`](series/carousel-standard.md)), so "lighter than a video" never means "sloppy."
 - **The week-4 checkpoint tests this explicitly:** is production quality holding at 17/week? If it is slipping, cut to 12 videos or drop carousels to 3 before cutting anything else. Reach and leads are worthless if the content that earns them stops being good.
 

@@ -18,15 +18,18 @@ Unlike Agent Tip of the Day, these are not guest-sourced. They are product-led: 
 
 ## Structure (fixed for this series)
 
-**3-act spine: product-led, compressed.** This series runs the *compressed* [Viral 3-Act Spine](viral-3-act-spine.md). The mid-stride frustration in the Hook IS the one story beat -- a moment the viewer is already living. Land it, don't develop it. Mapping: Hook = Act 1 (stop the scroll + promise the free fix); Problem = the compressed Act 2 turn (it's not your fault, it's the input); Solution + Results = Act 3 payoff (resolve -> what they walk away with); the clever final line is the loop-back. Length and the under-three-minute discipline win over story.
+**3-act spine: product-led, compressed.** This series runs the *compressed* [Viral 3-Act Spine](viral-3-act-spine.md). The mid-stride frustration in the Hook IS the one story beat -- a moment the viewer is already living. Land it, don't develop it. Mapping: Hook = Act 1 (stop the scroll + promise the free fix); Problem = the compressed Act 2 turn (it's not your fault, it's the input); Solution + Results = Act 3 payoff (resolve -> what they walk away with); the clever final line is the loop-back.
 
-Every episode follows: **Hook -> Problem -> Solution -> Results -> clever final line.**
+**Length: 22-30 seconds, hard cap 35s / 85 spoken words.** Set 2026-08-15, replacing a 3:15 runtime. This is the largest change the new Rule 7 forced on any series, and it changes what the series *is*, so read the next paragraph before writing one.
 
-- **Hook (0:00-0:20):** Drop into a specific, relatable moment mid-stride. Spoken, not text-only (captions.ai renders audio). No "hey guys."
-- **Problem (0:20-0:55):** Name the real reason it's happening. Reframe so it's not the agent's fault and not the AI's fault, it's the input.
-- **Solution (0:55-2:00):** tapthis.co, the specific category to tap, and the exact mechanic (copy, fill the brackets, paste into ChatGPT, Claude, or Gemini).
-- **Results (2:00-3:00):** The concrete before-and-after. What the agent walks away with.
-- **Clever final line (3:00-3:15):** A distinct closer per episode. Never the same template twice. This is the line that gets quoted.
+**This series is now a teaser, not a walkthrough.** At 3:15 the Solution beat could teach the whole mechanic on camera: the category, the copy, the brackets, the paste. Sixty words cannot, and pretending otherwise produces a script that rushes the mechanic and lands nothing. So the mechanic moves off the video. The script's job is to make one frustration ache and point at the free fix; **tapthis.co teaches the how.** Name the category and say the prompts are free and fill-in-the-blank. Do not narrate the copy-fill-paste steps. The viewer who wants them is one tap away, and the video that sends them there out-performs the video that explains them.
+
+Every episode follows: **Hook -> Problem -> Solution -> clever final line.** The Results beat is cut; at this length the promised outcome lives inside the Solution sentence.
+
+- **Hook (0:00-0:03):** One sentence. Drop into a specific, relatable moment mid-stride, on what it is costing them. Spoken, not text-only (captions.ai renders audio). No "hey guys."
+- **Problem (0:03-0:12):** One sentence. The real reason it's happening: not the agent's fault, not the AI's fault, it's the input.
+- **Solution (0:12-0:25):** tapthis.co, the specific category to tap, free, fill-in-the-blank, and the one-line version of what they get back. No step-by-step mechanic.
+- **Clever final line (0:25-0:28):** A distinct closer per episode. Never the same template twice. This is the line that gets quoted.
 
 ## The CTA
 

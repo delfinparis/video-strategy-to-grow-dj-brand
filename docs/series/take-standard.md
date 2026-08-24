@@ -75,22 +75,33 @@ use against the 8-week no-repeat rule, not two.
 
 ---
 
-## Heat: 3.5 default, exactly one 4 per week, never 5
+## Heat: 4 every day, never 5
 
-This is the constraint the whole lane is built around. Rule 9.2 caps heat 4-5 at **one post per
-week** across the entire publishing schedule, and the bank already reserved that slot for video.
-Three takes a week does not get to break it.
+**Revised 2026-08-15.** This lane was built around a constraint that no longer exists: Rule 9.2
+used to cap heat 4-5 at one post per week across the whole schedule, so the series rationed itself
+to a single Wednesday friction slot. **Heat 4 is now the default register everywhere**, so all
+three takes run at 4 and nothing has to give way.
 
 | Slot | Heat | Hook family | Posture |
 |---|---|---|---|
-| **Mon** | 3.5 | 9 (Swap / List) | Defensible contrarian. Names the wrong default, cites the source |
+| **Mon** | 4-4.3 | 9 (Swap / List) | Names the wrong default and what it costs, cites the source |
 | **Wed** | **4.5-5** | 2 (Sacred Cow) or 4 (System Indictment) | The week's hardest swing. A 5 belongs here if it belongs anywhere |
 | **Fri** | 4-4.3 | 7 (Forbidden), 8 (Cohort Callout), or 5 (Confession) | Contrarian from a different angle |
 
 **The friction slot is gone, because every slot is now a friction slot.** D.J. raised the floor on
-2026-08-20: Rule 9.2 is a **band of 4 to 4.7** across the entire schedule, not one heat-4 post a
-week. Nothing in this lane ships below 4, and Wednesday is no longer special for being hot -- it is
-special for being the week's hardest swing inside the band.
+2026-08-20 and opened the ceiling the same day: Rule 9.2 is a **band of 4 to 5** with the body of
+work averaging 4.3-4.5. Nothing in this lane ships below 4, and Wednesday is no longer special for
+being hot, it is special for being the week's hardest swing.
+
+**The family rotation matters MORE now, not less.** When every take runs at 4 or above, the hook
+family is the only thing keeping three swaps a week from reading as one repeated move. Never run
+the same family twice in a week. The `news_brief.py` cadence banner reports family spread rather
+than a friction slot; check it before drafting.
+
+**Never manufacture the fight to reach the floor.** If a sacred cow genuinely has no wrong default
+worth naming, the script is not ready and does not ship. A fabricated indictment fails Rule 1
+exactly the way a fabricated number does, and a 4-point floor is precisely the pressure that
+invites one. Find a cow that carries a real verdict instead of forcing heat onto one that does not.
 
 The old weekly-slot arithmetic and the `news_brief.py` friction-slot banner are both obsolete:
 there is no slot left to compete for. What replaces them is the ceiling, and the ceiling is a
@@ -173,10 +184,19 @@ say that -- it is a legitimate and disarming version of the beat.
 
 ## Length
 
-- **Target: 45-60 seconds** (~100-150 spoken words).
-- **Hard cap: 75 seconds** (~185 spoken words), per universal Rule 7.
-- Beats 2 and 3 are where these run long. The receipt is one number, said once. If the script is
-  over, cut beat 3 to its shortest true form before touching beat 4.
+- **Target: 22-30 seconds** (48-72 spoken words).
+- **Hard cap: 35 seconds** (85 spoken words), per universal Rule 7. No exceptions.
+- Set 2026-08-15, replacing the old 45-60s target and 75s cap.
+- **Five beats, roughly one sentence each.** THE COW → WHO PROFITS → THE RECEIPT → THE SWAP →
+  LOOP-BACK, in about 60 words. Beats 1 and 2 frequently share a single sentence: *"You are still
+  paying for [the cow], and [who] is the reason it never dies."* That merge is the standard move,
+  not a shortcut.
+- **The receipt is one number, said once, with no set-up clause in front of it.** Not "according
+  to a study published last year by," just the number and whose it is. The full citation lives in
+  the Data Source block, which is unspoken and free.
+- **Beat 4 (the swap) is never what gets cut.** An indictment with no swap is a rant, and the rant
+  test in the stress pass still fails it. If the script is over, cut the receipt to its shortest
+  true form, then merge beats 1 and 2. Touch beat 4 last.
 
 ---
 
@@ -579,7 +599,7 @@ status: "[ready / draft -- receipt needs verification]"
 
 > **Strongest Line:** "[the one line a viewer would screenshot]"
 
-## Spoken Script (45-60 seconds)
+## Spoken Script (22-30 seconds, XX words)
 [THE COW / WHO PROFITS / THE RECEIPT / THE SWAP / LOOP-BACK]
 
 ## Production Note

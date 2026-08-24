@@ -14,7 +14,7 @@ Format: **line** *(heat / suggested visual move #)*
 - "You've got a folder of leads you tell yourself you'll call Monday. It's Thursday." *(2.5 / move 5, hold your phone)*
 - "You saved three of my videos and did none of them. I'm not mad. I do it too." *(2 / move 2)*
 
-## 2. Sacred Cow -- attack a sacred practice *(heat 4-5, once a week max)*
+## 2. Sacred Cow -- attack a sacred practice *(heat 4, default family)*
 
 - "Open houses are the biggest waste of your Sunday in this business." *(4.5 / move 6, on-site)*
 - "Your monthly market update email is training people to ignore you." *(4 / move 1)*
@@ -26,7 +26,7 @@ Format: **line** *(heat / suggested visual move #)*
 - "I run recruiting at a 300-agent brokerage. I'm going to tell you when NOT to switch." *(3.5 / move 6)*
 - "I've interviewed 700 top producers. Most of their advice will hurt you." *(4 / move 3)*
 
-## 4. System Indictment -- indict the system, defend them *(heat 4-5, once a week max)*
+## 4. System Indictment -- indict the system, defend them *(heat 4, default family)*
 
 - "Your first year didn't fail because of you." *(4 / move 1)*
 - "The reason you feel behind is that the whole model is built to keep you paying." *(4.5 / move 1)*

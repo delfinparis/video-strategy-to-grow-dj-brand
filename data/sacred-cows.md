@@ -39,14 +39,17 @@ names the wrong default," which the register already describes as high comment v
 manageable risk.
 
 **Video: the band is 4 to 5, averaging 4.3-4.5.** D.J. raised the floor and then opened the
-ceiling on 2026-08-20. Rule 9.2 no longer caps heat 4-5 at one post a week; nothing ships below
-4, 5 is available and expensive, and the average is the governing number. The **Wednesday take**
-runs 4.5-5, Monday and Friday run 4 to 4.3.
+ceiling on 2026-08-20, superseding the 2026-08-15 flat-4 revision. Rule 9.2 no longer caps heat
+4-5 at one post a week, so the Wednesday take does not spend a shared slot and News and Broker
+Problems no longer have to give way. Nothing competes. The **Wednesday take** runs 4.5-5, Monday
+and Friday run 4 to 4.3.
 
-There is no friction slot left for series to compete over, so the `news_brief.py`
-hook-cadence banner has nothing to report and no script waits on another lane yielding.
-What replaced the cap is the ceiling below, and it is a target test rather than a
-temperature one.
+**Never manufacture the fight to reach the floor.** Drop the cow entirely when it genuinely has no
+wrong default worth naming; do not soften a 4 into a 3.5 and do not invent an indictment. A
+fabricated fight fails Rule 1 the same way a fabricated number does.
+
+The `news_brief.py` cadence banner now reports hook-family spread rather than a friction slot.
+Check it, so three takes a week at the same heat do not all reach for the same device.
 
 **Never name a person, a brokerage, a coaching program, or a software product.** That is
 heat 5 and it is banned outright on both surfaces, not rationed. Point at the practice and
@@ -375,4 +378,6 @@ Rows dated before 2026-08-10 predate the video lane and are carousel-only.
 | 2026-08-07 | "Stack hashtags for reach" (Marketing and social) | -- | `scripts/carousels/TAKE-hashtag-stacking-carousel.md` |
 | 2026-08-10 | "Switching means starting over. Your clients won't follow." (Brokerage economics) | -- | `scripts/carousels/TAKE-switching-brokerages-carousel.md` |
 | 2026-08-12 | "Chase the follower count." (Marketing and social) | -- | `scripts/carousels/TAKE-follower-count-carousel.md` |
-| 2026-08-17 | "You need to get better before you can grow." (Career and identity) | `scripts/takes/TAKE-001-meet-more-people-not-get-better.md` | -- |
+| 2026-08-19 | "Use AI to write your listing descriptions." (Tech and AI) | `scripts/takes/TAKE-001-ai-listing-descriptions.md` | -- |
+| 2026-08-21 | "Open houses are how you get buyers." (Practice) | `scripts/takes/TAKE-002-open-houses.md` | -- |
+| 2026-08-24 | "Ask for the comment." (Marketing and social) | `scripts/takes/TAKE-003-comment-below.md` | -- |

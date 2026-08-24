@@ -55,14 +55,15 @@ REFILL_THRESHOLD = 24          # bank doc's own refill trigger
 
 # Slot -> (heat, allowed hook families). Mirrors the table in take-standard.md.
 SLOTS = {
-    "Mon": ("3.5", "9 (Swap / List)"),
+    "Mon": ("4", "9 (Swap / List)"),
     "Wed": ("4", "2 (Sacred Cow) or 4 (System Indictment)"),
-    "Fri": ("3-3.5", "5 (Confession), 7 (Forbidden), or 8 (Cohort Callout)"),
+    "Fri": ("4", "5 (Confession), 7 (Forbidden), or 8 (Cohort Callout)"),
 }
 
 # Sections whose turn indicts an incentive or a system read naturally as the
-# Wednesday heat-4 slot. Advisory only -- stage 2 can move a candidate, and the
-# brief prints the reasoning either way.
+# Wednesday Sacred Cow / System Indictment slot. All three days run at heat 4
+# since 2026-08-15, so this steers the hook family, not the heat. Advisory only
+# -- stage 2 can move a candidate, and the brief prints the reasoning either way.
 WED_LEANING = {"Brokerage economics", "Career and identity"}
 
 
@@ -260,7 +261,7 @@ def format_brief(chosen, report, now, week_of):
     L.append(f"# Take Options, week of {week_of:%a %b %-d, %Y}")
     L.append("")
     L.append(f"> Generated {now:%Y-%m-%d} by `scripts/take_brief.py`. "
-             "Pick 3: one Mon, one Wed (the heat-4 slot), one Fri.")
+             "Pick 3: one Mon, one Wed, one Fri. All three run at heat 4.")
     L.append("> Build with `takes <n>` in Claude Code. "
              "Standard: `docs/series/take-standard.md`.")
     L.append("")
@@ -316,8 +317,9 @@ def format_brief(chosen, report, now, week_of):
     for day, (heat, fam) in SLOTS.items():
         L.append(f"| {day} | {heat} | {fam} |")
     L.append("")
-    L.append("Exactly one Wednesday pick. That slot is the whole week's only heat-4 post "
-             "under Rule 9.2, not just this series'.")
+    L.append("One pick per day. All three run at heat 4 -- the old once-a-week friction "
+             "ration was removed 2026-08-15. Rotate the hook family so three takes a week "
+             "at the same heat don't read as one repeated move. Heat 5 stays banned.")
     L.append("")
 
     L.append("## Bank health")

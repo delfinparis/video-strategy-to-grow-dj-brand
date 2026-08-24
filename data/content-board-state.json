@@ -1,19 +1,64 @@
 {
  "rows": {
+  "https://app.notion.com/p/3c1313fa289281078eb3ca720f3a14ab": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: tenure without a terms review"
+  },
+  "https://app.notion.com/p/3c1313fa28928119b3b9c763e07a8d36": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: the cap priced for a producer you are not"
+  },
   "https://app.notion.com/p/3c1313fa2892811a855cf9d7db1138d1": {
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-08-19.md #5"
+  },
+  "https://app.notion.com/p/3c1313fa2892812c8e60d330986d7d4e": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "stupid-things.md ST-0001 angle 2: the seller says another agent promised more"
   },
   "https://app.notion.com/p/3c1313fa28928131afb9ef13a5828ad5": {
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-08-19.md #4"
   },
+  "https://app.notion.com/p/3c1313fa28928144a7f2d86ed6bec571": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "stupid-things.md ST-0003 angle 1: the receipt-and-time-stamp move"
+  },
+  "https://app.notion.com/p/3c1313fa28928146a2c5e4bded7df3d8": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "stupid-things.md ST-0002 angle 1: the published response standard"
+  },
+  "https://app.notion.com/p/3c1313fa28928146ad86f01d792201e1": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "stupid-things.md ST-0010 angle 1: the question that finds the thing the seller wasn't going to mention"
+  },
   "https://app.notion.com/p/3c1313fa2892814ead0ef8824fbf18a6": {
    "has_body": true,
    "lane": "Take",
    "ref": "sacred-cows.md Tech and AI: \"Use AI to write your listing descriptions.\""
+  },
+  "https://app.notion.com/p/3c1313fa2892815aa30bf375f0fe3f94": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "stupid-things.md ST-0006 angle 1: write the one thing the photos cannot show"
+  },
+  "https://app.notion.com/p/3c1313fa2892816891aee82084e28841": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: the required platform that returns nothing"
+  },
+  "https://app.notion.com/p/3c1313fa2892817b9683d8ac5b8ae8c2": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "stupid-things.md ST-0005 angle 1: the minimum standard framed as a cost your client already paid for"
   },
   "https://app.notion.com/p/3c1313fa2892817b9ea6ec629ebf8e13": {
    "has_body": true,
@@ -25,10 +70,50 @@
    "lane": "News",
    "ref": "news-briefs/2026-08-19.md #1"
   },
+  "https://app.notion.com/p/3c1313fa2892819fa83ccb064aea7f03": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: the split, converted to dollars"
+  },
+  "https://app.notion.com/p/3c1313fa289281a2acaacf0b01ffef4d": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Marketing and social: \"Post at exactly the right time or you miss the window.\""
+  },
+  "https://app.notion.com/p/3c1313fa289281a587d8ca50879fb273": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: the admin fee your client pays and you defend"
+  },
+  "https://app.notion.com/p/3c1313fa289281b081bef31f3835bed1": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Marketing and social: \"Ask for the comment.\""
+  },
+  "https://app.notion.com/p/3c1313fa289281c1b9d8cce3dde0815e": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Practice: \"Open houses are how you get buyers.\""
+  },
+  "https://app.notion.com/p/3c1313fa289281c7a0aafb2909777a99": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Marketing and social: \"Keep every video under 15 seconds.\""
+  },
   "https://app.notion.com/p/3c1313fa289281cc9034fd0f885f0b46": {
    "has_body": true,
    "lane": "News",
    "ref": "news-briefs/2026-08-19.md #2"
+  },
+  "https://app.notion.com/p/3c1313fa289281d78906ff1c3836f76d": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "sacred-cows.md Career and identity: \"Your first year is supposed to be brutal.\""
+  },
+  "https://app.notion.com/p/3c1313fa289281fa98c3e64231a5f10d": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "content-pillars.md Pillar 3 Broker Problems: total contact with the managing broker"
   },
   "https://app.notion.com/p/3c2313fa2892810bb971ee8bda906842": {
    "has_body": true,
@@ -69,7 +154,42 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-08-20.md #6"
+  },
+  "https://app.notion.com/p/3c3313fa28928158b999eabb4943c2af": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-vija-williams-2026-07-31.md"
+  },
+  "https://app.notion.com/p/3c3313fa2892817cbe0cf8e382a00918": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-greg-roeder-2026-08-20.md"
+  },
+  "https://app.notion.com/p/3c3313fa289281d49e75d40646c1746b": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-2026-08-03-carrie-mccormick.md"
+  },
+  "https://app.notion.com/p/3c5313fa2892810b83b7c0d8f5ec4486": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-kelsey-caputo-2026-07-29.md"
+  },
+  "https://app.notion.com/p/3c5313fa289281bc91cdf0845dcd19f3": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-08-23.md #1"
+  },
+  "https://app.notion.com/p/3c5313fa289281e8ae00d4fb42a86542": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-kim-rittberg-2026-07-30.md"
+  },
+  "https://app.notion.com/p/3c5313fa289281ecab79d816dc23030d": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-08-23.md #5"
   }
  },
- "updated": "2026-08-20"
+ "updated": "2026-08-23"
 }

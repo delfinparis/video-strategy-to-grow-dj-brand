@@ -9,10 +9,10 @@ A short-form video content strategy whose **primary purpose is generating warm r
 
 ## Positioning
 
-> D.J. Paris is the industry insider for real estate agents who don't have time to read 12 real estate newsletters. He sees what's happening across the industry, has a take, and tells you what it means for your business in 60 seconds.
+> D.J. Paris is the industry insider for real estate agents who don't have time to read 12 real estate newsletters. He sees what's happening across the industry, has a take, and tells you what it means for your business in 30 seconds.
 
 **Podcast promise:** deep interviews with top producers on how to be a better agent.
-**Socials promise:** sharp takes on industry news, access moments, and patterns from 700+ interviews - in 60 seconds or less.
+**Socials promise:** sharp takes on industry news, access moments, and patterns from 700+ interviews - in 30 seconds or less.
 
 The two surfaces answer different questions and don't cannibalize. Both reinforce the same credibility pillars: NAR access, 700-episode podcast archive, Kale operational view.
 
