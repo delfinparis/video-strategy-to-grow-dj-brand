@@ -1,6 +1,6 @@
 # The daily carousel engine
 
-Five deliverables every morning, one routine, no email unless something breaks.
+Six deliverables every morning, one routine, no email unless something breaks.
 
 **Built 2026-08-13**, replacing the four-lane grid described in
 [`../series/carousel-standard.md`](../series/carousel-standard.md). Where this doc and the
@@ -12,11 +12,21 @@ Five deliverables every morning, one routine, no email unless something breaks.
 |---|---|---|
 | 1-2 | Two KIRP-branded carousels, 5 slides each | `KIRP Carousels` |
 | 3-4 | Two KR-branded carousels, 5 slides each | `KR Carousels` |
-| 5 | One GBP card: image **and** caption | `KR Carousels > gbp > image` and `> caption` |
+| 5-6 | **Two** GBP cards, each an image **and** a caption | `KR Carousels > gbp > image` and `> caption` |
 
-Six files, not five, because the GBP image and its caption are counted separately. An image
-with no caption is half a post, and splitting them across two folders is what makes that
+**Eight files, not six**, because each GBP image and its caption are counted separately. An
+image with no caption is half a post, and splitting them across two folders is what makes that
 failure visible instead of quiet.
+
+> **GBP went from one card a day to two on 2026-08-20**, at D.J.'s request. `render_gbp.py`
+> already renders every `## CARD <slug>` block in a batch, so the renderer needed no change --
+> the batch file just carries two cards now, and the routine writes two.
+>
+> **Two cards means two distinct angles, never one topic split in half.** The bank of GBP
+> angles is thinner than the carousel bank, so the failure mode to watch is the second card
+> restating the first in different words. If only one honest angle exists on a given morning,
+> **ship one and say so in the run summary** -- a filler second card is worse than a short day,
+> and the audit reports a shortfall rather than treating it as a crisis.
 
 ## The shape, and why KIRP goes first
 
@@ -78,7 +88,7 @@ day in five is the day KR needs a fresh topic.
 
 | Routine | Cron (CT) | Emails? |
 |---|---|---|
-| Daily carousel engine (2 KIRP + 2 KR + 1 GBP) | 6:30am daily | **Never** |
+| Daily carousel engine (2 KIRP + 2 KR + 2 GBP) | 6:30am daily | **Never** |
 | Carousel watchdog | 9:00am daily | **Only on failure** |
 
 D.J. asked for this split on 2026-08-13: the daily "carousel ready" drafts were noise once the

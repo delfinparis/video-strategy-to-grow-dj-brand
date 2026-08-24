@@ -84,21 +84,38 @@ three takes run at 4 and nothing has to give way.
 
 | Slot | Heat | Hook family | Posture |
 |---|---|---|---|
-| **Mon** | 4 | 9 (Swap / List) | Names the wrong default and what it costs, cites the source |
-| **Wed** | 4 | 2 (Sacred Cow) or 4 (System Indictment) | Names a practice or an incentive as wrong |
-| **Fri** | 4 | 7 (Forbidden), 8 (Cohort Callout), or 5 (Confession) | Same heat, different device |
+| **Mon** | 4-4.3 | 9 (Swap / List) | Names the wrong default and what it costs, cites the source |
+| **Wed** | **4.5-5** | 2 (Sacred Cow) or 4 (System Indictment) | The week's hardest swing. A 5 belongs here if it belongs anywhere |
+| **Fri** | 4-4.3 | 7 (Forbidden), 8 (Cohort Callout), or 5 (Confession) | Contrarian from a different angle |
 
-The family rotation matters *more* now, not less. When every take runs at heat 4, the hook family
-is the only thing keeping three swaps a week from reading as one repeated move, so never run the
-same family twice in a week. The `news_brief.py` cadence banner reports family spread and flags
-when one family is over-running; check it before drafting.
+**The friction slot is gone, because every slot is now a friction slot.** D.J. raised the floor on
+2026-08-20 and opened the ceiling the same day: Rule 9.2 is a **band of 4 to 5** with the body of
+work averaging 4.3-4.5. Nothing in this lane ships below 4, and Wednesday is no longer special for
+being hot, it is special for being the week's hardest swing.
 
-**Drop to 3.5 only when the material has no wrong default to name.** Manufacturing a fight the
-sacred cow does not contain fails Rule 1 exactly the way an invented number does. A weak take at
-3.5 beats a fabricated take at 4.
+**The family rotation matters MORE now, not less.** When every take runs at 4 or above, the hook
+family is the only thing keeping three swaps a week from reading as one repeated move. Never run
+the same family twice in a week. The `news_brief.py` cadence banner reports family spread rather
+than a friction slot; check it before drafting.
 
-**Heat 5 is banned in this lane, permanently.** Heat 5 means naming a person, a brokerage, a
-coach, or a specific product as wrong. D.J. runs a 769-agent brokerage and is on the record in
+**Never manufacture the fight to reach the floor.** If a sacred cow genuinely has no wrong default
+worth naming, the script is not ready and does not ship. A fabricated indictment fails Rule 1
+exactly the way a fabricated number does, and a 4-point floor is precisely the pressure that
+invites one. Find a cow that carries a real verdict instead of forcing heat onto one that does not.
+
+The old weekly-slot arithmetic and the `news_brief.py` friction-slot banner are both obsolete:
+there is no slot left to compete for. What replaces them is the ceiling, and the ceiling is a
+target test rather than a temperature one -- see below.
+
+**Heat 5 is available in this lane as of 2026-08-20, and it is the expensive end of the scale.**
+D.J. opened the ceiling: the band is 4 to 5 with the body of work averaging 4.3-4.5. Heat 5 means
+naming a person, a brokerage, a coach, or a specific product as wrong.
+
+This paragraph used to read "banned in this lane, permanently." What changed is the permission, not
+the reasons, and the reasons are now priced rather than prohibited: a 5 needs 4.0s around it to hold
+the average, it carries the highest evidence burden in the system (the statute, the live litigation,
+or the enforcement docket -- say the exposure, never predict the verdict), and the recruiting test
+is read knowing the agents at the named firm are the recruiting target. D.J. runs a 769-agent brokerage and is on the record in
 trade press. Point at the practice and the incentive behind it, never at a named party. This is
 not a cadence rule that can be spent; it is a floor.
 
@@ -600,8 +617,12 @@ status: "[ready / draft -- receipt needs verification]"
 ### Instagram Reels
 ### TikTok
 ### YouTube Shorts
+**Title:** [<=60 chars, a searchable claim, never a label]
+**Description:**
 ### Facebook
 ```
+
+**The YouTube Shorts block carries a `**Title:**` line.** It is the only caption of the five that is two fields, and it is the one most often dropped. See [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md#youtube-shorts-is-two-fields-not-one).
 
 Scripts live in `scripts/takes/`. Numbering is `TAKE-001` forward. Note that the existing
 `scripts/carousels/TAKE-hashtag-stacking-carousel.md` predates this and is a carousel, not a

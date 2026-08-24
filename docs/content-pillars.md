@@ -33,7 +33,7 @@ Five criteria are baked in: **cheap to make** (one take, selfie stick, no edit),
 | **The Take** | 3 | Ungated | Reach + authority via defensible contrarian positions |
 | **Chicago Agent Spotlight** | substitute | Ungated | Recruiting signal (subs into a News/Broker slot) |
 
-**15 videos per week** (12 plus the 3 takes added 2026-08-10). With 5 carousels (2 gated) that is **20 posts, 8 gated, 12 open** — the open side now carries the majority, which is the intended trade: the gate layer converts, the open layer feeds it.
+**15 videos per week** (12 plus the 3 takes added 2026-08-10). With 14 carousels (2 gated) that is **29 posts, 5 gated, 24 open** — the open side carries the large majority, which is the intended trade: the gate layer converts, the open layer feeds it. Gated videos went 6 → 3 on 2026-08-19; the grid and the tradeoff live in [`../schedule/master-calendar.md`](../schedule/master-calendar.md), and 12 of the 15 videos are now fed by the [Content Board](automation/content-board.md).
 
 Each goal-reset objective has a carrier: reach and followers (News + Broker Problems + Spotlight), engagement and leads (Value Giveaways), value to realtors (all), KIRP listeners (KIRP promos + the national route out of the gate DM), NAR and institutional recognition (News + the tool-launch cadence inside Giveaways).
 
@@ -108,7 +108,7 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 
 **Beat 2 is why this is a pillar and not a hook style.** Naming who makes money from a belief surviving is what separates a take from a tip, and it is what keeps friction pointed outward at an incentive instead of down at the agent who believed it. Candidates live in [`../data/sacred-cows.md`](../data/sacred-cows.md), which records a `Profits:` line for every entry so that beat is never improvised.
 
-**Heat discipline changed on 2026-08-15.** All three takes now run at heat 4; the old "3.5 Mon/Fri, one 4 on Wed" split and the Rule 9.2 once-a-week friction ration are both gone. The design constraint moved from *how often* friction runs to *where it points*: outward at a belief, practice, or incentive, never at the agent. Heat 5 (naming a person, brokerage, coach, or product) is banned outright in this lane and everywhere else.
+**Heat discipline is still the whole design constraint, but the constraint moved twice on 2026-08-20.** Rule 9.2 is now a **band of 4 to 5** across the entire schedule with the body of work **averaging 4.3-4.5**, replacing the one-heat-4-post-per-week cap. Monday and Friday run 4 to 4.3, Wednesday runs 4.5-5. Nothing ships below 4. **Heat 5 (naming a person, brokerage, coach, or product) is now permitted and priced rather than banned** — it needs 4.0s around it to hold the average, it carries the highest evidence burden in the system, and in this pillar it runs directly against the finding that an agent whose firm is attacked defends it. Weigh that per script.
 
 **Each take pairs with the take carousel already scheduled that day.** Same bank entry, one verification pass, two surfaces: the video argues it, the carousel hands over the receipt in saveable form. That pairing is the only reason 3 more videos a week is affordable at the quality floor.
 
@@ -148,10 +148,10 @@ The day-by-day grid lives in [`../schedule/master-calendar.md`](../schedule/mast
 
 ### Quality floor (never negotiable)
 
-20 posts a week is a volume that can quietly erode the standard the whole brand was built on. It does not get to. The take lane added 3 videos on 2026-08-10 and is the newest, least proven load on the system, so it is named explicitly in the cut order below.
+29 posts a week is a volume that can quietly erode the standard the whole brand was built on. It does not get to. The take lane added 3 videos on 2026-08-10 and is the newest, least proven load on the system, so it is named explicitly in the cut order below.
 
-- **The 3-pass rigor (draft → stress-test → EP-polish) is non-negotiable on every video.** If a week cannot clear 20 posts at that bar, ship fewer. A skipped slot costs nothing; a 2-pass filler post costs brand. Volume is never the goal -- recruits are.
-- **Cut order when the week is too heavy:** takes drop from 3 to 1 (keep Wednesday, since the Sacred Cow / System Indictment angle is the one doing the most distinctive work), then carousels 5 → 3, then videos back to 12. Takes are cut first because they are the newest lane and the least attributable, not because they are the least valuable. **A half-researched take is worse than no take** -- the receipt is the whole defense when the comments arrive.
+- **The 3-pass rigor (draft → stress-test → EP-polish) is non-negotiable on every video.** If a week cannot clear 29 posts at that bar, ship fewer. A skipped slot costs nothing; a 2-pass filler post costs brand. Volume is never the goal -- recruits are.
+- **Cut order when the week is too heavy:** takes drop from 3 to 1 (keep Wednesday, since the Sacred Cow / System Indictment angle at the top of the band is the one doing the most distinctive work), then carousels 5 → 3, then videos back to 12. Takes are cut first because they are the newest lane and the least attributable, not because they are the least valuable. **A half-researched take is worse than no take** -- the receipt is the whole defense when the comments arrive.
 - **Carousels get their own defined QA** (the checklist in the Loomly handoff, [`series/carousel-standard.md`](series/carousel-standard.md)), so "lighter than a video" never means "sloppy."
 - **The week-4 checkpoint tests this explicitly:** is production quality holding at 17/week? If it is slipping, cut to 12 videos or drop carousels to 3 before cutting anything else. Reach and leads are worthless if the content that earns them stops being good.
 

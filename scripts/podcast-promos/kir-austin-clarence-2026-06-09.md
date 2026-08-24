@@ -109,6 +109,9 @@ Link in bio.
 
 ### YouTube Shorts
 
+**Title:** His FICO Was 676. His VantageScore Was 783.
+
+**Description:**
 A client walked in with a 676 FICO score. Subpar credit, higher rates, lower odds of approval. When the lender ran his VantageScore, the scoring model behind the Credit Karma app, it came back at 783. Top-tier credit. Certain lenders can now use that number to qualify him. On this Keeping It Real episode, Austin Clarence from Nexa Mortgage and I got into how VantageScore works and why it often runs higher than FICO, new loan programs for self-employed buyers who can't use tax returns, and how to talk monthly payment with buyers who are scared of 6% rates. The move: tell your next buyer to screenshot their Credit Karma score and share it with you. If it's higher than their FICO, call your lender. Full episode link in pinned comment.
 
 `#Shorts #RealEstate #Mortgage #VantageScore #CreditKarma #RealEstateAgent #KeepingItReal #AustinClarence @austin.mortgage`

@@ -49,9 +49,12 @@ import sys
 
 from drive_sync import (
     CAROUSEL_ROOT,
+    GBP_FOLDER_NAME,
+    GBP_ROOT,
     KIRP_FOLDER_NAME,
     KR_FOLDER_NAME,
     drive_client,
+    ensure_folder,
     is_kirp,
     kirp_folder,
 )
@@ -60,6 +63,13 @@ from drive_sync import (
 # A deck that is where it belongs and one that was posted and cleared are both
 # fine mornings. Only a wrong folder or a deck that never arrived is a fault.
 PASSING = {"ok", "posted"}
+
+# D.J. raised GBP from one card a day to two on 2026-08-20. This is the only
+# place that number is CHECKED rather than merely instructed: check_heartbeat.py
+# reads the routine's own report of itself, and a routine that quietly produced
+# one card would report one card and pass. The GBP cards spent a week landing in
+# the wrong Drive folder precisely because nothing independent counted them.
+GBP_CARDS_PER_DAY = 2
 
 
 def child_folders(svc, parent_id):
@@ -92,6 +102,131 @@ def child_folders(svc, parent_id):
         token = res.get("nextPageToken")
         if not token:
             return out
+
+
+def child_files(svc, parent_id):
+    """Every non-trashed FILE directly inside parent_id, as {name: id}."""
+    out = {}
+    token = None
+    while True:
+        res = (
+            svc.files()
+            .list(
+                q=(
+                    f"'{parent_id}' in parents and trashed = false "
+                    "and mimeType != 'application/vnd.google-apps.folder'"
+                ),
+                fields="nextPageToken, files(id, name)",
+                pageSize=200,
+                pageToken=token,
+                supportsAllDrives=True,
+                includeItemsFromAllDrives=True,
+            )
+            .execute()
+        )
+        for f in res.get("files", []):
+            out[f["name"]] = f["id"]
+        token = res.get("nextPageToken")
+        if not token:
+            return out
+
+
+def local_gbp(date=None):
+    """The GBP cards in the repo, as {slug: {"image": name, "caption": name}}.
+
+    A card is an image plus its caption. They live in two folders locally and
+    mirror to two folders in Drive, so a card is only delivered when BOTH have
+    arrived. Keyed by slug so a half-card is visible as a half-card rather than
+    as two unrelated files.
+    """
+    cards = {}
+    for kind in ("image", "caption"):
+        d = os.path.join(GBP_ROOT, kind)
+        if not os.path.isdir(d):
+            continue
+        for name in sorted(os.listdir(d)):
+            stem, ext = os.path.splitext(name)
+            if not ext or ext.lower() not in (".png", ".jpg", ".jpeg", ".txt"):
+                continue
+            if date and not stem.startswith(date):
+                continue
+            cards.setdefault(stem, {})[kind] = name
+    return cards
+
+
+def audit_gbp(svc, kr_id, date, results):
+    """Audit GBP cards the same way decks are audited: by folder, not existence.
+
+    GBP was carved out of this audit when it was written -- the orphan scan
+    still skips the `gbp` folder by name -- so from 2026-08-14 the cards were
+    the one thing the morning check could not see. That is exactly how every
+    card ended up somewhere other than `gbp > image` and `gbp > caption` with
+    the heartbeat reporting ok every single day.
+    """
+    cards = local_gbp(date)
+    if not cards:
+        if date:
+            results.append({"deck": "gbp/<none>", "verdict": "missing",
+                            "expected": GBP_FOLDER_NAME})
+            print(f"\nGBP cards checked (0):")
+            print(f"! missing   no GBP card rendered for {date} at all. "
+                  f"Expected {GBP_CARDS_PER_DAY}.")
+        return
+
+    gbp_id = ensure_folder(svc, kr_id, GBP_FOLDER_NAME)
+    subs = child_folders(svc, gbp_id)
+    present = {
+        kind: (child_files(svc, subs[kind]) if kind in subs else {})
+        for kind in ("image", "caption")
+    }
+
+    print(f"\nGBP cards checked ({len(cards)}):")
+    for slug in sorted(cards):
+        want = cards[slug]
+        halves, missing = [], []
+        for kind in ("image", "caption"):
+            name = want.get(kind)
+            if not name:
+                missing.append(f"no {kind} rendered in the repo")
+            elif name in present[kind]:
+                halves.append(kind)
+            else:
+                missing.append(f"{kind} not in '{GBP_FOLDER_NAME} > {kind}'")
+
+        if not missing:
+            verdict, detail = "ok", "image and caption both filed"
+        elif halves:
+            verdict, detail = "half-card", "; ".join(missing)
+        else:
+            verdict, detail = "missing", "; ".join(missing)
+
+        results.append({"deck": f"gbp/{slug}", "verdict": verdict,
+                        "expected": GBP_FOLDER_NAME})
+        mark = " " if verdict in PASSING else "!"
+        print(f"{mark} {verdict:9} {slug}: {detail}")
+
+    # The daily quota, checked against what is actually on disk for that date.
+    # Only meaningful for a dated audit: the whole library has no daily shape.
+    if date and len(cards) < GBP_CARDS_PER_DAY:
+        results.append({"deck": f"gbp/{date}-quota", "verdict": "short",
+                        "expected": f"{GBP_CARDS_PER_DAY} cards"})
+        print(f"! short     {len(cards)} card(s) for {date}, expected "
+              f"{GBP_CARDS_PER_DAY}. Either the routine produced one, or it "
+              f"found only one honest angle and should have said so in its "
+              f"run summary.")
+    elif date and len(cards) > GBP_CARDS_PER_DAY:
+        print(f"  note      {len(cards)} cards for {date}, more than the "
+              f"{GBP_CARDS_PER_DAY} expected. Not a failure.")
+
+    stray = sorted(
+        (set(present["image"]) | set(present["caption"]))
+        - {n for c in local_gbp().values() for n in c.values()}
+    )
+    if stray:
+        print(f"\n  In '{GBP_FOLDER_NAME}' with no card in the repo "
+              f"({len(stray)}), left alone:")
+        for name in stray:
+            print(f"    {name}")
 
 
 def in_trash(svc, slug, date):
@@ -201,8 +336,13 @@ def main():
         mark = " " if verdict in PASSING else "!"
         print(f"{mark} {verdict:9} {slug}: {detail}")
 
+    audit_gbp(svc, kr_id, args.date, results)
+
     known = set(decks) if not args.date else set(local_decks())
-    orphans = sorted((set(in_kr) | set(in_kirp)) - known - {"gbp"})
+    # `gbp` is a real folder that holds cards, not a stray deck, so it is not an
+    # orphan. It is audited by audit_gbp above rather than skipped, which is the
+    # difference between excluding something and ignoring it.
+    orphans = sorted((set(in_kr) | set(in_kirp)) - known - {GBP_FOLDER_NAME})
     if orphans:
         print(f"\nIn Drive with no deck in the repo ({len(orphans)}), left alone:")
         for name in orphans:
@@ -210,10 +350,11 @@ def main():
             print(f"  {name} ({where})")
 
     bad = [r for r in results if r["verdict"] not in PASSING]
+    gbp_n = sum(1 for r in results if r["deck"].startswith("gbp/"))
     posted = [r for r in results if r["verdict"] == "posted"]
     print(
         f"\n{len(results) - len(bad) - len(posted)} ok, {len(posted)} already posted, "
-        f"{len(bad)} not ok."
+        f"{len(bad)} not ok  ({len(results) - gbp_n} deck(s), {gbp_n} GBP card(s))."
     )
     if bad:
         print(

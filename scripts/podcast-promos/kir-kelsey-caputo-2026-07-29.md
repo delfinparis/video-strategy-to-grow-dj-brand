@@ -104,6 +104,9 @@ New Keeping It Real episode, link in bio.
 
 ### YouTube Shorts
 
+**Title:** ChatGPT Said $800K. The Listing Was $1.8M.
+
+**Description:**
 ChatGPT valued a listing at $800,000. The price was $1.8 million. A buyer came to the table with that number.
 
 Kelsey Caputo is top 2% at Berkshire Hathaway and one of NAR's 30 Under 30 for 2026. She explains exactly why AI missed by a million bucks and shares the one prompt that prepares you for every buyer consultation. Full episode in the pinned comment.

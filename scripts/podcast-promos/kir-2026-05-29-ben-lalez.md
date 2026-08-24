@@ -103,6 +103,9 @@ The move: one AI tool, one weekly task, three posts. That's it. Link in bio for 
 
 ### YouTube Shorts
 
+**Title:** Ben Lalez: Agents Are the Internet's Free Content
+
+**Description:**
 "Agents are the largest free content source on the internet, and they don't see a dollar of it." Ben Lalez said that on this Keeping It Real episode. He's a $200M+ producer in Chicago who has been using AI to automate his news gathering. In three months it quadrupled his reach. We also covered the Compass-versus-Zillow listing war, deal cancellations, and the Monday AI habit that started his content growth. Full episode link in the pinned comment.
 
 `#Shorts #RealEstate #RealEstateAI #AITools #ContentMarketing #KeepingItReal #BenLalez #CompassVsZillow`

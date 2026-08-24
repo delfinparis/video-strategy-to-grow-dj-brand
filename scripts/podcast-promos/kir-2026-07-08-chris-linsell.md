@@ -115,6 +115,9 @@ Full episode at the link in bio.
 
 ### YouTube Shorts
 
+**Title:** Chris Linsell: Zillow Is Quietly Becoming a Brokerage
+
+**Description:**
 Zillow won't be selling ads to agents in five years. Chris Linsell came on Keeping It Real this week with the prediction worth hearing: Zillow is quietly becoming a brokerage, competing for the same clients you're serving right now. We got into the housing bill that could add inventory to your market in six weeks, and where the agent wins when AI can already find the perfect home. The move this week: pick one lifestyle your client is building and make that the center of your brand, not your production stats. Full episode link in the pinned comment.
 
 #Shorts #RealEstate #RealEstateAgent #Zillow #AIRealEstate #KeepingItReal #ChrisLinsell #HousingMarket

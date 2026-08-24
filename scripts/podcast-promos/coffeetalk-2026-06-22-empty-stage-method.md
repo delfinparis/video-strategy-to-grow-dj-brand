@@ -117,6 +117,9 @@ Full episode link in bio.
 
 ### YouTube Shorts
 
+**Title:** 100M Americans on TikTok, Under 2 in 10 Agents
+
+**Description:**
 One hundred million Americans open TikTok every day, and NAR's 2024 survey says fewer than two in ten agents use it for their business. On this week's Coffee Talk, Tim and I broke down why the biggest daily audience online has the least agent competition, the three reasons agents skip it, and a three-move method to own your local feed. The move you can run today: film one real client question, vertical, say your name and your town, thirty seconds, no editing, then post it. Full episode link in the pinned comment.
 
 `#Shorts #RealEstate #RealEstateAgent #TikTokForAgents #RealEstateMarketing #CoffeeTalk #RealtorTips`

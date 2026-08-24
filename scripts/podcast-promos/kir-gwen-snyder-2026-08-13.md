@@ -101,6 +101,9 @@ Full episode at the link in bio.
 
 ### YouTube Shorts
 
+**Title:** Gwen Snyder: The 15% Who Follow Up After Closing
+
+**Description:**
 85% of agents never follow up with a client after closing. Gwen Snyder built half a billion dollars in Colorado luxury sales by being in the other 15. On this Keeping It Real episode, we covered how to build a referral business without cold calling, how to anticipate what clients need before they ask, and how to compete in luxury real estate. The tip: meet one new person per week. 60 new relationships a year, zero cold calls. Full episode link in the pinned comment.
 
 #KeepingItRealPodcast #RealEstateAgent #LuxuryRealEstate #ReferralBusiness

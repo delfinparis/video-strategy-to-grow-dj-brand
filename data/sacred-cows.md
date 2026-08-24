@@ -38,13 +38,18 @@ A candidate is only a take if it clears all four:
 names the wrong default," which the register already describes as high comment volume at
 manageable risk.
 
-**Video: heat 4 default, every day the lane runs** (revised 2026-08-15). Rule 9.2 no longer
-caps heat 4 at one post a week, so the Wednesday take does not spend a shared slot and News
-and Broker Problems no longer have to give way. Nothing competes. Drop to 3.5 only when a cow
-genuinely has no wrong default worth naming, and never manufacture the fight -- a fabricated
-indictment fails Rule 1 the same way a fabricated number does. The `news_brief.py` cadence
-banner now reports hook-family spread rather than a friction slot; check it so three takes a
-week at the same heat don't all reach for the same device.
+**Video: the band is 4 to 5, averaging 4.3-4.5.** D.J. raised the floor and then opened the
+ceiling on 2026-08-20, superseding the 2026-08-15 flat-4 revision. Rule 9.2 no longer caps heat
+4-5 at one post a week, so the Wednesday take does not spend a shared slot and News and Broker
+Problems no longer have to give way. Nothing competes. The **Wednesday take** runs 4.5-5, Monday
+and Friday run 4 to 4.3.
+
+**Never manufacture the fight to reach the floor.** Drop the cow entirely when it genuinely has no
+wrong default worth naming; do not soften a 4 into a 3.5 and do not invent an indictment. A
+fabricated fight fails Rule 1 the same way a fabricated number does.
+
+The `news_brief.py` cadence banner now reports hook-family spread rather than a friction slot.
+Check it, so three takes a week at the same heat do not all reach for the same device.
 
 **Never name a person, a brokerage, a coaching program, or a software product.** That is
 heat 5 and it is banned outright on both surfaces, not rationed. Point at the practice and
@@ -298,6 +303,20 @@ System Indictment.
 Profits: the recruiting pitch that needs a full-time body. Turn: the part-timer who works
 a real database beats the full-timer who waits at open houses. Evidence: research.
 **Heat check:** this defends a cohort rather than attacking one, which is the right shape.
+
+**"You need to get better before you can grow."**
+Profits: the training economy. Courses, coaching, another designation. A skill gap is
+recurring revenue; a math problem gets answered once. Turn: at a 2.8% national turnover
+rate, a 200-person database holds about six transactions a year no matter how good the
+agent is. The constraint is the size of the list, not ability. Evidence: **verified.**
+Redfin home turnover report, 31 Oct 2025, 28 of every 1,000 U.S. homes changed hands
+(2.8%), lowest in at least 30 years.
+**Reconciliation:** this sits in tension with *"Real estate is a numbers game"* in the
+Prospecting and follow-up section, which argues volume on a broken conversation just
+scales the broken part. Both can be true and the line between them is where the agent
+actually is: this entry is for the agent whose conversations already convert and whose
+list is too small to feed them. **Do not run both entries in the same 8-week window**, and
+settle which one D.J. defends before the second one ships.
 
 **"Just hustle harder."**
 Profits: hustle-culture coaching. Turn: hours are the input an agent controls least and

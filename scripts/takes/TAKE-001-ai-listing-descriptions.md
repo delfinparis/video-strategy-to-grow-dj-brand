@@ -105,6 +105,9 @@ The guy who builds the AI tools is telling you to stop using one here.
 
 ### YouTube Shorts
 
+**Title:** I Build AI Tools. Don't Use Them for Listing Copy.
+
+**Description:**
 I build AI tools for real estate agents, and the listing description is where I tell them to stop.
 
 Cotality's 2026 buyer survey found 68 percent of buyers want to be clearly told when AI generated what they're reading. The listing description is the one piece of marketing on a house a buyer reads word for word.

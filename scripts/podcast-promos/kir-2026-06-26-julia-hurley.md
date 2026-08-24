@@ -107,6 +107,9 @@ Link in bio. 👇
 
 ### YouTube Shorts
 
+**Title:** Julia Hurley Was Voted Out of Her Own Company
+
+**Description:**
 Julia Hurley was voted out of her own company. A year later, they asked her to come back. She's closed over 2,000 deals in Knoxville. On this week's Keeping It Real, she walks through the exact 90-day plan she used to rebuild her pipeline from zero. The tip: host an open house for a top producer in the neighborhood you want to break into, then door knock every house on that street before the open house. Every door is a future seller who now knows your name. Full episode link in the pinned comment.
 
 @TheJuliaHurley

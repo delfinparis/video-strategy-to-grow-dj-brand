@@ -115,6 +115,9 @@ Link in bio.
 
 ### YouTube Shorts
 
+**Title:** Carrie McCormick: AI Replaces Average Marketing
+
+**Description:**
 "AI isn't replacing real estate agents. It's replacing average marketing." That's Carrie McCormick on this week's Keeping It Real. @carriemccormick1. She's one of the top 0.001% of agents in Chicago.
 
 We got into why AI creates more luxury buyers than it displaces agents, how to win high-end pitches on lifestyle over square footage, and what being a "small media company" actually looks like in practice.

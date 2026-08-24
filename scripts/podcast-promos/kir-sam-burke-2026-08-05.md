@@ -117,6 +117,9 @@ Link in bio.
 
 ### YouTube Shorts
 
+**Title:** Sam Burke: 200 Subscribers, One of His Best Sources
+
+**Description:**
 This agent has 200 YouTube subscribers and it's already one of his best lead sources.
 
 That's Sam Burke (@samburkerealestate). He's a 2026 NAR 30 Under 30 honoree and top 1% broker at John L. Scott in Snohomish, Washington.

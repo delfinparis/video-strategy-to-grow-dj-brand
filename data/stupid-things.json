@@ -4,7 +4,16 @@
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
-    "note": "Availability is counted in OPEN ANGLES, not practices. A practice with every angle spent is not gone, it is waiting for the refill routine to bank a new angle on the fix. D.J., 2026-08-13: same topics can run again as long as the angle on the solution is new."
+    "note": "Availability is counted in OPEN ANGLES, not practices. A practice with every angle spent is not gone, it is waiting for the refill routine to bank a new angle on the fix. D.J., 2026-08-13: same topics can run again as long as the angle on the solution is new.",
+    "heat_band": {
+      "floor": 4.0,
+      "ceiling": 5.0,
+      "target_average": [
+        4.3,
+        4.5
+      ],
+      "note": "Rule 9.2 band, D.J. 2026-08-20. Nothing ships below 4. Heat 5 names an identifiable party and is permitted, priced against the 4.3-4.5 average rather than banned. Per-entry heat_ceiling stays a content judgment: most entries here indict a behaviour, which has no party to name, so 4.7 is as high as the material goes. target:self entries cap at 4.3 -- they reach the band through specificity about the cost, never a harder verdict about the viewer."
+    }
   },
   "receipt_cautions": [
     {
@@ -90,7 +99,7 @@
       "category": "Pricing and listing intake",
       "who_complains": "Sellers after the fact, and buyer's agents who watch the listing go stale",
       "target": "self",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "Realtor.com",
@@ -145,7 +154,7 @@
       "category": "Responsiveness and communication",
       "who_complains": "Buyers, sellers, and the agent on the other side of the deal",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "NAR",
@@ -204,7 +213,7 @@
       "category": "Responsiveness and communication",
       "who_complains": "Buyer's agents, and the sellers who never learn the offer went cold",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "OneKey MLS",
@@ -257,7 +266,7 @@
       "category": "Duty and disclosure",
       "who_complains": "Sellers, buyers, and state license boards",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -291,7 +300,7 @@
       "category": "Marketing the listing",
       "who_complains": "Sellers, and every buyer scrolling past the listing",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR and Redfin",
@@ -357,7 +366,7 @@
       "category": "Marketing the listing",
       "who_complains": "Buyers, buyer's agents, and sellers who read their own listing",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR Profile of Home Buyers and Sellers",
@@ -410,7 +419,7 @@
       "category": "Money and licensing",
       "who_complains": "Buyers, sellers, and state regulators",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -445,7 +454,7 @@
       "category": "Money and licensing",
       "who_complains": "Regulators, managing brokers who inherit the liability, and clients whose deal is exposed",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -480,7 +489,7 @@
       "category": "Duty and disclosure",
       "who_complains": "Buyers, especially first-time buyers",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -514,7 +523,7 @@
       "category": "Duty and disclosure",
       "who_complains": "Buyers, and the E&O carrier",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "Illinois Residential Real Property Disclosure Act, 765 ILCS 77",
@@ -574,7 +583,7 @@
       "category": "Showings and access",
       "who_complains": "Buyer's agents, and sellers who never learn the showings didn't happen",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "Virtuance",
@@ -627,7 +636,7 @@
       "category": "Offers and negotiation",
       "who_complains": "Buyer's agents, buyers, and ethics panels",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -649,7 +658,7 @@
       "category": "Offers and negotiation",
       "who_complains": "Clients who lose confidence in the whole deal, and the agent being run down",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "NAR Code of Ethics Article 15",
@@ -697,7 +706,7 @@
       "category": "After the close",
       "who_complains": "Past clients, who then use somebody else next time",
       "target": "self",
-      "heat_ceiling": 3,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR via Stylograph",
@@ -753,7 +762,7 @@
       "category": "Pricing and listing intake",
       "who_complains": "Sellers, who can tell, and the agent who wins the listing instead",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -776,7 +785,7 @@
       "looks_like": "Four-minute replies while they're shopping. Then the ink dries and 'did the inspector send anything back?' sits unanswered for two days. You've trained the client to open every text with 'sorry to bug you again.'",
       "who_complains": "Buyers and sellers, who grade you against the you they met three weeks ago",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR",
@@ -805,7 +814,7 @@
       "looks_like": "Highest-anxiety week of the whole deal. Wiring their life savings in five days, lender wants two more docs, walkthrough unconfirmed, and the agent goes quiet. Client refreshes email at midnight sure the deal is dying.",
       "who_complains": "Buyers at peak emotional investment",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "Redfin",
@@ -841,7 +850,7 @@
       "looks_like": "Everyone hugs at the title company, agent posts the SOLD photo, then the seller never left the garage remotes, the utility transfer got fumbled, the repair credit is in limbo, and the texts go unanswered. Commission cleared, client filed under done.",
       "who_complains": "Past clients, and the three referrals they were going to send",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -859,7 +868,7 @@
       "looks_like": "The signature move is 'I'll let you know if anything comes up.' Sounds proactive, it's the opposite. Now the buyer is chasing. Any word from the inspector? Did the appraisal come in? Doing unpaid project management on their own six-figure purchase.",
       "who_complains": "Buyers who hired you so they wouldn't have to babysit the deal",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -884,7 +893,7 @@
       "looks_like": "Twelve showings, zero feedback replies, and a seller spiraling. Is it the price? The kitchen? The smell? Nobody will tell us anything. The listing agent has nothing to bring to the price conversation.",
       "who_complains": "Listing agents and their sellers, flying blind on price",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "NorthstarMLS",
@@ -920,7 +929,7 @@
       "looks_like": "Phone rings mid-showing. 'Hey, is it still available?' No name, no brokerage, no address. The listing agent has forty listings and is now playing twenty questions with a stranger.",
       "who_complains": "Listing agents, and the buyer whose access just got slower",
       "target": "sideways",
-      "heat_ceiling": 3,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -945,7 +954,7 @@
       "looks_like": "Three counters deep on a six hundred thousand dollar deal and one agent will only text. 'We can't do that price' reads as hostile when it was meant as regretful. A ninety-second call becomes a thirty-text, four-hour back-and-forth while the deal cools.",
       "who_complains": "The agent on the other side, and both clients",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "needed"
       },
@@ -970,7 +979,7 @@
       "looks_like": "Buyer's agent submits a clean, strong offer at 6pm, clients are vibrating. Listing agent goes dark. No received, no timeline. Buyers are sure they're being ignored or shopped and can't move on because they don't even know it landed.",
       "who_complains": "Buyer's agents, buyers, and the seller whose own deal is at risk",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "OneKey MLS",
@@ -999,7 +1008,7 @@
       "looks_like": "All offers due Sunday 5pm. Six agents pull an all-nighter with their buyers. Sunday 2pm the seller quietly accepts an early offer and the other five are never told. They submit at the deadline, wait through Monday, and find out days later by accident.",
       "who_complains": "The five agents who did hours of unpaid work on a dead deal",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "NAR 2026 Code of Ethics, Standard of Practice 1-15",
@@ -1035,7 +1044,7 @@
       "looks_like": "Buyer in town for one afternoon, eight homes. Seven have lockboxes and book in ten minutes. The eighth is call to show. Voicemail, text, wait, callback four hours later, seller can only do Thursday. Buyer flies home Wednesday. Never shown.",
       "who_complains": "Buyer's agents, and the seller whose house got skipped",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "Virtuance",
@@ -1064,7 +1073,7 @@
       "looks_like": "2pm showing booked, family loaded up, thirty-five minutes across Chicago traffic. Locked door, dead code, or a tenant who was never told. Two restless kids on a stoop and an agent apologizing for something that wasn't their fault.",
       "who_complains": "Buyer's agents, buyers, and the seller who lost a showing entirely",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "NorthstarMLS",
@@ -1093,7 +1102,7 @@
       "looks_like": "A seller vacates with a dog and a toddler for a 3:00 to 3:30 window and sits in a coffee shop. The 3:00 agent rolls in at 3:25, or never shows and never calls. The whole disruption was for nothing, and the 3:30 agent is stuck waiting.",
       "who_complains": "Sellers who cleared out, and the agent queued behind you",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "St. Louis REALTORS",
@@ -1129,7 +1138,7 @@
       "looks_like": "Buyers fall in love and linger. Measuring the bedroom, debating paint, sitting on the deck imagining summers, while the 3:30 agent and their buyers stand in the entryway feeling like intruders.",
       "who_complains": "The next agent, and the buyer whose showing just got rushed",
       "target": "sideways",
-      "heat_ceiling": 3,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "Selling CF",
@@ -1165,7 +1174,7 @@
       "looks_like": "Buyer texts Monday: can we see the new Logan Square listing? Agent replies Wednesday: how's the weekend? By Saturday it has three offers and is gone. The buyer starts checking Zillow at midnight and realizes they're faster than the person they hired.",
       "who_complains": "Buyers who keep losing houses and don't know why",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR via Virginia REALTORS",
@@ -1201,7 +1210,7 @@
       "looks_like": "A nine-to-five they don't mention. Showings only after 6pm, calls to voicemail all day, offer deadlines landing while they're unreachable at their desk. The buyer loses a house because the offer couldn't go in until 8pm, and never knew why.",
       "who_complains": "Clients who discover the constraint by losing a house to it",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "HousingWire and Colibri",
@@ -1243,7 +1252,7 @@
       "looks_like": "Vertical 4pm phone shots with the blinds half open. Toilet lids as the hero image. Flash bouncing off the TV, crooked verticals, the agent reflected in the bathroom mirror. Eight photos, none of them the kitchen.",
       "who_complains": "Sellers, and every buyer who scrolls past",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR and Redfin",
@@ -1284,7 +1293,7 @@
       "looks_like": "A finished-basement fourth bedroom with no window. A six by seven nook listed as a bedroom because it has a door. A three-bed where the third is a converted attic with no egress and no heat vent.",
       "who_complains": "Buyers, appraisers, lenders, and eventually a plaintiff's attorney",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "IRC via ListWithClever and HomeLight",
@@ -1326,7 +1335,7 @@
       "looks_like": "Public remarks that say great home, must see, and nothing else. Blank dimensions, no HOA fee on a condo, no parking detail, empty showing instructions so the buyer's agent calls, gets voicemail, and gives up.",
       "who_complains": "Buyers and buyer's agents, who book the other house instead",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR Profile of Home Buyers and Sellers",
@@ -1355,7 +1364,7 @@
       "looks_like": "Radioactive green grass, sky replacement, virtual staging that removes a wall, wide angle that turns a ten-foot bedroom into a ballroom. Then the buyer walks in and the bright open kitchen is a dim galley.",
       "who_complains": "Buyers, at the door, out loud",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "Virtuance eye-tracking study",
@@ -1391,7 +1400,7 @@
       "looks_like": "Last owner's furniture, snow on the lawn in a July listing, sapling trees, or a kitchen that has since been renovated, so the listing actually undersells the house.",
       "who_complains": "Sellers, whose renovation you failed to market",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -1416,7 +1425,7 @@
       "looks_like": "The whole plan: enter it in the MLS, jam a sign in the yard, hang a lockbox, wait. No prep, no staging, no launch, no social, no coming soon, no feedback loop. The seller pays a full commission for data entry.",
       "who_complains": "Sellers paying six figures for distribution",
       "target": "self",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "NAR Profile of Home Buyers and Sellers",
@@ -1445,7 +1454,7 @@
       "looks_like": "Home goes under contract but stays Active on the portals so it keeps drawing buyer leads. The sold price gets reported late. The phone rings with buyers on a house they can't have, and the agent farms those leads.",
       "who_complains": "Buyers chasing a dead listing, and every agent pricing off corrupted days-on-market data",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -1471,7 +1480,7 @@
       "looks_like": "Three agents pitch. Two give an honest number, the third buys the listing at fifty thousand higher to flatter the seller. Then no showings, no offers, and thirty days later the let's discuss an adjustment calls begin. Then another. Then another.",
       "who_complains": "Sellers, who get less money and take longer to get it",
       "target": "self",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "Zillow",
@@ -1500,7 +1509,7 @@
       "looks_like": "I've got three buyers who'd jump on this tomorrow, said to win the signature. The listing goes live, the phantom buyers never appear, and the seller wonders where the demand went.",
       "who_complains": "Sellers, by about day eight",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -1526,7 +1535,7 @@
       "looks_like": "Seller says that seems high and before they finish the sentence the agent folds. Well, I can do less. No defense, no explanation of what the fee funds. Just an instant discount to escape the discomfort.",
       "who_complains": "Sellers, who just learned exactly how you negotiate",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -1551,7 +1560,7 @@
       "looks_like": "Asked what do you do for your commission, the agent lists access. I put it in the MLS, I've got a lockbox, a sign, I'll do an open house. That's the plumbing every agent has, not the work only a pro delivers.",
       "who_complains": "Sellers, who then negotiate you on fee because you gave them nothing else to compare",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR Profile of Home Buyers and Sellers",
@@ -1580,7 +1589,7 @@
       "looks_like": "Every post is a listing graphic or thinking of selling, call me. No face, no neighborhood, no personality, no education. A rotating sales pitch that everyone is an expert at ignoring.",
       "who_complains": "Nobody, which is the problem",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "Placester",
@@ -1616,7 +1625,7 @@
       "looks_like": "The photo on the sign, the card, and the profile is a decade old. Different hair, twenty pounds ago, a suit from another era. Then the agent shows up at the door and the seller does a double-take.",
       "who_complains": "Sellers, silently, at the door",
       "target": "self",
-      "heat_ceiling": 3,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -1642,7 +1651,7 @@
       "looks_like": "Website is navy and gold, Instagram is pink script, the card is a third scheme, and the name reads Mike, Michael, and The Mike Team across three touchpoints. Nothing looks like the same person.",
       "who_complains": "Sellers comparing you to a polished competitor",
       "target": "self",
-      "heat_ceiling": 3,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -1668,7 +1677,7 @@
       "looks_like": "You Google the agent and get nothing. No site, or a broken 2015 brokerage sub-page, a portal profile with one review and a blank bio, an Instagram with forty followers and a two-year-old last post. The ready-to-reach-out client quietly decides not to.",
       "who_complains": "The client who never called, so you never heard about it",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR and Placester",
@@ -1697,7 +1706,7 @@
       "looks_like": "8pm, buyers saw the condo once for twenty minutes. Seller wants a decision by midnight, there's a lot of interest. No written deadline, no other offer, no second showing. They cancel their evening and sign because the window is closing.",
       "who_complains": "Buyers, once they find out there was no clock",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -1723,7 +1732,7 @@
       "looks_like": "Buyers set 520 as their breathe-easy ceiling. The agent nudges: 520 won't get it, you don't want to lose your dream home over fifteen grand, that's twenty bucks a month. Exhausted from three lost offers they stretch to 540, win, then the taxes reset and they're house poor by March.",
       "who_complains": "Buyers, in March",
       "target": "self",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "needed"
       },
@@ -1748,7 +1757,7 @@
       "looks_like": "Buyer wants to slow down on the inspection. I've done two hundred deals, you've done one, do you want the house or not? Seller questions the pricing. Fine, we'll do it your way and it'll sit six months, don't blame me. The client goes quiet, not convinced, and stops asking the questions that protect them.",
       "who_complains": "Clients, who remember the humiliation long after closing",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "needed"
       },
@@ -1773,7 +1782,7 @@
       "looks_like": "To win this we need to waive inspection, sellers hate contingencies. First-timers agree because the agent said so. Two months later the sewer line collapses or the knob-and-tube shows up behind the drywall. No contingency, no leverage, no recourse, and the bill is theirs.",
       "who_complains": "Buyers, holding a five-figure repair bill",
       "target": "self",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "Preferred Inspections",
@@ -1815,7 +1824,7 @@
       "looks_like": "Seller mentions the basement takes water every spring. Agent says don't put that on the disclosure, repaint the water line and mark unaware. Buyers move in, first storm hits, four inches ruin the finished basement they were promised was dry.",
       "who_complains": "Buyers, then their attorney, then the seller who took the advice",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "Illinois Residential Real Property Disclosure Act, 765 ILCS 77",
@@ -1850,7 +1859,7 @@
       "looks_like": "The buyer's criteria fit forty homes, but the agent only sends the three that are the brokerage's own or the builder homes paying a higher co-op. Better-fitting, lower-paying homes never hit the inbox. The buyer thinks they're seeing the market. They're seeing the comp plan.",
       "who_complains": "Buyers who never knew what they weren't shown",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "Illinois 225 ILCS 454/15-45",
@@ -1886,7 +1895,7 @@
       "looks_like": "Use my guy for the lender, the inspector, and the title company. Warm and helpful. What the client never hears is that the agent gets a per-referral payment, a marketing fee, or a stake in the affiliated title company.",
       "who_complains": "Clients, the CFPB, and federal prosecutors",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "RESPA Section 8, 12 CFR 1024.14",
@@ -1928,7 +1937,7 @@
       "looks_like": "A buyer calls the listing agent about a sign. You don't need your own agent, I can just write it up for you, it's simpler. The buyer doesn't grasp that this agent already has a fiduciary duty to the seller, and now confides their max budget and timeline to the one person bound to use it against them.",
       "who_complains": "Unrepresented buyers, who routinely overpay",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
         "source": "Illinois 225 ILCS 454/15-45",
@@ -1964,7 +1973,7 @@
       "looks_like": "A buyer's agent, chatting to seem friendly, says between us they'd go to 560 if they had to. The listing agent now knows exactly how hard to hold. Or a listing agent lets slip that the sellers are desperate, they already bought their next place.",
       "who_complains": "The client, who just lost ten grand to one sentence in a hallway",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -1989,7 +1998,7 @@
       "looks_like": "That listing agent is an idiot, the seller's clearly cheap and difficult, this'll be a nightmare. Feels like being on the client's team. Actually poisons the well right before two sides have to cooperate to close.",
       "who_complains": "Clients, who start wondering what you say about them",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
         "source": "NAR Code of Ethics Article 15",
@@ -2024,7 +2033,7 @@
       "looks_like": "What are the taxes on this two-flat, and is it in the Goethe boundary? Let me get back to you. Doesn't know the township reassessed last year, can't explain the transfer-tax stack, never heard of the permit-parking zones. Calls every neighborhood up and coming.",
       "who_complains": "Buyers, who quietly find an agent who sounds like they live there",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR via HousingWire",
@@ -2060,7 +2069,7 @@
       "looks_like": "Tells a seller their Ravenswood home is worth 825 to win the listing when comps say 710. Guesses eh, probably 600 on a place that's clearly a 720. No comps, no condition adjustments, Zestimate vibes. Two months of no showings, then blames the market.",
       "who_complains": "Sellers and buyers, who can check the one number you gave them",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "Relitix via Inman",
@@ -2096,7 +2105,7 @@
       "looks_like": "Disclosure, lead pamphlet, radon report, HOA docs emailed with sign where highlighted. Never reads the yes, prior water in basement out loud, never flags the special assessment buried on page four. Client signs blind, water shows up after closing, now it's a lawsuit.",
       "who_complains": "Buyers, and then their attorney",
       "target": "sideways",
-      "heat_ceiling": 4,
+      "heat_ceiling": 4.7,
       "receipt": {
         "status": "needed"
       },
@@ -2122,7 +2131,7 @@
       "looks_like": "Closing date blank, earnest-money line empty, an outdated 2019 form, no lead-paint addendum on a pre-1978 building, buyer's signature missing on page six. The listing agent sighs and ranks this buyer below the clean competing offer.",
       "who_complains": "Listing agents, and the buyer who lost the house on paperwork",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -2147,7 +2156,7 @@
       "looks_like": "So what happens if the inspection finds something? Um, I think we can back out? Can't explain the attorney-review period, the mortgage-contingency deadline, or what the earnest money is at risk for. They wrote it, but they're reading it for the first time with the client.",
       "who_complains": "Clients, who feel it instantly",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -2172,7 +2181,7 @@
       "looks_like": "A strong full-price offer with no pre-approval letter and no proof of funds, because the buyer thinks they're good. The listing agent can't verify they can close, so goes with the pre-approved buyer five thousand lower. Or it's accepted, and financing falls apart three weeks in.",
       "who_complains": "Sellers, listing agents, and the buyer who lost at full price",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -2197,7 +2206,7 @@
       "looks_like": "Closing day and the agent is texting the lender for a corrected CD, can't find the disclosure from six weeks ago, didn't confirm the walkthrough, doesn't know why the wire is two thousand off. Everyone sits while the professional flails on the most important financial day of the client's year.",
       "who_complains": "Clients, on the one day they remember forever",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -2222,7 +2231,7 @@
       "looks_like": "Lead comes in at 10am, agent finishes coffee, runs errands, replies at 3pm. The lead already talked to two other agents and booked with one. These portal leads are garbage. Buys more, repeats the delay.",
       "who_complains": "Nobody, which is why the agent keeps blaming the vendor",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "Harvard Business Review, analysis of 2.24 million leads, via Motarme",
@@ -2259,7 +2268,7 @@
       "looks_like": "Texts a new lead once, no reply, marks it dead, moves on. Never calls, never emails, never tries a different time of day. Online leads never convert.",
       "who_complains": "Nobody, and that is the whole problem",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "JustCall",
@@ -2296,7 +2305,7 @@
       "looks_like": "Fifteen hundred a month on portal leads handled with the same slow, one-touch, no-system approach. Leads sit for hours, get one text, fall through the cracks. Then: paid leads don't work.",
       "who_complains": "The agent's bank account",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "JustCall",
@@ -2325,7 +2334,7 @@
       "looks_like": "The database is the Contacts app, a legal pad, and memory. Birthdays missed, past clients forgotten, follow-ups dropped, no way to see who's due. Pipeline? Somewhere in my head and three notebooks.",
       "who_complains": "Every past client who quietly aged out of the business",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "needed"
       },
@@ -2364,7 +2373,7 @@
       "looks_like": "Terrified of being salesy, so never posts they're in real estate, never mentions it at the barbecue. Their own cousin uses a different agent. I didn't know you did that.",
       "who_complains": "The agent, after the fact",
       "target": "self",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
         "source": "NAR 2025 via BAM",
@@ -2400,7 +2409,7 @@
       "looks_like": "Submits the offer, then goes quiet, letting the other side chase the deadlines, coordinate the inspection, remind about the appraisal, prep the closing. Asks basic questions they should know, misses their own contingency dates. Their client thinks the agent is hands off. The client's right.",
       "who_complains": "The agent doing both jobs, who remembers your name next time",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "needed"
       },
@@ -2425,7 +2434,7 @@
       "looks_like": "Can you show my buyer since you're closer? Can you meet the inspector for me? Can you let the appraiser in? Offloading your own client's showings and coordination onto the agent representing the other side, who's now doing your job for free.",
       "who_complains": "Every agent in town, eventually",
       "target": "sideways",
-      "heat_ceiling": 3.5,
+      "heat_ceiling": 4.3,
       "receipt": {
         "status": "needed"
       },

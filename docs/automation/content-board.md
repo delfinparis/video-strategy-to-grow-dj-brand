@@ -1,7 +1,8 @@
 # The Notion Content Board
 
 The board is at **[Content Board](https://www.notion.so/35037694472d47d9a5c8c34cfa95d9e4)**,
-a database inside D.J.'s *DJ's Daily Operating System* page in Notion.
+a database inside the **Kale Recruitment Hub** page in Notion (moved there from
+*DJ's Daily Operating System* on 2026-08-20; the id and URL are unchanged).
 
 **What it is for, in one line:** D.J. opens a row and the finished script is
 already sitting there, ready to film. Not a hook to build from later — the
@@ -40,6 +41,8 @@ script attached.
 | **Added** | When the row landed. |
 | **Expires** | News and Agent Tip only. Evergreen lanes leave it empty and wait on the shelf. |
 
+| **Last edited** | Auto-maintained by Notion, and **hidden from the default view**. Added 2026-08-20 so `week` can tell which slot a Picked/Filmed/Posted row spent. It is for the engine, not for picking. |
+
 **There is deliberately no Source column and no Bank ref column.** D.J. removed
 both on 2026-08-20: the board is a picking surface, and a picking surface with
 seven columns is not one. Neither piece of information was lost — both moved
@@ -53,6 +56,89 @@ into the page body:
 Do not add either column back. If you need them programmatically, read the body.
 
 ---
+
+## The weekly grid: what the board owes each week
+
+`TARGETS` is **shelf depth** -- how many rows wait in a lane. This is the other
+question: how many of the week's videos each lane is allowed to become.
+
+[`schedule/master-calendar.md`](../../schedule/master-calendar.md) carries 15
+videos a week. D.J. cut gated Value Giveaways from 6 to 3 on 2026-08-19 to make
+room for the three lanes that had no slot at all, so:
+
+```
+15 videos - 3 giveaways = 12 board-fed video slots a week
+```
+
+| Lane | Min/wk | Max/wk | Shelf target |
+|---|---:|---:|---:|
+| News | 2 | 2 | 3 |
+| Agent Tip | 1 | 3 | 4 |
+| Agent Spotlight | 1 | 2 | 2 |
+| Stupid Things Realtors Do | 1 | 3 | 6 |
+| Broker Problems | 1 | 3 | 4 |
+| Take | 2 | 4 | 6 |
+| KIRP Episode | 1 | 2 | 4 |
+| **Sum** | **9** | **19** | |
+
+**The maximums oversubscribe the week on purpose.** They sum to 19 against 12
+slots. A range says what a lane is *allowed* to do in a good week, never what it
+is entitled to. Minimums sum to 9, so **3 slots a week are genuinely
+discretionary** -- and that number is why this is arithmetic in a script rather
+than a judgment call at 5:30am.
+
+```bash
+python3 scripts/content_board.py week --board board.json
+python3 scripts/content_board.py check-heat --board board.json --heat 4
+```
+
+`check-heat` is the Rule 9.2 guard: one heat-4-or-higher video across the whole
+week. It exits **12** when the slot is already spent. A row under heat 4 always
+exits 0, so the routine can call it unconditionally.
+
+**Two changes came with the grid, and both are in the calendar file:** Agent
+Spotlight was promoted out of substitute status and now owes 1 a week like
+everything else, and Stupid Things and Agent Tip got the other two freed slots.
+The tradeoff D.J. accepted, stated plainly: **the gate layer is the only thing on
+the grid that asks a viewer to raise a hand**, so cutting giveaways 6 to 3 buys
+variety with recruiting signal. Watch keyword volume for two cycles.
+
+### Dating a spent slot, and why it is approximate
+
+There is no "picked on" column, because D.J. stripped the board back to seven
+columns on 2026-08-20 and adding one would walk that straight back. So `week`
+reads `picked_on` if the snapshot carries one, and otherwise falls back to
+Notion's **Last edited**, which is the hidden column added for exactly this.
+
+**That fallback is an approximation and it is labelled as one in the output.** It
+is right unless a row was edited again for some other reason after being picked,
+which would move it into the wrong week. Two things follow:
+
+- **`check-heat` is advisory**, and says so when it blocks. It never silently
+  refuses work on the strength of a guess.
+- **A row that has left Open with no date at all is NOT counted**, and `week`
+  reports how many it skipped rather than quietly reporting a smaller number.
+  Silence would make an under-filled week look like an on-track one, which is
+  the same failure the walk-and-talk chain has already paid for twice.
+
+### Exporting the snapshot
+
+`week` and `check-heat` need `heat` and `last_edited`, which the older export
+query did not select. The full one:
+
+```sql
+SELECT url,
+       "Lane"   AS lane,
+       "Status" AS status,
+       "Hook"   AS hook,
+       "Heat"   AS heat,
+       "date:Expires:start" AS expires,
+       substr("Last edited", 1, 10) AS last_edited
+FROM "collection://6d781813-77d2-48b6-bb7b-a7bce63bcd29"
+```
+
+Both fields are optional in `load_board`, so an old snapshot still runs `plan`
+and `health` unchanged -- it just degrades the week accounting, loudly.
 
 ## The split: what the script owns, what the routine owns
 
@@ -165,17 +251,31 @@ Where candidates come from:
 |---|---|
 | News, Agent Tip | `data/news-briefs/<today>.md` |
 | Take | `data/take-briefs/<latest>.md`, `data/sacred-cows.md` |
-| Broker Problems | `docs/content-pillars.md` + a live receipt from web search |
+| Broker Problems | `data/brokerage-pain.md` (22 entries), plus a re-verified receipt |
 | Stupid Things | `python3 scripts/stupid_things.py pick --count N` |
 | Agent Spotlight | **mirrored** from `scripts/chicago-agent-spotlight/` — see below |
 | KIRP Episode | **mirrored** from `scripts/podcast-promos/kir-*.md` — see below |
 
-> **Broker Problems has no bank file.** The rows loaded on 2026-08-19 cite
-> `brokerage-pain.md`, which does not exist in this repo and never did. Those
-> pointers are phantom. Until a real bank exists, Broker Problems candidates
-> must be sourced from `docs/content-pillars.md` plus a verified live receipt,
-> and a row whose number cannot be sourced ships with the claim removed — not
-> with the number and a shrug.
+> **Correction, 2026-08-20. The Broker Problems bank is real.** An earlier
+> version of this note said `brokerage-pain.md` "does not exist in this repo and
+> never did" and called the pointers phantom. It exists: 22 entries, written
+> 2026-08-18 alongside
+> [`../series/broker-problems-standard.md`](../series/broker-problems-standard.md)
+> and [`../strategy/2026-08-18-why-agents-leave.md`](../strategy/2026-08-18-why-agents-leave.md).
+> All three sat **uncommitted** in one machine's working tree for two days, so a
+> second machine could not see them and read the absence as a fact. They are
+> committed now.
+>
+> The lesson is the one this repo keeps relearning from the other direction: **a
+> file you cannot see is not a file that does not exist.** Across three machines,
+> `git fetch` and a look at the other device's working state come before
+> concluding anything is missing. The original note was right about one thing and
+> it still stands: a row whose number cannot be sourced ships with the claim
+> removed, never with the number and a shrug.
+>
+> Build rules for the lane live in the standard, and the seed that converts is
+> **"I have never once checked whether this is normal,"** never "my brokerage is
+> bad." Never mention Kale. Heat 5 is banned outright.
 
 ---
 

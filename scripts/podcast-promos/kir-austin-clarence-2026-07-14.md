@@ -104,6 +104,9 @@ Full episode link in bio.
 
 ### YouTube Shorts
 
+**Title:** Zero Down, No PMI: The Question Agents Never Ask
+
+**Description:**
 Your buyers can qualify for a mortgage with zero down and no PMI -- the one question most agents never ask is the only thing standing between them and that program.
 
 Austin Clarence (@austin.mortgage), mortgage specialist at NEXA Mortgage, was on Keeping It Real this week. We covered specialty loan programs for doctors and dentists, how oil prices move mortgage rates, and how to reframe the rate conversation for hesitant buyers.

@@ -69,8 +69,26 @@ Walk-and-talk throughout. Optional cut to a phone screen showing a sent question
 >
 > #realestate #realtor #realestateagent #chicagorealestate #realtok #newagent #brokerage
 
-### Facebook / YouTube Shorts / X / Threads
-TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
+### YouTube Shorts
+
+**Title:** Low Fees and Real Support Were Never Opposites
+
+**Description:**
+Most agents will not move to a cheaper brokerage because they are scared of being left alone, and at a lot of firms that is exactly what happens. You get a login and a good luck.
+
+So agents stay somewhere expensive and tell themselves the fees buy support, right up until they are stuck on a contract at 7pm and nobody picks up.
+
+Kale Realty charges less and still answers. 769 agents, real mentorship, coaching, AI that drafts listing copy, and a team that picks up the phone. Not out of generosity: if we left you alone you would leave, and we do not keep enough of your money to survive that.
+
+The expensive part was never the help. It was the logo.
+
+#shorts #RealEstateAgent #RealEstateBrokerage #ChicagoRealEstate
+
+### Facebook
+
+Most agents will not join a cheaper brokerage because they are scared of being left alone. At a lot of them, they are right. Not here. We charge less and we still answer the phone. Low fees and real support were never opposites, and the expensive part was never the help. It was the logo.
+
+#ChicagoRealEstate #RealEstateAgents
 
 ## Data Source
 

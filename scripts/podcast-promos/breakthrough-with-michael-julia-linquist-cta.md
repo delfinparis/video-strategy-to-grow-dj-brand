@@ -114,6 +114,9 @@ One agent a month gets this session free. Apply, link in bio.
 
 ### YouTube Shorts
 
+**Title:** Julia Linquist's Family Kept Losing to Her Calendar
+
+**Description:**
 A top real estate producer told our coach her family kept losing to her calendar. That's Julia Linquist of @properties, selling across Chicago, the North Shore, and the northwest suburbs. Thriving business, no systems underneath it, constant stress. Michael Opyd coached her live and unscripted on the Keeping It Real Podcast, and the fix wasn't working harder. It was aiming at a different number: the income you actually need, not the production volume you've been chasing. Then he asked the question that stuck with everyone. "If you don't fix this today, what's it going to look like six months down the line?" Write down the income number you actually need this year, then count how many deals that really takes. One agent a month gets a session like this one. Apply, link in the pinned comment.
 
 `#Shorts #RealEstateCoaching #ChicagoRealEstate #BreakthroughWithMichael #KeepingItReal`

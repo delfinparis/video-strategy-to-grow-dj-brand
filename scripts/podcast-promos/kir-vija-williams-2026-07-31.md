@@ -109,6 +109,9 @@ New episode on Keeping It Real, link in bio.
 
 ### YouTube Shorts
 
+**Title:** Vija Williams: Agents Are Now the Last Opinion
+
+**Description:**
 Agents used to be the first phone call a seller made. Now we're the last opinion.
 
 Vija Williams is Chief Growth Officer at Realty.com. She came on Keeping It Real to explain why sellers research AI before they call an agent, how cash offer leads open a new seller pipeline, and what it looks like when a client walks in already knowing their home's value. Full episode in the pinned comment.

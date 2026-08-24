@@ -109,7 +109,11 @@ def main():
         )
         return 1
 
-    print(f"Carousel heartbeat OK for {today}. Watchdog ran and found all six delivered.")
+    print(f"Carousel heartbeat OK for {today}. Watchdog ran and found all eight delivered.")
+    print(
+        "This only reports what the watchdog said about itself. The independent "
+        "check is `drive_audit.py --date <today>`, which reads Drive."
+    )
     return 0
 
 

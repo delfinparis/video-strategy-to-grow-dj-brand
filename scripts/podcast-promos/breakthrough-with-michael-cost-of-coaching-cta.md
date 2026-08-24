@@ -107,6 +107,9 @@ So we made one seat free. One agent a month, live coaching with Michael Opyd. Ap
 
 ### YouTube Shorts
 
+**Title:** She Wanted a Real Estate Coach. The Price Stopped Her.
+
+**Description:**
 You looked up a real estate coach, saw the price, and closed the tab. An agent named Emma wrote almost exactly that on our application form. She'd considered coaching seriously, the cost pushed her out, so she listened to podcasts every day instead. Here's the twist: she wasn't short on business. She'd closed $6M in 18 months. The price tag never kept her broke, it just made it easy to keep putting the real work off. So we made one seat free. Every month, one real estate agent gets a live, unscripted coaching session with Michael Opyd on the Keeping It Real Podcast. Apply to be a future coachee, link in the pinned comment.
 
 `#Shorts #RealEstateCoaching #RealEstateAgent #BreakthroughWithMichael #KeepingItReal`

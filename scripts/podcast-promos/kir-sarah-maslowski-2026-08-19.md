@@ -100,6 +100,9 @@ Two things to do today: bank two extra videos, name a backup editor. Full episod
 
 ### YouTube Shorts
 
+**Title:** One Editor Emergency Nearly Killed a $150M Channel
+
+**Description:**
 Sarah Maslowski built $150M in real estate sales from YouTube alone. One editor emergency almost brought the whole channel down.
 
 She's back on Keeping It Real to share the system she rebuilt so it can't happen again. We covered content banking, backup editors, and why consistency on YouTube is about systems, not motivation.

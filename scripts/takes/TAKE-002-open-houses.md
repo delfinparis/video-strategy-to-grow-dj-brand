@@ -107,6 +107,9 @@ Open houses don't sell the house. You were right. You still quit the wrong thing
 
 ### YouTube Shorts
 
+**Title:** You Were Right to Quit Open Houses, and Wrong to Stop
+
+**Description:**
 Most agents who quit open houses quit for a reason that's actually correct, and then drew the wrong conclusion from it.
 
 NAR's 2025 Profile of Home Buyers and Sellers shows buyers find the home they purchase online (52 percent) or through an agent (27 percent). Almost nobody finds it at an open house.

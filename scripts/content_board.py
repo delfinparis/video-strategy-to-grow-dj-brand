@@ -133,6 +133,71 @@ LIVE_STATUSES = {"Open", "Picked"}
 AVAILABLE_STATUSES = {"Open"}
 FOOTER_PREFIX = "Bank ref:"
 
+# --------------------------------------------------------------------------
+# The weekly grid this board feeds.
+#
+# TARGETS above is SHELF DEPTH -- how many rows wait in a lane. This is a
+# different question: how many of the week's videos each lane is allowed to
+# become. schedule/master-calendar.md carries 15 videos a week, and D.J. cut
+# gated Value Giveaways from 6 to 3 on 2026-08-19 to make room for the three
+# lanes that had no slot at all, so:
+#
+#     15 videos - 3 giveaways = 12 board-fed video slots a week
+#
+# The MAXIMUMS sum to 19 against those 12, deliberately. A range says what a
+# lane may do in a good week, never what it is entitled to. The minimums sum to
+# 9, which leaves 3 genuinely discretionary slots -- and that number is the
+# whole reason this is arithmetic in a script instead of a judgment call at
+# 5:30am.
+# --------------------------------------------------------------------------
+
+VIDEOS_PER_WEEK = 15
+GIVEAWAY_SLOTS = 3
+BOARD_SLOTS = VIDEOS_PER_WEEK - GIVEAWAY_SLOTS
+
+WEEKLY = {
+    # lane                          min  max
+    "News":                          (2,  2),
+    "Agent Tip":                     (1,  3),
+    "Agent Spotlight":               (1,  2),
+    "Stupid Things Realtors Do":     (1,  3),
+    "Broker Problems":               (1,  3),
+    "Take":                          (2,  4),
+    "KIRP Episode":                  (1,  2),
+}
+
+# Rule 9.2, as rewritten by D.J. on 2026-08-20. The old rule was a cadence cap:
+# one heat-4-or-higher video a week across the whole grid. It is now a BAND.
+#
+#     floor 4.0   nothing ships below it
+#     ceiling 4.7 everything a 4 does with no hedge left in it
+#     5.0         BANNED -- names a person, brokerage, coach, or product
+#
+# The cap moved off temperature and onto target, which is the axis that actually
+# carries the risk: a 4 built on public arithmetic with no named party and a 5
+# naming a brokerage were priced identically by the old rule and are not remotely
+# the same exposure. docs/series/broker-problems-standard.md had already argued
+# this; the raise adopted it.
+#
+# So there is no weekly budget left to spend, and nothing here counts one.
+HEAT_FLOOR = 4.0
+HEAT_CEILING = 5.0
+# D.J., 2026-08-20, revising the 4.7 ceiling set hours earlier: "all content can
+# do heat up to 5 - it should probably average at 4.3-4.5, but it can go to 5."
+#
+# So 5 is no longer banned, and the instrument changes shape again. A ceiling
+# says what one script may do; an AVERAGE says what the body of work is. Under an
+# average, a 5 is not forbidden, it is EXPENSIVE -- ship one and the week needs
+# 4.0s to pay for it. That is self-limiting in a way a cap never was, and it is
+# what he actually described.
+HEAT_AVG_MIN = 4.3
+HEAT_AVG_MAX = 4.5
+
+# A row that has left Open has spent one of the week's 12 slots.
+SPENT_STATUSES = {"Picked", "Filmed", "Posted"}
+
+EXIT_HEAT_SPENT = 12
+
 # A page counts as having a script if it carries any of these. The series do not
 # agree on one heading and never have: podcast promos head it `## Spoken Script`,
 # Chicago spotlights `## Full Script (Spoken)`, board-native rows `## Script`.
@@ -222,6 +287,10 @@ def load_board(path):
         row.setdefault("hook", "")
         row.setdefault("expires", None)
         row.setdefault("has_body", False)
+        row.setdefault("heat", None)
+        # Optional, and the week accounting degrades honestly without them.
+        row.setdefault("picked_on", None)
+        row.setdefault("last_edited", None)
     return rows
 
 
@@ -545,6 +614,332 @@ def cmd_cache_update(args):
     return 0
 
 
+# --------------------------------------------------------------------------
+# Weekly slot accounting
+#
+# "When did this row spend its slot" has no column on the board, by design --
+# D.J. stripped the board back to seven columns on 2026-08-20 and adding a
+# Picked date would walk that straight back. So this reads `picked_on` when the
+# snapshot carries one and falls back to Notion's `last_edited`.
+#
+# That fallback is an APPROXIMATION and it is named as one everywhere it is
+# printed. It is right unless a row was edited again for some other reason
+# after being picked, which moves it into the wrong week. It is never used to
+# refuse anything on its own -- `check-heat` is advisory and says so.
+# --------------------------------------------------------------------------
+
+def week_key(day):
+    year, week, _ = day.isocalendar()
+    return "%d-W%02d" % (year, week)
+
+
+def week_bounds(day):
+    monday = day - timedelta(days=day.isoweekday() - 1)
+    return monday, monday + timedelta(days=6)
+
+
+def parse_day(value):
+    if not value:
+        return None
+    try:
+        return date.fromisoformat(str(value)[:10])
+    except ValueError:
+        return None
+
+
+def spent_when(row):
+    """The day this row spent its slot, and how confident we are about it."""
+    day = parse_day(row.get("picked_on"))
+    if day:
+        return day, "exact"
+    day = parse_day(row.get("last_edited"))
+    if day:
+        return day, "approx"
+    return None, "unknown"
+
+
+def week_report(rows, ref):
+    want = week_key(ref)
+    report, undated = [], []
+
+    spent = {}
+    for row in rows:
+        if row.get("status") not in SPENT_STATUSES:
+            continue
+        day, how = spent_when(row)
+        if day is None:
+            undated.append(row)
+            continue
+        if week_key(day) == want:
+            spent.setdefault(row.get("lane", ""), []).append((row, how))
+
+    for lane, (lo, hi) in WEEKLY.items():
+        used = spent.get(lane, [])
+        available = sum(
+            1 for r in rows
+            if r.get("lane") == lane and r.get("status") in AVAILABLE_STATUSES
+        )
+        report.append({
+            "lane": lane,
+            "used": len(used),
+            "min": lo,
+            "max": hi,
+            "owed": max(0, lo - len(used)),
+            "room": max(0, hi - len(used)),
+            "available": available,
+            "approx": sum(1 for _, how in used if how == "approx"),
+        })
+
+    # Every heat that actually shipped this week, so the average can be read.
+    # The average is the governing number now, not any single script's register.
+    heats = [float(r["heat"]) for lane_rows in spent.values() for r, _ in lane_rows
+             if r.get("heat") is not None]
+    return report, heats, undated
+
+
+def cmd_week(args):
+    rows = load_board(args.board)
+    ref = today()
+    monday, sunday = week_bounds(ref)
+    report, hot, undated = week_report(rows, ref)
+
+    used = sum(r["used"] for r in report)
+    owed = sum(r["owed"] for r in report)
+    discretionary = BOARD_SLOTS - used - owed
+
+    print("Week of %s to %s (%s)" % (monday, sunday, week_key(ref)))
+    print("%d videos a week, %d of them giveaways, so %d come off this board."
+          % (VIDEOS_PER_WEEK, GIVEAWAY_SLOTS, BOARD_SLOTS))
+    print()
+    print("  filled        %2d / %d" % (used, BOARD_SLOTS))
+    print("  still owed    %2d   (lane minimums not yet met)" % owed)
+    print("  discretionary %2d   (pull whatever you want)" % discretionary)
+    print()
+
+    if owed:
+        print("Owed this week:")
+        for row in report:
+            if row["owed"]:
+                short = "  SHORT -- nothing Open in this lane" if not row["available"] else ""
+                print("  %dx %-28s (%d available)%s"
+                      % (row["owed"], row["lane"], row["available"], short))
+        print()
+
+    spare = [r for r in report if r["room"] > r["owed"]]
+    if spare and discretionary > 0:
+        print("Room above the minimum (%d slot(s) to spend):" % discretionary)
+        for row in spare:
+            print("  up to %d more %-28s (%d available)"
+                  % (row["room"] - row["owed"], row["lane"], row["available"]))
+        print()
+
+    if hot:
+        avg = sum(hot) / len(hot)
+        hottest = max(hot)
+        if avg < HEAT_AVG_MIN:
+            verdict = "COOL -- the body of work is softer than the target"
+        elif avg > HEAT_AVG_MAX:
+            verdict = "HOT -- sustained, not occasional. Spend some 4.0s"
+        else:
+            verdict = "on target"
+        print("Heat: %d post(s) shipped, average %.2f (target %g-%g), hottest %g. %s"
+              % (len(hot), avg, HEAT_AVG_MIN, HEAT_AVG_MAX, hottest, verdict))
+        if hottest >= 5.0:
+            print("  A 5 shipped this week. It names an identifiable party, so it "
+                  "carries the highest evidence burden in the system: the statute, "
+                  "the live litigation, or the enforcement docket. Say the exposure, "
+                  "never predict the verdict.")
+    else:
+        print("Heat: nothing shipped yet this week. Band %g-%g, target average %g-%g."
+              % (HEAT_FLOOR, HEAT_CEILING, HEAT_AVG_MIN, HEAT_AVG_MAX))
+
+    off_band = [r for r in rows
+                if r.get("status") in AVAILABLE_STATUSES
+                and r.get("heat") is not None
+                and not (HEAT_FLOOR <= float(r["heat"]) <= HEAT_CEILING)]  # 4.0-5.0
+    if off_band:
+        print()
+        print("%d open row(s) sit outside the %g-%g band and cannot ship as written:"
+              % (len(off_band), HEAT_FLOOR, HEAT_CEILING))
+        for row in off_band[:12]:
+            where = "under the floor" if float(row["heat"]) < HEAT_FLOOR else "over the ceiling"
+            print("  heat %-4s %s  %s" % (row["heat"], where, row.get("hook", "?")[:46]))
+        if len(off_band) > 12:
+            print("  ... and %d more" % (len(off_band) - 12))
+
+    approx = sum(r["approx"] for r in report)
+    if approx:
+        print()
+        print("%d of the %d filled slot(s) were dated from Notion's last_edited "
+              "rather than an explicit picked_on, so they could land in the wrong "
+              "week if the row was edited again later." % (approx, used))
+    if undated:
+        print("%d row(s) have left Open but carry no date at all, so they are "
+              "NOT counted above. Add last_edited to the snapshot to fix this."
+              % len(undated))
+    if discretionary < 0:
+        print()
+        print("OVER BUDGET by %d. The lane minimums cannot all be met in %d slots "
+              "this week -- something gives, and the cut order is in "
+              "schedule/master-calendar.md." % (abs(discretionary), BOARD_SLOTS))
+    return 0
+
+
+def cmd_check_heat(args):
+    """Is this row inside the Rule 9.2 band? Floor 4, ceiling 4.7, 5 banned.
+
+    Unlike the cadence check this replaced, this needs no week context and is not
+    advisory: the band is a property of the single script in front of you, not of
+    what else happened to ship on Tuesday. It is a hard check and it exits non-zero.
+    """
+    if args.heat is None:
+        rows = load_board(args.board)
+        _, heats, _ = week_report(rows, today())
+        if not heats:
+            print("Nothing shipped yet this week. Band %g-%g, target average %g-%g."
+                  % (HEAT_FLOOR, HEAT_CEILING, HEAT_AVG_MIN, HEAT_AVG_MAX))
+            return 0
+        avg = sum(heats) / len(heats)
+        print("%d post(s) shipped, average heat %.2f (target %g-%g), hottest %g."
+              % (len(heats), avg, HEAT_AVG_MIN, HEAT_AVG_MAX, max(heats)))
+        if avg > HEAT_AVG_MAX:
+            print("Running hot. A 5 is meant to be paid for with 4.0s, not "
+                  "sustained. Bank the next few at the floor.")
+            return EXIT_HEAT_SPENT
+        if avg < HEAT_AVG_MIN:
+            print("Running cool for the target average.")
+        return 0
+
+    heat = float(args.heat)
+    if heat > HEAT_CEILING:
+        print("heat %g is over the %g ceiling. 5 is the top of the scale."
+              % (heat, HEAT_CEILING))
+        return EXIT_HEAT_SPENT
+    if heat >= 5.0:
+        print("heat 5 names an identifiable party -- a person, brokerage, franchise, "
+              "team, coach, coaching program, or a product cast as the villain. "
+              "Allowed since 2026-08-20 and it is the expensive end of the scale:")
+        print("  - it is priced against the %g-%g average, so this post needs 4.0s "
+              "around it" % (HEAT_AVG_MIN, HEAT_AVG_MAX))
+        print("  - highest evidence burden in the system. The statute, the live "
+              "litigation, or the real enforcement docket. Say the exposure, never "
+              "predict the verdict")
+        print("  - Rule 1 binds hardest here: no figure that cannot be sourced to a "
+              "named publisher and a year")
+        print("  - recruiting test (10.3): agents AT the named firm are the "
+              "recruiting target, and an agent whose firm is attacked defends it")
+        return 0
+    if heat < HEAT_FLOOR:
+        print("heat %g is under the %g floor. Since 2026-08-20 nothing ships below "
+              "4. Do not bolt a manufactured hot take onto it -- Rule 1 still binds "
+              "harder than the floor. Find the wrong default this script is actually "
+              "naming and say it flatly, or the script is not ready."
+              % (heat, HEAT_FLOOR))
+        return EXIT_HEAT_SPENT
+    print("heat %g is inside the band (%g to %g, target average %g-%g)."
+          % (heat, HEAT_FLOOR, HEAT_CEILING, HEAT_AVG_MIN, HEAT_AVG_MAX))
+    return 0
+
+
+# --------------------------------------------------------------------------
+# Caption lint
+#
+# D.J., 2026-08-20: "the youtube shorts (in notion) doesn't list a youtube
+# title (just the descriptions and hashs)."
+#
+# He was right, and it was not one row. `### YouTube Shorts` existed nearly
+# everywhere; the `**Title:**` line inside it did not. It was present in
+# inside-the-industry (101/101) and agent-tip (62/62) and absent in
+# podcast-promos (0/24 kir-*), broker-problems (0/5) and takes (0/2) -- the
+# three lanes whose standards described the section as one blob like the other
+# four platforms.
+#
+# YouTube Shorts is the only caption of the five that is two fields. Nothing
+# checked, so three lanes drifted for months and the defect rode the mirror
+# straight onto the board.
+# --------------------------------------------------------------------------
+
+# Match the platform ANYWHERE in the heading, not at the start of it. The lanes
+# do not agree on labels and never have: "### Personal LinkedIn (PRIMARY)",
+# "### Personal Instagram (Reel)", "### Instagram Reels". A first cut of this
+# lint required the heading to start with the platform name and reported 34
+# false positives across the-playbook and kale-signaling, both of which carry
+# all five captions under their own names. A linter that cries wolf gets muted,
+# and a muted linter is worse than none.
+CAPTION_PLATFORMS = (
+    ("LinkedIn", r"LinkedIn"),
+    ("Instagram", r"Instagram|IG\b"),
+    ("TikTok", r"TikTok"),
+    ("YouTube Shorts", r"YouTube|YT\b"),
+    ("Facebook", r"Facebook|FB\b"),
+)
+YT_SECTION = re.compile(r"^#{2,3} .*(?:YouTube|YT\b).*$", re.M | re.I)
+YT_TITLE = re.compile(r"^\s*\*\*Title:\*\*\s*\S", re.M)
+
+
+def lint_captions(text):
+    """Return a list of problems with a script's caption block."""
+    problems = []
+    if not any(h in text for h in ("## Social Media", "## Social Descriptions")):
+        return ["no caption block at all"]
+
+    headings = re.findall(r"^#{2,3} .*$", text, re.M)
+    for label, pattern in CAPTION_PLATFORMS:
+        if not any(re.search(pattern, h, re.I) for h in headings):
+            problems.append("missing the %s caption" % label)
+
+    hit = YT_SECTION.search(text)
+    if hit:
+        after = text[hit.end():]
+        # Only look inside this section, not the whole rest of the file.
+        nxt = re.search(r"^#{2,3} ", after, re.M)
+        section = after[: nxt.start()] if nxt else after
+        if not YT_TITLE.search(section):
+            problems.append(
+                "YouTube Shorts has no **Title:** line -- it is the primary "
+                "ranked text on the platform, and the only caption of the five "
+                "that is two fields"
+            )
+    return problems
+
+
+def cmd_lint_captions(args):
+    targets = []
+    for path in args.paths:
+        if os.path.isdir(path):
+            for root, _dirs, files in os.walk(path):
+                targets += [os.path.join(root, f) for f in sorted(files)
+                            if f.endswith(".md") and not f.startswith("README")]
+        else:
+            targets.append(path)
+
+    bad = 0
+    for path in sorted(targets):
+        try:
+            text = open(path, encoding="utf-8").read()
+        except OSError as exc:
+            print("%s: unreadable (%s)" % (path, exc))
+            bad += 1
+            continue
+        # A file with no caption block at all is very often not a script.
+        problems = lint_captions(text)
+        if problems == ["no caption block at all"] and not args.strict:
+            continue
+        if problems:
+            bad += 1
+            print(os.path.relpath(path, BASE_DIR))
+            for problem in problems:
+                print("    - " + problem)
+
+    total = len(targets)
+    if bad:
+        print()
+        print("%d of %d file(s) have caption problems." % (bad, total))
+        return 13
+    print("%d file(s) checked, every caption block complete." % total)
+    return 0
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -572,6 +967,24 @@ def main():
 
     p = sub.add_parser("body-markers")
     p.set_defaults(fn=cmd_body_markers)
+
+    p = sub.add_parser("lint-captions")
+    p.add_argument("paths", nargs="+",
+                   help="Script files or directories under scripts/ to check.")
+    p.add_argument("--strict", action="store_true",
+                   help="Also fail files with no caption block at all.")
+    p.set_defaults(fn=cmd_lint_captions)
+
+    p = sub.add_parser("week")
+    p.add_argument("--board", required=True)
+    p.set_defaults(fn=cmd_week)
+
+    p = sub.add_parser("check-heat")
+    p.add_argument("--board", required=True)
+    p.add_argument("--heat", type=float, default=None,
+                   help="Heat of the row about to be banked. Omit to scan the board "
+                        "for anything already shipped at or above the banned line.")
+    p.set_defaults(fn=cmd_check_heat)
 
     p = sub.add_parser("footer")
     p.add_argument("--lane", required=True)

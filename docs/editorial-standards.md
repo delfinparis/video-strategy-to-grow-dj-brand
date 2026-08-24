@@ -670,13 +670,76 @@ Every script has a register on the contrarian scale. Pick it before drafting. Th
 | 1 | Tip-of-the-day, no controversy | Low | Low reach |
 | 2 | Pattern reveal, mild reframe | Low-mid | Safe |
 | 3 | Defensible reframe of conventional wisdom | Mid | Manageable |
-| 3.5 | Defensible contrarian -- cites a source, names the wrong default | High | Floor for a weak news day |
-| **4** | **Names a coaching cohort or industry behavior pattern as wrong** | **High** | **Default register** |
-| 5 | Names a person, brand, or specific product as wrong | Highest | **Banned** |
+| 3.5 | Defensible contrarian -- cites a source, names the wrong default | High | Manageable |
+| **4** | **Names a coaching cohort or industry behavior pattern as wrong** | **High** | **Floor. Nothing ships below this** |
+| 4.3-4.5 | The same, with the hedging gone | Highest | **Where the body of work should sit** |
+| **5** | **Names a person, brand, or specific product as wrong** | Highest | **Ceiling. Allowed, and expensive** |
 
-**Default register: 4.** Changed 2026-08-15, from 3.5-with-a-weekly-4 to 4-as-the-norm. A 22-30 second script has room for exactly one reason to stop scrolling, so the hook carries the whole distribution load and a defensible-reframe opener is no longer strong enough to earn the stop. Write at 4 unless the material genuinely has no wrong default to name, in which case 3.5 is the floor.
+**The band is 4 to 5, and the number that governs is the AVERAGE: 4.3 to 4.5.** D.J.'s call,
+2026-08-20. Nothing ships below 4, 5 is available, and the body of work should average 4.3-4.5.
 
-**The old once-per-week cap on heat 4 is removed.** It existed to stop the brand becoming the controversy. That job now belongs to the direction rule below, which is a better control than rationing was: a friction hook pointed outward can run daily without accumulating brand risk, and a friction hook pointed at agents was never acceptable even once a week.
+**The instrument is an average, not a cap, and that distinction is the whole design.** A cap says
+what one script may do. An average says what the *body of work* is. Under an average a 5 is not
+forbidden, it is **expensive**: ship one and the week needs 4.0s around it to pay for it. That is
+self-limiting in a way a cap never was, and it is why 5 can be available without the schedule
+drifting into a permanent fight.
+
+`content_board.py check-heat --board board.json` reports the running average and says plainly when
+the schedule is running hot.
+
+**This replaced a once-per-week cap on heat 4-5**, and the replacement is deliberate rather than a
+loosening. The old rule read: *"allow a 4 or 5 register at most once per week. More than that and
+the brand becomes the controversy, not the credibility."* The risk it was written against is real,
+but [`series/broker-problems-standard.md`](series/broker-problems-standard.md) had already made the
+argument against the instrument: **the thing that makes a script dangerous is the target, not the
+temperature.** A heat 4 built on public arithmetic with no named party and a heat 5 naming a
+brokerage carry completely different brand risk, and a temperature cap priced them identically.
+
+So the cap moved onto the axis that actually carries the risk, and then onto the axis that is
+harder to game: **the average**. A ceiling can be met by every script sitting on it. An average
+cannot. 4.3-4.5 across the body of work is what keeps a scale that reaches 5 from becoming a
+schedule that lives at 5.
+
+### What a 5 costs, and what it still has to clear
+
+Heat 5 was banned outright until 2026-08-20 on a stated rationale: D.J. runs a 769-agent brokerage
+and is on the record in trade press. Opening it does not delete the reasons, it prices them.
+
+- **It is priced against the average.** A 5 needs 4.0s around it. Sustained 5s are not "spicy," they
+  are a brand whose whole position is the fight.
+- **Highest evidence burden in the system.** Naming a party means the statute, the live litigation,
+  or the real enforcement docket -- not a trade-press summary of one. **Say the exposure, never
+  predict the verdict.** Rule 1 binds hardest here: no figure that cannot be sourced to a named
+  publisher and a year, and no softening an unverified number into a claim.
+- **The recruiting test is the one that bites** (10.3). *The agents at the firm being named are the
+  recruiting target.* [`series/broker-problems-standard.md`](series/broker-problems-standard.md)
+  and [`strategy/2026-08-18-why-agents-leave.md`](strategy/2026-08-18-why-agents-leave.md) are built
+  on the finding that an agent whose firm is attacked **defends it out loud**, which converts a
+  private doubt into a public commitment against you. A 5 aimed at a brokerage can cost more
+  recruiting than it earns in reach, and that is a strategy question, not a heat question.
+- **Never a protected group, and never the viewer** (10.0). The scale runs out at 5; the
+  friction-outward floor does not move at any temperature.
+
+**Broker Problems is where this bites hardest, and it is not carved out.** D.J. said *all* content
+can reach 5, and that is the instruction. But that lane's mechanic is specifically "I have never
+once checked whether this is normal," never "my brokerage is bad," because the second makes the
+agent defend six years of their own judgment. A 5 in that lane is the one place where the register
+and the lane's own strategy point in opposite directions. It is allowed. Read
+[`series/broker-problems-standard.md`](series/broker-problems-standard.md) before using it there,
+and if the lane should hold its own ban, that is a one-line change to its standard.
+
+What else did NOT change:
+
+- **Friction outward, you stand inward** (10.0). At a floor of 4 this stops being a style note. The
+  friction points at a practice, an incentive, or a default -- never at the agent watching.
+- **The truth filter and the recruiting test** (10.2, 10.3). A hotter floor raises the cost of a
+  soft claim, it does not lower the bar for one. Rule 1 binds harder here, not less: a manufactured
+  hot take is the exact failure a 4-point floor invites, and it stays banned.
+
+**Read the recruiting test twice on every script now.** *Does a good agent who might join Kale
+respect D.J. more or less after this?* That test was written when most posts sat at 3.5 and it was
+rarely the binding constraint. At a floor of 4 it is the binding constraint, and it is the one that
+protects the recruiting asset.
 
 **Heat 5 is banned outright, not rationed.** Naming a specific person, brokerage, coach, or product as wrong is off the table on every series, every platform, every week. Two reasons, and both are load-bearing: the recruiting pitch and the content have to be the same brand, and D.J. cannot ask an agent to join Kale on Tuesday after naming their broker on Monday. Public-record institutional facts stay reportable at heat 4 (a filed lawsuit, a published settlement, an announced policy) because reporting what an organization did is not naming a person as wrong.
 
@@ -745,7 +808,7 @@ The `share_trigger` frontmatter field is a quality check on whether a viewer wou
 Add three new optional fields to the script frontmatter (existing scripts grandfathered until next compliance pass):
 
 ```yaml
-heat: [1-5]                  # Register on the contrarian dial. Default 3.5.
+heat: [4-5]                  # Register on the contrarian dial. Band (9.2); body of work averages 4.3-4.5.
 loop_back: "[final line that recontextualizes the hook]"
 stat_anchored: [true/false]  # Was the hook anchored on a real, sourced statistic?
 ```
@@ -836,7 +899,7 @@ A hook only ships if it clears all four:
 1. **Friction outward, you stand inward.** Every Family 2, 4, and 7 hook attacks a myth, tool, practice, or system -- never the agent, never a protected group (10.0).
 2. **The truth filter.** The claim is actually true for the target avatar and D.J. would defend it on a podcast. No manufactured hot takes. Rule 1 and Rule 8.2 bind harder than any hook -- a fabricated number or invented scene to make a hook punchier is the exact failure those rules exist to stop.
 3. **The recruiting test.** Read the hook as a good agent who might join Kale. Do they respect D.J. more or less? Less means kill it, regardless of view count. This is the test that protects the recruiting asset.
-4. **Cadence on the existing heat dial.** The matrix invents no new cap -- it maps onto Rule 9.2. Friction families (2, 4, 7) ride heat 4 and are now the *daily default*, not a weekly ration. Families 1, 3, 5, 6, 8, 9 are still in full rotation and still carry real load, but they have to reach heat 4 to earn the slot: run them on a cost, a loss, or a named wrong default rather than on a neutral reveal. Heat 5 ships never, from any family.
+4. **Cadence on the existing heat dial.** The matrix invents no new cap -- it maps onto Rule 9.2, which since 2026-08-20 is a **band of 4 to 4.7**, not a once-per-week allowance. Friction families (2, 4) and any "fight me" energy sit naturally at the top of the band. Families 1, 3, 5, 6, 8, 9 used to carry the daily load at 2-3.5 and now have to clear 4 like everything else -- which means those families need a sharper wrong-default named in the hook, not a manufactured one bolted on.
 
 ### 10.4 Passive comment engineering (no asks)
 
@@ -873,7 +936,7 @@ hook_family: [1-9]          # Which Hook Matrix family the first spoken line use
 lane: tactical | identity   # Default tactical. Set to identity for an emotional-lane post (Rule 10.7)
 ```
 
-`hook_family` lets the reviewer audit family variety across the publishing schedule (no family mass-produced across consecutive posts) and confirm the heat band of the chosen family matches the `heat` field.
+`hook_family` lets the reviewer audit family variety across the publishing schedule (no family mass-produced across consecutive posts) and confirm the heat band of the chosen family matches the `heat` field and the Rule 9.2 band (4 to 5, body of work averaging 4.3-4.5).
 
 `lane` defaults to `tactical` and only needs to be set on an emotional/identity-lane post. The morning research routine (`scripts/news_brief.py`) reads both fields off recent scripts to print a **Hook cadence** banner at the top of the daily brief -- which families have run recently, whether the week is drifting into a single family, and how many days since the last `lane: identity` post (due roughly every two weeks). Tagging these fields is what keeps that banner honest. The banner no longer tracks a friction slot, because there is no longer a friction ration to spend.
 
@@ -972,8 +1035,10 @@ Every new script must pass all of these before committing. If any one is "no," t
 - [ ] If the hook uses a friction family (2, 4, or 7): the friction points outward at a belief, practice, tool, or system -- never at the agent or a protected group (10.0, 10.3 guardrail 1).
 - [ ] Truth filter: the hook's claim is actually true for the target avatar and D.J. would defend it on a podcast (10.3 guardrail 2). No hot take built on an unsourced number or invented scene.
 - [ ] Recruiting test: a good agent who might join Kale respects D.J. *more* after this hook, not less (10.3 guardrail 3).
-- [ ] The family's heat band matches the `heat` field, and the hook opens on a cost, loss, or wrong default rather than a neutral reveal.
-- [ ] No person, brokerage, coach, or product is named as wrong anywhere in the script (heat 5, banned outright).
+- [ ] `heat` is between **4 and 5** (Rule 9.2 band), and the running average is inside **4.3-4.5**. Below 4 the script is not ready.
+- [ ] **If this is a 5:** the named party is sourced to a statute, live litigation, or an enforcement docket; it says the exposure and does not predict the verdict; and the recruiting test was read knowing that the agents at that firm are the recruiting target.
+- [ ] **If this is a Broker Problem:** it is not a 5. That lane keeps its own ban.
+- [ ] **Recruiting test, read twice** (10.3): does a good agent who might join Kale respect D.J. more or less after this? At a heat floor of 4 this is the binding constraint.
 - [ ] Any comment-driver is passive (incompleteness, defensible line, "tell me if I'm wrong") -- it produces the comment without directing the viewer to act for the channel (10.4, Rule 4).
 - [ ] Any follow or series signal is informational ("I do one of these every week"), never a directive "follow for more" (10.5, Rule 4).
 - [ ] Any cross-video loop references a video that actually exists -- no invented prior or future post (10.6).

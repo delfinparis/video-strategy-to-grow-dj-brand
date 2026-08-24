@@ -107,6 +107,9 @@ This week's Keeping It Real. The tip: pick one thing you enjoy, invite 10 people
 
 ### YouTube Shorts
 
+**Title:** Greg Roeder: $600M in Luxury, Referral Only
+
+**Description:**
 Greg Roeder built $600 million in Colorado luxury real estate on a referral-only model. On this week's Keeping It Real, he explained how a pickleball league became his referral pipeline, why a niche newsletter beats generic social content, and the burnout that almost cost him his family. The one tip: pick an activity you actually enjoy, invite 10 people from your database, and show up as a person. Your best clients don't want to be funneled. They want to be seen. Full episode in the pinned comment. @sellingfortcollins
 
 #KeepingItRealPodcast #RealEstateAgent #ReferralBusiness #LuxuryRealEstate #sellingfortcollins

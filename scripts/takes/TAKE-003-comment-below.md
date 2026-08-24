@@ -108,6 +108,9 @@ Meta calls it engagement bait and cuts the reach. Policy's been live since 2017.
 
 ### YouTube Shorts
 
+**Title:** "Comment Below" Is Why Fewer People See Your Posts
+
+**Description:**
 If you're ending your posts with "comment below," that line is the reason fewer people are seeing them.
 
 Meta announced its engagement bait policy in December 2017 and still enforces it. The Transparency Center defines engagement bait as posts explicitly requesting comments, shares or likes, and Meta's guidance is that reach on those posts decreases, with bigger drops for accounts that repeat it.

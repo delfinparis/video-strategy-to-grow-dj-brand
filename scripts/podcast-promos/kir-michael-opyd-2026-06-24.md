@@ -98,6 +98,9 @@ Link in bio. Go listen. Then write your number.
 
 ### YouTube Shorts
 
+**Title:** Michael Opyd Built a $200M Brokerage on One Decision
+
+**Description:**
 Michael Opyd's take: real estate doesn't have a strategy problem. It has a "you" problem. He built his brokerage to $200M in annual sales, and on this Keeping It Real episode he works through the decision that changes everything. Write the minimum transaction value you'll personally work from contract to close. Anything below it goes to your team or a referral partner. The chaos is a decision problem in disguise. Full episode linked in the pinned comment.
 
 @MichaelOpyd #Shorts #RealEstate #RealEstateAgent #RealEstateCoach #KeepingItReal #WorkLifeBalance #michaelopyd

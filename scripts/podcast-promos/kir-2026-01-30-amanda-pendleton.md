@@ -99,6 +99,9 @@ Link in bio. 👇
 
 ### YouTube Shorts
 
+**Title:** Amanda Pendleton: A White Duvet Is Worth $30,000
+
+**Description:**
 Zillow's Amanda Pendleton says a white duvet in your trunk is worth thirty thousand dollars on your next listing. On this Keeping It Real episode we covered past-client loyalty, the online presence costing agents deals, and why Gen Z is earning 50% more than boomers were at their age. Plus the one past-client call that keeps you top of mind. Full episode link in the pinned comment.
 
 `#Shorts #RealEstate #RealEstateAgent #ListingTips #HomeStaging #KeepingItReal #ZillowShowcase #GenZHomebuyers`

@@ -102,6 +102,9 @@ Full episode link in bio.
 
 ### YouTube Shorts
 
+**Title:** Paul Salter: Why Prove-It Energy Burns You Out
+
+**Description:**
 Paul Salter (@thepaulsalter), Keeping It Real's in-house mindset coach, explains why prove-it energy is dangerous even when it works. On this week's episode, D.J. Paris and Paul covered why top producers burn out even when they're winning, what's actually driving the cycle, and the one calculation that changes your decisions. The tip: divide last month's income by every hour you actually worked, including evenings and weekends. That's your hourly rate. Most agents don't run this number. Full episode link in the pinned comment.
 
 #Shorts #RealEstate #RealEstateAgent #Mindset #KeepingItReal #PaulSalter #AgentMindset #thepaulsalter

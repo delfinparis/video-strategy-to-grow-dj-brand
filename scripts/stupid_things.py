@@ -497,7 +497,9 @@ def cmd_intake(data, args):
             "looks_like": c.get("looks_like", ""),
             "who_complains": c.get("who_complains", "unknown"),
             "target": c["target"],
-            "heat_ceiling": c.get("heat_ceiling", 3.5),
+            # Rule 9.2 floor since 2026-08-20. A new entry defaults to the bottom of
+            # the band, never below it; the refill routine raises it deliberately.
+            "heat_ceiling": c.get("heat_ceiling", 4.0),
             "receipt": {"status": "needed"},
             "sightings": c.get("sightings", []),
             "angles": [],

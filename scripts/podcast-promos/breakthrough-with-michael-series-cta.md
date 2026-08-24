@@ -107,6 +107,9 @@ One agent a month, free. Apply, link in bio.
 
 ### YouTube Shorts
 
+**Title:** Nobody Asks Why You Stopped Picking Up the Phone
+
+**Description:**
 Nobody at your brokerage asks why you stopped picking up the phone. That's the gap Breakthrough with Michael exists to fill. Once a month on the Keeping It Real Podcast, one real estate agent sits down with Michael Opyd, a Realtor Mental Performance Strategist with 20 years in real estate and 10 running a $200M brokerage, for a live unscripted coaching session. What surprised me most: the agents applying aren't the ones falling apart. Our first coachee was 23 with $6M in sales. The next was a top producer in Chicago. Both winning on paper, both stuck. One agent a month, free. Apply to be a future coachee, link in the pinned comment.
 
 `#Shorts #RealEstateCoaching #RealEstateAgent #BreakthroughWithMichael #KeepingItReal`

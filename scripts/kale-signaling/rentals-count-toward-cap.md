@@ -86,6 +86,9 @@ Walk-and-talk to camera for the hook and the close. Cut to a simple animated cou
 
 ### YouTube Shorts
 
+**Title:** Rental Commissions Now Count Toward Your Cap
+
+**Description:**
 > Kale Realty just made rental commissions count toward your $6,000 cap. You keep 80% of every rental, the 20% the company takes hits your cap, and once you cap out you keep 100% until your anniversary year resets. Rentals went from busywork to a head start.
 >
 > #Shorts #realestate #realtor #chicagorealestate #realestateagent #brokerage

@@ -104,6 +104,9 @@ Thirty seconds keeps deals alive at the finish line. New Keeping It Real episode
 
 ### YouTube Shorts
 
+**Title:** Ben Lalez: Agent Silence Is the Real Deal-Killer
+
+**Description:**
 The number one deal-killer isn't the market or the other side. It's agent silence during the transaction. Ben Lalez leads a top-3 Chicago team at Compass and his rule is simple. Call or text every active client today. Nothing new? Tell them that. "Hey, nothing new today. Just didn't want you to wonder." Thirty seconds keeps deals from dying at the finish line. Full Keeping It Real episode in the pinned comment.
 
 #RealEstateAgent #ClientRetention #KeepingItRealPodcast
