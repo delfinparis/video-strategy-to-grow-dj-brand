@@ -149,9 +149,12 @@ and the current rule prices them identically. **A target-based cap would be a be
 than a temperature-based one.**
 
 **Resolved 2026-08-20, and the argument above won.** D.J. did not raise the cap from one heat-4
-post to two. He removed the temperature cap entirely and replaced it with a band of **4 to 4.7**
-plus the standing heat-5 ban -- which is precisely the "target-based cap would be a better
-instrument than a temperature-based one" recommendation, taken further than this section proposed.
+post to two. He removed the temperature cap entirely and replaced it with a band of **4 to 5**,
+the body of work averaging **4.3-4.5** -- which is precisely the "target-based cap would be a
+better instrument than a temperature-based one" recommendation, taken further than this section
+proposed. Heat 5 went from banned to permitted-and-priced the same day, so a 5 in this lane is
+allowed by Rule 9.2 and argued against by this lane's own strategy. That is a judgment call the
+writer makes deliberately, per the pre-flight above.
 
 Run The Math With Me no longer waits for a surrendered slot. What it now has to clear instead is
 the ceiling: at 4.7 the arithmetic is public and the target is a category, and the moment a viewer
