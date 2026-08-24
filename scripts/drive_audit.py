@@ -64,6 +64,13 @@ from drive_sync import (
 # fine mornings. Only a wrong folder or a deck that never arrived is a fault.
 PASSING = {"ok", "posted"}
 
+# D.J. raised GBP from one card a day to two on 2026-08-20. This is the only
+# place that number is CHECKED rather than merely instructed: check_heartbeat.py
+# reads the routine's own report of itself, and a routine that quietly produced
+# one card would report one card and pass. The GBP cards spent a week landing in
+# the wrong Drive folder precisely because nothing independent counted them.
+GBP_CARDS_PER_DAY = 2
+
 
 def child_folders(svc, parent_id):
     """Every non-trashed subfolder of parent_id, as {name: id}.
@@ -158,6 +165,12 @@ def audit_gbp(svc, kr_id, date, results):
     """
     cards = local_gbp(date)
     if not cards:
+        if date:
+            results.append({"deck": "gbp/<none>", "verdict": "missing",
+                            "expected": GBP_FOLDER_NAME})
+            print(f"\nGBP cards checked (0):")
+            print(f"! missing   no GBP card rendered for {date} at all. "
+                  f"Expected {GBP_CARDS_PER_DAY}.")
         return
 
     gbp_id = ensure_folder(svc, kr_id, GBP_FOLDER_NAME)
@@ -191,6 +204,19 @@ def audit_gbp(svc, kr_id, date, results):
                         "expected": GBP_FOLDER_NAME})
         mark = " " if verdict in PASSING else "!"
         print(f"{mark} {verdict:9} {slug}: {detail}")
+
+    # The daily quota, checked against what is actually on disk for that date.
+    # Only meaningful for a dated audit: the whole library has no daily shape.
+    if date and len(cards) < GBP_CARDS_PER_DAY:
+        results.append({"deck": f"gbp/{date}-quota", "verdict": "short",
+                        "expected": f"{GBP_CARDS_PER_DAY} cards"})
+        print(f"! short     {len(cards)} card(s) for {date}, expected "
+              f"{GBP_CARDS_PER_DAY}. Either the routine produced one, or it "
+              f"found only one honest angle and should have said so in its "
+              f"run summary.")
+    elif date and len(cards) > GBP_CARDS_PER_DAY:
+        print(f"  note      {len(cards)} cards for {date}, more than the "
+              f"{GBP_CARDS_PER_DAY} expected. Not a failure.")
 
     stray = sorted(
         (set(present["image"]) | set(present["caption"]))
