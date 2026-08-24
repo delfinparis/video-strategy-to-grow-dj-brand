@@ -112,6 +112,9 @@ Full episode, link in bio.
 
 ### YouTube Shorts
 
+**Title:** A 3 Percent Rate Is a Down Payment, Not a Prison
+
+**Description:**
 Your clients with low rates aren't trapped. That rate is their down payment strategy for the next home.
 
 Austin Clarence, mortgage specialist at Next to Mortgage (@austin.mortgage), joined me on Keeping It Real. We got into turning low-rate homeowners into move-up buyers, bridge loans that eliminate contingencies, and how AI is cutting weeks off HELOC approvals.

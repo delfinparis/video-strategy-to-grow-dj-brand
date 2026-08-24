@@ -106,6 +106,9 @@ Episode 2 of Breakthrough with Michael. Every month one agent gets a free sessio
 
 ### YouTube Shorts
 
+**Title:** Michael Opyd: Real Estate Has a You Problem
+
+**Description:**
 Michael Opyd on our podcast this week: "Real estate doesn't have a strategy problem. It has a you problem." That's Episode 2 of Breakthrough with Michael, a monthly segment on the Keeping It Real Podcast. Twenty years in real estate, $200M brokerage owner, 25,000+ hours studying top producers. His one prescription: pick the minimum deal value you'll personally work from contract to close, write it down, and hand anything below off. That single decision buys back the hours you're losing to work that doesn't move your business. We pick one agent every month for a free live coaching session like this one. Apply to be a future coachee -- link in the pinned comment.
 
 `#Shorts #RealEstateCoaching #RealtorMindset #BreakthroughWithMichael #KeepingItReal #RealEstateAgent #MichaelOpyd #WorkLifeBalance`

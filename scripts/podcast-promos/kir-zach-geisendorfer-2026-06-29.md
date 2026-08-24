@@ -99,6 +99,9 @@ Zach Geisendorfer leads a $600M team in Southern California and broke down his e
 
 ### YouTube Shorts
 
+**Title:** Your Lender Can Close a Financed Deal in 10 Days
+
+**Description:**
 Your lender can close a financed deal in 10 days. Most agents don't know that. This week on Keeping It Real, Zach Geisendorfer (@zachzenrealestate on Instagram) shared his full playbook: the mega open house system that fills his pipeline, how his $600M Southern California team rebuilt after scaling too fast, and the 10-day close offer strategy that wins in competitive situations without writing the highest price. Full episode in the pinned comment.
 
 #Shorts #RealEstate #RealEstateAgent #MultipleOffers #OfferStrategy #OpenHouseStrategy #KeepingItReal #zachzenrealestate

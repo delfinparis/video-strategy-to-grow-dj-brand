@@ -97,6 +97,9 @@ We pick one agent every month. It's free. Apply — link in bio. 👇
 
 ### YouTube Shorts
 
+**Title:** She Closed $6M in 18 Months and Couldn't Prospect
+
+**Description:**
 A 23-year-old agent closed $6M in 18 months — and couldn't make herself prospect anymore. So we put Emma on a live, unscripted coaching session with Michael Opyd for Episode 1 of Breakthrough with Michael, a new monthly segment on the Keeping It Real Podcast. We select one agent every month for a free session. Apply to be a future coachee — link in the pinned comment.
 
 `#Shorts #RealEstateCoaching #RealtorMindset #BreakthroughWithMichael #KeepingItReal #RealEstateAgent #AgentBurnout #MichaelOpyd`

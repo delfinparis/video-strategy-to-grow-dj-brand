@@ -108,6 +108,9 @@ New episode on Keeping It Real, link in bio.
 
 ### YouTube Shorts
 
+**Title:** A Skiing Photo Beat Every Real Estate Post He Made
+
+**Description:**
 A skiing photo got five times the engagement of every real estate post his client had ever made.
 
 Kim Rittberg is a former TV producer turned video coach for real estate agents. She came on Keeping It Real to explain why personal content outperforms market updates, how to build credibility without a top award, and how to turn long-form YouTube videos into short clips. Full episode in the pinned comment.

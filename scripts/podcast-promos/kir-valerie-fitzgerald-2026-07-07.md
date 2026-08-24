@@ -109,6 +109,9 @@ Full episode at the link in bio.
 
 ### YouTube Shorts
 
+**Title:** She Sold Her Jewelry to Pay Rent, Then Sold Luxury
+
+**Description:**
 She sold her jewelry to pay rent and built herself into a top luxury agent. Valerie Fitzgerald came on Keeping It Real this week and shared how she broke into the luxury market with no connections, why fear is a companion not a barrier, and the AI move she's making right now to show up in search results before her competition catches on. Full episode link in the pinned comment.
 
 #Shorts #RealEstate #LuxuryRealEstate #RealEstateAgent #KeepingItReal #ValerieFitzgerald #ColdwellBanker #AIRealEstate

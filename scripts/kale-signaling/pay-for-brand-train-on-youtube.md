@@ -69,8 +69,24 @@ Walk-and-talk throughout. Optional cut to a laptop with an unopened "training po
 >
 > #realestate #realtor #newagent #realestateagent #chicagorealestate #realtok #brokerage
 
-### Facebook / YouTube Shorts / X / Threads
-TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
+### YouTube Shorts
+
+**Title:** You Paid the Big Brand for Training and Got a Login
+
+**Description:**
+New agents get told to pay for the famous brand because it will teach them the business. Then the first deal comes and they are Googling every step alone at 11pm.
+
+The training turned out to be a login and a webinar nobody opened. The brand was never the teacher.
+
+You do not need a famous name on the sign to learn this business. You need someone who answers the phone when you are three days from closing and something has gone sideways.
+
+#shorts #RealEstateAgent #NewRealEstateAgent #ChicagoRealEstate
+
+### Facebook
+
+They tell new agents to pay for the big brand so it will teach you. Then you do your first deal alone, Googling every step. The training was a login and a webinar you never opened. You do not need a famous name to learn this. You need someone who actually answers.
+
+#ChicagoRealEstate #RealEstateAgents
 
 ## Data Source
 

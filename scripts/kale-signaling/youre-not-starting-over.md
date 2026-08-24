@@ -67,8 +67,24 @@ Walk-and-talk for hook and close. Simple stat card on "2 of 3 sellers" beat.
 >
 > #realestate #realtor #realestateagent #chicagorealestate #realtok #brokerage
 
-### Facebook / YouTube Shorts / X / Threads
-TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
+### YouTube Shorts
+
+**Title:** Changing Brokerages Is Not Starting Over
+
+**Description:**
+The fear that stops most agents from moving is that they will be starting from zero. They will not be.
+
+Roughly two in three sellers come from a referral or a past client, which means they chose the agent, not the brokerage on the sign. Your sphere, your referrals and your past clients move with you because they were never the brokerage's to begin with.
+
+The only thing that stays behind is a bill.
+
+#shorts #RealEstateAgent #RealEstateBrokerage #ChicagoRealEstate
+
+### Facebook
+
+You are not starting over. About 2 of 3 sellers come from a referral or a past client, which means they picked you, not your brokerage. Your sphere, your referrals and your past clients all follow you. The only thing that stays behind is a bill.
+
+#ChicagoRealEstate #RealEstateAgents
 
 ## Data Source
 

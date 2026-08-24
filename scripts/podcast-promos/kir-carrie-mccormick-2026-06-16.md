@@ -97,6 +97,9 @@ Link in bio.
 #realestate #realtor #luxuryrealestate #chicagorealestate #aiinrealestate #keepingitreal #offerstrategy #realestateagent #carriemccormick #fyp @carriemccormickrealestate
 
 ### YOUTUBE SHORTS
+**Title:** An AI Watercolor of the House Won the Offer
+
+**Description:**
 A buyer just got their offer accepted by sending the sellers an AI watercolor painting of their own home. On this Keeping It Real episode, Carrie McCormick, one of Chicago's top 1% luxury agents, and I got into how luxury buyers stopped buying square footage and started buying lifestyle, how to use AI so you stand out to both buyers and the algorithms that now decide which listings get seen, and how to win in a market with almost no inventory and competing offers on everything. The move you can use tomorrow: photograph the home, run it through an AI image tool, turn it into a watercolor painting, and send it with a handwritten "we love your home." Carrie's buyer did exactly that and the sellers fell for them. Full episode link in the pinned comment.
 
 #Shorts #RealEstate #LuxuryRealEstate #AIinRealEstate #ChicagoRealEstate #RealEstateAgent #KeepingItReal #CarrieMcCormick

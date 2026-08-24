@@ -69,8 +69,24 @@ Walk-and-talk throughout. Optional flat-line graphic on "same production three y
 >
 > #realestate #realtor #realestateagent #chicagorealestate #realtok #brokerage
 
-### Facebook / YouTube Shorts / X / Threads
-TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
+### YouTube Shorts
+
+**Title:** Your Plateau Is Not Your Price. It Is Your Room.
+
+**Description:**
+Same number of deals three years running is not a pricing problem, and moving to a cheaper sign will not fix it.
+
+Plateaus break when you are in a room with people working above your level and someone is holding you accountable to a number. That is a people problem, not a fee problem.
+
+Which makes the plateau itself the useful signal: if your brand is not growing you, the sign on the building is not the thing that changes it.
+
+#shorts #RealEstateAgent #RealEstateBrokerage #ChicagoRealEstate
+
+### Facebook
+
+Same number of deals three years running? It is not your price, it is your room. Plateaus break when you are around people working above your level and someone holds you accountable, not when you find a cheaper sign. The plateau is the proof your brand is not growing you.
+
+#ChicagoRealEstate #RealEstateAgents
 
 ## Data Source
 

@@ -69,8 +69,24 @@ Walk-and-talk for hook and close. Simple side-by-side card on the "$400/deal vs 
 >
 > #realestate #realtor #parttimerealtor #realestateagent #chicagorealestate #realtok #brokerage
 
-### Facebook / YouTube Shorts / X / Threads
-TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
+### YouTube Shorts
+
+**Title:** A Split Takes Its Slice Whether You Had a Year or Not
+
+**Description:**
+Part-time or light volume makes an expensive brokerage the worst math in the business.
+
+A percentage split takes its slice out of every check regardless of how the year went. A slow year does not lower the bill, it just makes the same bill hurt more.
+
+At Kale Realty it is $400 a sale, capped at $6,000, so the cost tracks the year you actually had. Overpaying always hurts most when you are slow.
+
+#shorts #RealEstateAgent #PartTimeRealtor #ChicagoRealEstate
+
+### Facebook
+
+Part-time or light volume? The expensive brokerage is the worst math there is. A split takes a slice of every check whether you had a good year or not. At Kale it is $400 a sale capped at $6,000, so your cost tracks your year. Overpaying hurts most when you are slow.
+
+#ChicagoRealEstate #RealEstateAgents
 
 ## Data Source
 

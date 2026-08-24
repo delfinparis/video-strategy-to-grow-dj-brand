@@ -68,8 +68,24 @@ Walk-and-talk throughout. Optional simple diagram contrasting a pyramid/downline
 >
 > #realestate #realtor #realestateagent #chicagorealestate #realtok #brokerage
 
-### Facebook / YouTube Shorts / X / Threads
-TODO — derive from LinkedIn + TikTok copy above, same no-em-dash scrub.
+### YouTube Shorts
+
+**Title:** Ask Any 100% Commission Firm How It Makes Money
+
+**Description:**
+Near-100% commission sounds too good, so look for the catch. At a lot of firms the catch is recruiting: the real money comes from building a downline, which means the people above you earn when you sign agents, not when you sell houses.
+
+Kale Realty's catch is the whole catch. $400 a sale. We make money when you close a transaction and in no other way, which means there is nothing to build and nobody to recruit.
+
+Ask any 100% firm to explain, plainly, how it actually makes its money. The answer tells you what the business wants you doing all day.
+
+#shorts #RealEstateAgent #RealEstateBrokerage #ChicagoRealEstate
+
+### Facebook
+
+Near-100% commission feels too good, so look for the catch. At a lot of firms the catch is recruiting, and you end up building someone's downline instead of selling houses. Our catch is the whole catch: $400 a sale, and we win when you close. Ask any 100% firm how it actually makes money.
+
+#ChicagoRealEstate #RealEstateAgents
 
 ## Data Source
 

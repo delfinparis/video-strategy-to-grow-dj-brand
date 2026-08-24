@@ -105,6 +105,9 @@ Link in bio.
 
 ### YouTube Shorts
 
+**Title:** One in Seven Deals Dies After Going Under Contract
+
+**Description:**
 One in seven deals dies after going under contract. Not in negotiation. After everyone celebrated.
 
 This week's Coffee Talks covers the 30-day window nobody's working, why agents think it's happening half as often as it is, and the three-part system that keeps deals alive.

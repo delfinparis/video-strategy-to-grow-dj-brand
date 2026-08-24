@@ -112,6 +112,9 @@ Coach Michael Opyd helped her find clarity, set boundaries, and let the rest go.
 `#keepingitreal #realtor #realestatecoaching #agentmom #fyp`
 
 ### YouTube Shorts
+**Title:** A $14M Agent Admits: Sometimes I Just Want to Cry
+
+**Description:**
 A top-producing agent sat down with our coach and admitted, "Sometimes I just want to cry." That's Julia. Three kids, a $14M business built on pure relationships, running on almost no sleep with no system holding it together. She came on Keeping It Real and told the whole truth about the overwhelm, and that took real courage. Coach Michael Opyd didn't hand her a marketing trick. He helped her find clarity, build boundaries, and let the rest go so she can be present with her kids and still grow. We feature one agent a month on Breakthrough With Michael. Apply to be coached live, link in the pinned comment. Go be brave like Julia.
 
 `#Shorts #KeepingItReal #BreakthroughWithMichael #RealEstateCoaching #AgentMoms`

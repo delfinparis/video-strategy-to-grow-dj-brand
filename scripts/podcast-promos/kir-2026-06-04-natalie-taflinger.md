@@ -100,6 +100,9 @@ Full episode link in bio.
 
 ### YouTube Shorts
 
+**Title:** Natalie Taflinger: 1,100 Deals, Zero Cold Calls
+
+**Description:**
 She's been number one in her local MLS every year since 2020 with over 1,100 transactions and $350M in career sales. Zero cold calls. On this Keeping It Real episode Natalie Taflinger and I covered listing prep that doesn't lose the client, data-driven pricing conversations, and the vendor list tactic she uses when a seller wants to rush to market before the home is ready. Full episode link in the pinned comment.
 
 `#Shorts #RealEstate #RealEstateAgent #ListingTips #ReferralBusiness #KeepingItReal #NatalieTaflinger`

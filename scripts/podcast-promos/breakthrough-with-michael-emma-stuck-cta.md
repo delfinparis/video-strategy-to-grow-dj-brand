@@ -115,6 +115,9 @@ One agent a month, free. Apply, link in bio.
 
 ### YouTube Shorts
 
+**Title:** The Stuck Nobody Warns New Real Estate Agents About
+
+**Description:**
 Real estate agents one to three years in: there's a kind of stuck nobody warned you about, and it doesn't show up in your numbers. A 23-year-old agent in Maine described it better than I could. Good weeks where she felt unstoppable, then a low week where she couldn't do one thing to move her business forward. A system stops working and the voice shows up: why bother. She wasn't failing. She was closing deals the whole time. Here's the turn. She didn't apply for our coaching session because she was falling apart. She applied because she could feel herself getting used to it. That's the version of stuck that costs you the career. Not the crash, the getting used to it. One agent a month gets a free live session with Michael Opyd on the Keeping It Real Podcast. Apply, link in the pinned comment.
 
 `#Shorts #RealEstateAgent #AgentBurnout #BreakthroughWithMichael #KeepingItReal`

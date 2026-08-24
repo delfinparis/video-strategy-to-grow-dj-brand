@@ -111,6 +111,9 @@ Full episode link in bio.
 
 ### YouTube Shorts
 
+**Title:** Your YouTube Is Fine. The Title and Thumbnail Aren't.
+
+**Description:**
 Your YouTube content is probably fine. The title and thumbnail are what's failing.
 
 Sarah Maslowski (@youtubewithsarah on Instagram) has closed over $150 million from YouTube with zero paid ads. She was on Keeping It Real this week. We covered the title mistake most agents make, how to use ChatGPT to generate clickable titles, and her thumbnail photo shoot system.

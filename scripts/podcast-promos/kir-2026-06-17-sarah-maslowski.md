@@ -108,6 +108,9 @@ Link in bio.
 
 ### YouTube Shorts
 
+**Title:** Sarah Maslowski: $150M From YouTube, No Paid Ads
+
+**Description:**
 Sarah Maslowski closed over $150 million from YouTube with zero paid ads and no cold calls. On this week's Keeping It Real, she says getting the lead is actually the easy part. She walked through her complete lead conversion system: how to filter time-wasters before they consume your weekend, how to run a Zoom buyer consult that builds trust faster than any phone call, and the showing agent model for when multiple serious buyers land at the same time. The move for your next YouTube lead: book a Zoom, not a phone call. A lead who won't commit to 45 minutes on video before touring homes is already showing you their level of commitment. And if they do show up, you get to share your screen, walk through real listings, and read their body language in real time. Full episode link in pinned comment.
 
 `#Shorts #RealEstate #YouTube #LeadConversion #RealEstateAgent #KeepingItReal #SarahMaslowski @youtubewithsarah`
