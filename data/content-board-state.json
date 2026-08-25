@@ -189,7 +189,37 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-08-23.md #5"
+  },
+  "https://app.notion.com/p/3c7313fa28928149835ac4147cf250ce": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-austin-clarence-2026-07-14.md"
+  },
+  "https://app.notion.com/p/3c7313fa28928159acd7dd0e4f3bd670": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-ben-lalez-2026-07-24.md"
+  },
+  "https://app.notion.com/p/3c7313fa2892816897edf518a2c54b82": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-sarah-maslowski-2026-07-16.md"
+  },
+  "https://app.notion.com/p/3c7313fa2892819fbd74cb14d7efef7e": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-08-25.md #5"
+  },
+  "https://app.notion.com/p/3c7313fa289281ca80aceac23703e139": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-08-25.md #1"
+  },
+  "https://app.notion.com/p/3c7313fa289281fbbac5e2843df98b86": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-08-25.md #2"
   }
  },
- "updated": "2026-08-23"
+ "updated": "2026-08-25"
 }
