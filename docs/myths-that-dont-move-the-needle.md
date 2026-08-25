@@ -74,9 +74,9 @@ Sources: Metricool 2026 Social Media Study (~40M posts) and 2026 Instagram Study
 
 **The myth:** Shorter always wins.
 
-**2026 reality:** Length is retention-relative, and the myth is still a myth: 15 seconds is not magic, and a 15-second video with a weak hook loses to a 30-second one that holds attention. What *is* true is that completion sets the ranking, and the threshold moves with runtime -- roughly 65% average view duration on sub-30s video, and a harder effective bar above it.
+**2026 reality:** Length is retention-relative, and the myth is still a myth in both directions. 15 seconds is not magic, and a 15-second video with a weak hook loses to a 30-second one that holds attention. But the inverse trap is now the more expensive one: every platform weights **total watch time per viewer** alongside completion, so a very short cut wins the completion stat and starves the distribution signal. Socialinsider's Jan-Jun 2026 study of 6M Reels found sub-30s Reels underperform on both engagement rate and median views.
 
-**What we do instead:** Run the walk-and-talk at 22-30s, hard cap 35s (Rule 7, revised 2026-08-15). Note this is not "short is better." It is "this is the band where D.J.'s format can clear 65% completion." A story that genuinely needs 50 seconds becomes two scripts rather than one script that misses the threshold. Match the *number of ideas* to the runtime, not the runtime to the story.
+**What we do instead:** Run the walk-and-talk at 30-35s, written to 30, hard cap 35s, floor 28s (Rule 7, revised 2026-08-25). Note this is not "short is better" and it is not "longer is better." 30 seconds is the only runtime inside all four platform bands at once. The number we actually solve for is **25-30 seconds watched per viewer**, not a completion percentage. A story that genuinely needs 50 seconds still becomes two scripts. Match the *number of ideas* to the runtime, not the runtime to the story.
 
 ## 10. "Every reach drop is a shadowban"
 

@@ -10,7 +10,7 @@
 > Branding also moved: slides 2, 3 and 4 now carry no footer at all, not just no URL.
 
 The format spec for D.J.'s **static and carousel Instagram posts** -- the saveable, swipeable
-format that sits alongside the 22-30s walk-and-talk videos. Sourced from the best realtor
+format that sits alongside the 30-35s walk-and-talk videos. Sourced from the best realtor
 carousel accounts (see [`docs/strategy/realtor-instagram-watchlist.md`](../strategy/realtor-instagram-watchlist.md))
 and built on the repo's existing [Viral 3-Act Spine](viral-3-act-spine.md) and
 [caption-and-hashtag-strategy](../caption-and-hashtag-strategy.md).
@@ -116,7 +116,7 @@ untracked direct.
 
 ## Slide architecture
 
-Carousels are the 3-Act Spine expressed across slides instead of across 60 seconds. The
+Carousels are the 3-Act Spine expressed across slides instead of across 30 seconds. The
 retention problem is the same (people leave in the middle), and the fix is the same (open a
 loop, make each slide earn the next swipe).
 

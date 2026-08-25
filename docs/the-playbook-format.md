@@ -22,7 +22,7 @@ The series exists to fill a real gap: **nobody is teaching agent-to-agent commun
 - Not motivational. The Playbook is technical.
 - Not opinion. Playbook content is reported field intelligence.
 - Not generic. Every play has to name a specific scenario, not a category.
-- Not long. 45 seconds is the target. 60 seconds is the ceiling.
+- Not long. **30 seconds is the target, 35 is the hard cap, 28 is the floor** (universal Rule 7, revised 2026-08-25). Per-series detail lives in [`series/the-playbook-standard.md`](series/the-playbook-standard.md), which supersedes this guide on anything they disagree about.
 
 ---
 
@@ -30,7 +30,7 @@ The series exists to fill a real gap: **nobody is teaching agent-to-agent commun
 
 Every Playbook script follows this exact structure. Do not deviate.
 
-### 1. SCENARIO (3-5 seconds)
+### 1. SCENARIO (0:00-0:01.5, the HOOK beat, 5-8 words)
 
 Name the moment specifically. Not "negotiations" - "you just received a lowball offer." Not "buyer consults" - "your buyer just asked you to cut your commission." The more specific the scenario, the sharper the play.
 
@@ -39,13 +39,13 @@ The scenario should include:
 - The specific moment ("you just got a lowball offer")
 - The emotional state ("your seller is insulted, you're frustrated")
 
-### 2. DON'T (5-7 seconds)
+### 2. DON'T (0:01.5-0:06.5, the TENSION beat, 11-14 words)
 
 Identify the trap most agents fall into. This is the part that earns the viewer's trust because they recognize themselves in the wrong move.
 
 Format: "Don't [action]. Don't [action]. Don't [action]." Three quick "don'ts" punch harder than one.
 
-### 3. DO (15-25 seconds)
+### 3. DO (0:06.5-0:21.5, THE POINT beat, 34-40 words)
 
 Give the exact technique. This must be:
 
@@ -55,7 +55,7 @@ Give the exact technique. This must be:
 
 This is the longest section because the specificity is the value. If you find yourself writing "approach the conversation with empathy" you've failed. The viewer needs the exact sentence.
 
-### 4. WHY (8-12 seconds)
+### 4. WHY (0:21.5-0:26.5, first half of PAYOFF, 11-14 words)
 
 Explain why the technique works. This is the trust builder. Without the why, the play feels arbitrary. With the why, the play feels intelligent and the viewer trusts the rest of the series.
 
@@ -64,7 +64,7 @@ The why should reference:
 - The psychology behind it ("you're not negotiating, you're asking the other agent to teach their own client")
 - The pattern observed ("nine times out of ten, the response comes back within 20 minutes")
 
-### 5. TRY THIS (3-5 seconds)
+### 5. TRY THIS (0:26.5-0:30, the loop-back, 8-11 words)
 
 Direct call to action. Tell them to use the play and report back. This is the engagement driver.
 
@@ -291,7 +291,7 @@ A Playbook script is ready to ship when:
 5. The Try This section has a clear engagement hook
 6. The credibility anchor is documented (and ideally referenced in the spoken script)
 7. The "Here's the play" phrase appears in the opening
-8. The total duration is under 60 seconds (45 is the target)
+8. The total duration is 28-35 seconds (30 is the target) and the spoken word count is 68-84
 
 If any of these are missing, the script gets rewritten before production.
 

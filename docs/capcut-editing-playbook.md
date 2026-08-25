@@ -14,7 +14,7 @@ Your viewer's thumb is hovering over the screen at all times. Every cut, every z
 
 **AI Agent Minute** is 100% talking head. No B-roll. No guest photos. No split screens. That means cuts and zooms are doing ALL the visual work. Edit aggressively - this series lives or dies on pacing.
 
-**Agent Tip of the Day** has B-roll cues, guest headshots, split screens, and text overlays baked into the production notes. You have more visual variety, so the cuts and zooms are supplemental, not the whole show. Edit with more restraint - let the visuals breathe.
+**Walk-and-talks** have B-roll cues, guest headshots, split screens, and text overlays baked into the production notes. You have more visual variety, so the cuts and zooms are supplemental, not the whole show. Edit with more restraint - let the visuals breathe. But note the runtime: since 2026-08-25 a walk-and-talk is 30 seconds, not 60, so the absolute cut count is about half while the density per second goes slightly up.
 
 ---
 
@@ -187,86 +187,75 @@ CLOSE
 
 ---
 
-### Agent Tip of the Day - Edit Map
+### Walk-and-Talk - Edit Map
 
-Your scripts follow this flow: **HOOK (0:00–0:03) → SETUP (0:03–0:12) → INSIGHT (0:12–0:38) → REFRAME (0:38–0:50) → CTA (0:50–0:60)**
+Revised 2026-08-25 for the 30-second four-beat clock (Rule 7). This map replaces the 60-second
+"Agent Tip of the Day" map, and it covers every walk-and-talk lane: Inside the Industry, Takes,
+The Playbook, What Actually Works, Broker Problems, tapthis, Podcast Promos, Agent Tip.
 
-These have B-roll cues, guest headshots, split screens, and production notes built in. You have more visual tools, so use cuts and zooms more sparingly.
+The script flow is: **HOOK (0:00–0:01.5) → TENSION (0:01.5–0:06.5) → THE POINT (0:06.5–0:21.5) → PAYOFF (0:21.5–0:30)**
+
+At 30 seconds the whole video is shorter than the old INSIGHT beat alone, so the cut budget drops
+and every cut has to earn its place. B-roll cues, headshots, and split screens still carry visual
+variety where the production notes call for them.
 
 ```
-HOOK (0:00–0:03)
+HOOK (0:00–0:01.5)
 ├── Framing: WIDE or dramatic angle per production note
-├── Cuts: ZERO. 3 seconds, one line, let it hit.
+├── Cuts: ZERO. One line, five to eight words, let it hit.
 ├── Zoom: None
-├── B-roll may open here (e.g., trunk popping open for duvet script)
+├── B-roll may open here, but only as a cold open that hard-cuts to DJ inside 1.5s
 │
-│ Example: "A white duvet in your trunk could be worth
-│ thirty thousand dollars."
-│ → If opening on B-roll, hard cut to DJ on "thirty thousand."
-│ → If opening on DJ, no cut - just the line.
+│ Example: "A duvet in your trunk is worth thirty grand."
+│ → If opening on B-roll, hard cut to DJ on "thirty grand."
 
-SETUP (0:03–0:12)
-├── Framing: WIDE for DJ talking, cut to guest headshot
-├── Cuts: 1–2 cuts - one to the guest photo, one back to DJ
-├── Zoom: None on DJ - the visual switch to guest IS your engagement beat
-├── Guest headshot + name/title overlay does the work here
+TENSION (0:01.5–0:06.5)
+├── Framing: WIDE holds, or one step in to MEDIUM
+├── Cuts: 1–2. One on the entry to this beat, one on the cost/number if there is one
+├── Zoom: hold, or a single slow push that lands on the stakes word
+├── This beat is five seconds and it is where a flat edit loses people. Do not let it sit still.
 │
-│ Example: "Amanda Pendleton analyzes millions of listings
-│ at Zillow. And she found something wild."
-│ → Cut to Amanda headshot on "Amanda Pendleton"
-│ → Cut back to DJ on "something wild"
+│ Example: "Most agents are handing that thirty grand to
+│ the stager and never seeing it."
 
-INSIGHT (0:12–0:38)
-├── This is the longest section - 26 seconds. MOST VULNERABLE TO DROP-OFF.
-├── Framing: Start WIDE, zoom to MEDIUM (110%) around 0:20
-├── Cuts: 4–6 jump cuts on DJ's talking head portions
-├── B-roll cuts per production notes (split screens, data overlays, etc.)
-├── The B-roll provides visual variety, so DJ talking sections need fewer zooms
-├── ZOOM IN on the guest's key quote or strongest data point
+THE POINT (0:06.5–0:21.5)
+├── This is the longest section - 15 seconds, half the video. MOST VULNERABLE TO DROP-OFF.
+├── Framing: MEDIUM (110%), push to 115% on the turn
+├── Cuts: 3–5 jump cuts on DJ's talking-head portions
+├── B-roll cuts per production notes (split screens, data overlays, guest headshots)
+├── ZOOM IN on the single strongest number, quote, or exact-words line
 │
-│ Example: "'I would probably keep a white duvet in my trunk.'"
-│ → Zoom to 115% when delivering the guest quote
-│ → This is their moment - the zoom honors it
-│
-│ ⚠️ RE-HOOK AT 0:15. If you have a strong line near second 15,
-│ pair it with either a zoom change or a B-roll cut.
+│ ⚠️ RE-HOOK AT 0:15. The 15-second drop-off is inside this beat, not after it.
+│ Pair the strongest line near 0:15 with a zoom change or a B-roll cut.
 │ Don't let 0:12–0:18 be flat talking head with no visual change.
 
-REFRAME (0:38–0:50)
-├── Framing: MEDIUM zoom (110–115%) - back to DJ, intimate
-├── Cuts: 1–2 max. This is conviction, not information.
-├── No B-roll - this should be DJ direct to camera, undistracted
-├── Zoom IN slightly on the "here's the truth" sentence
+PAYOFF (0:21.5–0:30)
+├── Framing: ZOOM to 120% - tight, direct, conviction not information
+├── Cuts: 1 max, on the seam between the play and the loop-back
+├── No B-roll on the loop-back line - DJ direct to camera, undistracted
+├── Text overlay may animate in with the one action item
 │
-│ Example: "This is the same thing - except nobody's doing
-│ it yet. Which means you get the advantage right now."
-│ → 115% zoom, clean take, eye contact.
-
-CTA (0:50–0:60)
-├── Framing: ZOOM to 120% - tight, direct
-├── Cuts: NONE. Homework delivered in one clean take.
-├── Text overlay animates in with the action items
-├── End card: podcast logo + "Full episode: link in bio"
-│
-│ Example: "Buy two white duvets this week. Keep them in
-│ your car. Use them on your next three listings."
-│ → Tight zoom, direct delivery, text overlay with steps.
+│ Example: "Buy two this week. Keep them in your car.
+│ That's the thirty grand."
+│ → Tight zoom, clean take, eye contact on the callback.
 ```
 
-**Total for a ~60-sec Agent Tip: ~10–15 cuts, 3–4 zoom changes.** (Fewer than AI Agent Minute because B-roll does more of the visual work.)
+**Total for a ~30-sec walk-and-talk: ~6–9 cuts, 2–3 zoom changes.** Roughly half the old 60-second
+budget in absolute terms, but a slightly *higher* cut density per second, because there is no
+stretch of the video that can afford to go visually quiet.
 
 ---
 
 ## Part 4: The Key Difference Between the Two Series
 
-| | AI Agent Minute | Agent Tip of the Day |
+| | AI Agent Minute (~60s) | Walk-and-Talk (~30s) |
 |---|---|---|
 | **Visual variety** | Zero - all talking head | High - B-roll, headshots, split screens |
-| **Cut density** | High (18–25 cuts) | Moderate (10–15 cuts) |
-| **Zoom changes** | 4–5 per reel | 3–4 per reel |
+| **Cut density** | High (18–25 cuts) | Moderate (6–9 cuts) |
+| **Zoom changes** | 4–5 per reel | 2–3 per reel |
 | **What does the heavy lifting** | Cuts + zooms + on-screen text | B-roll + guest headshots + text overlays |
 | **Editing energy** | Fast, punchy, relentless | More cinematic, more breathing room |
-| **Where viewers drop** | 0:12–0:15 (mirror moment saves them) | 0:15–0:20 (middle of INSIGHT - need a B-roll cut or zoom here) |
+| **Where viewers drop** | 0:12–0:15 (mirror moment saves them) | 0:12–0:18 (middle of THE POINT - need a B-roll cut or zoom here) |
 
 ---
 

@@ -71,16 +71,18 @@ Before the usual stress test, check the draft against the
 4. **Payoff resolves the hook's promise?** The ending delivers the promised
    thing -> the "here's what you do now" action -> the loop-back.
 5. **Length still holds?** Count the spoken words, do not estimate. The script is
-   22-30 seconds / 48-72 words, hard cap 35s / 85 words, on **every** series
-   (editorial Rule 7, revised 2026-08-15). Act 2 is one sentence with one turn.
-   If it is over, cut whole sentences and never the hook. If it will not fit at
-   all, it is two scripts -- build the stronger half and say which half you built.
+   30-35 seconds / 68-84 words, written to 30 by default, hard cap 35s / 88 words,
+   floor 28s, on **every** series (editorial Rule 7, revised 2026-08-25). Check the
+   four-beat clock: HOOK 1.5s / TENSION 5s / THE POINT 15s / PAYOFF 8s, with THE
+   POINT holding roughly half the words. If it is over, cut whole sentences out of
+   TENSION or PAYOFF and never the hook or THE POINT. If it will not fit at all, it
+   is two scripts -- build the stronger half and say which half you built.
 6. **No fabricated story.** No invented scene, character, detail, or quote was
    added to make the middle land. Every specific traces to a source (Rule 1).
 
-Narrative series (Inside the Industry NF/IS/IA, Podcast Promo) run the full
-three acts. Tactical series (Playbook, What Actually Works, tapthis) run a
-compressed Act 2 -- one story beat, then the payload.
+Every series runs the same four-beat clock and the compressed Act 2 (TENSION +
+THE POINT, with the turn in the seam between them). The old narrative/tactical
+split is retired -- see Rule 7 and the Viral 3-Act Spine.
 
 ## Notes
 - Options == the brief's top takes. The brief already drops already-covered

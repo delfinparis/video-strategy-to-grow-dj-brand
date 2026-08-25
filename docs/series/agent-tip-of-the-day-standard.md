@@ -10,7 +10,7 @@ This document defines the per-series rules for the **Agent Tip of the Day** seri
 
 A short-form video series where D.J. delivers one specific, actionable tip drawn from a real podcast guest interview. Every tip is guest-sourced - meaning it came from a named person on a specific episode, not from a generic observation or a composite. The series positions D.J. as the curator of 700+ conversations, handing over the single most useful thing each guest said.
 
-**Core promise to the viewer:** *In 30 to 45 seconds, you'll leave with one thing a real top producer does that you can try today.*
+**Core promise to the viewer:** *In 30 seconds, you'll leave with one thing a real top producer does that you can try today.*
 
 If a draft does not deliver that promise, it is not Agent Tip of the Day.
 
@@ -63,28 +63,33 @@ Agent Tip of the Day scripts move through these beats in this order.
 5. CLOSE - "Here's what you do now." Specific, immediate action.
 ```
 
-### Beat length guidance (for a 40-second script)
+### Beat length guidance (for a 30-second script)
 
-| Beat | Target seconds | Target words |
-| --- | --- | --- |
-| Hook | 3-5 | 8-12 |
-| Setup | 5-8 | 12-20 |
-| Insight (the tip) | 12-18 | 30-45 |
-| Reframe | 5-8 | 12-20 |
-| Close | 5-8 | 12-20 |
-| **Total** | **~40s** | **~80-110 words** |
+Revised 2026-08-25 from the old 40-second table. The five beats map onto the universal four-beat
+clock in Rule 7: HOOK is the HOOK, SETUP is the TENSION, INSIGHT is THE POINT, and REFRAME +
+CLOSE share the PAYOFF.
+
+| Beat | Clock | Target seconds | Target words |
+| --- | --- | --- | --- |
+| Hook (= HOOK) | 0:00-0:01.5 | 1.5 | 5-8 |
+| Setup (= TENSION) | 0:01.5-0:06.5 | 5 | 11-14 |
+| **Insight, the tip (= THE POINT)** | **0:06.5-0:21.5** | **15** | **34-40** |
+| Reframe (= PAYOFF, first half) | 0:21.5-0:26 | 4.5 | 10-13 |
+| Close (= PAYOFF, loop-back) | 0:26-0:30 | 4 | 8-11 |
+| **Total** | | **~30s** | **68-84 words** |
 
 ### Why this order
 
-The hook earns attention. The setup gives just enough context so the viewer knows who said this and why it matters (no more). The insight IS the video - the single specific thing the viewer came for. The reframe elevates. The close hands them something to do right now.
+The hook earns attention in 1.5 seconds. The setup gives just enough context so the viewer knows who said this and why it matters (no more) -- it is five seconds, not a paragraph, and its real job is the cost, not the credential. The insight IS the video - the single specific thing the viewer came for, and it holds half the word budget. The reframe elevates. The close hands them something to do right now and loops back to the hook.
 
 ---
 
 ## Length target
 
-- **Target: 30-45 seconds** (approximately 65-110 spoken words).
-- **Hard cap: 60 seconds** (approximately 130-150 words).
-- Agent Tip scripts should be the shortest in the repo. The discipline is compression. If the tip needs more than 45 seconds of explanation, it's either two tips (split it) or it belongs in The Playbook (which has room for scenario + response + why).
+- **Target: 30-35 seconds** (68-84 spoken words), written to 30 as the default. Nothing under 28 seconds.
+- **Hard cap: 35 seconds** (88 spoken words), per universal Rule 7 as revised 2026-08-25. This replaces the old 30-45s target and 60s cap.
+- **The four-beat clock (Rule 7) is mandatory:** HOOK 1.5s / TENSION 5s / THE POINT 15s / PAYOFF 8s. One idea, no throat-clearing.
+- The discipline is compression, but the floor is real: a 20-second tip wins the completion stat and starves the watch-time signal. If the tip needs more than 35 seconds of explanation, it's either two tips (split it) or it belongs in The Playbook (which has room for scenario + response + why).
 
 ---
 

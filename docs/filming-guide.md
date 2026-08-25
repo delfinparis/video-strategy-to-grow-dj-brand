@@ -27,7 +27,7 @@ Production notes for filming both video series.
 
 ### Agent Tip of the Day
 - **Style:** D.J. presenting guest wisdom from Keeping It Real podcast episodes
-- **Length:** ~60 seconds
+- **Length:** ~30 seconds (28-35s band, 68-84 spoken words, universal Rule 7)
 - **Structure:** Hook (3s) > Setup (9s) > Insight (26s) > Reframe (12s) > CTA (10s)
 - **Guest reference:** Always name the guest and their credibility signal
 - **Visuals:** Guest headshot on screen during mention, B-roll as noted in per-script production notes
@@ -87,14 +87,14 @@ Each script specifies `[ON-SCREEN: "..."]` markers. Add these as text overlays a
 - Best times: 6-9am, 12-2pm, 7-9pm
 
 ### TikTok
-- 60 seconds is the sweet spot
+- 30 seconds is the sweet spot (2026 data: engagement peaks around 30s, completion band runs to ~34s)
 - More casual, less polished OK
 - Trending sounds can boost reach
 - Post 2-3x daily for growth phase
 - Engage in comments heavily
 
 ### YouTube Shorts
-- 60-second max
+- 3-minute max, but 30-45s is the retention-to-recommendation sweet spot
 - Vertical format
 - Evergreen discovery potential
 - Post 1-2x daily
@@ -102,7 +102,7 @@ Each script specifies `[ON-SCREEN: "..."]` markers. Add these as text overlays a
 
 ### LinkedIn
 - Professional tone
-- 60-90 seconds
+- 30-60 seconds; the same 30s walk-and-talk cut works here
 - Text post + video performs well
 - Post 1x daily
 - Best for B2B recruiting

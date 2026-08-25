@@ -94,7 +94,7 @@ AI-generated across a run of videos.
 
 1. **The problem** — a specific friction the viewer actually feels (ideally the
    *second-order* problem: not "you should prospect," but "you know you should and you don't").
-2. **Why the obvious fix fails** — the hook that earns the next 50 seconds.
+2. **Why the obvious fix fails** — the hook that earns the next 25 seconds.
 3. **The mechanism** — one named, citable research finding. The non-obvious *why*.
 4. **The application** — one thing, do it tomorrow, framed for an agent.
 5. **The close** — watchpoint or the soft recruiting CTA.

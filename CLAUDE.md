@@ -60,17 +60,34 @@ let him pick, then build the chosen option through draft → stress-test → EP-
 and the `## Council Review` block). If today's brief is missing, offer to run
 `python3 scripts/news_brief.py` right then.
 
-**Every walk-and-talk is 22-30 seconds, hard cap 35.** Set 2026-08-15, replacing the old 45-75s
-range. That is **48-72 spoken words**, 85 at the absolute wall. Count the words in the finished
+**Every walk-and-talk is 30-35 seconds, written to 30 as the default, hard cap 35.** Set
+2026-08-25, replacing the 22-30s band set on 2026-08-15. That is **68-84 spoken words**, 88 at
+the absolute wall, and nothing ships under 28 seconds either. Count the words in the finished
 script and put the count in the frontmatter; do not estimate, because a draft that feels like
-30 seconds is reliably 45. There is no earned-length exception anymore. The reason is completion:
-sub-30s video is graded against a ~65% average-view-duration threshold and everything longer
-against a stricter effective bar, so length now decides which curve the video is scored on. Full
+30 seconds is reliably 45. There is no earned-length exception. The reason the number moved:
+completion still gates distribution, but every platform now weights **total watch time per
+viewer** alongside it, and a 22-second cut wins the completion stat while starving the watch-time
+signal. 30 seconds is the only runtime inside all four platform bands at once (Facebook tops out
+at 30, TikTok's completion band runs to 34, Shorts and Reels start rewarding at 30). Full
 rationale in Rule 7 of [`docs/editorial-standards.md`](docs/editorial-standards.md). If the
 material will not fit, it is two scripts, not one long one.
 
+**Every walk-and-talk runs the same four-beat clock.** This is the structure, not a suggestion:
+
+| Beat | Clock | Seconds | Words |
+| --- | --- | --- | --- |
+| **HOOK** -- the scroll-stop, one spoken line | 0:00-0:01.5 | 1.5 | 5-8 |
+| **TENSION** -- what it costs, why it matters now | 0:01.5-0:06.5 | 5 | 11-14 |
+| **THE POINT** -- the one idea, the whole payload | 0:06.5-0:21.5 | 15 | 34-40 |
+| **PAYOFF / TURN** -- what you do now, then loop-back | 0:21.5-0:30 | 8 | 18-22 |
+| **Total** | | **~30s** | **68-84** |
+
+**One idea, no throat-clearing.** The hook lands inside 1.5 seconds or it is not a hook. THE
+POINT gets 15 seconds and half the word budget because it is the only beat the viewer came for,
+and the five seconds of headroom between 30 and 35 goes there and nowhere else.
+
 **Heat 4 is the default register, and heat 5 is banned.** Also 2026-08-15. The old
-"one heat-4/5 post per week" ration is gone. At 25 seconds the hook carries the entire
+"one heat-4/5 post per week" ration is gone. At 30 seconds the hook carries the entire
 distribution load, so a defensible reframe is no longer a strong enough reason to stop scrolling.
 Write the hook on a cost, a loss, or a wrong default that someone profits from. Two guardrails
 replace the ration and both are absolute: **friction points outward** at a belief, practice, tool,
@@ -81,9 +98,9 @@ brokerage, coach, or product as wrong — never ships on any series.** Instituti
 **The four passes are non-negotiable. Run them silently, deliver only the final v3.** Even when
 the first draft looks strong, never skip straight to delivery. Each pass has a concrete job:
 
-- **Pass 1 — Draft.** Build to the 3-act spine, a deliberate hook family, a pattern interrupt, the `## AI Music Prompt` block, and all five captions. The HOOK opens with a standalone **scroll-stop** first spoken line (rule below). Draft to 60 words, not to "short" — write the word budget at the top of the draft and hold to it, because cutting a 130-word script down to 60 loses the hook's sharpness every time.
+- **Pass 1 — Draft.** Build to the 3-act spine, a deliberate hook family, a pattern interrupt, the `## AI Music Prompt` block, and all five captions. The HOOK opens with a standalone **scroll-stop** first spoken line (rule below). Draft to the four-beat clock and a 75-word budget, not to "short" — write the beat budget at the top of the draft and hold to it, because cutting a 130-word script down to 75 loses the hook's sharpness every time.
 - **Pass 2 — Stress-test.** Run the **Story Pass** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)) first: does Act 2 have a real turn, not a briefing? Then the **scroll-stop test**: read only the first spoken line — does it stop the scroll on its own in 3 seconds, or is it warm-up? Then the hook 3-second test, the AI-tells scrub ([`docs/ai-tells-field-guide.md`](docs/ai-tells-field-guide.md)), and for NF confirm every claim has a named source + date + URL. Fix what fails before polishing.
-- **Pass 3 — EP-polish.** Count the spoken words and cut to the 48-72 band (Rule 7). Cut whole sentences, never three words off each of five sentences, and take nothing out of the hook. Sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the caption + hashtag-cap scrub below. Then hand v3 to Pass 4.
+- **Pass 3 — EP-polish.** Count the spoken words and land in the 68-84 band (Rule 7), and check each beat against the clock -- an overlong TENSION beat is the most common failure. Cut whole sentences, never three words off each of five sentences, and take nothing out of the hook. Sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the caption + hashtag-cap scrub below. Then hand v3 to Pass 4.
 - **Pass 4 — Council review.** Run the finished v3 through the Short-Form Council ([`docs/short-form-council-pass.md`](docs/short-form-council-pass.md)): ten creator/marketer doctrines plus two research witnesses (Heath on curiosity mechanics, Berger on shareability) pressure-test the hook, retention, and shareability. Append a `## Council Review` block beneath v3 with 2-3 tested **spoken** scroll-stop variants mapped to hook families, a one-line why-it-works (hook mechanism / share driver / retention move), and the single dissent to A/B test next. It never adds manual on-screen text (captions build from audio) and never undoes a Pass-3 scrub. If the local deep-reference skill is installed (`~/.claude/skills/short-form-council`), load its book-backed `references/*.md` for depth; otherwise run from the doctrines in the doc. Then deliver v3 (script + AI Music Prompt + Council Review).
 
 **The 0:00 scroll-stop is mandatory, and it is spoken.** The first line out of D.J.'s mouth (0:00-0:03) has to stop the scroll on its own, before any context. captions.ai builds the on-screen captions from the audio, so the scroll-stop lives in the **spoken** first line, never a manual text overlay (that is why `scripts/strip_onscreen_text_v2.py` exists). Every walk-and-talk `### HOOK` beat opens with it:
@@ -91,7 +108,7 @@ the first draft looks strong, never skip straight to delivery. Each pass has a c
 - **Front-load the tension in the first 3-5 words.** "NAR just changed what you owe your seller" stops the scroll. "Today I want to talk about some new NAR guidance" does not.
 - **One complete, arresting line that opens a loop** the video then closes. No warm-up, no "hey guys," no throat-clearing sentence before it.
 - **50-60% of all drop-off happens in the first 3 seconds** (2026 retention math, [`docs/hook-matrix-cheatsheet.md`](docs/hook-matrix-cheatsheet.md)). The scroll-stop is the whole distribution lever, not a nicety.
-- **The hook occupies 0:00-0:03 and is one sentence.** At a 25-second runtime a 9-second hook beat is a third of the video. Land it in a single line and move.
+- **The hook occupies 0:00-0:01.5 and is one sentence.** It is 5-8 words. Land it and move -- TENSION starts at 0:01.5, not at 0:03.
 - **Lead on the negative.** Open on what it costs, what it is taking, or what the viewer already got wrong. Loss framing lands harder and faster than gain framing at equal magnitude, and 3 seconds is not enough time for an upside promise to register. "This is costing you a listing a quarter" beats "here is how to win one more listing a quarter." Same script, different opening valence.
 - **Pull a ready first line from [`docs/opener-swipe-file.md`](docs/opener-swipe-file.md)** mapped to the chosen `hook_family`, then sharpen it to the specific news. Never write the hook cold.
 
@@ -101,7 +118,7 @@ scrub in the **Social descriptions** section below: no em dashes, no AI-speak, a
 (LinkedIn/IG/TikTok/YouTube 3-5, Facebook 2-3, realtor-first, one brand tag). This runs
 every time, without D.J. asking. Do not copy hashtag counts from older example scripts.
 
-Every walk-and-talk follows the **Viral 3-Act Spine** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)): HOOK (stop the scroll + promise the payoff) → STORY (the middle is a story with a turn, not a briefing) → PAYOFF (resolve the loop → "here's what you do now" action → loop-back). The stress-test pass runs the **Story Pass** before anything else. **At 22-30 seconds every series runs the compressed Act 2** -- one sentence carrying one turn, then the payload. The old narrative/tactical split (full three acts for Inside the Industry and Podcast Promo, compressed for Playbook, What Actually Works and tapthis) is retired: the compressed version is now universal, because 60 words cannot hold a developed middle. The turn still has to be there. A one-sentence Act 2 with no turn is a briefing, and the Story Pass still fails it.
+Every walk-and-talk follows the **Viral 3-Act Spine** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)): HOOK (stop the scroll + promise the payoff) → STORY (the middle is a story with a turn, not a briefing) → PAYOFF (resolve the loop → "here's what you do now" action → loop-back). The stress-test pass runs the **Story Pass** before anything else. **At 30-35 seconds every series runs the compressed Act 2** -- TENSION and THE POINT, with the turn living in the seam between them, then the payload. The old narrative/tactical split (full three acts for Inside the Industry and Podcast Promo, compressed for Playbook, What Actually Works and tapthis) is retired: the compressed version is now universal, because 75 words cannot hold a developed middle. The turn still has to be there. A one-sentence Act 2 with no turn is a briefing, and the Story Pass still fails it.
 
 For the hook itself, reach into the **Hook Matrix** (Rule 10 in [`docs/editorial-standards.md`](docs/editorial-standards.md)): pick one of the nine families on purpose, log it as `hook_family` in frontmatter, and don't repeat a family across two consecutive posts. Friction families (Sacred Cow, System Indictment, Forbidden) ride heat 4 and are now the **default**, not a weekly ration (Rule 9.2, revised 2026-08-15); they point friction outward at a belief or system and stand with the agent, never at the agent. The non-friction families stay in rotation for variety, but each still has to open on a cost or a wrong default to earn heat 4. Heat 5 is banned outright. Swap/List hooks (Family 9: "don't say X, say Y," stop-doing, do-don't-in-the-room) are the default saveable format for tactical series. Roughly every couple of weeks, run one **emotional / identity** script (Rule 10.7) instead of a tip -- a permission slip or why-this-work-matters piece -- because that's what earns follows and the long comments tactics don't. Ready first lines mapped to the nine families live in [`docs/opener-swipe-file.md`](docs/opener-swipe-file.md) -- pull from there before writing a hook cold.
 
@@ -132,7 +149,7 @@ These are not editorial -- they're posting-day habits the algorithm rewards hard
 
 ## Always include an AI Music Prompt with every walk-and-talk script
 
-**Scope:** Any 22-35s talking-head script in this repo. Specifically:
+**Scope:** Any 30-35s talking-head script in this repo. Specifically:
 - All `scripts/inside-the-industry/` scripts (NF, IS, IA)
 - All `scripts/the-playbook/` scripts
 - All `scripts/takes/` scripts
@@ -219,7 +236,7 @@ If a sentence in a social caption needs a pause that an em dash would normally c
 3. Mood, 2-4 words (e.g., "authoritative, confident, verdict-in")
 4. 3-4 instruments max (e.g., "muted piano, pulsing synth bass, soft percussion")
 5. The "no vocals" constraint (always)
-6. Runtime hint (e.g., "25-30s")
+6. Runtime hint (e.g., "30-35s")
 
 The CapCut prompt is the only music prompt (no Suno/Udio). If a descriptor won't fit, drop the least-important exclusion (`no risers`, `no reverb tails`) rather than ship an over-cap prompt that gets truncated. If a prompt would be meaningfully better at 350-400 chars, flag it and ask whether to split into two CapCut generations.
 
@@ -288,10 +305,10 @@ The short version:
    shortlist, not a clearance. Entries marked `evidence: research` in
    [`data/sacred-cows.md`](data/sacred-cows.md) have no sourced number yet; if one cannot be
    found, drop the option rather than soften the claim. No repeats inside 8 weeks.
-2. **Five beats in 60 words.** THE COW → WHO PROFITS → THE RECEIPT → THE SWAP → LOOP-BACK. Beat 2
+2. **Five beats in 75 words.** THE COW → WHO PROFITS → THE RECEIPT → THE SWAP → LOOP-BACK. Beat 2
    (who makes money from this belief surviving) is what makes it a take instead of a tip. Beat 4
    is the "do Y instead" half and it is not optional -- an indictment with no swap is a rant.
-   Under the 22-30s rule each beat is **one sentence**, and beats 1 and 2 often share one:
+   Under the 30-35s rule each beat is **one sentence** (THE RECEIPT can take two), and beats 1 and 2 often share one:
    "You are still paying for [cow], and [who] is the reason it never dies."
 3. **Heat: 4 every day the lane runs.** Mon, Wed and Fri all sit at 4. The old "3.5 Mon/Fri,
    one 4 on Wed" split is retired along with the Rule 9.2 weekly ration (2026-08-15) -- there is

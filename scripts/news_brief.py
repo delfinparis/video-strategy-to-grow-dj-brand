@@ -480,10 +480,10 @@ HARD EDITORIAL RULES (a take that needs one of these is wrong, rewrite it):
 - NO fabricated or "plausible specific" stats. Every number must trace to the source. If you're not sure of a number, don't use one.
 - NO em dashes. NO AI-speak filler.
 - Always "D.J. Paris" with periods.
-- LENGTH: 22-30 second target, 35 second HARD CAP. That is 48-72 spoken words, 85 at the absolute wall. The reframe is ONE sentence and the close is one action. Every take must be filmable in under 35 seconds. If a story needs more room than that, it is two takes, not one long one.
-- HOOK: the first sentence, and it has to stop the scroll on its own in 3 seconds with no set-up clause in front of it.
+- LENGTH: 30-35 second target written to 30, 35 second HARD CAP, 28 second floor. That is 68-84 spoken words, 88 at the absolute wall. Every take runs the four-beat clock: HOOK 1.5s (5-8 words) / TENSION 5s (11-14 words) / THE POINT 15s (34-40 words) / PAYOFF 8s (18-22 words). The reframe lives in THE POINT and the close is one action. Every take must be filmable in under 35 seconds. If a story needs more room than that, it is two takes, not one long one.
+- HOOK: the first sentence, 5-8 words, and it has to stop the scroll on its own inside 1.5 seconds with no set-up clause in front of it. One idea per take, no throat-clearing.
 
-HEAT (Rule 9.2, revised 2026-08-15): write every take at heat 4 by default. The old "one heat-4 per week" ration is gone. At a 25-second runtime the hook carries the whole distribution load, so a merely defensible reframe is not strong enough. Drop to 3.5 only when the story genuinely has no wrong default to name -- never manufacture a fight the material does not contain, which fails the no-fabrication rule the same way an invented number does.
+HEAT (Rule 9.2, revised 2026-08-15): write every take at heat 4 by default. The old "one heat-4 per week" ration is gone. At a 30-second runtime the hook carries the whole distribution load, so a merely defensible reframe is not strong enough. Drop to 3.5 only when the story genuinely has no wrong default to name -- never manufacture a fight the material does not contain, which fails the no-fabrication rule the same way an invented number does.
 
 HEAT 5 IS BANNED. Never name a specific person, brokerage, coach, or product as wrong. Institutional public record stays reportable at heat 4: a filed lawsuit, a published settlement, an announced policy change. Reporting what an organization did is fine; calling a named company or person wrong is not.
 

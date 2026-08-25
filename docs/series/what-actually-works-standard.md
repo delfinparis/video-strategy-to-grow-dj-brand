@@ -57,7 +57,7 @@ compress it. Length wins (universal Rule 7).
 1. PROBLEM    - A specific friction the viewer feels. Ideally the second-order one:
                 not "you should prospect," but "you know you should and you don't."
 2. WHY THE    - The obvious fix is named and shown to fail. This is the hook that earns
-   OBVIOUS      the next 50 seconds. ("Discipline was never the problem.")
+   OBVIOUS      the next 25 seconds. ("Discipline was never the problem.")
    FIX FAILS
 3. MECHANISM  - One named, citable research finding. The non-obvious WHY.
 4. APPLICATION- One thing, do it tomorrow, framed for an agent. Concrete and physical.
@@ -126,8 +126,9 @@ still apply to any real estate number in the script (production volume, market f
 
 ## Length and pacing (extends Rule 7)
 
-- **Target: 22-30 seconds** (48-72 spoken words).
-- **Hard cap: 35 seconds** (85 spoken words). No exceptions.
+- **Target: 30-35 seconds** (68-84 spoken words), written to 30 as the default. Nothing under 28 seconds.
+- **Hard cap: 35 seconds** (88 spoken words). No exceptions.
+- **The four-beat clock (Rule 7) is mandatory:** HOOK 1.5s / TENSION 5s / THE POINT 15s / PAYOFF 8s. One idea, no throat-clearing.
 - Set 2026-08-15, replacing the old 45-60s target and 75s cap.
 - **Beats 2 and 3 no longer get room, they get one sentence each.** This series used to claim
   extra length because "why the obvious fix fails" and "the mechanism" both needed setup. They
@@ -245,7 +246,7 @@ problem_index_ref: "[# from the problem-index]"
 
 > **Strongest Line:** "[the one line a viewer would screenshot]"
 
-## Script (22-30 seconds, XX words)
+## Script (30-35 seconds, XX words)
 [Five-beat structure: PROBLEM / WHY THE OBVIOUS FIX FAILS / MECHANISM / APPLICATION / CLOSE,
  with the archive tie-in woven in before the close]
 

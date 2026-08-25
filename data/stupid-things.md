@@ -192,8 +192,8 @@ out until it traces to primary research.
 
 ## The four-beat reel this bank is built for
 
-D.J.'s formula, and the reason every entry carries the fields it does. A complete 22-30 second
-reel (48-72 spoken words, hard cap 35s, per Rule 7 as revised 2026-08-15) is already sitting in
+D.J.'s formula, and the reason every entry carries the fields it does. A complete 30-35 second
+reel (68-84 spoken words, hard cap 35s, per Rule 7 as revised 2026-08-25) is already sitting in
 each entry, one sentence per beat:
 
 ```

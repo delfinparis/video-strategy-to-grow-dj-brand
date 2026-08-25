@@ -52,12 +52,15 @@ Shorter than the take's five, because there is no who-profits turn and no swap.
 
 **Beat 3 is the lane's whole ethic and the beat most likely to be written wrong.** The
 temptation is to resolve it -- to tell the agent what to do about what they just learned. Do
-not. An agent who has been somewhere six years will not be argued out of it by a 55-second
+not. An agent who has been somewhere six years will not be argued out of it by a 30-second
 video, and trying makes the video a pitch. Hand them the *look*, not the *leave*. The
 conclusion has to be theirs or it is not a conclusion, it is an ad.
 
-**Word count 130-165.** 45-70 seconds at D.J.'s pace. Shorter than the take because there is
-no argument to win.
+**Word count 68-84.** 30-35 seconds at D.J.'s pace, written to 30, hard cap 35s / 88 words,
+floor 28s -- universal Rule 7, revised 2026-08-25, and it supersedes the 130-165 word count this
+lane carried before. The four-beat clock applies: THE COW/THE SIZE split across HOOK (1.5s) and
+TENSION (5s), THE MIRROR owns THE POINT (15s), LOOP-BACK closes the PAYOFF (8s). Shorter than the
+old target because there is no argument to win -- the *look* is the payload and it fits.
 
 ---
 

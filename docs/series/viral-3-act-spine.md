@@ -15,8 +15,8 @@ a tool, not a license to add length or invent scenes.
 
 ## Why this exists
 
-Retention dies in the middle. The hook earns the first three seconds; the close lands the action.
-The 40 seconds in between are where viewers leave -- and they leave when the middle reads as
+Retention dies in the middle. The hook earns the first second and a half; the close lands the action.
+The 20 seconds in between are where viewers leave -- and they leave when the middle reads as
 *exposition* ("here's the background, here's my take") instead of *story* ("here's what happened,
 and then here's the turn").
 
@@ -97,8 +97,8 @@ You need all three.
 ## Story is compressed for every series now
 
 **Revised 2026-08-15.** This section used to split the roster into narrative series (full three
-acts) and tactical series (compressed Act 2). That split is retired. Rule 7 now sets a 22-30
-second target with a 35-second hard cap, and **48-72 spoken words cannot hold a developed middle
+acts) and tactical series (compressed Act 2). That split is retired. Rule 7 now sets a 30-35
+second target with a 35-second hard cap, and **68-84 spoken words cannot hold a developed middle
 in any series.** Every walk-and-talk runs the compressed Act 2: one sentence carrying one real
 turn, then the payload.
 
@@ -194,6 +194,6 @@ ACT 2  STORY    subject + turn + micro-loops (NOT exposition; NOT invented)
 ACT 3  PAYOFF   resolve the loop -> hand over the action -> loop back
 
 EVERY series: compressed -- Act 2 is one sentence with one real turn, then the payload.
-22-30s, 48-72 spoken words, hard cap 35s. No series runs the full 3-act version anymore.
+30-35s, 68-84 spoken words, hard cap 35s, written to 30 by default. No series runs the full 3-act version anymore. The acts map onto the four-beat clock: HOOK is Act 1, TENSION + THE POINT are the compressed Act 2, PAYOFF is Act 3.
 Rule 1 and Rule 7 override the story instinct. Always.
 ```

@@ -184,11 +184,13 @@ say that -- it is a legitimate and disarming version of the beat.
 
 ## Length
 
-- **Target: 22-30 seconds** (48-72 spoken words).
-- **Hard cap: 35 seconds** (85 spoken words), per universal Rule 7. No exceptions.
-- Set 2026-08-15, replacing the old 45-60s target and 75s cap.
-- **Five beats, roughly one sentence each.** THE COW → WHO PROFITS → THE RECEIPT → THE SWAP →
-  LOOP-BACK, in about 60 words. Beats 1 and 2 frequently share a single sentence: *"You are still
+- **Target: 30-35 seconds** (68-84 spoken words), written to 30 as the default. Nothing under 28 seconds.
+- **Hard cap: 35 seconds** (88 spoken words), per universal Rule 7. No exceptions.
+- **The four-beat clock (Rule 7) is mandatory:** HOOK 1.5s / TENSION 5s / THE POINT 15s / PAYOFF 8s. One idea, no throat-clearing.
+- Set 2026-08-25, replacing the 22-30s band set 2026-08-15 (which replaced a 45-60s target and 75s cap).
+- **Five beats, roughly one sentence each** (THE SWAP can take two). THE COW → WHO PROFITS →
+  THE RECEIPT → THE SWAP → LOOP-BACK, in about 75 words. On the four-beat clock: THE COW is the
+  HOOK, WHO PROFITS is the TENSION, THE RECEIPT + THE SWAP are THE POINT, LOOP-BACK is the PAYOFF. Beats 1 and 2 frequently share a single sentence: *"You are still
   paying for [the cow], and [who] is the reason it never dies."* That merge is the standard move,
   not a shortcut.
 - **The receipt is one number, said once, with no set-up clause in front of it.** Not "according
@@ -599,7 +601,7 @@ status: "[ready / draft -- receipt needs verification]"
 
 > **Strongest Line:** "[the one line a viewer would screenshot]"
 
-## Spoken Script (22-30 seconds, XX words)
+## Spoken Script (30-35 seconds, XX words)
 [THE COW / WHO PROFITS / THE RECEIPT / THE SWAP / LOOP-BACK]
 
 ## Production Note

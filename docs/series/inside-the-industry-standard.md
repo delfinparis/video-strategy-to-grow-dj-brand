@@ -104,10 +104,11 @@ The watchpoint close works for NF scripts where the news is unfolding. It still 
 
 ## Length target
 
-- **Target: 22-30 seconds** (48-72 spoken words).
-- **Hard cap: 35 seconds** (85 spoken words). No exceptions, no earned-length clause.
-- Set 2026-08-15, replacing the old 45-60s target and 75s cap. See Rule 7 in [`editorial-standards.md`](../editorial-standards.md) for why completion now sets the number.
-- **This series lost the most room, and that is deliberate.** Inside the Industry used to claim extra length for context: the news event, the 700-interview pattern, the access observation. At 60 words you get *one* of those, not all three. Pick the one the insight actually needs and cut the other two. The 700-interview pattern is usually the one worth keeping, because it is the thing no other account can say.
+- **Target: 30-35 seconds** (68-84 spoken words), written to 30 as the default. Nothing under 28 seconds.
+- **Hard cap: 35 seconds** (88 spoken words). No exceptions, no earned-length clause.
+- **The four-beat clock (Rule 7) is mandatory:** HOOK 1.5s / TENSION 5s / THE POINT 15s / PAYOFF 8s. One idea, no throat-clearing. The sourced number lives in THE POINT.
+- Set 2026-08-25, replacing the 22-30s band set 2026-08-15 (which replaced a 45-60s target and 75s cap). See Rule 7 in [`editorial-standards.md`](../editorial-standards.md) for why completion *and* watch-time-per-viewer together set the number.
+- **This series lost the most room, and that is deliberate.** Inside the Industry used to claim extra length for context: the news event, the 700-interview pattern, the access observation. At 75 words you get *one* of those, not all three -- the extra room versus the 22-30s band goes into making that one land, not into restoring the other two. Pick the one the insight actually needs and cut the other two. The 700-interview pattern is usually the one worth keeping, because it is the thing no other account can say.
 - **Say the news in one clause, not one paragraph.** "NAR just changed what you owe your seller" is the whole setup. The viewer does not need the docket number, the date, and the committee that voted before the take arrives. Sourcing rigor still binds in full: the named source, date, and URL live in the `## Data Source` block, which is not spoken and does not count against the word budget.
 - If a story genuinely carries two separate second-order reads, that is two scripts on two days, and both will out-perform the merged version.
 

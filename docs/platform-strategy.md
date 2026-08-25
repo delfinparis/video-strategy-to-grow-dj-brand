@@ -10,7 +10,7 @@ D.J.'s own April baseline still sets the platform priority. What changed since t
 
 **The signal stack that now governs every platform** (in order of weight):
 
-1. **Watch time / completion + getting past the 3-second mark.** The single heaviest signal on Reels, Shorts, TikTok, and Facebook video. A hook that holds past 3 seconds is what triggers the wider push. This is why the spoken hook and the 15-second re-hook are the highest-leverage things in the script.
+1. **Watch time / completion + getting past the 3-second mark.** The single heaviest signal on Reels, Shorts, TikTok, and Facebook video. A hook that holds past 3 seconds is what triggers the wider push. This is why the spoken hook and the 15-second re-hook are the highest-leverage things in the script. **As of the 2026 data, completion is only half of it:** every platform now weights **total watch time per viewer** alongside completion percentage, which is why Rule 7 moved the runtime to 30-35s on 2026-08-25. The number we solve for is 25-30 seconds actually watched, not a percentage. A very short cut wins the completion stat and starves the distribution signal -- Socialinsider's Jan-Jun 2026 study of 6M Reels found sub-30s Reels underperform on both engagement rate and median views.
 2. **Sends / shares to DM.** Weighted ~3-5x a like on Instagram; the top distribution signal on both IG and Facebook. Design for "would one agent DM this to another agent."
 3. **Saves.** The engagement layer carousels are built for (see the carousel strategy doc).
 4. **Likes and follower count are weak signals.** Up to ~50% of the Facebook feed and most Reels reach is now non-followers. Chasing follower count is chasing the wrong number.

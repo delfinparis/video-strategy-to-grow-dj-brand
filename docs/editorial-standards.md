@@ -185,7 +185,7 @@ Read the first spoken line aloud. In under three seconds, does it make a strange
 
 ### The 15-second re-hook
 
-Viewer retention data shows a second major drop-off point at 15 to 20 seconds. Every script over 20 seconds must place a re-engagement line at roughly the 15-second mark - a phrase that re-establishes stakes, deepens curiosity, or teases what's coming. This is inherited from the KIR POLISH_PROMPT.
+Viewer retention data shows a second major drop-off point at 15 to 20 seconds. At the 30-35 second runtime this is universal, not conditional: every script must place a re-engagement line at roughly the 15-second mark, which lands inside THE POINT beat - a phrase that re-establishes stakes, deepens curiosity, or teases what's coming. This is inherited from the KIR POLISH_PROMPT.
 
 **Re-hook phrases that work:**
 
@@ -457,35 +457,55 @@ When those three conditions are met, document the phrase in this section along w
 
 ## Rule 7: Length and Pacing
 
-**Target 22 to 30 seconds. Hard cap 35 seconds. There is no earned-length exception.** Set 2026-08-15, replacing the old 30-60s target and 90s cap.
+**Target 30 to 35 seconds. Write to 30 as the default. Hard cap 35 seconds. There is no earned-length exception.** Set 2026-08-25, replacing the 22-30s target set on 2026-08-15.
 
-**Why the number moved.** Completion replaced swipe rate as the primary ranking signal on every platform we publish to. The threshold that decides whether a video escapes the follower graph and gets matched into topic clusters is roughly **65% average view duration on sub-30s** video (about 50% once you pass 30s). A 28-second script that 65% of viewers finish out-distributes a 55-second script that 45% finish, even though the longer one holds attention for more total seconds. Length is no longer a creative choice with a retention cost attached. It is the single input that decides which retention threshold the video is graded against, and the sub-30 threshold is the one D.J.'s format can actually clear.
+**Why the number moved.** The 2026 platform data says two things at once, and the 22-30s rule was only listening to the first. Completion still gates distribution -- but every platform we publish to now weights **total watch time per viewer** alongside it, and a very short video wins the completion stat while starving the watch-time signal. Socialinsider's Jan-Jun 2026 study of 6M Reels found sub-30s Reels *underperform* the 45-60s band on both engagement rate and median views. TikTok engagement peaks around 30 seconds. YouTube Shorts' retention-to-recommendation sweet spot is 30-45s. Facebook Reels is the tightest of the four at 15-30s.
+
+**30 seconds is the only runtime that sits inside all four platform bands at once.** Facebook tops out at 30, TikTok's completion band runs to 34, Shorts and Reels start rewarding at 30. That intersection is the number. 35 is the cap because that is where Facebook and TikTok start falling off, and one asset ships to all four.
+
+The old framing -- "the sub-30 threshold is the one D.J.'s format can actually clear" -- was solving for the wrong variable. The target is **25 to 30 seconds actually watched per viewer**, not a percentage. A 30-second script that 75% of viewers finish delivers 22 seconds watched. A 22-second script at 85% delivers 19. The longer one wins the distribution signal *and* holds the completion bar, because the hook is doing the work either way.
+
+### The beat clock
+
+Every walk-and-talk runs the same four-beat clock. This is the structure, not a suggestion:
+
+| Beat | Clock | Seconds | Words |
+| --- | --- | --- | --- |
+| **HOOK** -- the scroll-stop, one spoken line | 0:00-0:01.5 | 1.5 | 5-8 |
+| **TENSION** -- what it costs, why it matters now | 0:01.5-0:06.5 | 5 | 11-14 |
+| **THE POINT** -- the one idea, the whole payload | 0:06.5-0:21.5 | 15 | 34-40 |
+| **PAYOFF / TURN** -- what you do now, then loop-back | 0:21.5-0:30 | 8 | 18-22 |
+| **Total** | | **~30s** | **68-84** |
+
+**One idea. No throat-clearing.** The hook lands inside 1.5 seconds or it is not a hook -- there is no setup clause in front of it, no "hey guys," no orienting sentence. The five seconds after it exist to make the viewer feel the cost, not to introduce the topic. THE POINT is 15 seconds and half the word budget because it is the only beat the viewer came for. The extra five seconds of headroom between 30 and 35 goes to THE POINT and nowhere else.
+
+Mapped to the Viral 3-Act Spine: HOOK is Act 1, TENSION + THE POINT are the compressed Act 2 (the turn lives in the seam between them), PAYOFF is Act 3.
 
 ### Word-count targets
 
 At a natural delivery pace of roughly 130-150 spoken words per minute:
 
-- **22 seconds** ≈ 48-55 spoken words
-- **25 seconds** ≈ 55-62 spoken words (**the mark to aim at**)
-- **30 seconds** ≈ 65-72 spoken words
-- **35 seconds** ≈ 76-85 spoken words (**the wall — nothing ships past this**)
+- **30 seconds** ≈ 68-75 spoken words (**the mark to aim at**)
+- **32 seconds** ≈ 72-80 spoken words
+- **35 seconds** ≈ 78-88 spoken words (**the wall — nothing ships past this**)
 
-Count the words. Do not estimate. A draft that reads as "about 30 seconds" is almost always 45.
+**The band is 68-84 spoken words, 88 at the absolute wall.** Count the words. Do not estimate. A draft that reads as "about 30 seconds" is almost always 45.
 
 ### The length discipline
 
-- **Nothing ships over 35 seconds.** There is no documented-justification path anymore. The old "explain why it earned the extra length" clause is deleted, because in practice it approved every script that asked.
+- **Nothing ships over 35 seconds.** There is no documented-justification path. The old "explain why it earned the extra length" clause stays deleted, because in practice it approved every script that asked.
+- **Nothing ships under 28 seconds either.** This is new. A 20-second cut is no longer "safely tight" -- it is watch-time left on the table, and on Reels it now costs reach outright. If the script comes in at 55 words, the fix is a better TENSION beat or a second concrete detail inside THE POINT, not padding the close.
 - **The headroom between 30 and 35 seconds buys one thing:** a sourced number, a case citation, or a legal caveat that Rule 1 requires and that cannot be shortened. It does not buy a second example, a fuller story, or a warmer close.
 - **If it does not fit in 35 seconds, it is two scripts.** Ask what the single strongest beat is, build that, and bank the rest. A story with two turns is two videos with a shared through-line, and both will out-perform the combined version.
-- **Cut the weakest beat, never trim every beat evenly.** Shaving three words off five sentences produces a flat 30-second script. Deleting one whole sentence produces a sharp one.
-- **The hook is exempt from compression.** When the script runs long, the words come out of Act 2 and the close. Never out of the first spoken line.
+- **Cut the weakest beat, never trim every beat evenly.** Shaving three words off five sentences produces a flat script. Deleting one whole sentence produces a sharp one.
+- **The hook is exempt from compression.** When the script runs long, the words come out of TENSION and PAYOFF. Never out of the first spoken line, and never out of THE POINT.
 
-### What 25 seconds actually forces
+### What 30 seconds actually forces
 
 Three real constraints, and they are the point of the rule:
 
-1. **One idea per script.** Not one idea with a supporting example. One.
-2. **Act 2 is one sentence with a turn.** The compressed Act 2 that was previously reserved for tactical series is now the default for every series, narrative ones included.
+1. **One idea per script.** Not one idea with a supporting example. One. The extra seconds versus the old rule go into making that one idea *land*, not into adding a second.
+2. **Act 2 is a turn, not a briefing.** TENSION sets the cost, THE POINT resolves it. If those two beats are the same information at different volumes, there is no turn and the Story Pass fails it.
 3. **The close is the action plus the loop-back, and nothing else.** No summary, no restatement, no "and that's why this matters."
 
 ### No padding
@@ -795,7 +815,7 @@ Engagement asks remain banned (Rule 4). But different platforms reward different
 | --- | --- | --- |
 | Instagram Reels | Saves | A specific tactic (exact words, exact action, exact frame) the viewer wants to remember before their next listing appointment |
 | TikTok | Completion rate over 50% | Density. No padding. Loop-back close that drives rewatches. |
-| YouTube Shorts | Replays (counted as views since 2025-03-31) | Loop-back close. Tight under 45 seconds. |
+| YouTube Shorts | Replays (counted as views since 2025-03-31) | Loop-back close. 30-35 seconds, which sits inside the Shorts 30-45s retention-to-recommendation band. |
 | LinkedIn | Comments and dwell time | Defensible contrarian register (3.5+). One small intentional opening that invites a "well actually" reply without making the script wrong. |
 | Facebook | Shares within private groups | A line a broker would forward to a team member or a coach would forward to a student. |
 
@@ -1003,8 +1023,9 @@ Every new script must pass all of these before committing. If any one is "no," t
 ### Length
 
 - [ ] **Spoken words counted, not estimated**, and the count is in the script metadata.
-- [ ] Script is 35 seconds / 85 spoken words or less (hard cap, no exceptions).
-- [ ] Script is in the 22-30 second target band (48-72 spoken words) unless a Rule 1 citation forced it into the 30-35 headroom.
+- [ ] Script is 35 seconds / 88 spoken words or less (hard cap, no exceptions).
+- [ ] Script is in the 30-35 second target band (68-84 spoken words), written to 30 as the default, and is not under 28 seconds
+- [ ] The four-beat clock is intact: HOOK 1.5s, TENSION 5s, THE POINT 15s, PAYOFF 8s. THE POINT holds roughly half the word budget.
 - [ ] One idea. Act 2 is a single sentence with a turn. The close is the action plus the loop-back and nothing else.
 - [ ] No padding: every sentence advances the arc or is cut.
 - [ ] Nothing was trimmed out of the hook to make the length work.

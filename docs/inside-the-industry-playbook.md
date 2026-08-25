@@ -158,9 +158,9 @@ These two platforms have the highest concentration of D.J.'s actual target audie
 
 1. **Personal LinkedIn** (primary) - full long-form post text
 2. **Personal Facebook** (secondary) - adapted from LinkedIn, slightly more conversational
-3. **Personal Instagram (Reel)** - 22-30 second video version with caption
-4. **TikTok** - 22-30 second video version with stronger hook
-5. **YouTube Shorts** - 22-30 second video, search-optimized title
+3. **Personal Instagram (Reel)** - 30-35 second video version with caption
+4. **TikTok** - 30-35 second video version with stronger hook
+5. **YouTube Shorts** - 30-35 second video, search-optimized title
 
 The script files include all five platform versions (D.J. does not use X/Twitter). LinkedIn is the canonical version because that's where the audience converts.
 
