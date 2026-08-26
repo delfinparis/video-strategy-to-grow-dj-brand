@@ -9,9 +9,9 @@
   },
   "topics": [
     {"type": "market-tip", "last_used": "2026-08-25"},
-    {"type": "stat", "last_used": "2026-08-24"},
+    {"type": "stat", "last_used": "2026-08-26"},
     {"type": "do-this-dont-do-that", "last_used": "2026-08-24"},
     {"type": "dont-make-this-mistake", "last_used": "2026-08-25"},
-    {"type": "kirp-guest-tip", "last_used": "2026-08-23"}
+    {"type": "kirp-guest-tip", "last_used": "2026-08-26"}
   ]
 }
