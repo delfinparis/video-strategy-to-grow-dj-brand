@@ -85,3 +85,4 @@ For Coffee Talk, this stacks on top of the stat registry in
 | Cold calling with a buy box: write the specific neighborhood/price range/property type you'd want to own, find those owners, call and ask if they'd consider selling | KIR / Sam Burke 2026-08-05 |
 | "85% of agents never follow up with a client after closing" (Data Reveal hook) | KIR / Gwen Snyder 2026-08-14 |
 | Meet 60 new people a year / one new connection per week (not prospects -- people) | KIR / Gwen Snyder 2026-08-14 |
+| 2026-08-28 | KIR | Chris Wands (2026-08-27) | "Here's what nobody told you about rentals." (Forbidden, Family 7) | After every rental closing, tag that client as a future buyer in your CRM and set a 6-month check-in call | Rentals-as-buyer-pipeline (from $1K rental to $20M buyer) |
