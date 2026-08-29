@@ -239,7 +239,32 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-08-28.md full-story-list: New Listings Hit 4-Month High While Demand Slips (Redfin, 2026-08-27)"
+  },
+  "https://app.notion.com/p/3cb313fa2892814cbc2ed1015bff25b8": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-08-29.md #4 Fair housing groups notch win in legal battle with HUD (RealEstateNews.com, 2026-08-28)"
+  },
+  "https://app.notion.com/p/3cb313fa2892817881fcd6bd544146d7": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-chris-wands-2026-08-28.md"
+  },
+  "https://app.notion.com/p/3cb313fa28928179996ac37733c0016d": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-2026-07-08-chris-linsell.md"
+  },
+  "https://app.notion.com/p/3cb313fa289281899d9aef3dfda71b4d": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-08-29.md full-story-list: In First Jackson Hole Speech, Fed Chair Kevin Warsh Remains Guarded on Rate Changes (RISMedia, 2026-08-28)"
+  },
+  "https://app.notion.com/p/3cb313fa289281d7b554f809eb56fb08": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-valerie-fitzgerald-2026-07-07.md"
   }
  },
- "updated": "2026-08-28"
+ "updated": "2026-08-29"
 }
