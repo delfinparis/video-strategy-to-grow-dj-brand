@@ -264,7 +264,17 @@
    "has_body": true,
    "lane": "KIRP Episode",
    "ref": "scripts/podcast-promos/kir-valerie-fitzgerald-2026-07-07.md"
+  },
+  "https://app.notion.com/p/3cd313fa2892814a835fcce27280223b": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-08-31.md stat-bank: NAR 2026 Member Profile median gross income $59,200 vs median business expenses $9,530 (2026-06-25)"
+  },
+  "https://app.notion.com/p/3cd313fa289281a4a3f8da9842135803": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-08-31.md stat-tip: Affordability is the top constraint keeping buyers out of the market at 27% (NAR 2026 Member Profile, 2026-06-25)"
   }
  },
- "updated": "2026-08-30"
+ "updated": "2026-08-31"
 }
