@@ -86,3 +86,4 @@ For Coffee Talk, this stacks on top of the stat registry in
 | "85% of agents never follow up with a client after closing" (Data Reveal hook) | KIR / Gwen Snyder 2026-08-14 |
 | Meet 60 new people a year / one new connection per week (not prospects -- people) | KIR / Gwen Snyder 2026-08-14 |
 | 2026-08-28 | KIR | Chris Wands (2026-08-27) | "Here's what nobody told you about rentals." (Forbidden, Family 7) | After every rental closing, tag that client as a future buyer in your CRM and set a 6-month check-in call | Rentals-as-buyer-pipeline (from $1K rental to $20M buyer) |
+| 2026-09-01 | KIR | Bobby Kerr (2026-08-31) | "Google is burying your profile right now." (System Indictment, Family 3) | At closing, coach your client to mention the neighborhood and property type in their Google review | Google Business Profile optimization -- hyper-local content and review strategy |
