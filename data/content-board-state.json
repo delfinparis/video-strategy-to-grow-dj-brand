@@ -274,7 +274,17 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-08-31.md stat-tip: Affordability is the top constraint keeping buyers out of the market at 27% (NAR 2026 Member Profile, 2026-06-25)"
+  },
+  "https://app.notion.com/p/3ce313fa2892814186d9dae4ea735f9b": {
+   "has_body": true,
+   "lane": "Agent Spotlight",
+   "ref": "scripts/chicago-agent-spotlight/daniel-close-2026-08-31.md"
+  },
+  "https://app.notion.com/p/3ce313fa289281b095dfd479fbb5d12d": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-01.md #1 Compass Settles Lawsuit With NWMLS. Here's What Changes (Inman, 2026-08-31)"
   }
  },
- "updated": "2026-08-31"
+ "updated": "2026-09-01"
 }
