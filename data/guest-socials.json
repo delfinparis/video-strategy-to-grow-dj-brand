@@ -160,5 +160,13 @@
     "facebook": "https://www.facebook.com/MOVETOFL0RIDA/",
     "youtube": "https://www.youtube.com/@TheWandsTeam",
     "notes": "Instagram @thewandsteam (team account) verified from search result listing 'The Wands Team (@thewandsteam) - Instagram photos and videos' (1,638 followers, 'Florida & New York Luxury Real Estate Relocation, investment & waterfront homes'). LinkedIn /in/christophermwands verified from search result 'Christopher M. Wands - Five Park Miami Beach | LinkedIn' with Miami-Fort Lauderdale Area location and Douglas Elliman role. YouTube @TheWandsTeam verified from multiple search results ('Chris Wands - The Wands Team at Douglas Elliman') pointing to youtube.com/@TheWandsTeam. Facebook MOVETOFL0RIDA verified from search result titled 'Christopher M. Wands - Real Estate Professional | Miami FL | Facebook' at facebook.com/MOVETOFL0RIDA. TikTok: not found across search. A personal Instagram @chris_wands appeared in one search result tagged 'Miami Beach, FL' but was not independently verified -- omitted per accuracy standard. August 2026."
+  },
+  "bobby-kerr": {
+    "instagram": "https://www.instagram.com/thebobbykerr",
+    "tiktok": null,
+    "linkedin": "https://www.linkedin.com/in/thebobbykerr",
+    "facebook": "https://www.facebook.com/loc8mybiz",
+    "youtube": null,
+    "notes": "Instagram, personal LinkedIn, and Facebook found on his own business site, loc8mybusiness.com (linked from the episode description at keepingitrealpod.com for the 2026-08-31 episode). A LinkedIn company page also exists (linkedin.com/company/loc8mybusiness) but the personal profile was used as the tag. Facebook cross-verified by page title match (\"LOC8 My Business - Real Estate Marketing Agency | Cape Coral FL\"). Instagram and LinkedIn returned generic/blocked titles on direct fetch (both platforms block unauthenticated scraping), so those two could not be independently title-verified beyond the source site listing them as his; treated as verified under the own-website tier since loc8mybusiness.com is Bobby's own business site, reached from the episode description link. No TikTok found on the site or in the episode. Verified 2026-09-01."
   }
 }

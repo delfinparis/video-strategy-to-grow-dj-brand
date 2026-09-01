@@ -8,10 +8,25 @@
     "kirp-guest-tip": "A tactic credited to a named Keeping It Real guest. These are the decks that do NOT translate to KR."
   },
   "topics": [
-    {"type": "market-tip", "last_used": "2026-08-31"},
-    {"type": "stat", "last_used": "2026-08-30"},
-    {"type": "do-this-dont-do-that", "last_used": "2026-08-30"},
-    {"type": "dont-make-this-mistake", "last_used": "2026-08-31"},
-    {"type": "kirp-guest-tip", "last_used": "2026-08-29"}
+    {
+      "type": "market-tip",
+      "last_used": "2026-08-31"
+    },
+    {
+      "type": "stat",
+      "last_used": "2026-08-30"
+    },
+    {
+      "type": "do-this-dont-do-that",
+      "last_used": "2026-09-01"
+    },
+    {
+      "type": "dont-make-this-mistake",
+      "last_used": "2026-08-31"
+    },
+    {
+      "type": "kirp-guest-tip",
+      "last_used": "2026-09-01"
+    }
   ]
 }
