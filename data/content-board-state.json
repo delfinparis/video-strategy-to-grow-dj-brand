@@ -284,7 +284,32 @@
    "has_body": true,
    "lane": "News",
    "ref": "news-briefs/2026-09-01.md #1 Compass Settles Lawsuit With NWMLS. Here's What Changes (Inman, 2026-08-31)"
+  },
+  "https://app.notion.com/p/3cf313fa2892810b85f1c269ec187990": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-2026-06-26-julia-hurley.md"
+  },
+  "https://app.notion.com/p/3cf313fa2892811b93bbf8cebaad5637": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-02.md #5 Side Agent Sued for Practicing Law Without a License (RISMedia, 2026-09-01)"
+  },
+  "https://app.notion.com/p/3cf313fa2892815d9148f69bebe998b0": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-bobby-kerr-2026-08-31.md"
+  },
+  "https://app.notion.com/p/3cf313fa289281959df2d9c46ffa35fd": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-02.md #1 8th Circuit upholds $110.6M in Gibson commission settlements (Inman, 2026-09-01)"
+  },
+  "https://app.notion.com/p/3cf313fa289281b3aa38d6e154f4e530": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-zach-geisendorfer-2026-06-29.md"
   }
  },
- "updated": "2026-09-01"
+ "updated": "2026-09-02"
 }
