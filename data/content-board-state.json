@@ -309,7 +309,22 @@
    "has_body": true,
    "lane": "KIRP Episode",
    "ref": "scripts/podcast-promos/kir-zach-geisendorfer-2026-06-29.md"
+  },
+  "https://app.notion.com/p/3d2313fa289281548221cd89ea68a97f": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-05.md #3"
+  },
+  "https://app.notion.com/p/3d2313fa28928188a4dedb06ea57cce6": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-05.md #5"
+  },
+  "https://app.notion.com/p/3d2313fa2892819188b9ef901dfc2715": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-05.md #1"
   }
  },
- "updated": "2026-09-04"
+ "updated": "2026-09-05"
 }
