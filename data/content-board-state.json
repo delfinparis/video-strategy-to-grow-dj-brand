@@ -324,7 +324,17 @@
    "has_body": true,
    "lane": "News",
    "ref": "news-briefs/2026-09-05.md #1"
+  },
+  "https://app.notion.com/p/3d3313fa28928126bfb8c5de18bfe9c4": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-06.md full-story-list: Pulte says FHFA weighing bi-merge, single credit report (HousingWire, 2026-09-04)"
+  },
+  "https://app.notion.com/p/3d3313fa289281399c57cb7925b58ec5": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-06.md full-story-list: Investor share slips to 27% of single-family purchases, Cotality says (HousingWire, 2026-09-04)"
   }
  },
- "updated": "2026-09-05"
+ "updated": "2026-09-06"
 }
