@@ -1,6 +1,6 @@
 # Broker Problems — Series Standard
 
-Per-series rules for **Broker Problems**, Pillar 3, 2 videos a week (Tue/Thu). Builds on
+Per-series rules for **Broker Problems**, Pillar 3, 3 videos a week (Tue/Thu/Fri since 2026-09-08). Builds on
 [`../editorial-standards.md`](../editorial-standards.md), which is the universal standard.
 Everything there applies here. This document only adds what is specific to this lane.
 
@@ -8,6 +8,38 @@ Everything there applies here. This document only adds what is specific to this 
 
 Why the lane exists and who it is aimed at: [`../strategy/2026-08-18-why-agents-leave.md`](../strategy/2026-08-18-why-agents-leave.md).
 The candidate bank: [`../../data/brokerage-pain.md`](../../data/brokerage-pain.md).
+
+---
+
+## 2026-09-08: three a week, and the Brand Tax register
+
+D.J.'s direction, 2026-09-08: more direct and controversial about what a brand really is, and
+three scripts a week instead of two. The council reviewed the register and the decisions are in
+[`../strategy/2026-09-08-brand-tax-register.md`](../strategy/2026-09-08-brand-tax-register.md).
+Read that before drafting in the register. The short version, which supersedes anything below it
+that disagrees:
+
+- **Cadence: Tuesday, Thursday, Friday.** Planned every Sunday by
+  `python3 scripts/broker_problems.py plan`, which writes
+  `data/broker-problem-briefs/<monday>.md`. Say **"broker problems"** in Claude Code to see the
+  week's slots, or the on-demand flow in [`../automation/broker-problems-engine.md`](../automation/broker-problems-engine.md).
+- **Flavor F, The Brand Tax.** Spine: *the premium was supposed to buy something; here is what
+  arrived.* Six entries in the bank plus seven existing entries tagged `Register: brand tax`. At
+  least two of the week's three scripts carry the register.
+- **Direct about the arrangement, never about the firm, never about the exit.** The target is
+  the big-brand model as a category. Heat 4 to 4.5. The ship test still governs every line, Kale
+  is still never mentioned, and the close still hands over a look. "It might not be worth
+  staying" is what the arithmetic produces; it is never the spoken sentence.
+- **Heat floor 4 for every flavor.** The Silence and the Permission Slip name the wrong default
+  in the hook to earn it. The heat column in the flavor table below is historical.
+- **The Permission Slip waits until three posts have aired.** The engine enforces it.
+- **30-35 seconds, 68-84 words, the four-beat clock.** BP-001 through BP-005 predate this and
+  the heat floor; the engine offers them as re-cuts when their entries rotate back in.
+- **Mirror lane.** The Content Board mirrors `scripts/broker-problems/BP-*.md`; it does not
+  research this lane any more.
+
+Reference implementations for the register: BP-006 (Brand Tax, family 4, heat 4.5), BP-007 (the
+Silence at the new floor), BP-008 (arithmetic performed inside a Slow Leak).
 
 ---
 

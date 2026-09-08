@@ -28,7 +28,7 @@ Five criteria are baked in: **cheap to make** (one take, selfie stick, no edit),
 |---|---|---|---|
 | **Value Giveaways** | 6 | Gated (IG/FB) | Generate leads. The only gated video pillar |
 | **News / Inside the Industry** | 2 | Ungated | Reach, authority, NAR recognition |
-| **Broker Problems** | 2 | Ungated | Recruiting wedge + reach |
+| **Broker Problems** | 3 (Tue/Thu/Fri since 2026-09-08) | Ungated | Recruiting wedge + reach |
 | **KIRP Promos** | 2 | Ungated | Podcast listeners + reach |
 | **The Take** | 3 | Ungated | Reach + authority via defensible contrarian positions |
 | **Chicago Agent Spotlight** | substitute | Ungated | Recruiting signal (subs into a News/Broker slot) |
@@ -80,7 +80,7 @@ D.J. films daily, so 12 videos is real rather than aspirational. KIRP promos rid
 ## Pillar 3: Broker Problems
 
 **Series role:** the recruiting wedge. Content that names the pain an agent has with their *current* brokerage.
-**Format:** talking-head walk-and-talk, 30-35s written to 30 (hard cap 35s). One specific broker-side pain: bad splits, junk fees, no support, dead company leads, no training, no tech. Name the math, name the fix. At this length that is **one** pain per script, not a list, and the math is one number.
+**Format:** talking-head walk-and-talk, 30-35s written to 30 (hard cap 35s). One specific broker-side pain: bad splits, junk fees, no support, dead company leads, no training, no tech. Name the math, name the fix. Since 2026-09-08 the lane runs the Brand Tax register (what the premium was supposed to buy versus what arrived) at three a week; see [`strategy/2026-09-08-brand-tax-register.md`](strategy/2026-09-08-brand-tax-register.md). At this length that is **one** pain per script, not a list, and the math is one number.
 **Gate:** none. D.J.'s call, and his own Facebook data backs it: overt Kale/recruiting content gets throttled (-5.3x on "Kale coaches," -10.5x on webinar promo). Gating these would cost reach AND read as a pitch. Keep them open.
 
 **The recruiting mechanic is the comment section, not a gate.** When D.J. posts "if your brokerage takes 30% and hands you nothing, here's the math," Chicago agents out themselves in the replies ("that's exactly my split"). That is a live, unforced recruiting signal. **Operating rule: someone reads every comment on a Broker Problems video and flags Chicago complainers into Close** for Ana/Jennica to work. The video does reach; the comments do recruiting.

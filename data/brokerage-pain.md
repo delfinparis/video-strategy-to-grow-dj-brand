@@ -1,6 +1,6 @@
 # Brokerage pain: the Broker Problems bank
 
-Standing candidates for the Broker Problems lane (Tue/Thu videos, plus the Tuesday
+Standing candidates for the Broker Problems lane (Tue/Thu/Fri videos, plus the Tuesday
 broker-problem comparison carousel). Strategy: [`../docs/strategy/2026-08-18-why-agents-leave.md`](../docs/strategy/2026-08-18-why-agents-leave.md).
 Build rules: [`../docs/series/broker-problems-standard.md`](../docs/series/broker-problems-standard.md).
 
@@ -101,6 +101,7 @@ it your credibility, not the brokerage's.
 a *reputation* cost rather than a wallet cost, which is the angle nobody runs.
 
 ### A2. The cap you have never once hit
+**Register:** brand tax.
 **The pain:** the cap is sold as the headline benefit and it is priced for the top decile.
 Everyone pays into a structure whose best feature they will never reach.
 **Receipt: not needed.** This one is the agent's own arithmetic, run on camera against their
@@ -116,6 +117,7 @@ like at three other firms," or this entry stops at a shrug.
 **Status:** open.
 
 ### A3. The technology fee for the platform you opened twice
+**Register:** brand tax.
 **The pain:** a mandatory monthly charge for a CRM, website, or suite that the agent does not
 use, cannot opt out of, and did not choose.
 **Receipt: NEEDED.** Every figure I could find for monthly technology fees traces to brokerage
@@ -198,6 +200,7 @@ incompleteness -- the fourth arrives in the replies); (2) the one email to send 
 audit.
 
 ### B3. The pitch you got is not the onboarding you got
+**Register:** brand tax.
 **The pain:** the recruiting conversation described mentorship, leads, and training. Week
 three, the calendar is empty.
 **Receipt: NEEDED for any figure.** Runs fine as a scene with no number.
@@ -230,6 +233,7 @@ in writing.
 **Status:** open, must run interrogative.
 
 ### B6. Training scheduled for when you are working
+**Register:** brand tax.
 **The pain:** the Tuesday 10am class, in the hours a working agent is with clients or on the
 phone.
 **Receipt: not needed.** Recognition, not statistics.
@@ -286,6 +290,7 @@ end on Kale (see the Kale rule above).
 **Status:** open.
 
 ### C4. The platform that became a second job
+**Register:** brand tax.
 **The pain:** a required brokerage system that consumes the working week without returning
 anything.
 **Receipt: VERIFIED as a quote, UNUSABLE as spoken.** DelPrete's study, same source as C1,
@@ -321,6 +326,7 @@ number, and a close on irony. Six moves, documented in the standard. Reference: 
 D.J. rules on it, this flavor runs only when the take lane yields.
 
 ### E1 / A6. Twenty percent of every check, annualized
+**Register:** brand tax.
 **The pain:** the split is known as a percentage and has never once been converted into a
 dollar figure with a year attached. Percentages do not feel like money. $18,000 does.
 **Receipt: VERIFIED by direct query 2026-08-18.** Illinois IDFPR professional license database,
@@ -393,6 +399,7 @@ a bit.
 **Status:** angle 1 used in BP-005. Angles 2 and 3 open.
 
 ### E2. Itemize what the split actually buys
+**Register:** brand tax.
 **The pain:** the direct answer to the strongest objection BP-005 will draw -- that the split
 buys E&O, compliance, a managing broker on the hook, transaction coordination, and the office.
 **Receipt: not needed.** The script is the itemization, done live, with the agent invited to
@@ -470,6 +477,111 @@ about the conversation being survivable, not about where the agent goes afterwar
 
 ---
 
+## Flavor F: The Brand Tax (what a brand really is)
+
+*Added 2026-09-08 on D.J.'s direction: "more direct and controversial with what a brand really
+is, and why it might not be worth it to stay at a firm with a big brand but a low split, or bad
+support, or bad coaching, or paying for tools you don't use." The spine of every entry here is
+one sentence: **the brand premium was supposed to buy something; here is what arrived.** Hook
+families 4, 7 and 6. Heat 4 to 4.5. Rung 2 by default. Decision doc:
+[`../docs/strategy/2026-09-08-brand-tax-register.md`](../docs/strategy/2026-09-08-brand-tax-register.md).*
+
+*The target is the **big-brand model as a category**, never a firm. "One of the big national
+brands" stays a category, and the ship test (could a viewer name ONE company with confidence?)
+still governs every line. This flavor is more direct than the others about the arrangement. It
+is not more direct about who. The close still hands over a look, and the look is now specific:
+find out what the premium costs, and what it is supposed to buy, somewhere other than where
+you are.*
+
+*Entries elsewhere in the bank that carry the same spine are tagged `**Register:** brand tax`
+(A2, A3, B3, B6, C4, E1, E2). The engine counts those toward the weekly brand-tax minimum.*
+
+### F1. The brand was built to recruit you, not to bring you clients
+**Register:** brand tax.
+**The pain:** the single most repeated line in every recruiting pitch is that the brand wins
+you business. The consumer research says the opposite, and the place the brand actually shows
+up is the recruiting page, which means the agent is the customer of the brand, not the
+beneficiary.
+**Receipt: VERIFIED in-repo, re-verify URLs before air.** Baylor University Keller Center
+study, reported by Inman 2017-05-23: when consumers choose an agent, "national brand" rates as
+*not important*. NAR 2025 Profile of Home Buyers and Sellers: roughly two of three sellers
+found their agent through a referral or had used the agent before. Both logged with URLs in
+[`../docs/recruiting-objections.md`](../docs/recruiting-objections.md).
+**The limit:** the Baylor study is 2008 data reported in 2017. Say "the research on this is
+old and nobody has bothered to overturn it," never "a new study." The NAR figure is sellers;
+do not stretch it to buyers.
+**Angles open:** (1) who the brand is actually for; (2) the last five closings test, run on
+camera; (3) the recruiting page reads like a consumer ad and is not one.
+**Rung:** 1 (run the last-five-closings test) lifting to 2 (find out what the brand line
+costs at three other firms).
+**Status:** open. **Recommended first script in the register.**
+
+### F2. Open the bundle
+**Register:** brand tax.
+**The pain:** the premium is sold as a bundle: brand, support, coaching, tools, leads. Nobody
+has ever been handed the bundle itemized, so nobody has ever noticed which items are empty.
+**Receipt: not needed.** The script is the itemization, done on camera, with the viewer
+invited to check each item against their own last ninety days. Do not attach a statistic to
+how many agents get nothing; there is no clean source and it is not needed.
+**Angles open:** (1) five items, four unpacked, the fifth arrives in the replies (Rule 10.4);
+(2) the item you would pay for separately versus the items you would not.
+**Rung:** 2.
+**Status:** open. Differs from E2 (which itemizes what a *split* buys) in that this one
+itemizes the *brand premium*, and it can run without the arithmetic.
+
+### F3. The coaching you pay for is a replay
+**Register:** brand tax.
+**The pain:** "coaching" in the pitch turned out to be a recorded Zoom from two years ago and
+a Tuesday 10am class in the hours you are with clients. The agent paid the brand premium
+partly for this and is training off YouTube anyway.
+**Receipt: not needed for the scene.** Recognition, not statistics. **Receipt: NEEDED** for any
+claim about what a private coach costs; do not put a coaching price range on camera without a
+named source. Run the comparison on the viewer's own split number instead.
+**Angles open:** (1) the replay; (2) "coaching" versus "content"; (3) the coach you could have
+hired with the split.
+**Rung:** 2 (find out what a real coach charges, then look at your annual split again).
+**Status:** open. Pairs with B6.
+
+### F4. The tool you would never have bought
+**Register:** brand tax.
+**The pain:** not the tool you do not use (A3). The tool you use because you have to, that is
+worse than the one you would have picked for yourself for less, and cannot be switched off
+because it is bundled into what the brand costs you.
+**Receipt: NEEDED for any dollar range.** Same constraint as A3: no primary survey exists for
+mandatory tech fees. Run it on the viewer's own number, and on the retail price of whatever
+they would actually choose, which they can look up tonight.
+**Angles open:** (1) the tool you tolerate versus the tool you would choose; (2) the bundle
+means the choice was made for you and priced to you.
+**Rung:** 2 (price the tool you would actually pick, then look at what the bundle charges).
+**Status:** open.
+
+### F5. Your clients cannot name your brokerage
+**Register:** brand tax.
+**The pain:** the whole premium rests on the client caring where the license hangs. Most do
+not know, and the agent has never asked.
+**Receipt: not needed.** The receipt is the test the viewer runs: text three past clients and
+ask where you work. Supporting context, not spoken as a stat: F1's consumer research.
+**Angles open:** (1) the three-text test; (2) the referral that came from you, not the sign.
+**Rung:** 1 (run the test), and the rung-2 line is what the result means: if they cannot name
+it, find out what you are paying for the thing they cannot name.
+**Heat check:** this is Family 1, The Mirror, and it has to name the wrong default in the hook
+to clear heat 4 ("you are paying for a name your clients cannot say").
+**Status:** open.
+
+### F6. The brand pays for the brand
+**Register:** brand tax.
+**The pain:** the premium funds the marketing that recruits the next agent, so the person
+paying for the brand is the product the brand is selling.
+**Receipt: NEEDED.** No sourced figure for the share of brokerage marketing spend aimed at
+recruiting versus consumers. **Careful:** this is the closest entry in the bank to a take
+(who profits). Qualifying test 1 is marginal. It runs here only as a question ("ask who the
+last brand campaign you saw was aimed at"), never as a claim.
+**Rung:** 2.
+**Status:** open, must run interrogative. If it drifts to who-profits, move it to
+[`sacred-cows.md`](sacred-cows.md).
+
+---
+
 ## Not yet in the bank: the two sources D.J. is feeding
 
 Both were requested on 2026-08-18 and neither has landed. The bank is thinner than it should
@@ -491,7 +603,8 @@ wants said out loud before any of it becomes an entry.
 ## Rotation table
 
 Eight-week no-repeat on entries, and no flavor twice in a week. A video and its paired
-carousel on the same entry count as **one** use, not two.
+carousel on the same entry count as **one** use, not two. Rows are written by
+`python3 scripts/broker_problems.py log`; the engine reads this table to enforce the rotation.
 
 | Date | Entry | Flavor | Rung | Script | Surface |
 |---|---|---|---|---|---|
@@ -501,6 +614,9 @@ carousel on the same entry count as **one** use, not two.
 | _(unused)_ | D1 | Permission Slip | 2 | BP-004 | video |
 | _(unused)_ | A6/E1 | Run The Math With Me | 2 | BP-005 | video |
 | 2026-08-11 | (pre-bank) support-when-you-need-it | Silence-adjacent | -- | -- | carousel |
+| 2026-09-08 | F1 | The Brand Tax | 2 | scripts/broker-problems/BP-006-the-brand-was-built-to-recruit-you.md | video |
+| 2026-09-10 | C4 | The Silence | 2 | scripts/broker-problems/BP-007-you-pay-monthly-for-a-second-job.md | video |
+| 2026-09-11 | A2 | The Slow Leak | 2 | scripts/broker-problems/BP-008-your-cap-was-priced-for-somebody-else.md | video |
 
 ## Rejected
 

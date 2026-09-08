@@ -115,7 +115,9 @@ SOURCES = {
     "News": ["data/news-briefs/<today>.md"],
     "Agent Tip": ["data/news-briefs/<today>.md"],
     "Take": ["data/take-briefs/<latest>.md", "data/sacred-cows.md"],
-    "Broker Problems": ["docs/content-pillars.md", "web search for the receipt"],
+    # Broker Problems: mirrored since 2026-09-08. The lane has its own weekly
+    # planner + routine that commits three finished scripts. See `mirror`.
+    "Broker Problems": ["MIRROR scripts/broker-problems/BP-*.md"],
     "Stupid Things Realtors Do": ["python3 scripts/stupid_things.py pick --count N"],
     # Mirror lanes: never researched here, only mirrored. See `mirror`.
     "Agent Spotlight": ["MIRROR scripts/chicago-agent-spotlight/"],
@@ -142,16 +144,16 @@ FOOTER_PREFIX = "Bank ref:"
 # gated Value Giveaways from 6 to 3 on 2026-08-19 to make room for the three
 # lanes that had no slot at all, so:
 #
-#     15 videos - 3 giveaways = 12 board-fed video slots a week
+#     16 videos - 3 giveaways = 13 board-fed video slots a week   (16 since 2026-09-08)
 #
-# The MAXIMUMS sum to 19 against those 12, deliberately. A range says what a
+# The MAXIMUMS sum to 19 against those 13, deliberately. A range says what a
 # lane may do in a good week, never what it is entitled to. The minimums sum to
-# 9, which leaves 3 genuinely discretionary slots -- and that number is the
-# whole reason this is arithmetic in a script instead of a judgment call at
-# 5:30am.
+# 11 (Broker Problems went 1 -> 3 on 2026-09-08), which leaves 2 genuinely
+# discretionary slots -- and that number is the whole reason this is arithmetic
+# in a script instead of a judgment call at 5:30am.
 # --------------------------------------------------------------------------
 
-VIDEOS_PER_WEEK = 15
+VIDEOS_PER_WEEK = 16   # 15 + the Friday Broker Problem added 2026-09-08 (pending D.J.'s displace-or-add call)
 GIVEAWAY_SLOTS = 3
 BOARD_SLOTS = VIDEOS_PER_WEEK - GIVEAWAY_SLOTS
 
@@ -161,7 +163,7 @@ WEEKLY = {
     "Agent Tip":                     (1,  3),
     "Agent Spotlight":               (1,  2),
     "Stupid Things Realtors Do":     (1,  3),
-    "Broker Problems":               (1,  3),
+    "Broker Problems":               (3,  3),   # D.J. 2026-09-08: three a week, Tue/Thu/Fri
     "Take":                          (2,  4),
     "KIRP Episode":                  (1,  2),
 }
@@ -205,12 +207,25 @@ EXIT_HEAT_SPENT = 12
 # perfectly good script on top of itself.
 SCRIPT_HEADINGS = ("## Script", "## Spoken Script", "## Full Script")
 
-# The two lanes this board does NOT research. Both already have a producing
-# routine that commits a finished walk-and-talk to the repo, so the board mirrors
-# the committed file instead of scouting the same guest or agent a second time.
-# The repo path is the dedupe key, which is stronger than hook text: an episode
-# already Posted can never come back as a new row.
+# The lanes this board does NOT research. Each already has a producing routine
+# that commits a finished walk-and-talk to the repo, so the board mirrors the
+# committed file instead of scouting the same guest, agent, or bank entry a
+# second time. The repo path is the dedupe key, which is stronger than hook
+# text: an episode already Posted can never come back as a new row.
+#
+# `heat` is the fallback when the script's frontmatter carries none. Broker
+# Problems scripts declare their own (4 to 4.5), and the parser prefers that.
 MIRROR_LANES = {
+    "Broker Problems": {
+        "dir": "scripts/broker-problems",
+        "pattern": r"^BP-\d{3}-.+\.md$",
+        # BP-001..005 were written to the retired 45-70s spec and sit under the
+        # heat floor. They are re-cut candidates, not inventory, so the mirror
+        # only admits files that declare the current runtime.
+        "require": r'^runtime_target:\s*"30-35s"',
+        "heat": 4,
+        "producer": "Weekly Broker Problems routine (Sun 8am CT), scripts/broker_problems.py plan",
+    },
     "KIRP Episode": {
         "dir": "scripts/podcast-promos",
         "pattern": r"^kir-.+\.md$",
@@ -486,6 +501,13 @@ def parse_script_file(path, lane, heat):
         title = re.search(r'^title:\s*"(.+?)"', body, re.M)
         angle = title.group(1) if title else hook
 
+    # A script that declares its own heat wins over the lane default. Broker
+    # Problems run 4 to 4.5 and the difference is what check-heat averages.
+    declared = re.search(r"^heat:\s*([0-9.]+)", body, re.M)
+    if declared:
+        heat = float(declared.group(1))
+        heat = int(heat) if heat.is_integer() else heat
+
     return {
         "ref": os.path.relpath(path, BASE_DIR),
         "lane": lane,
@@ -521,7 +543,12 @@ def cmd_mirror(args):
             # the date the filename actually carries.
             def file_date(name):
                 found = re.search(r"(\d{4}-\d{2}-\d{2})", name)
-                return found.group(1) if found else "0000-00-00"
+                if found:
+                    return found.group(1)
+                # Broker Problems files carry a script number, not a date.
+                # Newest number first, and never sorted above a real date.
+                numbered = re.search(r"-(\d{3})-", name)
+                return f"0000-00-00-{numbered.group(1)}" if numbered else "0000-00-00"
 
             names = sorted(os.listdir(directory), key=file_date, reverse=True)
             for name in names:
@@ -529,6 +556,10 @@ def cmd_mirror(args):
                     continue
                 if name in claimed:
                     continue
+                if cfg.get("require"):
+                    with open(os.path.join(directory, name)) as fh:
+                        if not re.search(cfg["require"], fh.read(), re.M):
+                            continue
                 parsed = parse_script_file(os.path.join(directory, name), lane, cfg["heat"])
                 if parsed:
                     candidates.append(parsed)

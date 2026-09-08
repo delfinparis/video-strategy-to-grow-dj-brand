@@ -67,7 +67,7 @@ videos a week. D.J. cut gated Value Giveaways from 6 to 3 on 2026-08-19 to make
 room for the three lanes that had no slot at all, so:
 
 ```
-15 videos - 3 giveaways = 12 board-fed video slots a week
+16 videos - 3 giveaways = 13 board-fed video slots a week (16 since the Friday Broker Problem, 2026-09-08)
 ```
 
 | Lane | Min/wk | Max/wk | Shelf target |
@@ -251,7 +251,7 @@ Where candidates come from:
 |---|---|
 | News, Agent Tip | `data/news-briefs/<today>.md` |
 | Take | `data/take-briefs/<latest>.md`, `data/sacred-cows.md` |
-| Broker Problems | `data/brokerage-pain.md` (22 entries), plus a re-verified receipt |
+| Broker Problems | **mirrored** from `scripts/broker-problems/BP-*.md` since 2026-09-08 — see below |
 | Stupid Things | `python3 scripts/stupid_things.py pick --count N` |
 | Agent Spotlight | **mirrored** from `scripts/chicago-agent-spotlight/` — see below |
 | KIRP Episode | **mirrored** from `scripts/podcast-promos/kir-*.md` — see below |
@@ -279,15 +279,16 @@ Where candidates come from:
 
 ---
 
-## The two mirror lanes: Agent Spotlight and KIRP Episode
+## The mirror lanes: Agent Spotlight, KIRP Episode, and (since 2026-09-08) Broker Problems
 
-These two lanes are **not researched here**, and adding research for them would
-be a mistake. Both already have a producing routine that does the scouting and
+These lanes are **not researched here**, and adding research for them would
+be a mistake. Each already has a producing routine that does the scouting and
 commits a finished walk-and-talk to this repo:
 
 | Lane | Producing routine | Lands in |
 |---|---|---|
 | Agent Spotlight | `trig_01Fr5tCSZnfhxSXtSPEcCVhe` — Weekly Chicago Agent Spotlight, Mon 6am CT | `scripts/chicago-agent-spotlight/<agent>-<date>.md` |
+| Broker Problems | Weekly Broker Problems routine, Sun 8am CT, `scripts/broker_problems.py plan` then three four-pass builds | `scripts/broker-problems/BP-###-<slug>.md` (heat read from the file's frontmatter, 4 to 4.5) |
 | KIRP Episode | `trig_01S1nWLHuJ3jYLg7BzyC9Kaf` — Daily KIR episode → walk-and-talk promo, 7am CT | `scripts/podcast-promos/kir-<guest>-<date>.md` |
 
 So the board **mirrors the committed file** rather than scouting the same agent

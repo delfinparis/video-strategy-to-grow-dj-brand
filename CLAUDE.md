@@ -16,9 +16,9 @@ and [`docs/content-pillars.md`](docs/content-pillars.md). The short version:
 conversations, because no post in 90 days asked a viewer to raise a hand
 ([the review](docs/analytics/2026-07-19-pivot-results.md)).
 
-**The week: 29 posts.** 15 videos + 14 carousels, 5 gated. Videos are 3 Takes, 2 News,
-2 Broker Problems, 2 KIRP promos, 3 Value Giveaways *gated*, 1 Stupid Things, 1 Agent Tip,
-1 Chicago Agent Spotlight. **12 of the 15 come off the
+**The week: 30 posts.** 16 videos + 14 carousels, 5 gated. Videos are 3 Takes, 2 News,
+3 Broker Problems (Tue/Thu/Fri since 2026-09-08), 2 KIRP promos, 3 Value Giveaways *gated*, 1 Stupid Things, 1 Agent Tip,
+1 Chicago Agent Spotlight. **13 of the 16 come off the
 [Content Board](docs/automation/content-board.md)**; the calendar names the category and the
 board names the row. Gated giveaways were cut 6 → 3 on 2026-08-19 to make room for the lanes
 that had no slot; the grid and the tradeoff are in
@@ -352,6 +352,29 @@ Two things this lane does that the others do not: every entry is tagged `target:
 them so the lane never becomes all-confessional or all-finger-pointing. Sideways is the default
 because the good agent watching is the wronged party, not the accused. Say **"stupid things
 refill"** to run a refill by hand.
+
+## D.J. says "broker problems"? Show the week's three slots, then build or re-cut
+
+The **Broker Problems** lane seeds doubt about the arrangement between an agent and their
+current brokerage. Three a week, Tue/Thu/Fri, never gated, never mentions Kale, never names a
+firm. Since 2026-09-08 it runs the **Brand Tax register**: direct about what the brand premium
+was supposed to buy and what arrived, still category-level, and the close still hands over a
+look, never a leave. Decision doc: [`docs/strategy/2026-09-08-brand-tax-register.md`](docs/strategy/2026-09-08-brand-tax-register.md).
+
+1. `git pull` (3 devices), then read the newest `data/broker-problem-briefs/*.md`. If it is
+   missing, run `python3 scripts/broker_problems.py plan` right then (offline, no key).
+2. Show the three slots as a short numbered list: entry, flavor, rung, receipt status. No preamble.
+   A slot marked `already logged` has a finished script in `scripts/broker-problems/`; point at it.
+3. D.J. picks a slot. Build it per [`docs/series/broker-problems-standard.md`](docs/series/broker-problems-standard.md)
+   through the four passes, out to `scripts/broker-problems/BP-###-slug.md`. If the option carries
+   an `Existing script` note, re-cut that script to 68-84 words and heat 4+ instead of redrafting.
+4. **Re-verify the receipt at build time.** `Receipt: NEEDED` means no number on camera: run it on
+   the viewer's own figure, as a scene, or as a question. Every spoken receipt carries its limit.
+5. **Log it** or the entry stays in the pool: `python3 scripts/broker_problems.py log --entry F1
+   --script scripts/broker-problems/BP-006-....md --date <post date>`.
+
+The Sunday 8am CT routine does steps 1-5 for all three slots and commits them; the board mirrors
+the files. Full chain: [`docs/automation/broker-problems-engine.md`](docs/automation/broker-problems-engine.md).
 
 ## Doing a Chicago Agent Spotlight? Follow the standard
 
