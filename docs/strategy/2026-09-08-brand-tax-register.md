@@ -30,7 +30,7 @@ Five scripts written (BP-001 through BP-005), **none aired.** All five were writ
 below the floor Rule 9.2 set on 2026-08-20. So the lane had a bank, a standard, and a strategy,
 and zero shippable inventory. The engine's first job was to produce three scripts that clear
 both rules, which it did (BP-006, BP-007, BP-008). Its second job is to keep doing that every
-Sunday.
+Sunday (routine `trig_01BbhYR8CmyLVBUQtqopFPDx`, 7:30am CT).
 
 ---
 

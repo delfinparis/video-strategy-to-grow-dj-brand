@@ -373,7 +373,7 @@ look, never a leave. Decision doc: [`docs/strategy/2026-09-08-brand-tax-register
 5. **Log it** or the entry stays in the pool: `python3 scripts/broker_problems.py log --entry F1
    --script scripts/broker-problems/BP-006-....md --date <post date>`.
 
-The Sunday 8am CT routine does steps 1-5 for all three slots and commits them; the board mirrors
+The Sunday 7:30am CT routine (`trig_01BbhYR8CmyLVBUQtqopFPDx`) does steps 1-5 for all three slots and commits them; the board mirrors
 the files. Full chain: [`docs/automation/broker-problems-engine.md`](docs/automation/broker-problems-engine.md).
 
 ## Doing a Chicago Agent Spotlight? Follow the standard

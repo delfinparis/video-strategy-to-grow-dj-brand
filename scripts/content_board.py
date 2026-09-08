@@ -224,7 +224,7 @@ MIRROR_LANES = {
         # only admits files that declare the current runtime.
         "require": r'^runtime_target:\s*"30-35s"',
         "heat": 4,
-        "producer": "Weekly Broker Problems routine (Sun 8am CT), scripts/broker_problems.py plan",
+        "producer": "trig_01BbhYR8CmyLVBUQtqopFPDx (Weekly Broker Problems engine, Sun 7:30am CT)",
     },
     "KIRP Episode": {
         "dir": "scripts/podcast-promos",

@@ -19,7 +19,7 @@ three scripts a week instead of two. The council reviewed the register and the d
 Read that before drafting in the register. The short version, which supersedes anything below it
 that disagrees:
 
-- **Cadence: Tuesday, Thursday, Friday.** Planned every Sunday by
+- **Cadence: Tuesday, Thursday, Friday.** Planned every Sunday 7:30am CT by
   `python3 scripts/broker_problems.py plan`, which writes
   `data/broker-problem-briefs/<monday>.md`. Say **"broker problems"** in Claude Code to see the
   week's slots, or the on-demand flow in [`../automation/broker-problems-engine.md`](../automation/broker-problems-engine.md).

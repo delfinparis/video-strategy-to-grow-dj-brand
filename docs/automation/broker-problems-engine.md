@@ -17,7 +17,7 @@ three complete four-pass scripts, council review included, committed to `scripts
 ## The chain
 
 ```text
-Sunday 8:00am CT   Broker Problems routine
+Sunday 7:30am CT   Broker Problems routine (trig_01BbhYR8CmyLVBUQtqopFPDx, claude-opus-5)
                      |
                      |  1. git pull
                      |  2. python3 scripts/broker_problems.py plan
@@ -34,7 +34,7 @@ Sunday 8:00am CT   Broker Problems routine
        data/broker-problem-briefs/<monday>.md   +   three BP-###.md files   +   rotation rows
                      |
                      v
-Daily              Content Board routine: `content_board.py mirror` picks up the new files,
+Daily 8:10am CT    Content Board refill: `content_board.py mirror` picks up the new files,
                    posts them as rows with the full body. D.J. films off the board.
                      |
                      v

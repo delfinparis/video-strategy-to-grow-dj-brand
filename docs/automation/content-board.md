@@ -288,7 +288,7 @@ commits a finished walk-and-talk to this repo:
 | Lane | Producing routine | Lands in |
 |---|---|---|
 | Agent Spotlight | `trig_01Fr5tCSZnfhxSXtSPEcCVhe` — Weekly Chicago Agent Spotlight, Mon 6am CT | `scripts/chicago-agent-spotlight/<agent>-<date>.md` |
-| Broker Problems | Weekly Broker Problems routine, Sun 8am CT, `scripts/broker_problems.py plan` then three four-pass builds | `scripts/broker-problems/BP-###-<slug>.md` (heat read from the file's frontmatter, 4 to 4.5) |
+| Broker Problems | `trig_01BbhYR8CmyLVBUQtqopFPDx` — Weekly Broker Problems engine, Sun 7:30am CT, `scripts/broker_problems.py plan` then three four-pass builds | `scripts/broker-problems/BP-###-<slug>.md` (heat read from the file's frontmatter, 4 to 4.5) |
 | KIRP Episode | `trig_01S1nWLHuJ3jYLg7BzyC9Kaf` — Daily KIR episode → walk-and-talk promo, 7am CT | `scripts/podcast-promos/kir-<guest>-<date>.md` |
 
 So the board **mirrors the committed file** rather than scouting the same agent
