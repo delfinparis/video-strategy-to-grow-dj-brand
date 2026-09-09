@@ -45,9 +45,10 @@ The reply-to-script generator learns to build one. The weekly grid carries the m
 | **News** | **2-4** | Daily brief `[NEWS]` options, at most 2 a day |
 | **Broker Problems** | **3** | Sunday engine, Tue/Thu/Fri |
 
-That is **10-14 board-fed videos a week.** The three gated Value Giveaways were not in D.J.'s
-list; they are the lead engine from the July reset and they stay in the grid at 3 until he says
-otherwise. So the week is 13-17 videos, written to 15.
+That is **10-14 board-fed videos a week.** The gated Value Giveaways were not in D.J.'s list;
+asked, he said "let's still offer them, maybe 1-2 a week" (2026-09-09). So they drop from 3 to
+1-2 (Monday say-this, Friday alternating AI prompt and tool use-case) and the week is 11-16
+videos, written to 14.
 
 **What gave way.** The Take lane's three standalone slots. A take is a realtor tip with a
 who-profits beat, so takes now arrive as `[TIP]` options and count toward the 3-4. The Sunday
@@ -66,8 +67,8 @@ one runs, and Chicago Agent Spotlight stays a substitute.
 | **Tue** | News | Broker Problem | Realtor tip |
 | **Wed** | Realtor tip | News | -- |
 | **Thu** | Broker Problem | KIRP promo | News (optional) |
-| **Fri** | Realtor tip (optional 4th) | Broker Problem | Giveaway: AI prompt 🔒 |
-| **Sat** | Giveaway: tool use-case 🔒 | KIRP promo (optional 3rd) | -- |
+| **Fri** | Broker Problem | Realtor tip (optional 4th) | Giveaway: AI prompt or tool use-case 🔒 (optional 2nd) |
+| **Sat** | KIRP promo (optional 3rd) | -- | -- |
 | **Sun** | News (optional 4th) | -- | -- |
 
 Minimums: tips 3, news 2, KIRP 2, BP 3 = 10 board-fed. Maximums 14. `content_board.py week`
@@ -84,8 +85,8 @@ carries the same numbers and says which minimums are still owed.
    who-profits line. Five to six options total, tips first.
 2. **The reply generator builds tips.** `scripts/apps-script/walk-and-talk-project.gs` detects a
    `[TIP]` pick and builds to the realtor-tip standard: series `Stupid Things Realtors Do`, the
-   four beats mapped onto the clock, `bank_id` and `bank_angle` in frontmatter. **D.J. has to
-   paste the updated file into the Apps Script project**; nothing here can deploy it.
+   four beats mapped onto the clock, `bank_id` and `bank_angle` in frontmatter. D.J. pasted the
+   updated file into the Apps Script project on 2026-09-09.
 3. **The local brief carries the same tips.** `scripts/news_brief.py` writes a "Realtor tips"
    section above the news candidates and defaults to three news takes instead of five.
 4. **The bank gets logged from the email path.** The Sunday Stupid Things Bank Check routine now
@@ -98,8 +99,7 @@ carries the same numbers and says which minimums are still owed.
 
 ## Two flags for D.J.
 
-- **The gated giveaways.** Not in the recipe. Kept at 3 because they are the only gated video
-  and the lead engine. Say the word and they come down.
+- **The gated giveaways.** Resolved same day: 1-2 a week, not 3.
 - **Two reply generators are live.** The Apps Script builds the script when D.J. replies and
   labels the thread `WT-Scripted`. A separate hourly cloud routine ("Walk & Talk Reply → Script")
   also watches the same threads with its own label and an older three-pass prompt. It now stops

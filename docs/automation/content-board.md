@@ -67,7 +67,7 @@ videos a week. D.J. cut gated Value Giveaways from 6 to 3 on 2026-08-19 to make
 room for the three lanes that had no slot at all, so:
 
 ```
-16 videos - 3 giveaways = 13 board-fed video slots a week (16 since the Friday Broker Problem, 2026-09-08)
+14 videos - 2 giveaways = 12 board-fed video slots a week (D.J.'s 2026-09-09 mix; giveaways 1-2 a week)
 ```
 
 | Lane | Min/wk | Max/wk | Shelf target |

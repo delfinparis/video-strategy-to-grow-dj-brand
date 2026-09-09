@@ -45,12 +45,12 @@ Governing docs, in precedence order when they conflict:
 | **Tue** | News / IIR | Broker Problem | Realtor tip | Broker-problem compare | News / tip | 5 |
 | **Wed** | Realtor tip | News / IIR | -- | KIRP episode | Take | 4 |
 | **Thu** | Broker Problem | KIRP promo | News (optional 3rd) | News / tip | News / tip 🔒 | 4-5 |
-| **Fri** | Broker Problem | Giveaway: AI prompt 🔒 | Realtor tip (optional 4th) | KIRP episode | Take | 4-5 |
-| **Sat** | Giveaway: tool use-case 🔒 | KIRP promo (optional 3rd) | -- | News / tip | News / tip | 3-4 |
+| **Fri** | Broker Problem | Realtor tip (optional 4th) | Giveaway: AI prompt or tool use-case 🔒 (optional 2nd) | KIRP episode | Take | 3-5 |
+| **Sat** | KIRP promo (optional 3rd) | -- | -- | News / tip | News / tip | 2-3 |
 | **Sun** | News (optional 4th) | -- | -- | News / tip | News / tip | 2-3 |
 
 > **Video grid rewritten 2026-09-09** to D.J.'s mix: 2-3 KIRP promos, 3-4 realtor tips, 2-4 news, 3 Broker Problems
-> (10-14 board-fed, written to 12) plus the 3 gated giveaways. The Take's three standalone slots gave way: a take is a
+> (10-14 board-fed, written to 12) plus 1-2 gated giveaways (D.J., 2026-09-09: "let's still offer them, maybe 1-2 a week"; the Saturday tool use-case slot is gone, Friday alternates AI prompt and tool use-case). The Take's three standalone slots gave way: a take is a
 > realtor tip with a who-profits beat and now arrives as a `[TIP]` option. Decision doc:
 > [`../docs/strategy/2026-09-09-weekly-mix-and-tips-engine.md`](../docs/strategy/2026-09-09-weekly-mix-and-tips-engine.md).
 > "Realtor tip" = the Stupid Things Realtors Do lane, standard at
@@ -58,9 +58,9 @@ Governing docs, in precedence order when they conflict:
 
 🔒 = gated (ManyChat keyword on Instagram and Facebook only, never LinkedIn)
 
-**Weekly totals check:** Realtor tips 3-4 (Stupid Things lane; a Take or a guest Agent Tip counts toward it) · News 2-4 · Broker Problems 3 (Tue/Thu/Fri) · KIRP promos 2-3 · Giveaways 3 (1 say-this + 1 tool + 1 prompt) · Agent Spotlight substitute only = **13-17 videos, written to 15**. KIRP carousels 3 · Take carousels 3 · Broker-problem carousel 1 · News/tip carousels 7 = **14 carousels**.
+**Weekly totals check:** Realtor tips 3-4 (Stupid Things lane; a Take or a guest Agent Tip counts toward it) · News 2-4 · Broker Problems 3 (Tue/Thu/Fri) · KIRP promos 2-3 · Giveaways 1-2 (Mon say-this, Fri AI prompt or tool use-case, alternating) · Agent Spotlight substitute only = **11-16 videos, written to 14**. KIRP carousels 3 · Take carousels 3 · Broker-problem carousel 1 · News/tip carousels 7 = **14 carousels**.
 
-Twelve of those 15 videos are **fed by the board**; the 3 giveaways are not. Lane minimums
+Twelve of those 14 videos are **fed by the board**; the 1-2 giveaways are not. Lane minimums
 account for 9 of the 12, which leaves **3 discretionary slots a week**. Run
 `python3 scripts/content_board.py week --board board.json` for the live count — that arithmetic lives in the
 script, not in this table, because a number maintained in two places drifts.

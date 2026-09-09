@@ -16,10 +16,10 @@ and [`docs/content-pillars.md`](docs/content-pillars.md). The short version:
 conversations, because no post in 90 days asked a viewer to raise a hand
 ([the review](docs/analytics/2026-07-19-pivot-results.md)).
 
-**The week: 29 posts.** 15 videos + 14 carousels, 5 gated. The video mix is D.J.'s, 2026-09-09:
+**The week: 28 posts.** 14 videos + 14 carousels, 4 gated. The video mix is D.J.'s, 2026-09-09:
 **3-4 realtor tips** (the Stupid Things lane; a Take or a guest Agent Tip counts toward it),
-**2-4 News**, **3 Broker Problems** (Tue/Thu/Fri), **2-3 KIRP promos**, plus 3 Value Giveaways
-*gated*. Spotlight is a substitute. **12 of the 15 come off the
+**2-4 News**, **3 Broker Problems** (Tue/Thu/Fri), **2-3 KIRP promos**, plus 1-2 Value Giveaways
+*gated* (cut from 3 on 2026-09-09). Spotlight is a substitute. **12 of the 14 come off the
 [Content Board](docs/automation/content-board.md)**; the calendar names the category and the
 board names the row. Gated giveaways were cut 6 → 3 on 2026-08-19 to make room for the lanes
 that had no slot; the grid and the tradeoff are in

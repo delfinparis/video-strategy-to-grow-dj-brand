@@ -144,7 +144,7 @@ FOOTER_PREFIX = "Bank ref:"
 # gated Value Giveaways from 6 to 3 on 2026-08-19 to make room for the three
 # lanes that had no slot at all, so:
 #
-#     15 videos - 3 giveaways = 12 board-fed video slots a week   (D.J.'s 10-14 mix, written to 12)
+#     14 videos - 2 giveaways = 12 board-fed video slots a week   (D.J.'s 10-14 mix, written to 12; giveaways 1-2/wk since 2026-09-09)
 #
 # The MAXIMUMS sum to 17 against those 12, deliberately. A range says what a
 # lane may do in a good week, never what it is entitled to. The minimums sum to
@@ -153,8 +153,8 @@ FOOTER_PREFIX = "Bank ref:"
 # a judgment call at 5:30am.
 # --------------------------------------------------------------------------
 
-VIDEOS_PER_WEEK = 15   # back to 15 on 2026-09-09: the take's 3 slots gave way to the Friday Broker Problem + tips
-GIVEAWAY_SLOTS = 3
+VIDEOS_PER_WEEK = 14   # 2026-09-09: D.J.'s 10-14 board-fed mix (written to 12) + gated giveaways cut 3 -> 1-2 (counted as 2)
+GIVEAWAY_SLOTS = 2
 BOARD_SLOTS = VIDEOS_PER_WEEK - GIVEAWAY_SLOTS
 
 # D.J., 2026-09-09: "2-3 podcast episode promos, 3-4 realtor tips, 2-4 news
