@@ -83,6 +83,7 @@ FIELD_MAP = {
     "headline": "headline",
     "line 1": "headline",
     "subhead": "sub",
+    "sub": "sub",
     "body": "sub",
     "line 2": "sub",
     "numbered list": "items",
