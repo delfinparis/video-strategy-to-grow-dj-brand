@@ -344,7 +344,27 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-09-08.md #3"
+  },
+  "https://app.notion.com/p/3d6313fa2892817f9cd3cb779c26fc1f": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-09.md #4 Report: Small Midwest Metros Warm as Big Cities Cool Ahead of Fall (RISMedia, 2026-09-08)"
+  },
+  "https://app.notion.com/p/3d6313fa289281a292bae2d334fdbbf7": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-megan-walters-2026-09-04.md"
+  },
+  "https://app.notion.com/p/3d6313fa289281d3a54dc432ae01c8c4": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-michael-opyd-2026-06-24.md"
+  },
+  "https://app.notion.com/p/3d6313fa289281f2af0ae9aa84ea0e59": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-2026-06-25-paul-salter.md"
   }
  },
- "updated": "2026-09-08"
+ "updated": "2026-09-09"
 }
