@@ -345,6 +345,21 @@
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-09-08.md #3"
   },
+  "https://app.notion.com/p/3d6313fa289281678919c0e24c69a242": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-008-your-cap-was-priced-for-somebody-else.md"
+  },
+  "https://app.notion.com/p/3d6313fa289281709eddc5964a8d29de": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-007-you-pay-monthly-for-a-second-job.md"
+  },
+  "https://app.notion.com/p/3d6313fa28928173a86cc118bf4c45a8": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-006-the-brand-was-built-to-recruit-you.md"
+  },
   "https://app.notion.com/p/3d6313fa2892817f9cd3cb779c26fc1f": {
    "has_body": true,
    "lane": "News",
