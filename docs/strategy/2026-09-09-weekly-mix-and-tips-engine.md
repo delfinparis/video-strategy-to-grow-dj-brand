@@ -54,7 +54,7 @@ videos, written to 14.
 who-profits beat, so takes now arrive as `[TIP]` options and count toward the 3-4. The Sunday
 take-brief routine keeps running as a source; its slots are gone. That also closes the question
 the brand-tax doc left open: the third Broker Problem on Friday does not need a 16th video, it
-takes one of the take's old slots. **The week is back to 15.**
+takes one of the take's old slots. **Nothing is displaced.**
 
 **What was not touched.** Agent Tip of the Day (guest-sourced) counts toward the tip quota when
 one runs, and Chicago Agent Spotlight stays a substitute.
