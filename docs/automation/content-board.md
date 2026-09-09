@@ -289,6 +289,8 @@ commits a finished walk-and-talk to this repo:
 |---|---|---|
 | Agent Spotlight | `trig_01Fr5tCSZnfhxSXtSPEcCVhe` — Weekly Chicago Agent Spotlight, Mon 6am CT | `scripts/chicago-agent-spotlight/<agent>-<date>.md` |
 | Broker Problems | `trig_01BbhYR8CmyLVBUQtqopFPDx` — Weekly Broker Problems engine, Sun 7:30am CT, `scripts/broker_problems.py plan` then three four-pass builds | `scripts/broker-problems/BP-###-<slug>.md` (heat read from the file's frontmatter, 4 to 4.5) |
+
+> **Broker Problems mirrors uncapped (2026-09-09).** The engine writes exactly three a week, so every unclaimed BP file posts regardless of how many rows the lane already holds. On 2026-09-09 the lane held six older research rows, the target-4 cap held all three engine scripts back, and nothing said so. KIRP stays capped because its producer runs daily. `plan` also no longer counts any mirror lane in `need{}`, so ADD never researches one.
 | KIRP Episode | `trig_01S1nWLHuJ3jYLg7BzyC9Kaf` — Daily KIR episode → walk-and-talk promo, 7am CT | `scripts/podcast-promos/kir-<guest>-<date>.md` |
 
 So the board **mirrors the committed file** rather than scouting the same agent

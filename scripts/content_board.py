@@ -229,6 +229,9 @@ MIRROR_LANES = {
         # heat floor. They are re-cut candidates, not inventory, so the mirror
         # only admits files that declare the current runtime.
         "require": r'^runtime_target:\s*"30-35s"',
+        # The engine writes exactly three a week, so the shelf cap does not
+        # apply: every unclaimed file posts. (KIRP produces daily and is capped.)
+        "uncapped": True,
         "heat": 4,
         "producer": "trig_01BbhYR8CmyLVBUQtqopFPDx (Weekly Broker Problems engine, Sun 7:30am CT)",
     },
@@ -373,6 +376,8 @@ def build_plan(rows):
 
     need = {}
     for lane, target in TARGETS.items():
+        if lane in MIRROR_LANES:
+            continue  # a producing routine fills these; `mirror` posts them, ADD never researches them
         have = counts[lane]
         if have <= REFILL_TRIGGER[lane]:
             need[lane] = target - have
@@ -569,7 +574,7 @@ def cmd_mirror(args):
                 parsed = parse_script_file(os.path.join(directory, name), lane, cfg["heat"])
                 if parsed:
                     candidates.append(parsed)
-        room = max(0, TARGETS[lane] - live_counts.get(lane, 0))
+        room = len(candidates) if cfg.get("uncapped") else max(0, TARGETS[lane] - live_counts.get(lane, 0))
         out[lane] = {
             "producer": cfg["producer"],
             "on_board": live_counts.get(lane, 0),
