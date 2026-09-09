@@ -16,9 +16,10 @@ and [`docs/content-pillars.md`](docs/content-pillars.md). The short version:
 conversations, because no post in 90 days asked a viewer to raise a hand
 ([the review](docs/analytics/2026-07-19-pivot-results.md)).
 
-**The week: 30 posts.** 16 videos + 14 carousels, 5 gated. Videos are 3 Takes, 2 News,
-3 Broker Problems (Tue/Thu/Fri since 2026-09-08), 2 KIRP promos, 3 Value Giveaways *gated*, 1 Stupid Things, 1 Agent Tip,
-1 Chicago Agent Spotlight. **13 of the 16 come off the
+**The week: 29 posts.** 15 videos + 14 carousels, 5 gated. The video mix is D.J.'s, 2026-09-09:
+**3-4 realtor tips** (the Stupid Things lane; a Take or a guest Agent Tip counts toward it),
+**2-4 News**, **3 Broker Problems** (Tue/Thu/Fri), **2-3 KIRP promos**, plus 3 Value Giveaways
+*gated*. Spotlight is a substitute. **12 of the 15 come off the
 [Content Board](docs/automation/content-board.md)**; the calendar names the category and the
 board names the row. Gated giveaways were cut 6 → 3 on 2026-08-19 to make room for the lanes
 that had no slot; the grid and the tradeoff are in
@@ -297,8 +298,9 @@ NOT use the walk-and-talk email machinery: [`docs/automation/take-brief.md`](doc
 
 ## Building a take? Follow the take standard
 
-Build per [`docs/series/take-standard.md`](docs/series/take-standard.md). Three a week,
-Mon/Wed/Fri, ungated on every platform, output to `scripts/takes/TAKE-###-slug.md`.
+Build per [`docs/series/take-standard.md`](docs/series/take-standard.md). **Since 2026-09-09 a
+take has no slot of its own**: it counts as one of the week's 3-4 realtor tips (at most one a
+week), ungated on every platform, output to `scripts/takes/TAKE-###-slug.md`.
 The short version:
 
 1. **Re-verify the receipt before drafting, every time**, whatever the brief says. A brief is a
@@ -324,12 +326,14 @@ Two extra checks in the stress-test pass: the **rant test** (strip the swap -- i
 still worth posting?) and the **recruiting test** (read the hook as a good agent who might join
 Kale; do they respect D.J. more or less?).
 
-## D.J. says "stupid things"? Pull from the bank, then build the pick
+## D.J. says "stupid things" or "realtor tips"? Pull from the bank, then build the pick
 
-The **Stupid Things Realtors Do** lane names a specific bad behavior and hands over the exact
-fix. It is **not** The Take: a take needs a *who profits* beat, and nobody profits from an agent
-who doesn't return a call. Charter and qualifying test:
-[`data/stupid-things.md`](data/stupid-things.md).
+The **Stupid Things Realtors Do** lane is the realtor-tip lane: a specific mistake agents make
+and the exact thing to do instead. **Since 2026-09-09 it is 3-4 a week and it leads the daily
+walk-and-talk brief** (2-3 `[TIP]` options above at most 2 news options). Standard:
+[`docs/series/stupid-things-standard.md`](docs/series/stupid-things-standard.md). Charter and
+qualifying test: [`data/stupid-things.md`](data/stupid-things.md). The Take is now a *source*
+for this lane, not a slot: a take is a tip with a who-profits beat.
 
 1. `git pull` (3 devices), then `python3 scripts/stupid_things.py pick --count 5 --stdout`.
 2. Show the options as a short numbered list. No preamble.

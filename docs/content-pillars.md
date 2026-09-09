@@ -27,10 +27,11 @@ Five criteria are baked in: **cheap to make** (one take, selfie stick, no edit),
 | Pillar | Weekly | Gate | Core job |
 |---|---|---|---|
 | **Value Giveaways** | 6 | Gated (IG/FB) | Generate leads. The only gated video pillar |
-| **News / Inside the Industry** | 2 | Ungated | Reach, authority, NAR recognition |
+| **News / Inside the Industry** | 2-4 (at most 2 offered a day since 2026-09-09) | Ungated | Reach, authority, NAR recognition |
 | **Broker Problems** | 3 (Tue/Thu/Fri since 2026-09-08) | Ungated | Recruiting wedge + reach |
+| **Realtor tips** (Stupid Things Realtors Do; takes and guest tips count) | 3-4 (leads the daily brief since 2026-09-09) | Ungated | Saves + sends, the do-this-not-that layer |
 | **KIRP Promos** | 2 | Ungated | Podcast listeners + reach |
-| **The Take** | 3 | Ungated | Reach + authority via defensible contrarian positions |
+| **The Take** | 0-1, counts as a realtor tip (2026-09-09) | Ungated | Reach + authority via defensible contrarian positions |
 | **Chicago Agent Spotlight** | substitute | Ungated | Recruiting signal (subs into a News/Broker slot) |
 
 **15 videos per week** (12 plus the 3 takes added 2026-08-10). With 14 carousels (2 gated) that is **29 posts, 5 gated, 24 open** — the open side carries the large majority, which is the intended trade: the gate layer converts, the open layer feeds it. Gated videos went 6 → 3 on 2026-08-19; the grid and the tradeoff live in [`../schedule/master-calendar.md`](../schedule/master-calendar.md), and 12 of the 15 videos are now fed by the [Content Board](automation/content-board.md).

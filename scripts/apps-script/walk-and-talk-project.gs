@@ -466,7 +466,8 @@ function generateScript(apiKey, brief, reply, pick) {
     "Here is this morning's Walk & Talk brief I emailed D.J.:\n\n" + brief +
     "\n\n---\n\nD.J. replied:\n\n" + reply +
     "\n\nHe is choosing option " + pick +
-    ". Run all four passes on it -- draft, stress test (web search, correct anything wrong or unverifiable), EP polish, council review -- then put the finished v3 script plus its Council Review block directly in your reply. Work in any note he added.";
+    ". Run all four passes on it -- draft, stress test (web search, correct anything wrong or unverifiable), EP polish, council review -- then put the finished v3 script plus its Council Review block directly in your reply. Work in any note he added." +
+    (isTipOption(brief, pick) ? "\n\n" + TIP_BUILD_NOTE : "");
 
   let messages = [{ role: 'user', content: userMsg }];
   let corrections = 0;
@@ -539,6 +540,35 @@ function generateScript(apiKey, brief, reply, pick) {
   throw tagged('did not finish after ' + MAX_TURNS + ' turns', true);
 }
 
+// A [TIP] option is a realtor tip off the Stupid Things bank (2026-09-09: the
+// brief leads with 2-3 of them). Same clock, same passes, different series and
+// different beats, so the builder gets told which one it is. Detection reads the
+// brief itself: the option's heading line carries the [TIP] label.
+function isTipOption(brief, pick) {
+  const re = new RegExp('^\\s*(?:#+\\s*)?\\**' + pick + '[.)]\\s*\\**[^\\n]*\\[TIP\\]', 'm');
+  return re.test(brief);
+}
+
+const TIP_BUILD_NOTE =
+  'THIS OPTION IS A [TIP], a realtor tip off the Stupid Things Realtors Do bank, not a news script. ' +
+  'Build it to docs/series/stupid-things-standard.md, which you do not have, so here is the whole of it: ' +
+  'the lane names one specific thing agents do that costs a client, a deal, or the agent on the other side, ' +
+  'and hands over the exact thing to do instead. Same four-beat clock, mapped like this: ' +
+  'HOOK = the stupid thing named flat with the cost in it (sharpen the brief\'s spoken hook; 5-8 words); ' +
+  'TENSION = the recognizable scene from the brief\'s "looks like" line, cut to one sentence; ' +
+  'THE POINT = the receipt said once with its limit, then the turn (the brief\'s "angle on the fix"); ' +
+  'PAYOFF = the swap, physical and do-it-Monday, then the loop-back. The swap is never what gets cut. ' +
+  'If the brief marks the receipt NEEDS RECEIPT, speak NO number: run the scene and the swap and say nothing a commenter can check and beat. ' +
+  'Target class: "sideways" points at the agent on the other side of the deal and carries full heat (4 to 4.7); ' +
+  '"self" points at the viewer and caps at 4.3, reaching the band through specificity about the cost, never a verdict on the person. ' +
+  'Brokerage economics (splits, fees, support, coaching, tools) is not this lane; if the option drifts there, say so in Production Notes and keep the script on the behavior. ' +
+  'Never name a brokerage, franchise, team, coach, product-as-villain, or identifiable agent. ' +
+  'Frontmatter differences from the news template: series: "Stupid Things Realtors Do", type: "tip", script_number: "STUPID-TBD", ' +
+  'content_pillar: "practice", plus three extra lines copied from the brief option: bank_id: "<ST-####>", bank_angle: "<the angle on the fix, verbatim>", target: "<sideways|self>". ' +
+  'Everything else in the output structure (WOW, Shareable Moment, the four ### beats, word count, Data Source, AI Music Prompt, five captions, Council Review) is unchanged. ' +
+  'Council for a tip: Eric Simon leads (will one agent send this to another and say "this is us"), with Hormozi, Kane and Welsh; Heath and Berger as witnesses. ' +
+  'Hashtags: the series tag is #StupidThingsRealtorsDo only if the tone earns it; otherwise no series tag and one brand tag as usual.';
+
 // The sections a real script always has and a progress report never does.
 // Kept to structural markers from the format spec, not word counts -- a short
 // script is fine, a script with no Data Source block is not.
@@ -606,7 +636,7 @@ function extractFinalText(content) {
 }
 
 /* ---------- 5. Voice + format spec (cached system prompt) ---------- */
-const VOICE_SYSTEM_PROMPT = `You are D.J. Paris's research-and-scriptwriting agent. D.J. is President of Sales & Marketing at Kale Realty in Chicago and posts a daily "walk and talk" video (the "Inside the Industry" News Flash series). When he replies to a brief with an option number, you produce a finished, fact-checked, repo-format script for that option.
+const VOICE_SYSTEM_PROMPT = `You are D.J. Paris's research-and-scriptwriting agent. D.J. is President of Sales & Marketing at Kale Realty in Chicago and posts a daily "walk and talk" video (the "Inside the Industry" News Flash series). When he replies to a brief with an option number, you produce a finished, fact-checked, repo-format script for that option. Since 2026-09-09 the brief leads with [TIP] options (realtor tips off the Stupid Things bank: a mistake agents make and the exact thing to do instead) and carries at most two [NEWS] options; a [TIP] pick arrives with a build note in the user turn and its frontmatter differs as that note says. Everything below applies to both.
 
 HOW YOUR ANSWER REACHES HIM — READ THIS FIRST:
 Your reply text is pasted straight into an email to D.J. It is the only copy of the script that will ever exist. You are a single API call with web search and nothing else: no filesystem, no repo, no commits, no exports, no "saving" anything anywhere. Nobody is on the other end to run a follow-up step.

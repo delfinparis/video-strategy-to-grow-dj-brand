@@ -100,6 +100,41 @@ except ImportError:
 
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUT_DIR = REPO_ROOT / "data" / "news-briefs"
+STUPID_THINGS = REPO_ROOT / "scripts" / "stupid_things.py"
+
+
+def realtor_tips_section(count):
+    """The 'do this, not that' options that lead the brief since 2026-09-09.
+
+    Delegates to scripts/stupid_things.py pick, which owns the rotation, the
+    receipt status, the sideways/self alternation and the category spread. This
+    function only reframes its output as brief options. Never invents an entry:
+    if the bank is missing or pick fails, the brief says so and carries on.
+    """
+    import subprocess
+    if not STUPID_THINGS.exists():
+        return ("## Realtor tips (do this, not that)\n"
+                "*scripts/stupid_things.py is missing on this machine; no tip options today.*")
+    try:
+        out = subprocess.run([sys.executable, str(STUPID_THINGS), "pick", "--count", str(count), "--stdout"],
+                             capture_output=True, text=True, timeout=60)
+    except Exception as exc:  # noqa: BLE001
+        return f"## Realtor tips (do this, not that)\n*pick failed: {exc}*"
+    if out.returncode != 0 or not out.stdout.strip():
+        return f"## Realtor tips (do this, not that)\n*pick failed (exit {out.returncode}): {out.stderr.strip()[:200]}*"
+    body = out.stdout.strip().splitlines()
+    # drop pick's own H1; keep its intro quote lines and the entries
+    body = [l for l in body if not l.startswith("# ")]
+    head = [
+        "## Realtor tips (do this, not that) -- these lead the brief",
+        "*Mistakes agents make, and the exact thing to do instead. Each option already carries the "
+        "scene, the swap and the receipt status. Say **\"stupid things N\"** or **\"walk and talk\"** "
+        "and pick one; build per `docs/series/stupid-things-standard.md`, then "
+        "`python3 scripts/stupid_things.py log --id ST-#### --script <path>`. "
+        "Receipt marked NEEDS RECEIPT means no number on camera.*",
+        "",
+    ]
+    return "\n".join(head + body)
 STATE_FILE = OUTPUT_DIR / ".seen-stories.json"
 PUBLISHING_LOG = REPO_ROOT / "data" / "publishing-log.csv"
 NF_SCRIPTS_DIR = REPO_ROOT / "scripts" / "inside-the-industry"
@@ -830,6 +865,14 @@ def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir
                 lines.append(f"- **Why it fits today:** {_scrub(t.get('why_today'))}")
             lines.append("")
 
+    # Realtor tips lead the brief (D.J., 2026-09-09: "more realtor tips, less news").
+    # Pulled from the Stupid Things bank, which pre-writes the scene, the swap and the
+    # receipt for every entry. Standard: docs/series/stupid-things-standard.md.
+    tips_md = realtor_tips_section(3)
+    if tips_md:
+        lines.append(tips_md)
+        lines.append("")
+
     # Persistent daily option: Chicago Agent Spotlight. The actual scouting happens
     # on demand in Claude Code (where web search works), not in this cron job.
     lines.append("## Chicago Agent Spotlight (daily option)")
@@ -846,7 +889,7 @@ def format_brief(stories, trending, takes, triage, failures, lookback_hours, kir
     lines.append("")
 
     if takes:
-        lines.append("## Top candidates for NF scripts")
+        lines.append("## News candidates for NF scripts (at most 2 a day ship; tips lead)")
         lines.append("*Two-stage: Haiku ranked, Sonnet wrote the take from the article body. "
                      "Each is a reframe, not a summary.*")
         lines.append("")
@@ -995,7 +1038,7 @@ def main():
     parser.add_argument("--all", action="store_true", help="Include stories seen on previous runs")
     parser.add_argument("--no-email", action="store_true", help="Don't email even if env is set")
     parser.add_argument("--no-push", action="store_true", help="Don't push even if NTFY_TOPIC is set")
-    parser.add_argument("--top", type=int, default=5, help="How many stories get a written take (default 5)")
+    parser.add_argument("--top", type=int, default=3, help="How many stories get a written take (default 3; was 5 before tips led the brief, 2026-09-09)")
     parser.add_argument("--draft", type=int, default=0, metavar="N",
                         help="After the brief, draft full NF scripts for the top N takes (0 = off)")
     parser.add_argument("--draft-model", default="claude-sonnet-4-6", help="Model for the drafting agent")

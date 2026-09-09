@@ -118,7 +118,7 @@ SOURCES = {
     # Broker Problems: mirrored since 2026-09-08. The lane has its own weekly
     # planner + routine that commits three finished scripts. See `mirror`.
     "Broker Problems": ["MIRROR scripts/broker-problems/BP-*.md"],
-    "Stupid Things Realtors Do": ["python3 scripts/stupid_things.py pick --count N"],
+    "Stupid Things Realtors Do": ["python3 scripts/stupid_things.py pick --count N", "data/news-briefs/<today>.md (the [TIP] options)"],
     # Mirror lanes: never researched here, only mirrored. See `mirror`.
     "Agent Spotlight": ["MIRROR scripts/chicago-agent-spotlight/"],
     "KIRP Episode": ["MIRROR scripts/podcast-promos/kir-*.md"],
@@ -144,28 +144,34 @@ FOOTER_PREFIX = "Bank ref:"
 # gated Value Giveaways from 6 to 3 on 2026-08-19 to make room for the three
 # lanes that had no slot at all, so:
 #
-#     16 videos - 3 giveaways = 13 board-fed video slots a week   (16 since 2026-09-08)
+#     15 videos - 3 giveaways = 12 board-fed video slots a week   (D.J.'s 10-14 mix, written to 12)
 #
-# The MAXIMUMS sum to 19 against those 13, deliberately. A range says what a
+# The MAXIMUMS sum to 17 against those 12, deliberately. A range says what a
 # lane may do in a good week, never what it is entitled to. The minimums sum to
-# 11 (Broker Problems went 1 -> 3 on 2026-09-08), which leaves 2 genuinely
-# discretionary slots -- and that number is the whole reason this is arithmetic
-# in a script instead of a judgment call at 5:30am.
+# 10 (D.J.'s 2026-09-09 mix), which leaves 2 genuinely discretionary slots --
+# and that number is the whole reason this is arithmetic in a script instead of
+# a judgment call at 5:30am.
 # --------------------------------------------------------------------------
 
-VIDEOS_PER_WEEK = 16   # 15 + the Friday Broker Problem added 2026-09-08 (pending D.J.'s displace-or-add call)
+VIDEOS_PER_WEEK = 15   # back to 15 on 2026-09-09: the take's 3 slots gave way to the Friday Broker Problem + tips
 GIVEAWAY_SLOTS = 3
 BOARD_SLOTS = VIDEOS_PER_WEEK - GIVEAWAY_SLOTS
 
+# D.J., 2026-09-09: "2-3 podcast episode promos, 3-4 realtor tips, 2-4 news
+# stories, and 3 seeding doubt about their current brokerage." That is the
+# whole board-fed week, 10-14 videos. Realtor tips are the Stupid Things lane
+# first; a Take (a tip with a who-profits beat) and a guest-sourced Agent Tip
+# count toward the same 3-4, so their own minimums are zero and their maximums
+# are the overflow. Spotlight stays a substitute.
 WEEKLY = {
     # lane                          min  max
-    "News":                          (2,  2),
-    "Agent Tip":                     (1,  3),
-    "Agent Spotlight":               (1,  2),
-    "Stupid Things Realtors Do":     (1,  3),
+    "News":                          (2,  4),
+    "Agent Tip":                     (0,  1),   # counts toward realtor tips
+    "Agent Spotlight":               (0,  1),   # substitute only
+    "Stupid Things Realtors Do":     (3,  4),   # the realtor-tip lane
     "Broker Problems":               (3,  3),   # D.J. 2026-09-08: three a week, Tue/Thu/Fri
-    "Take":                          (2,  4),
-    "KIRP Episode":                  (1,  2),
+    "Take":                          (0,  1),   # a source for tips, no slot of its own since 2026-09-09
+    "KIRP Episode":                  (2,  3),
 }
 
 # Rule 9.2, as rewritten by D.J. on 2026-08-20. The old rule was a cadence cap:

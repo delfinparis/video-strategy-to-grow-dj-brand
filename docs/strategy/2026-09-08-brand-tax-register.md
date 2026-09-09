@@ -169,9 +169,9 @@ change to the standard.
 ## Decisions
 
 1. **Three a week: Tuesday, Thursday, Friday.** Friday's Video 3 slot was empty on the grid;
-   it now carries the third Broker Problem. That makes the week 16 videos, not 15. **D.J.
-   decides whether it is a 16th video or displaces the Friday take or the second KIRP promo.**
-   The engine and the board are built for 16 until he says otherwise.
+   it now carries the third Broker Problem. *Resolved 2026-09-09:* D.J.'s weekly mix dropped
+   the Take's standalone slots, so the week is back to 15 videos and nothing is displaced. See
+   [`2026-09-09-weekly-mix-and-tips-engine.md`](2026-09-09-weekly-mix-and-tips-engine.md).
 2. **Flavor F, The Brand Tax, added to the bank** with six entries (F1-F6), and seven existing
    entries tagged `Register: brand tax` (A2, A3, B3, B6, C4, E1, E2). The engine requires at
    least two of the week's three to carry the register.
@@ -194,7 +194,6 @@ change to the standard.
 
 ## What D.J. owes the lane
 
-- **The Friday slot call** (decision 1).
 - **Recruiting-call notes.** Thirty calls a day produce the best Chicago-specific brand-tax
   material there is, and none of it is in the bank. Raw dumps are fine; entries get written with
   `receipt: first-party, unquantified`.

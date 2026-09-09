@@ -41,19 +41,26 @@ Governing docs, in precedence order when they conflict:
 
 | Day | Video 1 | Video 2 | Video 3 | Carousel 1 | Carousel 2 | Posts |
 |---|---|---|---|---|---|:--:|
-| **Mon** | Take | KIRP promo | Giveaway: say this 🔒 | KIRP episode | Take 🔒 | 5 |
-| **Tue** | News / IIR | Broker Problem | Stupid Things | Broker-problem compare | News / tip | 5 |
-| **Wed** | Take (heat 4.5-5) | News / IIR | Agent Tip | KIRP episode | Take | 5 |
-| **Thu** | Broker Problem | KIRP promo | Agent Spotlight | News / tip | News / tip 🔒 | 5 |
-| **Fri** | Take | Giveaway: AI prompt 🔒 | Broker Problem | KIRP episode | Take | 5 |
-| **Sat** | Giveaway: tool use-case 🔒 | -- | -- | News / tip | News / tip | 3 |
-| **Sun** | -- | -- | -- | News / tip | News / tip | 2 |
+| **Mon** | Realtor tip | KIRP promo | Giveaway: say this 🔒 | KIRP episode | Take 🔒 | 5 |
+| **Tue** | News / IIR | Broker Problem | Realtor tip | Broker-problem compare | News / tip | 5 |
+| **Wed** | Realtor tip | News / IIR | -- | KIRP episode | Take | 4 |
+| **Thu** | Broker Problem | KIRP promo | News (optional 3rd) | News / tip | News / tip 🔒 | 4-5 |
+| **Fri** | Broker Problem | Giveaway: AI prompt 🔒 | Realtor tip (optional 4th) | KIRP episode | Take | 4-5 |
+| **Sat** | Giveaway: tool use-case 🔒 | KIRP promo (optional 3rd) | -- | News / tip | News / tip | 3-4 |
+| **Sun** | News (optional 4th) | -- | -- | News / tip | News / tip | 2-3 |
+
+> **Video grid rewritten 2026-09-09** to D.J.'s mix: 2-3 KIRP promos, 3-4 realtor tips, 2-4 news, 3 Broker Problems
+> (10-14 board-fed, written to 12) plus the 3 gated giveaways. The Take's three standalone slots gave way: a take is a
+> realtor tip with a who-profits beat and now arrives as a `[TIP]` option. Decision doc:
+> [`../docs/strategy/2026-09-09-weekly-mix-and-tips-engine.md`](../docs/strategy/2026-09-09-weekly-mix-and-tips-engine.md).
+> "Realtor tip" = the Stupid Things Realtors Do lane, standard at
+> [`../docs/series/stupid-things-standard.md`](../docs/series/stupid-things-standard.md).
 
 🔒 = gated (ManyChat keyword on Instagram and Facebook only, never LinkedIn)
 
-**Weekly totals check:** Takes 3 · News 2 · Broker Problems 3 (Fri added 2026-09-08, see [the brand-tax decision](../docs/strategy/2026-09-08-brand-tax-register.md); D.J. still owes the call on whether it is a 16th video or displaces the Friday take or second KIRP promo) · KIRP promos 2 · Giveaways 3 (1 say-this + 1 tool + 1 prompt) · Stupid Things 1 · Agent Tip 1 · Agent Spotlight 1 = **16 videos**. KIRP carousels 3 · Take carousels 3 · Broker-problem carousel 1 · News/tip carousels 7 = **14 carousels**.
+**Weekly totals check:** Realtor tips 3-4 (Stupid Things lane; a Take or a guest Agent Tip counts toward it) · News 2-4 · Broker Problems 3 (Tue/Thu/Fri) · KIRP promos 2-3 · Giveaways 3 (1 say-this + 1 tool + 1 prompt) · Agent Spotlight substitute only = **13-17 videos, written to 15**. KIRP carousels 3 · Take carousels 3 · Broker-problem carousel 1 · News/tip carousels 7 = **14 carousels**.
 
-Thirteen of those 16 videos are **fed by the board**; the 3 giveaways are not. Lane minimums
+Twelve of those 15 videos are **fed by the board**; the 3 giveaways are not. Lane minimums
 account for 9 of the 12, which leaves **3 discretionary slots a week**. Run
 `python3 scripts/content_board.py week --board board.json` for the live count — that arithmetic lives in the
 script, not in this table, because a number maintained in two places drifts.
@@ -148,7 +155,7 @@ Of the 29 posts, **D.J. is on camera for 15**. All 14 carousels are built by rou
 
 | Session | When | Count | What |
 |---|---|:--:|---|
-| **Batch A** | Mon | 9 | The week's 3 takes, 3 broker problems, 2 KIRP promos, 1 Stupid Things, 1 Agent Tip. All pulled off the [Content Board](../docs/automation/content-board.md) Monday morning. Nothing time-sensitive, so one session covers Mon-Fri |
+| **Batch A** | Mon | 9 | The week's 3-4 realtor tips, 3 broker problems, 2-3 KIRP promos. All pulled off the [Content Board](../docs/automation/content-board.md) Monday morning. Nothing time-sensitive, so one session covers Mon-Fri |
 | **Batch B** | Wed or Thu | 3 | The three giveaways for **next** week. This is the batch that keeps the can full, and the only reason Saturday has a post and a bad week still ships |
 | **Same-day** | Tue, Wed, Thu | 3 | Two news walk-and-talks off that morning's 5:30am brief, plus Thursday's Spotlight. These cannot be filmed ahead: news has to land inside 24 hours, and a Spotlight is only worth posting while its subject is actually in the news |
 

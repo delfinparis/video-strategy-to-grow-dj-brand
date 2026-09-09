@@ -28,6 +28,16 @@ alarm if there was nothing to send. Full chain and failure modes:
 > throughout. The scripts and plist templates are kept in the repo as an
 > uninstalled option, not a description of what runs.
 
+## The brief leads with realtor tips (2026-09-09)
+D.J.: "more realtor tips (mistakes agents make, do X instead) and less news." Both briefs
+(the 5:30am email and the local `news_brief.py` file) now open with **2-3 `[TIP]` options**
+pulled from the Stupid Things bank (`python3 scripts/stupid_things.py pick`), then **at most 2
+news options**, then the stat fallback. A `[TIP]` pick is built to
+[`../series/stupid-things-standard.md`](../series/stupid-things-standard.md) and logged with
+`stupid_things.py log` (on demand) or via its `bank_id` frontmatter (email path, logged by the
+Sunday bank check). Decision doc:
+[`../strategy/2026-09-09-weekly-mix-and-tips-engine.md`](../strategy/2026-09-09-weekly-mix-and-tips-engine.md).
+
 ## The build half (on demand, in Claude Code)
 When D.J. says **"walk and talk"** (optionally with a number), Claude:
 

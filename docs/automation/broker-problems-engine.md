@@ -98,6 +98,5 @@ short of inventing entries.
 - **A script mentions Kale.** Never, in any form, including the captions and the pinned comment.
 - **The plan and the board disagree.** The board mirrors files by basename; a renamed file is a
   new row. Do not rename a BP file after it is on the board.
-- **The Friday slot.** The calendar carries 16 videos as of 2026-09-08 pending D.J.'s call on
-  whether the third Broker Problem is added or displaces something. Until he rules, the engine
-  plans three.
+- **The Friday slot.** Resolved 2026-09-09: the Take's standalone slots gave way, the week is
+  15 videos, and the engine plans three.

@@ -43,7 +43,19 @@ Weekly (Sun 6:00am CT)   Stupid Things Bank Check routine
 Any time                 D.J.: "stupid things"    -> Claude lists the shortlist
                          D.J.: "stupid things 2"  -> Claude builds the full script
                                                      then logs the angle as used
+Daily 5:30am CT          Morning Walk & Talk Research runs `pick --count 6` and leads the
+                         email with 2-3 [TIP] options (2026-09-09). A pick built by the Apps
+                         Script generator carries bank_id + bank_angle in its frontmatter.
+Weekly (Sun 6:00am CT)   Before the health check, the Bank Check routine reads the week's
+                         "Walk & Talk Options" threads, finds generated tip scripts by their
+                         bank_id line, and runs `log` for each, so email-built tips leave the
+                         pool. Then health, then the refill branch as before.
 ```
+
+**Why the Sunday log step exists.** The Apps Script generator is one API call with no
+filesystem, so a tip it builds cannot mark its own angle used. Without the Sunday step the
+same angle stays open and gets offered again. `log` refuses an angle that is already spent, so
+the step is safe to re-run.
 
 **The cheap check is the point.** Most weeks the routine runs one offline command, gets exit 0,
 and stops. It costs almost nothing. The expensive scouring only happens when the bank has
