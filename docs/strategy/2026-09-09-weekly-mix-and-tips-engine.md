@@ -100,8 +100,12 @@ carries the same numbers and says which minimums are still owed.
 ## Two flags for D.J.
 
 - **The gated giveaways.** Resolved same day: 1-2 a week, not 3.
-- **Two reply generators are live.** The Apps Script builds the script when D.J. replies and
-  labels the thread `WT-Scripted`. A separate hourly cloud routine ("Walk & Talk Reply → Script")
-  also watches the same threads with its own label and an older three-pass prompt. It now stops
-  when it sees the Apps Script's label, so it cannot double-reply; the cleaner fix is to disable
-  it at https://claude.ai/code/routines once the Apps Script path is trusted.
+- **Email-built scripts now reach the Content Board.** D.J., same day: "send the ones I ask to
+  film from the email draft replies to Notion." The Apps Script builds the script when D.J.
+  replies and labels the thread `WT-Scripted`. The hourly cloud routine
+  `trig_01WJretURg6XmPzY58xkuX9n` (renamed "Walk & Talk Reply → Content Board") then posts every
+  `Option N:` script on those threads to the Content Board as a **Picked** row with the full body
+  and the footer ref `email: <subject>, option N` (the dedupe key), logs a `[TIP]` in the bank
+  right then, and labels the thread `WT-Boarded`. It only generates a script itself if the Apps
+  Script has not answered 90 minutes after D.J.'s reply. The Sunday bank check stays as a
+  backstop for logging.
