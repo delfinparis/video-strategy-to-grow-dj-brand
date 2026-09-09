@@ -46,7 +46,10 @@ Any time                 D.J.: "stupid things"    -> Claude lists the shortlist
 Daily 5:30am CT          Morning Walk & Talk Research runs `pick --count 6` and leads the
                          email with 2-3 [TIP] options (2026-09-09). A pick built by the Apps
                          Script generator carries bank_id + bank_angle in its frontmatter.
-Weekly (Sun 6:00am CT)   Before the health check, the Bank Check routine reads the week's
+Hourly (weekdays)        Walk & Talk Reply -> Content Board posts each Apps-Script-built script
+                         to the Notion board as a Picked row and runs `log` for a [TIP] right
+                         then (trig_01WJretURg6XmPzY58xkuX9n).
+Weekly (Sun 6:00am CT)   Backstop. Before the health check, the Bank Check routine reads the week's
                          "Walk & Talk Options" threads, finds generated tip scripts by their
                          bank_id line, and runs `log` for each, so email-built tips leave the
                          pool. Then health, then the refill branch as before.

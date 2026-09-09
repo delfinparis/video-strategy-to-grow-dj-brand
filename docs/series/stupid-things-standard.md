@@ -107,7 +107,9 @@ reloads the hook (Rule 9.1). Never a moral.
    and leads the email with 2-3 `[TIP]` options, each carrying the bank id, the target class,
    the pre-written scene, the swap, and the receipt status. D.J. replies with a number; the
    Apps Script generator builds it to this standard. The generated script carries `bank_id` and
-   `bank_angle` in frontmatter so the Sunday bank check can log the angle as used.
+   `bank_angle` in frontmatter. Within the hour the Walk & Talk Reply → Content Board routine
+   posts it to the Content Board as a Picked row and logs the angle; the Sunday bank check is
+   the backstop.
 2. **On demand.** D.J. says **"stupid things"** or **"realtor tips"** in Claude Code: show
    `pick --count 5`, build the pick through the four passes to
    `scripts/stupid-things/STUPID-###-slug.md`, then

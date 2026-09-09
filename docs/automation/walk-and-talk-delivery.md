@@ -7,7 +7,8 @@ days of missing emails. Read this before debugging a missing brief.
 
 | Piece | State |
 | --- | --- |
-| `Morning Walk & Talk Research` cloud routine (`trig_01DKfNPCN1KgtWbAqweJYDWt`) | **LIVE**, 5:30am CT daily |
+| `Morning Walk & Talk Research` cloud routine (`trig_01DKfNPCN1KgtWbAqweJYDWt`) | **LIVE**, 5:30am CT daily. Tips first since 2026-09-09 |
+| `Walk & Talk Reply → Content Board` cloud routine (`trig_01WJretURg6XmPzY58xkuX9n`) | **LIVE**, hourly 7am-1pm CT weekdays. Posts every Apps-Script-built `Option N:` script to the Notion Content Board as a Picked row (dedupe key: footer ref `email: <subject>, option N`), logs `[TIP]` picks in the bank, labels the thread `WT-Boarded`. Backup generator only if the Apps Script has not answered in 90 min |
 | `Walk & Talk Watchdog` cloud routine (`trig_01Qo8yYKfVrNYGeJQsS8LpNW`) | **LIVE**, 6:50am CT daily |
 | `autoSendWalkAndTalkBriefs` Apps Script in D.J.'s Gmail | **LIVE**, ~6:15am CT daily |
 | `com.djparis.walkandtalk` launchd job on the home Mac | **NEVER INSTALLED** |
