@@ -404,14 +404,19 @@ def cmd_plan(args):
 
 
 def cmd_health(args):
-    plan = build_plan(load_board(args.board))
+    rows = load_board(args.board)
+    plan = build_plan(rows)
+    mirror = build_mirror(rows)
+    to_mirror = {lane: len(m["post"]) for lane, m in mirror.items() if m["post"]}
     parts = [f"{lane} {plan['counts'][lane]}/{TARGETS[lane]}" for lane in TARGETS]
     print("Board: " + ", ".join(parts))
     print(
         f"kill {len(plan['kill'])}, fill {len(plan['fill'])}, "
-        f"lanes needing rows {len(plan['need'])}"
+        f"lanes needing rows {len(plan['need'])}, "
+        f"unposted mirror scripts {sum(to_mirror.values())}"
+        + (f" ({', '.join(f'{k} {v}' for k, v in to_mirror.items())})" if to_mirror else "")
     )
-    if plan["work_due"]:
+    if plan["work_due"] or to_mirror:
         print("REFILL DUE")
         return 10
     print("Board is stocked and every live row has a script body.")
@@ -529,8 +534,12 @@ def parse_script_file(path, lane, heat):
     }
 
 
-def cmd_mirror(args):
-    rows = load_board(args.board)
+def build_mirror(rows):
+    """What each mirror lane would post right now. Shared by `mirror` and
+    `health`, so a morning when the board is otherwise stocked still counts
+    an unposted engine script as work due. Before 2026-09-09 health ignored
+    mirror candidates, and the refill routine stopped at its health check
+    while three finished Broker Problems sat in the repo unmirrored."""
     # Every ref ever seen, at ANY status. A Posted episode must not come back.
     #
     # Matched on BASENAME, not the whole path. The ref is read back out of a
@@ -584,7 +593,11 @@ def cmd_mirror(args):
             "post": candidates[:room],
             "held_back": max(0, len(candidates) - room),
         }
-    print(json.dumps(out, indent=2))
+    return out
+
+
+def cmd_mirror(args):
+    print(json.dumps(build_mirror(load_board(args.board)), indent=2))
     return 0
 
 
