@@ -156,11 +156,16 @@
       "target": "sideways",
       "heat_ceiling": 4.7,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR",
-        "year": 2026,
+        "year": 2024,
         "url": "https://www.nar.realtor/news/real-estate-news/sales-marketing/what-buyers-sellers-want-most-from-real-estate-agents",
-        "claim": "Responsiveness ranks among the qualities buyers value most; Gen X and Boomers rank it above process knowledge."
+        "claim": "UNVERIFIED as of 2026-09-10: the cited NAR page (published 2024-04-04, 2024 Generational Trends Report) ranks agent-selection qualities as experience 21%, honesty/trustworthiness 19%, reputation 15%, friend or family 12%. It does NOT rank responsiveness among the qualities buyers value most and has no Gen X/Boomer responsiveness breakdown. Previously banked as 'confirmed (NAR, 2026)' on both a wrong claim and a wrong year. Speak no number on this entry until a real receipt is found.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "build-time re-verification for STUPID-002",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -192,7 +197,9 @@
         {
           "angle": "The published response standard: tell the client your response window out loud at signing, so silence becomes a breach they can name",
           "swap": "At the signing table, say the window. 'You'll hear from me every Friday, and inside four hours on anything urgent.' Then put a recurring Friday task in your phone before you leave the table.",
-          "status": "open"
+          "status": "used",
+          "used_date": "2026-09-10",
+          "script": "scripts/stupid-things/STUPID-002-your-client-apologizes.md"
         },
         {
           "angle": "The holding text: the cost is the silence, not the delay",
@@ -2466,6 +2473,12 @@
       "id": "ST-0011",
       "angle": "A showing that never happened looks exactly like a house nobody wanted, and the seller can't tell the difference",
       "script": "board: https://app.notion.com/p/3d7313fa289281679677c7f1decea2c8"
+    },
+    {
+      "date": "2026-09-10",
+      "id": "ST-0002",
+      "angle": "The published response standard: tell the client your response window out loud at signing, so silence becomes a breach they can name",
+      "script": "scripts/stupid-things/STUPID-002-your-client-apologizes.md"
     }
   ],
   "rejected": [

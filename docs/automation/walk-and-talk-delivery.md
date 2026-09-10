@@ -153,6 +153,75 @@ now appends replies to the thread the way Gmail does, and section J runs five
 consecutive firings against one growing thread. **A mock that cannot change is a
 mock that cannot fail.**
 
+## "1. 2" delivered one script, for the other option (2026-09-10)
+
+D.J. replied with two picks on one line, typed the way a phone types them:
+**`1. 2`**. He got one script back. It was headed `Option 1:` and it was a
+complete, well-formed, four-pass script for **option 2** (ST-0011, the showing
+access tip). Option 1 (ST-0002, going radio silent after the contract signs) was
+never built, was marked delivered, and nothing anywhere said so.
+
+Two independent defects, both firing on the same reply.
+
+**The parser stopped at the first number.** `parsePicks` accepted `,` `and` `&`
+`+` `/` between picks. A period was not a separator and neither was a bare
+space, so `1. 2` read as a pick of 1 and option 2 was never queued. There was no
+"Still working on 2" line either — nothing was pending, so the reply looked
+finished. The separator set now includes `.` `;` and a bare space, and the
+separator itself is optional. What keeps that safe is that every pick must be a
+**standalone** 1-8 (`(?![0-9])` after each digit): without it, an optional
+separator turns `12` into 1 and 2, and a bare space turns `45 seconds` into 4
+and 5 — the exact cost bug from the section above, coming back through the door
+the fix opened.
+
+**The raw reply outranked the pick.** `generateScript` handed the model the pick
+number *and* D.J.'s raw reply text:
+
+```js
+"\n\n---\n\nD.J. replied:\n\n" + reply +
+"\n\nHe is choosing option " + pick +          // WRONG: two sources of truth
+```
+
+The prompt said "He is choosing option 1." His literal text said `1. 2`, which
+reads as a numbered list whose first item is 2. The model built option 2. Now
+the pick is the only thing that selects an option: `optionBlock()` quotes the
+chosen option out of the brief verbatim, the prompt states the number is
+authoritative and that other digits do not change it, and the raw pick line
+never reaches the model at all. Anything D.J. typed *below* the pick line still
+does, labelled as his note (`pickNote()`).
+
+**Nothing checked which story came back.** Every structural check passed,
+because a complete script for the wrong option looks exactly like a complete
+script for the right one. `wrongBankId()` closes that: a `[TIP]` option carries
+a bank id in the brief, the generated script carries `bank_id` in its
+frontmatter, and a mismatch spends one correction turn and then fails loudly.
+`[NEWS]` options have no bank id and skip the check.
+
+**The header could not carry the fix.** The obvious repair — put the story name
+in the reply header — would have re-broken 2026-08-15, because
+`isGeneratedReply()` requires a first line of exactly `Option N:` to tell our
+messages from D.J.'s. The echo goes on the line *below* the header instead:
+*"(building: [TIP] Going radio silent after the contract signs. Not what you
+picked? Reply with just the number.)"* A wrong number is now visible in the same
+glance as the script.
+
+**Recovery.** Per-pick state lives in script properties, so the pick D.J. never
+actually received was already marked `done` for that thread. Replying again
+would have been silently ignored. The missing script was rebuilt on the
+on-demand path in Claude Code (`scripts/stupid-things/STUPID-002-your-client-apologizes.md`).
+Re-replying is not a recovery path for a pick that was marked done; deleting the
+thread's `wt:<threadId>` script property is, and building it in Claude Code is
+faster.
+
+**And the receipt was wrong too.** ST-0002 was banked as
+`receipt: confirmed (NAR, 2026)`. Build-time re-verification found the cited NAR
+page was published 2024-04-04, ranks agent-selection qualities as experience
+21% / honesty 19% / reputation 15% / friend or family 12%, and says nothing
+about responsiveness ranking or a Gen X and Boomer split. The entry is now
+`receipt: needed` and the script speaks no number. **The bank is a shortlist,
+not a clearance** — this is the second `receipt: confirmed` entry in two days
+whose source did not support the claim.
+
 ## The email path runs all four passes (2026-08-15)
 
 Until this date the emailed script was quietly weaker than the one D.J. gets in
@@ -287,5 +356,11 @@ day via the `wtLastAlarmDate` script property.
 - **The model has no hands.** It cannot write, save, export, commit, or file
   anything. If a reply claims it did, that reply is the only place the work ever
   existed, and it is now gone. Fail loudly rather than mail the claim.
+- **One source of truth per decision.** When a value has been parsed, the parse
+  is authoritative and the raw text it came from does not get passed along
+  beside it. Two sources of truth means the one you did not intend can win.
+- **Check the artifact answers the question that was asked.** Structure checks
+  prove a script is a script. Only a stamped identifier — a bank id, an option
+  number in the content itself — proves it is the *right* script.
 - **A silent fallback is a bug.** If the primary channel fails and a fallback
   is used, that fact has to reach D.J., not just the git log.

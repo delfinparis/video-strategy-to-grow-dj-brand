@@ -386,5 +386,183 @@ vm.runInContext('processWalkAndTalkReplies();', briefOnly.env);
 check('but a thread with no real pick spends nothing', briefOnly.calls.length === 0,
   JSON.stringify(briefOnly.calls));
 
+
+// ============================================================================
+// M. THE 2026-09-10 BUG: "1. 2" delivered one script, for the other option
+//
+// D.J. replied with two picks on one line, typed the way a phone types them:
+// "1. 2". Two independent defects fired at once and the day's second story was
+// simply gone, with nothing anywhere saying so.
+//
+//   1. parsePicks did not treat "." or a bare space as a separator, so it read
+//      a pick of 1 and never queued 2. No "Still working on" line either --
+//      nothing was pending, so the reply looked complete.
+//   2. generateScript was handed the raw reply text AND the pick number. The
+//      prompt said "He is choosing option 1"; the model read his literal
+//      "1. 2" as a numbered list and built option 2 (ST-0011). It went out
+//      headed "Option 1:", a real and complete script for a story he had not
+//      been told he was getting, while option 1 was marked done and never built.
+//
+// Same family as every other bug in this file: something confirmed a script
+// came back, nothing confirmed it was the script he asked for.
+// ============================================================================
+console.log('\nM1. parsePicks: the separators a phone actually types');
+check('THE 9/10 BUG: "1. 2" is two picks',
+  JSON.stringify(parse('1. 2')) === '["1","2"]', JSON.stringify(parse('1. 2')));
+check('"1 2" (bare space) is two picks',
+  JSON.stringify(parse('1 2')) === '["1","2"]', JSON.stringify(parse('1 2')));
+check('"2. 3. 5" is three picks',
+  JSON.stringify(parse('2. 3. 5')) === '["2","3","5"]', JSON.stringify(parse('2. 3. 5')));
+check('"1." alone is still one pick', JSON.stringify(parse('1.')) === '["1"]', JSON.stringify(parse('1.')));
+check('"3; 4" is two picks', JSON.stringify(parse('3; 4')) === '["3","4"]', JSON.stringify(parse('3; 4')));
+
+// The separator widening is only safe because every pick has to be a standalone
+// 1-8. Without that, an optional separator turns "12" into 1 and 2, and a bare
+// space turns "45 seconds" into 4 and 5 -- which is the cost bug from section A
+// coming back through the door the fix opened.
+check('"12" is not 1 and 2', JSON.stringify(parse('12')) === '[]', JSON.stringify(parse('12')));
+check('STILL SAFE: "3 - make it 45 seconds" is only 3',
+  JSON.stringify(parse('3 - can you make it 45 seconds?')) === '["3"]',
+  JSON.stringify(parse('3 - can you make it 45 seconds?')));
+check('STILL SAFE: "3. make it shorter" is only 3',
+  JSON.stringify(parse('3. make it shorter')) === '["3"]', JSON.stringify(parse('3. make it shorter')));
+check('STILL SAFE: "2 45 second version" is only 2',
+  JSON.stringify(parse('2 45 second version')) === '["2"]', JSON.stringify(parse('2 45 second version')));
+check('STILL SAFE: quoted brief under an unrecognized separator yields nothing',
+  JSON.stringify(parse('sounds good\n-------- Original Message --------\n1. First\n2. Second')) === '[]',
+  JSON.stringify(parse('sounds good\n-------- Original Message --------\n1. First\n2. Second')));
+
+console.log('\nM2. Reading one option out of the brief');
+const TIP_BRIEF = [
+  '5 options for today: 3 tips, 2 news',
+  '',
+  '**1. [TIP] Going radio silent after the contract signs**',
+  '- Hook: "The ink dried and you went quiet."',
+  '- Bank: ST-0002 | target: sideways | receipt: confirmed (NAR, 2026)',
+  '',
+  '**2. [TIP] Listing with no showing instructions, nobody answers**',
+  '- Hook: "Your listing just rejected a buyer for you."',
+  '- Bank: ST-0011 | target: sideways | receipt: confirmed (Virtuance, 2026)',
+  '',
+  '**4. [NEWS] Mortgage rates just hit a 13-month high**',
+  '- Angle: the 30-year fixed climbed to 6.71%.',
+  '',
+  'Reply with the number and I will draft the full script.',
+].join('\n');
+const blockOf = (b, n) => vm.runInContext(
+  'optionBlock(' + JSON.stringify(b) + ',' + JSON.stringify(n) + ')', G);
+const headOf = (b, n) => vm.runInContext(
+  'optionHeadline(' + JSON.stringify(b) + ',' + JSON.stringify(n) + ')', G);
+const bankOf = (b, n) => vm.runInContext(
+  'optionBankId(' + JSON.stringify(b) + ',' + JSON.stringify(n) + ')', G);
+const noteOf = s => vm.runInContext('pickNote(' + JSON.stringify(s) + ')', G);
+
+check('option 1 block stops before option 2',
+  /ST-0002/.test(blockOf(TIP_BRIEF, '1')) && !/ST-0011/.test(blockOf(TIP_BRIEF, '1')),
+  blockOf(TIP_BRIEF, '1'));
+check('option 2 block is option 2 only',
+  /ST-0011/.test(blockOf(TIP_BRIEF, '2')) && !/ST-0002/.test(blockOf(TIP_BRIEF, '2')),
+  blockOf(TIP_BRIEF, '2'));
+check('the last option runs to the end without swallowing a neighbour',
+  /13-month high/.test(blockOf(TIP_BRIEF, '4')) && !/ST-0011/.test(blockOf(TIP_BRIEF, '4')),
+  blockOf(TIP_BRIEF, '4'));
+check('headline strips the marker and the asterisks',
+  headOf(TIP_BRIEF, '1') === '[TIP] Going radio silent after the contract signs',
+  JSON.stringify(headOf(TIP_BRIEF, '1')));
+check('bank id per option', bankOf(TIP_BRIEF, '1') === 'ST-0002' && bankOf(TIP_BRIEF, '2') === 'ST-0011',
+  bankOf(TIP_BRIEF, '1') + '/' + bankOf(TIP_BRIEF, '2'));
+check('a [NEWS] option has no bank id, so the check is skipped',
+  bankOf(TIP_BRIEF, '4') === null, String(bankOf(TIP_BRIEF, '4')));
+check('the local brief shape ("## 2. ...") reads too',
+  /ST-0011/.test(blockOf('## 1. Radio silence\n\nST-0002\n\n## 2. No showing instructions\n\nST-0011\n', '2')),
+  blockOf('## 1. Radio silence\n\nST-0002\n\n## 2. No showing instructions\n\nST-0011\n', '2'));
+check('pickNote drops the pick line and keeps the instruction',
+  noteOf('1. 2\nmake it about the buyer side') === 'make it about the buyer side',
+  JSON.stringify(noteOf('1. 2\nmake it about the buyer side')));
+check('pickNote keeps nothing from a bare pick',
+  noteOf('1. 2\n\nOn Thu, Sep 10, 2026 D.J. wrote:\n> 1. One') === '',
+  JSON.stringify(noteOf('1. 2\n\nOn Thu, Sep 10, 2026 D.J. wrote:\n> 1. One')));
+
+// A complete, well-formed [TIP] script for a given bank id. The whole point of
+// the 9/10 failure is that this passes every structural check while being the
+// wrong story, so the fixture has to be genuinely valid.
+const VALID_TIP = id => VALID_SCRIPT.replace(
+  /^---\n/, '---\nbank_id: "' + id + '"\n');
+
+console.log('\nM3. The prompt: the pick selects the option, not the reply text');
+function promptFor(brief, reply, pick) {
+  const ctx = makeEnv({ keepRealGenerator: true });
+  let sent = null;
+  ctx.env.UrlFetchApp = {
+    fetch: (url, opts) => {
+      sent = JSON.parse(opts.payload).messages[0].content;
+      return { getResponseCode: () => 200, getContentText: () => JSON.stringify(say(VALID_TIP('ST-0002'))) };
+    },
+  };
+  try { ctx.env.generateScript('sk-test', brief, reply, pick); } catch (e) {}
+  return sent;
+}
+const sentPrompt = promptFor(TIP_BRIEF, '1. 2\nkeep it under 30 seconds', '1');
+check('it quotes the picked option verbatim', /ST-0002/.test(sentPrompt), '');
+check('it does NOT hand over the raw "1. 2" pick line',
+  !/1\. 2/.test(sentPrompt.split(TIP_BRIEF).join('')), 'the pick line is what confused the model');
+check('it carries his actual note', /keep it under 30 seconds/.test(sentPrompt), '');
+check('it says the number is authoritative', /authoritative/.test(sentPrompt), '');
+
+console.log('\nM4. A script for the wrong option is caught, corrected once, then fails closed');
+function callGenerateOn(brief, pick, bodies) {
+  const ctx = makeEnv({ keepRealGenerator: true });
+  let i = 0;
+  ctx.env.UrlFetchApp = {
+    fetch: () => {
+      const body = bodies[Math.min(i, bodies.length - 1)];
+      i++;
+      return { getResponseCode: () => 200, getContentText: () => JSON.stringify(body) };
+    },
+  };
+  let out = null, err = null;
+  try { out = ctx.env.generateScript('sk-test', brief, '1', pick); }
+  catch (e) { err = e; }
+  return { out, err, calls: i };
+}
+
+let w = callGenerateOn(TIP_BRIEF, '1', [say(VALID_TIP('ST-0011')), say(VALID_TIP('ST-0002'))]);
+check('THE 9/10 BUG: a complete script for the wrong option is not accepted', w.calls === 2,
+  'api calls=' + w.calls);
+check('and the right option is what gets returned', /ST-0002/.test(w.out || ''), String(w.out).slice(0, 60));
+
+w = callGenerateOn(TIP_BRIEF, '1', [say(VALID_TIP('ST-0011'))]);
+check('twice in a row throws instead of mailing the wrong story',
+  !!(w.err && /wrong option/.test(w.err.message)), String(w.err));
+check('it fails CLOSED', !!(w.err && w.err.retryable === false), String(w.err && w.err.retryable));
+
+w = callGenerateOn(TIP_BRIEF, '1', [say(VALID_TIP('ST-0002'))]);
+check('the right option still costs exactly one call', w.calls === 1, 'api calls=' + w.calls);
+
+// A [NEWS] pick has no bank id to check against, and must not be held up by it.
+w = callGenerateOn(TIP_BRIEF, '4', [say(VALID_SCRIPT)]);
+check('a [NEWS] pick is unaffected by the bank check', w.calls === 1 && w.out === VALID_SCRIPT,
+  'api calls=' + w.calls);
+
+console.log('\nM5. End to end: "1. 2" now delivers both, and the header still identifies us');
+let m = run({ brief: TIP_BRIEF, reply: '1. 2' });
+check('first run builds option 1', m.calls.length === 1 && m.calls[0] === '1', JSON.stringify(m.calls));
+check('and says option 2 is still coming', /Still working on 2/.test(m.replies[0]), m.replies[0]);
+check('the reply says which story it built', /Going radio silent/.test(m.replies[0]),
+  m.replies[0].split('\n').slice(0, 3).join(' | '));
+check('THE AUG 15 CONTRACT: the first line is still exactly "Option 1:"',
+  m.replies[0].split('\n')[0] === 'Option 1:', JSON.stringify(m.replies[0].split('\n')[0]));
+
+// Our own delivery, echo line and all, must still read as ours -- otherwise the
+// walk-back in newestPickBody picks it up as a fresh instruction from D.J.
+check('our echoed reply is still recognized as ours',
+  vm.runInContext('isGeneratedReply(' + JSON.stringify(m.replies[0]) + ')', G),
+  'if this fails, the Aug 15 silent-stop bug is back');
+
+m = run({ brief: TIP_BRIEF, reply: '1. 2', props: { 'wt:THREAD1': m.store['wt:THREAD1'] } });
+check('second run builds option 2 -- the story that used to vanish',
+  m.calls.length === 1 && m.calls[0] === '2', JSON.stringify(m.calls));
+
+
 console.log('\n' + pass + ' passed, ' + fail + ' failed\n');
 process.exit(fail ? 1 : 0);

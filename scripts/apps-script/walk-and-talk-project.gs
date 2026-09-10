@@ -309,7 +309,16 @@ function runOneReplyJob() {
       writeThreadState(threadId, state);
 
       const pending = picks.filter(function (p) { return !state.done[p]; });
-      let body = REPLY_PREFIX + pick + ':\n\n\n' + script;
+
+      // The first line stays EXACTLY "Option N:" -- isGeneratedReply() keys off
+      // it, and the Aug 15 bug comes straight back if this header drifts. The
+      // echo of what was picked goes on the line below it, where it can say out
+      // loud which story this is without breaking that contract. A wrong number
+      // in the header is then visible in the same glance as the script.
+      const headline = optionHeadline(msgs[0].getPlainBody(), pick);
+      let body = REPLY_PREFIX + pick + ':\n\n' +
+                 (headline ? '(building: ' + headline + '. Not what you picked? Reply with just the number.)\n\n' : '') +
+                 '\n' + script;
       if (pending.length) {
         body += '\n\n\nStill working on ' + pending.join(', ') +
                 '. Each one arrives as its own reply, a few minutes apart.';
@@ -388,7 +397,17 @@ function parsePicks(replyBody) {
   const above = (replyBody || '').split(/On .*?wrote:/s)[0].split(/\n\s*>/)[0];
   const firstLine = (above.trim().split(/\r?\n/)[0] || '');
 
-  const lead = firstLine.match(/^\s*(?:options?\s*)?#?\s*([1-8](?:\s*(?:,|and|&|\+|\/)\s*#?\s*[1-8])*)/i);
+  // Separators. The set used to be , and & + / -- which meant "1. 2" and "1 2"
+  // parsed as a pick of 1 and the second story was silently dropped (2026-09-10:
+  // D.J. replied "1. 2", got one script, and nothing anywhere said option 1 was
+  // never built). A period and a bare space are how a numbered pick actually
+  // gets typed on a phone, so both are separators now, and the separator itself
+  // is optional.
+  //
+  // The (?![0-9]) after every digit is what keeps that safe: it makes each pick
+  // a standalone 1-8, so "45 seconds" cannot decompose into 4 and 5 and an
+  // optional separator cannot glue "12" together out of 1 and 2.
+  const lead = firstLine.match(/^\s*(?:options?\s*)?#?\s*([1-8](?![0-9])(?:\s*(?:,|;|\.|&|\+|\/|and|plus|then)?\s*#?[1-8](?![0-9]))*)/i);
   let digits;
   if (lead) {
     digits = lead[1].match(/[1-8]/g) || [];
@@ -460,13 +479,89 @@ function notifyPickFailed(pick, err) {
   });
 }
 
+/* ---------- 3c. Reading one option out of the brief ---------- */
+//
+// THE 2026-09-10 BUG. generateScript used to hand the model the raw reply text
+// AND the pick number. D.J. typed "1. 2"; the parser called it a pick of 1, the
+// prompt said "He is choosing option 1", and the model read his literal "1. 2"
+// as a numbered list, built option 2 (ST-0011), and it went out under the
+// header "Option 1:". One script, wrong number on it, and the option he was
+// told he was getting never existed.
+//
+// The pick is now the only thing that selects an option: the chosen option is
+// quoted out of the brief verbatim, the raw reply never reaches the model as
+// an instruction, and anything else he typed arrives labelled as a note.
+
+// The brief's block for one option: its heading line through the line before
+// the next option's heading. Matches both brief shapes -- the emailed
+// "**2. [TIP] ...**" and the local file's "## 2. ...".
+function optionBlock(brief, pick) {
+  const headRe = new RegExp('^[ \\t]*(?:#+[ \\t]*)?\\**' + pick + '[.)]', 'm');
+  const start = headRe.exec(brief || '');
+  if (!start) return '';
+  const rest = (brief || '').slice(start.index);
+  const nextRe = /\n[ \t]*(?:#+[ \t]*)?\**[1-8][.)]/;
+  const next = nextRe.exec(rest.slice(1));
+  return (next ? rest.slice(0, next.index + 1) : rest).trim();
+}
+
+// The option's headline, for the prompt and for the line that tells D.J. which
+// option this reply is answering.
+function optionHeadline(brief, pick) {
+  const first = (optionBlock(brief, pick).split(/\r?\n/)[0] || '');
+  return first
+    .replace(/^[ \t]*#+[ \t]*/, '')
+    .replace(/\*\*/g, '')
+    .replace(new RegExp('^[ \\t]*' + pick + '[.)]\\s*'), '')
+    .trim();
+}
+
+// Everything D.J. typed under the pick line -- "make it about the buyer side,"
+// "45 seconds if you can." The pick line itself is dropped, because that is the
+// line whose digits already did their job in parsePicks and whose stray
+// punctuation is what confused the model in the first place.
+function pickNote(replyBody) {
+  const above = (replyBody || '').split(/On .*?wrote:/s)[0].split(/\n\s*>/)[0];
+  return above.trim().split(/\r?\n/).slice(1).join('\n').trim();
+}
+
+// The bank id the brief attached to this option. [TIP] options carry one;
+// [NEWS] options do not, and null simply skips the check below.
+function optionBankId(brief, pick) {
+  const m = optionBlock(brief, pick).match(/\bST-\d{4}\b/);
+  return m ? m[0] : null;
+}
+
+// Did the model build the option it was asked for? For a [TIP] the answer is
+// mechanical: the frontmatter bank_id has to be the option's bank id. This is
+// the check that would have caught 2026-09-10 -- the script that came back was
+// a real, complete, well-formed script, so every structural check passed. It
+// was just a script for a different option than the header claimed.
+function wrongBankId(text, expected) {
+  if (!expected) return null;
+  const m = (text || '').match(/^bank_id:\s*"?(ST-\d{4})"?/m);
+  if (!m) return 'frontmatter has no bank_id (expected ' + expected + ')';
+  if (m[1] !== expected) return 'built ' + m[1] + ' but the pick is ' + expected;
+  return null;
+}
+
+const PICK_CORRECTION =
+  'That script is for the wrong option. Rebuild it for the option quoted verbatim above -- ' +
+  'the one whose bank id is in its frontmatter line -- and change nothing else about the format. ' +
+  'Output the full file again as your entire response, starting with the opening --- of the frontmatter.';
+
 /* ---------- 4. Generate one script: web-verify the facts, then write the full file ---------- */
 function generateScript(apiKey, brief, reply, pick) {
+  const block = optionBlock(brief, pick);
+  const headline = optionHeadline(brief, pick);
+  const note = pickNote(reply);
   const userMsg =
     "Here is this morning's Walk & Talk brief I emailed D.J.:\n\n" + brief +
-    "\n\n---\n\nD.J. replied:\n\n" + reply +
-    "\n\nHe is choosing option " + pick +
-    ". Run all four passes on it -- draft, stress test (web search, correct anything wrong or unverifiable), EP polish, council review -- then put the finished v3 script plus its Council Review block directly in your reply. Work in any note he added." +
+    "\n\n---\n\nHe picked option " + pick + (headline ? ": " + headline : "") + "." +
+    (block ? "\n\nThat option, verbatim from the brief -- this and nothing else is what you build:\n\n" + block : "") +
+    "\n\nThe option number above was parsed from his reply and it is authoritative. Other digits may appear in what he typed (a list marker, a length request, a second pick that is being built in its own separate run) and NONE of them change which option this is. If anything seems to point somewhere else, build option " + pick + " anyway." +
+    (note ? "\n\nHe added this note. Work it in:\n\n" + note : "") +
+    "\n\nRun all four passes on it -- draft, stress test (web search, correct anything wrong or unverifiable), EP polish, council review -- then put the finished v3 script plus its Council Review block directly in your reply." +
     (isTipOption(brief, pick) ? "\n\n" + TIP_BUILD_NOTE : "");
 
   let messages = [{ role: 'user', content: userMsg }];
@@ -533,6 +628,24 @@ function generateScript(apiKey, brief, reply, pick) {
       console.warn('option ' + pick + ' | format correction, missing: ' + missing.join(', '));
       messages.push({ role: 'assistant', content: data.content });
       messages.push({ role: 'user', content: FORMAT_CORRECTION });
+      continue;
+    }
+
+    // The structure is right. Is it the right OPTION? Every structural check
+    // above passed on 2026-09-10 and the script was still for the wrong story,
+    // because a complete script for option 2 looks exactly like a complete
+    // script for option 1. Same principle as the rest of this file: check the
+    // artifact, not the claim -- and here the artifact has the option's bank id
+    // stamped in its own frontmatter.
+    const mismatch = wrongBankId(text, optionBankId(brief, pick));
+    if (mismatch) {
+      if (corrections >= MAX_FORMAT_CORRECTIONS) {
+        throw tagged('model kept building the wrong option (' + mismatch + ')', false);
+      }
+      corrections++;
+      console.warn('option ' + pick + ' | wrong-option correction: ' + mismatch);
+      messages.push({ role: 'assistant', content: data.content });
+      messages.push({ role: 'user', content: PICK_CORRECTION });
       continue;
     }
     return text;
