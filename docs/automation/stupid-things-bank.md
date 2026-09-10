@@ -52,8 +52,47 @@ Hourly (weekdays)        Walk & Talk Reply -> Content Board posts each Apps-Scri
 Weekly (Sun 6:00am CT)   Backstop. Before the health check, the Bank Check routine reads the week's
                          "Walk & Talk Options" threads, finds generated tip scripts by their
                          bank_id line, and runs `log` for each, so email-built tips leave the
-                         pool. Then health, then the refill branch as before.
+                         pool. Then `board-check` (exit 12 = the bank disagrees with what has
+                         actually been built), then health, then the refill branch as before.
 ```
+
+## board-check: the bank against the artifacts (2026-09-10)
+
+```
+python3 scripts/stupid_things.py board-check     # exit 0 = agrees, exit 12 = does not
+python3 scripts/stupid_things.py board-check --json
+python3 scripts/tests/test_board_check.py        # 18 cases, offline, no deps
+```
+
+The Sunday log step above only covers tips built by the **email** path, because Gmail is the
+only place it looks. A tip built in Claude Code, or one whose script was written straight onto
+the Content Board, leaves no trace it can see. `board-check` closes that by reading the bank
+next to the two places a finished script actually lands: the committed board cache
+(`data/content-board-state.json`) and `scripts/stupid-things/`. It is offline and
+deterministic like the rest of the engine -- no Notion call, and the routine only needs the
+exit code.
+
+Three disagreements, all of which had already happened when it was written:
+
+| It finds | What it means | Why it matters |
+|---|---|---|
+| **BUILT BUT STILL OPEN** | A board row or repo script exists for an angle the bank still offers | The brief offers it again and it gets built twice |
+| **RECEIPT SAYS CONFIRMED, THE SCRIPT SAYS OTHERWISE** | A build re-verified the receipt, found it did not hold, and the finding never reached the bank | The brief keeps printing a claim that a build already disproved |
+| **LOGGED BUT THE SCRIPT IS NOT THERE** | An angle is marked spent and its script path does not exist | The angle is gone and so is the work |
+
+**The morning that produced it.** ST-0002 was built on 2026-08-23, posted to the board, and
+never logged, so the 2026-09-10 brief offered it again and D.J. picked it. That same 2026-08-23
+build had *also* re-verified the receipt and found the cited NAR page was from April 2024 and
+said nothing about a responsiveness ranking -- and that finding sat in the script for eighteen
+days while the brief kept printing `receipt: confirmed (NAR, 2026)`. Neither fault is visible
+from inside the bank. Both are obvious the moment the bank is read next to the artifacts.
+
+The first run found **five** more built-but-open angles, so this was never a one-off.
+
+**It reports what it cannot check rather than skipping it.** A board row whose ref carries no
+bank id, or whose angle number and angle text point at different angles, comes back under
+COULD NOT BE CHECKED. Guessing which angle a script belongs to would spend the wrong one, and a
+silent skip is how the thing this check exists to catch would slip past the check itself.
 
 **Why the Sunday log step exists.** The Apps Script generator is one API call with no
 filesystem, so a tip it builds cannot mark its own angle used. Without the Sunday step the

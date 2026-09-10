@@ -68,6 +68,31 @@ BANK_START = "<!-- BANK:START -->"
 BANK_END = "<!-- BANK:END -->"
 
 EXIT_REFILL_DUE = 10
+EXIT_INCONSISTENT = 12   # board-check found a bank/board disagreement
+
+BOARD_STATE = REPO_ROOT / "data" / "content-board-state.json"
+SCRIPTS_DIR = REPO_ROOT / "scripts" / "stupid-things"
+LANE = "Stupid Things Realtors Do"
+
+# The board cache stores this lane's rows with a ref like:
+#   "stupid-things.md ST-0002 angle 1: the published response standard"
+# The angle number is 1-based there and 0-based in the bank.
+BOARD_REF_RE = re.compile(r"\bST-(\d{4})\b(?:\s+angle\s+(\d+))?\s*:?\s*(.*)", re.I)
+
+# Phrases a finished script uses when its receipt did NOT survive build-time
+# re-verification. If a script says one of these and the bank still calls that
+# entry's receipt "confirmed", the bank is lying to tomorrow's brief.
+RECEIPT_FAIL_MARKERS = (
+    "not confirmed",
+    "does not verify",
+    "do not verify",
+    "does not support",
+    "needs receipt",
+    "no statistic is spoken",
+    "no number is spoken",
+    "zero cited statistics",
+    "zero spoken numbers",
+)
 
 # Auto-merge only on near-certainty. Everything below this and above the review
 # floor gets created AND flagged for a human call.
@@ -744,6 +769,243 @@ def cmd_render(data, args):
 
 
 # ---------------------------------------------------------------------------
+# board-check: does the bank still agree with what has actually been built?
+#
+# WHY THIS EXISTS (2026-09-10). The bank is the only thing deciding what the
+# 5:30am brief offers, and it can be wrong in two directions at once. Both
+# happened to ST-0002 on the same morning:
+#
+#   1. A script for angle 1 was built on 2026-08-23 and posted to the Content
+#      Board. `log` was never run, so the angle stayed "open", and eighteen days
+#      later the brief offered it again. D.J. picked it and it was built twice.
+#
+#   2. That 2026-08-23 build ALSO re-verified the receipt and found it did not
+#      hold -- the cited NAR page is from April 2024 and says nothing about a
+#      responsiveness ranking. The finding lived in the script and never reached
+#      the bank, so the brief kept printing "receipt: confirmed (NAR, 2026)" on
+#      a claim that had already been disproved once.
+#
+# Neither is visible from inside the bank. Both are obvious the moment the bank
+# is read next to the artifacts, which is all this does. It is offline and
+# deterministic like the rest of this file: the board cache is committed
+# (data/content-board-state.json) and the scripts are in the repo, so no Notion
+# call is needed and the Sunday routine gets a bare exit code.
+#
+# Exit 12 = disagreements found. Exit 0 = the bank matches what exists.
+def board_rows(path):
+    """Lane rows on the board that already carry a finished script body."""
+    if not path.exists():
+        return None
+    try:
+        data = json.loads(path.read_text())
+    except json.JSONDecodeError as e:
+        die(f"board state is not valid JSON: {e}")
+    out = []
+    for url, row in (data.get("rows") or {}).items():
+        if row.get("lane") != LANE or not row.get("has_body"):
+            continue
+        ref = row.get("ref") or ""
+        m = BOARD_REF_RE.search(ref)
+        if not m:
+            # A row with a body and no bank id in its ref cannot be matched back
+            # to an angle. Reported rather than dropped -- a silent skip here is
+            # how the thing this check exists to catch would slip past it.
+            out.append({"url": url, "ref": ref, "bank_id": None,
+                        "angle_no": None, "angle_text": ""})
+            continue
+        out.append({
+            "url": url,
+            "ref": ref,
+            "bank_id": "ST-" + m.group(1),
+            "angle_no": int(m.group(2)) if m.group(2) else None,
+            "angle_text": (m.group(3) or "").strip(),
+        })
+    return out
+
+
+def repo_scripts():
+    """Every built script under scripts/stupid-things/ that names a bank id."""
+    out = []
+    if not SCRIPTS_DIR.exists():
+        return out
+    for f in sorted(SCRIPTS_DIR.rglob("*.md")):
+        text = f.read_text(errors="replace")
+        m = re.search(r'^bank_id:\s*"?(ST-\d{4})"?', text, re.M)
+        if not m:
+            continue
+        out.append({
+            "path": str(f.relative_to(REPO_ROOT)),
+            "bank_id": m.group(1),
+            "text": text,
+            "archived": "archive" in f.parts,
+        })
+    return out
+
+
+def match_angle(entry, angle_no, angle_text):
+    """Which angle on this entry does a board ref point at?
+
+    The ref carries a 1-based number AND the angle's text. Trusting the number
+    alone breaks the moment an angle is inserted or merged ahead of it, and
+    trusting the text alone is fuzzy matching on a decision that must not be
+    guessed. So: take the number, then make the text confirm it, and when they
+    disagree say so instead of picking a winner.
+    """
+    angles = entry.get("angles", [])
+    if not angles:
+        return None, "entry has no angles"
+    by_text = None
+    if angle_text:
+        scored = sorted(
+            ((similarity(angle_text, a.get("angle", "")), i) for i, a in enumerate(angles)),
+            reverse=True)
+        if scored and scored[0][0] >= ANGLE_DUP_THRESHOLD:
+            by_text = scored[0][1]
+    if angle_no is not None and 1 <= angle_no <= len(angles):
+        idx = angle_no - 1
+        if by_text is not None and by_text != idx:
+            return None, (f"ref says angle {angle_no} but its text matches angle "
+                          f"{by_text + 1} -- resolve by hand")
+        return idx, None
+    if by_text is not None:
+        return by_text, None
+    return None, "could not match the ref to an angle"
+
+
+def cmd_board_check(data, args):
+    entries = {e["id"]: e for e in data["entries"]}
+    rows = board_rows(Path(args.board) if args.board else BOARD_STATE)
+    scripts = repo_scripts()
+
+    built_but_open, receipt_conflicts, missing_scripts, unmatched = [], [], [], []
+
+    # 1. An angle that has been BUILT but is still offered as open.
+    #    Board rows and repo scripts are both evidence of a build.
+    seen = set()
+    for row in rows or []:
+        if not row["bank_id"]:
+            unmatched.append({"reason": "no bank id in the board ref", **row})
+            continue
+        entry = entries.get(row["bank_id"])
+        if not entry:
+            unmatched.append({"reason": "bank has no such entry", **row})
+            continue
+        idx, why = match_angle(entry, row["angle_no"], row["angle_text"])
+        if idx is None:
+            unmatched.append({"reason": why, **row})
+            continue
+        seen.add((row["bank_id"], idx))
+        if entry["angles"][idx].get("status") == "open":
+            built_but_open.append({
+                "id": row["bank_id"], "angle": idx,
+                "angle_text": entry["angles"][idx].get("angle", ""),
+                "evidence": "board row", "where": row["url"],
+            })
+
+    for sc in scripts:
+        entry = entries.get(sc["bank_id"])
+        if not entry:
+            unmatched.append({"reason": "bank has no such entry",
+                              "ref": sc["path"], "bank_id": sc["bank_id"]})
+            continue
+        # A repo script names its entry but not which angle, so it only proves a
+        # build when the entry has exactly one angle or when no angle on it is
+        # used at all. Anything else would be a guess.
+        if sc["archived"]:
+            continue
+        used = [i for i, a in enumerate(entry["angles"]) if a.get("status") != "open"]
+        if not used:
+            built_but_open.append({
+                "id": sc["bank_id"], "angle": None,
+                "angle_text": "(script names the entry, not an angle)",
+                "evidence": "repo script", "where": sc["path"],
+            })
+
+    # 2. A receipt the bank calls confirmed that a built script says failed.
+    for sc in scripts:
+        entry = entries.get(sc["bank_id"])
+        if not entry or entry.get("receipt", {}).get("status") != "confirmed":
+            continue
+        body = sc["text"].lower()
+        ds = body.split("## data source", 1)
+        hay = ds[1] if len(ds) > 1 else body
+        hits = [m for m in RECEIPT_FAIL_MARKERS if m in hay]
+        if hits:
+            receipt_conflicts.append({
+                "id": sc["bank_id"], "script": sc["path"], "markers": hits,
+                "claim": entry.get("receipt", {}).get("claim", "")[:120],
+            })
+
+    # 3. An angle logged as used whose script is not where it says it is.
+    #    "board: <url>" refs are Notion-only by design and are not checked here.
+    for eid, entry in entries.items():
+        for i, a in enumerate(entry.get("angles", [])):
+            if a.get("status") == "open":
+                continue
+            ref = a.get("script") or ""
+            if not ref or ref.startswith("board:") or ref.startswith("http"):
+                continue
+            if not (REPO_ROOT / ref).exists():
+                missing_scripts.append({"id": eid, "angle": i, "script": ref})
+
+    problems = len(built_but_open) + len(receipt_conflicts) + len(missing_scripts)
+
+    if args.json:
+        print(json.dumps({
+            "built_but_open": built_but_open,
+            "receipt_conflicts": receipt_conflicts,
+            "missing_scripts": missing_scripts,
+            "unmatched": unmatched,
+            "problems": problems,
+        }, indent=2))
+        return EXIT_INCONSISTENT if problems else 0
+
+    if rows is None:
+        print(f"note: no board cache at {BOARD_STATE}. Checked the repo scripts only.")
+
+    if built_but_open:
+        print(f"BUILT BUT STILL OPEN ({len(built_but_open)}) "
+              "-- the brief will offer these again, and they will get built twice:")
+        for b in built_but_open:
+            label = f"angle {b['angle'] + 1}" if b["angle"] is not None else "angle unknown"
+            print(f"  {b['id']} {label}: {b['angle_text']}")
+            print(f"    built: {b['evidence']} -> {b['where']}")
+            if b["angle"] is not None:
+                print(f"    fix:   python3 scripts/stupid_things.py log --id {b['id']} "
+                      f"--angle {b['angle']} --script <path>")
+        print()
+
+    if receipt_conflicts:
+        print(f"RECEIPT SAYS CONFIRMED, THE SCRIPT SAYS OTHERWISE ({len(receipt_conflicts)}) "
+              "-- the brief is printing a claim a build already disproved:")
+        for r in receipt_conflicts:
+            print(f"  {r['id']}: bank claims \"{r['claim']}\"")
+            print(f"    {r['script']} says: {', '.join(r['markers'])}")
+            print(f"    fix:   set the entry's receipt.status to \"needed\" and record what failed")
+        print()
+
+    if missing_scripts:
+        print(f"LOGGED BUT THE SCRIPT IS NOT THERE ({len(missing_scripts)}) "
+              "-- the angle is spent and the work is gone:")
+        for m in missing_scripts:
+            print(f"  {m['id']} angle {m['angle'] + 1} -> {m['script']}")
+        print()
+
+    if unmatched:
+        print(f"COULD NOT BE CHECKED ({len(unmatched)}) -- reported, not skipped:")
+        for u in unmatched:
+            print(f"  {u.get('reason')}: {u.get('ref') or u.get('url')}")
+        print()
+
+    if not problems:
+        print("Bank agrees with the board and the repo: "
+              "every built angle is logged, and no confirmed receipt is contradicted.")
+        return 0
+    print(f"{problems} disagreement(s). Exit {EXIT_INCONSISTENT}.")
+    return EXIT_INCONSISTENT
+
+
+# ---------------------------------------------------------------------------
 def main():
     p = argparse.ArgumentParser(description=__doc__.split("\n")[1])
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -779,6 +1041,14 @@ def main():
     m.add_argument("--from", dest="src", required=True)
     m.add_argument("--into", required=True)
     m.set_defaults(fn=cmd_merge)
+
+    bc = sub.add_parser("board-check",
+                        help="Does the bank still agree with what has been built? "
+                             "Exit 12 means no")
+    bc.add_argument("--board", default=None,
+                    help=f"Board state JSON (default {BOARD_STATE.name})")
+    bc.add_argument("--json", action="store_true")
+    bc.set_defaults(fn=cmd_board_check)
 
     r = sub.add_parser("render", help="Regenerate the markdown view")
     r.set_defaults(fn=cmd_render)

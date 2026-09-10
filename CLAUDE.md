@@ -344,6 +344,12 @@ for this lane, not a slot: a take is a tip with a who-profits beat.
    drop it or run the script without a number. Never soften an unverified figure into a claim.
 5. **Log the angle when the script is done**, or it stays in the pool and gets built twice:
    `python3 scripts/stupid_things.py log --id ST-00XX --script scripts/stupid-things/...md`
+   A script that lives only on the Content Board logs as `--script "board: <notion url>"`.
+6. **`python3 scripts/stupid_things.py board-check`** reads the bank against the board cache and
+   the repo scripts and exits 12 if they disagree: an angle already built but still offered, a
+   receipt the bank calls confirmed that a build disproved, or an angle logged against a script
+   that is not there. It runs in the Sunday backstop; run it by hand after any out-of-band build.
+   See [`docs/automation/stupid-things-bank.md`](docs/automation/stupid-things-bank.md).
 
 **Availability is counted in angles, not practices** (D.J., 2026-08-13). The same practice runs
 again as long as the angle on the *solution* is new; a reword is not a new angle and
