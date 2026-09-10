@@ -379,7 +379,17 @@
    "has_body": true,
    "lane": "KIRP Episode",
    "ref": "scripts/podcast-promos/kir-2026-06-25-paul-salter.md"
+  },
+  "https://app.notion.com/p/3d7313fa289281128b8cdb81ce3a02ef": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-10.md full story list, Redfin News: Housing Supply Hits 6-Year High As New Listings Jump (Redfin, 2026-09-09)"
+  },
+  "https://app.notion.com/p/3d7313fa2892818f93b3eba4bf10f0f1": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-10.md #1 Broker Suing NAR Has Appeal Denied as MLS Access Lawsuits Sputter (RISMedia, 2026-09-09)"
   }
  },
- "updated": "2026-09-09"
+ "updated": "2026-09-10"
 }
