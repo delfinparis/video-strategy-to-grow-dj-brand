@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-08-13",
+  "updated": "2026-09-10",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -615,7 +615,9 @@
         {
           "angle": "A showing that never happened looks exactly like a house nobody wanted, and the seller can't tell the difference",
           "swap": "Open your own active listings in the MLS as if you were a buyer's agent. If you can't figure out how to get in within thirty seconds, neither can they.",
-          "status": "open"
+          "status": "used",
+          "used_date": "2026-09-10",
+          "script": "board: https://app.notion.com/p/3d7313fa289281679677c7f1decea2c8"
         },
         {
           "angle": "Every hoop is a filter that removes buyers, and the seller should hear that tradeoff out loud",
@@ -2458,6 +2460,12 @@
       "id": "ST-0001",
       "angle": "The pre-listing number conversation: say the honest-number line before you ever give a figure",
       "script": "scripts/stupid-things/STUPID-001-you-bought-that-listing.md"
+    },
+    {
+      "date": "2026-09-10",
+      "id": "ST-0011",
+      "angle": "A showing that never happened looks exactly like a house nobody wanted, and the seller can't tell the difference",
+      "script": "board: https://app.notion.com/p/3d7313fa289281679677c7f1decea2c8"
     }
   ],
   "rejected": [
