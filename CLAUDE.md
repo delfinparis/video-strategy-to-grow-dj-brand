@@ -350,6 +350,12 @@ for this lane, not a slot: a take is a tip with a who-profits beat.
    receipt the bank calls confirmed that a build disproved, or an angle logged against a script
    that is not there. It runs in the Sunday backstop; run it by hand after any out-of-band build.
    See [`docs/automation/stupid-things-bank.md`](docs/automation/stupid-things-bank.md).
+7. **`python3 scripts/stupid_things.py receipt-check`** runs the intake receipt gate over the
+   whole bank and exits 13 if a banked `confirmed` receipt would be refused today: a vendor or
+   aggregator source, or a `year` that disagrees with the source's real publication date. On
+   2026-09-10 an audit of all 39 confirmed receipts found 19 false and 11 partly wrong
+   ([the audit](docs/audits/2026-09-10-stupid-things-receipt-audit.md)). **The bank is a
+   shortlist, not a clearance. Re-verify at build time on every path, every time.**
 
 **Availability is counted in angles, not practices** (D.J., 2026-08-13). The same practice runs
 again as long as the angle on the *solution* is new; a reword is not a new angle and

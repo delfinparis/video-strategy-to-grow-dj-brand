@@ -64,6 +64,9 @@ python3 scripts/stupid_things.py board-check --json
 python3 scripts/tests/test_board_check.py        # 18 cases, offline, no deps
 ```
 
+See also `receipt-check` below, which asks the other question: not "was this
+angle already built" but "is this receipt something Rule 1 would accept today."
+
 The Sunday log step above only covers tips built by the **email** path, because Gmail is the
 only place it looks. A tip built in Claude Code, or one whose script was written straight onto
 the Content Board, leaves no trace it can see. `board-check` closes that by reading the bank
@@ -302,3 +305,35 @@ gets skipped.
 **An entry keeps getting picked and never built.** Probably `receipt: needed` on a practice
 where no neutral source exists. Either retire it (`"status": "retired"`) or accept it ships
 without a number, on the strength of the behavior alone.
+
+## receipt-check: the gate, pointed backwards (2026-09-10)
+
+```
+python3 scripts/stupid_things.py receipt-check    # exit 0 = clean, exit 13 = a banked receipt would be refused
+python3 scripts/tests/test_receipt_gate.py        # 25 cases, offline, no deps
+```
+
+On 2026-09-10 all 39 confirmed receipts were re-checked against their own cited
+pages. **19 were false, 11 were partly wrong, 8 held.** Full findings:
+[`../audits/2026-09-10-stupid-things-receipt-audit.md`](../audits/2026-09-10-stupid-things-receipt-audit.md).
+
+Every failure was one of two moves, and both are now refused at intake by
+`screen_receipt()`:
+
+1. **The number came from someone selling something.** A receipt may only be born
+   `confirmed` if its host is on `RECEIPT_SOURCE_ALLOW` -- associations,
+   regulators, courts, statute, the portals' research desks, trade press, real
+   research. Vendor and aggregator pages cannot carry a confirmed receipt. A host
+   can be added deliberately (that is how the IRC got in), never by accident.
+2. **The year was the year it was banked, not the year it was published.** A
+   confirmed receipt must record `published`, the source's real publication date,
+   and it must agree with `year`. A 2019 article banked as 2026 is refused.
+
+A downgrade never deletes the number. The entry keeps it in `original_claim` with
+the reason in `caution`, so the writer still knows the claim exists and still knows
+exactly why it cannot be said flat.
+
+**The caution list needs the same scepticism as the bank.** Five of the seven
+`receipt_cautions` were recommending replacement figures that this audit
+disproved. A list of known-bad numbers is only as good as the numbers it
+recommends instead; re-check the `say_instead` fields whenever a receipt dies.

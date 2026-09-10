@@ -69,6 +69,7 @@ BANK_END = "<!-- BANK:END -->"
 
 EXIT_REFILL_DUE = 10
 EXIT_INCONSISTENT = 12   # board-check found a bank/board disagreement
+EXIT_RECEIPT_GATE = 13   # receipt-check found a receipt the gate would refuse
 
 BOARD_STATE = REPO_ROOT / "data" / "content-board-state.json"
 SCRIPTS_DIR = REPO_ROOT / "scripts" / "stupid-things"
@@ -385,6 +386,85 @@ def cmd_pick(data, args):
 REQUIRED_NEW = ("practice", "category", "target", "angles")
 
 
+# Rule 1 names what a source may be: a verifiable external source (news, research
+# report, court filing, MLS data, an NAR publication), D.J.'s own cited observation,
+# or math on real data. The 2026-09-10 audit re-checked all 39 confirmed receipts
+# in the bank against their own cited pages and 19 of them were false. Every single
+# failure was one of two moves, and both are mechanical enough to refuse at the door:
+#
+#   1. THE NUMBER CAME FROM SOMEONE SELLING SOMETHING. Six of the nine failing
+#      sources were vendors: a marketing-software company, a call-software company,
+#      a photography company grading its own photos, a lead directory. A vendor's
+#      content-marketing page is not a research report even when it is dressed as one.
+#      "71% of buyers prefer agents with a strong social presence" traces to a CRM
+#      vendor; "400% more inquiries" traces to nobody at all.
+#
+#   2. THE YEAR WAS THE YEAR IT WAS BANKED, NOT THE YEAR IT WAS PUBLISHED. A 2019
+#      article resting on a 2013 study went in as "Redfin 2026". A 2011 Harvard
+#      Business Review study went in as 2026. NAR's 2024 Profile went in as 2026.
+#      Rule 1 requires a source AND a publication year, and a wrong year makes a
+#      stale number read as current -- which is the version a commenter beats.
+#
+# So: a receipt may only be born CONFIRMED if its host is somewhere Rule 1 actually
+# accepts, and if it records the source's real publication date and that date agrees
+# with the year on the receipt. Anything else is downgraded to `needed` and says why.
+# The number is never deleted -- the entry keeps it and simply cannot speak it until
+# a human re-sources it.
+RECEIPT_SOURCE_ALLOW = (
+    # Associations, regulators, courts, statute
+    "nar.realtor", ".gov", ".edu", "law.cornell.edu", "codes.findlaw.com",
+    "courtlistener.com", "illinoisrealtors.org", "trec.texas.gov",
+    # Portals and brokerages publishing their own research desks
+    "zillow.com/research", "redfin.com/news", "redfin.com/blog",
+    "realtor.com", "prnewswire.com",
+    # Trade press
+    "housingwire.com", "inman.com", "chicagoagentmagazine.com",
+    "crainschicago.com", "chicagobusiness.com", "blockclubchicago.org",
+    # Research
+    "hbr.org", "mckinsey.com", "relitix.com", "pewresearch.org",
+    # Code publisher. Added deliberately 2026-09-10: the IRC itself is primary for
+    # a building-code fact, where the blog that quotes it is not.
+    "codes.iccsafe.org",
+)
+
+
+def receipt_problems(receipt):
+    """Why this receipt may not call itself confirmed. [(severity, message)]."""
+    problems = []
+    if not receipt or receipt.get("status") != "confirmed":
+        return problems
+
+    url = (receipt.get("url") or "").lower()
+    if not url:
+        problems.append(("hard", "confirmed receipt has no url"))
+    elif not any(a in url for a in RECEIPT_SOURCE_ALLOW):
+        problems.append(("hard",
+                         f"source is not on the Rule 1 allowlist: {url.split('/')[2] if '://' in url else url}. "
+                         "Vendor and aggregator pages cannot carry a confirmed receipt. "
+                         "Re-source to the primary, or add the host to RECEIPT_SOURCE_ALLOW deliberately"))
+
+    pub = str(receipt.get("published") or "").strip()
+    year = receipt.get("year")
+    if not pub:
+        problems.append(("hard",
+                         "confirmed receipt does not record `published` (the SOURCE's publication "
+                         "date). Without it nothing can tell a current figure from a stale one"))
+    elif year and not pub.startswith(str(year)):
+        problems.append(("hard",
+                         f"year {year} disagrees with published {pub}. The year on a receipt is the "
+                         "year the source was published, never the year it was banked"))
+
+    # Only on receipts a human has not already audited. After an audit the claim
+    # field carries the finding in prose, and counting figures in prose is noise.
+    claim = "" if receipt.get("verified_check") else (receipt.get("claim") or "")
+    figures = re.findall(r"\d[\d,.]*\s*(?:%|percent|days?|sides?)|\$[\d,]+", claim)
+    if len(figures) > 1:
+        problems.append(("warn",
+                         f"claim carries {len(figures)} separate figures. Rule 1 bans combining two "
+                         "stats in one sentence -- split them or the script will imply one study"))
+    return problems
+
+
 def screen_receipt(receipt, cautions):
     """Some numbers circulate in this industry with no traceable origin, and a
     few of the best-known ones are cross-industry studies wearing a real estate
@@ -399,6 +479,17 @@ def screen_receipt(receipt, cautions):
     """
     if not receipt or receipt.get("status") != "confirmed":
         return receipt, None
+
+    # The source/year gate runs FIRST. A caution catches a specific bad number by
+    # name; this catches the whole class before anyone has to name it.
+    hard = [m for sev, m in receipt_problems(receipt) if sev == "hard"]
+    if hard:
+        downgraded = dict(receipt)
+        downgraded["status"] = "needed"
+        downgraded["caution"] = "; ".join(hard)
+        downgraded["original_claim"] = receipt.get("claim", "")
+        return downgraded, "receipt gate: " + hard[0]
+
     blob = " ".join(str(v) for v in receipt.values()).lower()
     for c in cautions:
         for term in c.get("match_terms", []):
@@ -1006,6 +1097,44 @@ def cmd_board_check(data, args):
 
 
 # ---------------------------------------------------------------------------
+# receipt-check: run the intake gate across receipts already in the bank.
+#
+# The gate above stops a bad receipt at the door. This is the same gate pointed
+# backwards, because the bank was filled for weeks before the gate existed and
+# nothing else would ever look at those entries again. Exit 13 = a confirmed
+# receipt in the bank would not be allowed in today.
+def cmd_receipt_check(data, args):
+    hard_rows, warn_rows = [], []
+    for e in data["entries"]:
+        for sev, msg in receipt_problems(e.get("receipt", {})):
+            (hard_rows if sev == "hard" else warn_rows).append((e["id"], msg))
+
+    if args.json:
+        print(json.dumps({"hard": hard_rows, "warn": warn_rows}, indent=2))
+        return EXIT_RECEIPT_GATE if hard_rows else 0
+
+    confirmed = sum(1 for e in data["entries"]
+                    if e.get("receipt", {}).get("status") == "confirmed")
+    if hard_rows:
+        print(f"WOULD BE REFUSED TODAY ({len(hard_rows)}) -- confirmed receipts that "
+              "the intake gate would not accept:")
+        for eid, msg in hard_rows:
+            print(f"  {eid}: {msg}")
+        print()
+    if warn_rows:
+        print(f"WORTH A LOOK ({len(warn_rows)}):")
+        for eid, msg in warn_rows:
+            print(f"  {eid}: {msg}")
+        print()
+    if not hard_rows:
+        print(f"All {confirmed} confirmed receipts pass the intake gate.")
+        return 0
+    print(f"{len({r[0] for r in hard_rows})} of {confirmed} confirmed receipts fail. "
+          f"Exit {EXIT_RECEIPT_GATE}.")
+    return EXIT_RECEIPT_GATE
+
+
+# ---------------------------------------------------------------------------
 def main():
     p = argparse.ArgumentParser(description=__doc__.split("\n")[1])
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -1049,6 +1178,12 @@ def main():
                     help=f"Board state JSON (default {BOARD_STATE.name})")
     bc.add_argument("--json", action="store_true")
     bc.set_defaults(fn=cmd_board_check)
+
+    rc = sub.add_parser("receipt-check",
+                        help="Run the intake receipt gate over the whole bank; "
+                             "exit 13 means a banked receipt would be refused today")
+    rc.add_argument("--json", action="store_true")
+    rc.set_defaults(fn=cmd_receipt_check)
 
     r = sub.add_parser("render", help="Regenerate the markdown view")
     r.set_defaults(fn=cmd_render)

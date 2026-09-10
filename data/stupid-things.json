@@ -30,18 +30,19 @@
     {
       "label": "80% of sales need 5 follow-ups",
       "reason": "Murky origin, repeated everywhere, sourced nowhere.",
-      "say_instead": "Use: 44% of agents quit after one follow-up (JustCall).",
+      "say_instead": "Do not use, and do NOT use the old replacement either: the '44% of agents quit after one follow-up (JustCall)' figure was disproved on 2026-09-10 -- it is not on the cited page. No sourced replacement exists yet. Run the script with no number.",
       "match_terms": [
         "80% of sales",
         "five follow-ups",
         "5 follow-ups",
         "80% of deals"
-      ]
+      ],
+      "revised": "2026-09-10"
     },
     {
       "label": "21x / 100x lead response time",
       "reason": "From the 2007 MIT/InsideSales study, which is CROSS-INDUSTRY sales, not real estate. Attributing it to NAR is a fabrication.",
-      "say_instead": "Say 'sales research shows,' never 'NAR says.' The bulletproof real-estate-native version: roughly 70% of buyers interview only one agent (NAR).",
+      "say_instead": "Say 'sales research shows,' never 'NAR says.' The old replacement is DEAD: the 'roughly 70% of buyers interview only one agent (NAR)' figure was disproved on 2026-09-10 -- it is not on the cited Virginia REALTORS page. No sourced replacement yet; run with no number.",
       "match_terms": [
         "21x",
         "21 times more likely",
@@ -49,17 +50,19 @@
         "insidesales",
         "5 vs 30 minutes",
         "5 minutes vs 30"
-      ]
+      ],
+      "revised": "2026-09-10"
     },
     {
       "label": "~10% of clients remember their agent's name",
       "reason": "Widely credited to NAR but only confirmable in secondary sources.",
-      "say_instead": "Frame as 'a widely cited industry figure,' or use the solid NAR pairing instead: 88% would use their agent again, about 12% actually do.",
+      "say_instead": "Frame as 'a widely cited industry figure,' or use ONLY the verified half of the old pairing: 88% of buyers say they would use their agent again (NAR 2025 Profile). The paired 'about 12% actually do' was disproved on 2026-09-10 -- it traces to a mortgage lender's blog, not NAR.",
       "match_terms": [
         "10% of clients remember",
         "remember their agent's name",
         "10 percent remember"
-      ]
+      ],
+      "revised": "2026-09-10"
     },
     {
       "label": "CRM causes higher income",
@@ -74,22 +77,24 @@
     {
       "label": "78% work with the first agent who responds",
       "reason": "Unverifiable. D.J.'s instruction: skip it entirely.",
-      "say_instead": "Do not use. Use the 70%-interview-only-one-agent figure (NAR) instead.",
+      "say_instead": "Do not use. The old replacement is DEAD too: the 70%-interview-only-one-agent figure was disproved on 2026-09-10. No sourced replacement yet.",
       "match_terms": [
         "78%",
         "78 percent",
         "first agent who responds"
-      ]
+      ],
+      "revised": "2026-09-10"
     },
     {
       "label": "Redfin 47% higher asking price",
       "reason": "Unverifiable. D.J.'s instruction: skip it entirely.",
-      "say_instead": "Do not use. The verified Redfin photo figures are $3,000-$11,200 over list and 118% more online views.",
+      "say_instead": "Do not use. The old replacement is DEAD: the Redfin photo figures were disproved on 2026-09-10 -- the real range is $3,400-$11,200 (not $3,000), there is no '118% more online views' figure on the page, and the article is from 2019 resting on a 2013 study.",
       "match_terms": [
         "47% higher",
         "47 percent higher",
         "47% more than asking"
-      ]
+      ],
+      "revised": "2026-09-10"
     }
   ],
   "entries": [
@@ -106,7 +111,13 @@
         "year": 2026,
         "url": "https://www.prnewswire.com/news-releases/by-week-four-your-listing-is-either-getting-offers-or-price-cuts-302797293.html",
         "claim": "Homes closing around the four week mark sell 1.8% above the monthly average relative to asking; homes still on market at 18 weeks close 1.3% below. Realtor.com frames the gap as more than 3 percentage points. Published 2026-06-11, senior economist Joel Berner.",
-        "verified": "2026-08-12"
+        "verified": "2026-08-12",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed as banked"
+        },
+        "published": "2026-06-11"
       },
       "sightings": [
         {
@@ -222,11 +233,16 @@
       "target": "sideways",
       "heat_ceiling": 4.7,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "OneKey MLS",
         "year": 2026,
         "url": "https://support.onekeymls.com/hc/en-us/articles/47507969337492-Offer-Presentation-and-Acknowledgment-Rules-Update-and-Guidance",
-        "claim": "NAR's 2026 Code update added explicit offer-acknowledgment guidance and many MLSs now require written acknowledgment of receipt."
+        "claim": "UNVERIFIED 2026-09-10 -- THE SOURCE SAYS THE OPPOSITE. Banked as 'NAR's 2026 Code update added explicit offer-acknowledgment guidance and many MLSs now require written acknowledgment of receipt.' OneKey MLS REMOVED the rules requiring a listing broker to obtain or provide written acknowledgment that an offer was presented. Written confirmation is now only on written request and is no longer mandated by MLS rule; the duty moved to the Code of Ethics (SOP 1-7). A script built on the banked wording would tell agents a requirement exists that was just removed.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -309,11 +325,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR and Redfin",
         "year": 2026,
         "url": "https://www.redfin.com/blog/professional-real-estate-photos-sell-homes-for-more/",
-        "claim": "NAR: 87% of buyers rank photos the single most useful listing feature. Redfin: homes $200K-$1M sold for $3,000-$11,200 more relative to list with professional photos and pulled 118% more online views. Redfin is not in the photography business, which is why these are the two to say on camera."
+        "claim": "UNVERIFIED 2026-09-10. The Redfin page says '$3,400 to $11,200 more relative to their list prices', not $3,000-$11,200, and contains NO '118% more online views' figure. The article was published 2019-06-03 and rests on a 2013 Redfin study; it was banked as 'Redfin 2026'. The paired 'NAR: 87% of buyers rank photos most useful' does not match NAR's own page either, which reports 41%.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "flag": "Every number found so far traces to a real estate photography vendor selling photography. Do NOT use the '$4,200 lost' or '32% faster' figures without tracing them to the primary research. Source a neutral one or ship this without a number.",
       "sightings": [
@@ -375,11 +396,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR Profile of Home Buyers and Sellers",
         "year": 2026,
         "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
-        "claim": "Buyers rank detailed property information the second most useful feature at 85%, right behind photos, and 52% find the home they buy online."
+        "claim": "UNVERIFIED 2026-09-10. The NAR Profile page ranks photos at 41% and detailed property information at 39% -- not 87% and 85%. The '52% find the home they buy online' figure does not appear on the page. The data is the 2024 Profile, banked as 2026.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -535,8 +561,14 @@
         "status": "confirmed",
         "source": "Illinois Residential Real Property Disclosure Act, 765 ILCS 77",
         "year": 2026,
-        "url": "https://codes.findlaw.com/il/chapter-765-property/il-st-sect-765-77-35/",
-        "claim": "Illinois 765 ILCS 77 requires disclosing known material defects on the 23-item form, and under 765 ILCS 77/55 a violating seller is liable for actual damages plus court costs and attorney's fees."
+        "url": "https://codes.findlaw.com/il/chapter-765-property/il-st-sect-765-77-55/",
+        "claim": "VERIFIED 2026-09-10, citation corrected. 765 ILCS 77/35 sets the mandatory disclosure form, which carries 24 numbered items (the bank said 23) and a continuing obligation to supplement before closing under Section 30. The remedy is 765 ILCS 77/55, verified separately and quoted: a seller who knowingly violates the Act or discloses information they know to be false 'shall be liable in the amount of actual damages and court costs, and the court may award reasonable attorney's fees incurred by the prevailing party.' Note attorney's fees are discretionary ('may award'), not automatic. The bank previously cited only the 77/35 form page, which contains no remedy language.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2026"
       },
       "flag": "Legal-exposure entry. Cite the state disclosure statute and a real filed case, not a general 'you could get sued.'",
       "sightings": [
@@ -675,10 +707,16 @@
       "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
-        "source": "NAR Code of Ethics Article 15",
+        "source": "NAR 2026 Code of Ethics, Article 15 and SOP 15-2/15-3",
         "year": 2026,
-        "url": "https://www.nar.realtor/code-of-ethics-and-arbitration-manual/case-interpretations-related-to-article-15",
-        "claim": "Article 15 bars knowingly or recklessly false or misleading statements about other real estate professionals, explicitly including social media and casual talk."
+        "url": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/2026-code-of-ethics-standards-of-practice",
+        "claim": "VERIFIED 2026-09-10, citation corrected. Article 15 verbatim: 'REALTORS shall not knowingly or recklessly make false or misleading statements about other real estate professionals, their businesses, or their business practices.' The online/social-media reach comes from SOP 15-2, which extends the duty to statements repeated 'in person, in writing, by technological means (e.g., the Internet), or by any other means,' and SOP 15-3, which adds a duty to clarify or remove false statements by others on electronic media the REALTOR controls. The bank previously cited the case-interpretations page, which carries neither the Article text nor the social-media language.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2026-01-01"
       },
       "flag": "Verify the NAR Code of Ethics Article 15 wording (false or misleading statements about competitors) before citing it on camera.",
       "sightings": [
@@ -723,10 +761,16 @@
       "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
-        "source": "NAR via Stylograph",
-        "year": 2026,
-        "url": "https://www.stylograph.ai/blog/real-estate-client-retention-repeat-business-gap",
-        "claim": "About 88% of buyers say they would use their agent again, yet only about 12% actually do. The goodwill is already there; the follow-up is not."
+        "source": "NAR 2025 Profile of Home Buyers and Sellers",
+        "year": 2025,
+        "url": "https://www.nar.realtor/research-and-statistics/research-reports/highlights-from-the-nar-profile-of-home-buyers-and-sellers",
+        "claim": "VERIFIED 2026-09-10, claim halved. USABLE: 88% of buyers say they would use their agent again (NAR 2025 Profile of Home Buyers and Sellers). DROPPED: the paired 'only about 12% actually do' was attributed to NAR by the aggregator but traces to JVM Lending, a mortgage company, described only as 'industry data consistently shows.' Do not speak the 88/12 contrast as one statistic -- Rule 1 bans combining two separate stats into one sentence, and the second one is not sourced.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2025"
       },
       "flag": "The NAR Profile of Home Buyers and Sellers repeat-and-referral share is the natural receipt here. Pull the current edition rather than reusing the figure from the recruiting-objections doc, which needs re-verification.",
       "sightings": [
@@ -801,11 +845,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR",
         "year": 2026,
         "url": "https://www.nar.realtor/news/real-estate-news/sales-marketing/what-buyers-sellers-want-most-from-real-estate-agents",
-        "claim": "Responsiveness ranks among the qualities buyers value most; Gen X and Boomers rank it above process knowledge."
+        "claim": "UNVERIFIED 2026-09-10. Identical to the ST-0002 finding: the cited NAR page was published 2024-04-04 off the 2024 Generational Trends Report, ranks agent-selection qualities as experience 21% / honesty 19% / reputation 15% / friend or family 12%, and contains NO responsiveness ranking and no Gen X or Boomer breakdown. Wrong claim and wrong year.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -834,7 +883,13 @@
         "source": "Redfin",
         "year": 2026,
         "url": "https://www.redfin.com/news/housing-market-update-2026-housing-market-mood/",
-        "claim": "The typical U.S. home spent about 64 days on market before going under contract in early 2026, the longest in six years."
+        "claim": "The typical U.S. home spent about 64 days on market before going under contract in early 2026, the longest in six years.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed as banked"
+        },
+        "published": "2026-02-05"
       },
       "sightings": [
         {
@@ -909,11 +964,16 @@
       "target": "sideways",
       "heat_ceiling": 4.3,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NorthstarMLS",
         "year": 2026,
         "url": "https://northstarmls.com/insights/are-you-following-these-nine-showing-etiquette-best-practices/",
-        "claim": "Showing etiquette standard is to give sellers roughly 24 hours before the feedback request even goes out."
+        "claim": "UNVERIFIED 2026-09-10. The NorthstarMLS showing-etiquette page does not mention giving sellers roughly 24 hours before a feedback request. Page published 2025-07-09, banked as 2026.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -995,11 +1055,16 @@
       "target": "sideways",
       "heat_ceiling": 4.7,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "OneKey MLS",
         "year": 2026,
         "url": "https://support.onekeymls.com/hc/en-us/articles/47507969337492-Offer-Presentation-and-Acknowledgment-Rules-Update-and-Guidance",
-        "claim": "NAR's 2026 Code update added explicit offer-acknowledgment guidance and many MLSs now require written acknowledgment of receipt."
+        "claim": "UNVERIFIED 2026-09-10 -- THE SOURCE SAYS THE OPPOSITE. Same finding as ST-0003: OneKey MLS removed the written-acknowledgment requirement; written confirmation is on written request only and is no longer an MLS rule. Duty moved to the Code of Ethics (SOP 1-7).",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1028,7 +1093,13 @@
         "source": "NAR 2026 Code of Ethics, Standard of Practice 1-15",
         "year": 2026,
         "url": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/2026-code-of-ethics-standards-of-practice",
-        "claim": "Standard of Practice 1-15 requires disclosing the existence of accepted offers to cooperating brokers who ask, with the seller's approval."
+        "claim": "Standard of Practice 1-15 requires disclosing the existence of accepted offers to cooperating brokers who ask, with the seller's approval.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed as banked"
+        },
+        "published": "2026-01-01"
       },
       "sightings": [
         {
@@ -1060,11 +1131,16 @@
       "target": "sideways",
       "heat_ceiling": 4.3,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "Virtuance",
         "year": 2026,
         "url": "https://www.virtuance.com/blog/chicago-real-estate-market/",
-        "claim": "The typical Chicago home takes about 47 days to sell."
+        "claim": "UNVERIFIED 2026-09-10. Identical to the ST-0011 finding: the Virtuance page does not say 47 days. It gives a range, 'median days homes have sat on the market have been ranging between 29-51 days for this year' (June 2026). The banked 47 was manufactured from a range, which Rule 1 bans outright.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1089,11 +1165,16 @@
       "target": "sideways",
       "heat_ceiling": 4.3,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NorthstarMLS",
         "year": 2026,
         "url": "https://northstarmls.com/insights/are-you-following-these-nine-showing-etiquette-best-practices/",
-        "claim": "Showing standards are explicit that appointments should be confirmed with the occupant before the buyer travels."
+        "claim": "UNVERIFIED 2026-09-10. The NorthstarMLS showing-etiquette page does not say appointments should be confirmed with the occupant before the buyer travels. Page published 2025-07-09, banked as 2026.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [],
       "angles": [
@@ -1118,11 +1199,16 @@
       "target": "sideways",
       "heat_ceiling": 4.3,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "St. Louis REALTORS",
         "year": 2021,
         "url": "https://www.stlrealtors.com/news/2021/06/30/professionalism/showing-etiquette-and-professionalism/",
-        "claim": "Association guidance calls a late arrival or no-show particularly disruptive because sellers arrange their lives and other agents queue around fixed windows."
+        "claim": "UNVERIFIED 2026-09-10. Could not be checked: stlrealtors.com returned HTTP 403 to every fetch attempt. The claim may well be accurate; it is simply unconfirmed, and Rule 1 does not let an unconfirmed figure read as a confirmed one. Re-check by hand before this entry is used.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1154,11 +1240,16 @@
       "target": "sideways",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "Selling CF",
         "year": 2026,
         "url": "https://www.sellingcf.com/modern-house-showing-etiquette-what-buyers-and-sellers-should-know/",
-        "claim": "The standard is to respect the scheduled time because the owner may be returning and other agents are waiting."
+        "claim": "UNVERIFIED 2026-09-10. The page advises buyers not to linger when a back-to-back showing is scheduled. It does not say to respect the time because the owner may be returning. Published 2023-05-08, banked as 2026, and sellingcf.com is a brokerage marketing blog rather than a standards body.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1190,11 +1281,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR via Virginia REALTORS",
         "year": 2025,
         "url": "https://virginiarealtors.org/2025/12/08/key-takeaways-from-nars-2025-profile-of-home-buyers-and-sellers/",
-        "claim": "Roughly 70% of buyers interview only one agent, so the fast agent wins the client and keeps them."
+        "claim": "UNVERIFIED 2026-09-10. The Virginia REALTORS page contains no figure on how many agents buyers interview. The '70% interview only one agent' claim is not on the cited source at all.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1227,10 +1323,16 @@
       "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
-        "source": "HousingWire and Colibri",
+        "source": "NAR 2026 Member Profile via HousingWire",
         "year": 2026,
-        "url": "https://www.housingwire.com/articles/datadigest-study-shows-agents-are-aplenty-most-with-few-or-no-sales/",
-        "claim": "The typical full-time NAR member closed about 10 sides in 2024, while agents working under 20 hours a week mostly earn under $25,000."
+        "url": "https://www.housingwire.com/articles/nar-2026-member-profile-experience/",
+        "claim": "VERIFIED 2026-09-10, figures corrected and re-sourced. The typical NAR member completed 10 transaction sides in 2024, holding steady from 2023. Among agents working fewer than 20 hours a week, 57% earn under $25,000 a year and 29% earn $25,000-$49,000 -- say '57%', not 'mostly'. Median REALTOR gross income was $58,100 in 2024, up from $55,800. The bank previously pointed at a DataDigest article that does not carry these figures.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2026"
       },
       "sightings": [
         {
@@ -1268,11 +1370,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR and Redfin",
         "year": 2026,
         "url": "https://www.redfin.com/blog/professional-real-estate-photos-sell-homes-for-more/",
-        "claim": "NAR: 87% of buyers rank photos the single most useful listing feature. Redfin: homes $200K-$1M sold for $3,000-$11,200 more relative to list with professional photos and pulled 118% more online views. Redfin is not in the photography business, which is why these are the two to say on camera."
+        "claim": "UNVERIFIED 2026-09-10. Same finding as ST-0005: the figure is $3,400-$11,200 (not $3,000), the 118%-more-views claim is absent, the article is from 2019 citing a 2013 study, and the paired NAR 87% is contradicted by NAR's own 41%.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1310,10 +1417,16 @@
       "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
-        "source": "IRC via ListWithClever and HomeLight",
-        "year": 2026,
-        "url": "https://listwithclever.com/real-estate-blog/what-is-the-legal-definition-of-a-bedroom/",
-        "claim": "Under the IRC a legal bedroom needs egress: roughly 5.7 sq ft of openable area (about 20 by 24 inches), about 70 sq ft of floor area, and a permanent heat source."
+        "source": "2024 International Residential Code, Section R310 (emergency escape and rescue openings) and R304/R303",
+        "year": 2024,
+        "url": "https://codes.iccsafe.org/content/IRC2024P1/chapter-3-building-planning",
+        "claim": "VERIFIED 2026-09-10, re-sourced from the blog to the code. A legal bedroom needs an egress opening with a minimum net clear opening of 5.7 sq ft, at least 24 inches of opening height and 20 inches of opening width; a minimum floor area of 70 sq ft with at least 7 feet in any horizontal direction; and heat capable of maintaining 68 degrees (a space heater does not count). Say '2024 IRC', and note local amendments can differ.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed as banked"
+        },
+        "published": "2024"
       },
       "sightings": [
         {
@@ -1351,11 +1464,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR Profile of Home Buyers and Sellers",
         "year": 2026,
         "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
-        "claim": "Buyers rank detailed property information the second most useful feature at 85%, right behind photos, and 52% find the home they buy online."
+        "claim": "UNVERIFIED 2026-09-10. Same finding as ST-0006: photos 41%, detailed information 39%, no 52% figure, 2024 data banked as 2026.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1380,11 +1498,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "Virtuance eye-tracking study",
         "year": 2026,
         "url": "https://www.virtuance.com/blog/eye-tracking-study/",
-        "claim": "Buyers preferred enhanced images about two-thirds of the time. Enhancement works; deception is the part that backfires."
+        "claim": "UNVERIFIED 2026-09-10. The study found 'two-thirds of homebuyers preferred to view Virtuance's images' -- a vendor's own study of its own product, with no stated sample size. That does not support the banked generalization that buyers prefer enhanced images about two-thirds of the time.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1441,11 +1564,16 @@
       "target": "self",
       "heat_ceiling": 4.3,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR Profile of Home Buyers and Sellers",
         "year": 2026,
         "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
-        "claim": "More than 90% of buyers search online and photos plus detailed information are the top two decision factors, which makes syndication distribution rather than marketing."
+        "claim": "UNVERIFIED 2026-09-10. The page says all buyers used the internet to search (not 'more than 90%') and ranks photos 41% / detailed information 39%, so the 'top two decision factors' framing is not supported at the banked magnitudes. 2024 data banked as 2026.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [],
       "angles": [
@@ -1500,7 +1628,13 @@
         "source": "Zillow",
         "year": 2026,
         "url": "https://www.zillow.com/research/overpricing-impacts-time-market-12476/",
-        "claim": "Zillow: homes that sold quickly went about 1% below list; at about two months out, 5% below; the longest-sitting at 11 months, 12% below. Homes priced 12% or more over market were about 50% less likely to sell within 60 days."
+        "claim": "Zillow: homes that sold quickly went about 1% below list; at about two months out, 5% below; the longest-sitting at 11 months, 12% below. Homes priced 12% or more over market were about 50% less likely to sell within 60 days.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed as banked"
+        },
+        "published": "2026-05-08"
       },
       "sightings": [
         {
@@ -1576,11 +1710,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR Profile of Home Buyers and Sellers",
         "year": 2026,
         "url": "https://www.bnar.org/about/news/nar-profile-of-home-buyers-and-home-sellers/",
-        "claim": "More than 90% of buyers find homes online themselves, yet 88% of purchases still go through an agent. The value is real and it is in the judgment, not the access."
+        "claim": "UNVERIFIED 2026-09-10. The 88%-of-purchases-through-an-agent figure IS on the page and is usable, but the paired 'more than 90% of buyers find homes online themselves' is not stated that way (the page says all buyers used the internet to search, which is a different claim). Re-bank as a single-figure receipt with its 2024 year before using.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [],
       "angles": [
@@ -1605,11 +1744,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "Placester",
         "year": 2026,
         "url": "https://placester.com/real-estate-marketing-academy/real-estate-social-media-tips-mistakes",
-        "claim": "People move roughly once every 8.5 years, so under 2% of your audience is in-market at any moment. Meanwhile 71% of buyers are more likely to work with an agent who has a strong social presence, and listings with video pull about 400% more inquiries."
+        "claim": "UNVERIFIED 2026-09-10. Two of the four figures fail at the source. The 71% ('more likely to work with an agent with a strong social presence') traces to REsimpli, a real-estate marketing software vendor, not to research. The '400% more inquiries' video figure is a known-unverifiable industry myth: it is usually credited to NAR and does not survive tracing to an origin. The 8.5-year move interval and the under-2%-in-market figures are unsourced on the page. Placester is itself a marketing vendor.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -1693,11 +1837,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR and Placester",
         "year": 2026,
         "url": "https://placester.com/real-estate-marketing-academy/real-estate-social-media-tips-mistakes",
-        "claim": "More than 90% of buyers search online and 52% find their home there (NAR), and 71% say a strong social presence makes them more likely to work with an agent (Placester)."
+        "claim": "UNVERIFIED 2026-09-10. Same finding as ST-0042: the 71% traces to REsimpli, a marketing software vendor. The NAR half ('more than 90% search online and 52% find their home there') is also contradicted by NAR's own page, which reports all buyers used the internet and carries no 52% figure.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [],
       "angles": [
@@ -1799,10 +1948,16 @@
       "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
-        "source": "Preferred Inspections",
-        "year": 2026,
-        "url": "https://www.preferredinspectionsde.com/home-inspection-statistics/",
-        "claim": "The inspection guards against an average of about $11,222 in hidden repairs, 86% of inspections find at least one issue, and buyers who inspect and negotiate save about $14,000 on average. Only about 18% of buyers actually waive, so it is not the norm the pressure implies."
+        "source": "NAR REALTORS Confidence Index, September 2024",
+        "year": 2024,
+        "url": "https://www.nar.realtor/research-and-statistics/research-reports/realtors-confidence-index",
+        "claim": "VERIFIED 2026-09-10, claim narrowed to what survives. USABLE: only about 18% of buyers waived the inspection contingency (NAR REALTORS Confidence Index, September 2024) -- so waiving is not the norm the pressure implies. DROPPED: the '$11,222 in hidden repairs' figure does not appear on the cited page at all. NOT FOR CAMERA: the 86%-of-inspections-find-an-issue and $14,000-saved figures are real on the page but both trace to Porch.com, a home-services marketplace, and do not meet Rule 1's source bar.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2024-09"
       },
       "sightings": [
         {
@@ -1843,8 +1998,14 @@
         "status": "confirmed",
         "source": "Illinois Residential Real Property Disclosure Act, 765 ILCS 77",
         "year": 2026,
-        "url": "https://codes.findlaw.com/il/chapter-765-property/il-st-sect-765-77-35/",
-        "claim": "Illinois 765 ILCS 77 requires disclosing known material defects on the 23-item form, and under 765 ILCS 77/55 a violating seller is liable for actual damages plus court costs and attorney's fees."
+        "url": "https://codes.findlaw.com/il/chapter-765-property/il-st-sect-765-77-55/",
+        "claim": "VERIFIED 2026-09-10, citation corrected. Same as ST-0010: the form is 765 ILCS 77/35 and has 24 numbered items, not 23. The remedy is 765 ILCS 77/55: actual damages and court costs, with reasonable attorney's fees at the court's discretion ('may award'), on a seller who knowingly violates the Act or knowingly discloses false information.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2026"
       },
       "sightings": [
         {
@@ -1879,7 +2040,13 @@
         "source": "Illinois 225 ILCS 454/15-45",
         "year": 2026,
         "url": "https://codes.findlaw.com/il/chapter-225-professionsoccupations-and-business-operations/il-st-sect-225-454-15-45/",
-        "claim": "When steering funnels a buyer into the agent's own listing it collapses into dual agency, which in Illinois requires written informed consent under 225 ILCS 454/15-45."
+        "claim": "When steering funnels a buyer into the agent's own listing it collapses into dual agency, which in Illinois requires written informed consent under 225 ILCS 454/15-45.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed as banked"
+        },
+        "published": "2026"
       },
       "sightings": [
         {
@@ -1912,10 +2079,16 @@
       "heat_ceiling": 4.7,
       "receipt": {
         "status": "confirmed",
-        "source": "RESPA Section 8, 12 CFR 1024.14",
+        "source": "RESPA Section 8, 12 U.S.C. 2607 (prohibition also at 12 CFR 1024.14)",
         "year": 2026,
-        "url": "https://www.consumerfinance.gov/rules-policy/regulations/1024/14/",
-        "claim": "RESPA Section 8 prohibits any fee, kickback, or thing of value for referring settlement-service business on a federally related mortgage. Penalties include criminal fines up to $10,000 and up to one year in prison, plus treble civil damages."
+        "url": "https://www.law.cornell.edu/uscode/text/12/2607",
+        "claim": "VERIFIED 2026-09-10, citation corrected. The prohibition is 12 CFR 1024.14: 'No person shall give and no person shall accept any fee, kickback or other thing of value pursuant to any agreement or understanding' for referrals of settlement services. The PENALTIES are not in the CFR section the bank cited; they are 12 U.S.C. 2607(d), verified and quoted: (d)(1) 'shall be fined not more than $10,000 or imprisoned for not more than one year, or both'; (d)(2) joint and several liability 'in an amount equal to three times the amount of any charge paid for such settlement service.' Say the statute, not the CFR, when the penalty is spoken.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2026"
       },
       "sightings": [
         {
@@ -1957,7 +2130,13 @@
         "source": "Illinois 225 ILCS 454/15-45",
         "year": 2026,
         "url": "https://codes.findlaw.com/il/chapter-225-professionsoccupations-and-business-operations/il-st-sect-225-454-15-45/",
-        "claim": "Illinois requires written informed consent from all clients for dual agency, plus a separate written confirmation at the offer."
+        "claim": "Illinois requires written informed consent from all clients for dual agency, plus a separate written confirmation at the offer.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed as banked"
+        },
+        "published": "2026"
       },
       "sightings": [
         {
@@ -2015,10 +2194,16 @@
       "heat_ceiling": 4.3,
       "receipt": {
         "status": "confirmed",
-        "source": "NAR Code of Ethics Article 15",
+        "source": "NAR 2026 Code of Ethics, Article 15 and SOP 15-2/15-3",
         "year": 2026,
-        "url": "https://www.nar.realtor/code-of-ethics-and-arbitration-manual/case-interpretations-related-to-article-15",
-        "claim": "Article 15 bars knowingly or recklessly false or misleading statements about other real estate professionals, explicitly including social media and casual talk."
+        "url": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/2026-code-of-ethics-standards-of-practice",
+        "claim": "VERIFIED 2026-09-10, citation corrected. Same as ST-0013: Article 15 bars knowingly or recklessly false or misleading statements about other real estate professionals; SOP 15-2 extends it to statements made 'by technological means (e.g., the Internet)' and SOP 15-3 adds the duty to clarify or remove such statements on electronic media the REALTOR controls.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2026-01-01"
       },
       "sightings": [
         {
@@ -2050,10 +2235,16 @@
       "heat_ceiling": 4.0,
       "receipt": {
         "status": "confirmed",
-        "source": "NAR via HousingWire",
+        "source": "NAR 2026 Member Profile via HousingWire",
         "year": 2026,
         "url": "https://www.housingwire.com/articles/nar-2026-member-profile-experience/",
-        "claim": "82% of transactions come from referral or repeat business, and the median agent gets 28% of business from repeat clients, rising to 49% for 16-plus-year veterans."
+        "claim": "VERIFIED 2026-09-10, claim corrected. USABLE: the median REALTOR got 28% of business from repeat clients, up from 20% a year earlier; agents with 16+ years of experience got 49% from repeat clients and another 32% from referrals. DROPPED: the headline '82% of transactions come from referral or repeat business' could not be found in the source and looks like it was derived by adding the veterans' 49% and 32%, which is a different population and a different claim.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed with corrections"
+        },
+        "published": "2026"
       },
       "sightings": [
         {
@@ -2089,7 +2280,13 @@
         "source": "Relitix via Inman",
         "year": 2026,
         "url": "https://www.inman.com/2026/05/14/new-agents-say-how-theyre-surviving/",
-        "claim": "49% of agents who first closed in 2022 closed nothing in 2023. This is the sourced replacement for the untraceable 87%-of-agents-fail figure."
+        "claim": "49% of agents who first closed in 2022 closed nothing in 2023. This is the sourced replacement for the untraceable 87%-of-agents-fail figure.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "confirmed as banked"
+        },
+        "published": "2026-05-14"
       },
       "sightings": [
         {
@@ -2247,11 +2444,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "Harvard Business Review, analysis of 2.24 million leads, via Motarme",
         "year": 2026,
         "url": "https://motarme.com/how-much-time-do-you-have-to-respond-to-sales-leads/",
-        "claim": "An HBR analysis of 2.24 million leads found firms reaching out within an hour were about 7 times more likely to qualify the lead."
+        "claim": "UNVERIFIED 2026-09-10 -- SAMPLE SIZE OFF BY A FACTOR OF 1,000. The study audited 2,241 US FIRMS, not 2.24 million leads. The 7x figure and the within-an-hour framing are real, but the HBR article is 'The Short Life of Online Sales Leads' from 2011, banked as 2026, and the research covers B2B technology firms, not real estate.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -2284,11 +2486,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "JustCall",
         "year": 2026,
         "url": "https://justcall.io/blog/lead-conversion-in-real-estate-guide.html",
-        "claim": "44% of agents give up after a single follow-up, and leads worked with six or more attempts convert dramatically better."
+        "claim": "UNVERIFIED 2026-09-10. Neither the '44% of agents give up after a single follow-up' figure nor the six-or-more-attempts conversion claim appears on the cited JustCall page.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -2321,11 +2528,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "JustCall",
         "year": 2026,
         "url": "https://justcall.io/blog/lead-conversion-in-real-estate-guide.html",
-        "claim": "Average real estate lead conversion runs roughly 0.4% to 1.2%, which means the entire game is squeezing more out of each lead rather than buying more of them."
+        "claim": "UNVERIFIED 2026-09-10. The 0.4%-1.2% range is on the page, but JustCall is a call-software vendor citing realestatebees.com, a directory site, with no methodology at either hop. Two removes from anything primary, so it does not meet Rule 1's source bar.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [],
       "angles": [
@@ -2389,11 +2601,16 @@
       "target": "self",
       "heat_ceiling": 4.0,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "NAR 2025 via BAM",
         "year": 2025,
         "url": "https://nowbam.com/how-home-buyers-and-sellers-find-their-agents-in-2025/",
-        "claim": "68% of sellers and 52% of buyers find their agent through a referral or a personal connection, which is the engine a silent agent starves."
+        "claim": "UNVERIFIED 2026-09-10. The page reports 43% of buyers and 37% of sellers were referred by a friend, neighbor or relative -- not 68% of sellers and 52% of buyers. It does note 66% of sellers hire either a referred agent or one they have worked with before, which is a different claim and would need re-banking as such.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "batch receipt re-verification, all 39 confirmed receipts",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
