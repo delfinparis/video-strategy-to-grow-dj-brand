@@ -667,8 +667,10 @@
           "angle": "Every hoop is a filter that removes buyers, and the seller should hear that tradeoff out loud",
           "swap": "Default to a lockbox and app scheduling with the widest reasonable window. If restrictions are real, make the response instant: 30-minute callback guarantee and real same-day slots. Tell the seller the honest tradeoff.",
           "hook": "Seven homes had a lockbox. Yours said call agent to show. You didn't protect your seller, you hid their house.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-10",
+          "script": "board: https://app.notion.com/p/3d7313fa289281a4b90ee3d73b7db2f7"
         }
       ],
       "status": "banked",
@@ -2701,6 +2703,12 @@
       "id": "ST-0002",
       "angle": "The published response standard: tell the client your response window out loud at signing, so silence becomes a breach they can name",
       "script": "scripts/stupid-things/STUPID-002-going-quiet-after-the-contract.md"
+    },
+    {
+      "date": "2026-09-10",
+      "id": "ST-0011",
+      "angle": "Every hoop is a filter that removes buyers, and the seller should hear that tradeoff out loud",
+      "script": "board: https://app.notion.com/p/3d7313fa289281a4b90ee3d73b7db2f7"
     }
   ],
   "rejected": [
