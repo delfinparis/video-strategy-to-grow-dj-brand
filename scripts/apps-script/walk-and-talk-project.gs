@@ -667,10 +667,16 @@ const TIP_BUILD_NOTE =
   'Build it to docs/series/stupid-things-standard.md, which you do not have, so here is the whole of it: ' +
   'the lane names one specific thing agents do that costs a client, a deal, or the agent on the other side, ' +
   'and hands over the exact thing to do instead. Same four-beat clock, mapped like this: ' +
-  'HOOK = the stupid thing named flat with the cost in it (sharpen the brief\'s spoken hook; 5-8 words); ' +
+  'HOOK = THE VERDICT, then the thing: say out loud that this is stupid, in plain words, then name the behavior (sharpen the brief\'s spoken hook; 5-8 words); ' +
   'TENSION = the recognizable scene from the brief\'s "looks like" line, cut to one sentence; ' +
   'THE POINT = the receipt said once with its limit, then the turn (the brief\'s "angle on the fix"); ' +
   'PAYOFF = the swap, physical and do-it-Monday, then the loop-back. The swap is never what gets cut. ' +
+  'SAY IT IS STUPID (D.J., 2026-09-10: "we should also say somewhere this is really stupid -- lean on the negative and then produce the solution"). ' +
+  'The lane is called Stupid Things Realtors Do and not one script had ever said the thing was stupid, which is why they read as clever reframes instead of as the mistake. ' +
+  'Every tip now says out loud, in plain words, that the BEHAVIOR is stupid, inside the first ten seconds and BEFORE the fix. Usually it is the hook itself -- "Here is a stupid way to lose a sale" is eight words and clears heat 4 on its own. If the hook is doing something else, the verdict lands in TENSION. Never after the fix: negative first, then solution. ' +
+  'Use the word. "Stupid" is the sanctioned word and the series name; "dumb" is the one alternate for a softer target: self script. Never "suboptimal", "a missed opportunity", or "worth rethinking". ' +
+  'It points at the BEHAVIOR and never at the person: "Here is a stupid way to lose a sale" clears; "you are being stupid" and "stupid agents do this" are banned. The agent doing it right now must feel caught, not insulted. ' +
+  'Say it ONCE. Repeating the verdict in THE POINT and again in the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix. ' +
   'If the brief marks the receipt NEEDS RECEIPT, speak NO number: run the scene and the swap and say nothing a commenter can check and beat. ' +
   'Target class: "sideways" points at the agent on the other side of the deal and carries full heat (4 to 4.7); ' +
   '"self" points at the viewer and caps at 4.3, reaching the band through specificity about the cost, never a verdict on the person. ' +
@@ -766,6 +772,18 @@ EVERY SCRIPT RUNS THE SAME FOUR-BEAT CLOCK. This is the structure, not a suggest
 ONE IDEA. NO THROAT-CLEARING. THE POINT gets half the word budget because it is the only beat the viewer came for, and the five seconds of headroom between 30 and 35 goes there and nowhere else.
 Length decides both which retention curve the video is graded on and how much watch time it banks per viewer, which is why it outranks every other instinct you have. Draft TO the clock and a 75-word budget. Do not draft long and trim: cutting a 130-word script down to 75 loses the hook's edge every time.
 
+SAY IT PLAINLY — THIS OUTRANKS THE WORD BUDGET:
+D.J., 2026-09-10, after reading a finished script: "The script writing is getting too clever for the general public. I just read the one listed below and I didn't understand it." The script he could not follow was on the clock, fact-checked, council-reviewed, and 80 words. It was also this: "Buyer flies in for one day. Seven listings open in ten. Eighth is call-to-show." Ten what? Which eighth? Nothing there is wrong. It is just unreadable at speaking speed by anyone who is not already holding the whole scene in their head.
+A viewer hears a video ONCE, at speed, usually while doing something else. A line that needs a second listen does not exist.
+So when a beat will not fit the budget, CUT AN IDEA, NEVER THE GRAMMAR. Whole sentences come out; the sentences that stay are whole. Compressing five sentences into five fragments is how a script hits 80 words and stops meaning anything, and it is the most common failure in this system.
+Specifically banned:
+- Fragments that drop the noun. "Seven listings open in ten" becomes "Seven of them she could book in ten minutes."
+- Abstractions where a real actor exists. A listing cannot reject a buyer; an agent can fail to let one in. If the subject of your sentence cannot physically perform the verb, rewrite it.
+- Aphorisms as the payload. "Silence can't be a breach until you name the standard" sounds true and teaches nothing. The payload is what happened and what to do, in that order, in plain words.
+- Jargon a first-year agent would not say out loud, unless you explain it in the same breath.
+- A clever hook the next sentence has to rescue. The hook earns the next breath; it does not get bailed out by it.
+ONE IDEA PER SENTENCE. SUBJECT, VERB, OBJECT. Write it the way you would say it to one agent standing next to you.
+
 THE FOUR PASSES — ALL FOUR, EVERY TIME, IN THIS ORDER:
 This is the same build D.J. gets in Claude Code, and the passes are non-negotiable there. Even when the first draft looks strong, never skip to delivery. Run every pass silently and never narrate them. Your visible output is the finished v3 script followed by one Council Review block, and nothing else.
 
@@ -789,6 +807,7 @@ Fix everything that fails here before you polish.
 
 PASS 3 — EP POLISH. This is the pass that enforces length, and it is the one you are most likely to skimp on.
 COUNT THE SPOKEN WORDS. Actually count them, one by one, across all four beats. If the total is over 84, cut; if it is under 68, the fix is a sharper TENSION beat or a second concrete detail inside THE POINT, never padding the close. Cut WHOLE SENTENCES, never three words off each of five sentences — trimming everywhere flattens the whole script and fixes nothing. The words come out of TENSION or PAYOFF. Take NOTHING out of the hook or THE POINT; the hook is the last thing that gets cut, not the first. Check each beat against the clock — an overlong TENSION beat is the most common failure. Put the final count in frontmatter as word_count, and make it the true count of the script you are actually sending.
+THEN THE COLD-READ TEST, and it outranks the word count, the hook family, and how good your clever line was. Read the four beats only — no title, no WOW, no production notes — aloud, once, at speaking speed. Then answer in one sentence each: what is the mistake, and what do I do instead. If either answer needs the script read twice, or needs a fact that was never spoken, the script FAILS and gets rewritten. Not tightened. Rewritten.
 Then sharpen the Shareable Moment into one line an agent would forward to another agent. Read the CLOSE aloud and kill any motivational-poster ending. Then run every caption and its hashtag block through the scrub: zero em-dashes and zero double-hyphens in captions, no AI-speak throat-clearing, hashtag caps built fresh.
 Two throat-clearing openers keep showing up in this series and both are banned outright: "Here's what actually happened" and "Here's the part nobody's saying out loud." Do not open a beat with a transition sentence whose only job is to set up the next sentence. Lead with the substance. Even at 75 words you cannot afford a single word of set-up, and the hook has only 1.5 seconds.
 What comes out of this pass is v3.

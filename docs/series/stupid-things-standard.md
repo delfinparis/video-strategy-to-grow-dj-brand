@@ -47,7 +47,7 @@ The bank pre-writes one sentence per beat. The build sharpens them; it does not 
 
 | Clock beat | Seconds | Words | This lane's beat | Comes from |
 |---|---|---|---|---|
-| **HOOK** | 0:00-0:01.5 | 5-8 | **THE STUPID THING**, named flat, with the cost in it | the angle's `hook`, sharpened |
+| **HOOK** | 0:00-0:01.5 | 5-8 | **THE VERDICT**: say it is stupid, then name the thing | the angle's `hook`, sharpened |
 | **TENSION** | 0:01.5-0:06.5 | 11-14 | **LOOKS LIKE**: the recognizable scene | the entry's `looks_like`, cut to one sentence |
 | **THE POINT** | 0:06.5-0:21.5 | 34-40 | **WHY IT COSTS**: the receipt, said once, then the turn | the entry's `receipt` + the angle's `angle` |
 | **PAYOFF** | 0:21.5-0:30 | 18-22 | **THE FIX**: the swap, physical and do-it-Monday, then the loop-back | the angle's `swap` |
@@ -55,6 +55,50 @@ The bank pre-writes one sentence per beat. The build sharpens them; it does not 
 **68-84 spoken words, hard cap 88, floor 68.** Count them. STUPID-001 was written at 157 words
 to the retired 45-75s spec; it is a re-cut candidate, not a format model. The format models are
 BP-006 through BP-008 (structure) and the beat mapping above (content).
+
+## Say it is stupid (added 2026-09-10)
+
+**D.J., 2026-09-10:** *"We should also say somewhere 'this is really stupid' - lean on the
+negative and then produce the solution."*
+
+The lane is called Stupid Things Realtors Do and not one script had ever said the thing was
+stupid. Every one of them opened on a cost, a scene, or a clever reframe and left the viewer to
+work out that this was the mistake rather than the tip. That is now a required line.
+
+**Every script says out loud, in plain words, that the behavior is stupid, inside the first ten
+seconds, before the fix.** Usually it IS the hook, because "Here's a stupid way to lose a sale"
+is eight words and clears heat 4 on its own. If the hook is doing something else, the verdict
+lands in TENSION. It never lands after the fix, because the shape D.J. asked for is negative
+first, then solution.
+
+Use the word. "Stupid" is the sanctioned word and the series name; "dumb" is the one alternate
+when the softer register is a better fit for a `target: self` script. Do not reach for
+"suboptimal," "a missed opportunity," "worth rethinking," or any other way of not saying it.
+
+**It points at the behavior. Never at the person. Rule 9.4 is unchanged and absolute.**
+
+- Clears: "Here's a stupid way to lose a sale." "This is a dumb thing we all do." "That's a
+  stupid reason to lose a listing."
+- Banned: "You're being stupid." "Stupid agents do this." "If you do this, you're an idiot."
+
+The test is the same one Rule 9.4 always applied: the agent doing this right now has to feel
+*caught*, not *insulted*, and a good agent who might join Kale has to respect the person saying
+it out loud.
+
+**One verdict, said once.** It is a flat statement, not a theme. Repeating it in THE POINT and
+again in the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix.
+
+## Plain words, or it does not ship
+
+Rule 5's comprehension rule applies to every lane and it binds hardest here, because this lane's
+whole job is that an agent watches it once and knows what to stop doing. Read it in
+[`../editorial-standards.md`](../editorial-standards.md) and run its **cold-read test** on every
+tip: read the four beats aloud once, then say in one sentence what the mistake is and in one
+sentence what to do instead. If either needs a second read, rewrite.
+
+The failure this lane produces, every time, is compression. At 80 words the writer starts
+dropping nouns and articles to make the count instead of dropping a whole idea. **Cut ideas, not
+grammar.** A tip that genuinely cannot be said plainly in 84 words is two tips.
 
 **The swap is never what gets cut.** An indictment with no fix is a rant, and the lane's whole
 job is the fix. If the script is over, cut the scene to its shortest recognizable form, then
@@ -128,6 +172,11 @@ reloads the hook (Rule 9.1). Never a moral.
       it is a Broker Problem)
 - [ ] `bank_id` and `bank_angle` in frontmatter; the angle is still open in the bank
 - [ ] Receipt re-verified, or no number spoken
+- [ ] **The verdict is spoken**: the behavior is called stupid (or dumb) in plain words, inside
+      the first ten seconds, before the fix, aimed at the behavior and not the person
+- [ ] **Cold-read test passed**: read the four beats aloud once; the mistake and the fix are each
+      sayable in one sentence without a second read
+- [ ] No dropped-noun fragments, no aphorism carrying the payload, no jargon left unexplained
 - [ ] Hook names the cost in 5-8 words; family rotated from the previous post
 - [ ] `target` declared; `self` scripts sit at or under 4.3
 - [ ] The swap is physical, one move, and survives the cut

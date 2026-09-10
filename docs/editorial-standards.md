@@ -414,6 +414,55 @@ D.J. has interviewed 700+ top-producing agents over 12+ years and sits as 1 of 1
 - **Natural:** "I've interviewed over 700 agents on the Keeping It Real Podcast. This came up in almost every conversation about lead gen."
 - **Forced (avoid):** "As the host of a top real estate podcast with 3.2 million downloads..."
 
+### Say it plainly - the comprehension rule (added 2026-09-10)
+
+**D.J., 2026-09-10, after reading a finished script:** *"The script writing is getting too clever
+for the general public. I just read the one listed below and I didn't understand it."*
+
+The script he could not follow was inside every other rule in this file. It was 80 words, four
+beats, on the clock, fact-checked, council-reviewed. It was also this:
+
+> Buyer flies in for one day. Seven listings open in ten. Eighth is call-to-show.
+
+Ten what? Which eighth? Nothing here is wrong. It is just unreadable at speaking speed by
+anyone who is not already holding the whole scene in their head. **A viewer hears a video once,
+at speed, usually while doing something else. A line that needs a second listen does not exist.**
+
+**Clarity outranks the word budget.** This is the tiebreak, and it is the whole rule. When a
+beat will not fit, cut an IDEA, never the GRAMMAR. Whole sentences come out; the sentences that
+stay are whole. Compressing five sentences into five fragments is how a script hits 80 words and
+stops meaning anything, and it is the single most common failure in this system.
+
+What that bans, specifically:
+
+- **Fragments that drop the noun.** "Seven listings open in ten" -> "Seven of them she could
+  book in ten minutes." "Eighth is call-to-show" -> "The last one, you had to call for."
+- **Abstractions where a real actor exists.** A listing cannot reject a buyer. An agent can fail
+  to let one in. Say who did what to whom. If the subject of your sentence cannot physically
+  perform the verb, rewrite it.
+- **Aphorisms as the payload.** "Silence can't be a breach until you name the standard" sounds
+  true and teaches nothing. The payload is the thing that happened and the thing to do, in that
+  order, in plain words.
+- **Jargon a first-year agent would not say out loud.** Either replace it or explain it in the
+  same breath. Insider shorthand reads as competence to the writer and as noise to the viewer.
+- **A clever line the script then has to explain.** If the hook needs the next sentence to make
+  sense of it, the hook is not doing its job. Rule 2 is "does it earn the next breath," not
+  "does the next breath rescue it."
+
+**The cold-read test (run it in Pass 3, every script).** Read the four beats aloud, once,
+at speaking speed, and nothing else - no title, no WOW, no production notes. Then answer two
+questions in one sentence each:
+
+1. What is the mistake?
+2. What do I do instead?
+
+If either answer needs the script read twice, or needs a fact that was never spoken, the script
+fails and gets rewritten. Not tightened - rewritten. This test outranks the word count, the
+hook family, and how good the clever line was.
+
+**One idea per sentence. Subject, verb, object.** Write it the way you would say it to one agent
+standing next to you, and then check that it survived the trim.
+
 ### Pacing - write for delivery, not reading
 
 - **Short punchy sentences for emphasis.** Like this.

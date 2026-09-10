@@ -89,6 +89,21 @@ Before the usual stress test, check the draft against the
    is two scripts -- build the stronger half and say which half you built.
 6. **No fabricated story.** No invented scene, character, detail, or quote was
    added to make the middle land. Every specific traces to a source (Rule 1).
+7. **Can a stranger follow it?** Rule 5's comprehension rule, added 2026-09-10
+   after D.J. read a finished script and could not understand it. One idea per
+   sentence, subject-verb-object, no dropped-noun fragments, no abstraction
+   where a real actor exists, no aphorism carrying the payload. **Clarity
+   outranks the word budget: when a beat will not fit, cut an idea, never the
+   grammar.**
+8. **The cold-read test** (also run again in EP polish). Read the four beats
+   aloud, once, at speaking speed, and nothing else. Then say in one sentence
+   what the mistake is and in one sentence what to do instead. If either needs
+   a second read, the script is rewritten, not tightened. This outranks the word
+   count, the hook family, and the clever line.
+9. **[TIP] only: is the verdict spoken?** The script says out loud, in plain
+   words, that the behavior is stupid, inside the first ten seconds and before
+   the fix, aimed at the behavior and never the person. See
+   [`../series/stupid-things-standard.md`](../series/stupid-things-standard.md).
 
 Every series runs the same four-beat clock and the compressed Act 2 (TENSION +
 THE POINT, with the turn in the seam between them). The old narrative/tactical

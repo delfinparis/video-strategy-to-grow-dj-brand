@@ -199,7 +199,7 @@
           "swap": "At the signing table, say the window. 'You'll hear from me every Friday, and inside four hours on anything urgent.' Then put a recurring Friday task in your phone before you leave the table.",
           "status": "used",
           "used_date": "2026-09-10",
-          "script": "scripts/stupid-things/STUPID-002-your-client-apologizes.md"
+          "script": "scripts/stupid-things/STUPID-002-going-quiet-after-the-contract.md"
         },
         {
           "angle": "The holding text: the cost is the silence, not the delay",
@@ -592,11 +592,16 @@
       "target": "sideways",
       "heat_ceiling": 4.3,
       "receipt": {
-        "status": "confirmed",
+        "status": "needed",
         "source": "Virtuance",
         "year": 2026,
         "url": "https://www.virtuance.com/blog/chicago-real-estate-market/",
-        "claim": "The typical Chicago home takes about 47 days to sell."
+        "claim": "UNVERIFIED as of 2026-09-10, and wrong twice. (1) The cited Virtuance page does not say 47 days: it gives a RANGE, 'median days homes have sat on the market have been ranging between 29-51 days for this year' (June 2026). The banked 47 was manufactured from that range, which Rule 1 bans outright. (2) Even if it were exact, days on market is not evidence for this practice -- the page carries no showing-access, lockbox or showing-instruction statistic at all. Speak no number on this entry. Both builds (2026-09-10 email cut and STUPID-003) ran NEEDS RECEIPT and cited nothing.",
+        "verified_check": {
+          "date": "2026-09-10",
+          "by": "board-check flag, then source re-read",
+          "result": "failed"
+        }
       },
       "sightings": [
         {
@@ -624,7 +629,7 @@
           "swap": "Open your own active listings in the MLS as if you were a buyer's agent. If you can't figure out how to get in within thirty seconds, neither can they.",
           "status": "used",
           "used_date": "2026-09-10",
-          "script": "board: https://app.notion.com/p/3d7313fa289281679677c7f1decea2c8"
+          "script": "scripts/stupid-things/STUPID-003-stupid-way-to-lose-a-sale.md"
         },
         {
           "angle": "Every hoop is a filter that removes buyers, and the seller should hear that tradeoff out loud",
@@ -2472,13 +2477,13 @@
       "date": "2026-09-10",
       "id": "ST-0011",
       "angle": "A showing that never happened looks exactly like a house nobody wanted, and the seller can't tell the difference",
-      "script": "board: https://app.notion.com/p/3d7313fa289281679677c7f1decea2c8"
+      "script": "scripts/stupid-things/STUPID-003-stupid-way-to-lose-a-sale.md"
     },
     {
       "date": "2026-09-10",
       "id": "ST-0002",
       "angle": "The published response standard: tell the client your response window out loud at signing, so silence becomes a breach they can name",
-      "script": "scripts/stupid-things/STUPID-002-your-client-apologizes.md"
+      "script": "scripts/stupid-things/STUPID-002-going-quiet-after-the-contract.md"
     }
   ],
   "rejected": [
