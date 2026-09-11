@@ -345,7 +345,12 @@ def cmd_pick(data, args):
         L.append(f"**The swap:** {ang.get('swap')}")
         if ang.get("hook"):
             L.append("")
-            L.append(f"**Hook (spoken, sharpen at build time):** \"{ang['hook']}\"")
+            L.append(f"**Hook (starting point; strip it back to the thing agents do):** \"{ang['hook']}\"")
+        # D.J., 2026-09-11: every script in this lane says this line, verbatim, right
+        # after the hook names the thing. Carried on every option so both briefs and
+        # both generators see it without reading the standard.
+        L.append("")
+        L.append("**Verdict (beat two, verbatim, every script):** \"That's really stupid. Here's why.\"")
         if len(open_angles(e)) > 1:
             L.append("")
             L.append(f"_{len(open_angles(e)) - 1} other open angle(s) banked on this practice._")

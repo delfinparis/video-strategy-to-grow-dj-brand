@@ -65,6 +65,20 @@ Format: **line** *(heat / suggested visual move #)*
 
 ---
 
+## Stupid Things: the hook names the thing, the verdict does the rest *(2026-09-11)*
+
+In this lane the first spoken line is not a hook family flex. It names one thing agents do, flat,
+in 5-8 plain words, and the fixed second line carries the heat: **"That's really stupid. Here's
+why."** Pull the shape, not the line, and still log the family.
+
+- "You took the listing at the seller's number. That's really stupid. Here's why."
+- "Your listing has no lockbox. This is really stupid. Here's why."
+- "You went quiet after the contract signed. That's really stupid. Here's why."
+- "You sent the offer with no cover note. That's really stupid. Here's why."
+- "You let the buyer waive the inspection. That's really stupid. Here's why."
+
+Never: "You're really stupid." "Stupid agents do this." The "that" is the thing, never the person.
+
 ## How to use this each morning
 
 1. Check yesterday's `hook_family` and `pattern_interrupt` in the last script. Pick a different family and a different move.

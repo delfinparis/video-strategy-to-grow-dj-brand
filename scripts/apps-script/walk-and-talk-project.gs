@@ -550,6 +550,32 @@ const PICK_CORRECTION =
   'the one whose bank id is in its frontmatter line -- and change nothing else about the format. ' +
   'Output the full file again as your entire response, starting with the opening --- of the frontmatter.';
 
+// D.J., 2026-09-11: every [TIP] script says, verbatim, right after the hook,
+// "That's really stupid. Here's why." (or the "This is" variant). The 9/10 rule
+// said "say it is stupid somewhere in the first ten seconds" and lasted a day,
+// because "somewhere" is satisfied by a clever line with the word worked in.
+// Same principle as wrongBankId: the rule is checked in the artifact, not
+// trusted from the prompt. Only the script section counts -- the line quoted
+// back in a caption or the WOW paragraph is not the line being spoken.
+const VERDICT_RE = /\b(?:That[\u2019']s|This is) really stupid\.\s+Here[\u2019']s why\./i;
+function missingVerdict(text) {
+  const t = text || '';
+  const start = t.search(/^##\s+Script\b/m);
+  const end = t.search(/^##\s+Data Source\b/m);
+  const script = (start !== -1 && end !== -1 && end > start) ? t.slice(start, end) : t;
+  return VERDICT_RE.test(script) ? null : 'no verdict line in the script section';
+}
+
+const VERDICT_CORRECTION =
+  'That tip is missing its verdict line. Every Stupid Things script says, as its second beat, ' +
+  'right after the hook names the thing and before the cost and the fix, exactly this: ' +
+  '"That\'s really stupid. Here\'s why." (or "This is really stupid. Here\'s why." when the hook ' +
+  'describes a scene). Not "dumb", not "a mistake", not a clever line with the word worked in. ' +
+  'Put it in as its own ### VERDICT beat between ### HOOK and ### TENSION, take its five words ' +
+  'back out of TENSION, THE POINT and PAYOFF so the count still lands in 68-84, and change ' +
+  'nothing else about the format. Output the full file again as your entire response, starting ' +
+  'with the opening --- of the frontmatter.';
+
 /* ---------- 4. Generate one script: web-verify the facts, then write the full file ---------- */
 function generateScript(apiKey, brief, reply, pick) {
   const block = optionBlock(brief, pick);
@@ -648,6 +674,23 @@ function generateScript(apiKey, brief, reply, pick) {
       messages.push({ role: 'user', content: PICK_CORRECTION });
       continue;
     }
+
+    // Right structure, right option. Does it say the line? A [TIP] without the
+    // verdict is a complete, well-formed script for the 2026-09-10 rules, which
+    // is exactly the case no structural check can see. [NEWS] picks skip this.
+    if (isTipOption(brief, pick)) {
+      const noVerdict = missingVerdict(text);
+      if (noVerdict) {
+        if (corrections >= MAX_FORMAT_CORRECTIONS) {
+          throw tagged('model kept leaving out the verdict line (' + noVerdict + ')', false);
+        }
+        corrections++;
+        console.warn('option ' + pick + ' | verdict correction: ' + noVerdict);
+        messages.push({ role: 'assistant', content: data.content });
+        messages.push({ role: 'user', content: VERDICT_CORRECTION });
+        continue;
+      }
+    }
     return text;
   }
   throw tagged('did not finish after ' + MAX_TURNS + ' turns', true);
@@ -666,17 +709,20 @@ const TIP_BUILD_NOTE =
   'THIS OPTION IS A [TIP], a realtor tip off the Stupid Things Realtors Do bank, not a news script. ' +
   'Build it to docs/series/stupid-things-standard.md, which you do not have, so here is the whole of it: ' +
   'the lane names one specific thing agents do that costs a client, a deal, or the agent on the other side, ' +
-  'and hands over the exact thing to do instead. Same four-beat clock, mapped like this: ' +
-  'HOOK = THE VERDICT, then the thing: say out loud that this is stupid, in plain words, then name the behavior (sharpen the brief\'s spoken hook; 5-8 words); ' +
-  'TENSION = the recognizable scene from the brief\'s "looks like" line, cut to one sentence; ' +
-  'THE POINT = the receipt said once with its limit, then the turn (the brief\'s "angle on the fix"); ' +
-  'PAYOFF = the swap, physical and do-it-Monday, then the loop-back. The swap is never what gets cut. ' +
-  'SAY IT IS STUPID (D.J., 2026-09-10: "we should also say somewhere this is really stupid -- lean on the negative and then produce the solution"). ' +
-  'The lane is called Stupid Things Realtors Do and not one script had ever said the thing was stupid, which is why they read as clever reframes instead of as the mistake. ' +
-  'Every tip now says out loud, in plain words, that the BEHAVIOR is stupid, inside the first ten seconds and BEFORE the fix. Usually it is the hook itself -- "Here is a stupid way to lose a sale" is eight words and clears heat 4 on its own. If the hook is doing something else, the verdict lands in TENSION. Never after the fix: negative first, then solution. ' +
-  'Use the word. "Stupid" is the sanctioned word and the series name; "dumb" is the one alternate for a softer target: self script. Never "suboptimal", "a missed opportunity", or "worth rethinking". ' +
-  'It points at the BEHAVIOR and never at the person: "Here is a stupid way to lose a sale" clears; "you are being stupid" and "stupid agents do this" are banned. The agent doing it right now must feel caught, not insulted. ' +
-  'Say it ONCE. Repeating the verdict in THE POINT and again in the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix. ' +
+  'and hands over the exact thing to do instead. This lane runs FIVE beats on the universal clock, because a fixed verdict line sits right after the hook: ' +
+  'HOOK (0:00-0:01.5, 5-8 words) = THE THING: name the behavior, flat, in plain words, as a thing agents do ("You took the listing at the seller\'s number." / "Your listing has no lockbox."). The brief\'s hook is a starting point only; most banked hooks were written clever, so strip it back to the behavior. ' +
+  'VERDICT (0:01.5-0:03.5, 5 words) = the line, VERBATIM: "That\'s really stupid. Here\'s why." ' +
+  'TENSION (0:03.5-0:08, 10-12 words) = the recognizable scene from the brief\'s "looks like" line, cut to one sentence; ' +
+  'THE POINT (0:08-0:22, 32-38 words) = the receipt said once with its limit, then the turn (the brief\'s "angle on the fix"); ' +
+  'PAYOFF (0:22-0:30, 16-20 words) = the swap, physical and do-it-Monday, then the loop-back to the HOOK. The swap is never what gets cut. Total still 68-84 spoken words. ' +
+  'THE VERDICT LINE (D.J., 2026-09-11: "for the stupid things realtors do we should literally say in every script: that\'s really stupid, here\'s why"). ' +
+  'The 2026-09-10 rule said to say it is stupid "somewhere in the first ten seconds", and one day later the scripts were still opening on a clever line with the word worked in sideways. So the line is now fixed. Every tip says, as its second beat, right after the hook names the thing and before the cost and the fix: "That\'s really stupid. Here\'s why." Nothing in it varies. The one permitted variant is "This is really stupid. Here\'s why." when the hook describes a scene rather than a behavior. ' +
+  'Banned: "dumb", "not smart", "a mistake", "kind of stupid", "pretty stupid", "suboptimal", "a missed opportunity", "worth rethinking", and any other way of not saying the line. The softer alternate for target: self is retired; a self script says the same line. ' +
+  'It is a series signature (Rule 6), not a hook family. The council may vary the HOOK in its scroll-stop variants; it may never vote the verdict line out for fatigue. It is supposed to be the same every time. ' +
+  'It points at the BEHAVIOR and never at the person: "That\'s" refers to the thing the hook just named. "You took the listing at the seller\'s number. That\'s really stupid. Here\'s why." clears; "you\'re really stupid", "stupid agents do this", "realtors are stupid about this" are banned. The agent doing it right now must feel caught, not insulted. ' +
+  'Say it ONCE. The verdict beat is the only place the word appears; repeating it in THE POINT or the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix. The loop-back reloads the hook, not the verdict. ' +
+  'A script without the verdict line verbatim is not a finished tip and will be sent back once, then fail. ' +
+  'REGISTER (D.J., 2026-09-11: "more blunt and edgy"): blunt in the words, never in the target. Second person, present tense, no hedges, costs named as costs (a deal, a listing, a client, money, a lawsuit). "Hell", "damn", "crap" at most once per script, never in the hook, the verdict, or a caption; no "shit", no F-bombs. Friction still points at the behavior, and heat 5 is still banned. ' +
   'If the brief marks the receipt NEEDS RECEIPT, speak NO number: run the scene and the swap and say nothing a commenter can check and beat. ' +
   'Target class: "sideways" points at the agent on the other side of the deal and carries full heat (4 to 4.7); ' +
   '"self" points at the viewer and caps at 4.3, reaching the band through specificity about the cost, never a verdict on the person. ' +
@@ -784,6 +830,16 @@ Specifically banned:
 - A clever hook the next sentence has to rescue. The hook earns the next breath; it does not get bailed out by it.
 ONE IDEA PER SENTENCE. SUBJECT, VERB, OBJECT. Write it the way you would say it to one agent standing next to you.
 
+DIRECT, ON THE NOSE, BLUNT — THE GENERAL-PUBLIC RULE (D.J., 2026-09-11, and it binds every series):
+"I would like the language to be more direct, less clever, more on the nose and simple. I think we often use words and phrases that would confuse the general public." Then: "Let's be more blunt and edgy."
+The viewer to write for is a member of the general public: someone with no license who follows a realtor on Instagram. If a line only lands for someone who already works in the business, it is not plain enough. Three tests, run in Pass 3 on every script:
+1. THE UNCLE TEST. Read each beat as a first-year agent's uncle. Every line lands on the first hearing with no real estate vocabulary in his head.
+2. THE CLEVER TEST. If a sentence would make a copywriter nod, cut it and say what it meant. No wordplay, no metaphor carrying the payload, no reframe the viewer has to decode, no withheld noun, no line that sounds like a podcast intro. The old asks for a parenthetical aside and a setup-subversion joke are RETIRED for scripts; they are where the cleverness came from.
+3. THE HEDGE TEST. Every softener comes out: "a lot of agents", "sometimes", "this might", "I could be wrong", "with respect", "consider", "you might want to". Say it flat.
+TRANSLATE THE SHORTHAND, or say the term and explain it in the same breath: comps/CMA -> what nearby homes actually sold for; DOM -> how long it has been for sale; co-op / the other side -> the other agent, the buyer's agent; contingency -> the escape clause; call-to-show -> you have to call the agent to get in; dual agency -> one agent working both sides; escrow / earnest money -> the deposit; pre-approval -> a lender's letter saying they can afford it; under contract / pending -> signed but not closed; appraisal gap -> the bank says the house is worth less than the offer. "Listing" and "listing agent" are fine; the public knows them.
+BLUNT AND EDGY MEANS THE WORDS, NOT THE TARGET. Second person, present tense, costs named as costs: a deal, a listing, a client, money, a lawsuit. "Hell", "damn" and "crap" may appear at most once per script, never in the hook and never in a caption; no "shit", no F-bombs, because these run as recruiting assets and captions.ai prints every spoken word on screen. Heat rules do not move: friction still points at the behavior, tool, practice or system, never at the agent, a cohort, a brokerage or a person, and heat 5 stays banned.
+THE CLOSE IS AN ORDER. "Stop doing it. Do this instead." Never "consider", never "you might want to", never "here's a thought".
+
 THE FOUR PASSES — ALL FOUR, EVERY TIME, IN THIS ORDER:
 This is the same build D.J. gets in Claude Code, and the passes are non-negotiable there. Even when the first draft looks strong, never skip to delivery. Run every pass silently and never narrate them. Your visible output is the finished v3 script followed by one Council Review block, and nothing else.
 
@@ -851,7 +907,10 @@ status: "draft"
 ### HOOK (0:00-0:01.5) — 5-8 words
 <ONE short sentence. The literal first SPOKEN line, opening on a cost or a loss or a wrong default. Captions are auto-generated from audio, so the hook cannot live in on-screen text only. Cold open, no "Hey guys." This is one line and you move -- TENSION starts at 0:01.5.>
 
-### TENSION (0:01.5-0:06.5) — 11-14 words
+### VERDICT (0:01.5-0:03.5) — 5 words   <-- [TIP] scripts ONLY; a [NEWS] script has no VERDICT beat and goes straight to TENSION at 0:01.5
+That's really stupid. Here's why.
+
+### TENSION (0:01.5-0:06.5) — 11-14 words   <-- in a [TIP] script this beat is 0:03.5-0:08 and 10-12 words; THE POINT is 0:08-0:22 and 32-38; PAYOFF is 0:22-0:30 and 16-20
 <What this costs the agent, and why it matters right now. Make them feel the size of it. This beat does NOT introduce the topic and it does NOT restate the hook at lower volume -- it raises the stakes the hook named.>
 
 ### THE POINT (0:06.5-0:21.5) — 34-40 words
@@ -900,6 +959,6 @@ The last block in the file and the entire visible output of Pass 4. Keep it tigh
 
 VOICE RULES (non-negotiable):
 - First person always. Short sentences (11-15 word avg, 25 max). Contractions always.
-- 1-2 parenthetical asides. At least one setup-subversion joke. Specific self-deprecation, then pivot. Vulnerability stated plainly. Short landing, never a moral. Funny from honesty and specificity, smart but never intellectual.
+- No parenthetical asides and no setup-subversion jokes in a script (retired for video 2026-09-11; those were blog rules and they are where the cleverness came from). Blunt, plain, on the nose. Vulnerability stated plainly. Short landing, never a moral. Smart but never intellectual; the general public follows every line.
 - NEVER USE: dive in, delve, unpack (metaphor), robust, seamlessly, transformative, unlock (metaphor), pivotal, empower, landscape (metaphor), holistic, cutting-edge, leverage (verb), synergy, ecosystem, at the end of the day, here's the thing (opener), I'm passionate about, game-changer, let's be real/honest (opener), in today's world, that being said, first and foremost, absolutely/exactly/totally (as agreement), great question.
 - Spoken script may use double-hyphens; SOCIAL CAPTIONS may not. Keep every verified number exact.`;

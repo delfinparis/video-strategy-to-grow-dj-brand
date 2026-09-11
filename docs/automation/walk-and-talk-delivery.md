@@ -256,6 +256,30 @@ in the system prompt because this generator has no repo access and cannot read
 same way the subject line is.** Change a hook family or a council doctrine in the
 docs and the email path keeps using the old one until someone edits the `.gs`.
 
+## The verdict line is checked, not hoped for (2026-09-11)
+
+D.J., 2026-09-11: *"more direct, less clever, more on the nose and simple ... for the stupid
+things realtors do we should literally say in every script: 'that's really stupid, here's
+why.'"* Then: *"more blunt and edgy."*
+
+The 2026-09-10 rule ("say it is stupid somewhere in the first ten seconds") lasted one day,
+because a rule that says *somewhere* gets satisfied by a clever line with the word worked in
+sideways. The line is now fixed and verbatim, and, like the bank id, it is checked in the
+artifact. `missingVerdict()` runs on every `[TIP]` pick after the structure and bank-id checks:
+the script section has to contain `That's really stupid. Here's why.` (or the `This is` variant,
+straight or curly apostrophes). A miss spends the one correction turn with `VERDICT_CORRECTION`;
+a second miss fails non-retryable, the same shape as the other two checks. `[NEWS]` picks skip
+it.
+
+The register change (blunt, plain, general-public, no asides or jokes, translate the shorthand,
+edge in the words never the target) is inlined in `VOICE_SYSTEM_PROMPT` under **SAY IT
+PLAINLY** and in the `TIP_BUILD_NOTE`, which now carries the five-beat clock. Both are part of
+the four-file contract above: [`../editorial-standards.md`](../editorial-standards.md) Rule 5
+and [`../series/stupid-things-standard.md`](../series/stupid-things-standard.md) changed on the
+same day, and the `.gs` has to be **re-pasted into the Apps Script editor** for the email path
+to pick any of it up. Until it is, the email path builds to the 2026-09-10 rules and the
+Claude Code path builds to the 2026-09-11 rules.
+
 ## The alarm
 
 `scripts/apps-script/walk-and-talk-autosend.gs` now raises the alarm itself.

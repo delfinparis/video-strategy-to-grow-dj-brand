@@ -41,57 +41,135 @@ lane entirely; that is a Broker Problem.
 
 ---
 
-## The four beats on the universal clock
+## The five beats on the universal clock (revised 2026-09-11)
 
 The bank pre-writes one sentence per beat. The build sharpens them; it does not start over.
+This lane runs the universal four-beat clock with one fixed beat wedged in after the hook: the
+verdict line. It is five words and it is the same five words in every script.
 
 | Clock beat | Seconds | Words | This lane's beat | Comes from |
 |---|---|---|---|---|
-| **HOOK** | 0:00-0:01.5 | 5-8 | **THE VERDICT**: say it is stupid, then name the thing | the angle's `hook`, sharpened |
-| **TENSION** | 0:01.5-0:06.5 | 11-14 | **LOOKS LIKE**: the recognizable scene | the entry's `looks_like`, cut to one sentence |
-| **THE POINT** | 0:06.5-0:21.5 | 34-40 | **WHY IT COSTS**: the receipt, said once, then the turn | the entry's `receipt` + the angle's `angle` |
-| **PAYOFF** | 0:21.5-0:30 | 18-22 | **THE FIX**: the swap, physical and do-it-Monday, then the loop-back | the angle's `swap` |
+| **HOOK** | 0:00-0:01.5 | 5-8 | **THE THING**: name the behavior, flat, as a thing agents do | the entry's `practice`, said plainly |
+| **VERDICT** | 0:01.5-0:03.5 | 5 | **"That's really stupid. Here's why."** Verbatim. | fixed; never rewritten |
+| **TENSION** | 0:03.5-0:08 | 10-12 | **LOOKS LIKE / WHAT IT COSTS**: the recognizable scene, one sentence | the entry's `looks_like`, cut to one sentence |
+| **THE POINT** | 0:08-0:22 | 32-38 | **WHY**: the receipt, said once, then the turn | the entry's `receipt` + the angle's `angle` |
+| **PAYOFF** | 0:22-0:30 | 16-20 | **THE FIX**: the swap, physical and do-it-Monday, then the loop-back | the angle's `swap` |
 
-**68-84 spoken words, hard cap 88, floor 68.** Count them. STUPID-001 was written at 157 words
-to the retired 45-75s spec; it is a re-cut candidate, not a format model. The format models are
-BP-006 through BP-008 (structure) and the beat mapping above (content).
+**68-84 spoken words, hard cap 88, floor 68.** The verdict's five words come out of TENSION,
+THE POINT and PAYOFF (two, two and two off the old budgets), never out of the hook. Count them.
+STUPID-001 was written at 157 words to the retired 45-75s spec; it is a re-cut candidate, not a
+format model. The format models are BP-006 through BP-008 (structure) and the beat mapping
+above (content).
 
-## Say it is stupid (added 2026-09-10)
+The angle's banked `hook` is now a **starting point for THE THING, not a finished line.** Most
+banked hooks were written clever ("They bought your listing, and you'll pay it back at closing
+with interest"). Strip that back to the behavior: "You took the listing at the seller's number."
+The verdict does the work the clever line used to do.
+
+## The verdict line: "That's really stupid. Here's why." (revised 2026-09-11)
 
 **D.J., 2026-09-10:** *"We should also say somewhere 'this is really stupid' - lean on the
 negative and then produce the solution."*
 
-The lane is called Stupid Things Realtors Do and not one script had ever said the thing was
-stupid. Every one of them opened on a cost, a scene, or a clever reframe and left the viewer to
-work out that this was the mistake rather than the tip. That is now a required line.
+**D.J., 2026-09-11:** *"I would like the language to be more direct, less clever, more on the
+nose and simple. I think we often use words and phrases that would confuse the general public.
+For the 'stupid things realtors do' we should literally say in every script: 'that's really
+stupid, here's why.'"* And then: *"Let's be more blunt and edgy."*
 
-**Every script says out loud, in plain words, that the behavior is stupid, inside the first ten
-seconds, before the fix.** Usually it IS the hook, because "Here's a stupid way to lose a sale"
-is eight words and clears heat 4 on its own. If the hook is doing something else, the verdict
-lands in TENSION. It never lands after the fix, because the shape D.J. asked for is negative
-first, then solution.
+The 2026-09-10 version of this rule said "say it is stupid, in plain words, somewhere in the
+first ten seconds." One day later the scripts were still opening on a clever line and working
+the word in sideways. So the line is now fixed, verbatim, in every script in the lane:
 
-Use the word. "Stupid" is the sanctioned word and the series name; "dumb" is the one alternate
-when the softer register is a better fit for a `target: self` script. Do not reach for
-"suboptimal," "a missed opportunity," "worth rethinking," or any other way of not saying it.
+> **That's really stupid. Here's why.**
 
-**It points at the behavior. Never at the person. Rule 9.4 is unchanged and absolute.**
+**Where it goes.** Beat two, right after the hook names the thing, before anything else. The
+shape of every script in this lane is: *name the thing* > *"That's really stupid. Here's why."* >
+*what it costs* > *what to do instead.* Negative first, then the solution, in that order, every
+time.
 
-- Clears: "Here's a stupid way to lose a sale." "This is a dumb thing we all do." "That's a
-  stupid reason to lose a listing."
-- Banned: "You're being stupid." "Stupid agents do this." "If you do this, you're an idiot."
+**What is allowed to vary.** Nothing in the line. "This is really stupid. Here's why." is the
+one permitted variant, for a hook that describes a scene rather than a behavior ("Your listing
+has no lockbox. This is really stupid. Here's why."). "Dumb," "not smart," "a mistake," "kind of
+stupid," "suboptimal," "a missed opportunity," and "worth rethinking" are all banned. The softer
+alternate for `target: self` scripts is retired: a self script still says the line, and it
+points at the behavior the same way.
+
+**It is a series signature, not a hook family.** Rule 6 now protects it. The council does not
+get to vote it out for fatigue (the STUPID-003 dissent that "Here's a stupid way to..." is a
+template that will wear thin is overruled by design: it is *supposed* to be the same every
+time, the way a catchphrase is). Scroll-stop variants in the Council Review vary the HOOK, never
+the verdict.
+
+**It points at the behavior. Never at the person. Rule 9.4 is unchanged and absolute.** "That's"
+refers to the thing the hook just named. The hook names a thing agents do, not the agent.
+
+- Clears: "You took the listing at the seller's number. That's really stupid. Here's why."
+  "Your listing has no lockbox. This is really stupid. Here's why." "You went quiet after the
+  contract signed. That's really stupid. Here's why."
+- Banned: "You're really stupid." "Stupid agents do this." "If you do this you're an idiot."
+  "Realtors are really stupid about this."
 
 The test is the same one Rule 9.4 always applied: the agent doing this right now has to feel
 *caught*, not *insulted*, and a good agent who might join Kale has to respect the person saying
 it out loud.
 
-**One verdict, said once.** It is a flat statement, not a theme. Repeating it in THE POINT and
-again in the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix.
+**Said once.** The verdict beat is the only place the word appears. Repeating it in THE POINT
+or the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix. The loop-back at
+the end reloads the *hook*, not the verdict.
+
+### Worked example: STUPID-003 re-cut to the shape
+
+The 2026-09-10 cut opened "Here's a stupid way to lose a sale. / Your listing has no lockbox.
+An agent has to call you to get in." Same script, new shape:
+
+```
+HOOK      Your listing has no lockbox.                                  (5)
+VERDICT   This is really stupid. Here's why.                            (6)
+TENSION   A buyer's agent has to call you just to get in.               (11)
+THE POINT She had eight houses to show in one afternoon. Seven she
+          booked in ten minutes. Yours she had to call for, and her
+          buyer flew home before you called back. Your seller will
+          never know it happened.                                       (38)
+PAYOFF    Tonight, try booking a showing on your own listing. Over
+          thirty seconds, and buyers are skipping it.                   (18)
+                                                                  78 words
+```
+
+Nothing about the angle, the receipt posture, or the fix changed. The hook stopped trying to be
+a line and just named the thing, and the verdict carries the heat.
+
+## Blunt and edgy: the register (added 2026-09-11)
+
+"More blunt and edgy" means the *language*, not the target. The heat rules below are unchanged
+and heat 5 is still banned. What changes:
+
+- **Say the thing in the fewest, plainest words.** "You lost the sale" beats "the transaction
+  quietly went sideways." One-syllable words where they exist. A first-year agent's uncle has to
+  follow every line (Rule 5, the general-public test).
+- **No cleverness.** No wordplay, no metaphor carrying the payload, no reframe the viewer has to
+  decode, no line that sounds like a podcast intro. If a sentence would make a copywriter nod,
+  cut it and say what it meant. The old short-form voice asks (one aside, one setup-subversion
+  joke) are retired for this lane; the verdict is the only joke.
+- **Second person, flat, no hedges.** "You" and "your," present tense. Every softener comes out:
+  "a lot of agents," "sometimes," "this might," "I could be wrong," "with respect."
+- **Name the cost as a cost.** Money, a deal, a client, a listing, a lawsuit. "This costs you a
+  listing a quarter" is the register. "This can impact your pipeline" is not.
+- **Edge is allowed in the words, not the target.** "Hell," "damn," and "crap" may appear at
+  most once per script, never in the hook or the verdict line, and never in a caption. No
+  "shit," no F-bombs: these run as recruiting assets and captions.ai prints every spoken word on
+  screen. The friction still points at the behavior, the tool, the practice, or the system
+  (Rule 10.0), and never at the agent, a cohort, a brokerage, or a person.
+- **The close is an order, not a suggestion.** "Stop doing it. Do this instead." "Tonight, book a
+  showing on your own listing." Never "consider," never "you might want to."
 
 ## Plain words, or it does not ship
 
 Rule 5's comprehension rule applies to every lane and it binds hardest here, because this lane's
-whole job is that an agent watches it once and knows what to stop doing. Read it in
+whole job is that an agent watches it once and knows what to stop doing. Since 2026-09-11 the
+bar is the **general public**, not the agent: someone with no license has to follow every line.
+Industry shorthand ("comps," "DOM," "co-op," "contingency," "CMA," "call-to-show") is either
+replaced with the plain phrase or explained in the same breath; Rule 5 carries the translate
+table. Read it in
 [`../editorial-standards.md`](../editorial-standards.md) and run its **cold-read test** on every
 tip: read the four beats aloud once, then say in one sentence what the mistake is and in one
 sentence what to do instead. If either needs a second read, rewrite.
@@ -133,6 +211,10 @@ number: run it as the scene and the swap, and say nothing a commenter can check 
 - Family 9 is the save magnet and this lane's natural shape. It still has to open on a cost or a
   wrong default to clear heat 4: "Stop saying 'I'll get you top dollar.' It costs you the
   listing" clears; "Here's a better way to say it" does not.
+- Since 2026-09-11 the hook's only job is to **name the thing** so the verdict line has
+  something to point at. The family is still logged, but a family-9 hook in this lane reads
+  "You tell sellers you'll get them top dollar." not "Stop saying top dollar." The "stop" is the
+  PAYOFF's job.
 - Pattern interrupt: One Prop and Gesture-On-Beat pair with Swap/List; Walk-Toward with Cohort
   Callout and Mirror; Location Cold-Open when the scene is on-site (a stale sign, a lockbox).
 
@@ -172,10 +254,16 @@ reloads the hook (Rule 9.1). Never a moral.
       it is a Broker Problem)
 - [ ] `bank_id` and `bank_angle` in frontmatter; the angle is still open in the bank
 - [ ] Receipt re-verified, or no number spoken
-- [ ] **The verdict is spoken**: the behavior is called stupid (or dumb) in plain words, inside
-      the first ten seconds, before the fix, aimed at the behavior and not the person
-- [ ] **Cold-read test passed**: read the four beats aloud once; the mistake and the fix are each
+- [ ] **The verdict line is there, verbatim**: "That's really stupid. Here's why." (or "This is
+      really stupid. Here's why.") as beat two, right after the hook names the thing, before the
+      cost and the fix; said once; aimed at the behavior and not the person
+- [ ] **The hook names the thing**, flat, in 5-8 words; it is not a clever line the verdict has
+      to follow up
+- [ ] **Cold-read test passed**: read the five beats aloud once; the mistake and the fix are each
       sayable in one sentence without a second read
+- [ ] **General-public test passed**: no industry shorthand left unexplained, no wordplay, no
+      metaphor carrying the payload, no hedges; at most one "hell/damn/crap," never in the hook,
+      verdict, or captions
 - [ ] No dropped-noun fragments, no aphorism carrying the payload, no jargon left unexplained
 - [ ] Hook names the cost in 5-8 words; family rotated from the previous post
 - [ ] `target` declared; `self` scripts sit at or under 4.3

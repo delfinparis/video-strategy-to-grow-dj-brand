@@ -137,7 +137,9 @@ at a *behavior*, which is already the safest place to put it, so raising the flo
 lane less than it costs the others. Write to the top of the band: name the wrong default flatly,
 put the cost in the first ten seconds, and cut the softeners -- "maybe," "a lot of agents,"
 "this might be," "I could be wrong." Heat in this lane is a verdict with a receipt, not a
-stronger adjective.
+stronger adjective. Since 2026-09-11 the verdict is literal and fixed: "That's really stupid.
+Here's why." right after the hook, in every script, and the whole register is blunt and plain
+for the general public (Rule 5). Edge is in the words, never in the target.
 
 **The real ceiling here comes from the target rule, not from a number.** `target: sideways`
 entries carry full heat because the wronged party is the agent watching. **`target: self`
@@ -197,11 +199,15 @@ reel (68-84 spoken words, hard cap 35s, per Rule 7 as revised 2026-08-25) is alr
 each entry, one sentence per beat:
 
 ```
-HOOK          the angle's `hook` -- spoken, because captions.ai builds captions from audio
+HOOK          the entry's `practice`, named flat -- spoken, because captions.ai builds captions from audio
+VERDICT       "That's really stupid. Here's why." -- verbatim, every script (D.J., 2026-09-11)
 LOOKS LIKE    the entry's `looks_like` -- the recognizable scene, Act 2
 WHY IT COSTS  the `receipt` -- the sourced number, said once
 THE FIX       the angle's `swap` -- the do-this-instead standard
 ```
+
+The angle's `hook` field is a starting point for the HOOK, not a finished line. Most were banked
+clever; the build strips them back to the behavior so the verdict has something to point at.
 
 The build pass still runs all four passes over it. The bank hands over a strong draft, not a
 finished script: the hook gets sharpened to the day, the receipt gets re-verified, and the

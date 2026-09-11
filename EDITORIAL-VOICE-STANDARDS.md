@@ -96,7 +96,7 @@ I appreciate you sharing
 
 **Podcast scripts:** More digressive than written. Let D.J. wander. Co-host reels him back.
 
-**Video scripts (reels/short-form):** Compress. Cold open in 3 seconds. One aside, one subversion, done.
+**Video scripts (reels/short-form):** Compress. Cold open in 1.5 seconds. Blunt and plain, for the general public: say the thing, say why, say what to do. No aside, no setup-subversion joke, no line a viewer with no license would have to decode (revised 2026-09-11; the aside and joke asks above are for blog-length prose, not 30-second video). See `docs/editorial-standards.md` Rule 5.
 
 **Email/outreach:** Keep warmth, lose digressions. Feel like a text from a friend who runs a brokerage.
 

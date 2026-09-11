@@ -486,8 +486,12 @@ check('pickNote keeps nothing from a bare pick',
 // A complete, well-formed [TIP] script for a given bank id. The whole point of
 // the 9/10 failure is that this passes every structural check while being the
 // wrong story, so the fixture has to be genuinely valid.
+// Since 2026-09-11 a valid tip also carries the verdict line as beat two, so
+// the fixture says it (or the M4 tests would be testing the verdict check).
 const VALID_TIP = id => VALID_SCRIPT.replace(
-  /^---\n/, '---\nbank_id: "' + id + '"\n');
+  /^---\n/, '---\nbank_id: "' + id + '"\n').replace(
+  '### HOOK (0:00-0:09)\n',
+  '### HOOK (0:00-0:01.5)\nYour listing has no lockbox.\n\n### VERDICT (0:01.5-0:03.5)\nThat\'s really stupid. Here\'s why.\n\n### TENSION (0:03.5-0:08)\n');
 
 console.log('\nM3. The prompt: the pick selects the option, not the reply text');
 function promptFor(brief, reply, pick) {
@@ -543,6 +547,42 @@ check('the right option still costs exactly one call', w.calls === 1, 'api calls
 w = callGenerateOn(TIP_BRIEF, '4', [say(VALID_SCRIPT)]);
 check('a [NEWS] pick is unaffected by the bank check', w.calls === 1 && w.out === VALID_SCRIPT,
   'api calls=' + w.calls);
+
+// ------------------------------------------------ the verdict line (2026-09-11)
+//
+// D.J.: "we should literally say in every script: that's really stupid, here's
+// why." The 9/10 rule said to say it "somewhere" and was satisfied by a clever
+// line with the word in it. A script that clears every structural check and
+// the bank-id check can still be a 9/10-shaped tip, so the line is checked in
+// the artifact like the bank id is.
+console.log('\nN. missingVerdict: a [TIP] has to say the line, in the script section');
+const verdict = t => vm.runInContext('missingVerdict(' + JSON.stringify(t) + ')', V);
+const NO_VERDICT_TIP = VALID_TIP('ST-0002').replace("That's really stupid. Here's why.", "Here's a stupid way to lose a sale.");
+check('a tip with the line passes', verdict(VALID_TIP('ST-0002')) === null, String(verdict(VALID_TIP('ST-0002'))));
+check('THE 9/10-SHAPED TIP: "stupid" worked into a clever hook is caught',
+  verdict(NO_VERDICT_TIP) !== null, String(verdict(NO_VERDICT_TIP)));
+check('the "This is" variant passes',
+  verdict(VALID_TIP('ST-0002').replace("That's really", "This is really")) === null, '');
+check('curly apostrophes pass (Gmail and the model both produce them)',
+  verdict(VALID_TIP('ST-0002').replace("That's really stupid. Here's why.", "That\u2019s really stupid. Here\u2019s why.")) === null, '');
+check('"dumb" is not the line', verdict(VALID_TIP('ST-0002').replace('really stupid', 'really dumb')) !== null, '');
+check('the line only counts inside the script section, not quoted in a caption',
+  verdict(NO_VERDICT_TIP.replace('caption text', "caption text. That's really stupid. Here's why.")) !== null, '');
+
+console.log('\nN2. generateScript sends a verdict-less tip back once, then fails closed');
+let v = callGenerateOn(TIP_BRIEF, '1', [say(NO_VERDICT_TIP), say(VALID_TIP('ST-0002'))]);
+check('a complete tip without the line is not accepted', v.calls === 2, 'api calls=' + v.calls);
+check('and the corrected tip is what gets returned', /really stupid\. Here's why/.test(v.out || ''), String(v.out).slice(0, 60));
+v = callGenerateOn(TIP_BRIEF, '1', [say(NO_VERDICT_TIP)]);
+check('twice in a row throws instead of mailing a tip with no verdict',
+  !!(v.err && /verdict line/.test(v.err.message)), String(v.err));
+check('it fails CLOSED', !!(v.err && v.err.retryable === false), String(v.err && v.err.retryable));
+v = callGenerateOn(TIP_BRIEF, '1', [say(VALID_TIP('ST-0002'))]);
+check('a tip with the line still costs exactly one call', v.calls === 1, 'api calls=' + v.calls);
+v = callGenerateOn(TIP_BRIEF, '4', [say(VALID_SCRIPT)]);
+check('a [NEWS] pick is never asked for a verdict', v.calls === 1 && v.out === VALID_SCRIPT, 'api calls=' + v.calls);
+check('the tip build note carries the line verbatim',
+  /That\\'s really stupid\. Here\\'s why\./.test(SRC) || /That's really stupid\. Here's why\./.test(SRC), '');
 
 console.log('\nM5. End to end: "1. 2" now delivers both, and the header still identifies us');
 let m = run({ brief: TIP_BRIEF, reply: '1. 2' });

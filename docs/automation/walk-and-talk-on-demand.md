@@ -100,10 +100,15 @@ Before the usual stress test, check the draft against the
    what the mistake is and in one sentence what to do instead. If either needs
    a second read, the script is rewritten, not tightened. This outranks the word
    count, the hook family, and the clever line.
-9. **[TIP] only: is the verdict spoken?** The script says out loud, in plain
-   words, that the behavior is stupid, inside the first ten seconds and before
-   the fix, aimed at the behavior and never the person. See
-   [`../series/stupid-things-standard.md`](../series/stupid-things-standard.md).
+9. **Is it plain enough for the general public?** (Rule 5, 2026-09-11.) The
+   uncle test, the clever test, the hedge test: no industry shorthand left
+   untranslated, no wordplay or metaphor carrying the payload, no softeners.
+   Blunt in the words, never in the target.
+10. **[TIP] only: is the verdict line there, verbatim?** Beat two, right after
+    the hook names the thing: **"That's really stupid. Here's why."** (or "This
+    is really stupid. Here's why."). Said once, before the cost and the fix,
+    aimed at the behavior and never the person. Five beats in this lane. See
+    [`../series/stupid-things-standard.md`](../series/stupid-things-standard.md).
 
 Every series runs the same four-beat clock and the compressed Act 2 (TENSION +
 THE POINT, with the turn in the seam between them). The old narrative/tactical

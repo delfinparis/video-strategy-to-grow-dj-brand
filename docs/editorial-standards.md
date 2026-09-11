@@ -463,6 +463,60 @@ hook family, and how good the clever line was.
 **One idea per sentence. Subject, verb, object.** Write it the way you would say it to one agent
 standing next to you, and then check that it survived the trim.
 
+### Direct, on the nose, blunt: the general-public rule (added 2026-09-11)
+
+**D.J., 2026-09-11:** *"I would like the language to be more direct, less clever, more on the
+nose and simple. I think we often use words and phrases that would confuse the general public."*
+Then: *"Let's be more blunt and edgy."*
+
+The comprehension rule above was written for an agent watching once at speed. One day later the
+bar moved: **the viewer to write for is a member of the general public**, someone with no
+license who follows a realtor on Instagram. If a line only lands for someone who already works
+in the business, it is not plain enough. This applies to every walk-and-talk series, not just
+the tip lane.
+
+**Three tests, run on every script in Pass 3:**
+
+1. **The uncle test.** Read each beat as a first-year agent's uncle. Every line has to land on
+   the first hearing with no real estate vocabulary in his head.
+2. **The clever test.** If a sentence would make a copywriter nod, cut it and say what it meant.
+   No wordplay, no metaphor carrying the payload, no reframe the viewer has to decode, no
+   withheld noun ("the eighth one"), no line that sounds like a podcast intro. The old short-form
+   voice asks (one parenthetical aside, one setup-subversion joke) are **retired for
+   walk-and-talks**; they were blog-era rules and they are where the cleverness comes from.
+3. **The hedge test.** Every softener comes out: "a lot of agents," "sometimes," "this might,"
+   "I could be wrong," "with respect," "consider," "you might want to." Say it flat.
+
+**Translate the shorthand.** Either use the plain phrase or say the term and explain it in the
+same breath. The common offenders:
+
+| Do not say | Say |
+|---|---|
+| comps, CMA | the recent sales nearby, what nearby homes actually sold for |
+| DOM, days on market | how long it has been for sale |
+| co-op, the co-op agent, the other side | the other agent, the buyer's agent |
+| contingency | the escape clause, the condition that lets them walk |
+| call-to-show, appointment only | you have to call the agent to get in |
+| dual agency | one agent working both sides |
+| escrow, earnest money | the deposit |
+| pre-approval | a lender's letter saying they can afford it |
+| under contract, pending | the deal is signed but not closed |
+| appraisal gap | the bank says the house is worth less than the offer |
+| listing, listing agent (fine) | keep; the public knows these |
+
+**Blunt and edgy means the words, not the target.** Second person, present tense, cost named
+as a cost (a deal, a listing, a client, money, a lawsuit). "Hell," "damn," and "crap" may
+appear at most once per script, never in the hook, never in a caption; no "shit," no F-bombs,
+because these run as recruiting assets and captions.ai prints every spoken word on screen. The
+heat rules (9.2, 9.4, 10.0) do not move: friction still points at the behavior, tool, practice
+or system, never at the agent, a cohort, a brokerage or a person, and heat 5 stays banned.
+
+**The close is an order.** "Stop doing it. Do this instead." Never "consider," never "you might
+want to," never "here's a thought."
+
+For the Stupid Things lane this rule also fixes a verbatim verdict line, protected under Rule 6:
+[`series/stupid-things-standard.md`](series/stupid-things-standard.md).
+
 ### Pacing - write for delivery, not reading
 
 - **Short punchy sentences for emphasis.** Like this.
@@ -491,6 +545,25 @@ Some phrases, once established as part of the brand, become protected voice sign
 - **Variants allowed.** "I don't practice real estate" (in prose flow), "Licensed but never practiced" (in very short spaces like Instagram bios), "I hold a real estate license. I've never used it to represent a client." (in longer formal writing).
 - **Variants banned.** "I've never sold a house" (inaccurate -- D.J. has sold his own home as a homeowner). "I'm not an agent" (inaccurate -- he is a licensed agent, just non-practicing). "I'm not a broker" (inaccurate -- he is the VP of Business Development at a brokerage).
 - Full context in `docs/speaker-assets.md`. Read that document before rewriting any reference to D.J.'s practitioner status.
+
+**"That's really stupid. Here's why."** (added 2026-09-11)
+
+- **Meaning.** The verdict line of the Stupid Things Realtors Do lane. D.J., 2026-09-11: *"we
+  should literally say in every script: 'that's really stupid, here's why.'"* It is the series'
+  catchphrase: the hook names a thing agents do, the verdict calls it stupid, and the script then
+  explains why and hands over the fix.
+- **Scope.** Every script in the Stupid Things lane (`series: "Stupid Things Realtors Do"`),
+  spoken as beat two, right after the hook, before the cost and the fix. Said once per script.
+  It does not appear in other series.
+- **Variants allowed.** "This is really stupid. Here's why." when the hook describes a scene
+  rather than a behavior.
+- **Variants banned.** Any softening or synonym: "kind of stupid," "pretty stupid," "dumb,"
+  "not smart," "a mistake," "suboptimal," "a missed opportunity." Any version aimed at a person
+  or a group: "you're really stupid," "stupid agents do this," "realtors are stupid about this."
+- **Enforced by** `missingVerdict()` in `scripts/apps-script/walk-and-talk-project.gs` on the
+  email path and the pre-flight in
+  [`series/stupid-things-standard.md`](series/stupid-things-standard.md) on the on-demand path.
+  The council may vary the hook, never this line.
 
 ### The test for adding a new protected signature
 

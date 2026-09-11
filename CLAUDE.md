@@ -96,6 +96,15 @@ system, or incentive and never at the agent (Rule 9.4), and **heat 5 — naming 
 brokerage, coach, or product as wrong — never ships on any series.** Institutional public record
 (a filed suit, a published settlement, an announced policy) stays reportable at heat 4.
 
+**Direct, on the nose, blunt (D.J., 2026-09-11).** *"More direct, less clever, more on the nose and
+simple. We often use words and phrases that would confuse the general public."* And: *"more blunt
+and edgy."* Write every walk-and-talk for a viewer with no license: plain words, no wordplay, no
+metaphor carrying the payload, no reframe to decode, no hedges, industry shorthand translated in
+the same breath. The blog-era aside and setup-subversion asks are retired for video. Edge lives in
+the words (flat verdicts, costs named as costs, at most one "hell/damn/crap," never in the hook or
+a caption), never in the target: heat rules unchanged, heat 5 still banned. The rule and the
+translate table are in Rule 5 of [`docs/editorial-standards.md`](docs/editorial-standards.md).
+
 **The four passes are non-negotiable. Run them silently, deliver only the final v3.** Even when
 the first draft looks strong, never skip straight to delivery. Each pass has a concrete job:
 
@@ -362,6 +371,14 @@ again as long as the angle on the *solution* is new; a reword is not a new angle
 `intake` refuses it. Bank target 20, refill fires at 5, and the weekly routine only does the
 expensive scouring when `health` returns exit code 10. Full chain:
 [`docs/automation/stupid-things-bank.md`](docs/automation/stupid-things-bank.md).
+
+**Every tip says the verdict line, verbatim (D.J., 2026-09-11):** *"That's really stupid. Here's
+why."* It is beat two, right after a hook that names the thing in plain words, before the cost and
+the fix. Five beats: HOOK (name the thing) > VERDICT (the line) > TENSION (the scene) > THE POINT
+(why) > PAYOFF (the fix). "This is really stupid. Here's why." is the one variant; "dumb" and every
+softer word are banned; it points at the behavior, never the person; it is said once. It is a
+protected signature (Rule 6) and the council may not vote it out. Worked example and the full clock:
+[`docs/series/stupid-things-standard.md`](docs/series/stupid-things-standard.md).
 
 Two things this lane does that the others do not: every entry is tagged `target: sideways`
 (the agent on the other side of the deal) or `target: self` (the viewer), and `pick` alternates
