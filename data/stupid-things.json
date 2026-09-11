@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -144,7 +144,9 @@
         {
           "angle": "The seller's side of it: what to say when the seller tells you another agent promised more",
           "swap": "Ask one question back. 'Did they show you the three closest comps, or did they show you a number?' Then show yours.",
-          "status": "open"
+          "status": "used",
+          "used_date": "2026-09-11",
+          "script": "board: https://app.notion.com/p/3d8313fa28928118bc91f7a48783f18d"
         },
         {
           "angle": "Put the reduction schedule in writing up front so a cut is a plan instead of a panic",
@@ -1980,8 +1982,10 @@
           "angle": "The information-only inspection is the middle path buyers do not know exists",
           "swap": "Offer the option nobody told them about: an information-only or pass-fail inspection. Walk from major defects, agree not to nickel-and-dime the small stuff. Or shorten the window instead of deleting it. Reserve a true waiver for buyers who can self-insure a five-figure surprise.",
           "hook": "Your agent wants you to waive the inspection to look serious. Here's the forty thousand dollars that decision can cost you.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-11",
+          "script": "board: https://app.notion.com/p/3d8313fa289281bea454fde9ac461cec"
         }
       ],
       "status": "banked",
@@ -2709,6 +2713,18 @@
       "id": "ST-0011",
       "angle": "Every hoop is a filter that removes buyers, and the seller should hear that tradeoff out loud",
       "script": "board: https://app.notion.com/p/3d7313fa289281a4b90ee3d73b7db2f7"
+    },
+    {
+      "date": "2026-09-11",
+      "id": "ST-0049",
+      "angle": "The information-only inspection is the middle path buyers do not know exists",
+      "script": "board: https://app.notion.com/p/3d8313fa289281bea454fde9ac461cec"
+    },
+    {
+      "date": "2026-09-11",
+      "id": "ST-0001",
+      "angle": "The seller's side of it: what to say when the seller tells you another agent promised more",
+      "script": "board: https://app.notion.com/p/3d8313fa28928118bc91f7a48783f18d"
     }
   ],
   "rejected": [
