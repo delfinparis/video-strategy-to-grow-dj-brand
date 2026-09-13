@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-11",
+  "updated": "2026-09-13",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -741,7 +741,9 @@
         {
           "angle": "Your client is not hearing an opinion about that agent, they are hearing what you'll say about them",
           "swap": "Next time the other agent does something that deserves it, say one sentence to your client: 'I'll handle it.' Then handle it. The complaint goes to the managing broker, not to the person you're representing.",
-          "status": "open"
+          "status": "used",
+          "used_date": "2026-09-13",
+          "script": "email: Walk & Talk Options - Sat Sep 12, Your client is not hearing an opinion about that agent. They're hearing what you'll say about them."
         },
         {
           "angle": "Critique positions, not people, because a cooperative tone gets your client faster answers and softer counters",
@@ -1357,8 +1359,10 @@
           "angle": "Disclose it up front and build real business-hours coverage, so the client never discovers it by losing",
           "swap": "If you're part-time, say so at the first meeting and build actual coverage, a licensed partner or TC who works business hours. Never let a client find out by losing a house.",
           "hook": "Your agent has a full-time job they never told you about. That's why you keep losing houses. Ask the question.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-13",
+          "script": "email: Walk & Talk Options - Sat Sep 12, Disclose it up front and build real coverage so the client never discovers it by losing."
         }
       ],
       "status": "banked",
@@ -1451,8 +1455,10 @@
           "angle": "Count the way an appraiser will, and use the honest word instead",
           "swap": "No legal egress plus heat source means den, flex room, office, or bonus room. Never bedroom. If it is close, say easily converted to a fourth bedroom instead of miscounting.",
           "hook": "That room you're calling a bedroom? If a buyer can't climb out the window in a fire, it's not a bedroom, and now you own that lie.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-13",
+          "script": "email: Walk & Talk Options - Sat Sep 12, Count the way an appraiser will, and use the honest word instead."
         }
       ],
       "status": "banked",
@@ -2725,6 +2731,24 @@
       "id": "ST-0001",
       "angle": "The seller's side of it: what to say when the seller tells you another agent promised more",
       "script": "board: https://app.notion.com/p/3d8313fa28928118bc91f7a48783f18d"
+    },
+    {
+      "date": "2026-09-13",
+      "id": "ST-0013",
+      "angle": "Your client is not hearing an opinion about that agent, they are hearing what you'll say about them",
+      "script": "email: Walk & Talk Options - Sat Sep 12, Your client is not hearing an opinion about that agent. They're hearing what you'll say about them."
+    },
+    {
+      "date": "2026-09-13",
+      "id": "ST-0032",
+      "angle": "Count the way an appraiser will, and use the honest word instead",
+      "script": "email: Walk & Talk Options - Sat Sep 12, Count the way an appraiser will, and use the honest word instead."
+    },
+    {
+      "date": "2026-09-13",
+      "id": "ST-0030",
+      "angle": "Disclose it up front and build real business-hours coverage, so the client never discovers it by losing",
+      "script": "email: Walk & Talk Options - Sat Sep 12, Disclose it up front and build real coverage so the client never discovers it by losing."
     }
   ],
   "rejected": [
