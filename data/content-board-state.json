@@ -414,7 +414,37 @@
    "has_body": true,
    "lane": "Stupid Things Realtors Do",
    "ref": "email: Walk & Talk Options - Fri Sep 11, option 1"
+  },
+  "https://app.notion.com/p/3da313fa2892810ea43dcf8d70109c62": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-011-training-scheduled-for-when-youre-working.md"
+  },
+  "https://app.notion.com/p/3da313fa28928149b03ad9ef7c59a669": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-010-you-stopped-expecting-the-call.md"
+  },
+  "https://app.notion.com/p/3da313fa2892816c850cdbb0e5c1adc8": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-13.md #3"
+  },
+  "https://app.notion.com/p/3da313fa289281878a5de402baea6dd7": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-009-nobody-ever-itemized-it.md"
+  },
+  "https://app.notion.com/p/3da313fa28928197ad72c596e6fe8585": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-13.md #1"
+  },
+  "https://app.notion.com/p/3da313fa289281d9a5f4e1dec2c72279": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-13.md rates story (HousingWire 2026-09-12)"
   }
  },
- "updated": "2026-09-12"
+ "updated": "2026-09-13"
 }
