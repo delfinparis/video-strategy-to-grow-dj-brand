@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -749,8 +749,10 @@
           "angle": "Critique positions, not people, because a cooperative tone gets your client faster answers and softer counters",
           "swap": "Say the factual version instead. 'Their counter is high for the comps, here's how we respond.' Take the complaint to the managing broker, never to the person you represent.",
           "hook": "If your agent spends the whole deal trashing the other agent, ask yourself what they say about you when you're not in the room.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-14",
+          "script": "board: https://app.notion.com/p/3db313fa28928171aacefd1e4aa64de8"
         }
       ],
       "status": "banked",
@@ -1120,8 +1122,10 @@
           "angle": "Five minutes of notification protects the agents you need on your next fifty listings",
           "swap": "The moment your seller accepts, notify everyone working the property. 'Update on 1420 Cortland: seller has accepted, deadline is off. Reach out for backup status.' Five minutes.",
           "hook": "Six agents stayed up all weekend writing offers on a house that already sold Sunday afternoon. Nobody told them.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-14",
+          "script": "board: https://app.notion.com/p/3db313fa2892813b9bcbcbd19cf57543"
         }
       ],
       "status": "banked",
@@ -2749,6 +2753,18 @@
       "id": "ST-0030",
       "angle": "Disclose it up front and build real business-hours coverage, so the client never discovers it by losing",
       "script": "email: Walk & Talk Options - Sat Sep 12, Disclose it up front and build real coverage so the client never discovers it by losing."
+    },
+    {
+      "date": "2026-09-14",
+      "id": "ST-0013",
+      "angle": "Critique positions, not people, because a cooperative tone gets your client faster answers and softer counters",
+      "script": "board: https://app.notion.com/p/3db313fa28928171aacefd1e4aa64de8"
+    },
+    {
+      "date": "2026-09-14",
+      "id": "ST-0024",
+      "angle": "Five minutes of notification protects the agents you need on your next fifty listings",
+      "script": "board: https://app.notion.com/p/3db313fa2892813b9bcbcbd19cf57543"
     }
   ],
   "rejected": [
