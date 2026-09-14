@@ -444,7 +444,37 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-09-13.md rates story (HousingWire 2026-09-12)"
+  },
+  "https://app.notion.com/p/3db313fa28928108a06ac227af6dc116": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-14.md settlement (Tuccori v. At World Properties, No. 1:24-cv-00150)"
+  },
+  "https://app.notion.com/p/3db313fa2892813692dfe457f165ccfe": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-14.md FOMC Sep 15-16 + Freddie Mac PMMS 2026-09-10"
+  },
+  "https://app.notion.com/p/3db313fa2892813b9bcbcbd19cf57543": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "email: Walk & Talk Options - Sun Sep 13, option 3"
+  },
+  "https://app.notion.com/p/3db313fa28928164be85c29f86b85b9f": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "email: Walk & Talk Options - Sat Sep 12, option 3"
+  },
+  "https://app.notion.com/p/3db313fa28928171aacefd1e4aa64de8": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "email: Walk & Talk Options - Sat Sep 12, option 1"
+  },
+  "https://app.notion.com/p/3db313fa289281ccbc8de06291a0dde6": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "email: Walk & Talk Options - Sat Sep 12, option 2"
   }
  },
- "updated": "2026-09-13"
+ "updated": "2026-09-14"
 }
