@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -793,7 +793,9 @@
         {
           "angle": "The client didn't leave you, you left them, and the fix is one calendar entry made at the closing table",
           "swap": "Before you leave the closing table, put one calendar entry 90 days out with the client's name on it. Not a drip campaign. One entry, one call.",
-          "status": "open"
+          "status": "used",
+          "used_date": "2026-09-15",
+          "script": "board: https://app.notion.com/p/3dc313fa289281f98b80c06463566aa7"
         },
         {
           "angle": "Own the loose ends for 30 days and say so out loud at closing",
@@ -2765,6 +2767,12 @@
       "id": "ST-0024",
       "angle": "Five minutes of notification protects the agents you need on your next fifty listings",
       "script": "board: https://app.notion.com/p/3db313fa2892813b9bcbcbd19cf57543"
+    },
+    {
+      "date": "2026-09-15",
+      "id": "ST-0014",
+      "angle": "The client didn't leave you, you left them, and the fix is one calendar entry made at the closing table",
+      "script": "board: https://app.notion.com/p/3dc313fa289281f98b80c06463566aa7"
     }
   ],
   "rejected": [
