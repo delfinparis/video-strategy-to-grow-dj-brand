@@ -480,10 +480,25 @@
    "lane": "Stupid Things Realtors Do",
    "ref": "email: Walk & Talk Options - Tue Sep 15, option 3"
   },
+  "https://app.notion.com/p/3dd313fa289281409f2cff8c63527645": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "zillow-mred-ruling/2026-09-15 opinion Dkt.138"
+  },
+  "https://app.notion.com/p/3dd313fa28928151bc30fdbca2ccdcf3": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "zillow-mred-ruling/2026-09-15 opinion Dkt.138"
+  },
   "https://app.notion.com/p/3dd313fa2892815383dbd0eada1c3b3c": {
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-09-16.md #5"
+  },
+  "https://app.notion.com/p/3dd313fa2892817094fee44f1d16cf85": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "zillow-mred-ruling/2026-09-15 opinion Dkt.138"
   },
   "https://app.notion.com/p/3dd313fa289281e0bf1ac9ef5702a19c": {
    "has_body": true,
@@ -491,5 +506,5 @@
    "ref": "news-briefs/2026-09-16.md #4 alternate, built on the NAR August release"
   }
  },
- "updated": "2026-09-16"
+ "updated": "2026-09-17"
 }
