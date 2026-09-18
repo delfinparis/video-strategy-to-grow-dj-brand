@@ -48,6 +48,30 @@ The tapthis capture page reads `src` and writes the matching Close source value 
 
 ---
 
+## joinkale.com on-page gates (form capture, no keyword and no link tag)
+
+These are different from both tables above. There is no ManyChat keyword and no link tag,
+because the gate is a first-name-and-email form embedded in the page itself. The form POSTs
+to `tapthis.co/api/capture-email` with a `src` value, and the route falls through to
+`Web - <src>` for any tag it does not have an explicit label for, which is how both of these
+land in Close.
+
+| Page | src tag | Asset delivered | Close source value |
+|---|---|---|---|
+| `joinkale.com/objection-response-vault` | `jk-scripts` | Objection Response Vault | `Web - jk-scripts` |
+| The 21 pages under `joinkale.com/resources` | `jk-onething` | The matching One-Thing printable one-pager | `Web - jk-onething` |
+
+**One tag covers all 21 resource pages on purpose.** Every page also sends `eventSourceUrl`,
+so which of the 21 problems someone came from is recoverable from the event without minting 21
+separate source values that would clutter the Close field for no gain.
+
+**Known issue on the vault, as of 2026-09-18.** The route only emails the asset when the caller
+sends `promptText`. The 21 resource pages send it. `jk-scripts` does not, so the vault page
+promises "I'll send you a copy" and no email is ever sent. Either add `promptText` there or
+change that sentence.
+
+---
+
 ## Retired / burned keywords
 
 None yet. When an offer is permanently retired, move its row here so the keyword is not accidentally reused for a different asset (which would misroute anyone who comments the old word on an old post still floating in the feed).
