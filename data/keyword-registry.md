@@ -59,16 +59,16 @@ land in Close.
 | Page | src tag | Asset delivered | Close source value |
 |---|---|---|---|
 | `joinkale.com/objection-response-vault` | `jk-scripts` | Objection Response Vault | `Web - jk-scripts` |
-| The 21 pages under `joinkale.com/resources` | `jk-onething` | The matching One-Thing printable one-pager | `Web - jk-onething` |
+| The 21 pages under `joinkale.com/chicago-real-estate-broker-solutions` | `jk-onething` | The matching One-Thing printable one-pager | `Web - jk-onething` |
 
 **One tag covers all 21 resource pages on purpose.** Every page also sends `eventSourceUrl`,
 so which of the 21 problems someone came from is recoverable from the event without minting 21
 separate source values that would clutter the Close field for no gain.
 
-**Known issue on the vault, as of 2026-09-18.** The route only emails the asset when the caller
-sends `promptText`. The 21 resource pages send it. `jk-scripts` does not, so the vault page
-promises "I'll send you a copy" and no email is ever sent. Either add `promptText` there or
-change that sentence.
+**Fix before the vault publishes, as of 2026-09-18.** The route only emails the asset when the
+caller sends `promptText`. The 21 resource pages send it. The vault draft does not, so it
+promises "I'll send you a copy" and would never send one. It is not live yet, so nobody has
+been affected. Either add `promptText` there or change that sentence before publishing.
 
 ---
 
