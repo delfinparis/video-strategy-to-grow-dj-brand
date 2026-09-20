@@ -620,6 +620,9 @@ carousel on the same entry count as **one** use, not two. Rows are written by
 | 2026-09-15 | F2 | The Brand Tax | 2 | scripts/broker-problems/BP-009-nobody-ever-itemized-it.md | video |
 | 2026-09-17 | C1 | The Silence | 1 | scripts/broker-problems/BP-010-you-stopped-expecting-the-call.md | video |
 | 2026-09-18 | B6 | The Thing That Doesn't Make Sense | 2 | scripts/broker-problems/BP-011-training-scheduled-for-when-youre-working.md | video |
+| 2026-09-22 | F3 | The Brand Tax | 2 | scripts/broker-problems/BP-012-the-coaching-is-a-replay.md | video |
+| 2026-09-24 | E1/A6 | Run The Math With Me | 2 | scripts/broker-problems/BP-013-add-up-your-split.md | video |
+| 2026-09-25 | D1 | The Permission Slip | 2 | scripts/broker-problems/BP-014-i-make-money-when-you-never-look.md | video |
 
 ## Rejected
 
