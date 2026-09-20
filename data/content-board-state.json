@@ -504,7 +504,22 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-09-16.md #4 alternate, built on the NAR August release"
+  },
+  "https://app.notion.com/p/3e1313fa2892811c9ddcc2f0e46a464e": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-013-add-up-your-split.md"
+  },
+  "https://app.notion.com/p/3e1313fa2892819e9ce8ef43b4a41527": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-014-i-make-money-when-you-never-look.md"
+  },
+  "https://app.notion.com/p/3e1313fa289281b6965dd25084e2e556": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-012-the-coaching-is-a-replay.md"
   }
  },
- "updated": "2026-09-19"
+ "updated": "2026-09-20"
 }
