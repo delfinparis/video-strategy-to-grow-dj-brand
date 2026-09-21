@@ -519,7 +519,22 @@
    "has_body": true,
    "lane": "Broker Problems",
    "ref": "scripts/broker-problems/BP-012-the-coaching-is-a-replay.md"
+  },
+  "https://app.notion.com/p/3e2313fa2892811b9068f173b56da472": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-21.md stat tip (NRMLA/RiskSpan RMMI Q1 2026)"
+  },
+  "https://app.notion.com/p/3e2313fa289281328455d3a08d61a3a3": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-21.md (HousingWire 2026-09-21, Fannie Mae LL-2026-03)"
+  },
+  "https://app.notion.com/p/3e2313fa2892814a8f43e382f9c3cf32": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-21.md (Inman 2026-09-21 + IRS Topic 701)"
   }
  },
- "updated": "2026-09-20"
+ "updated": "2026-09-21"
 }
