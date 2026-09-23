@@ -186,5 +186,13 @@
     "facebook": "https://www.facebook.com/loc8mybiz",
     "youtube": null,
     "notes": "Instagram, personal LinkedIn, and Facebook found on his own business site, loc8mybusiness.com (linked from the episode description at keepingitrealpod.com for the 2026-08-31 episode). A LinkedIn company page also exists (linkedin.com/company/loc8mybusiness) but the personal profile was used as the tag. Facebook cross-verified by page title match (\"LOC8 My Business - Real Estate Marketing Agency | Cape Coral FL\"). Instagram and LinkedIn returned generic/blocked titles on direct fetch (both platforms block unauthenticated scraping), so those two could not be independently title-verified beyond the source site listing them as his; treated as verified under the own-website tier since loc8mybusiness.com is Bobby's own business site, reached from the episode description link. No TikTok found on the site or in the episode. Verified 2026-09-01."
+  },
+  "chris-wolfe": {
+    "instagram": "https://www.instagram.com/chriswolfe_realestate/",
+    "tiktok": null,
+    "linkedin": null,
+    "facebook": "https://www.facebook.com/p/Chris-Wolfe-Real-Estate-61575257394291/",
+    "youtube": "https://www.youtube.com/@chriswolfe_realestate",
+    "notes": "Instagram @chriswolfe_realestate verified from search result 'Chris Wolfe | Real Estate (@chriswolfe_realestate) -- Instagram photos and videos' showing 7,405 followers and El Dorado Hills CA luxury real estate content. YouTube @chriswolfe_realestate verified from search result 'Chris Wolfe | Top Luxury Realtor El Dorado Hills' at youtube.com/@chriswolfe_realestate. Facebook verified from search result 'Chris Wolfe Real Estate | El Dorado Hills CA | Facebook' at facebook.com/p/Chris-Wolfe-Real-Estate-61575257394291/. TikTok: not found in search. LinkedIn: too many Chris Wolfe profiles to verify the El Dorado Hills real estate one -- omitted per accuracy standard. Verified 2026-09-23."
   }
 }
