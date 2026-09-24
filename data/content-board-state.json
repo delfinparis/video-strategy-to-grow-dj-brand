@@ -539,7 +539,17 @@
    "has_body": true,
    "lane": "News",
    "ref": "news-briefs/2026-09-23.md (HousingWire 2026-09-22, Mainstreet/Gitcha BLS)"
+  },
+  "https://app.notion.com/p/3e5313fa289281b7866bd5ffc5e022d4": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-24.md (Inman 2026-09-23 + Fannie Mae Selling Guide B4-2.1-03)"
+  },
+  "https://app.notion.com/p/3e5313fa289281c68d7dfa0a6a8bd223": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-24.md (HousingWire 2026-09-23 + Freddie Mac PMMS 2026-09-17)"
   }
  },
- "updated": "2026-09-23"
+ "updated": "2026-09-24"
 }
