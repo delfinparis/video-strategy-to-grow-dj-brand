@@ -187,6 +187,14 @@
     "youtube": null,
     "notes": "Instagram, personal LinkedIn, and Facebook found on his own business site, loc8mybusiness.com (linked from the episode description at keepingitrealpod.com for the 2026-08-31 episode). A LinkedIn company page also exists (linkedin.com/company/loc8mybusiness) but the personal profile was used as the tag. Facebook cross-verified by page title match (\"LOC8 My Business - Real Estate Marketing Agency | Cape Coral FL\"). Instagram and LinkedIn returned generic/blocked titles on direct fetch (both platforms block unauthenticated scraping), so those two could not be independently title-verified beyond the source site listing them as his; treated as verified under the own-website tier since loc8mybusiness.com is Bobby's own business site, reached from the episode description link. No TikTok found on the site or in the episode. Verified 2026-09-01."
   },
+  "frances-katzen": {
+    "instagram": "https://www.instagram.com/franceskatzen/",
+    "tiktok": "https://www.tiktok.com/@fkatzen",
+    "linkedin": "https://www.linkedin.com/in/franceskatzen/",
+    "facebook": "https://www.facebook.com/thekatzenteam/",
+    "youtube": "https://www.youtube.com/user/FrancesKatzen",
+    "notes": "Instagram @franceskatzen verified via Google search result 'Frances Katzen (@franceskatzen) • Instagram photos and videos' (26K followers). TikTok @fkatzen verified via Google search result 'Frances Katzen (@fkatzen)' with her full name matching the handle. LinkedIn linkedin.com/in/franceskatzen/ verified via Google search result 'Frances Katzen - Douglas Elliman Real Estate'. Facebook: team business page @thekatzenteam verified via Google search result 'The Katzen Team | New York NY | Facebook'; personal profile facebook.com/frances.katzen also exists but team page used for captions. YouTube user/FrancesKatzen verified via Google search (hosts 'The World of Real Estate with Frances Katzen' playlist, channel ID UCjCa7dVK1F96gCYiSU7EAWg). September 2026."
+  },
   "chris-wolfe": {
     "instagram": "https://www.instagram.com/chriswolfe_realestate/",
     "tiktok": null,
