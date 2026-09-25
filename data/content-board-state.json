@@ -549,7 +549,12 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-09-24.md (HousingWire 2026-09-23 + Freddie Mac PMMS 2026-09-17)"
+  },
+  "https://app.notion.com/p/3e6313fa2892818f99b4d23ea16da40b": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-25.md #3 (HousingWire 2026-09-25, Chicago PRO/FAIR rental ordinances)"
   }
  },
- "updated": "2026-09-24"
+ "updated": "2026-09-25"
 }
