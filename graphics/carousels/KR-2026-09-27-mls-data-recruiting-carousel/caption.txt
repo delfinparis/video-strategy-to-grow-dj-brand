@@ -1,0 +1,11 @@
+Compass sent MLSs a letter the week of September 26, 2026, demanding they stop supplying agent-level production, listing, and transaction data to recruiting-software vendors named in the letter: Courted, Brokerkit, and Brokermetrics.
+
+"The MLS exists to facilitate real estate transactions, not to weaponize our operational data against us for competitor poaching," the letter said.
+
+Compass is the first brokerage to put that complaint in writing. The data pipeline it describes runs on every MLS an agent reports to, and the number that ends up in a recruiting product is the agent's own closed deals, not the brokerage's.
+
+An agent who doesn't know what their own MLS profile shows a recruiter is working at a disadvantage that has nothing to do with their production. Kale Realty is flat fee, so what you keep every closing isn't a moving target set by someone else's data feed. Learn more at joinkale.com.
+
+#RealEstateAgents #MLSData #KaleRealty
+
+https://joinkale.com/?src=carousel-kr-2026-09-27-mls-data-recruiting-carousel

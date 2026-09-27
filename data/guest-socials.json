@@ -1,4 +1,13 @@
 {
+  "frances-katzen": {
+    "instagram": "https://www.instagram.com/franceskatzen/",
+    "tiktok": null,
+    "linkedin": "https://www.linkedin.com/in/franceskatzen/",
+    "facebook": "https://www.facebook.com/thekatzenteam/",
+    "youtube": null,
+    "notes": "No handle link in the episode description or a Frances Katzen show-notes file in this repo. The episode transcript has her saying her own handle is 'just my name' on Instagram (00:36:44) plus a mangled-transcription website mention ('FrancisCatson.com', 00:36:33) and D.J.'s own outro naming her ('Francis Katzen on Instagram,' 00:38:54) -- none of that gives a reliable exact spelling on its own, since ASR mis-transcribed her surname both times. Verified instead via her own brokerage's official team page, https://www.elliman.com/team/the-katzen-team/226107 (Douglas Elliman, New York City), which independently confirms the same 'Top 10 List' production claim as this episode's own analysis JSON (production_level: 'Top 10 Teams at Douglas Elliman') and directly links Instagram @franceskatzen, Facebook 'The Katzen Team,' and a LinkedIn profile matching linkedin.com/in/franceskatzen (direct fetch of the LinkedIn URL itself returned a blocked/999 response, so LinkedIn is corroborated via the Elliman page's own link, not independently re-fetched). TikTok and YouTube: a YouTube channel was referenced in web search results but no exact URL was confirmed on a page proving it's the same person, so left unverified -- 'VERIFY before posting' if either is needed. Verified 2026-09-27.",
+    "verify_before_posting": ["tiktok", "youtube"]
+  },
   "greg-roeder": {
     "instagram": "https://www.instagram.com/sellingfortcollins/",
     "tiktok": null,
