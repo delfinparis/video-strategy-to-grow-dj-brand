@@ -559,7 +559,27 @@
    "has_body": true,
    "lane": "News",
    "ref": "news-briefs/2026-09-26.md #1 (HousingWire 2026-09-26 + Inman 2026-09-25, Compass MLS recruiting-data letter)"
+  },
+  "https://app.notion.com/p/3e8313fa2892815e91b2d9b1a99292a9": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-017-a-login-not-a-tool.md"
+  },
+  "https://app.notion.com/p/3e8313fa289281afa1f5cb67efba2743": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-27.md #3"
+  },
+  "https://app.notion.com/p/3e8313fa289281c7bd73e410a6505056": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-016-nobody-prices-your-split.md"
+  },
+  "https://app.notion.com/p/3e8313fa289281dbb82aeea1c51bd116": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-015-a-name-clients-cant-say.md"
   }
  },
- "updated": "2026-09-26"
+ "updated": "2026-09-27"
 }
