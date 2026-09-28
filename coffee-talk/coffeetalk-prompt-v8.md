@@ -524,6 +524,33 @@ single thing to try differently next episode>
 4) SOCIAL MEDIA COPY (see below). Build the platform hooks from the winning cold-open
    variant above where it fits.
 
+5) TELEPROMPTER VERSION — always, every run, without being asked. D.J. reads the show
+   off a teleprompter, so the working script above is unreadable on the prompter as-is.
+   Write a second file alongside the script in the registry repo:
+
+   scripts/<same-date-and-slug>-TELEPROMPTER.txt
+
+   It contains the spoken words and nothing else, in order, COLD OPEN through CLOSE:
+   - Strip every "D.J.:" name tag
+   - Strip every stage direction and parenthetical — (beat), (sips coffee), (leans in),
+     (to camera), (setting down the coffee, straight to lens), all of them. When a
+     parenthetical opens a line, keep the sentence that follows it
+   - Strip all segment headers, timecodes, and the END marker
+   - Strip all markdown — no **bold**, no #, no tables, no pipes. The framework
+     component headers ("Question one. Who's actually in the room?") keep their WORDS
+     but lose the asterisks, and stay in place as their own line
+   - Drop everything that is never spoken: PRE-FLIGHT, ASSUMPTIONS, RUNDOWN SUMMARY,
+     KEY STATS, COUNCIL REVIEW, and all five social captions
+   - Plain .txt, one blank line between paragraphs, nothing else
+
+   Never rewrite, tighten, or "improve" a line while stripping. The teleprompter file
+   is the aired script verbatim minus the directions. If a line needs a change, change
+   it in the .md first and regenerate.
+
+   Verify before delivering: grep the finished .txt for ( ) * # | and "D.J.:" — a clean
+   file returns nothing. Then report the word count and the resulting run time at
+   145-150 wpm so D.J. knows whether it lands inside 15 minutes.
+
 DO NOT print the SELF-CHECK in your response. Run it internally and revise until every item passes; the checklist is a gate, not a deliverable.
 
 ========================================================
@@ -568,6 +595,7 @@ SELF-CHECK (internal — do not print; revise until all pass)
 [ ] Dialogue sounds speakable, not written (read it aloud mentally)
 [ ] COUNCIL REVIEW PASS run after this gate passes, and its "Council Review (Coffee Talk)" block appended to the output
 [ ] registry.md updated with this episode's row, retired stats, and topic category
+[ ] TELEPROMPTER .txt written alongside the script — spoken words only, no name tags, no parentheticals, no markdown, no non-spoken sections
 
 ========================================================
 COUNCIL REVIEW PASS (run AFTER the script clears SELF-CHECK, before you finalize)
