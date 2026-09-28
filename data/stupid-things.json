@@ -375,7 +375,9 @@
         {
           "angle": "The minimum standard framed as a cost your client already paid for",
           "swap": "Look at your three newest listings on your own phone, at arm's length, the way a buyer sees them. Any photo you would not text to a friend gets reshot before you do anything else this week.",
-          "status": "open"
+          "status": "used",
+          "used_date": "2026-09-28",
+          "script": "scripts/stupid-things/STUPID-008-you-shot-it-on-your-phone.md"
         },
         {
           "angle": "The 2.7-second decision, and the standard that meets it",
@@ -2370,8 +2372,10 @@
           "angle": "In multiple offers a sloppy contract is a reason to pick someone else at the same price",
           "swap": "Pre-submission checklist on every offer: current forms, every blank filled or marked N/A, all addenda attached, earnest money and dates confirmed, all signatures and initials. Second set of eyes before it goes.",
           "hook": "Same price, same buyer strength. The clean offer won. The one with three blank lines went in the trash.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-28",
+          "script": "scripts/stupid-things/STUPID-006-you-sent-the-contract-with-blanks.md"
         }
       ],
       "status": "banked",
@@ -2723,8 +2727,10 @@
         {
           "angle": "The listing agent is not annoyed by the call. She is reading the silence, and deciding how committed you are.",
           "swap": "Call within five minutes of sending. Say who you are, which property, and ask when the seller reviews.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-28",
+          "script": "scripts/stupid-things/STUPID-004-you-sent-the-offer-and-never-called.md"
         }
       ],
       "status": "banked",
@@ -2753,8 +2759,10 @@
         {
           "angle": "You made the person who has to present your offer do your work first, and she presents it to the seller cold.",
           "swap": "Put price, earnest money, loan type, closing date, every contingency and every concession in the body, in bullets, above the attachment.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-28",
+          "script": "scripts/stupid-things/STUPID-005-you-forwarded-the-signature-email.md"
         }
       ],
       "status": "banked",
@@ -2783,8 +2791,10 @@
         {
           "angle": "You spent your one guaranteed week of attention on a house that was not ready for it, and that week does not come back.",
           "swap": "Walk it room by room. List only the free fixes and the ones under five hundred dollars, and put a date on the delay.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-28",
+          "script": "scripts/stupid-things/STUPID-007-you-listed-it-before-it-was-ready.md"
         }
       ],
       "status": "banked",
@@ -2813,8 +2823,10 @@
         {
           "angle": "Nobody skipped the house because you did not hire a stager. They skipped it because the photos looked like nobody cared.",
           "swap": "Blinds all the way up, pull the furniture off the walls, and put a headboard and two lamps in every bedroom.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-28",
+          "script": "scripts/stupid-things/STUPID-009-your-blinds-are-half-shut.md"
         }
       ],
       "status": "banked",
@@ -3223,6 +3235,42 @@
       "id": "ST-0014",
       "angle": "The client didn't leave you, you left them, and the fix is one calendar entry made at the closing table",
       "script": "board: https://app.notion.com/p/3dc313fa289281f98b80c06463566aa7"
+    },
+    {
+      "date": "2026-09-28",
+      "id": "ST-0070",
+      "angle": "The listing agent is not annoyed by the call. She is reading the silence, and deciding how committed you are.",
+      "script": "scripts/stupid-things/STUPID-004-you-sent-the-offer-and-never-called.md"
+    },
+    {
+      "date": "2026-09-28",
+      "id": "ST-0071",
+      "angle": "You made the person who has to present your offer do your work first, and she presents it to the seller cold.",
+      "script": "scripts/stupid-things/STUPID-005-you-forwarded-the-signature-email.md"
+    },
+    {
+      "date": "2026-09-28",
+      "id": "ST-0059",
+      "angle": "In multiple offers a sloppy contract is a reason to pick someone else at the same price",
+      "script": "scripts/stupid-things/STUPID-006-you-sent-the-contract-with-blanks.md"
+    },
+    {
+      "date": "2026-09-28",
+      "id": "ST-0072",
+      "angle": "You spent your one guaranteed week of attention on a house that was not ready for it, and that week does not come back.",
+      "script": "scripts/stupid-things/STUPID-007-you-listed-it-before-it-was-ready.md"
+    },
+    {
+      "date": "2026-09-28",
+      "id": "ST-0005",
+      "angle": "The minimum standard framed as a cost your client already paid for",
+      "script": "scripts/stupid-things/STUPID-008-you-shot-it-on-your-phone.md"
+    },
+    {
+      "date": "2026-09-28",
+      "id": "ST-0073",
+      "angle": "Nobody skipped the house because you did not hire a stager. They skipped it because the photos looked like nobody cared.",
+      "script": "scripts/stupid-things/STUPID-009-your-blinds-are-half-shut.md"
     }
   ],
   "rejected": [
