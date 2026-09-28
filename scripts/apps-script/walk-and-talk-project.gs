@@ -722,6 +722,11 @@ const TIP_BUILD_NOTE =
   'It points at the BEHAVIOR and never at the person: "That\'s" refers to the thing the hook just named. "You took the listing at the seller\'s number. That\'s really stupid. Here\'s why." clears; "you\'re really stupid", "stupid agents do this", "realtors are stupid about this" are banned. The agent doing it right now must feel caught, not insulted. ' +
   'Say it ONCE. The verdict beat is the only place the word appears; repeating it in THE POINT or the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix. The loop-back reloads the hook, not the verdict. ' +
   'A script without the verdict line verbatim is not a finished tip and will be sent back once, then fail. ' +
+  'THE FORMAT MODEL (D.J. signed off 2026-09-28: "004 is perfect"). Match this shape before you write anything: ' +
+  'HOOK "You sent the offer. You never called." (7) / VERDICT "That\'s really stupid. Here\'s why." (5) / TENSION "The listing agent got an email. No call." (8) / ' +
+  'THE POINT "She has ten offers on that house. She thinks you don\'t care about yours. She wonders if you\'ll even pick up the phone before closing. That makes your buyer look risky." (31) / ' +
+  'PAYOFF "Send the offer. Then call her within five minutes. Say your name and the address." (15). 66 words. ' +
+  'What to copy: the hook is two flat sentences naming what you did, with no cost and no reframe in it; TENSION is the scene in one sentence, who got what; THE POINT is four sentences, one fact each, none over twelve words, the last one the cost said plainly; PAYOFF is orders (do this, then this, say this) with a checkable number; one person and one pronoun throughout; no statistic spoken. ' +
   'REGISTER (D.J., 2026-09-11: "more blunt and edgy"): blunt in the words, never in the target. Second person, present tense, no hedges, costs named as costs (a deal, a listing, a client, money, a lawsuit). "Hell", "damn", "crap" at most once per script, never in the hook, the verdict, or a caption; no "shit", no F-bombs. Friction still points at the behavior, and heat 5 is still banned. ' +
   'If the brief marks the receipt NEEDS RECEIPT, speak NO number: run the scene and the swap and say nothing a commenter can check and beat. ' +
   'Target class: "sideways" points at the agent on the other side of the deal and carries full heat (4 to 4.7); ' +

@@ -58,7 +58,9 @@ verdict line. It is five words and it is the same five words in every script.
 **60-70 spoken words, 72 is the wall, 58 the floor. 30 seconds maximum** (D.J., 2026-09-28,
 Rule 7). The verdict's five words are fixed, so they come out of TENSION, THE POINT and PAYOFF,
 never out of the hook. Count them. STUPID-001 to 003 were written to older specs and are re-cut
-candidates. STUPID-004 to 009 were re-cut to this spec on 2026-09-28.
+candidates. STUPID-004 to 009 were re-cut to this spec on 2026-09-28, and D.J. signed off on
+**STUPID-004 as the format model** the same day ("004 is perfect"). Match its shape before
+anything else: [`../../scripts/stupid-things/STUPID-004-you-sent-the-offer-and-never-called.md`](../../scripts/stupid-things/STUPID-004-you-sent-the-offer-and-never-called.md).
 
 The angle's banked `hook` is now a **starting point for THE THING, not a finished line.** Most
 banked hooks were written clever ("They bought your listing, and you'll pay it back at closing
@@ -116,26 +118,38 @@ it out loud.
 or the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix. The loop-back at
 the end reloads the *hook*, not the verdict.
 
-### Worked example: STUPID-003 re-cut to the shape
+### The format model: STUPID-004 (D.J.-approved 2026-09-28)
 
-The 2026-09-10 cut opened "Here's a stupid way to lose a sale. / Your listing has no lockbox.
-An agent has to call you to get in." Same script, new shape:
+D.J. read the six 2026-09-28 re-cuts and said 004 was perfect. This is the shape every tip
+matches now. Sixty-six words, no sentence over twelve, no metaphor, the verdict as beat two,
+the fix as an order with a number in it:
 
 ```
-HOOK      Your listing has no lockbox.                                  (5)
-VERDICT   This is really stupid. Here's why.                            (6)
-TENSION   A buyer's agent has to call you just to get in.               (11)
-THE POINT She had eight houses to show in one afternoon. Seven she
-          booked in ten minutes. Yours she had to call for, and her
-          buyer flew home before you called back. Your seller will
-          never know it happened.                                       (38)
-PAYOFF    Tonight, try booking a showing on your own listing. Over
-          thirty seconds, and buyers are skipping it.                   (18)
-                                                                  78 words
+HOOK      You sent the offer. You never called.                              (7)
+VERDICT   That's really stupid. Here's why.                                  (5)
+TENSION   The listing agent got an email. No call.                           (8)
+THE POINT She has ten offers on that house. She thinks you don't care
+          about yours. She wonders if you'll even pick up the phone
+          before closing. That makes your buyer look risky.                  (31)
+PAYOFF    Send the offer. Then call her within five minutes. Say your
+          name and the address.                                              (15)
+                                                                        66 words
 ```
 
-Nothing about the angle, the receipt posture, or the fix changed. The hook stopped trying to be
-a line and just named the thing, and the verdict carries the heat.
+What makes it the model, so the next one copies the right things:
+
+- **The hook is two flat sentences that name what you did.** No cost in it, no reframe. The
+  verdict supplies the judgment; the hook only has to be true.
+- **TENSION is the scene in eight words.** Who got what. Nothing about how it felt.
+- **THE POINT is four sentences, each one fact, each under twelve words,** and the last one is
+  the cost said plainly: "That makes your buyer look risky."
+- **PAYOFF is three orders.** Do this, then this, say this. A number ("five minutes") makes it
+  checkable. No loop-back line was needed because the fix reloads the hook on its own.
+- **One person, one pronoun.** "She" for the listing agent all the way through.
+- **No statistic spoken.** "Ten offers" is scene detail. The receipt lives in Data Source.
+
+The 2026-09-10 STUPID-003 re-cut ("Your listing has no lockbox. This is really stupid. Here's
+why.") is still a clean example of the "This is" variant, but it predates the 30-second cap.
 
 ## Blunt and edgy: the register (added 2026-09-11)
 

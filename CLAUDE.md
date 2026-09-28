@@ -382,7 +382,7 @@ why."* It is beat two, right after a hook that names the thing in plain words, b
 the fix. Five beats: HOOK (name the thing) > VERDICT (the line) > TENSION (the scene) > THE POINT
 (why) > PAYOFF (the fix). "This is really stupid. Here's why." is the one variant; "dumb" and every
 softer word are banned; it points at the behavior, never the person; it is said once. It is a
-protected signature (Rule 6) and the council may not vote it out. Worked example and the full clock:
+protected signature (Rule 6) and the council may not vote it out. **The format model is STUPID-004** (D.J., 2026-09-28: "004 is perfect"): match its shape first, then write. The model and the full clock:
 [`docs/series/stupid-things-standard.md`](docs/series/stupid-things-standard.md).
 
 Two things this lane does that the others do not: every entry is tagged `target: sideways`
