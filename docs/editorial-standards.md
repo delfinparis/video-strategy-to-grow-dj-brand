@@ -517,6 +517,40 @@ want to," never "here's a thought."
 For the Stupid Things lane this rule also fixes a verbatim verdict line, protected under Rule 6:
 [`series/stupid-things-standard.md`](series/stupid-things-standard.md).
 
+### Simpler still: the reading-level floor (added 2026-09-28)
+
+**D.J., 2026-09-28:** *"We're getting a little too clever with the script phrasing. I think it
+needs to be more blunt... dumbing it down a tad is a good idea."* Same day: *"the walk and talks
+should be 30 seconds max"* (Rule 7).
+
+The 2026-09-11 rule set the right audience, and scripts written to it still came out clever.
+The cleverness moved from wordplay into small metaphors, which pass the clever test at a glance
+and still make the listener stop and turn a phrase over. Real lines from the first STUPID-004 to
+009 drafts, all cut:
+
+| Clever (cut) | Blunt (ship) |
+|---|---|
+| "No voice, no name, nothing human attached." | "She got an email. No call." |
+| "She is reading the silence." | "She thinks you don't care about this deal." |
+| "Your call is the proof a real person is attached to it." | "Calling shows you're serious." |
+| "The photos are the first showing." | "Buyers look at the photos and skip your house." |
+| "You made the person presenting your offer do your work first." | "Now she has to do your job." |
+
+**The hard numbers, checked in Pass 3 on the spoken text:**
+
+- **Grade 5 or lower** on Flesch-Kincaid. Short sentences and short words get you there; nothing
+  else does.
+- **No sentence over 12 words.** Most should be under 8.
+- **Use the short, common word.** "House" not "property." "Call" not "reach out." "Sell" not
+  "move." "Money" not "funds." Any word of four or more syllables needs a reason to stay.
+- **Say what happens, not what it is like.** No "X is Y" lines ("the photos are the first
+  showing"), no things with feelings ("reading the silence"), no quotable closing line.
+- **One fact per sentence. Name who does what.** "The other agent picks the cleaner offer," not
+  "the cleaner offer wins."
+
+**The repeat test.** After one listen, could the viewer say the tip to somebody else in their
+own words? If they would have to paraphrase a phrase first, the phrase is too clever.
+
 ### Pacing - write for delivery, not reading
 
 - **Short punchy sentences for emphasis.** Like this.
@@ -579,11 +613,11 @@ When those three conditions are met, document the phrase in this section along w
 
 ## Rule 7: Length and Pacing
 
-**Target 30 to 35 seconds. Write to 30 as the default. Hard cap 35 seconds. There is no earned-length exception.** Set 2026-08-25, replacing the 22-30s target set on 2026-08-15.
+**30 seconds is the maximum. Write to 30. There is no earned-length exception.** Set 2026-09-28 by D.J.: *"the walk and talks should be 30 seconds max."* This replaces the 30-35s band set on 2026-08-25, which in practice let scripts drift to 35. The platform reasoning below still holds; it is the reason 30 is the number, and it never justified going past it.
 
 **Why the number moved.** The 2026 platform data says two things at once, and the 22-30s rule was only listening to the first. Completion still gates distribution -- but every platform we publish to now weights **total watch time per viewer** alongside it, and a very short video wins the completion stat while starving the watch-time signal. Socialinsider's Jan-Jun 2026 study of 6M Reels found sub-30s Reels *underperform* the 45-60s band on both engagement rate and median views. TikTok engagement peaks around 30 seconds. YouTube Shorts' retention-to-recommendation sweet spot is 30-45s. Facebook Reels is the tightest of the four at 15-30s.
 
-**30 seconds is the only runtime that sits inside all four platform bands at once.** Facebook tops out at 30, TikTok's completion band runs to 34, Shorts and Reels start rewarding at 30. That intersection is the number. 35 is the cap because that is where Facebook and TikTok start falling off, and one asset ships to all four.
+**30 seconds is the only runtime that sits inside all four platform bands at once.** Facebook tops out at 30, TikTok's completion band runs to 34, Shorts and Reels start rewarding at 30. That intersection is the number, and since 2026-09-28 it is also the ceiling: Facebook falls off past 30, and one asset ships to all four.
 
 The old framing -- "the sub-30 threshold is the one D.J.'s format can actually clear" -- was solving for the wrong variable. The target is **25 to 30 seconds actually watched per viewer**, not a percentage. A 30-second script that 75% of viewers finish delivers 22 seconds watched. A 22-second script at 85% delivers 19. The longer one wins the distribution signal *and* holds the completion bar, because the hook is doing the work either way.
 
@@ -594,12 +628,12 @@ Every walk-and-talk runs the same four-beat clock. This is the structure, not a 
 | Beat | Clock | Seconds | Words |
 | --- | --- | --- | --- |
 | **HOOK** -- the scroll-stop, one spoken line | 0:00-0:01.5 | 1.5 | 5-8 |
-| **TENSION** -- what it costs, why it matters now | 0:01.5-0:06.5 | 5 | 11-14 |
-| **THE POINT** -- the one idea, the whole payload | 0:06.5-0:21.5 | 15 | 34-40 |
-| **PAYOFF / TURN** -- what you do now, then loop-back | 0:21.5-0:30 | 8 | 18-22 |
-| **Total** | | **~30s** | **68-84** |
+| **TENSION** -- what it costs, why it matters now | 0:01.5-0:06.5 | 5 | 9-12 |
+| **THE POINT** -- the one idea, the whole payload | 0:06.5-0:21.5 | 15 | 28-34 |
+| **PAYOFF / TURN** -- what you do now, then loop-back | 0:21.5-0:30 | 8.5 | 14-18 |
+| **Total** | | **30s max** | **60-70 (72 wall)** |
 
-**One idea. No throat-clearing.** The hook lands inside 1.5 seconds or it is not a hook -- there is no setup clause in front of it, no "hey guys," no orienting sentence. The five seconds after it exist to make the viewer feel the cost, not to introduce the topic. THE POINT is 15 seconds and half the word budget because it is the only beat the viewer came for. The extra five seconds of headroom between 30 and 35 goes to THE POINT and nowhere else.
+**One idea. No throat-clearing.** The hook lands inside 1.5 seconds or it is not a hook -- there is no setup clause in front of it, no "hey guys," no orienting sentence. The five seconds after it exist to make the viewer feel the cost, not to introduce the topic. THE POINT is 15 seconds and half the word budget because it is the only beat the viewer came for. There is no headroom past 30 seconds to spend.
 
 Mapped to the Viral 3-Act Spine: HOOK is Act 1, TENSION + THE POINT are the compressed Act 2 (the turn lives in the seam between them), PAYOFF is Act 3.
 
@@ -607,18 +641,16 @@ Mapped to the Viral 3-Act Spine: HOOK is Act 1, TENSION + THE POINT are the comp
 
 At a natural delivery pace of roughly 130-150 spoken words per minute:
 
-- **30 seconds** ≈ 68-75 spoken words (**the mark to aim at**)
-- **32 seconds** ≈ 72-80 spoken words
-- **35 seconds** ≈ 78-88 spoken words (**the wall — nothing ships past this**)
+- **30 seconds** ≈ 65-75 spoken words at full speed
 
-**The band is 68-84 spoken words, 88 at the absolute wall.** Count the words. Do not estimate. A draft that reads as "about 30 seconds" is almost always 45.
+**Write to 60-70 spoken words. 72 is the wall. Under 58 is too short.** The band sits below the raw 65-75 on purpose: plain, blunt sentences get said with more pauses than dense ones, and a 72-word script of short sentences lands right at 30 seconds on camera. Count the words. Do not estimate. A draft that reads as "about 30 seconds" is almost always 45.
 
 ### The length discipline
 
-- **Nothing ships over 35 seconds.** There is no documented-justification path. The old "explain why it earned the extra length" clause stays deleted, because in practice it approved every script that asked.
-- **Nothing ships under 28 seconds either.** This is new. A 20-second cut is no longer "safely tight" -- it is watch-time left on the table, and on Reels it now costs reach outright. If the script comes in at 55 words, the fix is a better TENSION beat or a second concrete detail inside THE POINT, not padding the close.
-- **The headroom between 30 and 35 seconds buys one thing:** a sourced number, a case citation, or a legal caveat that Rule 1 requires and that cannot be shortened. It does not buy a second example, a fuller story, or a warmer close.
-- **If it does not fit in 35 seconds, it is two scripts.** Ask what the single strongest beat is, build that, and bank the rest. A story with two turns is two videos with a shared through-line, and both will out-perform the combined version.
+- **Nothing ships over 30 seconds.** There is no documented-justification path. The old "explain why it earned the extra length" clause stays deleted, because in practice it approved every script that asked.
+- **Nothing ships under 25 seconds either (58 words).** A 20-second cut is no longer "safely tight" -- it is watch-time left on the table, and on Reels it now costs reach outright. If the script comes in at 55 words, the fix is a better TENSION beat or a second concrete detail inside THE POINT, not padding the close.
+- **There is no headroom.** A sourced number, a case citation, or a legal caveat that Rule 1 requires still has to fit inside 72 words. Make room by cutting a sentence from TENSION or PAYOFF, never by running long.
+- **If it does not fit in 30 seconds, it is two scripts.** Ask what the single strongest beat is, build that, and bank the rest. A story with two turns is two videos with a shared through-line, and both will out-perform the combined version.
 - **Cut the weakest beat, never trim every beat evenly.** Shaving three words off five sentences produces a flat script. Deleting one whole sentence produces a sharp one.
 - **The hook is exempt from compression.** When the script runs long, the words come out of TENSION and PAYOFF. Never out of the first spoken line, and never out of THE POINT.
 

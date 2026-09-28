@@ -228,7 +228,9 @@ MIRROR_LANES = {
         # BP-001..005 were written to the retired 45-70s spec and sit under the
         # heat floor. They are re-cut candidates, not inventory, so the mirror
         # only admits files that declare the current runtime.
-        "require": r'^runtime_target:\s*"30-35s"',
+        # "30s" since D.J. capped every walk-and-talk at 30 seconds on 2026-09-28;
+        # "30-35s" still admits the rows written before that.
+        "require": r'^runtime_target:\s*"30(-35)?s"',
         # The engine writes exactly three a week, so the shelf cap does not
         # apply: every unclaimed file posts. (KIRP produces daily and is capped.)
         "uncapped": True,

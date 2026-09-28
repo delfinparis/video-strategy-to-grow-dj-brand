@@ -49,17 +49,16 @@ verdict line. It is five words and it is the same five words in every script.
 
 | Clock beat | Seconds | Words | This lane's beat | Comes from |
 |---|---|---|---|---|
-| **HOOK** | 0:00-0:01.5 | 5-8 | **THE THING**: name the behavior, flat, as a thing agents do | the entry's `practice`, said plainly |
+| **HOOK** | 0:00-0:01.5 | 4-7 | **THE THING**: name the behavior, flat, as a thing agents do | the entry's `practice`, said plainly |
 | **VERDICT** | 0:01.5-0:03.5 | 5 | **"That's really stupid. Here's why."** Verbatim. | fixed; never rewritten |
-| **TENSION** | 0:03.5-0:08 | 10-12 | **LOOKS LIKE / WHAT IT COSTS**: the recognizable scene, one sentence | the entry's `looks_like`, cut to one sentence |
-| **THE POINT** | 0:08-0:22 | 32-38 | **WHY**: the receipt, said once, then the turn | the entry's `receipt` + the angle's `angle` |
-| **PAYOFF** | 0:22-0:30 | 16-20 | **THE FIX**: the swap, physical and do-it-Monday, then the loop-back | the angle's `swap` |
+| **TENSION** | 0:03.5-0:08 | 7-10 | **LOOKS LIKE / WHAT IT COSTS**: the recognizable scene, one sentence | the entry's `looks_like`, cut to one sentence |
+| **THE POINT** | 0:08-0:22 | 26-32 | **WHY**: the receipt, said once, then the turn | the entry's `receipt` + the angle's `angle` |
+| **PAYOFF** | 0:22-0:30 | 13-17 | **THE FIX**: the swap, physical and do-it-Monday, then the loop-back | the angle's `swap` |
 
-**68-84 spoken words, hard cap 88, floor 68.** The verdict's five words come out of TENSION,
-THE POINT and PAYOFF (two, two and two off the old budgets), never out of the hook. Count them.
-STUPID-001 was written at 157 words to the retired 45-75s spec; it is a re-cut candidate, not a
-format model. The format models are BP-006 through BP-008 (structure) and the beat mapping
-above (content).
+**60-70 spoken words, 72 is the wall, 58 the floor. 30 seconds maximum** (D.J., 2026-09-28,
+Rule 7). The verdict's five words are fixed, so they come out of TENSION, THE POINT and PAYOFF,
+never out of the hook. Count them. STUPID-001 to 003 were written to older specs and are re-cut
+candidates. STUPID-004 to 009 were re-cut to this spec on 2026-09-28.
 
 The angle's banked `hook` is now a **starting point for THE THING, not a finished line.** Most
 banked hooks were written clever ("They bought your listing, and you'll pay it back at closing
@@ -161,6 +160,21 @@ and heat 5 is still banned. What changes:
   (Rule 10.0), and never at the agent, a cohort, a brokerage, or a person.
 - **The close is an order, not a suggestion.** "Stop doing it. Do this instead." "Tonight, book a
   showing on your own listing." Never "consider," never "you might want to."
+
+## Simpler still: 2026-09-28
+
+D.J. read STUPID-004 to 009 and said they were still too clever, and too long. Two changes, both
+now in the universal standard (Rule 5 "the reading-level floor," Rule 7):
+
+- **30 seconds max.** 60-70 words. The table above is already cut to it.
+- **Grade 5 or lower, no sentence over 12 words, and no small metaphors.** The drafts had lines
+  like "she is reading the silence" and "the photos are the first showing." Each one makes the
+  listener stop and turn a phrase over. Say what happens instead: "She thinks you don't care
+  about this deal." "Buyers look at the photos and skip your house."
+
+The quickest test for this lane: after one listen, could the viewer tell a friend what the
+mistake is and what to do instead, in their own words? If they would have to repeat one of your
+phrases to explain it, the phrase goes.
 
 ## Plain words, or it does not ship
 
@@ -269,7 +283,7 @@ reloads the hook (Rule 9.1). Never a moral.
 - [ ] `target` declared; `self` scripts sit at or under 4.3
 - [ ] The swap is physical, one move, and survives the cut
 - [ ] No identifiable firm, product, or agent
-- [ ] 68-84 spoken words, counted
+- [ ] 60-70 spoken words, 72 max, counted (30 seconds max)
 - [ ] Five captions, YouTube Shorts `**Title:**` present, hashtag caps, one brand tag
 - [ ] Logged with `stupid_things.py log` once the script exists (on-demand path), or carries
       `bank_id` so the Sunday check can log it (email path)

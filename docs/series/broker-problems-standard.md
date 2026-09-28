@@ -1,5 +1,7 @@
 # Broker Problems — Series Standard
 
+> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](../editorial-standards.md).
+
 Per-series rules for **Broker Problems**, Pillar 3, 3 videos a week (Tue/Thu/Fri since 2026-09-08). Builds on
 [`../editorial-standards.md`](../editorial-standards.md), which is the universal standard.
 Everything there applies here. This document only adds what is specific to this lane.

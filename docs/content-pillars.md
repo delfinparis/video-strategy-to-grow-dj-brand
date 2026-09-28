@@ -1,5 +1,7 @@
 # Content Pillars
 
+> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](editorial-standards.md).
+
 This document defines the strategic structure of D.J. Paris's **short-form video** content. It was reset on 2026-07-21 alongside the goal reset and gate layer, and the pillar definitions were refined on 2026-07-22 against a single test question (below). Read [`strategy/2026-07-21-goal-reset-and-gate-layer.md`](strategy/2026-07-21-goal-reset-and-gate-layer.md) first; this file is the pillar-level detail under that decision.
 
 Carousels are a parallel surface with their own standard ([`series/carousel-standard.md`](series/carousel-standard.md)); they are not pillars and are not covered here.

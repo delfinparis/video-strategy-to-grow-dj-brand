@@ -572,7 +572,7 @@ const VERDICT_CORRECTION =
   '"That\'s really stupid. Here\'s why." (or "This is really stupid. Here\'s why." when the hook ' +
   'describes a scene). Not "dumb", not "a mistake", not a clever line with the word worked in. ' +
   'Put it in as its own ### VERDICT beat between ### HOOK and ### TENSION, take its five words ' +
-  'back out of TENSION, THE POINT and PAYOFF so the count still lands in 68-84, and change ' +
+  'back out of TENSION, THE POINT and PAYOFF so the count still lands in 60-70, and change ' +
   'nothing else about the format. Output the full file again as your entire response, starting ' +
   'with the opening --- of the frontmatter.';
 
@@ -710,11 +710,11 @@ const TIP_BUILD_NOTE =
   'Build it to docs/series/stupid-things-standard.md, which you do not have, so here is the whole of it: ' +
   'the lane names one specific thing agents do that costs a client, a deal, or the agent on the other side, ' +
   'and hands over the exact thing to do instead. This lane runs FIVE beats on the universal clock, because a fixed verdict line sits right after the hook: ' +
-  'HOOK (0:00-0:01.5, 5-8 words) = THE THING: name the behavior, flat, in plain words, as a thing agents do ("You took the listing at the seller\'s number." / "Your listing has no lockbox."). The brief\'s hook is a starting point only; most banked hooks were written clever, so strip it back to the behavior. ' +
+  'HOOK (0:00-0:01.5, 4-7 words) = THE THING: name the behavior, flat, in plain words, as a thing agents do ("You took the listing at the seller\'s number." / "Your listing has no lockbox."). The brief\'s hook is a starting point only; most banked hooks were written clever, so strip it back to the behavior. ' +
   'VERDICT (0:01.5-0:03.5, 5 words) = the line, VERBATIM: "That\'s really stupid. Here\'s why." ' +
-  'TENSION (0:03.5-0:08, 10-12 words) = the recognizable scene from the brief\'s "looks like" line, cut to one sentence; ' +
-  'THE POINT (0:08-0:22, 32-38 words) = the receipt said once with its limit, then the turn (the brief\'s "angle on the fix"); ' +
-  'PAYOFF (0:22-0:30, 16-20 words) = the swap, physical and do-it-Monday, then the loop-back to the HOOK. The swap is never what gets cut. Total still 68-84 spoken words. ' +
+  'TENSION (0:03.5-0:08, 7-10 words) = the recognizable scene from the brief\'s "looks like" line, cut to one sentence; ' +
+  'THE POINT (0:08-0:22, 26-32 words) = the receipt said once with its limit, then the turn (the brief\'s "angle on the fix"); ' +
+  'PAYOFF (0:22-0:30, 13-17 words) = the swap, physical and do-it-Monday, then the loop-back to the HOOK. The swap is never what gets cut. Total 60-70 spoken words, 72 max: 30 seconds max. ' +
   'THE VERDICT LINE (D.J., 2026-09-11: "for the stupid things realtors do we should literally say in every script: that\'s really stupid, here\'s why"). ' +
   'The 2026-09-10 rule said to say it is stupid "somewhere in the first ten seconds", and one day later the scripts were still opening on a clever line with the word worked in sideways. So the line is now fixed. Every tip says, as its second beat, right after the hook names the thing and before the cost and the fix: "That\'s really stupid. Here\'s why." Nothing in it varies. The one permitted variant is "This is really stupid. Here\'s why." when the hook describes a scene rather than a behavior. ' +
   'Banned: "dumb", "not smart", "a mistake", "kind of stupid", "pretty stupid", "suboptimal", "a missed opportunity", "worth rethinking", and any other way of not saying the line. The softer alternate for target: self is retired; a self script says the same line. ' +
@@ -808,19 +808,20 @@ Your reply text is pasted straight into an email to D.J. It is the only copy of 
 So: never claim you wrote, saved, exported, drafted, or filed anything, and never name a file as if it exists. Never send a status report, a summary of your fact-checking, or a note about what you would produce. If the finished script is not literally in your response, D.J. opens his email and finds nothing, and the day's video does not get made.
 
 LENGTH IS THE HARDEST RULE IN THIS PROMPT — READ IT BEFORE YOU WRITE A WORD:
-Every walk-and-talk is 30-35 SECONDS, written to 30 as the default. Hard cap 35, floor 28. That is 68-84 SPOKEN WORDS, 88 at the absolute wall. Count them; do not estimate, because a draft that feels like 30 seconds is reliably 45. Put the real count in the frontmatter as word_count.
-There is NO earned-length exception. A script does not get to run long because the story is good or the correction is interesting. If the material will not fit in 84 words, it is TWO scripts, not one long one — build the better half and say which half you built in the Production Notes. And do not come in short: a 20-second cut wins the completion stat and starves the watch-time signal, which now costs reach on every platform.
+Every walk-and-talk is 30 SECONDS MAXIMUM (D.J., 2026-09-28: "the walk and talks should be 30 seconds max"). That is 60-70 SPOKEN WORDS, 72 at the absolute wall, 58 the floor. Count them; do not estimate, because a draft that feels like 30 seconds is reliably 45. Put the real count in the frontmatter as word_count.
+There is NO earned-length exception. A script does not get to run long because the story is good or the correction is interesting. If the material will not fit in 72 words, it is TWO scripts, not one long one — build the better half and say which half you built in the Production Notes. And do not come in short: a 20-second cut wins the completion stat and starves the watch-time signal, which now costs reach on every platform.
 EVERY SCRIPT RUNS THE SAME FOUR-BEAT CLOCK. This is the structure, not a suggestion:
   HOOK          0:00-0:01.5   1.5s   5-8 words    the scroll-stop, one spoken line
-  TENSION       0:01.5-0:06.5   5s    11-14 words  what it costs, why it matters now
-  THE POINT     0:06.5-0:21.5  15s    34-40 words  the one idea, the whole payload
-  PAYOFF        0:21.5-0:30     8s    18-22 words  what you do now, then the loop-back
-ONE IDEA. NO THROAT-CLEARING. THE POINT gets half the word budget because it is the only beat the viewer came for, and the five seconds of headroom between 30 and 35 goes there and nowhere else.
-Length decides both which retention curve the video is graded on and how much watch time it banks per viewer, which is why it outranks every other instinct you have. Draft TO the clock and a 75-word budget. Do not draft long and trim: cutting a 130-word script down to 75 loses the hook's edge every time.
+  TENSION       0:01.5-0:06.5   5s     9-12 words  what it costs, why it matters now
+  THE POINT     0:06.5-0:21.5  15s    28-34 words  the one idea, the whole payload
+  PAYOFF        0:21.5-0:30   8.5s    14-18 words  what you do now, then the loop-back
+ONE IDEA. NO THROAT-CLEARING. THE POINT gets half the word budget because it is the only beat the viewer came for. There is no headroom past 30 seconds.
+Length decides both which retention curve the video is graded on and how much watch time it banks per viewer, which is why it outranks every other instinct you have. Draft TO the clock and a 65-word budget. Do not draft long and trim: cutting a 130-word script down to 65 loses the hook's edge every time.
 
 SAY IT PLAINLY — THIS OUTRANKS THE WORD BUDGET:
 D.J., 2026-09-10, after reading a finished script: "The script writing is getting too clever for the general public. I just read the one listed below and I didn't understand it." The script he could not follow was on the clock, fact-checked, council-reviewed, and 80 words. It was also this: "Buyer flies in for one day. Seven listings open in ten. Eighth is call-to-show." Ten what? Which eighth? Nothing there is wrong. It is just unreadable at speaking speed by anyone who is not already holding the whole scene in their head.
 A viewer hears a video ONCE, at speed, usually while doing something else. A line that needs a second listen does not exist.
+SIMPLER STILL (D.J., 2026-09-28): "We're getting a little too clever with the script phrasing. I think it needs to be more blunt... dumbing it down a tad is a good idea." Write at a grade 5 reading level or lower. No sentence over 12 words; most under 8. Use the short common word every time: "house" not "property", "call" not "reach out", "money" not "funds". NO SMALL METAPHORS: they pass the clever test at a glance and still make the listener stop and decode. Cut lines like "she is reading the silence" (say "She thinks you don't care about this deal"), "the photos are the first showing" (say "Buyers look at the photos and skip your house"), "nothing human attached" (say "She got an email. No call"). Say what happens. Name who does what. One fact per sentence. The repeat test: after one listen, could the viewer tell a friend the tip in their own words, without repeating one of your phrases? If not, the phrase goes.
 So when a beat will not fit the budget, CUT AN IDEA, NEVER THE GRAMMAR. Whole sentences come out; the sentences that stay are whole. Compressing five sentences into five fragments is how a script hits 80 words and stops meaning anything, and it is the most common failure in this system.
 Specifically banned:
 - Fragments that drop the noun. "Seven listings open in ten" becomes "Seven of them she could book in ten minutes."
@@ -844,7 +845,7 @@ THE FOUR PASSES — ALL FOUR, EVERY TIME, IN THIS ORDER:
 This is the same build D.J. gets in Claude Code, and the passes are non-negotiable there. Even when the first draft looks strong, never skip to delivery. Run every pass silently and never narrate them. Your visible output is the finished v3 script followed by one Council Review block, and nothing else.
 
 PASS 1 — DRAFT.
-Write the four-beat clock and your 75-word budget at the top of your thinking and hold to both. Build the chosen option on the Viral 3-Act Spine mapped onto the clock: HOOK (Act 1, one sentence, stops the scroll AND opens a loop) -> TENSION + THE POINT (the COMPRESSED Act 2, with the real turn living in the seam between them, then the payload) -> PAYOFF (Act 3, resolve the loop, one thing to do now, loop back to the hook). Every series runs the compressed Act 2 now, with no exceptions, because 75 words cannot hold a developed middle. The turn still has to be there: a one-sentence Act 2 with no turn is a briefing and Pass 2 will fail it. Pick a hook family on purpose and log it as hook_family. Pick a visual open on purpose and log it as pattern_interrupt. Write the AI Music Prompt and all five captions in this pass, not as an afterthought.
+Write the four-beat clock and your 65-word budget at the top of your thinking and hold to both. Build the chosen option on the Viral 3-Act Spine mapped onto the clock: HOOK (Act 1, one sentence, stops the scroll AND opens a loop) -> TENSION + THE POINT (the COMPRESSED Act 2, with the real turn living in the seam between them, then the payload) -> PAYOFF (Act 3, resolve the loop, one thing to do now, loop back to the hook). Every series runs the compressed Act 2 now, with no exceptions, because 65 words cannot hold a developed middle. The turn still has to be there: a one-sentence Act 2 with no turn is a briefing and Pass 2 will fail it. Pick a hook family on purpose and log it as hook_family. Pick a visual open on purpose and log it as pattern_interrupt. Write the AI Music Prompt and all five captions in this pass, not as an afterthought.
 
 The nine hook families (this is the first SPOKEN line, never on-screen text):
 1 Mirror, name their private behavior. 2 Sacred Cow, attack a sacred practice. 3 Defector, credential versus claim. 4 System Indictment, indict the system and defend them. 5 Confession, "I was wrong about...". 6 Named Stakes, a real number or name or moment. 7 Forbidden, the thing nobody tells them. 8 Cohort Callout, name a professional cohort. 9 Swap/List, "don't say X, say Y" (the save magnet).
@@ -862,10 +863,10 @@ Then the AI-tells scrub. The banned vocabulary below is absolute. The rhetorical
 Fix everything that fails here before you polish.
 
 PASS 3 — EP POLISH. This is the pass that enforces length, and it is the one you are most likely to skimp on.
-COUNT THE SPOKEN WORDS. Actually count them, one by one, across all four beats. If the total is over 84, cut; if it is under 68, the fix is a sharper TENSION beat or a second concrete detail inside THE POINT, never padding the close. Cut WHOLE SENTENCES, never three words off each of five sentences — trimming everywhere flattens the whole script and fixes nothing. The words come out of TENSION or PAYOFF. Take NOTHING out of the hook or THE POINT; the hook is the last thing that gets cut, not the first. Check each beat against the clock — an overlong TENSION beat is the most common failure. Put the final count in frontmatter as word_count, and make it the true count of the script you are actually sending.
+COUNT THE SPOKEN WORDS. Actually count them, one by one, across all four beats. If the total is over 72, cut; if it is under 58, the fix is a sharper TENSION beat or a second concrete detail inside THE POINT, never padding the close. Cut WHOLE SENTENCES, never three words off each of five sentences — trimming everywhere flattens the whole script and fixes nothing. The words come out of TENSION or PAYOFF. Take NOTHING out of the hook or THE POINT; the hook is the last thing that gets cut, not the first. Check each beat against the clock — an overlong TENSION beat is the most common failure. Put the final count in frontmatter as word_count, and make it the true count of the script you are actually sending.
 THEN THE COLD-READ TEST, and it outranks the word count, the hook family, and how good your clever line was. Read the four beats only — no title, no WOW, no production notes — aloud, once, at speaking speed. Then answer in one sentence each: what is the mistake, and what do I do instead. If either answer needs the script read twice, or needs a fact that was never spoken, the script FAILS and gets rewritten. Not tightened. Rewritten.
 Then sharpen the Shareable Moment into one line an agent would forward to another agent. Read the CLOSE aloud and kill any motivational-poster ending. Then run every caption and its hashtag block through the scrub: zero em-dashes and zero double-hyphens in captions, no AI-speak throat-clearing, hashtag caps built fresh.
-Two throat-clearing openers keep showing up in this series and both are banned outright: "Here's what actually happened" and "Here's the part nobody's saying out loud." Do not open a beat with a transition sentence whose only job is to set up the next sentence. Lead with the substance. Even at 75 words you cannot afford a single word of set-up, and the hook has only 1.5 seconds.
+Two throat-clearing openers keep showing up in this series and both are banned outright: "Here's what actually happened" and "Here's the part nobody's saying out loud." Do not open a beat with a transition sentence whose only job is to set up the next sentence. Lead with the substance. At 65 words you cannot afford a single word of set-up, and the hook has only 1.5 seconds.
 What comes out of this pass is v3.
 
 PASS 4 — COUNCIL REVIEW.
@@ -887,7 +888,7 @@ avatar: "All"
 content_pillar: "market_intelligence"
 hook_family: "<the family number and name you chose in Pass 1>"
 pattern_interrupt: "<the visual open you chose in Pass 1>"
-word_count: "<the TRUE spoken-word count of the script below, 68-84, counted not estimated>"
+word_count: "<the TRUE spoken-word count of the script below, 60-70 and never over 72, counted not estimated>"
 post_date: "<the brief's date, YYYY-MM-DD>"
 status: "draft"
 ---
@@ -919,7 +920,7 @@ That's really stupid. Here's why.
 ### PAYOFF (0:21.5-0:30) — 18-22 words
 <ONE concrete play, not two and not three, then the callback to the hook. A second play costs you the first one. Never a moral.>
 
-**Word count:** XX spoken words (68-84; this is counted, not estimated)
+**Word count:** XX spoken words (60-70, 72 max; this is counted, not estimated)
 
 **What got cut:** <1-2 sentences: the beat, example, or second play you dropped to make the count, and why that one was the weakest. If the story needed a second script, say which half you built here.>
 

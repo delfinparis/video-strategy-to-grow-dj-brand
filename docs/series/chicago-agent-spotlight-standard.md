@@ -1,5 +1,7 @@
 # Chicago Agent Spotlight — Series Standard
 
+> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](../editorial-standards.md).
+
 Feature one Chicago real estate agent who is currently in the news, on a podcast, or on an award list. D.J. makes a short video celebrating them (a video they are not expecting), tags them, sets it up as a collab, and sends a DM after posting. **Realtors follow realtors**, so a genuine, ego-first spotlight borrows their audience and earns new realtor followers for D.J.
 
 **This is a daily option** in the walk-and-talk brief. Say **"spotlight"** and Claude scouts, verifies, and builds the full unit.

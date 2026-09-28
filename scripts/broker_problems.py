@@ -400,7 +400,7 @@ def option_block(e, slot=None, monday=None, reason=None):
     lines.append(f"- Heat target: {heat} (floor 4; the flavor's old default no longer ships)")
     lines.append(f"- Hook family: {fam} | Pattern interrupt: {PATTERN_FOR_FAMILY[first_family]} (no repeat of the previous post's move)")
     if e.get("drafted"):
-        lines.append(f"- Existing script: `{e['drafted']}` -- written before the 30-35s rule and the heat-4 floor. **Re-cut to 68-84 words and lift the hook to heat 4+, do not re-draft from scratch.**")
+        lines.append(f"- Existing script: `{e['drafted']}` -- written before the 30-second cap and the heat-4 floor. **Re-cut to 60-70 words (30 seconds max) and lift the hook to heat 4+, do not re-draft from scratch.**")
     if reason:
         lines.append(f"- Why this slot: {reason}")
     lines.append("- Spoken hook: _[routine fills in]_")

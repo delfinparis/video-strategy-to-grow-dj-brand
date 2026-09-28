@@ -2,7 +2,7 @@
 series: "Stupid Things Realtors Do"
 type: "tip"
 script_number: "STUPID-009"
-title: "Your Blinds Are Half Shut"
+title: "Your Photos Have The Blinds Half Shut"
 avatar: "All"
 content_pillar: "practice"
 bank_id: "ST-0073"
@@ -10,113 +10,115 @@ bank_angle: "Nobody skipped the house because you did not hire a stager. They sk
 target: "self"
 hook_family: "1 Mirror"
 pattern_interrupt: "Location Cold-Open"
-word_count: "73"
+word_count: "63"
+runtime_target: "30s"
 post_date: "TBD"
 status: "draft"
+recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-9"
 ---
 
-# Your Blinds Are Half Shut
+# Your Photos Have The Blinds Half Shut
 
 **Pillar:** Practice | **Avatars:** All
 **Post Date:** TBD
 
 ## Shareable Moment
-> "The room looked like nobody cared."
+> "None of that costs money."
 
-## Script (~30 seconds, 73 words)
+## Script (30 seconds max, 63 words)
 
 ### HOOK (0:00-0:01.5) - 7 words
-Your listing photos have the blinds half shut.
+Your photos have the blinds half shut.
 
 ### VERDICT (0:01.5-0:03.5) - 5 words
 That's really stupid. Here's why.
 
-### TENSION (0:03.5-0:08) - 11 words
-Furniture against every wall. A mattress with no headboard or lamps.
+### TENSION (0:03.5-0:08) - 9 words
+Couch against the window. A bed with no headboard.
 
-### THE POINT (0:08-0:22) - 33 words
-None of that costs a dollar. Blinds all the way up, not just twisted open. Couch off the window you're trying to sell. Buyers scrolled past because the room looked like nobody cared.
+### THE POINT (0:08-0:22) - 27 words
+None of that costs money. But buyers see it in the photos. The rooms look small and dark and cramped. So they scroll right past your house.
 
-### PAYOFF (0:22-0:30) - 17 words
-Before the photographer comes, walk it once. Blinds up, furniture off the walls, headboard and two lamps.
+### PAYOFF (0:22-0:30) - 15 words
+Before the photos, pull the blinds all the way up. Move furniture off the walls.
 
-**Word count:** 73 spoken words (68-84; counted, not estimated)
+**Word count:** 63 spoken words (60-70, 72 max; counted, not estimated)
 
-**What got cut:** White bedding and white towels, and the three-second front-door test. Both are in the caption. Two ideas is two scripts.
+**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
 
 ## Production Notes
-- Location Cold-Open if there is any window to stand at. The blinds are the prop and the point.
+- Location Cold-Open at a window. The blind is the prop.
 - Self target, capped at 4.3.
+- Keep "all the way up." Twisting the slats open is not the same thing, and that difference is the whole tip.
 - NEEDS RECEIPT posture. No number is spoken.
-- The distinction that carries the script: twisting the slats open is not the same as pulling the blind up. Do not let an edit blur those into "open the blinds."
-- No staging company named.
+- Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
-- **Claim:** the free staging moves are blinds up, furniture off the walls, headboard and lamps - Status: Trisha Lee, who stages professionally, on Keeping It Real 2024-12-27. Practitioner observation, attributed on the page.
-- **Fabrication audit:** No statistic is spoken. Nothing here a commenter can check and beat.
+- **Claim:** blinds up, furniture off the walls, a real headboard - Status: Trisha Lee, a professional stager, on Keeping It Real 2024-12-27. Practitioner observation, attributed on the page.
+- **Fabrication audit:** No statistic is spoken.
 
 ## AI Music Prompt
-**Vibe:** light and quick, a small fix delivered without ceremony
+**Vibe:** light and quick, a small fix with no fuss
 
-**CapCut AI Music (266 chars):**
-> [no vocals] Bright minimal walking groove, 100 BPM, light, quick, practical. Soft kick, brushed hats, muted bass, one clean guitar note. Stays level throughout. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30-35s.
+**CapCut AI Music (259 chars):**
+> [no vocals] Bright minimal walking groove, 100 BPM, light, quick, practical. Soft kick, brushed hats, muted bass, one clean guitar note. Stays level. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
 
 ## Social Media
 
 ### LinkedIn (PRIMARY)
-Your listing photos have the blinds half shut, and it is costing you showings.
+Your listing photos have the blinds half shut.
 
-I took this from a stager who does this for a living, and the detail that stuck with me is the one nobody does. People twist the slats open. Almost nobody pulls the blind all the way up. So every photo has a window half covered, in a house whose light is the thing you are selling.
+I got this from a stager who does it for a living. People twist the blinds open. Almost nobody pulls them all the way up. So every photo has half a window, in a house where the light is what you're selling.
 
-The rest of her free list:
+Her free list:
 
-Take enough furniture out that there is a clear path through every room. When in doubt, take more.
+Pull every blind all the way up.
 
-Pull the remaining furniture a few inches off the walls. It reads larger, not smaller.
+Take out enough furniture that you can walk through every room.
 
-Point the furniture at the feature. If the view is the selling point, do not park the couch in front of it.
+Move what's left a few inches off the walls. The room looks bigger.
 
-Every bedroom gets a headboard, two nightstands and two lamps, even if you borrow them. That is what reads as a bedroom. She does not even bother with a dresser.
+Don't put the couch in front of the window.
 
-White bedding, white towels. They photograph clean and they can be bleached.
+Every bedroom gets a headboard and two lamps, even if you borrow them.
 
-None of that is a staging invoice. It is an afternoon.
+None of it costs money. It takes an afternoon.
 
-#Realtor #ListingAgent #HomeStaging #InsideTheIndustry
+#Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### Instagram Reels
-None of that costs a dollar. Blinds all the way up, not just twisted open. Couch off the window you're trying to sell. Buyers scrolled past because the room looked like nobody cared.
+None of that costs money. But buyers see it in the photos. The rooms look small and dark, so they scroll right past.
 
-#Realtor #ListingAgent #HomeStaging #InsideTheIndustry
+#Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### TikTok
-Blinds half shut, furniture on every wall, a mattress with no headboard. None of that costs a dollar. Walk it once before the photographer comes.
+Blinds half shut, couch against the window, a bed with no headboard. Pull the blinds all the way up before the photos.
 
-#Realtor #ListingAgent #HomeStaging #InsideTheIndustry
+#Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### YouTube Shorts
-**Title:** Your Blinds Are Half Shut
-**Description:** None of it costs a dollar. Blinds all the way up, not just twisted open. Couch off the window you are trying to sell. Headboard and two lamps in every bedroom. Buyers scrolled past because the room looked like nobody cared. Walk it once before the photographer comes.
-**Hashtags:** #Realtor #ListingAgent #HomeStaging #InsideTheIndustry
+**Title:** Your Photos Have The Blinds Half Shut
+**Description:** Your photos have the blinds half shut. None of it costs money to fix, but buyers see it. The rooms look small and dark, so they scroll past your house. Pull the blinds all the way up and move furniture off the walls before the photos.
+**Hashtags:** #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### Facebook
-Walk the house once before the photographer arrives. Blinds all the way up, furniture off the walls, and a headboard with two lamps in every bedroom. None of it costs a dollar.
+Before the listing photos, pull every blind all the way up and move the furniture off the walls. It costs nothing and the rooms look bigger.
 
 #Realtor #InsideTheIndustry
 
 ## Council Review
 
 **Scroll-stop variants (spoken, pick one to A/B):**
-1. "Your listing photos have the blinds half shut." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Nobody pulls the blinds all the way up. That's the whole problem." - Family 4 System Indictment, Berger emotion: curiosity.
-3. "Stop twisting the slats. Pull the blind up." - Family 9 Swap/List, Berger emotion: curiosity.
+1. "Your photos have the blinds half shut." - Family 1 Mirror, Berger emotion: anxiety.
+2. "Nobody pulls the blinds all the way up." - Family 4 System Indictment, Berger emotion: curiosity.
+3. "Stop twisting the blinds. Pull them up." - Family 9 Swap/List, Berger emotion: curiosity.
 
-**Pattern interrupt:** Location Cold-Open at a window.
+**Pattern interrupt:** Location Cold-Open.
 
 **Why it should work:**
-- Hook mechanism (Heath): unexpectedly small. The viewer expects a staging lecture and gets a wrist movement, which is the specificity that makes it stick.
-- Share/save driver (Berger): practical currency. This is the save an agent pulls up in the car before a shoot.
-- Retention move (MrBeast): "None of that costs a dollar" at eight seconds removes the objection the viewer was already forming.
+- Hook mechanism (Heath): the fix is surprisingly small, and small, specific things stick.
+- Share/save driver (Berger): an agent saves this and pulls it up before a photo shoot.
+- Retention move (MrBeast): "None of that costs money" at five seconds answers the objection before the viewer makes it.
 
-**The dissent:** Kane argues the hook is too small to stop a cold scroll and that only agents with a listing this week care. The A/B is variant 2, which makes the smallness itself the hook.
+**The dissent:** Kane says it's too small to stop a cold scroll. Test variant 2, which makes the smallness the hook.

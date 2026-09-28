@@ -1,5 +1,7 @@
 # Stupid Things Realtors Do: the bank
 
+> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](../docs/editorial-standards.md).
+
 Standing candidates for the **Stupid Things Realtors Do** video lane. The machine-readable
 bank is [`stupid-things.json`](stupid-things.json); everything below the marker is generated
 from it by `scripts/stupid_things.py render`. This top half is the charter and is

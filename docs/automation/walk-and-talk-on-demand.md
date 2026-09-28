@@ -1,5 +1,7 @@
 # Walk-and-Talk: on-demand selection + build
 
+> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](../editorial-standards.md).
+
 This covers the **build half** only: how Claude turns a chosen option into a
 finished v3 script. Selection and the build happen on demand, on any device.
 

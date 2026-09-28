@@ -10,9 +10,11 @@ bank_angle: "You spent your one guaranteed week of attention on a house that was
 target: "self"
 hook_family: "1 Mirror"
 pattern_interrupt: "The Stop"
-word_count: "77"
+word_count: "66"
+runtime_target: "30s"
 post_date: "TBD"
 status: "draft"
+recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-7"
 ---
 
@@ -22,9 +24,9 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-7
 **Post Date:** TBD
 
 ## Shareable Moment
-> "You don't get that week back."
+> "A third of homes sell in the first two weeks."
 
-## Script (~30 seconds, 77 words)
+## Script (30 seconds max, 66 words)
 
 ### HOOK (0:00-0:01.5) - 7 words
 You listed it before it was ready.
@@ -32,69 +34,66 @@ You listed it before it was ready.
 ### VERDICT (0:01.5-0:03.5) - 5 words
 That's really stupid. Here's why.
 
-### TENSION (0:03.5-0:08) - 12 words
-They wanted it live this weekend, so it went live this weekend.
+### TENSION (0:03.5-0:08) - 10 words
+The seller wanted it live this weekend. You said yes.
 
-### THE POINT (0:08-0:22) - 36 words
-NAR says a third of houses sell in the first two weeks. That is your one guaranteed week of attention, and you spent it on a house that wasn't ready. You don't get that week back.
+### THE POINT (0:08-0:22) - 31 words
+NAR says a third of homes sell in the first two weeks. Those two weeks are your best shot. You spent them on a messy house. You don't get them back.
 
-### PAYOFF (0:22-0:30) - 17 words
-Walk it room by room first. List only the free fixes and anything under five hundred dollars.
+### PAYOFF (0:22-0:30) - 13 words
+Walk the house first. Fix only the cheap, easy stuff. Then list it.
 
-**Word count:** 77 spoken words (68-84; counted, not estimated)
+**Word count:** 66 spoken words (60-70, 72 max; counted, not estimated)
 
-**What got cut:** The whole conversation about how to tell a seller no, which is the actual hard part and the reason the source episode is worth listening to. It does not fit in thirty seconds. It is the LinkedIn caption.
+**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
 
 ## Production Notes
-- The Stop: D.J. stops walking on "You don't get that week back."
+- The Stop on "You don't get them back."
 - Self target, capped at 4.3.
-- **Receipt verified at build time.** NAR 2025 Profile of Home Buyers and Sellers, Exhibit 6-20: 34 percent of recently sold homes were on the market one to two weeks. Spoken as "a third" with the publisher named, which is the lane's one-number rule.
-- Say "NAR" on camera and nothing more. The full citation lives in Data Source.
-- No renovation talk. The swap is explicitly cheap, which is what makes it do-able Monday.
+- **Receipt verified at build time:** NAR 2025 Profile of Home Buyers and Sellers, Exhibit 6-20. 34 percent of recently sold homes sold in one to two weeks. Said as "a third," rounded down, publisher named.
+- Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
-- **Claim:** "NAR says a third of houses sell in the first two weeks." - Status: CONFIRMED. National Association of Realtors, 2025 Profile of Home Buyers and Sellers, Exhibit 6-20: 34 percent of recently sold homes sold in 1 to 2 weeks; the median was 4 weeks. Rounded down to "a third," never up.
-- **Claim:** the pre-market fix list is cheap, not a renovation - Status: Natalie Taflinger's own practice, Keeping It Real 2026-06-04, attributed on the page.
-- **Fabrication audit:** One number, said once, with its publisher. Nothing else is cited.
+- **Claim:** "NAR says a third of homes sell in the first two weeks." - Status: CONFIRMED. National Association of Realtors, 2025 Profile of Home Buyers and Sellers, Exhibit 6-20: 34 percent sold in 1 to 2 weeks; median 4 weeks.
+- **Claim:** fix only the cheap stuff - Status: Natalie Taflinger's practice, Keeping It Real 2026-06-04, attributed on the page.
+- **Fabrication audit:** One number, said once, with its publisher.
 
 ## AI Music Prompt
-**Vibe:** patient then flat, the sound of somebody telling you to wait ten days
+**Vibe:** patient and firm, the sound of telling someone to wait a week
 
-**CapCut AI Music (271 chars):**
-> [no vocals] Steady walking underscore, 94 BPM, patient, plain, quietly firm. Soft kick, muted upright bass, one warm electric piano chord. Everything drops out for a beat near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30-35s.
+**CapCut AI Music (277 chars):**
+> [no vocals] Steady walking underscore, 94 BPM, patient, plain, firm. Soft kick, muted upright bass, one warm piano chord. Everything drops out for a beat near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
 
 ## Social Media
 
 ### LinkedIn (PRIMARY)
-You listed it before it was ready.
+You listed the house before it was ready.
 
-They wanted it live this weekend. It was not ready. It went live this weekend.
+The seller wanted it up this weekend, so you put it up this weekend.
 
-NAR's 2025 numbers say a third of homes that sold were on the market one to two weeks, and the median was four. Your launch window is short, it is the only guaranteed attention the listing ever gets, and you spent it on a house with the blinds shut.
+NAR's 2025 numbers say about a third of homes that sold were on the market one to two weeks. Those first two weeks are when the most buyers see it. You spent them on a house with the blinds shut and a car in the driveway, and you don't get them back.
 
-The hard part is not knowing this. Every agent knows it. The hard part is the conversation, and the best version I have heard came from an agent who spent thirteen years in HR before real estate. She is not proposing a renovation. She is explicit that she is not asking anybody to redo a kitchen.
-
-Walk the house first, room by room, with a notepad. Sort everything into three lists: free, under five hundred dollars, and over. Present only the first two. Then put a number on the delay. Ten days and about four hundred dollars, and we go to market in the condition that gets the offers we just looked at.
+Walk the house first with a notepad. Make two lists: things that are free, and things under five hundred dollars. Do those. Skip the kitchen remodel. Then tell the seller: ten more days, a few hundred dollars, and we list it looking its best.
 
 #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### Instagram Reels
-NAR says a third of houses sell in the first two weeks. That is your one guaranteed week of attention, and you spent it on a house that wasn't ready.
+NAR says a third of homes sell in the first two weeks. You spent those weeks on a house that wasn't ready.
 
 #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### TikTok
-They wanted it live this weekend so it went live this weekend. A third of houses sell in the first two weeks and you just spent that window. Walk it room by room first.
+The seller wanted it up this weekend and you said yes. A third of homes sell in the first two weeks. Walk it first and fix the cheap stuff.
 
 #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### YouTube Shorts
 **Title:** You Listed It Before It Was Ready
-**Description:** NAR says a third of houses sell in the first two weeks. That is your one guaranteed week of attention, and you spent it on a house that was not ready. You do not get that week back. Walk it room by room first and list only the free fixes and anything under five hundred dollars.
+**Description:** You listed it before it was ready. NAR says a third of homes sell in the first two weeks. Those two weeks are your best shot, and you spent them on a messy house. Walk the house first, fix only the cheap, easy stuff, then list it.
 **Hashtags:** #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### Facebook
-Walk the house room by room before you talk about price. List only the free fixes and anything under five hundred dollars, then put a date on the delay. A third of homes sell in the first two weeks, and that window does not come back.
+Walk the house before you list it. Fix only the cheap, easy stuff first. A third of homes sell in the first two weeks, and you don't get those weeks back.
 
 #Realtor #InsideTheIndustry
 
@@ -102,14 +101,14 @@ Walk the house room by room before you talk about price. List only the free fixe
 
 **Scroll-stop variants (spoken, pick one to A/B):**
 1. "You listed it before it was ready." - Family 1 Mirror, Berger emotion: anxiety.
-2. "A third of houses sell in two weeks. You wasted yours." - Family 4 System Indictment, Berger emotion: anxiety.
-3. "Your seller picked the date. That's the problem." - Family 2 Sacred Cow, Berger emotion: curiosity.
+2. "A third of homes sell in two weeks. You wasted yours." - Family 4 System Indictment, Berger emotion: anxiety.
+3. "The seller picked the date. That was the mistake." - Family 2 Sacred Cow, Berger emotion: curiosity.
 
-**Pattern interrupt:** The Stop, on the loss line.
+**Pattern interrupt:** The Stop.
 
 **Why it should work:**
-- Hook mechanism (Heath): the viewer knows immediately whether this is them, and the ones it is not still watch to check.
-- Share/save driver (Berger): the number is the shareable unit. A third in two weeks is a fact a listing agent repeats to a seller that afternoon.
-- Retention move (MrBeast): the NAR number at eight seconds is the re-hook, and it arrives before the viewer has decided whether to stay.
+- Hook mechanism (Heath): the viewer knows right away if it's them.
+- Share/save driver (Berger): "a third sell in two weeks" is a fact an agent repeats to a seller that day.
+- Retention move (MrBeast): the NAR number at five seconds gives the viewer a reason to stay.
 
-**The dissent:** Berger argues variant 2 should be the default, because opening on the number gets the share and the mirror hook only gets the wince. The A/B is worth running: mirror hooks win completion, number hooks win sends.
+**The dissent:** Berger says variant 2 should lead because the number gets shared and the mirror only gets a wince. Test it.

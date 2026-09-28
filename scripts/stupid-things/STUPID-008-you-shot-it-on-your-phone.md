@@ -2,7 +2,7 @@
 series: "Stupid Things Realtors Do"
 type: "tip"
 script_number: "STUPID-008"
-title: "You Shot It On Your Phone"
+title: "You Shot The Listing On Your Phone"
 avatar: "All"
 content_pillar: "practice"
 bank_id: "ST-0005"
@@ -10,105 +10,106 @@ bank_angle: "The photos are the first showing, and the buyers you lose there nev
 target: "self"
 hook_family: "1 Mirror"
 pattern_interrupt: "One Prop"
-word_count: "80"
+word_count: "63"
+runtime_target: "30s"
 post_date: "TBD"
 status: "draft"
+recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-8"
 ---
 
-# You Shot It On Your Phone
+# You Shot The Listing On Your Phone
 
 **Pillar:** Practice | **Avatars:** All
 **Post Date:** TBD
 
 ## Shareable Moment
-> "The photos are the first showing."
+> "Bad photos, and buyers skip the house."
 
-## Script (~30 seconds, 80 words)
+## Script (30 seconds max, 63 words)
 
-### HOOK (0:00-0:01.5) - 8 words
-You shot your seller's house on your phone.
+### HOOK (0:00-0:01.5) - 7 words
+You shot the listing on your phone.
 
 ### VERDICT (0:01.5-0:03.5) - 5 words
 That's really stupid. Here's why.
 
-### TENSION (0:03.5-0:08) - 11 words
-Four in the afternoon, lights off, blinds half shut, bins visible.
+### TENSION (0:03.5-0:08) - 10 words
+Lights off. Blinds half closed. Trash cans in the shot.
 
-### THE POINT (0:08-0:22) - 38 words
-Those photos are the first showing. Hundreds of buyers decide whether to visit your listing without ever calling you, and you will never know which ones you lost, because a buyer who scrolls past doesn't phone to explain.
+### THE POINT (0:08-0:22) - 26 words
+Buyers look at the photos first. Bad photos, and they skip the house. They never call to tell you why. Your seller just sees fewer showings.
 
-### PAYOFF (0:22-0:30) - 18 words
-Hire the photographer. Then go to the shoot, because you're the one who knows what sells this house.
+### PAYOFF (0:22-0:30) - 15 words
+Hire a real photographer. Then go to the shoot. You know what sells this house.
 
-**Word count:** 80 spoken words (68-84; counted, not estimated)
+**Word count:** 63 spoken words (60-70, 72 max; counted, not estimated)
 
-**What got cut:** The prep checklist (lights on, blinds up, cars off the driveway, counters clear). It is the caption, and it is also its own script.
+**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
 
 ## Production Notes
-- One Prop: the phone, up on the hook, pocketed on "hire the photographer."
-- Self target, capped at 4.3. The cost is invisible to the viewer, which is the point.
-- NEEDS RECEIPT posture. **No number is spoken.** The bank and the page both carry an unverified "35 percent of listings are professionally photographed" figure sourced to an episode; it could not be traced to any NAR table and 2026 surveys put adoption far higher. It does not ship. The item works without it.
-- No camera brand, no photography service, no MLS named.
+- One Prop: the phone, up on the hook, pocketed on "Hire a real photographer."
+- Self target, capped at 4.3.
+- NEEDS RECEIPT posture. **No number is spoken.** A "35 percent of listings are professionally shot" figure was checked during the page build and cut for having no traceable source. Do not add it back in the edit.
+- Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
-- **Claim:** "Hundreds of buyers decide whether to visit your listing." - Status: editorial framing of ordinary portal traffic, not a cited figure.
-- **Claim:** the photos are the first showing - Status: Devon Higgins made this point on Keeping It Real 2023-06-12. Practitioner observation, attributed on the page.
-- **Fabrication audit:** The ~35 percent professional-photography figure was checked during the page build and CUT for having no traceable source. Do not reintroduce it in the edit. No statistic is spoken here.
+- **Claim:** buyers skip a house over bad photos - Status: Devon Higgins made this point on Keeping It Real 2023-06-12. Practitioner observation, attributed on the page.
+- **Fabrication audit:** No statistic is spoken. The 35 percent figure stays out.
 
 ## AI Music Prompt
-**Vibe:** flat and a little disappointed, no swell on the loss
+**Vibe:** flat and a little let down, no lift on the loss
 
-**CapCut AI Music (269 chars):**
-> [no vocals] Minimal walking underscore, 92 BPM, plain, level, faintly disappointed. Soft kick, muted bass, one sustained low pad. No lift at any point. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30-35s.
+**CapCut AI Music (253 chars):**
+> [no vocals] Minimal walking underscore, 92 BPM, plain, level, a little let down. Soft kick, muted bass, one low held pad. No lift at any point. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
 
 ## Social Media
 
 ### LinkedIn (PRIMARY)
-You shot your seller's largest asset on your phone, at four in the afternoon, with the lights off.
+You shot the listing on your phone, in the afternoon, with the lights off.
 
-Those photos are not marketing. They are the first showing. Hundreds of buyers will decide whether this house is worth an afternoon based entirely on those frames, and you will never learn which ones you lost, because a buyer who scrolls past does not call to explain why.
+Buyers look at the photos before anything else. If the photos look bad, they skip the house. They don't call to tell you why. Your seller just sees fewer showings and wonders what's wrong.
 
-Hire a real estate photographer. In most markets it is a couple hundred dollars and it is the highest-return money in the listing budget.
+Hire a real estate photographer. In most places it's a couple hundred dollars, and it's the best money you'll spend on the listing.
 
-Then go to the shoot. Photographers shoot what is in front of them. You are the one who knows the primary suite is the reason this house sells.
+Then go to the shoot. The photographer doesn't know which room sells this house. You do.
 
-Before they arrive: every light on, every blind all the way up, every ceiling fan off, cars off the driveway, bins out of frame, nothing on the counters except one deliberate object. Then order the photos in the sequence a buyer walks the house, not the order they were taken.
+Before they get there: every light on, every blind all the way up, cars out of the driveway, trash cans out of sight, kitchen counters clear.
 
 #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### Instagram Reels
-Those photos are the first showing. Hundreds of buyers decide whether to visit without ever calling you, and you will never know which ones you lost.
+Buyers look at the photos first. Bad photos, and they skip the house. They never call to tell you why.
 
 #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### TikTok
-Four in the afternoon, lights off, blinds half shut. Those photos are the first showing. Hire the photographer, then go to the shoot.
+Lights off, blinds half closed, trash cans in the shot. Hire a real photographer and go to the shoot.
 
 #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### YouTube Shorts
-**Title:** You Shot It On Your Phone
-**Description:** Those photos are the first showing. Hundreds of buyers decide whether to visit your listing without ever calling you, and you will never know which ones you lost, because a buyer who scrolls past does not phone to explain. Hire the photographer, then go to the shoot.
+**Title:** You Shot The Listing On Your Phone
+**Description:** You shot the listing on your phone. Buyers look at the photos first. Bad photos, and they skip the house. They never call to tell you why. Hire a real photographer, then go to the shoot yourself.
 **Hashtags:** #Realtor #ListingAgent #Chicagorealestate #InsideTheIndustry
 
 ### Facebook
-Hire the photographer, then go to the shoot. Photographers shoot what is in front of them. You are the one who knows which room is the reason this house sells.
+Hire a real photographer, then go to the shoot. The photographer doesn't know which room sells the house. You do.
 
 #Realtor #InsideTheIndustry
 
 ## Council Review
 
 **Scroll-stop variants (spoken, pick one to A/B):**
-1. "You shot your seller's house on your phone." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Your listing photos are the first showing." - Family 2 Sacred Cow, Berger emotion: curiosity.
-3. "Buyers are skipping your listing and never telling you." - Family 7 Forbidden, Berger emotion: anxiety.
+1. "You shot the listing on your phone." - Family 1 Mirror, Berger emotion: anxiety.
+2. "Buyers are skipping your listing and not telling you." - Family 7 Forbidden, Berger emotion: anxiety.
+3. "Your photos are losing you showings." - Family 4 System Indictment, Berger emotion: anger.
 
 **Pattern interrupt:** One Prop.
 
 **Why it should work:**
-- Hook mechanism (Heath): a concrete, checkable accusation about a specific afternoon.
-- Share/save driver (Berger): "the photos are the first showing" is the sendable line, and it reframes an expense as a showing.
-- Retention move (MrBeast): "you will never know which ones you lost" at about fifteen seconds closes off the viewer's escape route, which is assuming it has not happened to them.
+- Hook mechanism (Heath): a plain, checkable fact about the viewer's last listing.
+- Share/save driver (Berger): "bad photos, and they skip the house" is simple enough to repeat to a seller.
+- Retention move (MrBeast): "They never call to tell you why" around ten seconds removes the viewer's excuse.
 
-**The dissent:** Hormozi argues this script sells a vendor and has no free move in it, and that the lane's swap should always be something the viewer can do tonight for nothing. The A/B: run the prep checklist as the payoff (lights, blinds, cars, counters) and leave hiring out entirely.
+**The dissent:** Hormozi says the fix costs money and the lane should always hand over something free. Test a version where the payoff is the prep list: lights on, blinds up, cars gone.
