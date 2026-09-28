@@ -203,6 +203,15 @@ Profits: the listing agent who wants Sunday coverage. Turn: a small share of buy
 their home at one. Evidence: in-repo, EVERGREEN-003 already ran this as a data card, so a
 take version needs a different angle or an 8-week gap.
 
+**"Dual agency is fine as long as you disclose it."**
+Profits: the brokerage that collects both sides of a deal it only sourced once. Turn: the
+signed form makes the second commission legal, not free, and there is a third door almost
+nobody uses -- the unrepresented buyer is a *customer* until the agent starts advising
+them. Evidence: Zillow 2026-05-14, $2,165 per home across 6.8M qualifying transactions,
+plus 225 ILCS 454/15-35 and the Illinois REALTORS Agency Compliance Manual for the
+no-agency notice. Built as TAKE-004. Caution: the customer category is narrow and
+state-specific; do not run it as "non-agency is a business model."
+
 **"You need a bigger CRM / more leads."**
 Profits: lead vendors. Turn: the database an agent already owns is unworked. Evidence:
 in-repo, EVERGREEN-002 pop-by system. Same 8-week rule.
@@ -381,3 +390,4 @@ Rows dated before 2026-08-10 predate the video lane and are carousel-only.
 | 2026-08-19 | "Use AI to write your listing descriptions." (Tech and AI) | `scripts/takes/TAKE-001-ai-listing-descriptions.md` | -- |
 | 2026-08-21 | "Open houses are how you get buyers." (Practice) | `scripts/takes/TAKE-002-open-houses.md` | -- |
 | 2026-08-24 | "Ask for the comment." (Marketing and social) | `scripts/takes/TAKE-003-comment-below.md` | -- |
+| 2026-09-02 | "Dual agency is fine as long as you disclose it." (Practice) | `scripts/takes/TAKE-004-dual-agency-no-agency.md` | -- |

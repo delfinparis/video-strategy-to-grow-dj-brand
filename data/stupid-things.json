@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-15",
+  "updated": "2026-09-28",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -2699,6 +2699,456 @@
       ],
       "status": "banked",
       "first_seen": "2026-08-13"
+    },
+    {
+      "id": "ST-0070",
+      "practice": "Sending an offer by email and never calling the listing agent to say it is there",
+      "family": "Responsiveness and showings",
+      "category": "Offers and negotiation",
+      "looks_like": "You write the offer, you send it, and you wait. The listing agent gets a notification with no human being attached to it.",
+      "who_complains": "listing agents",
+      "target": "sideways",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1",
+          "note": "Carrie McCormick raised it twice on Keeping It Real, 2023 and 2025; Amy Duong Kim and Ali Garced independently",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The listing agent is not annoyed by the call. She is reading the silence, and deciding how committed you are.",
+          "swap": "Call within five minutes of sending. Say who you are, which property, and ask when the seller reviews.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0071",
+      "practice": "Forwarding a bare signature-request email with no terms in the body",
+      "family": "Competence, preparation and systems",
+      "category": "Contract and paperwork craft",
+      "looks_like": "The email looks like it came from the signing service. No note, no summary. The listing agent has to open the file to find out who sent it.",
+      "who_complains": "listing agents",
+      "target": "sideways",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-2",
+          "note": "Carrie McCormick and Ali Garced on Keeping It Real",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "You made the person who has to present your offer do your work first, and she presents it to the seller cold.",
+          "swap": "Put price, earnest money, loan type, closing date, every contingency and every concession in the body, in bullets, above the attachment.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0072",
+      "practice": "Rushing a seller to market before the house is ready to be seen",
+      "family": "Marketing, photos and pricing",
+      "category": "Pricing and listing intake",
+      "looks_like": "They want it live this weekend. It is not ready. It goes live this weekend.",
+      "who_complains": "sellers",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-7",
+          "note": "Natalie Taflinger named it the worst thing she sees, Keeping It Real 2026",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "You spent your one guaranteed week of attention on a house that was not ready for it, and that week does not come back.",
+          "swap": "Walk it room by room. List only the free fixes and the ones under five hundred dollars, and put a date on the delay.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0073",
+      "practice": "Skipping the staging moves that cost nothing",
+      "family": "Marketing, photos and pricing",
+      "category": "Marketing the listing",
+      "looks_like": "Blinds twisted half open. Furniture against every wall. A mattress with no headboard and no lamps.",
+      "who_complains": "buyers",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-9",
+          "note": "Trisha Lee, who stages for a living, on Keeping It Real 2024",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Nobody skipped the house because you did not hire a stager. They skipped it because the photos looked like nobody cared.",
+          "swap": "Blinds all the way up, pull the furniture off the walls, and put a headboard and two lamps in every bedroom.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0074",
+      "practice": "Never prospecting buyers for your own listing, leaving syndication to do it",
+      "family": "Marketing, photos and pricing",
+      "category": "Marketing the listing",
+      "looks_like": "You tell the seller it will be on all the sites and every agent will see it. Then you wait.",
+      "who_complains": "sellers",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-11",
+          "note": "Jordan Cohen on Keeping It Real 2023",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Every agent who competed for that listing promised the same sentence. None of them went and found the buyer.",
+          "swap": "Write down who buys this specific house, find the streets those people live on now, and go tell them it exists.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0075",
+      "practice": "Showing houses before ever sitting down with the buyer",
+      "family": "Competence, preparation and systems",
+      "category": "Buyer representation",
+      "looks_like": "Somebody calls, says they want to see the place Saturday, and you meet them at the place Saturday.",
+      "who_complains": "buyers",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-12",
+          "note": "Sara DeWulf and Sarah Maslowski on Keeping It Real",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "You are three houses in before you know their timeline, their money, or who else has to say yes.",
+          "swap": "No showings before the consultation. Cover the timeline, the financing, who decides, and what happens if they find nothing.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0076",
+      "practice": "Skipping the listing presentation because the seller is a friend or family",
+      "family": "Competence, preparation and systems",
+      "category": "Pricing and listing intake",
+      "looks_like": "It is your cousin, so you skip the presentation. You already know the house and you already know them.",
+      "who_complains": "sellers",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-13",
+          "note": "Rachel Adams Lee did a full presentation for her own parents, Keeping It Real 2025",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "You skipped the one conversation that sets expectations, with the person you can least afford to disappoint.",
+          "swap": "Do the full presentation for family. Same deck, same comps, same paperwork, and say out loud why you are doing it.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0077",
+      "practice": "Never asking a client how they want to be contacted",
+      "family": "Responsiveness and showings",
+      "category": "Responsiveness and communication",
+      "looks_like": "You call. They are a texter. You leave voicemails nobody will listen to and decide they went cold.",
+      "who_complains": "clients",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-14",
+          "note": "Cathy LaMon, thirty years in, on Keeping It Real 2023",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "They did not go cold. You picked the channel they ignore, and you never asked which one they read.",
+          "swap": "At the first meeting ask: call, text or email, what hours, and is voicemail read or ignored. Write the answer down.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0078",
+      "practice": "Taking the buyer's wish list at face value and never digging underneath it",
+      "family": "Competence, preparation and systems",
+      "category": "Buyer representation",
+      "looks_like": "They said three bedrooms, two baths, that neighborhood, under six hundred. So you send three bedrooms, two baths, that neighborhood, under six hundred.",
+      "who_complains": "buyers",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-15",
+          "note": "Lindsay Dreyer caught a walk-up with no elevator for a buyer aging in place, Keeping It Real 2025",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The wish list is what they knew to ask for. Everything you are worth is in the part they did not know to ask.",
+          "swap": "Ask what this home has to do for them in five years, and what went wrong in the last place.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0079",
+      "practice": "Waiting for referrals instead of ever asking for one",
+      "family": "Competence, preparation and systems",
+      "category": "Systems and sphere",
+      "looks_like": "You do good work, you stay in touch, and you wait for the referrals to show up on their own.",
+      "who_complains": "the agent's own pipeline",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-19",
+          "note": "Sam Sawyer relayed an agent's verdict: the dumbest thing was not asking for nineteen years",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "They are already recommending you. You just never told them where to point it.",
+          "swap": "Ask who has complained to them lately about their place, their commute or their landlord. First name only, and you take it from there.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0080",
+      "practice": "Sitting at the dining table through your own open house",
+      "family": "Responsiveness and showings",
+      "category": "Showings and access",
+      "looks_like": "You set up at the table with your laptop. People walk in, you say hi, they walk around, they leave.",
+      "who_complains": "buyers",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-24",
+          "note": "Cameron Buening toured other agents' open houses to study them, Keeping It Real 2024",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "The most qualified foot traffic you will ever get for free walked in and walked back out a stranger.",
+          "swap": "Stand near the door. Greet everyone inside five seconds, and ask what brought them in today.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0081",
+      "practice": "Farming a neighborhood across town while nobody in your own building knows what you do",
+      "family": "Marketing, photos and pricing",
+      "category": "Marketing and strategy",
+      "looks_like": "You bought a farm area across town. Four years in your own building and not one neighbor knows you sell real estate.",
+      "who_complains": "the agent's own pipeline",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-25",
+          "note": "D.J.'s own building in Wicker Park: four years, zero pieces of mail from any agent",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "You already know which line has the better views and what the assessments did. Nobody else farming that building does.",
+          "swap": "Send your own building what sold, what it closed at, and what it means for their tier. Four times a year.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0082",
+      "practice": "Opening a video with your own name",
+      "family": "Marketing, photos and pricing",
+      "category": "Personal brand and digital presence",
+      "looks_like": "Hey guys, my name is, and today I want to talk about. Gone.",
+      "who_complains": "the agent's own audience",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-28",
+          "note": "Rachel Adams Lee acts it out on Keeping It Real 2023",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "You spent the one second you get on the least interesting fact available, which is your name.",
+          "swap": "Make the first spoken line the most interesting sentence you have. Introduce yourself later, or not at all.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0083",
+      "practice": "Spreading across five platforms at twenty percent effort each",
+      "family": "Marketing, photos and pricing",
+      "category": "Personal brand and digital presence",
+      "looks_like": "Instagram, TikTok, YouTube, Facebook and LinkedIn, all half done, all running the same reposted graphic.",
+      "who_complains": "the agent's own pipeline",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-29",
+          "note": "Levi Lascsak picked one on purpose; Michael B. Bell generalizes it to three things",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "Five half efforts produce five ambiguous results, so you decide content does not work when what did not work is dabbling.",
+          "swap": "Pick one platform for six months. Decide what winning looks like in conversations, not views, and post at a pace you can hold on a bad week.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0084",
+      "practice": "Running personal and business money through one checking account",
+      "family": "Competence, preparation and systems",
+      "category": "Money and licensing",
+      "looks_like": "One account. The commission lands, the mortgage comes out, and at tax time you go through a year of statements with a highlighter.",
+      "who_complains": "the agent's own accountant",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-30",
+          "note": "Shahar Plinner named commingling the number one mistake he sees, Keeping It Real 2024",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "You cannot tell whether you are profitable, so every decision you make about your own business is a guess.",
+          "swap": "Open a business checking account this week. Every commission in, every business expense out, no exceptions, including the small ones.",
+          "status": "open",
+          "banked": "2026-09-28"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-28"
     }
   ],
   "rotation": [
