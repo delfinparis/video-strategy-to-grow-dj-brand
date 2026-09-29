@@ -579,7 +579,27 @@
    "has_body": true,
    "lane": "Broker Problems",
    "ref": "scripts/broker-problems/BP-015-a-name-clients-cant-say.md"
+  },
+  "https://app.notion.com/p/3e9313fa2892819f9a22f31f9291bcc5": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "stupid-things/STUPID-004-you-sent-the-offer-and-never-called.md (ST-0070)"
+  },
+  "https://app.notion.com/p/3ea313fa28928122be68ca5354215eeb": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-29.md (Longbridge 2026 Home Equity Confidence Index)"
+  },
+  "https://app.notion.com/p/3ea313fa28928124ae4df4ef0d928c82": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-09-29.md (8th Circuit denies Sitzer/Burnett rehearing)"
+  },
+  "https://app.notion.com/p/3ea313fa289281288753f7c1752c3eea": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-09-29.md (Point Homeowner Remodeling Index Q3 2026)"
   }
  },
- "updated": "2026-09-28"
+ "updated": "2026-09-29"
 }
