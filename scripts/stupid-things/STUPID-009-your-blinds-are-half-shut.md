@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0073"
 bank_angle: "Nobody skipped the house because you did not hire a stager. They skipped it because the photos looked like nobody cared."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Location Cold-Open"
-word_count: "63"
-runtime_target: "30s"
+word_count: "86"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-9"
 ---
 
@@ -24,34 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-9
 **Post Date:** TBD
 
 ## Shareable Moment
-> "None of that costs money."
+> "None of it costs a dollar."
 
-## Script (30 seconds max, 63 words)
+## Script (about 40 seconds, 86 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-Your photos have the blinds half shut.
+### HOOK (0:00-0:06) - 13 words
+Hey Realtors, shooting listing photos with the blinds half closed is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 24 words
+If the blinds are only twisted open, every room looks small and dark, and buyers scroll right past your house without a second look.
 
-### TENSION (0:03.5-0:08) - 9 words
-Couch against the window. A bed with no headboard.
+### THE SOLUTION (0:15-0:21) - 12 words
+Here's the solution - fix the free stuff before the photographer shows up.
 
-### THE POINT (0:08-0:22) - 27 words
-None of that costs money. But buyers see it in the photos. The rooms look small and dark and cramped. So they scroll right past your house.
+### SAY THIS (0:21-0:36) - 31 words
+Pull every blind all the way up. Move the furniture a few inches off the walls. Keep the couch away from the windows. Give every bedroom a headboard and two lamps.
 
-### PAYOFF (0:22-0:30) - 15 words
-Before the photos, pull the blinds all the way up. Move furniture off the walls.
+### CLOSE (0:36-0:40) - 6 words
+None of it costs a dollar.
 
-**Word count:** 63 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 86 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Location Cold-Open at a window. The blind is the prop.
-- Self target, capped at 4.3.
-- Keep "all the way up." Twisting the slats open is not the same thing, and that difference is the whole tip.
-- NEEDS RECEIPT posture. No number is spoken.
+- Location Cold-Open on the CLOSE line.
+- Keep "all the way up." Twisting the slats open is not the same thing, and that difference is the tip.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +64,7 @@ Before the photos, pull the blinds all the way up. Move furniture off the walls.
 **Vibe:** light and quick, a small fix with no fuss
 
 **CapCut AI Music (259 chars):**
-> [no vocals] Bright minimal walking groove, 100 BPM, light, quick, practical. Soft kick, brushed hats, muted bass, one clean guitar note. Stays level. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Bright minimal walking groove, 100 BPM, light, quick, practical. Soft kick, brushed hats, muted bass, one clean guitar note. Stays level. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -109,16 +111,16 @@ Before the listing photos, pull every blind all the way up and move the furnitur
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "Your photos have the blinds half shut." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Nobody pulls the blinds all the way up." - Family 4 System Indictment, Berger emotion: curiosity.
-3. "Stop twisting the blinds. Pull them up." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, shooting photos with the blinds half closed is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, twisting the blinds open instead of pulling them up is really stupid." - Berger emotion: curiosity.
+3. "Hey Realtors, paying a stager for what blinds can fix is really stupid." - Berger emotion: curiosity.
 
 **Pattern interrupt:** Location Cold-Open.
 
 **Why it should work:**
-- Hook mechanism (Heath): the fix is surprisingly small, and small, specific things stick.
-- Share/save driver (Berger): an agent saves this and pulls it up before a photo shoot.
-- Retention move (MrBeast): "None of that costs money" at five seconds answers the objection before the viewer makes it.
+- Hook mechanism (Heath): the fix is surprisingly small, and small specific things stick.
+- Share/save driver (Berger): an agent pulls this up in the car before a shoot.
+- Retention move (MrBeast): "None of it costs a dollar" answers the objection last, where it lands hardest.
 
 **The dissent:** Kane says it's too small to stop a cold scroll. Test variant 2, which makes the smallness the hook.

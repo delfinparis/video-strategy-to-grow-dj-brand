@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0042"
 bank_angle: "Under 2% of your audience is in-market, so a pure sales feed is relevant to almost nobody"
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Gesture-On-Beat"
-word_count: "60"
-runtime_target: "30s"
+word_count: "87"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-27"
 ---
 
@@ -24,33 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-2
 **Post Date:** TBD
 
 ## Shareable Moment
-> "When they do move, they don't think of you."
+> "People hire the person they feel they already know."
 
-## Script (30 seconds max, 60 words)
+## Script (about 40 seconds, 87 words)
 
-### HOOK (0:00-0:01.5) - 5 words
-You only post your listings.
+### HOOK (0:00-0:06) - 12 words
+Hey Realtors, only posting just listed and just sold is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 21 words
+Almost nobody following you is moving this month, so they scroll past, and they never learn a single thing about you.
 
-### TENSION (0:03.5-0:08) - 8 words
-Just listed. Just sold. An award. Then repeat.
+### THE SOLUTION (0:15-0:21) - 12 words
+Here's the solution - post about your life and your neighborhood most days.
 
-### THE POINT (0:08-0:22) - 28 words
-Almost nobody following you is moving this month. So they scroll right past. They don't know anything about you. When they do move, they don't think of you.
+### SAY THIS (0:21-0:36) - 33 words
+Post the new coffee shop. The construction on the corner. Why one block costs more than the next one. Then post a listing once a week, and keep politics off your business page.
 
-### PAYOFF (0:22-0:30) - 14 words
-Post about your life and your neighborhood most days. Post listings once a week.
+### CLOSE (0:36-0:40) - 9 words
+People hire the person they feel they already know.
 
-**Word count:** 60 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 87 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Rachel Adams Lee's 80/20 rule and her line, "people might find you because you're in real estate, but they stick around because of who you are," verified against audio. It is in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Gesture-On-Beat on "Just listed. Just sold. An award."
-- **The bank angle carries an unsourced "under 2% of your audience is in-market" figure. It is not spoken.** "Almost nobody" makes the same point without a number a commenter can challenge.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- Gesture-On-Beat on the CLOSE line.
+- **Do not add a number.** The bank angle's "under 2% of your audience is in-market" has no confirmed source.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -61,7 +64,7 @@ Post about your life and your neighborhood most days. Post listings once a week.
 **Vibe:** light and friendly, less selling
 
 **CapCut AI Music (235 chars):**
-> [no vocals] Light walking groove, 100 BPM, light, friendly, easy. Soft kick, brushed hats, muted bass, one warm guitar chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Light walking groove, 100 BPM, light, friendly, easy. Soft kick, brushed hats, muted bass, one warm guitar chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -98,16 +101,16 @@ Post about your life and your neighborhood most days and your listings once a we
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You only post your listings." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Nobody following you is moving this month." - Family 4 System Indictment, Berger emotion: curiosity.
-3. "Stop posting just sold." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, only posting just listed and just sold is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, turning your page into a listing feed is really stupid." - Berger emotion: anger.
+3. "Hey Realtors, posting like nobody follows you for you is really stupid." - Berger emotion: curiosity.
 
 **Pattern interrupt:** Gesture-On-Beat.
 
 **Why it should work:**
 - Hook mechanism (Heath): the viewer can scroll their own grid to check.
-- Share/save driver (Berger): "most days, listings once a week" is a rule people copy.
-- Retention move (MrBeast): "When they do move, they don't think of you" at the end of the point is the real cost.
+- Share/save driver (Berger): the list of post ideas is a save.
+- Retention move (MrBeast): "they never learn a single thing about you" is the cost.
 
-**The dissent:** Kane says variant 2 is the stronger hook because it surprises. Test it.
+**The dissent:** Kane says "Almost nobody following you is moving this month" is the stronger first line. Test it.

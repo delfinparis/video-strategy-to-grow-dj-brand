@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0071"
 bank_angle: "You made the person who has to present your offer do your work first, and she presents it to the seller cold."
 target: "sideways"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Gesture-On-Beat"
-word_count: "63"
-runtime_target: "30s"
+word_count: "89"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-2"
 ---
 
@@ -24,33 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-2
 **Post Date:** TBD
 
 ## Shareable Moment
-> "Type the price, the deposit and the closing date in the email."
+> "Put the terms right in the body of the email."
 
-## Script (30 seconds max, 63 words)
+## Script (about 40 seconds, 89 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You emailed the offer with no message.
+### HOOK (0:00-0:06) - 14 words
+Hey Realtors, emailing an offer with nothing written in the email is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 24 words
+If you just forward the file, the listing agent has to dig through it to find the price before she can call her seller.
 
-### TENSION (0:03.5-0:08) - 8 words
-Just a file. No price, no name, nothing.
+### THE SOLUTION (0:15-0:21) - 13 words
+Here's the solution - put the terms right in the body of the email.
 
-### THE POINT (0:08-0:22) - 29 words
-The listing agent can't even tell it's an offer. She has to open it and dig for the price. Now she's doing your job. That doesn't help your buyer.
+### SAY THIS (0:21-0:36) - 32 words
+Start every offer email like this. Price. Deposit. Loan type and the lender's number. Closing date. Every condition and how many days it runs. Then one line: call me with any questions.
 
-### PAYOFF (0:22-0:30) - 14 words
-Type the price, the deposit and the closing date in the email. Every time.
+### CLOSE (0:36-0:40) - 6 words
+Make the listing agent's job easy.
 
-**Word count:** 63 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 89 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Gesture-On-Beat: one flat hand for each of the three things on the payoff.
+- Gesture-On-Beat on the CLOSE line.
 - Pairs with STUPID-004. Post them a week apart.
-- NEEDS RECEIPT posture. No number is spoken. No signing app is named.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +65,7 @@ Type the price, the deposit and the closing date in the email. Every time.
 **Vibe:** quick and practical, three beats like items on a list
 
 **CapCut AI Music (256 chars):**
-> [no vocals] Tight walking groove, 102 BPM, quick, practical, plain. Dry kick, rimshot, short muted bass, three stepped marimba notes near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Tight walking groove, 102 BPM, quick, practical, plain. Dry kick, rimshot, short muted bass, three stepped marimba notes near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -101,16 +104,16 @@ Type the price, the deposit and the closing date right in the email when you sen
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You emailed the offer with no message." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Your offer showed up with no name on it." - Family 1 Mirror, Berger emotion: curiosity.
-3. "Listing agents can't tell your offer from spam." - Family 8 Cohort Callout, Berger emotion: anger.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, emailing an offer with nothing in the email is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, forwarding a bare file and calling it an offer is really stupid." - Berger emotion: anger.
+3. "Hey Realtors, making the listing agent dig for your price is really stupid." - Berger emotion: curiosity.
 
 **Pattern interrupt:** Gesture-On-Beat.
 
 **Why it should work:**
-- Hook mechanism (Heath): the viewer can picture the exact email, because they sent one.
-- Share/save driver (Berger): the payoff is a three-item checklist, and checklists get saved.
-- Retention move (MrBeast): "Now she's doing your job" lands around fifteen seconds and turns sloppy into costly.
+- Hook mechanism (Heath): the viewer can picture the exact empty email.
+- Share/save driver (Berger): the six-line template is a save.
+- Retention move (MrBeast): the template itself holds attention because every line is something they can use.
 
-**The dissent:** Hormozi says three items is two too many for a thirty-second video. Test a version with just the price in the email and the rest in the caption.
+**The dissent:** Hormozi says six items is a lot to hear once. Test a version that stops at price, deposit and closing date.

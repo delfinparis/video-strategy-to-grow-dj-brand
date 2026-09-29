@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0066"
 bank_angle: "Fifty names is not too many. It feels like too many because there is no plan, so nobody gets called."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "The Stop"
-word_count: "63"
-runtime_target: "30s"
+word_count: "86"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-22"
 ---
 
@@ -26,31 +27,32 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-2
 ## Shareable Moment
 > "Fifty isn't too many."
 
-## Script (30 seconds max, 63 words)
+## Script (about 40 seconds, 86 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You say your contact list is overwhelming.
+### HOOK (0:00-0:06) - 12 words
+Hey Realtors, calling a list of fifty names overwhelming is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 22 words
+Fifty isn't too many. It only feels that way because you have no plan, so you end up calling nobody at all.
 
-### TENSION (0:03.5-0:08) - 8 words
-Then you open it. There are fifty names.
+### THE SOLUTION (0:15-0:21) - 14 words
+Here's the solution - start with the ten people who would take your call today.
 
-### THE POINT (0:08-0:22) - 29 words
-The list isn't the problem. Fifty isn't too many. You just have no plan for them. So every name feels like a chore. And you end up calling nobody.
+### SAY THIS (0:21-0:36) - 29 words
+Call those ten every single month. Give everyone else four touches a year. Put all of it on your calendar today, so you never have to decide who's next.
 
-### PAYOFF (0:22-0:30) - 14 words
-Pick the ten who'd take your call today. Call each of them every month.
+### CLOSE (0:36-0:40) - 9 words
+Ten people you call beat six hundred you don't.
 
-**Word count:** 63 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 86 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Chase Craig's point that a small list treated like kings beats a big list treated equally. It is in the LinkedIn caption, with the three-tier setup.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- The Stop on "There are fifty names."
-- NEEDS RECEIPT posture. "Fifty" and "ten" are the scene and the task.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- The Stop on the CLOSE line.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -61,7 +63,7 @@ Pick the ten who'd take your call today. Call each of them every month.
 **Vibe:** calm and a little amused, a problem that's smaller than it looks
 
 **CapCut AI Music (241 chars):**
-> [no vocals] Calm walking underscore, 96 BPM, calm, plain, lightly amused. Soft kick, muted bass, brushed hats, one warm piano note. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Calm walking underscore, 96 BPM, calm, plain, lightly amused. Soft kick, muted bass, brushed hats, one warm piano note. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -98,16 +100,16 @@ Pick the ten people who would take your call today and call each of them every m
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You say your contact list is overwhelming." - Family 1 Mirror, Berger emotion: curiosity.
-2. "Fifty names isn't a database. It's a to-do list." - Family 2 Sacred Cow, Berger emotion: curiosity.
-3. "Stop building the list. Call ten people." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, calling fifty names overwhelming is really stupid." - Berger emotion: curiosity.
+2. "Hey Realtors, building a database instead of calling ten people is really stupid." - Berger emotion: curiosity.
+3. "Hey Realtors, treating every contact the same is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** The Stop.
 
 **Why it should work:**
-- Hook mechanism (Heath): the reveal ("fifty names") lands at five seconds.
-- Share/save driver (Berger): "pick ten" is small enough that people actually do it.
-- Retention move (MrBeast): "And you end up calling nobody" at about twenty seconds is the real cost.
+- Hook mechanism (Heath): it calls a common complaint stupid, which is contrarian.
+- Share/save driver (Berger): "ten a month, everyone else four a year" is a rule people adopt.
+- Retention move (MrBeast): "you end up calling nobody at all" is the real cost.
 
-**The dissent:** Eric Simon says agents with big lists will feel left out. Test variant 3, which works for any size list.
+**The dissent:** Eric Simon says agents with big lists will feel left out. Test variant 2, which works for any size list.

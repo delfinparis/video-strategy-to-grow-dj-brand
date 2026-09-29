@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0064"
 bank_angle: "The lead that ignored text one answers call four"
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Push-In"
-word_count: "62"
-runtime_target: "30s"
+word_count: "87"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-21"
 ---
 
@@ -26,31 +27,33 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-2
 ## Shareable Moment
 > "They're busy, not saying no."
 
-## Script (30 seconds max, 62 words)
+## Script (about 40 seconds, 87 words)
 
-### HOOK (0:00-0:01.5) - 6 words
-You called twice and gave up.
+### HOOK (0:00-0:06) - 13 words
+Hey Realtors, calling a lead twice and then giving up is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 23 words
+Most people don't pick up the first few times. They're busy, not saying no, and you quit right before they would have answered.
 
-### TENSION (0:03.5-0:08) - 9 words
-No answer. No text back. You marked them dead.
+### THE SOLUTION (0:15-0:21) - 12 words
+Here's the solution - give every lead a next date on your calendar.
 
-### THE POINT (0:08-0:22) - 27 words
-Most people don't answer the first few times. They're busy, not saying no. You quit right before they would have picked up. The next agent didn't quit.
+### SAY THIS (0:21-0:36) - 33 words
+Change it up each time. Call, then text, then email, at a different time of day. And when you finally stop, say so. I'll stop reaching out. Call me when the timing's right.
 
-### PAYOFF (0:22-0:30) - 15 words
-Give every lead a next date on your calendar. Try a different way each time.
+### CLOSE (0:36-0:40) - 6 words
+Busy isn't the same as no.
 
-**Word count:** 62 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 87 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Any follow-up count statistic. The famous "five follow-ups" figure is on this lane's banned list. Also cut: the last-message trick, telling them you'll stop reaching out, which is in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Push-In on "The next agent didn't quit."
-- **No follow-up statistic is spoken, on purpose.** The "80 percent of sales need five follow-ups" figure is in receipt_cautions.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- Push-In on the CLOSE line.
+- **No follow-up statistic.** The "80 percent of sales need five follow-ups" figure is on the banned list.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -61,7 +64,7 @@ Give every lead a next date on your calendar. Try a different way each time.
 **Vibe:** steady and stubborn, keep going
 
 **CapCut AI Music (241 chars):**
-> [no vocals] Steady walking groove, 100 BPM, stubborn, steady, plain. Dry kick, muted bass, closed hats, one repeating plucked note. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Steady walking groove, 100 BPM, stubborn, steady, plain. Dry kick, muted bass, closed hats, one repeating plucked note. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -98,16 +101,16 @@ Give every lead a next date on your calendar and try a different way each time. 
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You called twice and gave up." - Family 1 Mirror, Berger emotion: anxiety.
-2. "The lead you marked dead just hired someone else." - Family 7 Forbidden, Berger emotion: anxiety.
-3. "Busy isn't no." - Family 2 Sacred Cow, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, calling a lead twice and giving up is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, marking a lead dead after two tries is really stupid." - Berger emotion: anxiety.
+3. "Hey Realtors, treating busy like no is really stupid." - Berger emotion: curiosity.
 
 **Pattern interrupt:** Push-In.
 
 **Why it should work:**
-- Hook mechanism (Heath): six words, and a number the viewer can check against last week.
-- Share/save driver (Berger): "They're busy, not saying no" is a line team leads say out loud.
-- Retention move (MrBeast): "The next agent didn't quit" at about twenty seconds names who won.
+- Hook mechanism (Heath): the viewer can count last week's two-call leads.
+- Share/save driver (Berger): the last-message line is copy-and-paste.
+- Retention move (MrBeast): "you quit right before they would have answered" is the loss.
 
-**The dissent:** Kane says "Busy isn't no" is shorter, stranger and stops more scrolls. Test it as the hook.
+**The dissent:** Kane says "treating busy like no" is shorter and stranger. Test it.

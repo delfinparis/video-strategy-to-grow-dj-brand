@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0079"
 bank_angle: "They are already recommending you. You just never told them where to point it."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Walk-Toward"
-word_count: "60"
-runtime_target: "30s"
+word_count: "86"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-19"
 ---
 
@@ -24,33 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1
 **Post Date:** TBD
 
 ## Shareable Moment
-> "One question fixes that."
+> "Who's complained to you lately about their house?"
 
-## Script (30 seconds max, 60 words)
+## Script (about 40 seconds, 86 words)
 
-### HOOK (0:00-0:01.5) - 5 words
-You never ask for referrals.
+### HOOK (0:00-0:06) - 12 words
+Hey Realtors, waiting for referrals to just show up is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 22 words
+Your past clients already like you, and most of them would happily send you somebody. They just don't know who needs you.
 
-### TENSION (0:03.5-0:08) - 10 words
-You do good work. You wait for referrals. Nothing comes.
+### THE SOLUTION (0:15-0:21) - 13 words
+Here's the solution - ask a question they can actually answer on the spot.
 
-### THE POINT (0:08-0:22) - 26 words
-Your past clients already like you. Most of them would send you somebody. They don't know who needs you. So nothing happens. One question fixes that.
+### SAY THIS (0:21-0:36) - 35 words
+Don't ask if they know anyone buying or selling. Ask this. Who's complained to you lately about their house, their commute, or their landlord? Just give me a first name. I'll take it from there.
 
-### PAYOFF (0:22-0:30) - 14 words
-Ask them, who's complained to you about their place lately? Just a first name.
+### CLOSE (0:36-0:40) - 4 words
+Complainers turn into movers.
 
-**Word count:** 60 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 86 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Sam Sawyer's line, "the dumbest thing I did was not ask for the last 19 years," which D.J. verified against the audio. It is a quote, so it lives in the LinkedIn caption. Also cut: the NAR figures behind "most of them would send you somebody."
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Walk-Toward on "One question fixes that."
-- "Most of them would send you somebody" rests on NAR's 91 percent would-recommend figure. It is said without the number, on purpose, so the script matches the 004 model. The number is in Data Source.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- Walk-Toward on the CLOSE line.
+- "Most of them would happily send you somebody" rests on NAR 2025 (91 percent would recommend). Said without the number.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +65,7 @@ Ask them, who's complained to you about their place lately? Just a first name.
 **Vibe:** warm and encouraging, a simple fix
 
 **CapCut AI Music (251 chars):**
-> [no vocals] Warm walking groove, 100 BPM, warm, encouraging, plain. Soft kick, muted bass, brushed hats, one bright guitar note near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Warm walking groove, 100 BPM, warm, encouraging, plain. Soft kick, muted bass, brushed hats, one bright guitar note near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -99,16 +102,16 @@ Ask past clients: who's complained to you about their place lately? Just a first
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You never ask for referrals." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Stop asking who's buying or selling." - Family 9 Swap/List, Berger emotion: curiosity.
-3. "Your clients want to send you people." - Family 2 Sacred Cow, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, waiting for referrals to just show up is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, asking if they know anyone buying or selling is really stupid." - Berger emotion: curiosity.
+3. "Hey Realtors, never asking for referrals is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** Walk-Toward.
 
 **Why it should work:**
-- Hook mechanism (Heath): five words, and most agents know it's them.
-- Share/save driver (Berger): the complainer question is the save. It's a line people copy word for word.
-- Retention move (MrBeast): "One question fixes that" at about twenty seconds promises the answer and pays it off right away.
+- Hook mechanism (Heath): most agents know it's them.
+- Share/save driver (Berger): the complainer question is the save; people copy it word for word.
+- Retention move (MrBeast): "they just don't know who needs you" reframes the problem before the fix.
 
-**The dissent:** Berger says the verified Sam Sawyer quote beats anything D.J. can say in his own words. Test a version that opens with it.
+**The dissent:** Berger says Sam Sawyer's verified quote beats anything said in D.J.'s own words. Test opening the WHY with it.

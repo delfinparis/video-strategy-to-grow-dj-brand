@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0072"
 bank_angle: "You spent your one guaranteed week of attention on a house that was not ready for it, and that week does not come back."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "The Stop"
-word_count: "66"
-runtime_target: "30s"
+word_count: "94"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-7"
 ---
 
@@ -24,33 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-7
 **Post Date:** TBD
 
 ## Shareable Moment
-> "A third of homes sell in the first two weeks."
+> "You only get one first week."
 
-## Script (30 seconds max, 66 words)
+## Script (about 40 seconds, 94 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You listed it before it was ready.
+### HOOK (0:00-0:06) - 16 words
+Hey Realtors, listing a house before it's ready just because the seller asked is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 25 words
+If you rush it, you waste your first two weeks on a messy house. NAR says a third of homes sell in those two weeks.
 
-### TENSION (0:03.5-0:08) - 10 words
-The seller wanted it live this weekend. You said yes.
+### THE SOLUTION (0:15-0:21) - 16 words
+Here's the solution - walk the house before you list it and fix only the cheap stuff.
 
-### THE POINT (0:08-0:22) - 31 words
-NAR says a third of homes sell in the first two weeks. Those two weeks are your best shot. You spent them on a messy house. You don't get them back.
+### SAY THIS (0:21-0:36) - 31 words
+Tell the seller this. Give me ten days and a few hundred dollars. We'll clear the counters, paint one wall, and fix what's broken. Then we list it looking its best.
 
-### PAYOFF (0:22-0:30) - 13 words
-Walk the house first. Fix only the cheap, easy stuff. Then list it.
+### CLOSE (0:36-0:40) - 6 words
+You only get one first week.
 
-**Word count:** 66 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 94 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- The Stop on "You don't get them back."
-- Self target, capped at 4.3.
-- **Receipt verified at build time:** NAR 2025 Profile of Home Buyers and Sellers, Exhibit 6-20. 34 percent of recently sold homes sold in one to two weeks. Said as "a third," rounded down, publisher named.
+- The Stop on the CLOSE line.
+- **Receipt verified at build time:** NAR 2025 Profile of Home Buyers and Sellers, Exhibit 6-20, 34 percent sold in one to two weeks. Said as "a third," publisher named.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +65,7 @@ Walk the house first. Fix only the cheap, easy stuff. Then list it.
 **Vibe:** patient and firm, the sound of telling someone to wait a week
 
 **CapCut AI Music (277 chars):**
-> [no vocals] Steady walking underscore, 94 BPM, patient, plain, firm. Soft kick, muted upright bass, one warm piano chord. Everything drops out for a beat near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Steady walking underscore, 94 BPM, patient, plain, firm. Soft kick, muted upright bass, one warm piano chord. Everything drops out for a beat near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -99,16 +102,16 @@ Walk the house before you list it. Fix only the cheap, easy stuff first. A third
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You listed it before it was ready." - Family 1 Mirror, Berger emotion: anxiety.
-2. "A third of homes sell in two weeks. You wasted yours." - Family 4 System Indictment, Berger emotion: anxiety.
-3. "The seller picked the date. That was the mistake." - Family 2 Sacred Cow, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, listing a house before it's ready is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, letting the seller pick the list date is really stupid." - Berger emotion: curiosity.
+3. "Hey Realtors, wasting your first two weeks on a messy house is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** The Stop.
 
 **Why it should work:**
-- Hook mechanism (Heath): the viewer knows right away if it's them.
-- Share/save driver (Berger): "a third sell in two weeks" is a fact an agent repeats to a seller that day.
-- Retention move (MrBeast): the NAR number at five seconds gives the viewer a reason to stay.
+- Hook mechanism (Heath): it calls saying yes to the seller stupid, which is contrarian.
+- Share/save driver (Berger): the NAR number is the fact an agent repeats to a seller.
+- Retention move (MrBeast): the number arrives right after the hook and gives a reason to stay.
 
-**The dissent:** Berger says variant 2 should lead because the number gets shared and the mirror only gets a wince. Test it.
+**The dissent:** Berger says the NAR number should be in the first line. Test "Hey Realtors, wasting the two weeks when a third of homes sell is really stupid."

@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0083"
 bank_angle: "Five half efforts produce five ambiguous results, so you decide content does not work when what did not work is dabbling."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Gesture-On-Beat"
-word_count: "61"
-runtime_target: "30s"
+word_count: "88"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-29"
 ---
 
@@ -24,34 +25,34 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-2
 **Post Date:** TBD
 
 ## Shareable Moment
-> "It works. Doing five things halfway doesn't."
+> "Video works. Doing five things halfway doesn't."
 
-## Script (30 seconds max, 61 words)
+## Script (about 40 seconds, 88 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You post a little on five apps.
+### HOOK (0:00-0:06) - 13 words
+Hey Realtors, posting a little bit on five different apps is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 23 words
+If nothing gets real effort, you never learn what works, so after six months you quit and decide that video just doesn't work.
 
-### TENSION (0:03.5-0:08) - 8 words
-Same graphic everywhere. A few likes. No clients.
+### THE SOLUTION (0:15-0:21) - 15 words
+Here's the solution - pick one app and stick with it for the next six months.
 
-### THE POINT (0:08-0:22) - 27 words
-You never learn what works, because nothing gets enough effort. Six months later, you quit. You decide video doesn't work. It works. Doing five things halfway doesn't.
+### SAY THIS (0:21-0:36) - 30 words
+Pick the one app where your clients actually are, not the one you like. Post there three times a week. Count conversations, not views. Only then add a second app.
 
-### PAYOFF (0:22-0:30) - 14 words
-Pick one app for six months. Post there three times a week. Only there.
+### CLOSE (0:36-0:40) - 7 words
+Video works. Doing five things halfway doesn't.
 
-**Word count:** 61 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 88 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Levi Lascsak's reasoning, verified against audio: twenty percent effort on five platforms and you never master one. It's in the LinkedIn caption, with Michael B. Bell's version.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Gesture-On-Beat: five fingers on the hook, one on the payoff.
-- "It works. Doing five things halfway doesn't." is the one contrast line in the script. Do not add another.
-- NEEDS RECEIPT posture. "Six months" and "three times a week" are the task.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- Gesture-On-Beat on the CLOSE line.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +63,7 @@ Pick one app for six months. Post there three times a week. Only there.
 **Vibe:** focused and steady, do one thing
 
 **CapCut AI Music (240 chars):**
-> [no vocals] Focused walking groove, 100 BPM, focused, steady, plain. Dry kick, muted bass, closed hats, one repeating guitar note. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Focused walking groove, 100 BPM, focused, steady, plain. Dry kick, muted bass, closed hats, one repeating guitar note. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -99,16 +100,16 @@ Pick one app for the next six months and post there three times a week. Only the
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You post a little on five apps." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Video works. Five apps at once doesn't." - Family 2 Sacred Cow, Berger emotion: curiosity.
-3. "Delete four of your apps." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, posting a little on five apps is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, copying the same graphic to every app is really stupid." - Berger emotion: curiosity.
+3. "Hey Realtors, quitting video after six half-tries is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** Gesture-On-Beat.
 
 **Why it should work:**
 - Hook mechanism (Heath): the viewer counts their own apps.
 - Share/save driver (Berger): "one app, six months" is a rule people commit to out loud.
-- Retention move (MrBeast): "It works" at about nineteen seconds reverses the conclusion the viewer already reached.
+- Retention move (MrBeast): the close reverses the conclusion the viewer already reached.
 
-**The dissent:** Hormozi says variant 3 is the one people argue with in the comments, which is reach. Test it.
+**The dissent:** Hormozi says "delete four of your apps" would start a fight in the comments. Test it.

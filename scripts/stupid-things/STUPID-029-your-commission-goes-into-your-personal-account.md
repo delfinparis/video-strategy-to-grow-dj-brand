@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0084"
 bank_angle: "You cannot tell whether you are profitable, so every decision you make about your own business is a guess."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "The Stop"
-word_count: "65"
-runtime_target: "30s"
+word_count: "92"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-30"
 ---
 
@@ -24,34 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-3
 **Post Date:** TBD
 
 ## Shareable Moment
-> "Every choice you make is a guess."
+> "You can't tell if your business actually makes money."
 
-## Script (30 seconds max, 65 words)
+## Script (about 40 seconds, 92 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-Your commission goes into your personal account.
+### HOOK (0:00-0:06) - 13 words
+Hey Realtors, putting your commission in your personal checking account is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 21 words
+When the mortgage and the groceries come out of the same account, you can't tell if your business actually makes money.
 
-### TENSION (0:03.5-0:08) - 10 words
-The mortgage comes out. Groceries come out. Gas comes out.
+### THE SOLUTION (0:15-0:21) - 11 words
+Here's the solution - open a separate business checking account this week.
 
-### THE POINT (0:08-0:22) - 27 words
-So you can't tell if your business makes money. Every choice you make is a guess. And at tax time, you're digging through a year of statements.
+### SAY THIS (0:21-0:36) - 39 words
+Every commission goes in there. Every business cost comes out of there. Pay yourself on the first of every month. And at tax time, it's all in one place. Ask a CPA whether an LLC makes sense for you.
 
-### PAYOFF (0:22-0:30) - 16 words
-Open a business checking account this week. Every commission goes in. Every business cost comes out.
+### CLOSE (0:36-0:40) - 8 words
+Then you'll finally know what you actually make.
 
-**Word count:** 65 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 92 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Shahar Plinner's second point, that commingled accounts are what gets picked apart in a tax audit, and his S corp advice. Both are tax topics, so they stay in the LinkedIn caption with a "talk to a CPA" line.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- The Stop on "Every choice you make is a guess."
-- This is not tax advice and says nothing about entities, S corps or deductions on camera. Keep it that way in the edit.
-- NEEDS RECEIPT posture. No number is cited.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- The Stop on the CLOSE line.
+- **Not tax advice.** "Ask a CPA" is the only tax content on camera. Keep it that way in the edit.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +64,7 @@ Open a business checking account this week. Every commission goes in. Every busi
 **Vibe:** calm and sensible, getting your house in order
 
 **CapCut AI Music (236 chars):**
-> [no vocals] Calm walking underscore, 94 BPM, calm, sensible, level. Soft kick, muted bass, brushed hats, one warm piano chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Calm walking underscore, 94 BPM, calm, sensible, level. Soft kick, muted bass, brushed hats, one warm piano chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -99,16 +101,16 @@ Open a business checking account this week. Every commission goes in and every b
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "Your commission goes into your personal account." - Family 1 Mirror, Berger emotion: anxiety.
-2. "You don't know if your business makes money." - Family 7 Forbidden, Berger emotion: anxiety.
-3. "Open a second checking account this week." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, putting your commission in your personal account is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, paying for groceries out of your business money is really stupid." - Berger emotion: curiosity.
+3. "Hey Realtors, not knowing if your business makes money is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** The Stop.
 
 **Why it should work:**
 - Hook mechanism (Heath): a plain fact about the viewer's own bank account.
-- Share/save driver (Berger): agents send this to new agents they're mentoring.
-- Retention move (MrBeast): "Every choice you make is a guess" at about fourteen seconds makes a bookkeeping habit feel like a business risk.
+- Share/save driver (Berger): agents send this to new agents they mentor.
+- Retention move (MrBeast): "you can't tell if your business actually makes money" makes a habit feel like a risk.
 
-**The dissent:** Donald Miller says variant 2 is clearer because it names the problem, not the habit. Test it.
+**The dissent:** Donald Miller says variant 3 names the problem, not the habit. Test it.

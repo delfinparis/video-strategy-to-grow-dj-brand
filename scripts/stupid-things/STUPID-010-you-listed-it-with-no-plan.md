@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0036"
 bank_angle: "The first three days are when every buyer searching gets told about your house, and that crowd never gathers again."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Walk-Toward"
-word_count: "65"
-runtime_target: "30s"
+word_count: "87"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-10"
 ---
 
@@ -26,31 +27,32 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1
 ## Shareable Moment
 > "That crowd never comes back."
 
-## Script (30 seconds max, 65 words)
+## Script (about 40 seconds, 87 words)
 
-### HOOK (0:00-0:01.5) - 6 words
-You listed it with no plan.
+### HOOK (0:00-0:06) - 16 words
+Hey Realtors, putting a listing live on a Tuesday afternoon with no plan is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 24 words
+The first three days, every buyer looking gets an email about your house. If nothing is ready for them, that crowd never comes back.
 
-### TENSION (0:03.5-0:08) - 9 words
-No open house booked. No video. Just the listing.
+### THE SOLUTION (0:15-0:21) - 10 words
+Here's the solution - run the same launch every single time.
 
-### THE POINT (0:08-0:22) - 32 words
-The first three days, every buyer looking gets an email about it. That crowd never comes back. You had nothing ready for them. By week three, you're asking to cut the price.
+### SAY THIS (0:21-0:36) - 29 words
+List it Thursday night, so it hits Friday morning emails. Open house Saturday. Video Sunday. Then Monday morning, show the seller the numbers: saves, showings booked, and who came.
 
-### PAYOFF (0:22-0:30) - 13 words
-List it Thursday night. Hold the open house Saturday. Post a video Sunday.
+### CLOSE (0:36-0:40) - 8 words
+Your best week is always the first one.
 
-**Word count:** 65 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 87 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** The Monday review, where you check saves, showings booked and open house traffic before the seller asks. It is in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Walk-Toward on "That crowd never comes back."
-- NEEDS RECEIPT posture. "Three days" and "week three" are the plan, not statistics. No number is cited.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- Walk-Toward on the CLOSE line.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -61,7 +63,7 @@ List it Thursday night. Hold the open house Saturday. Post a video Sunday.
 **Vibe:** brisk and organized, a schedule read out loud
 
 **CapCut AI Music (252 chars):**
-> [no vocals] Steady walking groove, 100 BPM, brisk, organized, plain. Dry kick, closed hats, muted bass, three short marimba hits near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Steady walking groove, 100 BPM, brisk, organized, plain. Dry kick, closed hats, muted bass, three short marimba hits near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -98,16 +100,16 @@ List Thursday night, open house Saturday, video Sunday. The first three days are
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You listed it with no plan." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Your listing's best week is already over." - Family 4 System Indictment, Berger emotion: anxiety.
-3. "Stop listing on Tuesday afternoons." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, going live on a Tuesday with no plan is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, listing a house with no open house booked is really stupid." - Berger emotion: anxiety.
+3. "Hey Realtors, wasting your first weekend on a listing is really stupid." - Berger emotion: curiosity.
 
 **Pattern interrupt:** Walk-Toward.
 
 **Why it should work:**
-- Hook mechanism (Heath): short and true, and the viewer checks their last listing against it.
-- Share/save driver (Berger): the Thursday-Saturday-Sunday plan is a save.
-- Retention move (MrBeast): "That crowd never comes back" at about eleven seconds is the loss the viewer didn't know about.
+- Hook mechanism (Heath): "Tuesday afternoon" is specific enough that listing agents check their own calendar.
+- Share/save driver (Berger): Thursday-Saturday-Sunday-Monday is a save.
+- Retention move (MrBeast): "that crowd never comes back" is the loss nobody told them about.
 
-**The dissent:** Hormozi says a three-step plan is a list, and lists lose people at thirty seconds. Test a version that only says: list Thursday night.
+**The dissent:** Hormozi says four days is a list and lists lose people. Test a version that only says: list it Thursday night.

@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0085"
 bank_angle: "They did not drift away. You trained them to ignore your name, because it always meant an ask."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "One Prop"
-word_count: "60"
-runtime_target: "30s"
+word_count: "85"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-18"
 ---
 
@@ -24,33 +25,34 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1
 **Post Date:** TBD
 
 ## Shareable Moment
-> "You trained them to ignore you."
+> "They see your name and know what's coming."
 
-## Script (30 seconds max, 60 words)
+## Script (about 40 seconds, 85 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You only call when you want something.
+### HOOK (0:00-0:06) - 14 words
+Hey Realtors, only calling past clients when you want a referral is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 22 words
+If every call is an ask, they see your name and know what's coming, so they just stop picking up the phone.
 
-### TENSION (0:03.5-0:08) - 9 words
-Know anyone buying or selling? Every call, same question.
+### THE SOLUTION (0:15-0:21) - 14 words
+Here's the solution - call three times with something useful before you ask for anything.
 
-### THE POINT (0:08-0:22) - 26 words
-So they stop picking up. They see your name and they know the ask is coming. You didn't lose them. You trained them to ignore you.
+### SAY THIS (0:21-0:36) - 27 words
+Try this. A house on your street just sold. Want me to send you what it went for? No strings. I just thought you'd want to know.
 
-### PAYOFF (0:22-0:30) - 13 words
-Call three times with something useful for them. Then ask once. Just once.
+### CLOSE (0:36-0:40) - 8 words
+Give three times, then ask once. Just once.
 
-**Word count:** 60 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 85 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** "How's the market?" as an opener, which Michael Thornton also flags. It is in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- One Prop: the phone, showing a name on the screen, on "They see your name."
-- NEEDS RECEIPT posture. "Three times" is the task, not a statistic.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- One Prop on the CLOSE line.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -61,7 +63,7 @@ Call three times with something useful for them. Then ask once. Just once.
 **Vibe:** plain and a little rueful, a habit named out loud
 
 **CapCut AI Music (246 chars):**
-> [no vocals] Relaxed walking underscore, 96 BPM, plain, rueful, level. Soft kick, muted bass, brushed hats, one low electric piano chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Relaxed walking underscore, 96 BPM, plain, rueful, level. Soft kick, muted bass, brushed hats, one low electric piano chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -100,16 +102,16 @@ Call past clients three times with something useful for them before you ask for 
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You only call when you want something." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Your past clients are screening your calls." - Family 7 Forbidden, Berger emotion: anxiety.
-3. "Stop asking if they know anyone buying." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, only calling past clients when you want something is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, asking every past client if they know anyone moving is really stupid." - Berger emotion: anger.
+3. "Hey Realtors, making every call an ask is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** One Prop.
 
 **Why it should work:**
-- Hook mechanism (Heath): uncomfortably true, which is what makes people stay.
-- Share/save driver (Berger): the three-to-one ratio is a rule an agent can repeat.
-- Retention move (MrBeast): "You didn't lose them" at about eighteen seconds sets up the flip.
+- Hook mechanism (Heath): uncomfortably true, which keeps people watching.
+- Share/save driver (Berger): the "house on your street" text is copy-and-paste.
+- Retention move (MrBeast): "they just stop picking up the phone" is the cost right before the fix.
 
-**The dissent:** Chris Do says "You trained them to ignore you" is the whole video and should be the hook. Test it as the opening line.
+**The dissent:** Chris Do says "you trained them to ignore you" was the strongest line in the old cut. Test adding it to the WHY.

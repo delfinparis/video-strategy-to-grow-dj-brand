@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0063"
 bank_angle: "The lead wasn't bad, it was cold by the time you called, and those feel identical afterward"
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Push-In"
-word_count: "60"
-runtime_target: "30s"
+word_count: "87"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-16"
 ---
 
@@ -24,33 +25,36 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1
 **Post Date:** TBD
 
 ## Shareable Moment
-> "The lead was fine. You were slow."
+> "Your clients can wait two hours. New leads can't."
 
-## Script (30 seconds max, 60 words)
+## Script (about 40 seconds, 87 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You answered the lead four hours late.
+### HOOK (0:00-0:06) - 14 words
+Hey Realtors, calling a brand new lead back four hours later is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 23 words
+A new lead hasn't hired you yet. If you wait, somebody faster calls first, and then you tell yourself the lead was bad.
 
-### TENSION (0:03.5-0:08) - 7 words
-By then, they'd talked to somebody else.
+### THE SOLUTION (0:15-0:21) - 10 words
+Here's the solution - call every new lead within fifteen minutes.
 
-### THE POINT (0:08-0:22) - 27 words
-They wanted help right then. Then you said the lead was bad. The lead was fine. You were slow. Somebody faster got the meeting and the deal.
+### SAY THIS (0:21-0:36) - 31 words
+If they don't pick up, text right away. Say this. Hi, I just tried calling about the house on Elm. Is now a good time, or should I call you tonight?
 
-### PAYOFF (0:22-0:30) - 14 words
-Call every new lead within fifteen minutes. If they don't answer, text right away.
+### CLOSE (0:36-0:40) - 9 words
+Your clients can wait two hours. New leads can't.
 
-**Word count:** 60 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 87 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Any lead-response statistic. The famous ones (the 21x and five-minute figures) are on this lane's banned list because they don't survive a check of their sources, so the script makes the point without them.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Push-In on "You were slow."
-- **No statistic is spoken, on purpose.** The well-known speed-to-lead numbers are in receipt_cautions and must not be added in the edit.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- Push-In on the CLOSE line.
+- **Written to sit next to STUPID-030.** 030 says don't answer existing clients' texts in minutes; this one says do answer new leads fast. The close says both out loud so nobody reads them as a contradiction.
+- **No lead-response statistic.** The 21x and five-minute figures are on the banned list.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -61,7 +65,7 @@ Call every new lead within fifteen minutes. If they don't answer, text right awa
 **Vibe:** quick and clipped, a clock ticking without a clock sound
 
 **CapCut AI Music (245 chars):**
-> [no vocals] Quick walking groove, 106 BPM, clipped, urgent, controlled. Tight kick, closed hats, muted bass, short plucked synth pulse. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Quick walking groove, 106 BPM, clipped, urgent, controlled. Tight kick, closed hats, muted bass, short plucked synth pulse. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -98,16 +102,16 @@ Call every new lead within fifteen minutes. If they don't answer, text right awa
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You answered the lead four hours late." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Your leads aren't bad. You're slow." - Family 2 Sacred Cow, Berger emotion: anger.
-3. "Somebody faster got your client." - Family 7 Forbidden, Berger emotion: anxiety.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, calling a new lead back four hours later is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, blaming the lead when you were slow is really stupid." - Berger emotion: anger.
+3. "Hey Realtors, letting a new lead sit until after lunch is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** Push-In.
 
 **Why it should work:**
-- Hook mechanism (Heath): a specific delay the viewer can check against their own inbox.
-- Share/save driver (Berger): team leads send this to their team.
-- Retention move (MrBeast): "The lead was fine. You were slow." at about fifteen seconds is the flip.
+- Hook mechanism (Heath): a specific delay the viewer can check against today's inbox.
+- Share/save driver (Berger): the text is copy-and-paste.
+- Retention move (MrBeast): "you tell yourself the lead was bad" is the uncomfortable part.
 
-**The dissent:** Hormozi says variant 2 is the real hook and the mirror version buries it. Test it.
+**The dissent:** Hormozi says "blaming the lead" is the sharper hook. Test variant 2.

@@ -8,14 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0070"
 bank_angle: "The listing agent is not annoyed by the call. She is reading the silence, and deciding how committed you are."
 target: "sideways"
-hook_family: "9 Swap/List"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "One Prop"
-word_count: "66"
-runtime_target: "30s"
+word_count: "87"
+runtime_target: "40s"
 post_date: "TBD"
-status: "ready"
-approved: "D.J., 2026-09-28: \"004 is perfect.\" Lane format model; see docs/series/stupid-things-standard.md"
-recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
+status: "draft"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1"
 ---
 
@@ -25,33 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1
 **Post Date:** TBD
 
 ## Shareable Moment
-> "Send the offer, then call within five minutes."
+> "One phone call makes your buyer the serious one."
 
-## Script (30 seconds max, 66 words)
+## Script (about 40 seconds, 87 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You sent the offer. You never called.
+### HOOK (0:00-0:06) - 14 words
+Hey Realtors, emailing an offer and never calling the listing agent is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 21 words
+If you only email it, she thinks you don't care, and she wonders if you'll even answer your phone before closing.
 
-### TENSION (0:03.5-0:08) - 8 words
-The listing agent got an email. No call.
+### THE SOLUTION (0:15-0:21) - 12 words
+Here's the solution - send the offer, then call her within five minutes.
 
-### THE POINT (0:08-0:22) - 31 words
-She has ten offers on that house. She thinks you don't care about yours. She wonders if you'll even pick up the phone before closing. That makes your buyer look risky.
+### SAY THIS (0:21-0:36) - 31 words
+Say this. Hi, I just sent you an offer on 42 Maple. My buyers have seen the house twice, and they're flexible on the closing date. When is your seller deciding?
 
-### PAYOFF (0:22-0:30) - 15 words
-Send the offer. Then call her within five minutes. Say your name and the address.
+### CLOSE (0:36-0:40) - 9 words
+One phone call makes your buyer the serious one.
 
-**Word count:** 66 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 87 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- One Prop: the phone, up on the hook, pocketed on the payoff.
-- "She" throughout for the listing agent. One person is easier to follow than a job title said four times.
-- NEEDS RECEIPT posture. "Ten offers" is scene detail, not a statistic. No number is cited.
+- One Prop on the CLOSE line.
+- "My buyers" is inside the words the viewer says to the listing agent, framed by "Say this." It is not D.J. describing his own buyers.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +64,7 @@ Send the offer. Then call her within five minutes. Say your name and the address
 **Vibe:** plain and businesslike, one beat of quiet where the call should be
 
 **CapCut AI Music (255 chars):**
-> [no vocals] Clean walking groove, 100 BPM, plain, businesslike, steady. Dry kick, tight hats, muted bass. One bar of near silence at six seconds. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Clean walking groove, 100 BPM, plain, businesslike, steady. Dry kick, tight hats, muted bass. One bar of near silence at six seconds. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -99,16 +101,16 @@ Send the offer, then call the listing agent within five minutes. Say your name a
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You sent the offer. You never called." - Family 9 Swap/List, Berger emotion: anxiety.
-2. "Listing agents notice who doesn't call." - Family 8 Cohort Callout, Berger emotion: curiosity.
-3. "Ten offers came in. Nobody called." - Family 4 System Indictment, Berger emotion: anger.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, emailing an offer and never calling is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, sending an offer without a phone call is really stupid." - Berger emotion: anxiety.
+3. "Hey Realtors, letting your offer show up with no call is really stupid." - Berger emotion: curiosity.
 
 **Pattern interrupt:** One Prop.
 
 **Why it should work:**
-- Hook mechanism (Heath): it names something the viewer may have done today, in six words.
-- Share/save driver (Berger): listing agents send this to buyer agents. The person sharing it is the one who got ignored.
-- Retention move (MrBeast): "She wonders if you'll even pick up the phone before closing" at about fifteen seconds raises the stakes from rude to risky.
+- Hook mechanism (Heath): most buyer agents did exactly this last week, so they stay to hear why.
+- Share/save driver (Berger): the call script is copy-and-paste.
+- Retention move (MrBeast): "she wonders if you'll even answer your phone before closing" turns rude into risky.
 
-**The dissent:** Kane says the hook sounds like an accusation and a viewer who didn't send an offer today scrolls away. Test variant 2, which starts with what the listing agent sees.
+**The dissent:** Kane says the old 004 hook ("You sent the offer. You never called.") was punchier. Test it after "Hey Realtors," as a variant.

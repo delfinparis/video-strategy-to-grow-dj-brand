@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0075"
 bank_angle: "You are three houses in before you know their timeline, their money, or who else has to say yes."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "One Prop"
-word_count: "64"
-runtime_target: "30s"
+word_count: "85"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-12"
 ---
 
@@ -26,32 +27,32 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1
 ## Shareable Moment
 > "No showings until you sit down."
 
-## Script (30 seconds max, 64 words)
+## Script (about 40 seconds, 85 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You showed houses before you sat down.
+### HOOK (0:00-0:06) - 14 words
+Hey Realtors, showing houses before you sit down with the buyer is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 24 words
+If you skip that meeting, you're three houses in and you still don't know when they have to move, or if they can pay.
 
-### TENSION (0:03.5-0:08) - 10 words
-They called Friday. You met them at a house Saturday.
+### THE SOLUTION (0:15-0:21) - 15 words
+Here's the solution - no showings until you sit down, even for twenty minutes on Zoom.
 
-### THE POINT (0:08-0:22) - 28 words
-You don't know when they have to move. You don't know if they can pay. You don't know who else decides. Those are the deals that fall apart.
+### SAY THIS (0:21-0:36) - 25 words
+Ask four questions. When do you need to move? How are you paying? Who else gets a vote? And what happens if we find nothing?
 
-### PAYOFF (0:22-0:30) - 14 words
-No showings until you sit down. Twenty minutes, on Zoom if you have to.
+### CLOSE (0:36-0:40) - 7 words
+Those are the deals that fall apart.
 
-**Word count:** 64 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 85 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Sarah Maslowski's own admission that every deal where she skipped the meeting fell apart. It is the strongest line in the research and it is a quote, so it lives in the LinkedIn caption with her name on it.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- One Prop: a notepad, closed on the hook, open on the payoff.
-- The three "You don't know" lines are the one rule-of-three in this script. Do not add another.
-- NEEDS RECEIPT posture. No number is cited.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- One Prop on the CLOSE line.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +63,7 @@ No showings until you sit down. Twenty minutes, on Zoom if you have to.
 **Vibe:** calm and firm, a rule being set
 
 **CapCut AI Music (242 chars):**
-> [no vocals] Calm walking underscore, 96 BPM, calm, firm, plain. Soft kick, brushed snare, muted bass, one held electric piano chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Calm walking underscore, 96 BPM, calm, firm, plain. Soft kick, brushed snare, muted bass, one held electric piano chord. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -99,16 +100,16 @@ No showings until you sit down with the buyer. Twenty minutes, on Zoom if you ha
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You showed houses before you sat down." - Family 1 Mirror, Berger emotion: anxiety.
-2. "The deal was dead before the first showing." - Family 7 Forbidden, Berger emotion: curiosity.
-3. "Stop meeting buyers at the house." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, showing houses before you sit down with the buyer is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, meeting a new buyer at the first house is really stupid." - Berger emotion: curiosity.
+3. "Hey Realtors, skipping the buyer meeting is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** One Prop.
 
 **Why it should work:**
 - Hook mechanism (Heath): the viewer did this last weekend and knows it.
-- Share/save driver (Berger): "no showings until you sit down" is a rule agents repeat to their teams.
-- Retention move (MrBeast): the three "You don't know" lines build to the cost, which lands at about twenty seconds.
+- Share/save driver (Berger): the four questions are copied word for word.
+- Retention move (MrBeast): "you still don't know when they have to move" lists what's missing before the fix.
 
-**The dissent:** Berger says the Maslowski quote is the share and it belongs on camera. Test a version where D.J. says "One agent told me every deal she did this way fell apart."
+**The dissent:** Berger says Sarah Maslowski's verified quote is the share and belongs on camera. Test naming her in the WHY.

@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0065"
 bank_angle: "Fix the system before scaling the spend, and track speed-to-lead and touch count instead of lead volume"
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Gesture-On-Beat"
-word_count: "65"
-runtime_target: "30s"
+word_count: "93"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-20"
 ---
 
@@ -24,33 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-2
 **Post Date:** TBD
 
 ## Shareable Moment
-> "They're free."
+> "The best leads are already in your phone."
 
-## Script (30 seconds max, 65 words)
+## Script (about 40 seconds, 93 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You bought leads before calling your friends.
+### HOOK (0:00-0:06) - 16 words
+Hey Realtors, buying leads before you've called the people who already know you is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 23 words
+Most sellers pick someone they already know. So every month the lead bill comes out, while fifty free people never hear from you.
 
-### TENSION (0:03.5-0:08) - 9 words
-Business was slow. So you signed up and paid.
+### THE SOLUTION (0:15-0:21) - 12 words
+Here's the solution - text those fifty people first, one at a time.
 
-### THE POINT (0:08-0:22) - 27 words
-Now the bill comes out every month. Meanwhile, fifty people who already know you haven't heard from you. They're free. Most sellers pick someone they already know.
+### SAY THIS (0:21-0:36) - 34 words
+Send this. Hey Mike, a house near you just sold. Want me to run what yours might be worth? Either way is fine. Do that for thirty days before you buy a single lead.
 
-### PAYOFF (0:22-0:30) - 17 words
-Text those fifty people first, one at a time. Buy leads later, if you still need to.
+### CLOSE (0:36-0:40) - 8 words
+The best leads are already in your phone.
 
-**Word count:** 65 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 93 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** Rachel Adams Lee calling paid leads the worst mistake of her career, which D.J. verified against the audio. It lives in the LinkedIn caption with her name on it.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Gesture-On-Beat on "They're free."
-- "Most sellers pick someone they already know" rests on NAR's 66 percent figure. Said without the number to match the 004 model.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- Gesture-On-Beat on the CLOSE line.
+- "Most sellers pick someone they already know" rests on NAR 2025 Exhibit 7-2 (66 percent). Said without the number.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +65,7 @@ Text those fifty people first, one at a time. Buy leads later, if you still need
 **Vibe:** practical and a little pointed, money going out the door
 
 **CapCut AI Music (237 chars):**
-> [no vocals] Practical walking groove, 100 BPM, pointed, plain, steady. Dry kick, muted bass, closed hats, one short piano stab. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Practical walking groove, 100 BPM, pointed, plain, steady. Dry kick, muted bass, closed hats, one short piano stab. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -101,16 +104,16 @@ Before you pay for leads, text fifty people who already know you, one at a time.
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You bought leads before calling your friends." - Family 1 Mirror, Berger emotion: anxiety.
-2. "You're paying for leads you already have." - Family 2 Sacred Cow, Berger emotion: anger.
-3. "Cancel the lead subscription. Text fifty people." - Family 9 Swap/List, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, buying leads before calling people who know you is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, paying for leads you already have is really stupid." - Berger emotion: anger.
+3. "Hey Realtors, signing up for leads when business is slow is really stupid." - Berger emotion: anxiety.
 
 **Pattern interrupt:** Gesture-On-Beat.
 
 **Why it should work:**
-- Hook mechanism (Heath): it names a purchase the viewer can see on their statement.
-- Share/save driver (Berger): "They're free" is two words and people repeat it.
-- Retention move (MrBeast): "Meanwhile, fifty people" at about ten seconds turns the cost into an opportunity.
+- Hook mechanism (Heath): it names a charge the viewer can see on their statement.
+- Share/save driver (Berger): the text is copy-and-paste.
+- Retention move (MrBeast): "fifty free people" turns the cost into an opportunity.
 
-**The dissent:** Hormozi says the 66 percent number is the strongest thing here and it's hidden. Test a version that says "Two out of three sellers pick someone they already know."
+**The dissent:** Hormozi says the 66 percent number should be spoken. Test "Two out of three sellers pick someone they already know."

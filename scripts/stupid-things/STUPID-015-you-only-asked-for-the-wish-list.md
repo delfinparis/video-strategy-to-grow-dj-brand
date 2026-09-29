@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0078"
 bank_angle: "The wish list is what they knew to ask for. Everything you are worth is in the part they did not know to ask."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Location Cold-Open"
-word_count: "64"
-runtime_target: "30s"
+word_count: "85"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-format_model: "STUPID-004"
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-15"
 ---
 
@@ -24,34 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-1
 **Post Date:** TBD
 
 ## Shareable Moment
-> "She never thought to ask. Her agent did."
+> "Your job is the part they didn't know to ask."
 
-## Script (30 seconds max, 64 words)
+## Script (about 40 seconds, 85 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You only asked for the wish list.
+### HOOK (0:00-0:06) - 12 words
+Hey Realtors, only asking buyers for their wish list is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 21 words
+The wish list is what they know to ask for. One agent caught that her buyer's dream condo had no elevator.
 
-### TENSION (0:03.5-0:08) - 10 words
-Three bedrooms, two baths, that neighborhood. You sent exactly that.
+### THE SOLUTION (0:15-0:21) - 11 words
+Here's the solution - ask about their life, not just the house.
 
-### THE POINT (0:08-0:22) - 28 words
-One agent's buyer loved a condo. It had no elevator. She planned to live there the rest of her life. She never thought to ask. Her agent did.
+### SAY THIS (0:21-0:36) - 31 words
+So ask the bigger questions. What does this home need to do for you in five years? What went wrong in your last place? Who might live here with you later?
 
-### PAYOFF (0:22-0:30) - 14 words
-Ask what the house has to do for them in five years. Then look.
+### CLOSE (0:36-0:40) - 10 words
+Your job is the part they didn't know to ask.
 
-**Word count:** 64 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 85 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut:** The other questions that find what the wish list misses, like what went wrong in the last place and who will live there in three years. They are in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Location Cold-Open at a building with stairs, if one is handy.
-- The buyer is "she," the agent is "her agent." Keep those two straight in the read.
-- NEEDS RECEIPT posture. No number is cited.
-- Built to the STUPID-004 format model: two flat hook sentences, one-line scene, one fact per sentence ending on the cost, the fix as orders.
+- Location Cold-Open on the CLOSE line.
+- "One agent" is Lindsay Dreyer (Keeping It Real 2025-04-24). Not D.J.'s client.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -62,7 +64,7 @@ Ask what the house has to do for them in five years. Then look.
 **Vibe:** curious and warm, one small save told plainly
 
 **CapCut AI Music (247 chars):**
-> [no vocals] Warm walking underscore, 96 BPM, curious, warm, plain. Soft kick, muted bass, brushed hats, one soft piano note near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Warm walking underscore, 96 BPM, curious, warm, plain. Soft kick, muted bass, brushed hats, one soft piano note near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -99,16 +101,16 @@ Ask your buyers what the house has to do for them in five years, not just what i
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You only asked for the wish list." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Your buyer is about to buy the wrong house." - Family 7 Forbidden, Berger emotion: anxiety.
-3. "The wish list is the easy part." - Family 2 Sacred Cow, Berger emotion: curiosity.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, only asking buyers for their wish list is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, sending buyers exactly what they asked for is really stupid." - Berger emotion: curiosity.
+3. "Hey Realtors, never asking what went wrong in the last place is really stupid." - Berger emotion: curiosity.
 
 **Pattern interrupt:** Location Cold-Open.
 
 **Why it should work:**
-- Hook mechanism (Heath): it names the normal thing and calls it the problem.
-- Share/save driver (Berger): the elevator story is short enough to retell at dinner.
-- Retention move (MrBeast): "It had no elevator" at about eleven seconds is the turn.
+- Hook mechanism (Heath): it calls the normal thing the problem.
+- Share/save driver (Berger): the three questions are a save.
+- Retention move (MrBeast): the elevator story arrives early and makes the stakes real.
 
-**The dissent:** Heath says the story needs its storyteller and "one agent" is too vague to trust. Test a version that names Lindsay Dreyer and cuts "She never thought to ask."
+**The dissent:** Heath says "one agent" is too vague to trust. Test naming Lindsay Dreyer.

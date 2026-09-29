@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0005"
 bank_angle: "The photos are the first showing, and the buyers you lose there never call to tell you why."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "One Prop"
-word_count: "63"
-runtime_target: "30s"
+word_count: "86"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-8"
 ---
 
@@ -24,33 +25,35 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-8
 **Post Date:** TBD
 
 ## Shareable Moment
-> "Bad photos, and buyers skip the house."
+> "Buyers skip the house, and they never call to tell you why."
 
-## Script (30 seconds max, 63 words)
+## Script (about 40 seconds, 86 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You shot the listing on your phone.
+### HOOK (0:00-0:06) - 12 words
+Hey Realtors, taking your listing photos on your phone is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 17 words
+If the photos look bad, buyers skip the house, and they never call to tell you why.
 
-### TENSION (0:03.5-0:08) - 10 words
-Lights off. Blinds half closed. Trash cans in the shot.
+### THE SOLUTION (0:15-0:21) - 13 words
+Here's the solution - hire a real photographer, and go to the shoot yourself.
 
-### THE POINT (0:08-0:22) - 26 words
-Buyers look at the photos first. Bad photos, and they skip the house. They never call to tell you why. Your seller just sees fewer showings.
+### SAY THIS (0:21-0:36) - 35 words
+Before they get there, turn on every light and pull every blind all the way up. Move the cars and the trash cans out of sight. Then tell the photographer which room sells this house.
 
-### PAYOFF (0:22-0:30) - 15 words
-Hire a real photographer. Then go to the shoot. You know what sells this house.
+### CLOSE (0:36-0:40) - 9 words
+Your photos are the first thing every buyer sees.
 
-**Word count:** 63 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 86 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- One Prop: the phone, up on the hook, pocketed on "Hire a real photographer."
-- Self target, capped at 4.3.
-- NEEDS RECEIPT posture. **No number is spoken.** A "35 percent of listings are professionally shot" figure was checked during the page build and cut for having no traceable source. Do not add it back in the edit.
+- One Prop on the CLOSE line.
+- **Do not add a number.** A "35 percent of listings are professionally shot" figure was checked and cut for having no traceable source.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -61,7 +64,7 @@ Hire a real photographer. Then go to the shoot. You know what sells this house.
 **Vibe:** flat and a little let down, no lift on the loss
 
 **CapCut AI Music (253 chars):**
-> [no vocals] Minimal walking underscore, 92 BPM, plain, level, a little let down. Soft kick, muted bass, one low held pad. No lift at any point. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Minimal walking underscore, 92 BPM, plain, level, a little let down. Soft kick, muted bass, one low held pad. No lift at any point. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -100,16 +103,16 @@ Hire a real photographer, then go to the shoot. The photographer doesn't know wh
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You shot the listing on your phone." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Buyers are skipping your listing and not telling you." - Family 7 Forbidden, Berger emotion: anxiety.
-3. "Your photos are losing you showings." - Family 4 System Indictment, Berger emotion: anger.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, taking your listing photos on your phone is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, shooting a listing with the lights off is really stupid." - Berger emotion: anxiety.
+3. "Hey Realtors, letting bad photos cost you showings is really stupid." - Berger emotion: anger.
 
 **Pattern interrupt:** One Prop.
 
 **Why it should work:**
 - Hook mechanism (Heath): a plain, checkable fact about the viewer's last listing.
-- Share/save driver (Berger): "bad photos, and they skip the house" is simple enough to repeat to a seller.
-- Retention move (MrBeast): "They never call to tell you why" around ten seconds removes the viewer's excuse.
+- Share/save driver (Berger): the prep list is a save for the next shoot.
+- Retention move (MrBeast): "they never call to tell you why" removes the viewer's excuse.
 
-**The dissent:** Hormozi says the fix costs money and the lane should always hand over something free. Test a version where the payoff is the prep list: lights on, blinds up, cars gone.
+**The dissent:** Hormozi says the fix costs money and the lane should hand over something free. Test a version that is only the prep list.

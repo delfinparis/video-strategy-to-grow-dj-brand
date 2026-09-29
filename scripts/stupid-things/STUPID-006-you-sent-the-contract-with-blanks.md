@@ -8,13 +8,14 @@ content_pillar: "practice"
 bank_id: "ST-0059"
 bank_angle: "The other side reads a careless document and prices it into how they advise their seller, and you never find out that is why you lost."
 target: "self"
-hook_family: "1 Mirror"
+hook_family: "8 Cohort Callout"
 pattern_interrupt: "Walk-Toward"
-word_count: "68"
-runtime_target: "30s"
+word_count: "85"
+runtime_target: "40s"
 post_date: "TBD"
 status: "draft"
-recut_of: "First draft 2026-09-25 at 74-80 words. Re-cut 2026-09-28 to the 30-second cap and grade-5 wording after D.J. said the drafts were too clever and too long."
+format_model: "STUPID-030"
+recut_of: "Re-cut 2026-09-29 to D.J.'s own format (STUPID-030) at about 40 seconds. Earlier cuts: 2026-09-25 and 2026-09-28 at 30 seconds."
 source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-3"
 ---
 
@@ -24,33 +25,34 @@ source_page: "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-3
 **Post Date:** TBD
 
 ## Shareable Moment
-> "You never find out why you lost."
+> "Nobody tells you that's why you lost."
 
-## Script (30 seconds max, 68 words)
+## Script (about 40 seconds, 85 words)
 
-### HOOK (0:00-0:01.5) - 7 words
-You sent a contract full of mistakes.
+### HOOK (0:00-0:06) - 13 words
+Hey Realtors, sending a contract with typos and blank lines is really stupid.
 
-### VERDICT (0:01.5-0:03.5) - 5 words
-That's really stupid. Here's why.
+### WHY (0:06-0:15) - 22 words
+If your contract is sloppy, the other agent figures the whole deal will be sloppy, and her seller takes the cleaner offer.
 
-### TENSION (0:03.5-0:08) - 10 words
-A name spelled wrong. A blank line. The wrong form.
+### THE SOLUTION (0:15-0:21) - 13 words
+Here's the solution - read the whole contract out loud before you send it.
 
-### THE POINT (0:08-0:22) - 32 words
-Nobody calls to tell you. The other agent just thinks you're sloppy. She thinks the whole deal will be sloppy. So her seller picks the cleaner offer. You never find out why.
+### SAY THIS (0:21-0:36) - 30 words
+Then check four things every time. The names match the lender's letter. The address has the unit number. The price matches in numbers and words. And the date is right.
 
-### PAYOFF (0:22-0:30) - 14 words
-Read the whole contract out loud before you send it. You'll hear the mistakes.
+### CLOSE (0:36-0:40) - 7 words
+Nobody tells you that's why you lost.
 
-**Word count:** 68 spoken words (60-70, 72 max; counted, not estimated)
+**Word count:** 85 spoken words (85-100, 105 max; counted, not estimated)
 
-**What got cut in the 2026-09-28 re-cut:** every long sentence and every small metaphor. The first draft said things like "she is reading the silence" and "the photos are the first showing." This version says what happens instead. The detail that came out lives in the LinkedIn caption.
+**What got cut:** Nothing factual. This is the 2026-09-29 re-cut to D.J.'s own format. The 30-second version's scene and cost became the WHY, its fix became THE SOLUTION and SAY THIS, and the extra ten seconds went to the exact words.
 
 ## Production Notes
-- Walk-Toward on "You never find out why."
-- Self target, capped at 4.3. The heat comes from the lost deal, not from calling the viewer names.
-- NEEDS RECEIPT posture. No number is spoken. No form or state is named.
+- Walk-Toward on the CLOSE line.
+- D.J. does not practice real estate (Rule 6). SAY THIS is the viewer's words or steps, framed as "say this" or as orders, never as D.J.'s own deals.
+- Receipt posture carries over from the earlier cut; see Data Source. No new statistic was added in the re-cut.
+- Built to D.J.'s own format (STUPID-030, 2026-09-29): "Hey Realtors, [the thing] is really stupid.", the why as cause and effect, "Here's the solution", the exact words or steps in first person, one closing line.
 - Friction points at the behavior, never at the agent. Rule 9.4.
 
 ## Data Source
@@ -61,7 +63,7 @@ Read the whole contract out loud before you send it. You'll hear the mistakes.
 **Vibe:** quiet and level, no drama on the loss
 
 **CapCut AI Music (264 chars):**
-> [no vocals] Sparse walking underscore, 96 BPM, quiet, level, a little cold. Soft kick, brushed snare, one low held note, a single piano note near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 30s.
+> [no vocals] Sparse walking underscore, 96 BPM, quiet, level, a little cold. Soft kick, brushed snare, one low held note, a single piano note near the end. No melodic hook, no vocal chops, no risers, no whooshes. Unobtrusive background for voiceover. Loopable, 40s.
 
 ## Social Media
 
@@ -98,16 +100,16 @@ Read the whole contract out loud before you send it. You will hear the mistakes 
 
 ## Council Review
 
-**Scroll-stop variants (spoken, pick one to A/B):**
-1. "You sent a contract full of mistakes." - Family 1 Mirror, Berger emotion: anxiety.
-2. "Nobody tells you why you lost that offer." - Family 7 Forbidden, Berger emotion: curiosity.
-3. "One typo can lose you the house." - Family 4 System Indictment, Berger emotion: anxiety.
+**Scroll-stop variants (spoken, pick one to A/B).** The opener "Hey Realtors," and "is really stupid." are fixed; only the thing in the middle varies:
+1. "Hey Realtors, sending a contract with typos in it is really stupid." - Berger emotion: anxiety.
+2. "Hey Realtors, sending a contract with blank lines in it is really stupid." - Berger emotion: anxiety.
+3. "Hey Realtors, losing an offer to a spelling mistake is really stupid." - Berger emotion: curiosity.
 
 **Pattern interrupt:** Walk-Toward.
 
 **Why it should work:**
-- Hook mechanism (Heath): the viewer can't check whether this cost them a deal, which is why it sticks.
-- Share/save driver (Berger): listing agents share it because it says what they already think.
-- Retention move (MrBeast): "Nobody calls to tell you" at four seconds says the feedback never comes.
+- Hook mechanism (Heath): the loss is one the viewer can't check, which is why it nags.
+- Share/save driver (Berger): the four-item check is a save.
+- Retention move (MrBeast): "her seller takes the cleaner offer" lands the cost before the fix.
 
-**The dissent:** Heath says "read it out loud" is weaker than a checklist. Test the four-item check as the payoff and move "out loud" to the caption.
+**The dissent:** Heath says the close is the strongest line and should come earlier. Test moving it into the WHY.
