@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -1601,6 +1601,14 @@
           "hook": "Some agents call it a marketing plan. It's three steps: sign in the yard, box on the door, and pray.",
           "status": "open",
           "banked": "2026-08-13"
+        },
+        {
+          "angle": "The first three days are when every buyer searching gets told about your house, and that crowd never gathers again.",
+          "swap": "List it Thursday night, hold the open house Saturday, post the video Sunday, and read the numbers Monday.",
+          "status": "used",
+          "banked": "2026-09-29",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-010-you-listed-it-with-no-plan.md"
         }
       ],
       "status": "banked",
@@ -1786,8 +1794,10 @@
           "angle": "Under 2% of your audience is in-market, so a pure sales feed is relevant to almost nobody",
           "swap": "Run 80/20. Eighty percent valuable, interesting, or entertaining to your local audience, twenty percent max direct ask. Lead with short-form video and your actual face. Wins and listings are the smallest bucket, not the whole feed.",
           "hook": "If every post on your page is just sold, call me, congratulations, you built a billboard. Nobody in history has stopped scrolling for a billboard.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-026-you-only-post-your-listings.md"
         }
       ],
       "status": "banked",
@@ -1872,8 +1882,10 @@
           "angle": "Your own presence is the live demo of the marketing you are asking them to buy",
           "swap": "Own a clean, current home base: a simple site with bio, listings, sold results, reviews, contact, plus one active social channel. Keep reviews current and respond to them. The search is the interview.",
           "hook": "Before a seller calls you, they Google you. If they find a broken link and a dead Instagram, that was the interview and you already lost it.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-025-your-profile-doesnt-say-you-sell-houses.md"
         }
       ],
       "status": "banked",
@@ -2490,8 +2502,10 @@
           "angle": "The lead wasn't bad, it was cold by the time you called, and those feel identical afterward",
           "swap": "Treat inbound like a fire alarm. Five-minute standard during working hours, instant text plus a call. Notifications on, auto-text-back after hours, and a partner or system if you can't cover it yourself.",
           "hook": "You didn't get a bad lead. You called it five hours late. Those are not the same thing, even though they feel identical once the deal's gone.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-016-you-answered-the-lead-four-hours-late.md"
         }
       ],
       "status": "banked",
@@ -2532,8 +2546,10 @@
           "angle": "The lead that ignored text one answers call four",
           "swap": "Fixed cadence: multiple attempts across text, call, and email over the first ten to fourteen days, varying the time of day, then a long-term drip. No lead gets fewer than six to eight touches before you call it dead.",
           "hook": "You texted once, they didn't reply, and you called it dead. It wasn't dead. You stopped at attempt one out of the six it needed.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-020-you-called-twice-and-gave-up.md"
         }
       ],
       "status": "banked",
@@ -2567,8 +2583,10 @@
           "angle": "Fix the system before scaling the spend, and track speed-to-lead and touch count instead of lead volume",
           "swap": "Route every paid lead into a CRM that fires an instant auto-response and a task-based cadence. Then measure speed-to-lead and touches per lead as your real KPIs, not how many leads you bought.",
           "hook": "Stop buying leads. You've got a follow-up problem, and no amount of new leads fixes a leaky bucket. It just makes the puddle bigger.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-019-you-bought-leads-before-calling-your-friends.md"
         }
       ],
       "status": "banked",
@@ -2607,6 +2625,14 @@
           "hook": "Your database is a shoebox of business cards and your memory. That's not a business. That's a hobby with a lockbox code.",
           "status": "open",
           "banked": "2026-08-13"
+        },
+        {
+          "angle": "Fifty names is not too many. It feels like too many because there is no plan, so nobody gets called.",
+          "swap": "Pick the ten who would take your call today and call each of them every month.",
+          "status": "used",
+          "banked": "2026-09-29",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-021-you-say-your-contact-list-is-overwhelming.md"
         }
       ],
       "status": "banked",
@@ -2647,8 +2673,10 @@
           "angle": "Your warm network can only refer you if it knows what you do",
           "swap": "Everyone who knows your name should know you sell real estate and have seen evidence of it in the last thirty days. Post a closing, a market tip, a client win. Mention it in conversation without pitching.",
           "hook": "Your own cousin bought a house last month. With someone else. Because you were too shy to tell people what you do for a living.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-022-your-friends-dont-know-what-you-do.md"
         }
       ],
       "status": "banked",
@@ -2855,8 +2883,10 @@
         {
           "angle": "Every agent who competed for that listing promised the same sentence. None of them went and found the buyer.",
           "swap": "Write down who buys this specific house, find the streets those people live on now, and go tell them it exists.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-011-you-put-it-online-and-waited.md"
         }
       ],
       "status": "banked",
@@ -2885,8 +2915,10 @@
         {
           "angle": "You are three houses in before you know their timeline, their money, or who else has to say yes.",
           "swap": "No showings before the consultation. Cover the timeline, the financing, who decides, and what happens if they find nothing.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-012-you-showed-houses-before-you-sat-down.md"
         }
       ],
       "status": "banked",
@@ -2915,8 +2947,10 @@
         {
           "angle": "You skipped the one conversation that sets expectations, with the person you can least afford to disappoint.",
           "swap": "Do the full presentation for family. Same deck, same comps, same paperwork, and say out loud why you are doing it.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-013-you-skipped-the-presentation-for-your-cousin.md"
         }
       ],
       "status": "banked",
@@ -2945,8 +2979,10 @@
         {
           "angle": "They did not go cold. You picked the channel they ignore, and you never asked which one they read.",
           "swap": "At the first meeting ask: call, text or email, what hours, and is voicemail read or ignored. Write the answer down.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-014-you-keep-calling-a-texter.md"
         }
       ],
       "status": "banked",
@@ -2975,8 +3011,10 @@
         {
           "angle": "The wish list is what they knew to ask for. Everything you are worth is in the part they did not know to ask.",
           "swap": "Ask what this home has to do for them in five years, and what went wrong in the last place.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-015-you-only-asked-for-the-wish-list.md"
         }
       ],
       "status": "banked",
@@ -3005,8 +3043,10 @@
         {
           "angle": "They are already recommending you. You just never told them where to point it.",
           "swap": "Ask who has complained to them lately about their place, their commute or their landlord. First name only, and you take it from there.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-018-you-never-ask-for-referrals.md"
         }
       ],
       "status": "banked",
@@ -3035,8 +3075,10 @@
         {
           "angle": "The most qualified foot traffic you will ever get for free walked in and walked back out a stranger.",
           "swap": "Stand near the door. Greet everyone inside five seconds, and ask what brought them in today.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-023-you-sat-behind-the-dining-table.md"
         }
       ],
       "status": "banked",
@@ -3065,8 +3107,10 @@
         {
           "angle": "You already know which line has the better views and what the assessments did. Nobody else farming that building does.",
           "swap": "Send your own building what sold, what it closed at, and what it means for their tier. Four times a year.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-024-you-mail-a-neighborhood-across-town.md"
         }
       ],
       "status": "banked",
@@ -3095,8 +3139,10 @@
         {
           "angle": "You spent the one second you get on the least interesting fact available, which is your name.",
           "swap": "Make the first spoken line the most interesting sentence you have. Introduce yourself later, or not at all.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-027-you-start-every-video-with-your-name.md"
         }
       ],
       "status": "banked",
@@ -3125,8 +3171,10 @@
         {
           "angle": "Five half efforts produce five ambiguous results, so you decide content does not work when what did not work is dabbling.",
           "swap": "Pick one platform for six months. Decide what winning looks like in conversations, not views, and post at a pace you can hold on a bad week.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-028-you-post-a-little-on-five-apps.md"
         }
       ],
       "status": "banked",
@@ -3155,12 +3203,46 @@
         {
           "angle": "You cannot tell whether you are profitable, so every decision you make about your own business is a guess.",
           "swap": "Open a business checking account this week. Every commission in, every business expense out, no exceptions, including the small ones.",
-          "status": "open",
-          "banked": "2026-09-28"
+          "status": "used",
+          "banked": "2026-09-28",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-029-your-commission-goes-into-your-personal-account.md"
         }
       ],
       "status": "banked",
       "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ST-0085",
+      "practice": "Only calling past clients when you want a referral or a listing",
+      "family": "Competence, preparation and systems",
+      "category": "Systems and sphere",
+      "looks_like": "Know anyone buying or selling? Every call, the same question.",
+      "who_complains": "past clients",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [
+        {
+          "url": "https://joinkale.com/30-stupid-things-real-estate-agents-do#item-18",
+          "note": "Michael Thornton on Keeping It Real 2025-12-16: you train them to put the phone down",
+          "date": "2026-09-25"
+        }
+      ],
+      "angles": [
+        {
+          "angle": "They did not drift away. You trained them to ignore your name, because it always meant an ask.",
+          "swap": "Call three times with something useful for them, then ask once.",
+          "status": "used",
+          "banked": "2026-09-29",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-017-you-only-call-when-you-want-something.md"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-29"
     }
   ],
   "rotation": [
@@ -3271,6 +3353,126 @@
       "id": "ST-0073",
       "angle": "Nobody skipped the house because you did not hire a stager. They skipped it because the photos looked like nobody cared.",
       "script": "scripts/stupid-things/STUPID-009-your-blinds-are-half-shut.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0036",
+      "angle": "The first three days are when every buyer searching gets told about your house, and that crowd never gathers again.",
+      "script": "scripts/stupid-things/STUPID-010-you-listed-it-with-no-plan.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0074",
+      "angle": "Every agent who competed for that listing promised the same sentence. None of them went and found the buyer.",
+      "script": "scripts/stupid-things/STUPID-011-you-put-it-online-and-waited.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0075",
+      "angle": "You are three houses in before you know their timeline, their money, or who else has to say yes.",
+      "script": "scripts/stupid-things/STUPID-012-you-showed-houses-before-you-sat-down.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0076",
+      "angle": "You skipped the one conversation that sets expectations, with the person you can least afford to disappoint.",
+      "script": "scripts/stupid-things/STUPID-013-you-skipped-the-presentation-for-your-cousin.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0077",
+      "angle": "They did not go cold. You picked the channel they ignore, and you never asked which one they read.",
+      "script": "scripts/stupid-things/STUPID-014-you-keep-calling-a-texter.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0078",
+      "angle": "The wish list is what they knew to ask for. Everything you are worth is in the part they did not know to ask.",
+      "script": "scripts/stupid-things/STUPID-015-you-only-asked-for-the-wish-list.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0063",
+      "angle": "The lead wasn't bad, it was cold by the time you called, and those feel identical afterward",
+      "script": "scripts/stupid-things/STUPID-016-you-answered-the-lead-four-hours-late.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0085",
+      "angle": "They did not drift away. You trained them to ignore your name, because it always meant an ask.",
+      "script": "scripts/stupid-things/STUPID-017-you-only-call-when-you-want-something.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0079",
+      "angle": "They are already recommending you. You just never told them where to point it.",
+      "script": "scripts/stupid-things/STUPID-018-you-never-ask-for-referrals.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0065",
+      "angle": "Fix the system before scaling the spend, and track speed-to-lead and touch count instead of lead volume",
+      "script": "scripts/stupid-things/STUPID-019-you-bought-leads-before-calling-your-friends.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0064",
+      "angle": "The lead that ignored text one answers call four",
+      "script": "scripts/stupid-things/STUPID-020-you-called-twice-and-gave-up.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0066",
+      "angle": "Fifty names is not too many. It feels like too many because there is no plan, so nobody gets called.",
+      "script": "scripts/stupid-things/STUPID-021-you-say-your-contact-list-is-overwhelming.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0067",
+      "angle": "Your warm network can only refer you if it knows what you do",
+      "script": "scripts/stupid-things/STUPID-022-your-friends-dont-know-what-you-do.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0080",
+      "angle": "The most qualified foot traffic you will ever get for free walked in and walked back out a stranger.",
+      "script": "scripts/stupid-things/STUPID-023-you-sat-behind-the-dining-table.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0081",
+      "angle": "You already know which line has the better views and what the assessments did. Nobody else farming that building does.",
+      "script": "scripts/stupid-things/STUPID-024-you-mail-a-neighborhood-across-town.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0045",
+      "angle": "Your own presence is the live demo of the marketing you are asking them to buy",
+      "script": "scripts/stupid-things/STUPID-025-your-profile-doesnt-say-you-sell-houses.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0042",
+      "angle": "Under 2% of your audience is in-market, so a pure sales feed is relevant to almost nobody",
+      "script": "scripts/stupid-things/STUPID-026-you-only-post-your-listings.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0082",
+      "angle": "You spent the one second you get on the least interesting fact available, which is your name.",
+      "script": "scripts/stupid-things/STUPID-027-you-start-every-video-with-your-name.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0083",
+      "angle": "Five half efforts produce five ambiguous results, so you decide content does not work when what did not work is dabbling.",
+      "script": "scripts/stupid-things/STUPID-028-you-post-a-little-on-five-apps.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0084",
+      "angle": "You cannot tell whether you are profitable, so every decision you make about your own business is a guess.",
+      "script": "scripts/stupid-things/STUPID-029-your-commission-goes-into-your-personal-account.md"
     }
   ],
   "rejected": [
