@@ -1,6 +1,6 @@
 # Podcast Promo: The Hype Machine — Series Format Guide
 
-> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](../editorial-standards.md).
+> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](../editorial-standards.md). **Stupid Things tips are the one exception: about 40 seconds, D.J.'s own format (STUPID-030), since 2026-09-29.**
 
 The operating manual for turning **any podcast episode into a walk-and-talk promo**. One repeatable engine, two shows: **Keeping It Real** (guest interviews) and **Coffee Talk with Tim & D.J.** (stat-driven, no guest). Built to be portable — a third show plugs in by adding one source adapter (see [Source Adapters](#source-adapters)).
 

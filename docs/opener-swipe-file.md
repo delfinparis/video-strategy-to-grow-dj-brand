@@ -1,5 +1,7 @@
 # Opener Swipe File
 
+> **Stupid Things format changed 2026-09-29.** The separate line "That's really stupid. Here's why." is retired. Tips now open "Hey Realtors, [the thing] is really stupid." and the fix opens "Here's the solution", per D.J.'s own script (STUPID-030), about 40 seconds. Anything below about the old line is history. See [`stupid-things-standard.md`](series/stupid-things-standard.md).
+
 Ready-to-film first lines, mapped to the 9 hook families ([`hook-matrix-cheatsheet.md`](hook-matrix-cheatsheet.md)) and tagged with a suggested visual open ([`pattern-interrupt-cheatsheet.md`](pattern-interrupt-cheatsheet.md)). Pull one each morning. These are *openers* -- the spoken line one. Act 1 still owes a payoff promise (the 3-act spine), so most of these open a loop the video then closes.
 
 **Rules baked in:** friction points outward at a belief/practice/system, never at the agent (you stand *next to* them). No engagement-asks. Numbers that carry weight are left as `[sourced #]` slots -- fill from a real, cited source per universal Rule 1. Don't repeat a `hook_family` or a `pattern_interrupt` two posts running.

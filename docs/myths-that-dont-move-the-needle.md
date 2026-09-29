@@ -1,6 +1,6 @@
 # Myths That Don't Move the Needle (2026)
 
-> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](editorial-standards.md).
+> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](editorial-standards.md). **Stupid Things tips are the one exception: about 40 seconds, D.J.'s own format (STUPID-030), since 2026-09-29.**
 
 A checklist of social-video "best practices" that the mid-2026 data says are dead, neutral, or actively hurting. Each one is mapped to what D.J.'s process should do instead. Companion to [`platform-strategy.md`](platform-strategy.md) and [`caption-and-hashtag-strategy.md`](caption-and-hashtag-strategy.md).
 

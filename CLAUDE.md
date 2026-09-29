@@ -63,6 +63,8 @@ and the `## Council Review` block). If today's brief is missing, offer to run
 
 **Every walk-and-talk is 30 seconds MAX.** D.J., 2026-09-28: *"the walk and talks should be 30
 seconds max."* That is **60-70 spoken words, 72 at the absolute wall**, and nothing under 58.
+**One exception: Stupid Things tips run about 40 seconds** (85-100 words), D.J.'s call on
+2026-09-29. See the Stupid Things section below.
 This replaced the 30-35s band set on 2026-08-25, which in practice let scripts drift to 35.
 Count the words in the finished script and put the count in the frontmatter; do not estimate,
 because a draft that feels like 30 seconds is reliably 45. There is no earned-length exception.
@@ -377,12 +379,16 @@ again as long as the angle on the *solution* is new; a reword is not a new angle
 expensive scouring when `health` returns exit code 10. Full chain:
 [`docs/automation/stupid-things-bank.md`](docs/automation/stupid-things-bank.md).
 
-**Every tip says the verdict line, verbatim (D.J., 2026-09-11):** *"That's really stupid. Here's
-why."* It is beat two, right after a hook that names the thing in plain words, before the cost and
-the fix. Five beats: HOOK (name the thing) > VERDICT (the line) > TENSION (the scene) > THE POINT
-(why) > PAYOFF (the fix). "This is really stupid. Here's why." is the one variant; "dumb" and every
-softer word are banned; it points at the behavior, never the person; it is said once. It is a
-protected signature (Rule 6) and the council may not vote it out. **The format model is STUPID-004** (D.J., 2026-09-28: "004 is perfect"): match its shape first, then write. The model and the full clock:
+**Every tip follows D.J.'s own script (2026-09-29, STUPID-030).** He wrote it himself and said
+*"let's use it as a guidepost for these scripts."* Five beats: HOOK *"Hey Realtors, [the thing]
+is really stupid."* > WHY (cause and effect: "If you X, you've trained them to Y") > THE SOLUTION
+(opens *"Here's the solution"*) > SAY THIS (the exact words or steps, first person, real numbers)
+> CLOSE (one plain line restating the principle). **About 40 seconds: 85-100 words, 105 wall,
+grade 7 or lower, no sentence over 24 words.** This lane is the one exception to the 30-second
+cap. "Stupid" is said once, in the first line, aimed at the behavior; "dumb" and softer words are
+banned; the fixed words are a protected signature (Rule 6). The old separate line "That's really
+stupid. Here's why." and the STUPID-004 model are retired. Look for the contrarian angle first
+(something agents think they do right). The model and the full clock:
 [`docs/series/stupid-things-standard.md`](docs/series/stupid-things-standard.md).
 
 Two things this lane does that the others do not: every entry is tagged `target: sideways`

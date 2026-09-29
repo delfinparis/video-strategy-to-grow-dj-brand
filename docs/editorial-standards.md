@@ -519,6 +519,8 @@ For the Stupid Things lane this rule also fixes a verbatim verdict line, protect
 
 ### Simpler still: the reading-level floor (added 2026-09-28)
 
+> **Exception, 2026-09-29:** the Stupid Things lane runs grade 7 and sentences up to 24 words, calibrated to D.J.'s own model script (STUPID-030, grade 6.7, longest sentence 23). Everything else below still applies to that lane, and all of it applies unchanged to every other lane.
+
 **D.J., 2026-09-28:** *"We're getting a little too clever with the script phrasing. I think it
 needs to be more blunt... dumbing it down a tad is a good idea."* Same day: *"the walk and talks
 should be 30 seconds max"* (Rule 7).
@@ -580,24 +582,24 @@ Some phrases, once established as part of the brand, become protected voice sign
 - **Variants banned.** "I've never sold a house" (inaccurate -- D.J. has sold his own home as a homeowner). "I'm not an agent" (inaccurate -- he is a licensed agent, just non-practicing). "I'm not a broker" (inaccurate -- he is the VP of Business Development at a brokerage).
 - Full context in `docs/speaker-assets.md`. Read that document before rewriting any reference to D.J.'s practitioner status.
 
-**"That's really stupid. Here's why."** (added 2026-09-11)
+**"Hey Realtors, [the thing] is really stupid." ... "Here's the solution"** (2026-09-29,
+replacing "That's really stupid. Here's why." from 2026-09-11)
 
-- **Meaning.** The verdict line of the Stupid Things Realtors Do lane. D.J., 2026-09-11: *"we
-  should literally say in every script: 'that's really stupid, here's why.'"* It is the series'
-  catchphrase: the hook names a thing agents do, the verdict calls it stupid, and the script then
-  explains why and hands over the fix.
-- **Scope.** Every script in the Stupid Things lane (`series: "Stupid Things Realtors Do"`),
-  spoken as beat two, right after the hook, before the cost and the fix. Said once per script.
-  It does not appear in other series.
-- **Variants allowed.** "This is really stupid. Here's why." when the hook describes a scene
-  rather than a behavior.
-- **Variants banned.** Any softening or synonym: "kind of stupid," "pretty stupid," "dumb,"
-  "not smart," "a mistake," "suboptimal," "a missed opportunity." Any version aimed at a person
-  or a group: "you're really stupid," "stupid agents do this," "realtors are stupid about this."
+- **Meaning.** The fixed words of the Stupid Things Realtors Do lane, taken from D.J.'s own
+  script (STUPID-030), which he wrote on 2026-09-29 as the guidepost for the series. The first
+  line names the behavior and calls it stupid in one breath; "Here's the solution" opens the fix.
+- **Scope.** Every script in the Stupid Things lane (`series: "Stupid Things Realtors Do"`).
+  "Hey Realtors," opens the script, "is really stupid." ends the first line, and "Here's the
+  solution" opens the third beat. Said once per script. It does not appear in other series.
+- **Variants allowed.** "are really stupid" when the thing is plural. The middle, the thing
+  itself, is written fresh every time.
+- **Variants banned.** Any softening or synonym: "kind of stupid," "pretty stupid," "dumb," "not
+  smart," "a mistake," "suboptimal." Any version aimed at a person or a group: "you're really
+  stupid," "stupid agents do this," "realtors are stupid." The thing is always a behavior.
 - **Enforced by** `missingVerdict()` in `scripts/apps-script/walk-and-talk-project.gs` on the
   email path and the pre-flight in
   [`series/stupid-things-standard.md`](series/stupid-things-standard.md) on the on-demand path.
-  The council may vary the hook, never this line.
+  The council may vary the thing in the middle of the first line, never the fixed words.
 
 ### The test for adding a new protected signature
 
@@ -613,7 +615,7 @@ When those three conditions are met, document the phrase in this section along w
 
 ## Rule 7: Length and Pacing
 
-**30 seconds is the maximum. Write to 30. There is no earned-length exception.** Set 2026-09-28 by D.J.: *"the walk and talks should be 30 seconds max."* This replaces the 30-35s band set on 2026-08-25, which in practice let scripts drift to 35. The platform reasoning below still holds; it is the reason 30 is the number, and it never justified going past it.
+**30 seconds is the maximum. Write to 30. There is no earned-length exception.** Set 2026-09-28 by D.J.: *"the walk and talks should be 30 seconds max."* **One series is exempt: Stupid Things Realtors Do runs about 40 seconds (85-100 words, 105 wall),** D.J.'s call on 2026-09-29 when he wrote that lane's format model himself (*"Let them run ~40 seconds"*). Its limits live in [`series/stupid-things-standard.md`](series/stupid-things-standard.md). Every other series stays at 30. This replaces the 30-35s band set on 2026-08-25, which in practice let scripts drift to 35. The platform reasoning below still holds; it is the reason 30 is the number, and it never justified going past it.
 
 **Why the number moved.** The 2026 platform data says two things at once, and the 22-30s rule was only listening to the first. Completion still gates distribution -- but every platform we publish to now weights **total watch time per viewer** alongside it, and a very short video wins the completion stat while starving the watch-time signal. Socialinsider's Jan-Jun 2026 study of 6M Reels found sub-30s Reels *underperform* the 45-60s band on both engagement rate and median views. TikTok engagement peaks around 30 seconds. YouTube Shorts' retention-to-recommendation sweet spot is 30-45s. Facebook Reels is the tightest of the four at 15-30s.
 

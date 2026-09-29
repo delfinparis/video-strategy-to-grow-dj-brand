@@ -1,5 +1,7 @@
 # Walk & Talk: how the morning brief actually gets delivered
 
+> **Stupid Things format changed 2026-09-29.** The separate line "That's really stupid. Here's why." is retired. Tips now open "Hey Realtors, [the thing] is really stupid." and the fix opens "Here's the solution", per D.J.'s own script (STUPID-030), about 40 seconds. Anything below about the old line is history. See [`stupid-things-standard.md`](../series/stupid-things-standard.md).
+
 The authoritative map of the live delivery chain, written 2026-08-07 after two
 days of missing emails. Read this before debugging a missing brief.
 

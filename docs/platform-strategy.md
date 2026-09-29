@@ -1,6 +1,6 @@
 # Platform Strategy
 
-> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](editorial-standards.md).
+> **Length updated 2026-09-28: every walk-and-talk is 30 seconds max, 60-70 spoken words (72 is the wall), written at a grade 5 reading level with no small metaphors.** D.J. capped the runtime and asked for blunter, simpler phrasing. Any 30-35s or 68-84-word figure below is superseded by Rules 5 and 7 of [`editorial-standards.md`](editorial-standards.md). **Stupid Things tips are the one exception: about 40 seconds, D.J.'s own format (STUPID-030), since 2026-09-29.**
 
 This document defines which platforms matter most for D.J. Paris's brand goals, why, and how content should be distributed across them. It is grounded in the April 2026 Metricool baseline (D.J.'s own audience data, still the source of truth for the platform ranking below) and layered with the mid-2026 industry refresh. Updated quarterly.
 

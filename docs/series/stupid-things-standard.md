@@ -18,7 +18,7 @@ now 3-4 a week and the daily brief leads with it:
 
 ## What a realtor tip is
 
-A 30-35 second walk-and-talk where D.J. names one specific thing agents do that costs a client,
+An about-40-second walk-and-talk where D.J. names one specific thing agents do that costs a client,
 a deal, or the agent on the other side, and hands over the exact thing to do instead.
 
 **Core promise to the viewer:** *You've seen this. Here's what it actually costs, and here's
@@ -41,7 +41,82 @@ lane entirely; that is a Broker Problem.
 
 ---
 
-## The five beats on the universal clock (revised 2026-09-11)
+## THE FORMAT: D.J.'s own script (2026-09-29). This supersedes everything below it.
+
+D.J. wrote this one himself on 2026-09-29 and said: *"let's use it as a guidepost for these
+scripts."* It is the format model for the lane, filed as
+[`STUPID-030`](../../scripts/stupid-things/STUPID-030-replying-to-client-texts-in-minutes.md).
+It replaces the separate verdict line, the five-beat 30-second clock and the STUPID-004 model,
+which are kept further down as history.
+
+```
+HOOK         Hey Realtors, replying to a client text within a few minutes is
+             really stupid.                                                   (14)
+WHY          If you reply to a text in four minutes, you've trained the client
+             to expect that same reply speed on every future question.        (23)
+THE SOLUTION Here's the solution - at the start of the relationship tell them
+             your communication policy.                                       (14)
+SAY THIS     From 8am to 8pm Monday through Friday I respond to every client
+             text within two hours. I stop texting at 8pm so I can spend time
+             with my family. Here's what I do on Saturdays and Sundays.       (37)
+CLOSE        Set the right expectation from the start.                        (7)
+                                                                        95 words
+```
+
+| Beat | Clock | Words | What it is |
+|---|---|---|---|
+| **HOOK** | 0:00-0:06 | 10-16 | **"Hey Realtors, [the thing] is really stupid."** The thing is the behavior, said as an -ing phrase. The verdict lives in this line now. |
+| **WHY** | 0:06-0:15 | 14-26 | Cause and effect, usually one sentence: "If you do X, you've Y." The cost, said plainly. |
+| **THE SOLUTION** | 0:15-0:21 | 8-18 | Opens with the words **"Here's the solution"**, then the move in one sentence. |
+| **SAY THIS** | 0:21-0:36 | 22-45 | The exact words, in first person, with real numbers: what you say to the client, or what you do, as D.J. would say it. "From 8am to 8pm Monday through Friday I respond..." |
+| **CLOSE** | 0:36-0:40 | 4-10 | One plain line that restates the principle. "Set the right expectation from the start." |
+
+**85-100 spoken words, 105 is the wall, about 40 seconds.** D.J. chose the length on 2026-09-29
+when asked whether this lane should fit the 30-second cap: *"Let them run ~40 seconds."* This
+lane is the one exception to Rule 7's 30-second maximum; every other lane stays at 30.
+
+**Plain words, calibrated to his script.** Reading grade 7 or lower, no sentence over 24 words.
+These numbers come from measuring STUPID-030 (grade 6.7, longest sentence 23), so the model
+passes its own rules. The grade-5 / 12-word limits in Rule 5 still bind every other lane. What
+did not loosen: no small metaphors, no wordplay, no hedges, industry shorthand translated.
+
+**What to copy from it:**
+
+- **The fixed words.** "Hey Realtors," opens every script. "is really stupid." ends the first
+  line. "Here's the solution" opens the fix. Nothing else in the script is fixed.
+- **Contrarian when you can.** The strongest version calls stupid something agents think they're
+  doing right (answering fast). A plain bad habit still works, but look for the contrarian angle
+  first.
+- **The why is a mechanism, not a feeling.** "You've trained the client to expect..." says what
+  the behavior causes. Not "it looks bad."
+- **SAY THIS is usable word for word.** A viewer should be able to copy it into a text, an email,
+  or their mouth tomorrow. Real numbers (8am, 8pm, two hours), first person.
+- **First person means the viewer's words, never D.J.'s deals.** D.J. does not practice real estate
+  (Rule 6). STUPID-030 works because "I respond to every client text within two hours" is plainly
+  the policy the agent tells the client. When the fix is something to say, frame it ("Say this.",
+  "Tell them this.", "Ask three things.") and then give the words. When the fix is steps, give
+  them as orders ("Pull every blind all the way up."), not as "I do." Never write "my buyers,"
+  "my listing," or a story that sounds like D.J.'s own transaction.
+- **The close may restate the principle.** This lane now ends on one plain line like "Set the
+  right expectation from the start." That is allowed here. A motivational-poster line is still
+  not ("Be the agent they deserve").
+- **"Stupid" is said once,** in the hook, and it is aimed at the behavior (the -ing phrase),
+  never at the person. "You're really stupid" and "stupid agents" stay banned.
+- **No statistic unless verified at build time,** said once with its source. Most scripts in the
+  lane speak none.
+
+**The hook family is always 8 Cohort Callout,** because "Hey Realtors" is fixed. Family rotation
+now happens across lanes in the week, not inside this one. Council variants vary only the thing
+in the middle of the first line.
+
+**STUPID-016 and STUPID-030 do not contradict each other.** 016 says answer new leads within
+fifteen minutes; they haven't hired you and somebody faster will get them. 030 says don't answer
+your existing clients' texts in four minutes; set a policy. Keep that line clear in any new
+script about response time.
+
+---
+
+## History: the five beats on the universal clock (2026-09-11 to 2026-09-28, superseded by D.J.'s format above)
 
 The bank pre-writes one sentence per beat. The build sharpens them; it does not start over.
 This lane runs the universal four-beat clock with one fixed beat wedged in after the hook: the
@@ -67,7 +142,7 @@ banked hooks were written clever ("They bought your listing, and you'll pay it b
 with interest"). Strip that back to the behavior: "You took the listing at the seller's number."
 The verdict does the work the clever line used to do.
 
-## The verdict line: "That's really stupid. Here's why." (revised 2026-09-11)
+## History: the verdict line "That's really stupid. Here's why." (2026-09-11 to 2026-09-28, superseded: the verdict now lives in the first line)
 
 **D.J., 2026-09-10:** *"We should also say somewhere 'this is really stupid' - lean on the
 negative and then produce the solution."*
@@ -118,7 +193,7 @@ it out loud.
 or the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix. The loop-back at
 the end reloads the *hook*, not the verdict.
 
-### The format model: STUPID-004 (D.J.-approved 2026-09-28)
+### History: the STUPID-004 format model (2026-09-28, superseded by STUPID-030)
 
 D.J. read the six 2026-09-28 re-cuts and said 004 was perfect. This is the shape every tip
 matches now. Sixty-six words, no sentence over twelve, no metaphor, the verdict as beat two,
@@ -162,20 +237,20 @@ and heat 5 is still banned. What changes:
 - **No cleverness.** No wordplay, no metaphor carrying the payload, no reframe the viewer has to
   decode, no line that sounds like a podcast intro. If a sentence would make a copywriter nod,
   cut it and say what it meant. The old short-form voice asks (one aside, one setup-subversion
-  joke) are retired for this lane; the verdict is the only joke.
+  joke) are retired for this lane; the "is really stupid" in the first line is the only joke.
 - **Second person, flat, no hedges.** "You" and "your," present tense. Every softener comes out:
   "a lot of agents," "sometimes," "this might," "I could be wrong," "with respect."
 - **Name the cost as a cost.** Money, a deal, a client, a listing, a lawsuit. "This costs you a
   listing a quarter" is the register. "This can impact your pipeline" is not.
 - **Edge is allowed in the words, not the target.** "Hell," "damn," and "crap" may appear at
-  most once per script, never in the hook or the verdict line, and never in a caption. No
+  most once per script, never in the first line, and never in a caption. No
   "shit," no F-bombs: these run as recruiting assets and captions.ai prints every spoken word on
   screen. The friction still points at the behavior, the tool, the practice, or the system
   (Rule 10.0), and never at the agent, a cohort, a brokerage, or a person.
 - **The close is an order, not a suggestion.** "Stop doing it. Do this instead." "Tonight, book a
   showing on your own listing." Never "consider," never "you might want to."
 
-## Simpler still: 2026-09-28
+## History: simpler still, 2026-09-28 (this lane now runs grade 7 and 24-word sentences, per STUPID-030)
 
 D.J. read STUPID-004 to 009 and said they were still too clever, and too long. Two changes, both
 now in the universal standard (Rule 5 "the reading-level floor," Rule 7):
@@ -204,7 +279,7 @@ sentence what to do instead. If either needs a second read, rewrite.
 
 The failure this lane produces, every time, is compression. At 80 words the writer starts
 dropping nouns and articles to make the count instead of dropping a whole idea. **Cut ideas, not
-grammar.** A tip that genuinely cannot be said plainly in 84 words is two tips.
+grammar.** A tip that genuinely cannot be said plainly in 100 words is two tips.
 
 **The swap is never what gets cut.** An indictment with no fix is a rant, and the lane's whole
 job is the fix. If the script is over, cut the scene to its shortest recognizable form, then
@@ -239,19 +314,16 @@ number: run it as the scene and the swap, and say nothing a commenter can check 
 - Family 9 is the save magnet and this lane's natural shape. It still has to open on a cost or a
   wrong default to clear heat 4: "Stop saying 'I'll get you top dollar.' It costs you the
   listing" clears; "Here's a better way to say it" does not.
-- Since 2026-09-11 the hook's only job is to **name the thing** so the verdict line has
-  something to point at. The family is still logged, but a family-9 hook in this lane reads
-  "You tell sellers you'll get them top dollar." not "Stop saying top dollar." The "stop" is the
-  PAYOFF's job.
+- **Since 2026-09-29 the first line is fixed:** "Hey Realtors, [the thing] is really stupid." That makes every tip Family 8 Cohort Callout; rotate families across lanes, not within this one. The families above still describe how the *thing* is framed (a contrarian thing reads as 2 Sacred Cow, a plain habit as 1 Mirror).
 - Pattern interrupt: One Prop and Gesture-On-Beat pair with Swap/List; Walk-Toward with Cohort
   Callout and Mirror; Location Cold-Open when the scene is on-site (a stale sign, a lockbox).
 
 ## The close
 
-Rule 4: a "here's what you do now" close, no engagement asks. In this lane the close is the
-swap itself, physical enough to do Monday: the sentence to say at the signing table, the task
-to put in the phone, the question to ask before the disclosure goes out. Then the loop-back
-reloads the hook (Rule 9.1). Never a moral.
+Rule 4 still holds: no engagement asks. Since 2026-09-29 the lane closes on one plain line that
+restates the principle, after SAY THIS has handed over the words or the steps ("Set the right
+expectation from the start."). That line is allowed here. A motivational-poster ending still
+is not.
 
 ---
 
@@ -282,22 +354,21 @@ reloads the hook (Rule 9.1). Never a moral.
       it is a Broker Problem)
 - [ ] `bank_id` and `bank_angle` in frontmatter; the angle is still open in the bank
 - [ ] Receipt re-verified, or no number spoken
-- [ ] **The verdict line is there, verbatim**: "That's really stupid. Here's why." (or "This is
-      really stupid. Here's why.") as beat two, right after the hook names the thing, before the
-      cost and the fix; said once; aimed at the behavior and not the person
-- [ ] **The hook names the thing**, flat, in 5-8 words; it is not a clever line the verdict has
-      to follow up
-- [ ] **Cold-read test passed**: read the five beats aloud once; the mistake and the fix are each
+- [ ] **First line is "Hey Realtors, [the thing] is really stupid."** The thing is the
+      behavior, not the person. "Stupid" appears nowhere else.
+- [ ] **THE SOLUTION opens "Here's the solution"** and SAY THIS gives the exact words or steps
+      in first person, with real numbers
+- [ ] Contrarian angle considered first (something agents think they do right)
+- [ ] **Cold-read test passed**: read the script aloud once; the mistake and the fix are each
       sayable in one sentence without a second read
 - [ ] **General-public test passed**: no industry shorthand left unexplained, no wordplay, no
       metaphor carrying the payload, no hedges; at most one "hell/damn/crap," never in the hook,
       verdict, or captions
 - [ ] No dropped-noun fragments, no aphorism carrying the payload, no jargon left unexplained
-- [ ] Hook names the cost in 5-8 words; family rotated from the previous post
 - [ ] `target` declared; `self` scripts sit at or under 4.3
 - [ ] The swap is physical, one move, and survives the cut
 - [ ] No identifiable firm, product, or agent
-- [ ] 60-70 spoken words, 72 max, counted (30 seconds max)
+- [ ] 85-100 spoken words, 105 max, counted (about 40 seconds); grade 7 or lower; no sentence over 24 words
 - [ ] Five captions, YouTube Shorts `**Title:**` present, hashtag caps, one brand tag
 - [ ] Logged with `stupid_things.py log` once the script exists (on-demand path), or carries
       `bank_id` so the Sunday check can log it (email path)

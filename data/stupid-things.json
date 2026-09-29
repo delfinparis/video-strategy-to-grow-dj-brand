@@ -3243,6 +3243,32 @@
       ],
       "status": "banked",
       "first_seen": "2026-09-29"
+    },
+    {
+      "id": "ST-0086",
+      "practice": "Replying to every client text within minutes, so the client expects that speed forever",
+      "family": "Responsiveness and showings",
+      "category": "Responsiveness and communication",
+      "looks_like": "A client texts at 9:40 at night. You answer at 9:44.",
+      "who_complains": "the agent's own family and evenings",
+      "target": "self",
+      "heat_ceiling": 4.0,
+      "receipt": {
+        "status": "needed"
+      },
+      "sightings": [],
+      "angles": [
+        {
+          "angle": "Reply in four minutes once and you have trained them to expect four minutes on every question after it.",
+          "swap": "At the start of the relationship, tell them your texting policy: weekdays eight to eight, a reply within two hours, and what you do on weekends.",
+          "status": "used",
+          "banked": "2026-09-29",
+          "used_date": "2026-09-29",
+          "script": "scripts/stupid-things/STUPID-030-replying-to-client-texts-in-minutes.md"
+        }
+      ],
+      "status": "banked",
+      "first_seen": "2026-09-29"
     }
   ],
   "rotation": [
@@ -3473,6 +3499,12 @@
       "id": "ST-0084",
       "angle": "You cannot tell whether you are profitable, so every decision you make about your own business is a guess.",
       "script": "scripts/stupid-things/STUPID-029-your-commission-goes-into-your-personal-account.md"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "ST-0086",
+      "angle": "Reply in four minutes once and you have trained them to expect four minutes on every question after it.",
+      "script": "scripts/stupid-things/STUPID-030-replying-to-client-texts-in-minutes.md"
     }
   ],
   "rejected": [

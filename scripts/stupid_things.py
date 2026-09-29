@@ -346,11 +346,12 @@ def cmd_pick(data, args):
         if ang.get("hook"):
             L.append("")
             L.append(f"**Hook (starting point; strip it back to the thing agents do):** \"{ang['hook']}\"")
-        # D.J., 2026-09-11: every script in this lane says this line, verbatim, right
-        # after the hook names the thing. Carried on every option so both briefs and
-        # both generators see it without reading the standard.
+        # D.J., 2026-09-29: his own script is the format model (STUPID-030). Carried on
+        # every option so both briefs and both generators see it without reading the
+        # standard. Replaces the separate 2026-09-11 line "That's really stupid. Here's why."
         L.append("")
-        L.append("**Verdict (beat two, verbatim, every script):** \"That's really stupid. Here's why.\"")
+        L.append("**Format (D.J.'s own, STUPID-030):** \"Hey Realtors, [the thing] is really stupid.\" > why > "
+                 "\"Here's the solution\" > the exact words, first person > one closing line. About 40 seconds, 85-100 words.")
         if len(open_angles(e)) > 1:
             L.append("")
             L.append(f"_{len(open_angles(e)) - 1} other open angle(s) banked on this practice._")

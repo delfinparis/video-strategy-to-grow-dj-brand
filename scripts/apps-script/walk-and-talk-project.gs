@@ -550,31 +550,29 @@ const PICK_CORRECTION =
   'the one whose bank id is in its frontmatter line -- and change nothing else about the format. ' +
   'Output the full file again as your entire response, starting with the opening --- of the frontmatter.';
 
-// D.J., 2026-09-11: every [TIP] script says, verbatim, right after the hook,
+// History: from 2026-09-11 to 09-28 every [TIP] script said, verbatim, right after the hook,
 // "That's really stupid. Here's why." (or the "This is" variant). The 9/10 rule
 // said "say it is stupid somewhere in the first ten seconds" and lasted a day,
 // because "somewhere" is satisfied by a clever line with the word worked in.
 // Same principle as wrongBankId: the rule is checked in the artifact, not
 // trusted from the prompt. Only the script section counts -- the line quoted
 // back in a caption or the WOW paragraph is not the line being spoken.
-const VERDICT_RE = /\b(?:That[\u2019']s|This is) really stupid\.\s+Here[\u2019']s why\./i;
+// Since 2026-09-29 the verdict lives in the first line, D.J.'s own format:
+// "Hey Realtors, [the thing] is really stupid." and the fix opens "Here's the solution".
+const VERDICT_RE = /Hey Realtors,[^\n]*?\b(?:is|are) really stupid\./i;
+const SOLUTION_RE = /Here[’']s the solution/i;
 function missingVerdict(text) {
   const t = text || '';
   const start = t.search(/^##\s+Script\b/m);
   const end = t.search(/^##\s+Data Source\b/m);
   const script = (start !== -1 && end !== -1 && end > start) ? t.slice(start, end) : t;
-  return VERDICT_RE.test(script) ? null : 'no verdict line in the script section';
+  if (!VERDICT_RE.test(script)) return 'no "Hey Realtors, ... is really stupid." first line in the script section';
+  if (!SOLUTION_RE.test(script)) return 'no "Here\'s the solution" in the script section';
+  return null;
 }
 
 const VERDICT_CORRECTION =
-  'That tip is missing its verdict line. Every Stupid Things script says, as its second beat, ' +
-  'right after the hook names the thing and before the cost and the fix, exactly this: ' +
-  '"That\'s really stupid. Here\'s why." (or "This is really stupid. Here\'s why." when the hook ' +
-  'describes a scene). Not "dumb", not "a mistake", not a clever line with the word worked in. ' +
-  'Put it in as its own ### VERDICT beat between ### HOOK and ### TENSION, take its five words ' +
-  'back out of TENSION, THE POINT and PAYOFF so the count still lands in 60-70, and change ' +
-  'nothing else about the format. Output the full file again as your entire response, starting ' +
-  'with the opening --- of the frontmatter.';
+  'That tip is not in D.J.\'s format. Every Stupid Things script opens with exactly this shape as its first spoken line: "Hey Realtors, [the thing] is really stupid." where the thing is the behavior, said as an -ing phrase. Then ### WHY, then ### THE SOLUTION, which must open with the words "Here\'s the solution", then ### SAY THIS, then ### CLOSE. Not "dumb", not "a mistake", and not the old separate line "That\'s really stupid. Here\'s why." Keep the count at 85-100 spoken words and change nothing else. Output the full file again as your entire response, starting with the opening --- of the frontmatter.';
 
 /* ---------- 4. Generate one script: web-verify the facts, then write the full file ---------- */
 function generateScript(apiKey, brief, reply, pick) {
@@ -706,38 +704,7 @@ function isTipOption(brief, pick) {
 }
 
 const TIP_BUILD_NOTE =
-  'THIS OPTION IS A [TIP], a realtor tip off the Stupid Things Realtors Do bank, not a news script. ' +
-  'Build it to docs/series/stupid-things-standard.md, which you do not have, so here is the whole of it: ' +
-  'the lane names one specific thing agents do that costs a client, a deal, or the agent on the other side, ' +
-  'and hands over the exact thing to do instead. This lane runs FIVE beats on the universal clock, because a fixed verdict line sits right after the hook: ' +
-  'HOOK (0:00-0:01.5, 4-7 words) = THE THING: name the behavior, flat, in plain words, as a thing agents do ("You took the listing at the seller\'s number." / "Your listing has no lockbox."). The brief\'s hook is a starting point only; most banked hooks were written clever, so strip it back to the behavior. ' +
-  'VERDICT (0:01.5-0:03.5, 5 words) = the line, VERBATIM: "That\'s really stupid. Here\'s why." ' +
-  'TENSION (0:03.5-0:08, 7-10 words) = the recognizable scene from the brief\'s "looks like" line, cut to one sentence; ' +
-  'THE POINT (0:08-0:22, 26-32 words) = the receipt said once with its limit, then the turn (the brief\'s "angle on the fix"); ' +
-  'PAYOFF (0:22-0:30, 13-17 words) = the swap, physical and do-it-Monday, then the loop-back to the HOOK. The swap is never what gets cut. Total 60-70 spoken words, 72 max: 30 seconds max. ' +
-  'THE VERDICT LINE (D.J., 2026-09-11: "for the stupid things realtors do we should literally say in every script: that\'s really stupid, here\'s why"). ' +
-  'The 2026-09-10 rule said to say it is stupid "somewhere in the first ten seconds", and one day later the scripts were still opening on a clever line with the word worked in sideways. So the line is now fixed. Every tip says, as its second beat, right after the hook names the thing and before the cost and the fix: "That\'s really stupid. Here\'s why." Nothing in it varies. The one permitted variant is "This is really stupid. Here\'s why." when the hook describes a scene rather than a behavior. ' +
-  'Banned: "dumb", "not smart", "a mistake", "kind of stupid", "pretty stupid", "suboptimal", "a missed opportunity", "worth rethinking", and any other way of not saying the line. The softer alternate for target: self is retired; a self script says the same line. ' +
-  'It is a series signature (Rule 6), not a hook family. The council may vary the HOOK in its scroll-stop variants; it may never vote the verdict line out for fatigue. It is supposed to be the same every time. ' +
-  'It points at the BEHAVIOR and never at the person: "That\'s" refers to the thing the hook just named. "You took the listing at the seller\'s number. That\'s really stupid. Here\'s why." clears; "you\'re really stupid", "stupid agents do this", "realtors are stupid about this" are banned. The agent doing it right now must feel caught, not insulted. ' +
-  'Say it ONCE. The verdict beat is the only place the word appears; repeating it in THE POINT or the PAYOFF turns a tip into a scolding, and the PAYOFF belongs to the fix. The loop-back reloads the hook, not the verdict. ' +
-  'A script without the verdict line verbatim is not a finished tip and will be sent back once, then fail. ' +
-  'THE FORMAT MODEL (D.J. signed off 2026-09-28: "004 is perfect"). Match this shape before you write anything: ' +
-  'HOOK "You sent the offer. You never called." (7) / VERDICT "That\'s really stupid. Here\'s why." (5) / TENSION "The listing agent got an email. No call." (8) / ' +
-  'THE POINT "She has ten offers on that house. She thinks you don\'t care about yours. She wonders if you\'ll even pick up the phone before closing. That makes your buyer look risky." (31) / ' +
-  'PAYOFF "Send the offer. Then call her within five minutes. Say your name and the address." (15). 66 words. ' +
-  'What to copy: the hook is two flat sentences naming what you did, with no cost and no reframe in it; TENSION is the scene in one sentence, who got what; THE POINT is four sentences, one fact each, none over twelve words, the last one the cost said plainly; PAYOFF is orders (do this, then this, say this) with a checkable number; one person and one pronoun throughout; no statistic spoken. ' +
-  'REGISTER (D.J., 2026-09-11: "more blunt and edgy"): blunt in the words, never in the target. Second person, present tense, no hedges, costs named as costs (a deal, a listing, a client, money, a lawsuit). "Hell", "damn", "crap" at most once per script, never in the hook, the verdict, or a caption; no "shit", no F-bombs. Friction still points at the behavior, and heat 5 is still banned. ' +
-  'If the brief marks the receipt NEEDS RECEIPT, speak NO number: run the scene and the swap and say nothing a commenter can check and beat. ' +
-  'Target class: "sideways" points at the agent on the other side of the deal and carries full heat (4 to 4.7); ' +
-  '"self" points at the viewer and caps at 4.3, reaching the band through specificity about the cost, never a verdict on the person. ' +
-  'Brokerage economics (splits, fees, support, coaching, tools) is not this lane; if the option drifts there, say so in Production Notes and keep the script on the behavior. ' +
-  'Never name a brokerage, franchise, team, coach, product-as-villain, or identifiable agent. ' +
-  'Frontmatter differences from the news template: series: "Stupid Things Realtors Do", type: "tip", script_number: "STUPID-TBD", ' +
-  'content_pillar: "practice", plus three extra lines copied from the brief option: bank_id: "<ST-####>", bank_angle: "<the angle on the fix, verbatim>", target: "<sideways|self>". ' +
-  'Everything else in the output structure (WOW, Shareable Moment, the four ### beats, word count, Data Source, AI Music Prompt, five captions, Council Review) is unchanged. ' +
-  'Council for a tip: Eric Simon leads (will one agent send this to another and say "this is us"), with Hormozi, Kane and Welsh; Heath and Berger as witnesses. ' +
-  'Hashtags: the series tag is #StupidThingsRealtorsDo only if the tone earns it; otherwise no series tag and one brand tag as usual.';
+  'THIS OPTION IS A [TIP], a realtor tip off the Stupid Things Realtors Do bank, not a news script. Build it to docs/series/stupid-things-standard.md, which you do not have, so here is the whole of it. The lane names one specific thing agents do that costs a client, a deal, or the agent on the other side, and hands over the exact thing to do instead. D.J. WROTE THE FORMAT MODEL HIMSELF on 2026-09-29 and said "let\'s use it as a guidepost for these scripts." Copy its shape exactly:\n### HOOK (0:00-0:06) "Hey Realtors, replying to a client text within a few minutes is really stupid." (14 words)\n### WHY (0:06-0:15) "If you reply to a text in four minutes, you\'ve trained the client to expect that same reply speed on every future question." (23)\n### THE SOLUTION (0:15-0:21) "Here\'s the solution - at the start of the relationship tell them your communication policy." (14)\n### SAY THIS (0:21-0:36) "From 8am to 8pm Monday through Friday I respond to every client text within two hours. I stop texting at 8pm so I can spend time with my family. Here\'s what I do on Saturdays and Sundays." (37)\n### CLOSE (0:36-0:40) "Set the right expectation from the start." (7)\n95 words. USE EXACTLY THESE FIVE BEAT HEADINGS for a [TIP], not HOOK/TENSION/THE POINT/PAYOFF and not a VERDICT beat. Budgets: HOOK 10-16 words, WHY 14-26, THE SOLUTION 8-18, SAY THIS 22-45, CLOSE 4-10. TOTAL 85-100 SPOKEN WORDS, 105 is the wall, about 40 seconds. This lane is the ONE exception to the 30-second cap; D.J. chose about 40 seconds for it on 2026-09-29. Reading grade 7 or lower, no sentence over 24 words. THE FIXED WORDS: the script opens "Hey Realtors,"; the first line ends "is really stupid." ("are really stupid." if the thing is plural); THE SOLUTION opens "Here\'s the solution". Nothing else is fixed. The old separate verdict line "That\'s really stupid. Here\'s why." is RETIRED. Do not use it. WHAT TO COPY: the thing in the first line is the behavior as an -ing phrase, never the person. Look for the CONTRARIAN angle first: something agents think they are doing right (answering fast) beats a plain bad habit. WHY is cause and effect, a mechanism: "If you X, you\'ve trained them to Y." Not a feeling. SAY THIS is usable word for word: the exact words the agent says to the client, or the exact steps, in FIRST PERSON, with real numbers (8am, 8pm, two hours). A viewer should be able to copy it into a text tomorrow. CLOSE is one plain line that restates the principle ("Set the right expectation from the start."). That is allowed in this lane. A motivational-poster line is not. Say "stupid" ONCE, in the first line. Banned: "dumb", "not smart", "a mistake", "kind of stupid", "pretty stupid", "you\'re really stupid", "stupid agents". Plain words still: no small metaphors, no wordplay, no hedges, industry shorthand translated. hook_family is always "8 Cohort Callout" in this lane because "Hey Realtors" is fixed; council scroll-stop variants vary ONLY the thing in the middle of the first line. Do not contradict the lane\'s lead-response tip: new leads (who haven\'t hired you) should hear back within fifteen minutes; existing clients get a stated texting policy. If the brief marks the receipt NEEDS RECEIPT, speak NO number: say nothing a commenter can check and beat. Target class: "sideways" points at the agent on the other side and carries full heat (4 to 4.7); "self" points at the viewer and caps at 4.3. Brokerage economics (splits, fees, support, coaching, tools) is not this lane. Never name a brokerage, franchise, team, coach, product-as-villain, or identifiable agent. Put runtime_target: "40s" and format_model: "STUPID-030" in the frontmatter. A script not in this format will be sent back once, then fail. Hashtags: the series tag is #StupidThingsRealtorsDo only if the tone earns it; otherwise no series tag and one brand tag as usual.';
 
 // The sections a real script always has and a progress report never does.
 // Kept to structural markers from the format spec, not word counts -- a short
@@ -813,7 +780,7 @@ Your reply text is pasted straight into an email to D.J. It is the only copy of 
 So: never claim you wrote, saved, exported, drafted, or filed anything, and never name a file as if it exists. Never send a status report, a summary of your fact-checking, or a note about what you would produce. If the finished script is not literally in your response, D.J. opens his email and finds nothing, and the day's video does not get made.
 
 LENGTH IS THE HARDEST RULE IN THIS PROMPT — READ IT BEFORE YOU WRITE A WORD:
-Every walk-and-talk is 30 SECONDS MAXIMUM (D.J., 2026-09-28: "the walk and talks should be 30 seconds max"). That is 60-70 SPOKEN WORDS, 72 at the absolute wall, 58 the floor. Count them; do not estimate, because a draft that feels like 30 seconds is reliably 45. Put the real count in the frontmatter as word_count.
+Every walk-and-talk is 30 SECONDS MAXIMUM (D.J., 2026-09-28: "the walk and talks should be 30 seconds max"). That is 60-70 SPOKEN WORDS, 72 at the absolute wall, 58 the floor. ONE EXCEPTION: a [TIP] script runs about 40 seconds, 85-100 words, per its own note below. Count them; do not estimate, because a draft that feels like 30 seconds is reliably 45. Put the real count in the frontmatter as word_count.
 There is NO earned-length exception. A script does not get to run long because the story is good or the correction is interesting. If the material will not fit in 72 words, it is TWO scripts, not one long one — build the better half and say which half you built in the Production Notes. And do not come in short: a 20-second cut wins the completion stat and starves the watch-time signal, which now costs reach on every platform.
 EVERY SCRIPT RUNS THE SAME FOUR-BEAT CLOCK. This is the structure, not a suggestion:
   HOOK          0:00-0:01.5   1.5s   5-8 words    the scroll-stop, one spoken line
@@ -826,7 +793,7 @@ Length decides both which retention curve the video is graded on and how much wa
 SAY IT PLAINLY — THIS OUTRANKS THE WORD BUDGET:
 D.J., 2026-09-10, after reading a finished script: "The script writing is getting too clever for the general public. I just read the one listed below and I didn't understand it." The script he could not follow was on the clock, fact-checked, council-reviewed, and 80 words. It was also this: "Buyer flies in for one day. Seven listings open in ten. Eighth is call-to-show." Ten what? Which eighth? Nothing there is wrong. It is just unreadable at speaking speed by anyone who is not already holding the whole scene in their head.
 A viewer hears a video ONCE, at speed, usually while doing something else. A line that needs a second listen does not exist.
-SIMPLER STILL (D.J., 2026-09-28): "We're getting a little too clever with the script phrasing. I think it needs to be more blunt... dumbing it down a tad is a good idea." Write at a grade 5 reading level or lower. No sentence over 12 words; most under 8. Use the short common word every time: "house" not "property", "call" not "reach out", "money" not "funds". NO SMALL METAPHORS: they pass the clever test at a glance and still make the listener stop and decode. Cut lines like "she is reading the silence" (say "She thinks you don't care about this deal"), "the photos are the first showing" (say "Buyers look at the photos and skip your house"), "nothing human attached" (say "She got an email. No call"). Say what happens. Name who does what. One fact per sentence. The repeat test: after one listen, could the viewer tell a friend the tip in their own words, without repeating one of your phrases? If not, the phrase goes.
+SIMPLER STILL (D.J., 2026-09-28): "We're getting a little too clever with the script phrasing. I think it needs to be more blunt... dumbing it down a tad is a good idea." Write at a grade 5 reading level or lower. No sentence over 12 words; most under 8. ([TIP] scripts: grade 7, 24 words, matched to D.J.'s own model.) Use the short common word every time: "house" not "property", "call" not "reach out", "money" not "funds". NO SMALL METAPHORS: they pass the clever test at a glance and still make the listener stop and decode. Cut lines like "she is reading the silence" (say "She thinks you don't care about this deal"), "the photos are the first showing" (say "Buyers look at the photos and skip your house"), "nothing human attached" (say "She got an email. No call"). Say what happens. Name who does what. One fact per sentence. The repeat test: after one listen, could the viewer tell a friend the tip in their own words, without repeating one of your phrases? If not, the phrase goes.
 So when a beat will not fit the budget, CUT AN IDEA, NEVER THE GRAMMAR. Whole sentences come out; the sentences that stay are whole. Compressing five sentences into five fragments is how a script hits 80 words and stops meaning anything, and it is the most common failure in this system.
 Specifically banned:
 - Fragments that drop the noun. "Seven listings open in ten" becomes "Seven of them she could book in ten minutes."
@@ -913,10 +880,7 @@ status: "draft"
 ### HOOK (0:00-0:01.5) — 5-8 words
 <ONE short sentence. The literal first SPOKEN line, opening on a cost or a loss or a wrong default. Captions are auto-generated from audio, so the hook cannot live in on-screen text only. Cold open, no "Hey guys." This is one line and you move -- TENSION starts at 0:01.5.>
 
-### VERDICT (0:01.5-0:03.5) — 5 words   <-- [TIP] scripts ONLY; a [NEWS] script has no VERDICT beat and goes straight to TENSION at 0:01.5
-That's really stupid. Here's why.
-
-### TENSION (0:01.5-0:06.5) — 11-14 words   <-- in a [TIP] script this beat is 0:03.5-0:08 and 10-12 words; THE POINT is 0:08-0:22 and 32-38; PAYOFF is 0:22-0:30 and 16-20
+### TENSION (0:01.5-0:06.5) — 11-14 words   <-- a [TIP] script does NOT use these beat names: it uses ### HOOK / ### WHY / ### THE SOLUTION / ### SAY THIS / ### CLOSE and about 40 seconds, exactly as its TIP note shows
 <What this costs the agent, and why it matters right now. Make them feel the size of it. This beat does NOT introduce the topic and it does NOT restate the hook at lower volume -- it raises the stakes the hook named.>
 
 ### THE POINT (0:06.5-0:21.5) — 34-40 words
