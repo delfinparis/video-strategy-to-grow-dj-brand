@@ -1,0 +1,575 @@
+{
+  "_about": "Stoic lesson-of-the-day library. One entry is emailed each morning by scripts/stoic_lesson.py, in list order, cycling forever. The list is interleaved by teacher (Marcus Aurelius, Epictetus, Seneca) on purpose so no two days in a row come from the same one. Every quote is verbatim from a public-domain translation (George Long for Marcus and Epictetus, Richard Mott Gummere for Seneca) and is checked by `python3 scripts/stoic_lesson.py check-quotes`. Every exercise must fit in 5 minutes and need nothing but you.",
+  "lessons": [
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Expect difficult people",
+      "quote": "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial.",
+      "source": "Meditations 2.1",
+      "lesson": "Marcus wrote this to himself while running an empire. He isn't being cynical. He's getting the surprise out of the way early: if you've already pictured the rude email and the flaky client, they lose the power to knock you sideways. In the same passage he reminds himself that none of these people can actually injure him.",
+      "exercise": "Pre-meet your day",
+      "steps": [
+        "Walk through today's schedule in your head from start to finish: the calls, the meetings, the drive, the people at home.",
+        "Pick the two moments most likely to annoy you. Name the person or situation in each.",
+        "For each one, picture it going badly. Hear the exact words, see the exact look. Stay with it for 30 seconds.",
+        "Now picture yourself responding the way you'd want to be remembered: calm, clear, brief.",
+        "Pick one short line you'll say to yourself when it happens, like \"Right on schedule.\""
+      ],
+      "reflect": "Tonight, check: when the annoying moment came, did it feel smaller because you'd seen it coming?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "What's in your control",
+      "quote": "Of things some are in our power, and others are not.",
+      "source": "Enchiridion 1",
+      "lesson": "This is the first line of Epictetus's handbook and the foundation for everything else in Stoicism. In your power: your opinions, your choices, what you go after and what you avoid. Not in your power: your body, your property, your reputation, other people. Epictetus, who was born a slave, taught that most suffering comes from treating the second list as if it were the first.",
+      "exercise": "Sort the worry",
+      "steps": [
+        "Name the one thing weighing on you most right now.",
+        "Break it into pieces: the outcome, other people's reactions, your effort, your timing, your words.",
+        "Put each piece in one of two piles. Mine: my judgments, choices, and effort. Not mine: results, other people, the market, the past.",
+        "For the \"not mine\" pile, say once: \"That's not up to me.\" Then set it down for now.",
+        "For the \"mine\" pile, pick the single next action and decide when you'll do it today."
+      ],
+      "reflect": "How much of this morning's worry was about the \"not mine\" pile?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Own today",
+      "quote": "Hold every hour in your grasp. Lay hold of to-day's task, and you will not need to depend so much upon to-morrow's. While we are postponing, life speeds by.",
+      "source": "Letters to Lucilius 1",
+      "lesson": "This is from the first of Seneca's 124 letters to his friend Lucilius, and it's about time. We guard our money carefully and hand out our hours to anyone who asks. Seneca's fix isn't a better calendar. It's grabbing the task in front of you today instead of pushing it to a tomorrow that isn't promised.",
+      "exercise": "The one-task grab",
+      "steps": [
+        "Name the task you've been pushing off the longest. The one that's been on the list for weeks.",
+        "Shrink it to the smallest first step that takes under 3 minutes: one email, one call, one paragraph, one search.",
+        "Do that step now, before you close this email.",
+        "If it truly can't be done now, pick the exact time today you'll do it."
+      ],
+      "reflect": "How long had you been carrying that task, compared to how long the first step took?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Drop the story",
+      "quote": "Take away thy opinion, and then there is taken away the complaint, \"I have been harmed.\" Take away the complaint, \"I have been harmed,\" and the harm is taken away.",
+      "source": "Meditations 4.7",
+      "lesson": "Something happens. Then you add a story: \"they disrespected me,\" \"this ruins everything.\" Marcus separates the two. The event is one thing. The sense of being harmed comes from the story you attach. Take the story away and what's left is usually a fact you can deal with.",
+      "exercise": "Fact vs. story",
+      "steps": [
+        "Pick something from the last few days that still stings.",
+        "State only the facts, the way a camera would record them. No adjectives, no guessing at motives. Example: \"He didn't reply to my text for two days.\"",
+        "Now say the story you've been adding: \"He doesn't respect me. I'm not a priority.\"",
+        "Notice the story is the part that hurts. Ask: do I actually know it's true?",
+        "Say the fact version to yourself three times, slowly. Notice what's left when the story is gone."
+      ],
+      "reflect": "With the story stripped out, how big is the actual problem?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Stop blaming",
+      "quote": "Men are disturbed not by the things which happen, but by the opinions about the things.",
+      "source": "Enchiridion 5",
+      "lesson": "Epictetus follows this line with a three-rung ladder. The untrained person blames others when things go wrong. The person who has started learning blames themselves. The person whose training is complete blames no one, because they see that their own judgment did the disturbing. This isn't about pretending problems aren't real. It's about finding the one piece you can change.",
+      "exercise": "Blame audit",
+      "steps": [
+        "Think of the last time you were frustrated and pointed at someone or something: a client, traffic, a family member, yourself.",
+        "Say the blame sentence you used: \"She made me late.\" \"I'm an idiot.\"",
+        "Rewrite it so the subject is your judgment: \"I judged being late as a disaster.\" \"I judged my mistake as proof I'm not good enough.\"",
+        "Ask: is that judgment accurate? What's a more accurate one?",
+        "Say the accurate version once, out loud if you can."
+      ],
+      "reflect": "Which rung of Epictetus's ladder were you on: blaming others, blaming yourself, or blaming no one?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Fear is mostly forecast",
+      "quote": "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality.",
+      "source": "Letters to Lucilius 13",
+      "lesson": "Seneca's advice for worry: don't be unhappy before the crisis comes, because it may never come. He says some things torment us more than they ought, some before they ought, and some when they ought not to torment us at all. Most of what you're dreading lives only in the forecast.",
+      "exercise": "Forecast check",
+      "steps": [
+        "Name one thing you're dreading this week.",
+        "Say the worst-case version in one sentence.",
+        "List the actual evidence it will happen. Facts only, not feelings.",
+        "Be honest: out of 10 similar situations in your past, how many ended as badly as you feared?",
+        "Name one thing you'd do if the worst case did happen. Notice that you'd have a move."
+      ],
+      "reflect": "Is this fear tormenting you more than it ought, or before it ought?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Get up for the work",
+      "quote": "I am rising to the work of a human being.",
+      "source": "Meditations 5.1",
+      "lesson": "Even an emperor didn't want to get out of bed. Marcus argued with himself about it: was he made to lie in the bedclothes and keep warm? He looked at the plants, the birds, the ants, the bees, all doing their part. His part was the work of a human being, and staying comfortable wasn't it.",
+      "exercise": "Name your work",
+      "steps": [
+        "Ask: what is today's work of a human being, for me? Not the to-do list. The roles: parent, partner, friend, colleague, leader.",
+        "Pick the one role that most needs you today.",
+        "Name one concrete thing you'll do in that role before tonight.",
+        "Picture yourself doing it, start to finish, for 30 seconds.",
+        "Say the line to yourself as you head into your day: \"I am rising to the work of a human being.\""
+      ],
+      "reflect": "Tonight: did you do the thing? What made it easier or harder?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Want what happens",
+      "quote": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+      "source": "Enchiridion 8",
+      "lesson": "This is the hardest Stoic idea and the most freeing. It doesn't mean stop trying. It means once something has happened, arguing with it is wasted effort. The deal fell through, the flight got canceled, it rained on the open house. Accepting it fast frees you to deal with what's next.",
+      "exercise": "Accept one thing",
+      "steps": [
+        "Name something from this week you're still arguing with in your head.",
+        "Notice the argument: \"It shouldn't have happened.\" \"If only...\"",
+        "Say: \"It happened. It is as it is.\" Breathe out slowly as you say it.",
+        "Ask: now that this is the situation, what's the best next move?",
+        "Name that move. Stop there."
+      ],
+      "reflect": "What did the argument cost you in time and energy before you let it go?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Rehearse what you fear",
+      "quote": "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: \"Is this the condition that I feared?\"",
+      "source": "Letters to Lucilius 18",
+      "lesson": "Seneca, one of the richest men in Rome, practiced being poor on purpose. Fear of losing your comforts controls you until you've tested it. Once you've lived with less and found it survivable, the fear loses its grip. He says to toughen up while things are good, the way soldiers drill in peacetime.",
+      "exercise": "Plan a small hardship",
+      "steps": [
+        "Name a comfort you'd be afraid to lose: income, the nice car, your phone, the morning coffee.",
+        "Picture losing it for a month. Walk through an ordinary day without it, hour by hour, for 2 minutes.",
+        "Pick one small voluntary hardship for today: skip the coffee, take the stairs, eat a plain lunch, leave the phone in another room for an hour.",
+        "Decide the exact time you'll do it.",
+        "When you do it, ask Seneca's question: \"Is this the condition that I feared?\""
+      ],
+      "reflect": "Was the hardship as bad as the fear of it?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Your thoughts become you",
+      "quote": "Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.",
+      "source": "Meditations 5.16",
+      "lesson": "Cloth takes on the color it soaks in. So does your mind. Whatever you think about most, whether complaints, comparisons, gratitude, or problems to solve, becomes the color of who you are. Marcus's answer was to choose the dye on purpose.",
+      "exercise": "Check the dye",
+      "steps": [
+        "For one minute, notice what your mind has been soaking in for the last 24 hours. Name the top three themes.",
+        "For each, ask: is this a color I want my mind to be?",
+        "Pick one theme to replace, and choose its replacement: worry becomes preparation, comparison becomes progress, complaint becomes next step.",
+        "Pick a trigger you'll hit often today, like unlocking your phone. Each time, think the replacement thought once."
+      ],
+      "reflect": "What would your mind look like after a year of today's thoughts?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Know what you love",
+      "quote": "If you love an earthen vessel, say it is an earthen vessel which you love; for when it has been broken you will not be disturbed.",
+      "source": "Enchiridion 3",
+      "lesson": "Epictetus asks you to remember what things are, starting with the smallest. A mug is a mug, and mugs break. The people you love are human, and humans are mortal. It sounds grim, but the point is the opposite: remembering that nothing is permanent keeps loss from shattering you and makes you pay attention to what you have while you have it.",
+      "exercise": "The breakable list",
+      "steps": [
+        "Name a small thing you'd be upset to lose: a watch, your phone, a favorite mug.",
+        "Say to yourself: \"This is a thing that can break.\" Notice how that lands.",
+        "Now move up. Name a person you love and say quietly: \"This is a person, and people are mortal.\"",
+        "Picture the next time you'll see them. What would you do differently knowing it isn't guaranteed?",
+        "Pick one small thing to do for them today: a text, a call, full attention at dinner."
+      ],
+      "reflect": "Did thinking about losing them change how you feel about seeing them?",
+      "note": "If you're grieving right now, skip step 3 and stay with the small things."
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "You bring yourself with you",
+      "quote": "You need a change of soul rather than a change of climate.",
+      "source": "Letters to Lucilius 28",
+      "lesson": "Lucilius complained that a long trip hadn't lifted his mood. Seneca told him the problem wasn't the location: your faults follow you wherever you travel. A new job, city, or relationship won't fix what you carry inside. Changing the inside is what changes the experience.",
+      "exercise": "What's coming with you",
+      "steps": [
+        "Name something you think would make you happier if it changed: the job, the house, the market, a person.",
+        "Imagine it changed tomorrow. Picture yourself a month in.",
+        "Ask: which of my habits, fears, or reactions would still be there?",
+        "Pick one. Name one way it's likely to show up today.",
+        "Decide one small thing you'll do differently when it shows up."
+      ],
+      "reflect": "How much of what you want to escape would come along with you?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Obstacles become fuel",
+      "quote": "The mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road.",
+      "source": "Meditations 5.20",
+      "lesson": "When something blocks your plan, the block gives you something to practice: patience, creativity, courage, humility. The plan might have to change. The chance to act well never goes away.",
+      "exercise": "Turn the block",
+      "steps": [
+        "Name the biggest obstacle in front of you right now.",
+        "Ask: what does this give me a chance to practice? Patience, persistence, honesty, creativity, asking for help.",
+        "Pick one.",
+        "Name one action today that practices it in this exact situation.",
+        "Say it as a sentence: \"This obstacle is my chance to practice ___ by ___.\""
+      ],
+      "reflect": "If this obstacle vanished tomorrow, what would you lose the chance to learn?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Insults need your agreement",
+      "quote": "Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting.",
+      "source": "Enchiridion 20",
+      "lesson": "Someone can say something rude. Whether you're insulted is a second step, and you're the one who takes it. Epictetus's practical tip from the same passage: buy time. If you gain time and delay, you'll more easily master yourself.",
+      "exercise": "The delay",
+      "steps": [
+        "Recall a recent comment that got under your skin.",
+        "Replay it once. Notice where you feel it in your body.",
+        "Separate the two steps: what they said, and the judgment you added (\"that was disrespectful,\" \"they think I'm incompetent\").",
+        "Take three slow breaths. That's the delay Epictetus means.",
+        "Set a rule for today: when something stings, three breaths before any reply, spoken or typed."
+      ],
+      "reflect": "What would you have said differently with a three-breath delay?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Choose your company",
+      "quote": "Associate with those who will make a better man of you. Welcome those whom you yourself can improve. The process is mutual; for men learn while they teach.",
+      "source": "Letters to Lucilius 7",
+      "lesson": "Seneca warns that crowds rub off on you. You absorb the habits and attitudes of the people around you, good or bad. So choose on purpose: spend time with people who raise your game, and with people you can help. Both make you better.",
+      "exercise": "Audit your circle",
+      "steps": [
+        "Name the five people you've spent the most time with this week, including online.",
+        "For each, ask: after time with them, am I usually better or worse?",
+        "Name one person who makes you better that you haven't talked to lately.",
+        "Name one person you could help: someone newer, younger, or struggling.",
+        "Reach out to one of them today, even with a two-line message."
+      ],
+      "reflect": "Who in your circle are you learning from, and who is learning from you?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Act, don't complain",
+      "quote": "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now.",
+      "source": "Meditations 8.47",
+      "lesson": "Marcus keeps going in the same passage: if you're pained because you're not doing something you think is right, why not act instead of complain? Every complaint is either a judgment you can drop or an action you haven't taken yet.",
+      "exercise": "Complaint to action",
+      "steps": [
+        "Name your most repeated complaint from the last week. The one you've said out loud more than once.",
+        "Ask: is there any part of this I can act on?",
+        "If yes: name the smallest version of that action and do it or schedule it today.",
+        "If no: it's outside your control. Say \"This is not mine to fix\" and decide to stop repeating the complaint today.",
+        "Count how many times you catch yourself complaining today. Just notice."
+      ],
+      "reflect": "How many complaints came up today, and how many turned into action?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Life is a banquet",
+      "quote": "Remember that in life you ought to behave as at a banquet. Suppose that something is carried round and is opposite to you. Stretch out your hand and take a portion with decency. Suppose that it passes by you. Do not detain it. Suppose that it is not yet come to you. Do not send your desire forward to it, but wait till it is opposite to you.",
+      "source": "Enchiridion 15",
+      "lesson": "Good things come around like dishes at a dinner party. When one reaches you, take your share gracefully. When it passes, don't grab at it. When it hasn't arrived yet, don't stare down the table at it. Apply it to money, recognition, opportunities, and relationships.",
+      "exercise": "Three dishes",
+      "steps": [
+        "Name something good that's in front of you right now. Take a moment to actually enjoy it.",
+        "Name something that passed you by recently: a deal, a promotion, a chance. Say \"It passed\" and let it go.",
+        "Name something you're waiting on and keep staring down the table at.",
+        "Ask: what would it look like to wait for it with decency instead of craving?",
+        "Bring your attention back to the first one, the dish that's in front of you."
+      ],
+      "reflect": "Which of the three takes up most of your attention on a normal day?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Enough",
+      "quote": "If you live according to nature, you will never be poor; if you live according to opinion, you will never be rich.",
+      "source": "Letters to Lucilius 16 (quoting Epicurus)",
+      "lesson": "Your real needs are small and easy to meet. Wanting what looks good to other people has no ceiling. Seneca's next line: nature's wants are slight; the demands of opinion are boundless. No amount of money satisfies a want that's based on what others think.",
+      "exercise": "Needs vs. opinion",
+      "steps": [
+        "Name something you want to buy or achieve in the next year.",
+        "Ask: would I still want it if no one else would ever know I had it?",
+        "If yes, it's closer to a real need. If no, it's opinion.",
+        "Name three things you already have that meet real needs. Spend 30 seconds on each.",
+        "Say to yourself: \"I have enough for today.\""
+      ],
+      "reflect": "How much of your drive this year is about what other people will see?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Stop talking, start being",
+      "quote": "No longer talk at all about the kind of man that a good man ought to be, but be such.",
+      "source": "Meditations 10.16",
+      "lesson": "Marcus wrote this as a note to himself. Enough reading and discussing what a good person looks like. At some point the study has to turn into behavior. You don't need more principles. You need to act on the ones you already have.",
+      "exercise": "One principle, one act",
+      "steps": [
+        "Name a principle you believe in and talk about: honesty, patience, generosity, discipline.",
+        "Ask: where did I fall short of it in the last week? Be specific.",
+        "Picture that situation happening again today, and see yourself acting on the principle.",
+        "Pick one real moment today where you'll practice it on purpose.",
+        "Tell no one. Just do it."
+      ],
+      "reflect": "Tonight: did you do it? Did anyone notice? Did it matter that they didn't?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Pick the right handle",
+      "quote": "Everything has two handles, the one by which it may be borne, the other by which it may not.",
+      "source": "Enchiridion 43",
+      "lesson": "Any situation can be picked up two ways. Epictetus's example: if your brother wrongs you, you can grab it by \"he wronged me,\" which can't be carried, or by \"he's my brother, we grew up together,\" which can. The facts don't change. What you grab onto decides whether you can bear it.",
+      "exercise": "Switch handles",
+      "steps": [
+        "Name a person who's frustrating you right now.",
+        "Say the handle you've been holding: \"She's always late.\" \"He never listens.\"",
+        "Find the other handle. What else is true about this person or relationship? Your history, what they've done for you, what they're dealing with.",
+        "Say that version to yourself.",
+        "Decide which handle you'll hold the next time you see them."
+      ],
+      "reflect": "Which handle makes this relationship easier to carry, and is it any less true?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Hope and fear travel together",
+      "quote": "The limiting of desires helps also to cure fears: \"Cease to hope,\" he says, \"and you will cease to fear.\"",
+      "source": "Letters to Lucilius 5 (quoting Hecato)",
+      "lesson": "Seneca compares hope and fear to a prisoner and the soldier guarding him, chained together. Both come from living in the future instead of the present. The harder you hang on one specific outcome, the more you fear it won't come. Bring your mind back to today and both loosen.",
+      "exercise": "Unhook one outcome",
+      "steps": [
+        "Name an outcome you're hoping hard for: a deal, a result, an answer.",
+        "Notice the fear attached to it. What happens if it doesn't come?",
+        "Separate the outcome (not yours) from the effort (yours). Say: \"My job is the effort. The result will come or it won't.\"",
+        "Name the best effort you can give it today.",
+        "For the rest of the day, when you catch yourself hoping or fearing, come back to that effort."
+      ],
+      "reflect": "Did less hoping bring less fear?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Do fewer things",
+      "quote": "Occupy thyself with few things, says the philosopher, if thou wouldst be tranquil.",
+      "source": "Meditations 4.24",
+      "lesson": "Marcus quotes an older philosopher, then sharpens it: do what's necessary. Most of what we say and do isn't necessary, and cutting it gives you more time and less trouble. He suggests asking on every occasion: is this one of the unnecessary things? He applies it to thoughts too, since unnecessary thoughts lead to unnecessary acts.",
+      "exercise": "Cut one thing",
+      "steps": [
+        "Run through everything you plan to do today.",
+        "For each item ask: is this necessary?",
+        "Find one that isn't. Cut it or hand it off.",
+        "Also pick one unnecessary thing you say: a complaint, some gossip, an explanation nobody asked for. Skip it today.",
+        "Give the time you freed to the most important item on the list."
+      ],
+      "reflect": "What did you cut, and did anyone notice?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Decide who you are",
+      "quote": "Immediately prescribe some character and some form to yourself, which you shall observe both when you are alone and when you meet with men.",
+      "source": "Enchiridion 33",
+      "lesson": "Epictetus says decide in advance what kind of person you'll be, then be that same person in private and in public. Without a set character, you just react to whatever's in front of you.",
+      "exercise": "Write your code",
+      "steps": [
+        "Name three qualities you want to be known for. One word each.",
+        "For each, name what it looks like in your actual day. Example: \"Reliable: I return every call the same day.\"",
+        "Ask: am I the same on these when no one's watching?",
+        "Pick the quality where the gap is biggest.",
+        "Practice it once today where nobody will see."
+      ],
+      "reflect": "Where's the biggest difference between your public self and your private self?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Go deep, not wide",
+      "quote": "Everywhere means nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.",
+      "source": "Letters to Lucilius 2",
+      "lesson": "Seneca is warning Lucilius about skimming too many authors and digesting none of them, but it applies to everything: too many projects, too many apps, too many goals. Depth only comes from staying with something.",
+      "exercise": "Pick the one",
+      "steps": [
+        "Name the areas where you're spread thin: books, courses, projects, tools, goals.",
+        "Pick one area and list what you're juggling in it.",
+        "Choose the single item that matters most.",
+        "Decide to go deep on it this week and set the others aside. Not forever, just for now.",
+        "Name the first 20 minutes you'll give it today."
+      ],
+      "reflect": "What have you started more than once and never finished?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Whose opinion counts",
+      "quote": "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+      "source": "Meditations 12.4",
+      "lesson": "Marcus noticed a contradiction: we love ourselves more than anyone, yet we care more about what others think of us than what we think of ourselves. He points out that if we had to say every thought out loud the moment we had it, we couldn't stand it for a single day. That's how much weight we give our neighbors' opinions.",
+      "exercise": "Whose scorecard",
+      "steps": [
+        "Think of a decision you're weighing right now.",
+        "Ask: what would I choose if nobody would ever find out?",
+        "Ask: what am I leaning toward because of how it will look?",
+        "Name the gap between the two answers.",
+        "Decide which scorecard you'll use on this one."
+      ],
+      "reflect": "Whose approval were you most worried about, and do you actually share their values?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Returned, not lost",
+      "quote": "Never say about anything, I have lost it, but say I have restored it.",
+      "source": "Enchiridion 11",
+      "lesson": "Epictetus says everything you have is on loan. When it goes, it's been returned, not stolen from you. While you have it, take care of it as something that belongs to another, the way travelers treat an inn: use it, enjoy it, don't pretend you own it.",
+      "exercise": "Reframe a loss",
+      "steps": [
+        "Name something you've lost this year: a client, money, an opportunity, a routine.",
+        "Say: \"I lost it.\" Notice the feeling.",
+        "Now say: \"I gave it back.\" Notice any difference.",
+        "Name one good thing you got while you had it.",
+        "Name one thing you have on loan right now that you want to take better care of."
+      ],
+      "reflect": "Does thinking of what you have as borrowed change how you treat it?",
+      "note": "If a loss is still raw, pick something smaller today. This practice is meant to steady you, not rush grief."
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Choose friends slowly, trust them fully",
+      "quote": "Ponder for a long time whether you shall admit a given person to your friendship; but when you have decided to admit him, welcome him with all your heart and soul.",
+      "source": "Letters to Lucilius 3",
+      "lesson": "Seneca says most people get this backwards: they make someone a friend first and judge them later. Take your time deciding who's in your inner circle. Once they're in, stop holding back. Speak to them as openly as you'd speak to yourself.",
+      "exercise": "Inner circle check",
+      "steps": [
+        "Name the three to five people you'd call in a real crisis.",
+        "Ask: did I choose them carefully, or did they just end up there?",
+        "Ask: am I holding back anything from them that I shouldn't be?",
+        "Pick one and decide one honest thing you'll share with them this week."
+      ],
+      "reflect": "Is there anyone in your inner circle who shouldn't be, or anyone outside it who belongs in?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "You'll handle it then",
+      "quote": "Let not future things disturb thee, for thou wilt come to them, if it shall be necessary, having with thee the same reason which now thou usest for present things.",
+      "source": "Meditations 7.8",
+      "lesson": "You've gotten through every hard day you've ever had, using the same mind you have right now. Marcus reminds himself that whatever's coming, he'll meet it with the same tools. You don't have to solve next month's problem this morning.",
+      "exercise": "Proof of handling",
+      "steps": [
+        "Name something coming up that worries you.",
+        "Recall three hard situations you've already gotten through. Name each one.",
+        "For each, name one thing you did that helped.",
+        "Notice: those same abilities come with you into the next thing.",
+        "Name the one piece of preparation you can do today. Do that, and leave the rest for when it arrives."
+      ],
+      "reflect": "How many of your past worries turned out fine, or at least survivable?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Be willing to look foolish",
+      "quote": "If you would improve, submit to be considered without sense and foolish with respect to externals.",
+      "source": "Enchiridion 13",
+      "lesson": "Getting better means doing things other people might not get: saying no to what everyone says yes to, ignoring status symbols, asking basic questions. Epictetus says accept looking a little foolish. And if you start to seem important to people, distrust yourself.",
+      "exercise": "One awkward choice",
+      "steps": [
+        "Name something you'd do differently if you weren't worried about looking foolish: asking a basic question, declining an invite, trying something new in front of people.",
+        "Picture doing it and someone reacting badly. What's the actual worst case?",
+        "Decide when you'll do it today.",
+        "Afterward, notice how much the reaction actually mattered."
+      ],
+      "reflect": "How often does the fear of looking foolish decide what you do?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Life is already passing",
+      "quote": "We do not suddenly fall on death, but advance towards it by slight degrees; we die every day.",
+      "source": "Letters to Lucilius 24",
+      "lesson": "Seneca's point is practical, not morbid. Every day a little of your life is taken, even while you're growing. Yesterday is already gone. The day you're spending now is shared between you and death, which means it counts as much as any day ever will.",
+      "exercise": "Count the days",
+      "steps": [
+        "Do some rough math: how many more summers you likely have, or how many more times you'll see a certain person.",
+        "Let the number sink in for 30 seconds.",
+        "Ask: what would I regret not doing today?",
+        "Pick one thing from that answer and do it or schedule it today."
+      ],
+      "reflect": "Did seeing the number change how you want to spend today?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "The retreat within",
+      "quote": "Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself.",
+      "source": "Meditations 4.3",
+      "lesson": "You don't need a vacation to reset. Marcus says the quietest place you can go is your own mind, and you can go there any time. The trick is keeping a few short, reliable thoughts ready to come back to.",
+      "exercise": "Two-minute retreat",
+      "steps": [
+        "Sit still wherever you are. Close your eyes or lower your gaze.",
+        "Take five slow breaths.",
+        "Pick a short thought to retreat to: \"This will pass.\" \"Only this moment.\" \"What's in my control?\"",
+        "Repeat it slowly for about two minutes, coming back to it when your mind wanders.",
+        "Before you open your eyes, decide when you'll take your next two-minute retreat today."
+      ],
+      "reflect": "How much of the rest you want from a vacation could you get two minutes at a time?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Every act is a vote",
+      "quote": "Every habit and faculty is maintained and increased by the corresponding actions: the habit of walking by walking, the habit of running by running.",
+      "source": "Discourses 2.18",
+      "lesson": "Each time you act on a habit, you strengthen it. Get angry and you get better at anger. Hold your temper and you get better at that. Epictetus's advice: don't feed the habit, and count the days you go without it. He says he went from angry every day, to every second day, to every third.",
+      "exercise": "Starve one habit",
+      "steps": [
+        "Name one reaction you want less of: snapping, checking your phone, complaining, putting things off.",
+        "Recall the last time it happened. What set it off?",
+        "Decide what you'll do instead when that trigger shows up today. Keep it simple.",
+        "Start a count. Today is day one."
+      ],
+      "reflect": "What's your count by tonight? Epictetus would call one day a real win."
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "To be loved, love",
+      "quote": "I can show you a philtre, compounded without drugs, herbs, or any witch's incantation: 'If you would be loved, love.'",
+      "source": "Letters to Lucilius 9 (quoting Hecato)",
+      "lesson": "Seneca passes on a line from Hecato, another Stoic. There's no trick to being loved: care first. He adds that making a new friend is its own pleasure, like a farmer sowing a field.",
+      "exercise": "Love first",
+      "steps": [
+        "Name someone whose warmth you've been waiting for: a colleague, a relative, a friend who's gone quiet.",
+        "Ask: have I been waiting for them to go first?",
+        "Pick one act of care you could offer without expecting anything back: a thank-you, a check-in, real attention.",
+        "Decide when you'll do it today."
+      ],
+      "reflect": "How did it feel to go first?"
+    },
+    {
+      "teacher": "Marcus Aurelius",
+      "theme": "Anger costs more",
+      "quote": "Consider how much more pain is brought on us by the anger and vexation caused by such acts than by the acts themselves, at which we are angry and vexed.",
+      "source": "Meditations 11.18",
+      "lesson": "This is from Marcus's list of ways to handle people who offend him. The anger usually hurts you more than the offense did. Someone cuts you off in traffic for two seconds, and you stay angry for twenty minutes.",
+      "exercise": "Price the anger",
+      "steps": [
+        "Recall something that made you angry recently.",
+        "Estimate how long the actual offense lasted.",
+        "Estimate how long you stayed angry about it, including replaying it later.",
+        "Compare the two numbers.",
+        "Set a rule for today: when anger hits, ask \"Is this worth the price?\" before you hang on to it."
+      ],
+      "reflect": "What did your anger cost you this week in time, sleep, or mood?"
+    },
+    {
+      "teacher": "Epictetus",
+      "theme": "Show, don't preach",
+      "quote": "At a banquet do not say how a man ought to eat, but eat as you ought to eat.",
+      "source": "Enchiridion 46",
+      "lesson": "Epictetus says never call yourself a philosopher and don't lecture people about principles. Just do what follows from them. Show what you've learned by how you live, not by talking about it.",
+      "exercise": "Quiet practice",
+      "steps": [
+        "Name a habit or belief you've been talking about more than doing: health, money, discipline, patience.",
+        "Pick one small way to practice it today.",
+        "Do it without mentioning it to anyone.",
+        "Notice the urge to talk or post about it. Let it pass."
+      ],
+      "reflect": "Was it harder to do it, or harder not to talk about it?"
+    },
+    {
+      "teacher": "Seneca",
+      "theme": "Every day a complete life",
+      "quote": "I am endeavouring to live every day as if it were a complete life.",
+      "source": "Letters to Lucilius 61",
+      "lesson": "Seneca wrote this in old age. Don't treat today as a rehearsal, or as a step toward some future when life really starts. Live each day as if it were whole. If more days come, they're a bonus.",
+      "exercise": "Make today whole",
+      "steps": [
+        "Ask: if today were my whole life, what would need to happen in it?",
+        "Name one thing to say to someone you care about.",
+        "Name one piece of work you'd want finished.",
+        "Name one moment you'd want to be fully present for.",
+        "Decide when each one happens today."
+      ],
+      "reflect": "Tonight: did today feel complete?"
+    }
+  ]
+}
