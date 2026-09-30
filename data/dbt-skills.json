@@ -1,0 +1,563 @@
+{
+  "_about": "DBT skill-of-the-day library. One entry is emailed each morning by scripts/dbt_skill.py, in list order, cycling forever. The list is interleaved by module on purpose so no two days in a row come from the same module. Every exercise must fit in 5 minutes and need nothing but you (no pen, no props, no private room). Skills follow Linehan's DBT Skills Training Manual, 2nd ed. (2015). This is skills practice, not therapy.",
+  "skills": [
+    {
+      "module": "Mindfulness",
+      "name": "Wise Mind",
+      "what": "Wise Mind is the overlap between Emotion Mind (feelings in charge) and Reasonable Mind (cold logic in charge). It's the quiet part of you that already knows what's true and what to do.",
+      "when": "Before any decision that feels charged, or when you notice you're arguing with yourself.",
+      "exercise": "Wise Mind breathing",
+      "steps": [
+        "Sit or stand still. Let your eyes soften or close.",
+        "Breathe in and silently say \"wise.\" Breathe out and silently say \"mind.\"",
+        "Keep going for about 3 minutes. When your attention wanders, notice it and come back to the words.",
+        "In the last minute, ask one real question you're carrying today: \"What does Wise Mind say about this?\" Don't force an answer. Just listen for what comes up."
+      ],
+      "reflect": "Did an answer show up that felt calmer or truer than what your emotions or your logic were each saying alone?"
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "STOP",
+      "what": "STOP is the brake pedal for moments when you're about to act on an urge you'll regret. Stop. Take a step back. Observe. Proceed mindfully.",
+      "when": "The second you feel the jolt: the sharp reply, the slammed door, the text you're about to send.",
+      "exercise": "Rehearse STOP on a real moment",
+      "steps": [
+        "Think of a moment from the last week when you reacted too fast. Picture it clearly for 30 seconds.",
+        "S, Stop: in your mind, freeze. Don't move. Notice your body holding still.",
+        "T, Take a step back: take one slow breath out. Imagine literally stepping back from the situation.",
+        "O, Observe: name what was happening inside you (the emotion, the urge) and outside you (what was actually said or done).",
+        "P, Proceed mindfully: ask \"What would I do if I wanted this to go well?\" Picture yourself doing that instead.",
+        "Run the whole STOP once more, faster, the way you'd need it in real life."
+      ],
+      "reflect": "What's the earliest body signal (jaw, chest, heat in your face) that could be your cue to STOP next time?"
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "Name the Emotion",
+      "what": "You can't regulate what you can't name. Putting a precise word on a feeling (not just \"bad\" or \"stressed\") turns down its intensity and tells you what it needs.",
+      "when": "Any time you feel \"off\" and can't say why.",
+      "exercise": "The 4-part emotion check",
+      "steps": [
+        "Pause and ask: \"What am I feeling right now?\" Start with a basic word: mad, sad, scared, ashamed, guilty, jealous, happy, love.",
+        "Get more specific. Is mad actually irritated, resentful, or frustrated? Is scared actually worried, dreading, or overwhelmed?",
+        "Find the prompting event: what happened right before this feeling showed up?",
+        "Notice the body: where do you feel it, and what does it make you want to do (the action urge)?",
+        "Say it in one sentence: \"I feel ___ because ___, and I want to ___.\""
+      ],
+      "reflect": "Did naming it precisely change how strong it felt, even a little?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "DEAR MAN",
+      "what": "DEAR MAN is a script for asking for what you want or saying no, clearly and without steamrolling. Describe, Express, Assert, Reinforce. Stay Mindful, Appear confident, Negotiate.",
+      "when": "Any request or boundary you've been putting off: a raise, a favor, a no.",
+      "exercise": "Draft one DEAR MAN in your head",
+      "steps": [
+        "Pick one real ask you need to make this week.",
+        "Describe: state the facts only, no judgments. \"The last three Fridays I stayed until 7.\"",
+        "Express: say how you feel or think about it. \"I'm getting burned out.\"",
+        "Assert: ask clearly, or say no clearly. \"I need to leave by 5 on Fridays.\"",
+        "Reinforce: say what's in it for them. \"I'll be sharper Monday morning.\"",
+        "Now say the whole thing out loud or under your breath twice. Keep it under 30 seconds.",
+        "Last: decide your Negotiate fallback. What would you accept if they can't give you all of it?"
+      ],
+      "reflect": "Which part was hardest to say plainly: the feeling, the ask, or the reinforcer?"
+    },
+    {
+      "module": "Mindfulness",
+      "name": "Observe",
+      "what": "Observe means just noticing, without words, without judging, without trying to change anything. It's the first \"what\" skill and the base of every other skill.",
+      "when": "When your head is loud and you need to drop back into the present.",
+      "exercise": "5-4-3-2-1 senses",
+      "steps": [
+        "Wherever you are, notice 5 things you can see. Really look at each one for a breath.",
+        "Notice 4 things you can feel: your feet, your clothes, the air, the surface you're touching.",
+        "Notice 3 things you can hear, near and far.",
+        "Notice 2 things you can smell (or just the smell of the air).",
+        "Notice 1 thing you can taste.",
+        "Each time a thought pulls you away, notice it like a car going by and return to the senses."
+      ],
+      "reflect": "What did you notice that you'd completely missed a minute earlier?"
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "TIPP: Paced Breathing",
+      "what": "TIPP changes your body chemistry fast when emotion is sky-high. Temperature, Intense exercise, Paced breathing, Paired muscle relaxation. Today is the P you can do anywhere: slowing the out-breath activates the calming side of your nervous system.",
+      "when": "Panic, rage, or any moment when you're too flooded to think.",
+      "exercise": "4 in, 6 out",
+      "steps": [
+        "Breathe in through your nose for a count of 4.",
+        "Breathe out slowly through your mouth for a count of 6 to 8. The out-breath must be longer than the in-breath.",
+        "Aim for about 5 to 6 breaths a minute.",
+        "Keep going for 3 to 4 minutes. If you get lightheaded, shorten the counts but keep the out-breath longer.",
+        "At the end, rate your tension 0 to 10 and compare it to how you started."
+      ],
+      "reflect": "How many points did your tension drop? That's your proof this works for you when it counts.",
+      "note": "The Temperature part of TIPP (cold water on the face) works even faster. Check with a doctor first if you have a heart condition or an eating disorder."
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "Check the Facts",
+      "what": "Emotions react to our interpretation of events, not the events themselves. Check the Facts asks whether your emotion, and how strong it is, actually fits what happened.",
+      "when": "When a feeling seems bigger than the situation, or you're replaying a story in your head.",
+      "exercise": "Fact-check one feeling",
+      "steps": [
+        "Pick one emotion you've felt strongly in the last day.",
+        "What is the prompting event? Describe only what a camera would have recorded.",
+        "What are you assuming or interpreting? (\"She didn't text back\" is a fact. \"She's mad at me\" is an interpretation.)",
+        "List two other interpretations that could also be true.",
+        "Are you assuming a threat or catastrophe? How likely is it, really?",
+        "Ask: does my emotion, and its intensity, fit the facts? Rate the fit 0 to 10."
+      ],
+      "reflect": "If the fit was low, what emotion would actually fit the facts?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "GIVE",
+      "what": "GIVE is how you keep a relationship strong while you talk. Be Gentle, act Interested, Validate, use an Easy manner.",
+      "when": "Conversations where the relationship matters more than winning the point.",
+      "exercise": "Plan your next conversation with GIVE",
+      "steps": [
+        "Pick someone you'll talk to today.",
+        "Gentle: name one thing you'll NOT do (no attacks, threats, eye-rolls, or \"you always\").",
+        "Interested: pick one real question you'll ask them, and plan to let them finish without interrupting.",
+        "Validate: think of one thing about their situation that makes sense. Plan to say it: \"That makes sense, given ___.\"",
+        "Easy manner: plan one small light touch, like a smile or a bit of humor.",
+        "Mentally rehearse the first 30 seconds of that conversation."
+      ],
+      "reflect": "Which letter of GIVE do you tend to drop first when you're stressed?"
+    },
+    {
+      "module": "Mindfulness",
+      "name": "Describe",
+      "what": "Describe means putting words on what you observe, sticking to facts. \"My heart is pounding\" is a description. \"This is a disaster\" is not.",
+      "when": "When you're swept up in a story and need to get back to what's actually happening.",
+      "exercise": "Facts only narration",
+      "steps": [
+        "For 2 minutes, silently narrate what's around you in plain facts. \"Gray car. Man with a blue bag. Air is cool.\"",
+        "Now turn inward for 2 minutes. Describe sensations and thoughts as events: \"Tightness in my shoulders.\" \"I'm having the thought that I'm behind.\"",
+        "Catch any judgment words (good, bad, awful, should) and restate them as facts.",
+        "End with one breath and one sentence describing how you feel right now."
+      ],
+      "reflect": "What changed when you said \"I'm having the thought that...\" instead of just believing the thought?"
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "Self-Soothe",
+      "what": "Self-Soothe means being kind to yourself through the five senses: vision, hearing, smell, taste, touch. It gets you through a painful moment without making it worse.",
+      "when": "When you're hurting and there's nothing to fix right now.",
+      "exercise": "One sense, fully",
+      "steps": [
+        "Pick whichever sense is easiest where you are.",
+        "Vision: find the most pleasant thing in sight (sky, a plant, a photo on your phone) and look at it slowly.",
+        "Hearing: put on one song you love, or listen for the most soothing sound nearby.",
+        "Touch: hold something soft or warm, or press your palms together firmly.",
+        "Taste or smell: a sip of something warm, a mint, the smell of coffee or soap.",
+        "Stay with that one sense for 3 full minutes. Treat it like it's the only thing you have to do."
+      ],
+      "reflect": "Which sense calms you fastest? Plan to keep something for it on hand."
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "Opposite Action",
+      "what": "Every emotion comes with an urge. When the emotion doesn't fit the facts (or acting on it won't help), doing the opposite of the urge, all the way, changes the emotion.",
+      "when": "Fear that keeps you avoiding, sadness that keeps you in bed, anger that wants to attack.",
+      "exercise": "Find your opposite action",
+      "steps": [
+        "Name one emotion that's been steering you lately.",
+        "Name the action urge. Fear wants to avoid. Sadness wants to withdraw. Anger wants to attack. Shame wants to hide.",
+        "Check: does the emotion fit the facts, and would acting on it help? If not, keep going.",
+        "Name the opposite. Fear: approach. Sadness: get active. Anger: gently avoid or be kind. Shame: show your face.",
+        "Pick one tiny version you can do in the next hour (send the email, stand up and walk, say hi).",
+        "Plan to do it all the way: posture, voice, and face included, not through gritted teeth."
+      ],
+      "reflect": "What's one opposite action you could take before lunch today?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "FAST",
+      "what": "FAST protects your self-respect in any interaction. Be Fair (to yourself and them), no unneeded Apologies, Stick to your values, be Truthful.",
+      "when": "When you tend to cave, over-apologize, or bend your values to keep the peace.",
+      "exercise": "Apology audit and values check",
+      "steps": [
+        "Think back over yesterday. Count the times you said sorry. Which ones were for things that weren't your fault?",
+        "Rewrite one of them. \"Sorry to bother you\" becomes \"Thanks for your time.\"",
+        "Name one value you want to hold today (honesty, fairness, respect).",
+        "Picture one situation today where that value could get pushed. Decide now what you'll say.",
+        "Check Truthful: is there a small lie or exaggeration you've been using to avoid conflict? Decide to drop it."
+      ],
+      "reflect": "How does it feel in your body to picture yourself not apologizing?"
+    },
+    {
+      "module": "Mindfulness",
+      "name": "Participate",
+      "what": "Participate means throwing yourself fully into what you're doing, forgetting yourself, becoming one with the activity.",
+      "when": "When you're half-present, going through the motions, or stuck watching yourself from outside.",
+      "exercise": "Five minutes all in",
+      "steps": [
+        "Pick one ordinary thing you're about to do anyway: walking, washing your hands, making coffee, listening to a song.",
+        "Do only that. Put the phone away.",
+        "Throw yourself into it. Notice the rhythm, the movement, the details.",
+        "When you catch yourself watching or judging yourself, let go and dive back into the activity.",
+        "Keep going for 5 minutes."
+      ],
+      "reflect": "Did time feel different when you were fully in it?"
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "Radical Acceptance",
+      "what": "Radical Acceptance is accepting reality as it is, completely, in mind, body, and spirit. It isn't approval or giving up. Pain plus refusing to accept it becomes suffering. Acceptance takes the suffering out.",
+      "when": "When you keep fighting something you cannot change: something that already happened, or a fact you wish weren't true.",
+      "exercise": "Accept one small thing",
+      "steps": [
+        "Pick something small you're fighting reality about (the traffic, the weather, a comment someone made). Start small.",
+        "Say to yourself: \"This is what happened.\" Then: \"It is what it is.\"",
+        "Remind yourself it has causes: \"Everything that led to this happened. Of course it's this way.\"",
+        "Relax your body: unclench your jaw, drop your shoulders, open your hands palms up (willing hands).",
+        "Notice any \"but it shouldn't be...\" thoughts. Let each one go and turn your mind back to acceptance.",
+        "Ask: \"Now that I accept this, what's the next useful thing I can do?\""
+      ],
+      "reflect": "Did your body feel any different once you stopped fighting it?"
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "PLEASE",
+      "what": "PLEASE reduces your vulnerability to emotion mind by taking care of your body. Treat PhysicaL illness, balance Eating, avoid mood-Altering substances, balance Sleep, get Exercise.",
+      "when": "When you're more reactive than usual. Often the cause is sleep, food, or your body, not the situation.",
+      "exercise": "PLEASE check-in",
+      "steps": [
+        "PL, Physical illness: are you sick, in pain, or skipping a medication? One thing you can do about it today?",
+        "E, Eating: did you eat in the last 4 hours? Plan your next real meal.",
+        "A, Altering substances: alcohol, weed, too much caffeine? Decide your limit for today.",
+        "S, Sleep: how many hours last night? Set a bedtime for tonight.",
+        "E, Exercise: plan 10 to 20 minutes of movement today, even a walk.",
+        "Pick the weakest letter and do one thing for it before noon."
+      ],
+      "reflect": "Which PLEASE letter most affects your mood?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "Clarify Your Goal",
+      "what": "Every tough conversation has three possible goals: getting what you want (objective), keeping the relationship, and keeping your self-respect. Knowing which matters most tells you which skill to lead with: DEAR MAN, GIVE, or FAST.",
+      "when": "Before any conversation that could go sideways.",
+      "exercise": "Rank the three goals",
+      "steps": [
+        "Pick an upcoming conversation.",
+        "Objective: what exactly do you want to walk away with? Say it in one sentence.",
+        "Relationship: how do you want them to feel about you afterward?",
+        "Self-respect: how do you want to feel about yourself afterward?",
+        "Rank the three: 1, 2, 3.",
+        "If #1 is the objective, lead with DEAR MAN. Relationship, lead with GIVE. Self-respect, lead with FAST."
+      ],
+      "reflect": "Was the goal you ranked first the one you usually chase? Is that working?"
+    },
+    {
+      "module": "Mindfulness",
+      "name": "Nonjudgmentally",
+      "what": "Nonjudgmental means sticking to facts and consequences and dropping \"good,\" \"bad,\" \"should,\" and \"stupid.\" Judgments pour fuel on emotions. Facts don't.",
+      "when": "When you're harsh on yourself or others, or stuck in \"this shouldn't be happening.\"",
+      "exercise": "Judgment tally",
+      "steps": [
+        "For the next 3 minutes, watch your thoughts. Each time you catch a judgment (about you, someone else, or the situation), silently tally it.",
+        "Don't judge the judging. Just count.",
+        "Pick one judgment you caught and restate it as fact plus consequence. \"I'm lazy\" becomes \"I didn't finish the report, and now it's due tomorrow.\"",
+        "Notice how the restated version feels in your body compared to the judgment."
+      ],
+      "reflect": "How many did you count? Who is the most frequent target: you, others, or the world?"
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "ACCEPTS",
+      "what": "ACCEPTS is a set of ways to distract yourself from a painful emotion until it drops enough to handle. Activities, Contributing, Comparisons, other Emotions, Pushing away, other Thoughts, intense Sensations.",
+      "when": "When you can't solve the problem right now and ruminating is making it worse.",
+      "exercise": "Build your ACCEPTS menu",
+      "steps": [
+        "A, Activities: name one thing you could do right now (walk, clean one drawer, a game).",
+        "C, Contributing: one small thing you could do for someone else (a kind text, a coffee).",
+        "C, Comparisons: someone who's coping with something harder, or a time you coped with worse.",
+        "E, Emotions: something that creates a different feeling (a funny video, a sad song, an old photo).",
+        "P, Pushing away: imagine putting the problem in a box on a shelf for later.",
+        "T and S, Thoughts and Sensations: count backward from 100 by 7s, or hold an ice cube or squeeze a stress ball.",
+        "Try one of them right now for 2 minutes."
+      ],
+      "reflect": "Which one worked best? Save it as your go-to."
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "Accumulate Positives",
+      "what": "Accumulating positive emotions in the short term means doing pleasant things on purpose, every day, and then actually being present for them.",
+      "when": "Every day. It's prevention, not a rescue move.",
+      "exercise": "Schedule one pleasant thing",
+      "steps": [
+        "Name three small pleasant things you could do today: a favorite song, 10 minutes outside, calling a friend, a good snack.",
+        "Pick one and choose the exact time you'll do it.",
+        "While you do it, be mindful of it: notice what's good about it.",
+        "If worry shows up (\"I don't deserve this,\" \"it won't last\"), notice it and bring your attention back to the pleasant thing."
+      ],
+      "reflect": "When today's pleasant thing happens, did you actually notice it, or did you rush through it?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "Validation",
+      "what": "Validation means finding the kernel of truth in someone's point of view and letting them know it makes sense. It isn't agreeing. It calms conflicts and deepens relationships.",
+      "when": "When someone is upset, or when you're about to argue with how someone feels.",
+      "exercise": "Find the kernel of truth",
+      "steps": [
+        "Think of someone whose reaction frustrated you recently.",
+        "Describe their reaction in plain facts.",
+        "Find what makes sense about it, given their history, their information, or how most people would feel. \"Anyone would be annoyed if they found out last.\"",
+        "Write the validating line in your head: \"It makes sense you'd feel ___ because ___.\"",
+        "Now do the same for yourself: validate one feeling you've had this week that you've been dismissing."
+      ],
+      "reflect": "Was it easier to validate them or yourself?"
+    },
+    {
+      "module": "Mindfulness",
+      "name": "One-Mindfully",
+      "what": "One-mindfully means doing one thing at a time. When you eat, eat. When you walk, walk. When you worry, worry, but then go back to one thing.",
+      "when": "When you're scattered, multitasking, or can't focus.",
+      "exercise": "Single-task drill",
+      "steps": [
+        "Pick one task you can finish or make progress on in 5 minutes: a short email, washing a few dishes, reading a page.",
+        "Close every other app. Turn your phone face down.",
+        "Set a mental 5-minute window and do only that task.",
+        "Every time your mind jumps to something else, notice it and gently say \"back\" to yourself.",
+        "At the end, notice how much you got done compared to usual."
+      ],
+      "reflect": "How many times did you have to say \"back\"? That number will drop with practice."
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "IMPROVE the Moment",
+      "what": "IMPROVE replaces a bad moment with a better one. Imagery, Meaning, Prayer, Relaxing actions, One thing in the moment, Vacation (a brief one), Encouragement.",
+      "when": "When you're stuck in a painful moment that you have to get through.",
+      "exercise": "Imagery plus encouragement",
+      "steps": [
+        "I, Imagery: close your eyes and picture a safe, calm place in detail. What do you see, hear, feel there? Stay 2 minutes.",
+        "M, Meaning: ask \"Is there anything useful or meaningful in this hard moment?\"",
+        "R, Relaxing: drop your shoulders and slow your breath for a few breaths.",
+        "E, Encouragement: talk to yourself like a coach. \"I can stand this. It won't last forever. I'm doing the best I can.\" Say it three times.",
+        "Open your eyes and notice any shift, even a small one."
+      ],
+      "reflect": "Which encouraging phrase actually felt believable? Keep that one."
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "Cope Ahead",
+      "what": "Cope Ahead means rehearsing in your mind how you'll handle a hard situation before it happens, so you're ready when it does.",
+      "when": "Before a stressful meeting, a hard conversation, an event where you expect to struggle.",
+      "exercise": "Mental dress rehearsal",
+      "steps": [
+        "Name one situation coming up that's likely to trigger a strong emotion.",
+        "Name the emotion and the urge you're likely to have.",
+        "Decide which skill you'll use (STOP, paced breathing, DEAR MAN, opposite action).",
+        "Close your eyes and imagine the situation as vividly as you can, as if it's happening now.",
+        "Imagine yourself using the skill well. Include the worst-case moment and see yourself cope with it.",
+        "Finish with one slow breath and one relaxation cue (drop your shoulders)."
+      ],
+      "reflect": "What's the one sentence you want ready in your pocket for that moment?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "How Hard to Ask",
+      "what": "How intensely you ask or say no should depend on the situation. DBT uses questions like: Can they give it? Is it my right? Is it the right time? Will I regret not asking?",
+      "when": "When you're not sure whether to push, hold back, or drop it.",
+      "exercise": "Run the intensity questions",
+      "steps": [
+        "Pick one request or \"no\" you're unsure about.",
+        "Capability: can they actually do what I'm asking (or can I do what they're asking)?",
+        "Priorities: how important is my objective vs. the relationship vs. my self-respect here?",
+        "Rights: is it my right to ask, or theirs to ask?",
+        "Timing: is now a good time? Have I done my homework?",
+        "Reciprocity: what have I done for them lately, and they for me?",
+        "Count the yeses. More yeses means ask more firmly. Fewer means ask softly or wait."
+      ],
+      "reflect": "Did the count match your gut? If not, which one is Wise Mind?"
+    },
+    {
+      "module": "Mindfulness",
+      "name": "Effectively",
+      "what": "Effectively means doing what works, not what's \"right\" or \"fair.\" Keep your eye on the goal and don't cut off your nose to spite your face.",
+      "when": "When you're more focused on being right than on getting a good result.",
+      "exercise": "Right vs. works",
+      "steps": [
+        "Think of one situation where you've been insisting on how things should be.",
+        "Write the goal in one sentence. What do you actually want to happen?",
+        "Ask: is what I'm doing moving me toward that goal, or just proving a point?",
+        "Name one thing you could do that would actually work, even if it's not \"fair.\"",
+        "Picture yourself doing it. Notice any resistance and breathe through it."
+      ],
+      "reflect": "What would you gain by letting go of being right here?"
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "Pros and Cons",
+      "what": "Pros and Cons weighs acting on a crisis urge against resisting it, in both the short and the long term. Crisis urges only look good in the short term.",
+      "when": "When an urge (to quit, drink, lash out, binge) feels strong.",
+      "exercise": "Four-box check in your head",
+      "steps": [
+        "Name one urge you've had recently that you'd rather not act on.",
+        "Pros of acting on it: what does it get you in the next hour?",
+        "Cons of acting on it: what does it cost you tomorrow, next week, next month?",
+        "Pros of resisting: what do you gain, short and long term?",
+        "Cons of resisting: what's hard about not doing it?",
+        "Look especially at the long-term boxes. Save the strongest long-term reason to resist as a note on your phone."
+      ],
+      "reflect": "What's the one long-term consequence you most want to remember next time the urge hits?"
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "Build Mastery",
+      "what": "Build Mastery means doing one thing each day that's a little hard, so you feel capable and in control. It lowers your vulnerability to hopelessness.",
+      "when": "Every day, especially when you feel stuck or useless.",
+      "exercise": "One small hard thing",
+      "steps": [
+        "Pick one thing that's slightly challenging but doable today: a call you've been avoiding, 10 push-ups, cleaning one shelf, learning one new word.",
+        "Make it small enough to finish. Aim for success, not perfection.",
+        "Decide exactly when you'll do it.",
+        "If it's doable in the next 3 minutes, do it right now.",
+        "When it's done, stop and take in the feeling of having done it."
+      ],
+      "reflect": "What's tomorrow's slightly harder version?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "Broken Record",
+      "what": "Broken Record is part of staying Mindful in DEAR MAN. Keep asking or saying no, over and over, calmly, and ignore attacks or attempts to change the subject.",
+      "when": "When someone keeps pushing back, guilt-tripping, or pulling you off topic.",
+      "exercise": "Practice holding your line",
+      "steps": [
+        "Pick a boundary or request you need to hold.",
+        "Write one short, calm sentence. \"I'm not able to take that on this week.\"",
+        "Imagine the other person pushing back three different ways: guilt, anger, changing the subject.",
+        "For each one, answer with the same sentence, in the same calm voice. Say it quietly out loud if you can.",
+        "Notice the urge to explain or justify. Let it go. You don't owe more words."
+      ],
+      "reflect": "What's the pushback that would be hardest for you to hold against?"
+    },
+    {
+      "module": "Mindfulness",
+      "name": "Loving Kindness",
+      "what": "Loving-kindness practice builds warmth and compassion toward yourself and others by silently sending good wishes. It reduces anger and self-criticism.",
+      "when": "When you're angry at someone, or especially hard on yourself.",
+      "exercise": "Loving-kindness in four steps",
+      "steps": [
+        "Get comfortable. Take a few slow breaths.",
+        "Picture yourself and silently repeat: \"May I be safe. May I be happy. May I be healthy. May I live with ease.\" Take about a minute.",
+        "Picture someone you love and send them the same wishes.",
+        "Picture someone neutral (a cashier, a neighbor) and send the same.",
+        "If you're up for it, picture someone you're having a hard time with and send the same.",
+        "Notice any warmth, resistance, or nothing at all. All of it is fine."
+      ],
+      "reflect": "Which person was hardest to send kindness to, including yourself?"
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "Half-Smile and Willing Hands",
+      "what": "Your body and mind talk to each other. A half-smile (relaxed face, corners of the lips slightly up) and willing hands (hands unclenched, palms up) signal acceptance to your brain.",
+      "when": "When you're upset, resentful, or bracing against something.",
+      "exercise": "Body-first acceptance",
+      "steps": [
+        "Relax your face from forehead to chin. Let your jaw drop a little.",
+        "Let the corners of your lips turn up just slightly. Not a grin, a serene half-smile.",
+        "Unclench your hands. Rest them on your thighs or at your sides, palms up, fingers relaxed.",
+        "Hold this for 2 minutes while breathing slowly.",
+        "For the last 2 minutes, keep the half-smile and willing hands while you think about something that bothers you.",
+        "Notice whether your emotion shifts, even a little."
+      ],
+      "reflect": "Did you notice where your body had been bracing before you let go?"
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "Problem Solving",
+      "what": "When the emotion fits the facts, the move is to change the situation. DBT's problem solving is a short, concrete sequence so you can act instead of spin.",
+      "when": "When the emotion is justified and the problem is solvable.",
+      "exercise": "Five-minute problem solve",
+      "steps": [
+        "Describe the problem in one sentence. Check the facts to make sure it's the real problem.",
+        "Name your goal. What would \"better\" look like, realistically?",
+        "Brainstorm at least three solutions fast. No judging yet.",
+        "Pick the one most likely to work, and check it against your values.",
+        "Name the very first step and when you'll take it (today, if possible).",
+        "Decide how you'll know if it worked."
+      ],
+      "reflect": "What's the first step, and what could get in its way?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "Myths That Get in the Way",
+      "what": "Certain beliefs block you from asking for what you need: \"I shouldn't need to ask,\" \"If I say no they'll hate me,\" \"I don't deserve it.\" DBT calls these interpersonal myths and challenges them head on.",
+      "when": "When you notice you're holding back from asking or saying no.",
+      "exercise": "Challenge one myth",
+      "steps": [
+        "Think of a recent time you didn't ask for something or didn't say no.",
+        "What belief stopped you? Put it in one sentence.",
+        "Is it a fact, or a belief? What evidence goes against it?",
+        "Write a challenge. \"I shouldn't have to ask\" becomes \"People can't read my mind. Asking is fair.\"",
+        "Say the challenge to yourself three times."
+      ],
+      "reflect": "Where did you first learn the myth you picked?"
+    },
+    {
+      "module": "Mindfulness",
+      "name": "Walking the Middle Path",
+      "what": "Dialectics means two things that seem opposite can both be true. \"I'm doing my best AND I can do better.\" Walking the middle path means replacing either/or with both/and.",
+      "when": "When you're stuck in all-or-nothing thinking about yourself, others, or a situation.",
+      "exercise": "Turn \"but\" into \"and\"",
+      "steps": [
+        "Think of an either/or thought you've had lately. \"Either I'm good at this job or I'm a fraud.\"",
+        "Find the truth on each side.",
+        "Combine them with \"and.\" \"I'm skilled at a lot of this, AND I'm still learning some parts.\"",
+        "Try it with two more thoughts, one about you and one about someone else.",
+        "Notice how the \"and\" version feels compared to the either/or."
+      ],
+      "reflect": "What's one \"always\" or \"never\" you could soften today?"
+    },
+    {
+      "module": "Distress Tolerance",
+      "name": "Turning the Mind",
+      "what": "Acceptance isn't a one-time thing. Turning the mind means choosing acceptance again and again, every time you notice yourself fighting reality. It's like standing at a fork in the road and turning toward acceptance.",
+      "when": "When you've \"accepted\" something but keep sliding back into bitterness or \"why me.\"",
+      "exercise": "Catch and turn",
+      "steps": [
+        "Name one fact of your life you're working on accepting.",
+        "For the next 3 minutes, notice every time your mind starts to reject it (\"it's not fair,\" \"it shouldn't be this way\").",
+        "Each time, silently say \"turn\" and picture yourself turning toward acceptance at a fork in the road.",
+        "Make an inner commitment: \"I'm choosing to accept this, again.\"",
+        "Plan a cue for the rest of the day (every time you open a door, or check your phone) to turn the mind again."
+      ],
+      "reflect": "How many turns did it take? That's normal. It's a practice, not a switch."
+    },
+    {
+      "module": "Emotion Regulation",
+      "name": "Mindfulness of Current Emotion",
+      "what": "This skill means letting an emotion come and go like a wave, without pushing it away, holding onto it, or acting on it. Emotions that aren't fought or fed pass faster.",
+      "when": "When you want to escape an emotion, or when you're afraid of feeling it.",
+      "exercise": "Surf the wave",
+      "steps": [
+        "Notice an emotion that's here right now, even a small one.",
+        "Step back and observe it. Where is it in your body? What's its shape, temperature, size?",
+        "Imagine it as a wave: rising, peaking, falling. Don't push it down. Don't grow it bigger.",
+        "Remind yourself: \"I am not my emotion. I don't have to act on it.\"",
+        "Breathe and watch it for 3 minutes. Notice any change in intensity.",
+        "Practice loving the emotion, or at least allowing it: \"This is here, and that's okay.\""
+      ],
+      "reflect": "Did the emotion change, even slightly, when you stopped fighting it?"
+    },
+    {
+      "module": "Interpersonal Effectiveness",
+      "name": "Appear Confident",
+      "what": "In DEAR MAN, Appear confident means using a confident voice and posture, making eye contact, and not stammering or shrinking, even if you don't feel confident inside.",
+      "when": "Before any ask where you tend to trail off, mumble, or say \"sorry, but...\"",
+      "exercise": "Confidence rehearsal",
+      "steps": [
+        "Stand or sit up straight. Roll your shoulders back and down.",
+        "Pick one sentence you need to say this week.",
+        "Say it quietly out loud with no fillers: no \"um,\" \"just,\" \"kind of,\" or \"sorry.\"",
+        "Say it again, a little slower, with a steady voice and a firm ending (no rising tone like a question).",
+        "Picture the person's face and say it once more while holding imagined eye contact."
+      ],
+      "reflect": "Which filler word do you lean on most? Try catching it today."
+    }
+  ]
+}
