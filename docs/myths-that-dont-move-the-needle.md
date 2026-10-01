@@ -28,7 +28,7 @@ Sources: Metricool 2026 Social Media Study (~40M posts) and 2026 Instagram Study
 
 **The myth:** More posts = more reach. Flood the feed.
 
-**2026 reality:** Reach *per post* declines at high frequency. What wins is **consistency**: accounts that posted consistently (20 of 26 weeks) earned roughly +450% engagement per post vs sporadic posters (Buffer 2026). Posting daily and then vanishing loses.
+**2026 reality:** What wins is **consistency**, not volume. Buffer's study of 100K+ users found accounts that posted in 20 or more of 26 weeks earned about 5x the engagement per post of accounts that posted in 4 weeks or fewer, and the gain leveled off around week 21 (Buffer, consistent-posting study). Buffer measured weeks with a post, not posts per week, so it does **not** show that extra posts compete with each other or that reach per post falls at high frequency. Don't claim either. Posting daily and then vanishing loses.
 
 **What we do instead:** Hold the steady weekly cadence in [`content-pillars.md`](content-pillars.md). One great post beats three rushed ones. Don't confuse volume with the goal.
 

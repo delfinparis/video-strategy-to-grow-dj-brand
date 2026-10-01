@@ -107,10 +107,6 @@ plus [caption-and-hashtag-strategy.md](../docs/caption-and-hashtag-strategy.md).
 Profits: engagement-bait coaching. Turn: the ask is what suppresses the post. Evidence:
 in-repo, myths #4. Note the irony is the point: this deck earns its comments without an ask.
 
-**"Post as often as you can."**
-Profits: content-mill services selling volume. Turn: past a threshold the extra posts
-compete with each other. Evidence: in-repo, myths #3.
-
 **"Chase the follower count."**
 Profits: growth services and follower-count vanity. Turn: followers are not distribution
 anymore; the feed does not care who follows you. Evidence: in-repo, myths #5.
@@ -391,3 +387,11 @@ Rows dated before 2026-08-10 predate the video lane and are carousel-only.
 | 2026-08-21 | "Open houses are how you get buyers." (Practice) | `scripts/takes/TAKE-002-open-houses.md` | -- |
 | 2026-08-24 | "Ask for the comment." (Marketing and social) | `scripts/takes/TAKE-003-comment-below.md` | -- |
 | 2026-09-02 | "Dual agency is fine as long as you disclose it." (Practice) | `scripts/takes/TAKE-004-dual-agency-no-agency.md` | -- |
+
+---
+
+## Retired
+
+Pulled from the bank so `take_brief.py` cannot pick them. Kept here so nobody re-adds them.
+
+- "Post as often as you can." Retired 2026-10-01. The turn ("past a threshold the extra posts compete with each other") is not supported. The only receipt, Buffer's consistent-posting study, measured weeks with a post, not posts per week, and its finding (consistency beats sporadic, about 5x) is a tip every agent nods at, so it fails test 3. Revive only with a real number showing per-post reach falling at high frequency.
