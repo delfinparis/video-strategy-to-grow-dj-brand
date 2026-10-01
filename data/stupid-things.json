@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-29",
+  "updated": "2026-10-01",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -605,7 +605,9 @@
         {
           "angle": "The question that finds the thing the seller wasn't going to mention",
           "swap": "Ask the seller one question before the disclosure goes out: 'What would you want to know if you were buying this house?' Then write down whatever they pause on.",
-          "status": "open"
+          "status": "used",
+          "used_date": "2026-10-01",
+          "script": "board: https://app.notion.com/p/3ec313fa2892819c95e9fd4aa242a3ce"
         },
         {
           "angle": "A defect disclosed and priced in is a closed deal; hidden, it is a rescission or a judgment",
@@ -3505,6 +3507,12 @@
       "id": "ST-0086",
       "angle": "Reply in four minutes once and you have trained them to expect four minutes on every question after it.",
       "script": "scripts/stupid-things/STUPID-030-replying-to-client-texts-in-minutes.md"
+    },
+    {
+      "date": "2026-10-01",
+      "id": "ST-0010",
+      "angle": "The question that finds the thing the seller wasn't going to mention",
+      "script": "board: https://app.notion.com/p/3ec313fa2892819c95e9fd4aa242a3ce"
     }
   ],
   "rejected": [
