@@ -785,6 +785,11 @@
    "lane": "News",
    "ref": "news-briefs/2026-10-01.md full-story-list: Zillow antitrust lawsuit over tying claim can proceed (HousingWire, 2026-09-29)"
   },
+  "https://app.notion.com/p/3ec313fa28928160875ec4177ab388c9": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "email: Walk & Talk Options - Wed Sep 30, option 2"
+  },
   "https://app.notion.com/p/3ec313fa289281878343d4eb575cbb42": {
    "has_body": true,
    "lane": "Agent Spotlight",
@@ -800,6 +805,11 @@
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-10-01.md stat-tip (Cotality AI in Housing 2026)"
   },
+  "https://app.notion.com/p/3ec313fa2892819c95e9fd4aa242a3ce": {
+   "has_body": true,
+   "lane": "Stupid Things Realtors Do",
+   "ref": "email: Walk & Talk Options - Wed Sep 30, option 1"
+  },
   "https://app.notion.com/p/3ec313fa289281b09af5d537177fe2cd": {
    "has_body": true,
    "lane": "KIRP Episode",
@@ -814,7 +824,27 @@
    "has_body": true,
    "lane": "KIRP Episode",
    "ref": "scripts/podcast-promos/kir-2026-09-22-chris-wolfe.md"
+  },
+  "https://app.notion.com/p/3ed313fa28928162bcd4f025ccc05896": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-10-02.md full-story-list: Chicago has smallest cost gap between renting and owning (Crain's, 2026-09-30)"
+  },
+  "https://app.notion.com/p/3ed313fa289281639239e0df47d184d4": {
+   "has_body": true,
+   "lane": "Take",
+   "ref": "take-briefs/2026-09-27.md #5; sacred-cows.md Practice: You need a bigger CRM / more leads"
+  },
+  "https://app.notion.com/p/3ed313fa28928167aa18ce1ad2919aa9": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-10-02.md full-story-list: FHFA unified LLPA grid for FICO, VantageScore (HousingWire, 2026-10-01)"
+  },
+  "https://app.notion.com/p/3ed313fa28928197b9dbcf98426a8370": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "news-briefs/2026-10-02.md #2 MLS data is more valuable than ever (HousingWire, 2026-10-01)"
   }
  },
- "updated": "2026-10-01"
+ "updated": "2026-10-02"
 }
