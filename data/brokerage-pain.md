@@ -626,6 +626,9 @@ carousel on the same entry count as **one** use, not two. Rows are written by
 | 2026-09-29 | F5 | The Brand Tax | 2 | scripts/broker-problems/BP-015-a-name-clients-cant-say.md | video |
 | 2026-10-01 | E2 | Run The Math With Me | 2 | scripts/broker-problems/BP-016-nobody-prices-your-split.md | video |
 | 2026-10-02 | A3 | The Slow Leak | 2 | scripts/broker-problems/BP-017-a-login-not-a-tool.md | video |
+| 2026-10-06 | F4 | The Brand Tax | 2 | scripts/broker-problems/BP-018-a-tool-you-would-never-have-bought.md | video |
+| 2026-10-08 | B3 | The Thing That Doesn't Make Sense | 2 | scripts/broker-problems/BP-019-nobody-checks-the-pitch.md | video |
+| 2026-10-09 | A1 | The Slow Leak | 2 | scripts/broker-problems/BP-020-you-dont-know-either.md | video |
 
 ## Rejected
 
