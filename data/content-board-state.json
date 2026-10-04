@@ -864,7 +864,22 @@
    "has_body": true,
    "lane": "Take",
    "ref": "sacred-cows.md Marketing and social: \"Stack hashtags for reach.\""
+  },
+  "https://app.notion.com/p/3ef313fa2892810188a6c301739617bf": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-018-a-tool-you-would-never-have-bought.md"
+  },
+  "https://app.notion.com/p/3ef313fa2892814c96c6e0da277686f4": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-019-nobody-checks-the-pitch.md"
+  },
+  "https://app.notion.com/p/3ef313fa2892818c85bbf5120e281301": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-020-you-dont-know-either.md"
   }
  },
- "updated": "2026-10-03"
+ "updated": "2026-10-04"
 }
