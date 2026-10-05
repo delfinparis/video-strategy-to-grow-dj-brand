@@ -128,6 +128,8 @@ publish_date,script_id,surfaces_skipped,notes
 2026-08-14,REVIEW-no-match,,auto-match failed; YT 'What real estate agents should do when clients have 3% mortgage rates'; vid 2YX1_XKV_Zg; captions missing -- could not confirm classification or script match
 2026-08-15,REVIEW-no-match,,auto-match failed; YT 'The Chicago Agent Who Never Left Her Own County (And Made the Top 20 Under 40 List)'; vid xoqtvRZdruk; no spotlight script for Jamie Decker found in repo
 2026-08-15,REVIEW-no-match,,auto-match failed; YT 'The Four People a Week Math That Doubles Your Business'; vid pWb402eilYw; no matching script found in repo
+2026-09-30,STUPID-004-you-sent-the-offer-and-never-called,,auto-matched from YT [high]; vid C8IVHVZMuHM
+2026-10-01,REVIEW-no-match,,auto-match failed; YT 'The Real Reason Your Real Estate Business Isn't Growing'; vid zkJZkJkwMow; no matching repo script -- walk-and-talk topic not committed
 unknown-date,REVIEW-no-match,,auto-match failed; YT 'The AI Prompt Realtors Should Run Before Every Showing'; vid aizTXIaLa8w; AI showing-prep topic (cf. ai-agent-minute/035); captions + upload date unavailable -- YT rate-limited on 2026-08-10
 unknown-date,breakthrough-with-michael-cost-of-coaching-cta,,auto-matched from YT [high]; vid _sQxLxqIEmo; YT title matches Council Review variant 3 verbatim
 unknown-date,REVIEW-no-match,,auto-match failed; YT 'Two Branches of Government Are Deciding Who Controls Your Listings'; vid hbQZcQusIPQ; likely NF-066 (Congress + courts = two branches) or new post-Aug-5 piece; captions + upload date unavailable -- YT rate-limited on 2026-08-10
@@ -146,3 +148,5 @@ unknown-date,REVIEW-no-match,,auto-match failed; YT '24% of Agents Would Drop NA
 unknown-date,REVIEW-no-match,,auto-match failed; YT 'Stop Asking Sellers for a Price Cut. Ask for the Rate Buydown.'; vid 9q5Yh5EO17E; no matching PB or NF script for rate buydown vs price cut tactic; upload date unavailable -- YT rate-limited 2026-08-31
 unknown-date,REVIEW-no-match,,auto-match failed; YT 'What I Need to Think About It Actually Means and the One Question That Fixes It'; vid EKwfi_NyEqA; no matching script -- buyer objection psychology not found in PB/WAW/AI-tip; upload date unavailable -- YT rate-limited 2026-08-31
 unknown-date,REVIEW-no-match,,auto-match failed; YT 'no title retrieved'; vid QXiKHCV5ypk; no title or transcript -- YT 429 rate-limited; upload date unavailable -- YT rate-limited 2026-09-21
+unknown-date,REVIEW-no-match,,auto-match failed; YT 'no title retrieved'; vid PleVpLiOX3M; no title or transcript -- YT 403 unavailable; upload date unavailable -- YT 403 error 2026-10-05
+unknown-date,REVIEW-no-match,,auto-match failed; YT 'no title retrieved'; vid q4S8wj0LWak; no title or transcript -- YT 403 unavailable; upload date unavailable -- YT 403 error 2026-10-05
