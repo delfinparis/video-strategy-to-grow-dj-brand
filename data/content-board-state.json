@@ -879,7 +879,17 @@
    "has_body": true,
    "lane": "Broker Problems",
    "ref": "scripts/broker-problems/BP-020-you-dont-know-either.md"
+  },
+  "https://app.notion.com/p/3f0313fa28928107b118f112cf6f4d30": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "freddie-mac-pmms/2026-10-01 (30-year 7.28%)"
+  },
+  "https://app.notion.com/p/3f0313fa289281a284eaf70ca5c0491d": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "crmls-compass-oct6/2026-10-05 (Real Estate News 2026-09-30 + CRMLS Clear Cooperation citation policy)"
   }
  },
- "updated": "2026-10-04"
+ "updated": "2026-10-05"
 }
