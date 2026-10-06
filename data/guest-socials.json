@@ -1,4 +1,12 @@
 {
+  "bill-melnick": {
+    "instagram": "https://www.instagram.com/bill_melnick_real_estate/",
+    "tiktok": null,
+    "linkedin": null,
+    "facebook": null,
+    "youtube": null,
+    "notes": "Instagram @bill_melnick_real_estate verified two ways: D.J. Paris spells the handle letter by letter on air twice in the 2026-10-05 episode ('Bill underscore Melnik, M-E-L-N-I-C-K, underscore real, underscore estate,' 00:04:15 and again at 01:03:06), and the same handle is displayed as Bill's own on his bio page at harneyrealestate.com/agent/bill-melnick/ (fetched directly). Guest's name is spelled 'Melnick' (the episode analysis JSON printed by kirp_source.py had it as 'Melnik,' which does not match the episode title or transcript credits). Brokerage is Elyse Harney Real Estate, Litchfield County, Connecticut (kirp_source.py printed 'Elise Harnie Real Estate,' also incorrect). No personal LinkedIn, Facebook, or TikTok found on the bio page or spoken in the episode -- only a brokerage-level Facebook link exists in the bio page footer, not a personal one, so left untagged rather than mistagging the company page as his. Verified 2026-10-06."
+  },
   "frances-katzen": {
     "instagram": "https://www.instagram.com/franceskatzen/",
     "tiktok": null,
