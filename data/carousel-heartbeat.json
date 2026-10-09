@@ -1,7 +1,12 @@
 {
-  "date": "2026-10-08",
-  "status": "ok",
+  "date": "2026-10-09",
+  "status": "failed",
   "checked": {"repo": true, "drive": true},
-  "missing": [],
-  "note": "All six items present and correct in both repo and Drive: 2 KIRP decks and 2 KR decks with 5 slides each, plus the GBP image/caption pair."
+  "missing": [
+    "graphics/gbp/image/2026-10-09-chicago-price-inventory-gap-fact.png: in repo, missing from Drive",
+    "graphics/gbp/image/2026-10-09-unlock-mls-compass-recruiting.png: in repo, missing from Drive",
+    "graphics/gbp/caption/2026-10-09-chicago-price-inventory-gap-fact.txt: in repo, missing from Drive",
+    "graphics/gbp/caption/2026-10-09-unlock-mls-compass-recruiting.txt: in repo, missing from Drive"
+  ],
+  "note": "Both KIRP decks and both KR decks are complete in repo and Drive with 5 slides each, but both GBP images and both GBP captions never reached the gbp/image and gbp/caption Drive folders despite being committed to the repo."
 }
