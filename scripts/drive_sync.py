@@ -38,6 +38,7 @@ Usage:
     python3 scripts/drive_sync.py --all
 """
 
+import hashlib
 import json
 import mimetypes
 import os
@@ -71,6 +72,11 @@ KR_PREFIX = "KR-"
 # Zips are gitignored, so they never reach CI. Everything else in a deck folder
 # is something Jennica or LinkedIn needs.
 UPLOAD_EXT = {".png", ".pdf", ".txt"}
+
+# Drive throws the odd 500 "Internal Error" and 429 under load. On 2026-10-09 a
+# single 500 killed the run partway through GBP and today's cards never landed.
+# googleapiclient retries 5xx/429 with exponential backoff when asked to.
+RETRIES = 5
 
 
 def drive_client():
@@ -115,6 +121,11 @@ def drive_client():
 
 
 def find_child(svc, parent_id, name, folder=False):
+    found = find_child_meta(svc, parent_id, name, folder)
+    return found["id"] if found else None
+
+
+def find_child_meta(svc, parent_id, name, folder=False):
     q = [
         f"'{parent_id}' in parents",
         f"name = '{name.replace(chr(39), chr(92) + chr(39))}'",
@@ -126,15 +137,15 @@ def find_child(svc, parent_id, name, folder=False):
         svc.files()
         .list(
             q=" and ".join(q),
-            fields="files(id, name)",
+            fields="files(id, name, md5Checksum)",
             pageSize=1,
             supportsAllDrives=True,
             includeItemsFromAllDrives=True,
         )
-        .execute()
+        .execute(num_retries=RETRIES)
     )
     files = res.get("files", [])
-    return files[0]["id"] if files else None
+    return files[0] if files else None
 
 
 def ensure_folder(svc, parent_id, name):
@@ -146,7 +157,7 @@ def ensure_folder(svc, parent_id, name):
         "mimeType": "application/vnd.google-apps.folder",
         "parents": [parent_id],
     }
-    return svc.files().create(body=meta, fields="id", supportsAllDrives=True).execute()["id"]
+    return svc.files().create(body=meta, fields="id", supportsAllDrives=True).execute(num_retries=RETRIES)["id"]
 
 
 def upload(svc, folder_id, path):
@@ -164,12 +175,18 @@ def upload(svc, folder_id, path):
     """
     name = os.path.basename(path)
     mime = mimetypes.guess_type(path)[0] or "application/octet-stream"
+    existing_meta = find_child_meta(svc, folder_id, name)
+    existing = existing_meta["id"] if existing_meta else None
+    # graphics/gbp is synced whole, so without this every past card is
+    # re-uploaded every day: 200+ files, oldest first, today's last. That is
+    # how one Drive 500 on 2026-10-09 rewrote August captions and skipped today.
+    if existing_meta and existing_meta.get("md5Checksum") == md5(path):
+        return "unchanged"
     media = MediaFileUpload(path, mimetype=mime, resumable=False)
-    existing = find_child(svc, folder_id, name)
     if existing:
         svc.files().update(
             fileId=existing, media_body=media, fields="id", supportsAllDrives=True
-        ).execute()
+        ).execute(num_retries=RETRIES)
         outcome, file_id = "updated", existing
     else:
         file_id = svc.files().create(
@@ -177,13 +194,13 @@ def upload(svc, folder_id, path):
             media_body=media,
             fields="id",
             supportsAllDrives=True,
-        ).execute()["id"]
+        ).execute(num_retries=RETRIES)["id"]
         outcome = "created"
 
     landed = (
         svc.files()
         .get(fileId=file_id, fields="parents", supportsAllDrives=True)
-        .execute()
+        .execute(num_retries=RETRIES)
         .get("parents")
         or []
     )
@@ -197,6 +214,11 @@ def upload(svc, folder_id, path):
     return outcome
 
 
+def md5(path):
+    with open(path, "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()
+
+
 def check_parent(svc, parent_id):
     """Confirm the service account can actually see the target folder.
 
@@ -205,7 +227,7 @@ def check_parent(svc, parent_id):
     a wrong folder id. Say which it is.
     """
     try:
-        f = svc.files().get(fileId=parent_id, fields="id, name", supportsAllDrives=True).execute()
+        f = svc.files().get(fileId=parent_id, fields="id, name", supportsAllDrives=True).execute(num_retries=RETRIES)
         print(f"Target folder: {f['name']}")
     except Exception as e:
         sys.exit(
@@ -233,10 +255,13 @@ def sync_dir(svc, parent_id, src_dir, nest=True):
         print(f"  {slug}: nothing to upload")
         return
     folder_id = ensure_folder(svc, parent_id, slug) if nest else parent_id
-    counts = {"created": 0, "updated": 0}
+    counts = {"created": 0, "updated": 0, "unchanged": 0}
     for path in files:
         counts[upload(svc, folder_id, path)] += 1
-    print(f"  {slug}: {counts['created']} new, {counts['updated']} updated")
+    print(
+        f"  {slug}: {counts['created']} new, {counts['updated']} updated, "
+        f"{counts['unchanged']} unchanged"
+    )
 
 
 def is_gbp(path):
@@ -337,7 +362,7 @@ def kirp_folder(svc, kr_id):
     parents = (
         svc.files()
         .get(fileId=kr_id, fields="parents", supportsAllDrives=True)
-        .execute()
+        .execute(num_retries=RETRIES)
         .get("parents")
         or ["root"]
     )
