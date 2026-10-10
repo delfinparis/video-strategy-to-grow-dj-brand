@@ -914,7 +914,22 @@
    "has_body": true,
    "lane": "News",
    "ref": "news-briefs/2026-10-09.md #4 (Freddie Mac PMMS 2026-10-08, 30-year 7.40%)"
+  },
+  "https://app.notion.com/p/3f5313fa289281678323e5007b3aefc5": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "umich-surveys-of-consumers/2026-10-09 (October 2026 preliminary, ICS 46.3, one-year inflation expectations 4.7%)"
+  },
+  "https://app.notion.com/p/3f5313fa2892816db047f2938f5141f1": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "nar-2026-realtors-technology-report/2026-09-22 (75% of AI users write listing descriptions)"
+  },
+  "https://app.notion.com/p/3f5313fa289281bf95c0ca9b999f850f": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "nar-2026-realtors-technology-report/2026-09-22 (52% of AI users draft emails and follow-ups)"
   }
  },
- "updated": "2026-10-09"
+ "updated": "2026-10-10"
 }
