@@ -929,7 +929,22 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "nar-2026-realtors-technology-report/2026-09-22 (52% of AI users draft emails and follow-ups)"
+  },
+  "https://app.notion.com/p/3f6313fa289281149e66fb0232f73452": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-022-you-called-nobody.md"
+  },
+  "https://app.notion.com/p/3f6313fa2892817780d0ef02433f4cba": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-023-you-leave-they-stay.md"
+  },
+  "https://app.notion.com/p/3f6313fa28928190826cc3c03890b08f": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-021-who-those-ads-are-for.md"
   }
  },
- "updated": "2026-10-10"
+ "updated": "2026-10-11"
 }
