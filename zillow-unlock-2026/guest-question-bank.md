@@ -185,14 +185,14 @@ Every guest on the target list is still on the live Unlock agenda (pulled Oct 11
    *Anchored on: the session promises the exact words for that line [1].*
 2. ★ Zillow says serious shoppers are up 21%, but sales are up only 4.5%. Why aren't they buying?
    *Anchored on: Zillow's Sept 24, 2026 release, Q2 engaged shoppers +21% vs. sales +4.5% [13].*
-3. ★ Zillow counts 5.7 serious shoppers per Chicago listing. What should a Chicago buyer do differently?
-   *Anchored on: Chicago 5.7 per listing vs. 4.8 nationally [13].*
-4. You said the right conditions could "open the floodgates." What should agents do before that happens?
-   *Anchored on: her quote in the Sept 24 release [13].*
-5. How should an agent explain rent versus buy in under a minute?
-   *Anchored on: the session's rent-vs-buy reframe "in real time" [1].*
-6. What's one number an agent should show a nervous buyer?
+3. ★ What's one number an agent should show a nervous buyer?
    *Anchored on: the session promises "something concrete to point to" [1].*
+4. Zillow counts 5.7 serious shoppers per Chicago listing. What should a Chicago buyer do differently?
+   *Anchored on: Chicago 5.7 per listing vs. 4.8 nationally [13].*
+5. You said the right conditions could "open the floodgates." What should agents do before that happens?
+   *Anchored on: her quote in the Sept 24 release [13].*
+6. How should an agent explain rent versus buy in under a minute?
+   *Anchored on: the session's rent-vs-buy reframe "in real time" [1].*
 7. Luxury homes draw far more shoppers than starter homes. What does that mean for first-time buyers?
    *Anchored on: K-shaped demand, 8 engaged shoppers per luxury listing vs. 2.7 for bottom-tier homes [13].*
 8. Your report says buyers should be ready to act fast. What does "ready" mean right now?
@@ -381,14 +381,14 @@ Every guest on the target list is still on the live Unlock agenda (pulled Oct 11
    *Anchored on: his Hub talk, "AI gives them a name" [1].*
 2. ★ What's one thing an agent can do today to show up in AI search?
    *Anchored on: his talk promises "exactly what to do today" [1].*
-3. ★ Of the seven signals AI looks at, which one do most agents miss?
-   *Anchored on: his talk on "the seven signals that determine your AI visibility" [1].*
-4. What is a second brain, in plain words?
-   *Anchored on: his Lazuli 3 session title [1].*
-5. What should an agent put in their second brain first?
-   *Anchored on: his system covers "every email, every meeting, every client interaction" [1].*
-6. You tell agents to have AI ask them 25 questions first. Why does that work?
+3. ★ You tell agents to have AI ask them 25 questions first. Why does that work?
    *Anchored on: his signature prompt tactic [28].*
+4. Of the seven signals AI looks at, which one do most agents miss?
+   *Anchored on: his talk on "the seven signals that determine your AI visibility" [1].*
+5. What is a second brain, in plain words?
+   *Anchored on: his Lazuli 3 session title [1].*
+6. What should an agent put in their second brain first?
+   *Anchored on: his system covers "every email, every meeting, every client interaction" [1].*
 7. You've said AI should save you time or sell you more homes. Which should a new agent start with?
    *Anchored on: his Inman Connect message [27].*
 8. What's the biggest mistake agents make when they use ChatGPT?
@@ -406,16 +406,16 @@ Every guest on the target list is still on the live Unlock agenda (pulled Oct 11
 
 1. ★ Your team did over 1,200 sides last year. What happens first after a listing signs?
    *Anchored on: RealTrends Verified 2025 [32] and the panel premise [1].*
-2. ★ What's one thing your agents do on every single listing?
-   *Anchored on: the panel on "every listing they get" [1].*
-3. ★ What's a simple system a solo agent can copy from a big team?
+2. ★ What's a simple system a solo agent can copy from a big team?
    *Anchored on: her channel's mission of "simple systems, strong marketing, and the habits that actually move the needle" [34].*
-4. What listing marketing move are you using now that you weren't a year ago?
-   *Anchored on: the panel promises "which marketing moves are actually driving results right now" [1].*
-5. What's one habit that actually moves the needle for an agent?
-   *Anchored on: the same mission line [34].*
-6. How does your team make the first weekend of a listing count?
+3. ★ How does your team make the first weekend of a listing count?
    *Anchored on: the panel on driving urgency and demand [1].*
+4. What's one thing your agents do on every single listing?
+   *Anchored on: the panel on "every listing they get" [1].*
+5. What listing marketing move are you using now that you weren't a year ago?
+   *Anchored on: the panel promises "which marketing moves are actually driving results right now" [1].*
+6. What's one habit that actually moves the needle for an agent?
+   *Anchored on: the same mission line [34].*
 7. How do you keep a seller calm when there are no offers after two weeks?
    *Anchored on: the panel on top-dollar listing strategy [1].*
 8. You hire seasoned listing agents. What skill do you look for first?
