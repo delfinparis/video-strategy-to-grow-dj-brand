@@ -944,7 +944,17 @@
    "has_body": true,
    "lane": "Broker Problems",
    "ref": "scripts/broker-problems/BP-021-who-those-ads-are-for.md"
+  },
+  "https://app.notion.com/p/3f8313fa28928126af83dc0ea5135b75": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "nar-newsroom/2026-10-12 (altered listing photos: 11% of 40,000 flagged, >90% undisclosed, CA AB 723)"
+  },
+  "https://app.notion.com/p/3f8313fa289281c6935df3ff04831f56": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "mba-forecast/2026-10-11 (2027 originations $1.99T, 30-yr above 7% through 2027, two Fed hikes)"
   }
  },
- "updated": "2026-10-12"
+ "updated": "2026-10-13"
 }
