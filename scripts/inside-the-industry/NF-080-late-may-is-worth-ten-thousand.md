@@ -126,3 +126,7 @@ The planning starts this winter.
 - Retention move (MrBeast): The turn at 0:13 ('sellers don't pick an agent in May') is the re-hook. The ending is abrupt and actionable.
 
 **The dissent (your next A/B test):** GaryVee says it is October and the hook should name it: 'It's October. Your May listings are being decided.' Miller wants the money first. **Experiment:** post variant A now. Post a re-cut opening on 'It's January' in January and compare.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+No changes. Passed the cold-read, one-idea-per-sentence, grade-5 and AI-tells checks after the council round. Council dissents left as A/B tests, not applied. Word count and beat clock re-verified by script.

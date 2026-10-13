@@ -129,3 +129,7 @@ They are waiting. Agents, call them.
 - Retention move (MrBeast): Five short sentences in THE POINT. The pace is fast. Do not let 'Serious means...' drag.
 
 **The dissent (your next A/B test):** Byron wants the early-winter headline in the hook ('Zillow says winter came early. Not in Chicago.'). Heath warns that means two numbers and two ideas. **Experiment:** if posted within a week of the Nov 5 October report, re-cut the hook on that report's headline and test it against this one.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+No changes. Passed the cold-read, one-idea-per-sentence, grade-5 and AI-tells checks after the council round. Council dissents left as A/B tests, not applied. Word count and beat clock re-verified by script.

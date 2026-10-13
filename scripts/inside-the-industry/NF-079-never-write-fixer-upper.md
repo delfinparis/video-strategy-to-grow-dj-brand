@@ -13,9 +13,9 @@ lane: "News"
 gated: false
 post_date: "TBD"
 status: "draft"
-word_count: 63
-shareable_moment: "Say what it needs instead. Old kitchen. Original windows."
-loop_back: "Opens on 'Never write fixer-upper,' closes on 'Delete it, and write what it needs.'"
+word_count: 64
+shareable_moment: "Write what it needs, like new windows or a kitchen update."
+loop_back: "Opens on 'Never write fixer-upper,' closes on 'Take it out.'"
 friction_direction_check: "Outward at a word choice. Correlation caveat lives in Data Source and captions."
 editorial_note: "Part of the 2026-10-13 Zillow data batch (NF-074 to NF-083). 'Newest survey' = the 2025 Consumer Housing Trends Report (Oct 29, 2025); Zillow has published no 2026 consumer edition as of 2026-10-13. Zillow is the source, never the target. Independent-broker credibility rule applies: these were picked because they help agents, not because Zillow amplifies. This is a correlation. Homes called fixer-uppers often do need work. Zillow measures 'than expected' (relative to comparable homes), which is the closest thing to a fair test. The script says 'tied to' in captions, never 'causes.'"
 ---
@@ -28,7 +28,7 @@ editorial_note: "Part of the 2026-10-13 Zillow data batch (NF-074 to NF-083). 'N
 **Filming:** Walk and talk. Visual open: Gesture-On-Beat (Sharp finger wag or 'X' with the free hand on 'Never.')
 
 ## Shareable Moment
-> "Say what it needs instead. Old kitchen. Original windows."
+> "Write what it needs, like new windows or a kitchen update."
 
 ## Script (30 seconds, walk and talk)
 
@@ -39,12 +39,12 @@ Never write fixer-upper in a listing.
 Homes described that way sold for fourteen percent less than expected.
 
 ### THE POINT (0:06.5-0:21.5)
-Zillow studied over two million listings from 2025. Turnkey and remodeled sold for more. Fixer-upper tells buyers to bring a lowball. Say what it needs instead. Old kitchen. Original windows.
+Zillow studied over two million listings from 2025. Turnkey and remodeled sold for more. Fixer-upper tells buyers to bring a lowball. Write what it needs, like new windows or a kitchen update.
 
 ### PAYOFF (0:21.5-0:30)
-Check every active listing today. Find the word fixer-upper. Delete it, and write what it needs.
+Check every one of your active listings today. Find the word fixer-upper. Take it out.
 
-**Duration:** 30 seconds | **Word Count:** 63 spoken words (HOOK 6 / TENSION 11 / THE POINT 30 / PAYOFF 16)
+**Duration:** 30 seconds | **Word Count:** 64 spoken words (HOOK 6 / TENSION 11 / THE POINT 32 / PAYOFF 15)
 
 ## Data Source
 
@@ -92,7 +92,7 @@ Never write fixer-upper in a listing.
 
 Zillow's 2026 study of 2M+ listings: fixer-uppers sold for 14% less than expected. Turnkey and remodeled sold for more.
 
-Say what it needs instead. Old kitchen. Original windows.
+Write what it needs instead, like new windows or a kitchen update.
 
 **Hashtags:** #realestate #realtor #listingagent #realestatemarketing #insidetheindustry
 
@@ -128,6 +128,10 @@ Agents, describe the work. Skip the label.
 **Why it should work:**
 - Hook mechanism (Heath): Concrete and checkable. The viewer can open their own listing right now. Variant 2 hides the word, which opens a stronger loop, but the payoff still has to name it fast.
 - Share/save driver (Berger/Hormozi): Social currency: agents love a 'banned word' list. Retell test passes: 'Zillow says fixer-upper costs 14%.' (Correlation caveat is in the captions.)
-- Retention move (MrBeast): Ending with 'Old kitchen. Original windows.' gives the ear concrete examples. Keep the pace up.
+- Retention move (MrBeast): 'New windows or a kitchen update' gives the ear concrete examples. The three-step close keeps the pace up.
 
 **The dissent (your next A/B test):** Heath objects that 'tied to' vs 'causes' gets flattened on retell: the retold version claims the word itself costs 14%. Kane wants variant 2 anyway for reach. **Experiment:** run variant 2. If comments start arguing cause vs. correlation, pin the caveat and count it as engagement.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+**Changed.** Removed dropped-noun fragments ('Old kitchen. Original windows.'), which the Rule 5 comprehension rule bans, and the repeated 'write what it needs' in the close. Word count and beat clock re-verified by script.

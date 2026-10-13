@@ -123,3 +123,7 @@ Agents, put the price on page one.
 - Retention move (MrBeast): Short punchy sentences in THE POINT hold the pace. The 'Your bio can wait' callback is a clean, abrupt end.
 
 **The dissent (your next A/B test):** Chris Do argues trust has to come before the number, which is why bios exist. Miller sides with the script: the seller is the hero, and the bio makes the agent the hero. **Experiment:** re-cut the close as 'Earn trust with the number, not the résumé' and A/B saves.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+No changes. Passed the cold-read, one-idea-per-sentence, grade-5 and AI-tells checks after the council round. Council dissents left as A/B tests, not applied. Word count and beat clock re-verified by script.

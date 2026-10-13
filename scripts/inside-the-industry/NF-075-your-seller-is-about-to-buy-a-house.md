@@ -126,3 +126,7 @@ Agents, ask every seller where they are moving next.
 - Retention move (MrBeast): Two numbers in a row in THE POINT is the danger zone. 'So that second deal is usually yours' is the re-hook that saves it.
 
 **The dissent (your next A/B test):** Eric Simon thinks 'your seller is about to buy a house' is too obvious to an experienced agent and wants the inside joke ('you sold their house and their cousin sold them the next one'). That would be a fabricated scene, so it is not allowed. **Experiment:** run variant 2 against this hook with agents who have been licensed 5+ years.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+No changes. Passed the cold-read, one-idea-per-sentence, grade-5 and AI-tells checks after the council round. Council dissents left as A/B tests, not applied. Word count and beat clock re-verified by script.

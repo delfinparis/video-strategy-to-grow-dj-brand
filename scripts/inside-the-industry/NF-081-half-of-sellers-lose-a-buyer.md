@@ -126,3 +126,7 @@ It is common. A good agent warns you early and has a backup plan.
 - Retention move (MrBeast): 'Stay quiet, and it's your fault' is the sting at 0:19. Then a spoken line the agent can copy.
 
 **The dissent (your next A/B test):** Chris Do thinks 'it's your fault' points at the agent and breaks Rule 9.4. Hormozi says it names the cost and lands. Ruling: it describes what the seller thinks, not a verdict on the viewer, so it stays. **Experiment:** if comments read it as an accusation, re-cut to 'Stay quiet, and they blame you.'
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+No changes. Passed the cold-read, one-idea-per-sentence, grade-5 and AI-tells checks after the council round. Council dissents left as A/B tests, not applied. Word count and beat clock re-verified by script.

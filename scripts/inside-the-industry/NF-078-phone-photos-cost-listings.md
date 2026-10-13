@@ -123,3 +123,7 @@ Agents, bring real examples to every listing appointment.
 - Retention move (MrBeast): The pay-off is a physical action. Good. Watch the two back-to-back percentages around 0:08-0:14. Say them fast.
 
 **The dissent (your next A/B test):** Welsh flags that pro photos cost money and newer agents will feel lectured. Hormozi says that is the point: it is the cheapest listing-win there is. **Experiment:** test a variant that names the cost honestly ('A few hundred dollars. That's the whole gap.') once a sourced local price exists. Do not ship it until then.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+No changes. Passed the cold-read, one-idea-per-sentence, grade-5 and AI-tells checks after the council round. Council dissents left as A/B tests, not applied. Word count and beat clock re-verified by script.

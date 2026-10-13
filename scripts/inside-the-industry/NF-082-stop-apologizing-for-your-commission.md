@@ -129,3 +129,7 @@ Agents, say your fee once and say what you do for it.
 - Retention move (MrBeast): The two percentages are back to back. Say them fast. The re-hook is 'The apology is what makes them doubt it' at 0:18.
 
 **The dissent (your next A/B test):** Byron wants the post-settlement context ('even after NAR'). Miller says one idea only. **Experiment:** test variant 2 as the opener. A number-first hook may out-reach the command.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+No changes. Passed the cold-read, one-idea-per-sentence, grade-5 and AI-tells checks after the council round. Council dissents left as A/B tests, not applied. Word count and beat clock re-verified by script.

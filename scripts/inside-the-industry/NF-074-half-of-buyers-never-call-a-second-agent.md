@@ -13,9 +13,9 @@ lane: "News"
 gated: false
 post_date: "TBD"
 status: "draft"
-word_count: 65
-shareable_moment: "That first talk is the interview."
-loop_back: "Opens on 'a second agent,' closes on 'Second place never gets a shot.'"
+word_count: 64
+shareable_moment: "That first call is the interview."
+loop_back: "Opens on 'a second agent,' closes on 'Don't wait for round two.'"
 friction_direction_check: "Outward at a practice: treating the first contact as small talk and sending a link. Viewer is handed the fix."
 editorial_note: "Part of the 2026-10-13 Zillow data batch (NF-074 to NF-083). 'Newest survey' = the 2025 Consumer Housing Trends Report (Oct 29, 2025); Zillow has published no 2026 consumer edition as of 2026-10-13. Zillow is the source, never the target. Independent-broker credibility rule applies: these were picked because they help agents, not because Zillow amplifies. Supersedes the 78% 'hire the first agent who responds' figure in NF-050 (older, non-Zillow source). If NF-050 is reposted, use 50%."
 ---
@@ -28,7 +28,7 @@ editorial_note: "Part of the 2026-10-13 Zillow data batch (NF-074 to NF-083). 'N
 **Filming:** Walk and talk. Visual open: The Push-In (Start at arm's length, pull the phone in on "Half.")
 
 ## Shareable Moment
-> "That first talk is the interview."
+> "That first call is the interview."
 
 ## Script (30 seconds, walk and talk)
 
@@ -39,12 +39,12 @@ Half of buyers never call a second agent.
 That's Zillow's newest buyer survey. Second place loses half the time.
 
 ### THE POINT (0:06.5-0:21.5)
-Most agents treat that first talk like small talk. They send a link and wait. But four in ten buyers hire after one conversation. That first talk is the interview.
+Most agents treat the first call like a warm-up. They send a link and wait. But four in ten buyers hire after one conversation. That first call is the interview.
 
 ### PAYOFF (0:21.5-0:30)
-Answer fast. Ask for the meeting on that first call. Second place never gets a shot.
+Answer fast. Ask for the meeting on that first call. Don't wait for round two.
 
-**Duration:** 30 seconds | **Word Count:** 65 spoken words (HOOK 8 / TENSION 11 / THE POINT 30 / PAYOFF 16)
+**Duration:** 30 seconds | **Word Count:** 64 spoken words (HOOK 8 / TENSION 11 / THE POINT 30 / PAYOFF 15)
 
 ## Data Source
 
@@ -60,7 +60,7 @@ Answer fast. Ask for the meeting on that first call. Second place never gets a s
 
 ## AI Music Prompt
 
-**Vibe:** Quick and urgent, a clock-is-running feel. NF big-number energy, small lift under 'That first talk is the interview.'
+**Vibe:** Quick and urgent, a clock-is-running feel. NF big-number energy, small lift under 'That first call is the interview.'
 
 **CapCut AI Music:**
 > Instrumental news underscore, urgent but controlled, 102 BPM, ticking hi-hat, muted piano stabs, pulsing synth bass, no vocals, no melodic hook, no risers, starts at full energy, subtle lift at halfway, bed for voiceover, loopable, 30s
@@ -125,8 +125,12 @@ Half of buyers never call a second agent. That is Zillow's 2025 buyer survey.
 **Pattern interrupt:** Push-In confirmed: the move lands on the number. For variant 3, switch to Gesture-On-Beat (palm to camera on 'Stop').
 
 **Why it should work:**
-- Hook mechanism (Heath): The surprise is that the hiring decision is already made on contact one. Most agents think the first call is round one of three. 'Small talk' and 'interview' are plain words with no jargon.
+- Hook mechanism (Heath): The surprise is that the hiring decision is already made on contact one. Most agents think the first call is round one of three. 'Warm-up' and 'interview' are plain words with no jargon.
 - Share/save driver (Berger/Hormozi): Practical value plus anxiety, which is high arousal. An agent sends this to the teammate who sits on leads. It passes the retell test: 'Zillow says half of buyers hire the first agent they talk to.'
-- Retention move (MrBeast): The turn lands at about 0:12, 'four in ten hire after one conversation.' The close echoes 'second' from the hook.
+- Retention move (MrBeast): The turn lands at about 0:12, 'four in ten hire after one conversation.' The close ('Don't wait for round two') answers the hook's 'second agent.'
 
 **The dissent (your next A/B test):** Hormozi wants the payoff to hand over the actual words for asking for the meeting. Miller says that is a second idea and a second video. **Experiment:** film a follow-up Swap script ('Don't say let me send you some listings. Say this.') and see whether the pair beats this one on saves.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+**Changed.** Fixed a contradiction: TENSION said second place 'loses half the time' while PAYOFF said it 'never gets a shot.' New close: 'Don't wait for round two.' (Hormozi's dissent, partly applied). Cut the 'first talk like small talk' wordplay. Word count and beat clock re-verified by script.

@@ -129,3 +129,7 @@ Agents, ask on day one how they want to hear from you.
 - Retention move (MrBeast): 'About three in four' is a short, punchy re-hook at about 0:14. The close is an action, not a moral.
 
 **The dissent (your next A/B test):** Byron Lazine says old-school coaches will fight this in the comments ('the phone is where deals happen'), and that is reach. Chris Do worries the comment fight will drown the tip. **Experiment:** pin a first comment that adds 'calls still win for bad news and offers.' Track whether replies stay on topic.
+
+## EP Polish, Second Pass (after council, 2026-10-13)
+
+No changes. Passed the cold-read, one-idea-per-sentence, grade-5 and AI-tells checks after the council round. Council dissents left as A/B tests, not applied. Word count and beat clock re-verified by script.
