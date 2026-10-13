@@ -51,8 +51,8 @@ So answer fast and tell the truth. That beats any logo on your sign.
 - **Claim:** "Seventy-eight percent said a responsive first impression was very important. Same number for trustworthy."
   - Source: Zillow Group, "Consumer Housing Trends Report for Agents 2025," published 2025-10-29 (buyers: ~10,200 surveyed Apr-Sep 2025; sellers: 7,400+ surveyed Apr-Aug 2025). PDF: https://www.zillowstatic.com/bedrock/app/uploads/sites/60/2025/10/Consumer-Housing-Trends-Report-for-Agents-2025_102925.pdf Seller agent-characteristics table, 2025 column, very/extremely important: 'Initial impression of agent or broker: responsive 78%'; trustworthy 78%. Text: 'Trustworthy and responsive (initial impression of agent) consistently rank as the most important characteristics.'
   - Status: confirmed.
-- **Claim:** "A brokerage name they recognize? Fifty-two percent."
-  - Source: Zillow Group, "Consumer Housing Trends Report for Agents 2025," published 2025-10-29 (buyers: ~10,200 surveyed Apr-Sep 2025; sellers: 7,400+ surveyed Apr-Aug 2025). PDF: https://www.zillowstatic.com/bedrock/app/uploads/sites/60/2025/10/Consumer-Housing-Trends-Report-for-Agents-2025_102925.pdf Same table: 'Was part of a recognizable brokerage' 2025: 52% (63% in 2023).
+- **Claim:** "Only fifty-two percent said that about a big brokerage name."
+  - Source: Zillow Group, "Consumer Housing Trends Report for Agents 2025," published 2025-10-29 (buyers: ~10,200 surveyed Apr-Sep 2025; sellers: 7,400+ surveyed Apr-Aug 2025). PDF: https://www.zillowstatic.com/bedrock/app/uploads/sites/60/2025/10/Consumer-Housing-Trends-Report-for-Agents-2025_102925.pdf Same table: 'Was part of a recognizable brokerage' 2025: 52% (63% in 2023). 'Big brokerage name' is the spoken plain-language form of 'recognizable brokerage.'
   - Status: confirmed.
 - **Claim:** "The logo isn't winning the listing."
   - Source: Editorial framing.
@@ -123,7 +123,7 @@ Agents, answer fast.
 **Why it should work:**
 - Hook mechanism (Heath): Agents who pay a brand premium feel the Huh most. Clear Aha: a 26-point gap. Curse of Knowledge check: '52% rated it very important' is not '52% don't care.' The script says 'only fifty-two percent,' not 'nobody cares,' which keeps it accurate.
 - Share/save driver (Berger/Hormozi): Social currency and mild anger at a cost agents pay. This is the most recruiting-adjacent script in the batch, and it never pitches.
-- Retention move (MrBeast): Two questions build into the number. Short. The close is a two-verb action.
+- Retention move (MrBeast): Two 78s, then the 52, a falling count the ear can follow. Short. The close is a two-verb action.
 
 **The dissent (your next A/B test):** Chris Do says '52%' still means half of sellers care, so the honest read is 'brand helps some, speed helps everyone.' Byron says that's a hedge. **Experiment:** if comments push back with 'half still care,' reply with that exact line and track reply sentiment. Don't re-cut.
 
