@@ -123,8 +123,19 @@ def parse_frontmatter(text):
     return meta, rest
 
 
+ITEM_MARKER = re.compile(r"^(\d+[.)]|[-*])\s")
+
+
 def parse_labeled(content):
-    """The standard format: '**Headline:**' and friends label each field."""
+    """The standard format: '**Headline:**' and friends label each field.
+
+    A numbered/bulleted item that wraps across physical lines in the source
+    markdown (for readability) must stay one item: only a line that opens a
+    new marker ('1. ', '- ', etc.) starts a new entry in fields["items"].
+    Anything else is a continuation of the previous item and gets appended
+    to it, never pushed as its own entry -- otherwise the wrapped remainder
+    renders as an orphaned, unnumbered line at the bottom of the slide.
+    """
     fields = {}
     current = None
     for raw in content.splitlines():
@@ -138,7 +149,16 @@ def parse_labeled(content):
         if current is None:
             continue
         line = clean_line(raw)
-        if line:
+        if not line:
+            continue
+        if (
+            current == "items"
+            and fields[current]
+            and raw[:1].isspace()
+            and not ITEM_MARKER.match(raw.strip())
+        ):
+            fields[current][-1] += " " + line
+        else:
             fields[current].append(line)
     return fields
 
@@ -149,6 +169,12 @@ def parse_freeform(content):
     First line is the headline, bullets become the list, everything else is the
     supporting copy. '(small: X)' is copy; '(tag: X)' and bare parentheticals are
     production notes and never reach a slide.
+
+    A bulleted/numbered item that wraps across physical lines in the source
+    markdown (indented, no marker of its own) is a continuation of the item
+    above it, not a new line of supporting copy -- otherwise the wrapped
+    remainder renders as an orphaned, unnumbered paragraph at the bottom of
+    the slide instead of finishing the item it belongs to.
     """
     fields = {"headline": [], "sub": [], "items": []}
     for raw in content.splitlines():
@@ -164,13 +190,15 @@ def parse_freeform(content):
         if line.startswith(("- ", "* ")) or re.match(r"^\d+[.)]\s", line):
             fields["items"].append(clean_line(line[2:] if line[1] == " " else line))
             continue
-        line = clean_line(line)
-        if not line:
+        cleaned = clean_line(line)
+        if not cleaned:
             continue
-        if not fields["headline"] and not fields["items"]:
-            fields["headline"].append(line)
+        if fields["items"] and raw[:1].isspace():
+            fields["items"][-1] += " " + cleaned
+        elif not fields["headline"] and not fields["items"]:
+            fields["headline"].append(cleaned)
         else:
-            fields["sub"].append(line)
+            fields["sub"].append(cleaned)
     return fields
 
 
