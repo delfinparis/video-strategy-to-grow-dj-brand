@@ -32,8 +32,8 @@ Production notes for filming both video series.
 - **Length:** ~30 seconds (28-35s band, 68-84 spoken words, universal Rule 7)
 - **Structure:** Hook (3s) > Setup (9s) > Insight (26s) > Reframe (12s) > CTA (10s)
 - **Guest reference:** Always name the guest and their credibility signal
-- **Visuals:** Guest headshot on screen during mention, B-roll as noted in per-script production notes
-- **Each script has detailed production notes** in the script file (camera angles, B-roll suggestions, text overlays)
+- **Visuals:** Guest headshot on screen during mention, B-roll as noted in the script's `## Production Notes` section
+- **Production notes live in their own section after the script** (camera angles, B-roll suggestions), never between spoken lines. Read from the `## Teleprompter` block (2026-10-13)
 
 ---
 

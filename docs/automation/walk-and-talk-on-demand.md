@@ -51,8 +51,10 @@ When D.J. says **"walk and talk"** (optionally with a number), Claude:
 3. D.J. picks a number (or said it up front, e.g. "walk and talk 2").
 4. Claude builds the chosen option through the standard walk-and-talk
    workflow -- draft -> stress test -> EP polish -> **council review** -- and
-   delivers ONLY the final v3 script (with its `## AI Music Prompt` and
-   `## Council Review` blocks), inline. The stress test runs the **Story Pass**
+   delivers ONLY the final v3 script (with its `## Teleprompter`,
+   `## AI Music Prompt` and `## Council Review` blocks), inline. Spoken words
+   only under each beat, no production notes between them; the Teleprompter
+   block comes from `python3 scripts/teleprompter.py` (CLAUDE.md, 2026-10-13). The stress test runs the **Story Pass**
    first (see below); the council review is the final pass
    ([`../short-form-council-pass.md`](../short-form-council-pass.md)) and runs
    automatically on every pick -- D.J. never has to ask for it.

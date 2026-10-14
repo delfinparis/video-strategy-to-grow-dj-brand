@@ -344,17 +344,22 @@ The body is, in order:
 
 1. A callout line carrying `hook_family`, `pattern_interrupt`, `story_format`,
    and target length. (Notion has no frontmatter; this is the frontmatter.)
-2. `## Script` — `### HOOK (0:00-0:03)`, `### STORY`, `### PAYOFF`, each with
-   its production note. The HOOK opens with the standalone **spoken**
-   scroll-stop line, per CLAUDE.md. Never a manual text overlay.
-3. `## Data Source` — every claim with a named source, a date, and a URL. This
+2. `## Teleprompter` — the spoken lines only, one paragraph per beat, nothing
+   else, so D.J. can paste it straight into a teleprompter (2026-10-13). Build
+   it with `python3 scripts/teleprompter.py` from the script, never by retyping.
+3. `## Script` — `### HOOK (0:00-0:03)`, `### STORY`, `### PAYOFF`, with only
+   spoken words under each beat. No production note between beats; filming
+   notes go in a `## Production Notes` section after the script. The HOOK
+   opens with the standalone **spoken** scroll-stop line, per CLAUDE.md.
+   Never a manual text overlay.
+4. `## Data Source` — every claim with a named source, a date, and a URL. This
    is the receipt, and it is the reason there is no Source column.
-4. `## AI Music Prompt` — `**Vibe:**` plus the CapCut prompt, ≤300 characters.
-5. `## Social Media` — all five captions with hashtags at the per-platform caps
+5. `## AI Music Prompt` — `**Vibe:**` plus the CapCut prompt, ≤300 characters.
+6. `## Social Media` — all five captions with hashtags at the per-platform caps
    from `docs/caption-and-hashtag-strategy.md`. No em dashes, no AI-speak.
-6. `## Council Review` — 2-3 tested spoken scroll-stop variants mapped to hook
+7. `## Council Review` — 2-3 tested spoken scroll-stop variants mapped to hook
    families, the one-line why-it-works, and the single dissent to A/B next.
-7. The footer line from `content_board.py footer`.
+8. The footer line from `content_board.py footer`.
 
 **A news row's claims are re-verified at write time, every time.** A body
 written three days ago against a number that has since been revised is worse

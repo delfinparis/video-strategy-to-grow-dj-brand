@@ -689,9 +689,43 @@ function generateScript(apiKey, brief, reply, pick) {
         continue;
       }
     }
-    return text;
+    return addTeleprompter(text);
   }
   throw tagged('did not finish after ' + MAX_TURNS + ' turns', true);
+}
+
+// D.J. pastes the spoken words into a teleprompter, and the beat headings and
+// any italic note between beats get in the way (2026-10-13). The block is built
+// HERE, from the beats themselves, rather than asked of the model: a second
+// copy the model retypes can drift from the real script, and this one cannot.
+// Same logic as scripts/teleprompter.py, which does it for Claude Code builds.
+function teleprompterText(text) {
+  const lines = text.split(/\r?\n/);
+  const start = lines.findIndex(function (l) { return /^##\s+(Script|Spoken Script|Full Script)\b/.test(l); });
+  if (start < 0) return '';
+  const beats = [];
+  let cur = [];
+  for (let i = start + 1; i < lines.length; i++) {
+    const s = lines[i].trim();
+    if (/^##\s/.test(s) || /^---/.test(s)) break;
+    if (!s || /^[#*>|\[(]/.test(s) || /^<!--/.test(s)) {
+      // A heading or a non-spoken line closes the current paragraph.
+      if (cur.length && (/^#/.test(s) || !s)) { beats.push(cur.join(' ')); cur = []; }
+      continue;
+    }
+    cur.push(s.replace(/\s*\*[^*]+\*\s*/g, ' ').replace(/\s*\[[^\]]*\]\s*/g, ' ').trim());
+  }
+  if (cur.length) beats.push(cur.join(' '));
+  return beats.filter(function (b) { return b; }).join('\n\n');
+}
+
+function addTeleprompter(text) {
+  // Regenerate, never trust: drop any Teleprompter block already there.
+  text = text.replace(/^##\s+Teleprompter\b[\s\S]*?(?=^##\s)/m, '');
+  const spoken = teleprompterText(text);
+  if (!spoken) return text;
+  return text.replace(/^(##\s+(?:Script|Spoken Script|Full Script)\b)/m,
+    '## Teleprompter\n\n' + spoken + '\n\n$1');
 }
 
 // A [TIP] option is a realtor tip off the Stupid Things bank (2026-09-09: the
@@ -892,6 +926,8 @@ status: "draft"
 **Word count:** XX spoken words (60-70, 72 max; this is counted, not estimated)
 
 **What got cut:** <1-2 sentences: the beat, example, or second play you dropped to make the count, and why that one was the weakest. If the story needed a second script, say which half you built here.>
+
+Under each beat heading goes ONLY the words D.J. says out loud. No production notes, stage directions, B-roll or text-overlay cues, or italic asides between or inside beats -- he pastes the spoken lines straight into a teleprompter. Anything about filming or delivery goes in Production Notes below. Do not write a Teleprompter section yourself; it is generated from the beats after you reply.
 
 ## Production Notes
 - <timeliness, what to re-verify if filming slips, any "TRO not a verdict" style caveats>

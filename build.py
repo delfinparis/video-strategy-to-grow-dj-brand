@@ -534,18 +534,23 @@ share_trigger: "{share_trigger}"
 
 """
 
+    # Spoken words only between beats: D.J. pastes them into a teleprompter.
+    # Production notes go in their own section after the script.
+    sections = [(name, tip['sections'].get(name, {})) for name in ['HOOK', 'SETUP', 'INSIGHT', 'REFRAME', 'CTA']]
+
+    spoken = [sec.get('text', '') for _, sec in sections if sec.get('text')]
+    content += "## Teleprompter\n\n" + "\n\n".join(spoken) + "\n\n"
+
     content += "## Script\n\n"
+    prod_notes = []
+    for section, sec in sections:
+        content += f"### {section} ({sec.get('timing', '')})\n"
+        content += f"{sec.get('text', '')}\n\n"
+        if sec.get('production_note'):
+            prod_notes.append(f"- **{section}:** {sec['production_note']}")
 
-    for section in ['HOOK', 'SETUP', 'INSIGHT', 'REFRAME', 'CTA']:
-        sec = tip['sections'].get(section, {})
-        timing = sec.get('timing', '')
-        text = sec.get('text', '')
-        prod_note = sec.get('production_note', '')
-
-        content += f"### {section} ({timing})\n"
-        content += f"{text}\n\n"
-        if prod_note:
-            content += f"*Production: {prod_note}*\n\n"
+    if prod_notes:
+        content += "## Production Notes\n" + "\n".join(prod_notes) + "\n\n"
 
     if caption or hashtags:
         content += "## Social Media\n"

@@ -270,6 +270,21 @@ const THE_AUG_12_REPLY =
   'Script drafted and exported as `nf_first_time_buyers.md`. Stress-test cleared ' +
   "every number in the brief against NAR's August 11, 2026 release, nothing corrected.";
 
+// What D.J. receives is the model's script plus the generated Teleprompter block.
+const DELIVERED = vm.runInContext('addTeleprompter(' + JSON.stringify(VALID_SCRIPT) + ')', V);
+
+console.log('\nH2. The Teleprompter block is spoken words only, built from the beats');
+const tp = DELIVERED.split('## Teleprompter\n\n')[1].split('\n\n## Script')[0];
+check('it sits directly above ## Script', /## Teleprompter\n[\s\S]*\n## Script/.test(DELIVERED), '');
+check('it opens on the first spoken line', tp.indexOf('First-time buyers just hit twenty-nine percent') === 0, tp.slice(0, 60));
+check('no beat headings, timings, italics or bold inside it', !/[#*]|\d:\d\d/.test(tp), tp);
+check('the rest of the script is untouched', DELIVERED.replace(/## Teleprompter[\s\S]*?(?=## Script)/, '') === VALID_SCRIPT, '');
+const NOTED = VALID_SCRIPT.replace('### HOOK', '*Production: B-roll of a sold sign.*\n\n### HOOK');
+check('an inline *Production:* note never reaches it',
+  !/Production|B-roll/.test(vm.runInContext('teleprompterText(' + JSON.stringify(NOTED) + ')', V)), '');
+check('running it twice gives one block, not two',
+  vm.runInContext('addTeleprompter(' + JSON.stringify(DELIVERED) + ')', V) === DELIVERED, '');
+
 check('a real script passes clean', missing(VALID_SCRIPT).length === 0, JSON.stringify(missing(VALID_SCRIPT)));
 check('THE AUG 12 REPLY is caught', missing(THE_AUG_12_REPLY).length === 6, JSON.stringify(missing(THE_AUG_12_REPLY)));
 check('a script truncated before the captions is caught',
@@ -321,12 +336,12 @@ check('the correction is capped at one extra call', g.calls === 2, 'api calls=' 
 
 g = callGenerate([say(VALID_SCRIPT)]);
 check('a good script still costs exactly one call',
-  g.calls === 1 && g.out === VALID_SCRIPT, 'api calls=' + g.calls);
+  g.calls === 1 && g.out === DELIVERED, 'api calls=' + g.calls);
 
 console.log('\n   ...and a pause_turn search loop is unaffected by the correction cap');
 const paused = { stop_reason: 'pause_turn', content: [{ type: 'server_tool_use', name: 'web_search' }] };
 g = callGenerate([paused, paused, paused, paused, say(VALID_SCRIPT)]);
-check('four search pauses then a script', g.calls === 5 && g.out === VALID_SCRIPT, 'api calls=' + g.calls);
+check('four search pauses then a script', g.calls === 5 && g.out === DELIVERED, 'api calls=' + g.calls);
 
 // ------------------------------------------- the thread grows under our feet
 //
@@ -545,7 +560,7 @@ check('the right option still costs exactly one call', w.calls === 1, 'api calls
 
 // A [NEWS] pick has no bank id to check against, and must not be held up by it.
 w = callGenerateOn(TIP_BRIEF, '4', [say(VALID_SCRIPT)]);
-check('a [NEWS] pick is unaffected by the bank check', w.calls === 1 && w.out === VALID_SCRIPT,
+check('a [NEWS] pick is unaffected by the bank check', w.calls === 1 && w.out === DELIVERED,
   'api calls=' + w.calls);
 
 // ------------------------------------------------ the verdict line (2026-09-11)
@@ -580,7 +595,7 @@ check('it fails CLOSED', !!(v.err && v.err.retryable === false), String(v.err &&
 v = callGenerateOn(TIP_BRIEF, '1', [say(VALID_TIP('ST-0002'))]);
 check('a tip with the line still costs exactly one call', v.calls === 1, 'api calls=' + v.calls);
 v = callGenerateOn(TIP_BRIEF, '4', [say(VALID_SCRIPT)]);
-check('a [NEWS] pick is never asked for a verdict', v.calls === 1 && v.out === VALID_SCRIPT, 'api calls=' + v.calls);
+check('a [NEWS] pick is never asked for a verdict', v.calls === 1 && v.out === DELIVERED, 'api calls=' + v.calls);
 check('the tip build note carries the line verbatim',
   /That\\'s really stupid\. Here\\'s why\./.test(SRC) || /That's really stupid\. Here's why\./.test(SRC), '');
 

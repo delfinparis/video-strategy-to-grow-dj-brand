@@ -118,7 +118,7 @@ the first draft looks strong, never skip straight to delivery. Each pass has a c
 - **Pass 1 — Draft.** Build to the 3-act spine, a deliberate hook family, a pattern interrupt, the `## AI Music Prompt` block, and all five captions. The HOOK opens with a standalone **scroll-stop** first spoken line (rule below). Draft to the four-beat clock and a 65-word budget, not to "short" — write the beat budget at the top of the draft and hold to it, because cutting a 130-word script down to 75 loses the hook's sharpness every time.
 - **Pass 2 — Stress-test.** Run the **Story Pass** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)) first: does Act 2 have a real turn, not a briefing? Then the **scroll-stop test**: read only the first spoken line — does it stop the scroll on its own in 3 seconds, or is it warm-up? Then the hook 3-second test, the AI-tells scrub ([`docs/ai-tells-field-guide.md`](docs/ai-tells-field-guide.md)), and for NF confirm every claim has a named source + date + URL. Fix what fails before polishing.
 - **Pass 3 — EP-polish.** Count the spoken words and land in the 60-70 band, 72 max (Rule 7), and check each beat against the clock -- an overlong TENSION beat is the most common failure. Cut whole sentences, never three words off each of five sentences, and take nothing out of the hook. Sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the caption + hashtag-cap scrub below. Then hand v3 to Pass 4.
-- **Pass 4 — Council review.** Run the finished v3 through the Short-Form Council ([`docs/short-form-council-pass.md`](docs/short-form-council-pass.md)): ten creator/marketer doctrines plus two research witnesses (Heath on curiosity mechanics, Berger on shareability) pressure-test the hook, retention, and shareability. Append a `## Council Review` block beneath v3 with 2-3 tested **spoken** scroll-stop variants mapped to hook families, a one-line why-it-works (hook mechanism / share driver / retention move), and the single dissent to A/B test next. It never adds manual on-screen text (captions build from audio) and never undoes a Pass-3 scrub. If the local deep-reference skill is installed (`~/.claude/skills/short-form-council`), load its book-backed `references/*.md` for depth; otherwise run from the doctrines in the doc. Then deliver v3 (script + AI Music Prompt + Council Review).
+- **Pass 4 — Council review.** Run the finished v3 through the Short-Form Council ([`docs/short-form-council-pass.md`](docs/short-form-council-pass.md)): ten creator/marketer doctrines plus two research witnesses (Heath on curiosity mechanics, Berger on shareability) pressure-test the hook, retention, and shareability. Append a `## Council Review` block beneath v3 with 2-3 tested **spoken** scroll-stop variants mapped to hook families, a one-line why-it-works (hook mechanism / share driver / retention move), and the single dissent to A/B test next. It never adds manual on-screen text (captions build from audio) and never undoes a Pass-3 scrub. If the local deep-reference skill is installed (`~/.claude/skills/short-form-council`), load its book-backed `references/*.md` for depth; otherwise run from the doctrines in the doc. Then deliver v3 (Teleprompter block + script + AI Music Prompt + Council Review; see the teleprompter rule below).
 
 **The 0:00 scroll-stop is mandatory, and it is spoken.** The first line out of D.J.'s mouth (0:00-0:03) has to stop the scroll on its own, before any context. captions.ai builds the on-screen captions from the audio, so the scroll-stop lives in the **spoken** first line, never a manual text overlay (that is why `scripts/strip_onscreen_text_v2.py` exists). Every walk-and-talk `### HOOK` beat opens with it:
 
@@ -161,6 +161,28 @@ These are not editorial -- they're posting-day habits the algorithm rewards hard
 
 - **Reply to every comment in the first 60 minutes.** Creator replies are weighted for distribution and turn one comment into a thread.
 - **Pin a value-extending first comment** -- the exact script, the next step, the receipt/source -- never a "follow me." Drives comment-section dwell without an ask.
+
+---
+
+## No production notes between spoken lines, and every script gets a Teleprompter block
+
+**D.J., 2026-10-13:** production notes between the spoken copy get in the way when he pastes
+the script into a teleprompter. Two rules, every video script, every series:
+
+1. **Under each `### BEAT` heading goes only what D.J. says out loud.** No `*Production: ...*`
+   lines, stage directions, B-roll or text-overlay cues, `(beat)` / `[pause]` asides, or italic
+   notes between or inside beats. Filming and delivery notes go in a `## Production Notes`
+   section *after* the script. The pre-script `**Filming:**` line stays where it is.
+2. **Run `python3 scripts/teleprompter.py <script.md>` on every finished script**, after the
+   last edit to the spoken words and before commit. It writes a `## Teleprompter` section right
+   above `## Script`: the spoken lines only, one paragraph per beat, built from the beats so it
+   can never drift from them. Re-run it after any later edit; it replaces the old block. The
+   email pipeline does the same thing in code (`addTeleprompter()` in the Apps Script), and
+   inline deliveries in chat carry the same block. Never retype it by hand.
+
+The beat headings themselves stay in `## Script`: the word-count checks, the Content Board
+parser and the Apps Script section check all read them. Everything else in the package (AI
+Music Prompt, Data Source, social captions and hashtags, Council Review) is unchanged.
 
 ---
 
