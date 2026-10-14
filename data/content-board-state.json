@@ -945,16 +945,76 @@
    "lane": "Broker Problems",
    "ref": "scripts/broker-problems/BP-021-who-those-ads-are-for.md"
   },
+  "https://app.notion.com/p/3f8313fa2892811396b5cfc33673fcf3": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-094-ai-replaces-the-desk.md"
+  },
+  "https://app.notion.com/p/3f8313fa28928115b9b5cb87db883d3e": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-091-facebook-listing-post-reaches-nobody.md"
+  },
+  "https://app.notion.com/p/3f8313fa28928117a9a0d1e6c471184f": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-083-chicago-buyers-are-waiting.md"
+  },
+  "https://app.notion.com/p/3f8313fa2892811fa896db31c1cb30c2": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-078-phone-photos-cost-listings.md"
+  },
+  "https://app.notion.com/p/3f8313fa2892812287a1f5a63ab83cce": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-090-first-ten-days-set-the-price.md"
+  },
   "https://app.notion.com/p/3f8313fa28928126af83dc0ea5135b75": {
    "has_body": true,
    "lane": "News",
    "ref": "nar-newsroom/2026-10-12 (altered listing photos: 11% of 40,000 flagged, >90% undisclosed, CA AB 723)"
   },
+  "https://app.notion.com/p/3f8313fa2892812ea575c566551e3984": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-102-say-what-it-means-for-the-seller.md"
+  },
+  "https://app.notion.com/p/3f8313fa2892813da159eb55c7025f4b": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-099-money-talk-before-showings.md"
+  },
+  "https://app.notion.com/p/3f8313fa2892815c9085cb7defdeeb83": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-081-half-of-sellers-lose-a-buyer.md"
+  },
+  "https://app.notion.com/p/3f8313fa2892815dad08c4f67c82a467": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-085-closing-costs-shock-half-of-buyers.md"
+  },
+  "https://app.notion.com/p/3f8313fa2892815f97e0cecc188afbaa": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-096-say-the-hard-thing-early.md"
+  },
   "https://app.notion.com/p/3f8313fa289281c6935df3ff04831f56": {
    "has_body": true,
    "lane": "News",
    "ref": "mba-forecast/2026-10-11 (2027 originations $1.99T, 30-yr above 7% through 2027, two Fed hikes)"
+  },
+  "https://app.notion.com/p/3f9313fa2892819eaaefc388845f80ca": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "redfin.com/news/pending-home-sales-sink-rates (2026-10-12) -- cancellations 14.5%, Chen Zhao on buyer negotiating room"
+  },
+  "https://app.notion.com/p/3f9313fa289281c7a78ad32f01b9c52e": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "nar.realtor existing-home-sales, September 2026 release (2026-10-13) -- investor/second-home share 20%"
   }
  },
- "updated": "2026-10-13"
+ "updated": "2026-10-14"
 }
