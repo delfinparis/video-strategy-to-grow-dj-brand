@@ -1000,10 +1000,30 @@
    "lane": "News",
    "ref": "scripts/inside-the-industry/NF-096-say-the-hard-thing-early.md"
   },
+  "https://app.notion.com/p/3f8313fa2892816c8122fea019c65b2d": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-076-stop-calling-your-buyers.md"
+  },
+  "https://app.notion.com/p/3f8313fa289281708036f7e57dcf6c3f": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-077-stop-opening-with-your-bio.md"
+  },
   "https://app.notion.com/p/3f8313fa289281719dd8e3ec7ead2e3e": {
    "has_body": true,
    "lane": "News",
    "ref": "scripts/inside-the-industry/NF-086-financed-buyer-can-beat-cash.md"
+  },
+  "https://app.notion.com/p/3f8313fa2892818388ebd9677ba536e8": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-080-late-may-is-worth-ten-thousand.md"
+  },
+  "https://app.notion.com/p/3f8313fa289281889aa7f0426e630066": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-074-half-of-buyers-never-call-a-second-agent.md"
   },
   "https://app.notion.com/p/3f8313fa2892818ba14fd51ebe47feb5": {
    "has_body": true,
@@ -1030,6 +1050,11 @@
    "lane": "News",
    "ref": "scripts/inside-the-industry/NF-100-instagram-says-pretty-posts-are-boring.md"
   },
+  "https://app.notion.com/p/3f8313fa289281bda86cd6e1204b1177": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-079-never-write-fixer-upper.md"
+  },
   "https://app.notion.com/p/3f8313fa289281c6935df3ff04831f56": {
    "has_body": true,
    "lane": "News",
@@ -1044,6 +1069,11 @@
    "has_body": true,
    "lane": "News",
    "ref": "scripts/inside-the-industry/NF-088-chicago-new-homes-not-pricier.md"
+  },
+  "https://app.notion.com/p/3f8313fa289281cead63eef56907e446": {
+   "has_body": true,
+   "lane": "News",
+   "ref": "scripts/inside-the-industry/NF-093-talk-to-the-moderator.md"
   },
   "https://app.notion.com/p/3f8313fa289281ddb87cfdef682d0d8c": {
    "has_body": true,
@@ -1226,5 +1256,5 @@
    "ref": "scripts/podcast-promos/kir-2026-10-09-brenton-miebach.md"
   }
  },
- "updated": "2026-10-15"
+ "updated": "2026-10-16"
 }
