@@ -1254,7 +1254,17 @@
    "has_body": true,
    "lane": "KIRP Episode",
    "ref": "scripts/podcast-promos/kir-2026-10-09-brenton-miebach.md"
+  },
+  "https://app.notion.com/p/3fc313fa289281ca81e9fc47a4586912": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs 2026-10-17 Fannie Mae Oct 2026 forecast"
+  },
+  "https://app.notion.com/p/3fc313fa289281f1b603eafc5ea9edc3": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs 2026-10-17 Zillow Sept 2026 Rent Report"
   }
  },
- "updated": "2026-10-16"
+ "updated": "2026-10-17"
 }
