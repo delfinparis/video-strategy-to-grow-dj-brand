@@ -1264,7 +1264,22 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs 2026-10-17 Zillow Sept 2026 Rent Report"
+  },
+  "https://app.notion.com/p/3fd313fa28928119a2bbc30fb86f04f7": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-024-same-deal-you-signed.md"
+  },
+  "https://app.notion.com/p/3fd313fa28928160a037d1a0ac5b6c96": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-025-nobody-asked-why.md"
+  },
+  "https://app.notion.com/p/3fd313fa289281b8a40fc78ed1836e47": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-026-never-checked-what-you-can-take.md"
   }
  },
- "updated": "2026-10-17"
+ "updated": "2026-10-18"
 }
