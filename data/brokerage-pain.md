@@ -132,9 +132,17 @@ out what other firms charge for the same thing." The missing receipt turns into 
 
 ### A4. Six years, and you have never renegotiated anything
 **The pain:** tenure without a single review of the terms. Not a fee -- an absence.
-**Receipt: VERIFIED 2026-08-18.** NAR 2025 Member Profile: median tenure with current firm is
-**six years**; **28%** have been with their firm twelve years or more.
-https://www.nar.realtor/newsroom/realtors-show-strong-commitment-to-profession-amid-market-headwinds-new-nar-report-finds
+**Receipt: VERIFIED 2026-08-18, re-verified and CORRECTED 2026-10-18.** Median tenure with
+current firm is **six years**. The citation moved: the figure is in the **2026** Member Profile,
+released 2026-06-25, and it is *not* in the 2025 release this entry used to point at.
+https://www.nar.realtor/newsroom/experienced-realtors-anchor-the-industry-as-housing-affordability-remains-top-hurdle-new-nar-report
+Corroborated by HousingWire's write-up of the same report, 2026-06-25:
+https://www.housingwire.com/articles/nar-2026-member-profile-experience/
+**The 28% / twelve-years-or-more figure is withdrawn. Do not speak it.** The 2026-10-18
+re-verification for BP-024 could not find it in either edition's release or in any secondary
+coverage. It may sit in the tenure chapter of the paid report; nobody in this chain has read
+that chapter, and a figure nobody has read is not a receipt. If D.J. buys the report, the
+figure can come back with a page reference.
 **Angles open:** (1) six years of terms nobody revisited; (2) your production changed and your
 agreement did not; (3) the renegotiation conversation, scripted -- **careful, that version is
 a Value Giveaway, not a Broker Problem.**
@@ -632,6 +640,9 @@ carousel on the same entry count as **one** use, not two. Rows are written by
 | 2026-10-13 | F6 | The Brand Tax | 2 | scripts/broker-problems/BP-021-who-those-ads-are-for.md | video |
 | 2026-10-15 | C2 | The Silence | 2 | scripts/broker-problems/BP-022-you-called-nobody.md | video |
 | 2026-10-16 | B1 | The Thing That Doesn't Make Sense | 2 | scripts/broker-problems/BP-023-you-leave-they-stay.md | video |
+| 2026-10-20 | A4 | The Slow Leak | 2 | scripts/broker-problems/BP-024-same-deal-you-signed.md | video |
+| 2026-10-22 | C3 | The Silence | 2 | scripts/broker-problems/BP-025-nobody-asked-why.md | video |
+| 2026-10-23 | B2 | The Thing That Doesn't Make Sense | 2 | scripts/broker-problems/BP-026-never-checked-what-you-can-take.md | video |
 
 ## Rejected
 
