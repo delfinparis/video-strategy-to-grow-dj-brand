@@ -1,4 +1,14 @@
 {
+  "ben-lalez": {
+    "instagram": "https://www.instagram.com/thebenlalezteam/",
+    "tiktok": null,
+    "linkedin": "https://www.linkedin.com/company/thebenlalezteam",
+    "facebook": "https://www.facebook.com/BenLalezRealEstate/",
+    "youtube": null,
+    "website": "https://benlalez.com/team/ben-lalez/",
+    "notes": "Instagram @thebenlalezteam, Facebook /BenLalezRealEstate/, and LinkedIn company/thebenlalezteam verified two independent ways: (1) the keepingitrealpod.com episode show notes for the 2026-10-15 'Your Competition Is Slowing Down. Keep Going.' episode list all three, and (2) Ben's own bio page at benlalez.com/team/ben-lalez/ (reached from the show-notes link) lists the identical three handles, matching title Team Lead/REALTOR at Compass, Chicago. The Instagram handle also matches the transcript, where D.J. and Ben say the Instagram is 'the Ben Lalez team' at 00:03:40-00:03:55 (auto-transcribed as 'Ben Lales team'). TikTok left untagged: the show notes list https://www.tiktok.com/@realestatechicago, but that handle is generic and not confirmed as Ben's personal or team account by his bio page or the transcript -- VERIFY before posting. Note: the transcript's spoken phone number (847-452-9675) and spoken website ('Ben Lales team.com') do not match the show notes' listed phone (312-789-4054) and website (benlalez.com); neither is used in the carousel, so not resolved here, but flagged in case a future build needs contact info. Guest's brokerage per this 2026-10-15 episode is Compass (ben.lalez@compass.com in show notes), though kirp_source.py and the episode analysis JSON printed 'Ben Lalez Team' without naming Compass -- carousel copy avoided naming any brokerage for Ben either way. Verified 2026-10-18.",
+    "tiktok_unverified": "https://www.tiktok.com/@realestatechicago"
+  },
   "bill-melnick": {
     "instagram": "https://www.instagram.com/bill_melnick_real_estate/",
     "tiktok": null,
