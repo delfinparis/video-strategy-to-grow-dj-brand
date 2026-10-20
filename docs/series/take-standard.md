@@ -654,14 +654,14 @@ Every take is a walk-and-talk and must end with an `## AI Music Prompt` section 
 Five captions: LinkedIn, Instagram Reels, TikTok, YouTube Shorts, Facebook. No X block.
 
 - **Zero em dashes**, zero AI-speak transitions, zero throat-clearing setups.
-- **Hashtag caps** from [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md):
-  LinkedIn/IG/TikTok/YouTube 3-5, Facebook 2-3, realtor-first, one brand tag. Built fresh every
-  time, never lifted from an older script.
+- **One sentence on every platform, 1-2 hashtags on TikTok and YouTube Shorts only** (Rules 0-1 of
+  [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md), 2026-10-19). Never
+  lifted from an older script.
 - **No keyword, ever.** This lane is ungated on every platform including IG and FB. A take with a
   gate stapled to it reads as bait, which is the one thing that turns a defensible position into
   a pile-on.
-- The LinkedIn caption carries the full argument including the receipt, because LinkedIn is where
-  the who-profits beat gets argued in the replies and D.J. wants the source visible.
+- The receipt does not go in the caption, on LinkedIn or anywhere. It goes in the pinned first
+  comment, where the who-profits beat gets argued in the replies.
 
 ---
 

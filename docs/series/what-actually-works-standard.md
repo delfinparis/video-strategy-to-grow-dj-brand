@@ -212,15 +212,13 @@ section beneath `## Data Source`**, per [`CLAUDE.md`](../../CLAUDE.md) and
 
 ## Social copy (extends Rule 5)
 
-- All six caption blocks (LinkedIn primary, Instagram, TikTok, YouTube Shorts, Facebook, X).
+- All five caption blocks (LinkedIn primary, Instagram, TikTok, YouTube Shorts, Facebook). No X.
 - **Strictest scrub, applied automatically every time** (CLAUDE.md social rule + Rule 5):
   - **Zero em dashes.** Not `—`, not `--`. Restructure into short sentences.
   - **Zero AI-speak transitions** ("here's what this means," "worth noting," etc.).
   - **Zero throat-clearing setups.** Lead with the substance.
-- The LinkedIn caption is the long form (it can carry the full mechanism + application). IG / TikTok
-  are tightened to the hook + the one move.
-- Hashtags stay realtor-first. Broad communication / self-improvement tags are allowed as
-  secondary, never as the lead, so the recruiting-qualified audience stays the target.
+- **One sentence on every platform, 1-2 hashtags on TikTok and YouTube Shorts only** (Rules 0-1 of
+  [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md), 2026-10-19).
 
 ---
 

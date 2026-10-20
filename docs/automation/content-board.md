@@ -355,8 +355,8 @@ The body is, in order:
 4. `## Data Source` — every claim with a named source, a date, and a URL. This
    is the receipt, and it is the reason there is no Source column.
 5. `## AI Music Prompt` — `**Vibe:**` plus the CapCut prompt, ≤300 characters.
-6. `## Social Media` — all five captions with hashtags at the per-platform caps
-   from `docs/caption-and-hashtag-strategy.md`. No em dashes, no AI-speak.
+6. `## Social Media` — all five captions, one sentence each, 1-2 hashtags on TikTok and YouTube Shorts only (Rules 0-1
+   of `docs/caption-and-hashtag-strategy.md`). No em dashes, no AI-speak.
 7. `## Council Review` — 2-3 tested spoken scroll-stop variants mapped to hook
    families, the one-line why-it-works, and the single dissent to A/B next.
 8. The footer line from `content_board.py footer`.

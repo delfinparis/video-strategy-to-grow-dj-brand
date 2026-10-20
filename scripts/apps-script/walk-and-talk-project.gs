@@ -944,17 +944,14 @@ Under each beat heading goes ONLY the words D.J. says out loud. No production no
 **CapCut AI Music:** put the prompt inside a triple-backtick fenced code block, 300 characters MAX. CapCut is the ONLY music tool D.J. uses. Never output a Suno or Udio prompt.
 
 ## Social Media
-Write all FIVE, each with a caption and a hashtag line. There are exactly five platforms. D.J. does not use X/Twitter or Threads — never output a block for either. ZERO em-dashes and zero double-hyphens in any caption — periods and commas only. No AI-speak throat-clearing; lead with substance.
+Write all FIVE. Each caption is ONE SENTENCE, under about 150 characters, written the way D.J. would type it on a phone: a reaction or a point of view, not a summary of the video, with the plain search phrase an agent would type inside it. No second paragraph, no stats or source names. There are exactly five platforms. D.J. does not use X/Twitter or Threads — never output a block for either. ZERO em-dashes and zero double-hyphens in any caption — periods and commas only. No AI-speak throat-clearing; lead with substance.
 ### LinkedIn (PRIMARY)
 ### Instagram Reels
 ### TikTok
-### YouTube Shorts  (give Title + Description + hashtags)
+### YouTube Shorts  (give Title + a one-sentence Description + 1-2 topical hashtags)
 ### Facebook
 
-HASHTAG CAPS (apply to every caption, do not copy counts from older scripts):
-- LinkedIn, Instagram Reels, TikTok, YouTube Shorts: 3-5 hashtags each.
-- Facebook: 2-3 hashtags.
-- Realtor-first tags. Exactly ONE brand tag (#InsideTheIndustry or #KeepingItRealPodcast). Drop the long tail (#RealtorLife, #RealEstateCoaching, #realtortok, generic community tags). Fewest hashtags that still categorize the post; do the discovery work with a real search keyword in the first line, not a tag stack.
+ONE SENTENCE, EVERY PLATFORM (D.J.'s call 2026-10-19: long captions read as ghostwritten). Same rule on LinkedIn too. HASHTAGS: 1-2 plain topical keyword tags on TikTok and YouTube Shorts only (e.g. #RealEstateAgent #ChicagoRealEstate). ZERO on LinkedIn, Instagram Reels, and Facebook. No brand tag, no #shorts, no #fyp. Do not copy caption length or hashtags from older scripts.
 
 ## Council Review
 The last block in the file and the entire visible output of Pass 4. Keep it tight and do NOT restate the script.

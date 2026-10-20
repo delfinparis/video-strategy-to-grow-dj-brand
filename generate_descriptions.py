@@ -53,39 +53,18 @@ Here is the video script:
 
 Write FIVE platform-specific descriptions. Follow these rules for EACH platform.
 
-GLOBAL RULES (2026 standard, apply to every platform):
-- Hashtag caps (fewest that still categorize the post, realtor-first): Facebook 2-3, Instagram 3-5, TikTok 3-5, LinkedIn 3-5, YouTube 3-5. Never exceed these. Drop the long tail; pick the 1-2 tags most specific to this post plus one brand tag.
-- Caption SEO: front-load one real in-app-search keyword (the plain phrase an agent would actually search, e.g. "real estate commission settlement", "realtor lead generation", "Chicago real estate") into the first line or two. Discovery is in-app search now, not hashtags.
-- NO engagement asks, ever. Banned: "drop it below", "comment", "subscribe", "follow", "share this", "tag", "what's your take", and rhetorical engagement questions. Close on a "here's what you do now" action at the viewer's own business, or just end on the insight. Optimize for the private send (would one agent DM this to another), not the public comment.
+GLOBAL RULES (changed 2026-10-19, apply to every platform the same way):
+- ONE SENTENCE per platform. Under about 150 characters. Written the way D.J. would type it on a phone: a reaction or a point of view, not a summary of the video. Long captions read as ghostwritten and cost the post its authenticity.
+- Hashtags: TikTok and YouTube Shorts get 1-2 plain topical keyword tags at the end (e.g. #RealEstateAgent #ChicagoRealEstate). Facebook, Instagram, and LinkedIn get ZERO. No brand tag, no #shorts, no #fyp.
+- No stats, no source names, no second paragraph. The video carries the content.
+- Put one real in-app-search keyword (the plain phrase an agent would actually search, e.g. "real estate commission settlement", "Chicago real estate") inside the sentence.
+- NO engagement asks, ever. Banned: "drop it below", "comment", "subscribe", "follow", "share this", "tag", "what's your take", and rhetorical engagement questions.
 - No em dashes. Use periods or commas.
-
-## FACEBOOK
-- 3-5 short paragraphs, conversational tone
-- Lead with the most surprising stat or insight (not "In this video...")
-- End on a concrete action or the insight, no engagement question
-- 2-3 hashtags at the end (broad + niche real estate)
-
-## INSTAGRAM
-- First line must hook BEFORE the "...more" cut (under 125 characters, punchy) and carry a search keyword
-- 2-3 short paragraphs with line breaks
-- End on the action or insight, then 3 dots and a line break
-- 3-5 hashtags (mix of mega: #realestate, niche: #listingagent, branded: #keepingitrealpodcast)
-
-## TIKTOK
-- 1-2 sentences MAX — punchy, casual, with a search keyword in it
-- 3-5 hashtags (include #realtortok or #realestatetok plus relevant niche tags; skip generic #fyp)
-- Use an emoji or two if natural
-
-## LINKEDIN
-- Professional but not stiff — insight-driven, story-based
-- 4-6 short paragraphs
-- Lead with the topic/keyword in plain words so the semantic feed places it; include the key data point or business insight
-- End on the insight or a "here's what you do now" line, no engagement question
-- 3-5 professional hashtags
+- The same sentence on every platform is fine. Light tweaks are allowed; a longer version for one platform is not.
 
 ## YOUTUBE SHORTS
-- **Title:** SEO-optimized, under 70 characters, includes primary keyword
-- **Description:** 2-3 sentences with keywords naturally woven in. End with 3-5 hashtags. No "subscribe" ask.
+- **Title:** SEO-optimized, under 60 characters, a claim a realtor would search for
+- **Description:** the one sentence, then 1-2 topical hashtags
 
 ---
 

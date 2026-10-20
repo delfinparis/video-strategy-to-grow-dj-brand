@@ -117,7 +117,7 @@ the first draft looks strong, never skip straight to delivery. Each pass has a c
 
 - **Pass 1 — Draft.** Build to the 3-act spine, a deliberate hook family, a pattern interrupt, the `## AI Music Prompt` block, and all five captions. The HOOK opens with a standalone **scroll-stop** first spoken line (rule below). Draft to the four-beat clock and a 65-word budget, not to "short" — write the beat budget at the top of the draft and hold to it, because cutting a 130-word script down to 75 loses the hook's sharpness every time.
 - **Pass 2 — Stress-test.** Run the **Story Pass** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)) first: does Act 2 have a real turn, not a briefing? Then the **scroll-stop test**: read only the first spoken line — does it stop the scroll on its own in 3 seconds, or is it warm-up? Then the hook 3-second test, the AI-tells scrub ([`docs/ai-tells-field-guide.md`](docs/ai-tells-field-guide.md)), and for NF confirm every claim has a named source + date + URL. Fix what fails before polishing.
-- **Pass 3 — EP-polish.** Count the spoken words and land in the 60-70 band, 72 max (Rule 7), and check each beat against the clock -- an overlong TENSION beat is the most common failure. Cut whole sentences, never three words off each of five sentences, and take nothing out of the hook. Sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the caption + hashtag-cap scrub below. Then hand v3 to Pass 4.
+- **Pass 3 — EP-polish.** Count the spoken words and land in the 60-70 band, 72 max (Rule 7), and check each beat against the clock -- an overlong TENSION beat is the most common failure. Cut whole sentences, never three words off each of five sentences, and take nothing out of the hook. Sharpen the shareable moment to one sendable line, read the close aloud and kill any motivational-poster ending, then run the one-sentence caption scrub below. Then hand v3 to Pass 4.
 - **Pass 4 — Council review.** Run the finished v3 through the Short-Form Council ([`docs/short-form-council-pass.md`](docs/short-form-council-pass.md)): ten creator/marketer doctrines plus two research witnesses (Heath on curiosity mechanics, Berger on shareability) pressure-test the hook, retention, and shareability. Append a `## Council Review` block beneath v3 with 2-3 tested **spoken** scroll-stop variants mapped to hook families, a one-line why-it-works (hook mechanism / share driver / retention move), and the single dissent to A/B test next. It never adds manual on-screen text (captions build from audio) and never undoes a Pass-3 scrub. If the local deep-reference skill is installed (`~/.claude/skills/short-form-council`), load its book-backed `references/*.md` for depth; otherwise run from the doctrines in the doc. Then deliver v3 (Teleprompter block + script + AI Music Prompt + Council Review; see the teleprompter rule below).
 
 **The 0:00 scroll-stop is mandatory, and it is spoken.** The first line out of D.J.'s mouth (0:00-0:03) has to stop the scroll on its own, before any context. captions.ai builds the on-screen captions from the audio, so the scroll-stop lives in the **spoken** first line, never a manual text overlay (that is why `scripts/strip_onscreen_text_v2.py` exists). Every walk-and-talk `### HOOK` beat opens with it:
@@ -129,11 +129,11 @@ the first draft looks strong, never skip straight to delivery. Each pass has a c
 - **Lead on the negative.** Open on what it costs, what it is taking, or what the viewer already got wrong. Loss framing lands harder and faster than gain framing at equal magnitude, and 3 seconds is not enough time for an upside promise to register. "This is costing you a listing a quarter" beats "here is how to win one more listing a quarter." Same script, different opening valence.
 - **Pull a ready first line from [`docs/opener-swipe-file.md`](docs/opener-swipe-file.md)** mapped to the chosen `hook_family`, then sharpen it to the specific news. Never write the hook cold.
 
-Before delivering the v3, run every social caption AND its hashtag block through the
-scrub in the **Social descriptions** section below: no em dashes, no AI-speak, and the
-**hashtag caps** from [`docs/caption-and-hashtag-strategy.md`](docs/caption-and-hashtag-strategy.md)
-(LinkedIn/IG/TikTok/YouTube 3-5, Facebook 2-3, realtor-first, one brand tag). This runs
-every time, without D.J. asking. Do not copy hashtag counts from older example scripts.
+Before delivering the v3, run every social caption through the scrub in the **Social
+descriptions** section below: **one sentence on every platform, 1-2 hashtags on TikTok and YouTube Shorts only** (Rule 0 of
+[`docs/caption-and-hashtag-strategy.md`](docs/caption-and-hashtag-strategy.md)), no em dashes,
+no AI-speak. This runs every time, without D.J. asking. Do not copy caption length or hashtags
+from older example scripts.
 
 Every walk-and-talk follows the **Viral 3-Act Spine** ([`docs/series/viral-3-act-spine.md`](docs/series/viral-3-act-spine.md)): HOOK (stop the scroll + promise the payoff) → STORY (the middle is a story with a turn, not a briefing) → PAYOFF (resolve the loop → "here's what you do now" action → loop-back). The stress-test pass runs the **Story Pass** before anything else. **At 30 seconds every series runs the compressed Act 2** -- TENSION and THE POINT, with the turn living in the seam between them, then the payload. The old narrative/tactical split (full three acts for Inside the Industry and Podcast Promo, compressed for Playbook, What Actually Works and tapthis) is retired: the compressed version is now universal, because 70 words cannot hold a developed middle. The turn still has to be there. A one-sentence Act 2 with no turn is a briefing, and the Story Pass still fails it.
 
@@ -182,7 +182,7 @@ the script into a teleprompter. Two rules, every video script, every series:
 
 The beat headings themselves stay in `## Script`: the word-count checks, the Content Board
 parser and the Apps Script section check all read them. Everything else in the package (AI
-Music Prompt, Data Source, social captions and hashtags, Council Review) is unchanged.
+Music Prompt, Data Source, social captions, Council Review) is unchanged.
 
 ---
 
@@ -243,7 +243,7 @@ These series don't need an AI Music Prompt block (different format or already-se
 
 ---
 
-## Social descriptions: no em dashes, no AI speak
+## Social descriptions: one sentence, almost no hashtags, no em dashes, no AI speak
 
 **Scope:** Every social caption block in every script in this repo (LinkedIn, Instagram Reels, TikTok, YouTube Shorts, Facebook). Applies in addition to the universal Rule 5 in `docs/editorial-standards.md`.
 
@@ -254,9 +254,10 @@ These series don't need an AI Music Prompt block (different format or already-se
 - **Zero em dashes.** Not `—`. Not `--` (the editorial-standards substitute). Use periods, commas, or restructure the sentence. The `--` substitute is fine in spoken-script sections, length justifications, and Data Source notes; it is banned in social captions because it reads as AI-generated copy on a social feed.
 - **Zero AI-speak transitions.** No "Here is what this means," "Here is the part that makes this interesting," "Here is why that matters," "Worth noting," "That should change everything," "In a market like this," or any of the banned AI-speak words from Rule 5.
 - **Zero throat-clearing setups.** A new paragraph in a social caption should not begin with a transition sentence whose only purpose is to set up the next sentence. Cut the transition; lead with the substance.
-- **Hashtag caps from [`docs/caption-and-hashtag-strategy.md`](docs/caption-and-hashtag-strategy.md), applied at draft time.** LinkedIn/Instagram/TikTok/YouTube Shorts = **3-5 hashtags**, Facebook = **2-3**. Realtor-first, exactly one brand tag (`#InsideTheIndustry` or `#KeepingItRealPodcast`), drop the long tail (`#RealtorLife`, `#RealEstateCoaching`, `#realtortok`, generic community tags). Fewest hashtags that still categorize the post. Do the discovery work with a real search keyword in the first line/125 chars, not a tag stack (Rule 2 of that doc).
-- **Never copy hashtag counts from an older example script.** Scripts written before 2026-07-07 (NF-060 and earlier) carry the retired 11-14 tag stacks. Build the hashtag block fresh from the caps above every time; do not lift it from a reference file.
-- **Apply this automatically every time.** Do not wait for the user to ask for the scrub. Any script draft, polish pass, or rewrite that includes social descriptions must run the descriptions AND the hashtag block through this filter before commit.
+- **One sentence per caption, every platform (D.J.'s call, 2026-10-19).** Under about 150 characters, written the way D.J. would type it on a phone: a reaction or a point of view, not a summary of the video. The plain search phrase an agent would type lives inside that sentence. No second paragraph, no stats or source names (the video and the Data Source section carry those). Long captions read as ghostwritten and cost the post its authenticity. Same rule on LinkedIn, Instagram, TikTok, YouTube Shorts, and Facebook so the brand reads the same everywhere. YouTube Shorts still gets its `**Title:**` line; the description is the one sentence. On gated IG/FB posts the one sentence is the gate. Full rule: Rule 0 of [`docs/caption-and-hashtag-strategy.md`](docs/caption-and-hashtag-strategy.md).
+- **Hashtags: 1-2 on TikTok and YouTube Shorts, zero on LinkedIn, Instagram, and Facebook.** Tags stay only where the platform still uses them to sort and surface a post. TikTok and YouTube Shorts get one or two plain topical keyword tags (`#RealEstateAgent`, `#ChicagoRealEstate`). No brand tag, no `#shorts`, no `#fyp`. The 3-5 / 2-3 caps are retired.
+- **Never copy caption length or hashtags from an older example script.** Every script written before 2026-10-19 carries multi-paragraph captions and a hashtag block. Series standards that still describe longer platform-shaped captions are overridden by this rule.
+- **Apply this automatically every time.** Do not wait for the user to ask for the scrub. Any script draft, polish pass, or rewrite that includes social descriptions must run them through this filter before commit.
 
 If a sentence in a social caption needs a pause that an em dash would normally create, restructure as two short sentences. "X. Y." beats "X -- Y." in every social-feed context.
 

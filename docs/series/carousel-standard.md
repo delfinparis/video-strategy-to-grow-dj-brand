@@ -452,7 +452,7 @@ The block contains, in order:
    filename order. She only needs the slide copy below when a deck is being hand-built in Canva instead.
 1. **Slide-by-slide copy** -- numbered, exact, paste-per-slide. (The Canva Bulk Create table above serves this.)
 2. **The caption**, per platform, final. No "pick one."
-3. **The hashtag block**, already capped per [caption-and-hashtag-strategy](../caption-and-hashtag-strategy.md).
+3. **Hashtags only on TikTok and YouTube Community, 1-2.** Captions are one sentence, per [caption-and-hashtag-strategy](../caption-and-hashtag-strategy.md) Rule 0.
 4. **The ManyChat keyword** (gated only) -- flagged VERBATIM.
 5. **The LinkedIn first-comment link** (gated only), with its `?src=` tag.
 6. **The pinned first comment** (open carousels) -- value-extending, never a "follow me."
@@ -469,7 +469,7 @@ Run before handing to Loomly. "Lighter than a walk-and-talk" never means sloppy 
 - [ ] Slide 1 carries one idea and names the reward for swiping
 - [ ] Slide 2 stands alone with zero context (IG re-serves it to non-swipers)
 - [ ] The N-1 payload is self-contained enough to screenshot
-- [ ] No em dashes, no AI-speak, hashtag caps respected
+- [ ] No em dashes, no AI-speak, one-sentence captions, hashtags only on TikTok/YouTube (1-2)
 - [ ] No hollow bait anywhere ("save this," "follow for," "tag a friend") -- gated or open
 - [ ] Gated only: keyword matches the registry exactly, and a flow exists for it
 - [ ] LinkedIn variant: link is in the first comment, carries its `?src=` tag, and no keyword ask appears anywhere
@@ -553,11 +553,11 @@ Carousels get the same five captions as every post (LinkedIn, Instagram, TikTok 
 video crosspost, YouTube Community, Facebook) under the **same rules** as the rest of the repo:
 
 - **Zero em dashes, zero AI-speak, zero engagement-asks** (CLAUDE.md social-caption rule).
-- **Front-load one real search phrase** in the first 125 characters (caption-and-hashtag Rule 2).
-- **3-5 hashtags**, realtor-first (caption-and-hashtag Rule 1).
+- **One sentence, every platform; 1-2 hashtags on TikTok and YouTube only** (caption-and-hashtag Rules 0-1, 2026-10-19). The slides carry the content.
+- **The plain search phrase lives inside that sentence** (caption-and-hashtag Rule 2).
 - **Optimize for the save and the send**, never for the comment (Rule 3).
 
-The first line of the Instagram caption should echo slide 1's promise so the post reads as one
+The one sentence should echo slide 1's promise so the post reads as one
 thing whether someone swipes the images or reads the caption.
 
 ---
@@ -580,6 +580,6 @@ Decide the delivery format up front and follow the matching rule.
 - [ ] Close leads with a save reason; any follow ask is small and below it.
 - [ ] News-repurpose only: every fact traces to the source script. No new claims.
 - [ ] Captions scrubbed for em dashes, AI-speak, engagement-asks (CLAUDE.md).
-- [ ] Keyword in the first 125 characters of the IG caption; 3-5 hashtags.
+- [ ] Every caption is one sentence with the search phrase in it; hashtags only on TikTok/YouTube (1-2).
 - [ ] `hook_family` differs from the previous carousel.
 - [ ] Anti-plagiarism: idea and format borrowed, copy and creative are original.

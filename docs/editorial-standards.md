@@ -563,8 +563,8 @@ own words? If they would have to paraphrase a phrase first, the phrase is too cl
 
 ### Paragraph and hook formatting for captions
 
-- **Short paragraphs** (1 to 3 sentences each) in any long-form caption. LinkedIn and Facebook both favor short paragraph blocks.
-- **Hook in the first 2 to 3 lines** of any caption. Assume mobile cutoff at roughly 150 to 210 characters depending on platform.
+- **Social captions are one sentence on every platform, with 1-2 hashtags on TikTok and YouTube Shorts only** (2026-10-19; Rule 0 of [`caption-and-hashtag-strategy.md`](caption-and-hashtag-strategy.md)). Long captions read as ghostwritten.
+- The short-paragraph guidance below applies only to long-form copy that is not a social caption (Eventbrite bodies, emails, docs).
 
 ---
 

@@ -236,7 +236,7 @@ same brief, so they now run the same four passes:
 | --- | --- | --- |
 | 1 Draft | 3-act spine, deliberate `hook_family` + `pattern_interrupt` | those two frontmatter fields |
 | 2 Stress test | Story Pass, scroll-stop test, fact check, AI-tells scrub | corrected figures in the Data Source audit |
-| 3 EP-polish | length, shareable line, close read aloud, caption + hashtag scrub | *nothing* |
+| 3 EP-polish | length, shareable line, close read aloud, one-sentence caption scrub | *nothing* |
 | 4 Council review | ten doctrines + two witnesses pressure-test v3 | the `## Council Review` block |
 
 The order matches [`../short-form-council-pass.md`](../short-form-council-pass.md):

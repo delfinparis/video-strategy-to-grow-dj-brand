@@ -369,6 +369,6 @@ is not.
 - [ ] The swap is physical, one move, and survives the cut
 - [ ] No identifiable firm, product, or agent
 - [ ] 85-100 spoken words, 105 max, counted (about 40 seconds); grade 7 or lower; no sentence over 24 words
-- [ ] Five captions, YouTube Shorts `**Title:**` present, hashtag caps, one brand tag
+- [ ] Five one-sentence captions, YouTube Shorts `**Title:**` present, 1-2 hashtags on TikTok and YouTube Shorts only
 - [ ] Logged with `stupid_things.py log` once the script exists (on-demand path), or carries
       `bank_id` so the Sunday check can log it (email path)
