@@ -692,24 +692,27 @@ GUARDRAILS (the council sharpens WITHIN these constraints, never around them):
 ========================================================
 SOCIAL MEDIA COPY
 ========================================================
-Platform-native copy for all five channels. No date/time (D.J. adds manually). Each distinct in tone, length, and format.
+Copy for all five channels. No date/time (D.J. adds manually). Follows the short-form repo's
+caption rule (docs/caption-and-hashtag-strategy.md, Rules 0-1, changed 2026-10-19): long social
+captions read as ghostwritten, so FACEBOOK, INSTAGRAM, LINKEDIN, and TIKTOK are each ONE
+SENTENCE, under about 150 characters, written the way D.J. would type it on a phone. Tease the
+counterintuitive gap and, where it fits, say when to tune in, inside that one sentence. No
+takeaway lists, no checkmarks, no emojis, no second paragraph. The same sentence on every
+platform is fine.
 
-FACEBOOK (2–4 paragraphs, conversational, link-friendly. Tease the counterintuitive gap. List 3 takeaways with checkmarks. Soft CTA to tune in. 8–10 hashtags.)
+FACEBOOK (One sentence. Zero hashtags.)
 [copy]
 
-INSTAGRAM (Hook line. 3–5 punchy lines. One CTA. 12–15 hashtags. Emoji-forward but not excessive.)
+INSTAGRAM (One sentence. Zero hashtags.)
 [copy]
 
-LINKEDIN (Professional, no emojis. Lead with the insight, not the show. 2–3 short paragraphs. 8–10 hashtags. A peer sharing something useful, not a promo.)
+LINKEDIN (One sentence. Zero hashtags. A peer sharing something useful, not a promo.)
 [copy]
 
-YOUTUBE (Description-box format, SEO-conscious. Show title, episode topic, bullet list of what viewers learn, subscriber CTA, chapter timestamps matching the rundown. 8–10 hashtags.)
+YOUTUBE (The one exception to the one-sentence rule, because a full episode needs a real
+description box: show title, episode topic, a short bullet list of what viewers learn, chapter
+timestamps matching the rundown. No subscribe ask. 1-2 topical hashtags at the end, no #shorts.)
 [copy]
 
-TIKTOK (Ultra-short. 3–5 lines max. Scroll-stopping first line. One CTA. 6–8 hashtags. Reads like a hook, not a summary.)
+TIKTOK (One sentence. 1-2 plain topical keyword hashtags, never #fyp.)
 [copy]
-
-NOTE ON HASHTAG COUNTS: the counts above are the Coffee Talk house style. The
-short-form repo's caption strategy (docs/caption-and-hashtag-strategy.md) caps social
-posts at 3–5 hashtags (Facebook 2–3). If D.J. wants Coffee Talk aligned to that
-tighter standard, these five blocks are the only thing that changes.
