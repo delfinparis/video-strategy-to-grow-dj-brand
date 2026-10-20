@@ -18,6 +18,7 @@ The operating rules for descriptions and hashtags on every script in this repo. 
 - **Write it like D.J. typed it on a phone.** A reaction or a point of view, not a summary of the video. "If you're still telling Chicago buyers to wait for spring, you haven't looked at October" beats "Realtor.com says listing prices are down 3.5% from the summer peak."
 - **The plain search phrase lives inside the sentence** (Rule 2). One sentence lands inside Instagram's 125-character preview by default.
 - **Hashtags only on TikTok and YouTube Shorts, 1-2 topical keyword tags.** Zero on LinkedIn, Instagram, and Facebook (Rule 1).
+- **No `Hashtags:` label, ever.** The tags go at the end of the caption sentence, on the same line, with no label in front (`...nobody tells you that. #RealEstateAgent #RealtorTips`). D.J. copies the caption and tags in one paste, so a label word comes along and has to be deleted by hand (D.J.'s call, 2026-10-19).
 - **No stats, no citations, no source names in the caption.** The video and the script's Data Source section carry the receipts.
 - **Same sentence on every platform is fine.** Light tweaks are allowed (Facebook can be a touch more local), but never a longer version for one platform.
 - **Gated posts (IG + FB only):** the one sentence is the gate. "Comment SPLIT and I'll send you the breakeven sheet." Keyword from [`data/keyword-registry.md`](../data/keyword-registry.md), verbatim.

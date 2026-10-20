@@ -557,7 +557,7 @@ share_trigger: "{share_trigger}"
         if caption:
             content += f"**Caption:** {caption}\n"
         if hashtags:
-            content += f"**Hashtags:** {' '.join(hashtags)}\n"
+            content += f"{' '.join(hashtags)}\n"
         if share_trigger:
             content += f"**Share Trigger:** {share_trigger}\n"
         content += "\n"

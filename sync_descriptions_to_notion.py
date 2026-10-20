@@ -188,13 +188,13 @@ def format_social_copy_markdown(platforms):
         ig = platforms["INSTAGRAM"]
         # Split hashtags from caption
         caption, hashtags = split_caption_hashtags(ig)
-        sections.append(f"### Instagram\n**Caption:** {caption}\n**Hashtags:** {hashtags}")
+        sections.append(f"### Instagram\n**Caption:** {caption}\n{hashtags}")
 
     # TikTok
     if "TIKTOK" in platforms:
         tt = platforms["TIKTOK"]
         caption, hashtags = split_caption_hashtags(tt)
-        sections.append(f"### TikTok\n**Caption:** {caption}\n**Hashtags:** {hashtags}")
+        sections.append(f"### TikTok\n**Caption:** {caption}\n{hashtags}")
 
     # YouTube Shorts
     if "YOUTUBE SHORTS" in platforms:
@@ -210,25 +210,25 @@ def format_social_copy_markdown(platforms):
             if ht_match:
                 yt_hashtags = ht_match.group(1)
                 yt_desc_clean = yt_desc[:yt_desc.rfind(ht_match.group(1))].strip()
-                sections.append(f"### YouTube Shorts\n**Title:** {yt_title}\n**Description:** {yt_desc_clean}\n**Hashtags:** {yt_hashtags}")
+                sections.append(f"### YouTube Shorts\n**Title:** {yt_title}\n**Description:** {yt_desc_clean}\n{yt_hashtags}")
             else:
                 sections.append(f"### YouTube Shorts\n**Title:** {yt_title}\n**Description:** {yt_desc}")
         else:
             # Fallback: use raw content
             caption, hashtags = split_caption_hashtags(yt)
-            sections.append(f"### YouTube Shorts\n**Caption:** {caption}\n**Hashtags:** {hashtags}")
+            sections.append(f"### YouTube Shorts\n**Caption:** {caption}\n{hashtags}")
 
     # Facebook
     if "FACEBOOK" in platforms:
         fb = platforms["FACEBOOK"]
         caption, hashtags = split_caption_hashtags(fb)
-        sections.append(f"### Facebook\n**Caption:** {caption}\n**Hashtags:** {hashtags}")
+        sections.append(f"### Facebook\n**Caption:** {caption}\n{hashtags}")
 
     # LinkedIn
     if "LINKEDIN" in platforms:
         li = platforms["LINKEDIN"]
         caption, hashtags = split_caption_hashtags(li)
-        sections.append(f"### LinkedIn\n**Caption:** {caption}\n**Hashtags:** {hashtags}")
+        sections.append(f"### LinkedIn\n**Caption:** {caption}\n{hashtags}")
 
     return "## Social Copy\n" + "\n".join(sections)
 
@@ -353,7 +353,6 @@ def build_notion_blocks(platforms):
                         make_text(desc_clean)
                     ]))
                     blocks.append(make_paragraph([
-                        make_bold("Hashtags: "),
                         make_text(ht_match.group(1))
                     ]))
                 else:
@@ -369,10 +368,7 @@ def build_notion_blocks(platforms):
                 make_text(caption)
             ]))
             if hashtags:
-                blocks.append(make_paragraph([
-                    make_bold("Hashtags: "),
-                    make_text(hashtags)
-                ]))
+                blocks.append(make_paragraph([make_text(hashtags)]))
 
     return blocks
 
