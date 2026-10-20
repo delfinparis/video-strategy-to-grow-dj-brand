@@ -98,78 +98,29 @@ A top producer, on *Keeping It Real*, episode published **2023-10-31**. Her word
 
 ## Social Media
 
-*Written against the as-filmed script. Hashtag caps per docs/caption-and-hashtag-strategy.md: 3-5 on LinkedIn, Instagram, TikTok, YouTube Shorts; 2-3 on Facebook. No engagement asks. No platform, product, or firm named. No guest named, pending the spelling check. Kale not mentioned.*
+*Rewritten 2026-10-19 to the one-sentence caption rule (docs/caption-and-hashtag-strategy.md, Rules 0-1): one sentence per platform, 1-2 hashtags on TikTok and YouTube Shorts only. No engagement asks. No platform, product, firm, or guest named. Kale not mentioned. The story and the eleven stay in the video and the pinned comment.*
 
 ### LinkedIn
 
-Nobody will tell you your reviews aren't yours.
-
-Not if they are sitting on a platform your brokerage pays for. You leave, they stay. That is not a trick anyone is playing, it is just how a license works, and almost nobody mentions it to the agent collecting them.
-
-A top producer told me this on my podcast a couple of years ago. Thirteen years in the business. Hundreds of testimonials, every one collected through the review system her firm licensed. She changed brokerages and all of them stayed behind.
-
-So she went and looked at her Google page, the one place that was actually hers, and counted eleven. That is her count and her memory, said in her own words on my show, and I am not going to dress it up past that.
-
-She rebuilt it. She is fine now. That is not the part that stuck with me. The part that stuck with me is that nobody told her. Not when she started collecting, not in year six, not on her way out the door. It simply was not anyone's job to mention it.
-
-And it is not only reviews. Your database. Your listing photos. The transaction archive. The email address printed on ten thousand business cards.
-
-So the thing worth doing is a comparison, not an argument. Find out whether other firms in this market let an agent keep their own reviews, and where those reviews live when they do.
-
-Nobody there is going to bring it up.
-
-#RealEstate #RealtorTips #ChicagoRealEstate #RealEstateAgent #KeepingItRealPodcast
+If your client reviews live on a system your brokerage pays for, they stay behind when you leave, and nobody tells you that up front.
 
 ### Instagram Reels
 
-Real estate agents: your client reviews aren't yours if they live on a platform your brokerage pays for.
-
-A top producer told me this on my show. Thirteen years, hundreds of testimonials, all on her old firm's system. She switched and every one stayed behind.
-
-She checked her Google page. Eleven. Her count, her memory.
-
-Find out whether other firms let you keep yours.
-
-#RealEstate #RealtorTips #ChicagoRealEstate #RealEstateAgent #KeepingItRealPodcast
+Real estate agents, if your client reviews live on a system your brokerage pays for, they stay behind when you leave.
 
 ### TikTok
 
-Nobody will tell you your reviews aren't yours.
-
-They sit on a platform your brokerage pays for. You leave, they stay.
-
-A top producer told me this on my show. Thirteen years of testimonials, all on her old firm's system. She switched. Every one stayed behind. She checked her Google page. Eleven reviews. Her count, her memory.
-
-Go find out whether other firms let you keep yours.
-
-#RealEstate #RealtorTips #RealEstateAgent #ChicagoRealEstate
+Your client reviews might not follow you when you leave your brokerage, and nobody is going to tell you that. #RealEstateAgent #RealtorTips
 
 ### YouTube Shorts
 
 **Title:** Your Client Reviews Stay When You Leave
 
-**Description:**
-Client testimonials collected on a review platform your brokerage licenses do not come with you when you change firms. That is not a trick, it is how a software license works, and almost nobody mentions it to the agent collecting them.
-
-A top producer said this on my podcast. Thirteen years in the business, hundreds of testimonials, all of them collected through the system her brokerage licensed. She changed firms and every one stayed behind. She checked her Google page, the one place that was actually hers, and counted eleven. That is her recollection, in her own words, and it is not dressed up past that.
-
-It is not only reviews either. Your database, your listing photos, the transaction archive, the email address on ten thousand business cards.
-
-So run the comparison. Find out whether other firms in your market let an agent keep their own reviews, and where they live when they do. Nobody at your brokerage is going to raise it.
-
-#shorts #RealEstate #RealtorTips #ChicagoRealEstate
+**Description:** If your client reviews live on a system your brokerage pays for, they stay behind when you change brokerages. #RealEstateAgent #RealtorTips
 
 ### Facebook
 
-Nobody will tell you your reviews aren't yours. Not if they sit on a platform your brokerage pays for.
-
-A top producer told me this on my podcast. Thirteen years in, hundreds of testimonials, all collected on the system her firm licensed. She changed brokerages and every one stayed behind. Her Google page had eleven. Her count, her memory.
-
-It is not only reviews. Your database, your listing photos, the email address on ten thousand business cards.
-
-Find out whether other firms here let you keep yours.
-
-#RealEstate #ChicagoRealEstate #RealtorTips
+Chicago agents, if your client reviews live on a system your brokerage pays for, they don't come with you when you leave.
 
 ### Pinned first comment (all platforms)
 
