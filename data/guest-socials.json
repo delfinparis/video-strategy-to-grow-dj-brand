@@ -1,4 +1,14 @@
 {
+  "anna-kara": {
+    "instagram": "https://www.instagram.com/annakaraloans/",
+    "tiktok": "https://www.tiktok.com/@annakaraloan",
+    "linkedin": "https://www.linkedin.com/in/annakaraloans/",
+    "facebook": "https://www.facebook.com/annakaraloans/",
+    "youtube": "https://www.youtube.com/channel/UCrMZcoayhXjMTYhicDqyL1g",
+    "website": "https://www.annakaraloans.com/",
+    "notes": "All four handles (Instagram @annakaraloans, TikTok @annakaraloan -- note singular 'loan', not 'loans', unlike the other handles -- LinkedIn in/annakaraloans, Facebook /annakaraloans/) and the YouTube channel ID came from the footer of Anna's own business site, annakaraloans.com, reached from the link in the 2026-10-20 episode description ('Anna Kara' hyperlinked to https://www.annakaraloans.com/ in keeping-it-real-content-system/data/index/episodes.json). The site's contact info matches the episode description exactly: phone (818) 747-8777 and email anna@annakaraloans.com both appear in both places. The site also lists NMLS #1241473 and DRE #01924739 for Anna Kara Inc. (a branch of Equity Smart Home Loans Inc.), based in Burbank, CA, consistent with the episode's stated Los Angeles location and her title as a top 1% mortgage producer. Direct Instagram and LinkedIn page fetches were blocked by those platforms' anti-bot responses (429/999), so the bio and follower counts were not independently re-confirmed, but the handles themselves are taken verbatim from her own site's footer, not guessed or inferred from her name. Verified 2026-10-21.",
+    "tiktok_handle_note": "singular 'annakaraloan', confirm before pasting"
+  },
   "ben-lalez": {
     "instagram": "https://www.instagram.com/thebenlalezteam/",
     "tiktok": null,
