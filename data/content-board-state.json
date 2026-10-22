@@ -1304,7 +1304,17 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "footage: Zillow Unlock 2026/Short Form/C0062-14 | lane: Agent Tip (placeholder) | added: 2026-10-19"
+  },
+  "https://app.notion.com/p/401313fa2892815c86c3ffb48cc7af67": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs 2026-10-22 NAR Sept 2026 existing-home sales: inventory +4.6% YoY"
+  },
+  "https://app.notion.com/p/401313fa289281c69fadfbdd4ae8491c": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs 2026-10-22 NAR Sept 2026 existing-home sales: median +1.3% YoY, 39th straight month"
   }
  },
- "updated": "2026-10-21"
+ "updated": "2026-10-22"
 }
