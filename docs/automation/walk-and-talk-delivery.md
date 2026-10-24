@@ -355,6 +355,42 @@ when no brief was drafted. You should get the alarm email within a minute. Run
 it a second time and you should get nothing -- it is capped at one alarm per
 day via the `wtLastAlarmDate` script property.
 
+## The research can finish and the draft can still never happen (2026-10-24)
+
+The 5:30am routine researched normally and wrote a complete, correctly-formatted
+5-option brief (3 tips with bank IDs and verdicts, 2 news items) to the Notion
+mirror at 10:43 UTC (5:43am CT). It never created a Gmail draft. No repo file
+was written either -- `data/news-briefs/2026-10-24.md` did not exist. The 6:15am
+Apps Script found nothing to send and fired its "NO Walk & Talk brief today"
+alarm correctly.
+
+This is the Aug 6-7 failure shape one step further in: that incident lost the
+draft step but still left a recovery artifact (a repo file) for the watchdog to
+find. This one left a Notion row and nothing else. The watchdog's STEP 1 only
+checks Gmail for "already drafted," by design (the Notion mirror is never
+evidence of delivery) -- but that also means a watchdog run can research and
+draft a *second, different* set of options without ever discovering the
+routine's real picks were sitting in Notion the whole time. That's what
+happened here: the 6:50am run built its own 5-option brief from scratch,
+drafted and sent it, and only found the 10:43 UTC Notion row afterward, while
+verifying the write with the required `ORDER BY createdTime DESC` query.
+
+**The fix applied by hand this morning, not yet automated:** before trusting a
+freshly-researched brief, check whether today's Notion row already exists and
+predates this run. If it does, its content is the routine's real work and
+should be sent verbatim (replacing a from-scratch draft if one was already
+created), not treated as background. The watchdog spec doesn't say this yet.
+Whoever next edits `walk-and-talk-watchdog`'s instructions should add a Notion
+pre-check between STEP 1 and STEP 2: query the Brief database for today's date
+before regenerating, and if a row already exists, draft its content instead of
+re-researching.
+
+**Still open:** why the 5:30am routine's Gmail step failed silently while its
+Notion step succeeded. Same two questions as every incident in this file --
+was it the connector, or a code path that treats a partial success as whole --
+and this one needs the routine's own session log, not the watchdog's, to
+answer.
+
 ## When a brief does not arrive
 
 1. **Did the alarm email arrive?** If yes, it names the cause. Start there.
