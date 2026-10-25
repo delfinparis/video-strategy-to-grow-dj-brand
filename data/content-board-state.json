@@ -1314,7 +1314,32 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs 2026-10-22 NAR Sept 2026 existing-home sales: median +1.3% YoY, 39th straight month"
+  },
+  "https://app.notion.com/p/404313fa2892811095bff2edc9dcc0c1": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-028-nobody-shows-you-the-rule.md"
+  },
+  "https://app.notion.com/p/404313fa2892811397fee4162af2aac1": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-10-24.md top-stories: HousingWire UAD 3.6 appraisal change"
+  },
+  "https://app.notion.com/p/404313fa2892812b96dfc35994c7eb33": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-10-24.md top-stories: NAR Pending Home Sales September 2026"
+  },
+  "https://app.notion.com/p/404313fa28928139a749f54f24dd844a": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-029-one-conversation-is-why-you-never-looked.md"
+  },
+  "https://app.notion.com/p/404313fa289281baa346d2636daa317b": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-027-nobody-ever-explained-the-bill.md"
   }
  },
- "updated": "2026-10-24"
+ "updated": "2026-10-25"
 }
