@@ -152,18 +152,33 @@ a Value Giveaway, not a Broker Problem.**
 ### A5. Dues nobody ever explained to you
 **The pain:** association and MLS dues the agent pays without ever having been told what they
 are for or why membership is mandatory through the brokerage.
-**Receipt: FIRST-PARTY, verified 2026-08-18.** A guest on Keeping It Real, describing his own
-brokerage: *"my broker never told me that. He just told me you have to be a part of the
-association. And he never really explained all the background behind it... that's a lot of
-problem with our industry. We don't really educate everybody on how it works."*
-**Sourcing note:** the guest attribution needs to be pinned to a named episode before this
-runs. The quote is in the transcript archive at
-`keeping-it-real-content-system/data/transcripts/`; identify the episode and guest before
-build, or paraphrase without attributing.
+**Receipt: FIRST-PARTY, verified 2026-08-18, attribution pinned 2026-10-25.** Lou Eytalis on
+Keeping It Real, "Meet The Agent Who Is Taking On N.A.R.," published 2025-01-23
+(`https://keepingitrealpod.com/?p=7581`), describing the broker she had as a new licensee:
+*"I didn't really know that that was a thing, you know, like my broker never told me that. He
+just told me you have to be a part of the association. And he never really explained all the
+background behind it. I mean, that's a lot of problem with our industries. We don't really
+educate everybody on how it works."*
+**Sourcing note: CLEARED 2026-10-25** by the BP-027 build, which located the quote in the
+transcript archive (`keeping-it-real-content-system/data/transcripts/2025-01-23_item*_Lou-Eytalis`)
+and pinned it to the episode above. **Two corrections to this entry came out of that, and both
+would have been wrong on camera:** (1) the guest is a woman, not a man, and this entry said
+"his own brokerage"; (2) she is not describing her own brokerage at all. She is describing the
+broker she had as a new agent, years before she built and now runs her own firm, in an episode
+largely about her public criticism of mandatory association membership. **Check what someone
+actually is before using them to prove something** -- the BP-005 failure mode, per the standard.
+The quote names no brokerage, franchise, or product, so it is safe to log and safe to pin in a
+comment. **It was not spoken in BP-027**, because at 68 words an attribution costs more than the
+viewer's own arithmetic is worth.
 **Angles open:** (1) the bill you pay and cannot explain; (2) what the dues actually buy, told
 straight -- **that version is a Value Giveaway.**
 **Rung:** 1. Weak on the ladder -- it produces a shrug unless paired with a market question.
-**Status:** open, attribution-constrained.
+**The shrug risk is live and now has an A/B attached:** BP-027 shipped the rung-1 close and the
+council logged Hormozi's dissent that this entry cannot carry one. If the rung-2 variant
+("find out what an agent in this market pays and who explains it") wins on comment mix, upgrade
+this line from a caution to a rule.
+**Status:** angle 1 spent 2026-10-27 (BP-027). Attribution constraint cleared. Angle 2 open,
+and the bank already calls it a Value Giveaway rather than a Broker Problem.
 
 ---
 
@@ -643,6 +658,9 @@ carousel on the same entry count as **one** use, not two. Rows are written by
 | 2026-10-20 | A4 | The Slow Leak | 2 | scripts/broker-problems/BP-024-same-deal-you-signed.md | video |
 | 2026-10-22 | C3 | The Silence | 2 | scripts/broker-problems/BP-025-nobody-asked-why.md | video |
 | 2026-10-23 | B2 | The Thing That Doesn't Make Sense | 2 | scripts/broker-problems/BP-026-never-checked-what-you-can-take.md | video |
+| 2026-10-27 | A5 | The Slow Leak | 1 | scripts/broker-problems/BP-027-nobody-ever-explained-the-bill.md | video |
+| 2026-10-29 | B5 | The Thing That Doesn't Make Sense | 3 | scripts/broker-problems/BP-028-nobody-shows-you-the-rule.md | video |
+| 2026-10-30 | D4 | The Permission Slip | 2 | scripts/broker-problems/BP-029-one-conversation-is-why-you-never-looked.md | video |
 
 ## Rejected
 
