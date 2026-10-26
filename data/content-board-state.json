@@ -1339,7 +1339,12 @@
    "has_body": true,
    "lane": "Broker Problems",
    "ref": "scripts/broker-problems/BP-027-nobody-ever-explained-the-bill.md"
+  },
+  "https://app.notion.com/p/405313fa2892814cae98dde601ecf757": {
+   "has_body": true,
+   "lane": "Agent Spotlight",
+   "ref": "scripts/chicago-agent-spotlight/mark-raffaelli-2026-10-26.md"
   }
  },
- "updated": "2026-10-25"
+ "updated": "2026-10-26"
 }
