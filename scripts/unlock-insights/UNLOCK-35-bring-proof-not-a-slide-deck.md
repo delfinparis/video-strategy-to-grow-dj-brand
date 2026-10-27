@@ -2,7 +2,7 @@
 id: UNLOCK-35
 title: "Bring proof, not a pretty slide deck"
 series: unlock-insights
-speaker: "Chase Whitney; Jackie [surname unverified]; moderated by Chris Johnson"
+speaker: "Chase Whitney; Jackie Soto; moderated by Chris Johnson"
 speaker_company: "First Team Real Estate; ehomes; Zillow (moderator)"
 session_title: "Your edge in a crowded market: how to find it, prove it, and make clients feel it"
 session_url: "https://www.unlockconference.com/session-insights/your-edge-in-a-crowded-market-how-to-find-it-prove-it-and-make-clients-feel-it/"
@@ -10,11 +10,9 @@ session_day: "Day 2, Wed Oct 14 2026"
 hook_family: "9 Swap and List"
 pattern_interrupt: "One Prop"
 heat: 4
-word_count: 66
+word_count: 67
 gated: false
 needs_verification:
-  - "Chase Whitney: the session summary gives only 'Chase' (team lead, five-agent team at FirstTeam Real Estate). Surname comes from the slate."
-  - "Jackie: surname not in the session summary (broker/owner, ehomes). Spoken as 'Jackie from ehomes'."
   - "Which panelist said the 'evidence book' line; the summary does not attribute it to one speaker."
 ---
 
@@ -28,7 +26,7 @@ Drop the pretty slide deck and bring proof.
 
 Every agent brings slides. Sellers can't tell you apart.
 
-At Zillow Unlock, Chase Whitney and Jackie from ehomes agreed. Sellers hire the agent, not the brand. So bring a book of proof. Fill it with your past sales and real ad results.
+At Zillow Unlock, Chase Whitney and Jackie Soto from ehomes agreed. Sellers hire the agent, not the brand. So bring a book of proof. Fill it with your past sales and real ad results.
 
 Ask the seller what matters most. Then open to that page. No slide can do that.
 
@@ -41,15 +39,15 @@ Drop the pretty slide deck and bring proof.
 Every agent brings slides. Sellers can't tell you apart.
 
 ### THE POINT (0:06.5-0:21.5)
-At Zillow Unlock, Chase Whitney and Jackie from ehomes agreed. Sellers hire the agent, not the brand. So bring a book of proof. Fill it with your past sales and real ad results.
+At Zillow Unlock, Chase Whitney and Jackie Soto from ehomes agreed. Sellers hire the agent, not the brand. So bring a book of proof. Fill it with your past sales and real ad results.
 
 ### PAYOFF (0:21.5-0:30)
 Ask the seller what matters most. Then open to that page. No slide can do that.
 
 ## Production Notes
 
-- **Speaker on screen:** two headshots side by side, Chase Whitney + First Team Real Estate logo and Jackie + ehomes logo, lower-third on "At Zillow Unlock, Chase Whitney and Jackie from ehomes agreed." (about 0:07-0:11). Hold until "not the brand." Moderator Chris Johnson (Zillow) is not named on camera; credit him in the pinned comment.
-- **Names are not confirmed.** The session summary gives "Chase" and "Jackie" with no surnames. If "Whitney" can't be confirmed from the agenda or slides before posting, re-record the line as "a broker from ehomes and a team lead from First Team agreed." Do not post with a guessed name.
+- **Speaker on screen:** two headshots side by side, Chase Whitney + First Team Real Estate logo and Jackie Soto + ehomes logo, lower-third on "At Zillow Unlock, Chase Whitney and Jackie Soto from ehomes agreed." (about 0:07-0:11). Hold until "not the brand." Moderator Chris Johnson (Zillow) is not named on camera; credit him in the pinned comment.
+- **Names confirmed:** Chase Whitney (The Whitney Team, First Team Real Estate, per D.J.'s Unlock field guide built from the agenda) and Jackie Soto (broker/owner, ehomes, per the asset library's sources in ~/Desktop/Zillow Unlock 2026/Session Reels/_assets/CREDITS.md).
 - **Pattern interrupt:** One Prop. A plain binder, not a branded folder. The prop is the "book of proof."
 - **"Evidence book" said plainly.** The panel calls it an evidence book of "raw, unpolished proof points." The script says "a book of proof" so a non-agent gets it on one listen.
 - **Friction target:** the polished generic presentation as a default. No brokerage or product named; the "not the brand" line is the panel's own takeaway, not a shot at any company.
@@ -58,7 +56,7 @@ Ask the seller what matters most. Then open to that page. No slide can do that.
 
 ## Data Source
 
-- **Speakers:** Chris Johnson (Director, Strategy & Partnerships, Zillow; moderator); Jackie, broker/owner of ehomes (250 agents, San Diego to Ventura County); Chase, team lead of a five-agent team at First Team Real Estate.
+- **Speakers:** Chris Johnson (Director, Strategy & Partnerships, Zillow; moderator); Jackie Soto, broker/owner of ehomes (250 agents, San Diego to Ventura County); Chase, team lead of a five-agent team at First Team Real Estate.
 - **Session:** "Your edge in a crowded market: how to find it, prove it, and make clients feel it," Impact Session, Zillow Unlock 2026, Day 2, Wed Oct 14 2026, Fontainebleau Las Vegas.
 - **Session insights page:** https://www.unlockconference.com/session-insights/your-edge-in-a-crowded-market-how-to-find-it-prove-it-and-make-clients-feel-it/
 - **Claims used:** "sellers hire agents, not brands"; "Use tangible, data-driven proof at listing appointments ... rather than generic polished presentations"; "Build an 'evidence book' of raw, unpolished proof points (MLS comparisons, YouTube/social stats, past marketing results) organized so you can flip to whatever topic the seller leans into"; "Ask upfront what matters most to the seller."

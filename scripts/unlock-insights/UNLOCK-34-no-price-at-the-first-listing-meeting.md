@@ -56,7 +56,7 @@ Text the seller first: today's a tour, not a price. Price it after you've seen e
 
 ## Data Source
 
-- **Speaker:** Tarasa Hurley, team leader and co-owner, River Point Realty (Pittsburgh area).
+- **Speaker:** Tarasa Hurley, team leader and partner, River Point Realty (Pittsburgh area).
 - **Session:** "Smarter Systems. Stronger Relationships: How to Leverage Technology to Deliver More Personal Service," Impact Session, Zillow Unlock 2026, Day 1, Tue Oct 13 2026, Fontainebleau Las Vegas.
 - **Session insights page:** https://www.unlockconference.com/session-insights/smarter-systems-stronger-relationships-how-to-leverage-technology-to-deliver-more-personal-service/
 - **Claim used:** "Don't bring a price to the first listing appointment; instead treat it as a discovery meeting to learn the client's story and needs, which builds trust and avoids being caught off guard by the property's condition." Plus the next step to send a pre-appointment video text setting "the expectation of a no-price discovery meeting."

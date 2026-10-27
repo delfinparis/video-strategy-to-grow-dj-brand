@@ -3,7 +3,7 @@ id: UNLOCK-09
 title: "Skipping reviews is hiding you from AI"
 series: unlock-insights
 speaker: "Phil Stringer"
-speaker_company: "Stringer Steps"
+speaker_company: "The AI Academy"
 session_title: "When AI recommends an agent, will it be you? How to build your presence for AI-powered search"
 session_url: "https://www.unlockconference.com/session-insights/when-ai-recommends-an-agent-will-it-be-you-how-to-build-your-presence-for-ai-powered-search/"
 session_day: "Day 1, Tue Oct 13 2026"
@@ -13,7 +13,6 @@ heat: 4
 word_count: 68
 gated: false
 needs_verification:
-  - "Speaker company 'Stringer Steps': taken from the slate; the session summary names no company. Confirm before the lower-third."
   - "The 1% / 75% figures: the public study behind them (Trustpilot + Seer Interactive) measured brands' Trustpilot review profiles, not agents. Confirm Stringer presented it as a brand study; the script says 'brands' on purpose."
 ---
 
@@ -47,7 +46,7 @@ Today, text your last five clients your review link. Say, "Would you write two l
 
 ## Production Notes
 
-- **Speaker lower-third:** Phil Stringer headshot + Stringer Steps logo on "At Zillow Unlock, Phil Stringer shared a study" (about 0:02-0:05). No other manual text.
+- **Speaker lower-third:** Phil Stringer headshot + headshot only (no AI Academy logo found yet) on "At Zillow Unlock, Phil Stringer shared a study" (about 0:02-0:05). No other manual text.
 - **Gesture-On-Beat:** finger up on "Skipping," drop it and walk. UNLOCK-08 used One Prop, so the move rotates.
 - **Round 2 changes.** "Brands" became "businesses" (the plain word for the same thing; the study counted companies, not people), and the close "Stop hiding the work you already did" became the exact text to send. The ask is D.J.'s example, not a session quote. Asking for a review is fine; offering anything in return for one is not, so keep the ask bare.
 - **"Businesses," not "agents," on purpose.** The study behind the numbers measured companies' review profiles across AI answers. It did not measure real estate agents. Stringer's advice is to apply it to your name, and the script says it as his advice ("Phil's advice is..."), not as a measured agent result.

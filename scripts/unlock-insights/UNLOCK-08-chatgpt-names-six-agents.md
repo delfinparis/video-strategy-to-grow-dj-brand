@@ -3,7 +3,7 @@ id: UNLOCK-08
 title: "ChatGPT names six agents, and most top sellers aren't on the list"
 series: unlock-insights
 speaker: "Phil Stringer"
-speaker_company: "Stringer Steps"
+speaker_company: "The AI Academy"
 session_title: "When AI recommends an agent, will it be you? How to build your presence for AI-powered search"
 session_url: "https://www.unlockconference.com/session-insights/when-ai-recommends-an-agent-will-it-be-you-how-to-build-your-presence-for-ai-powered-search/"
 session_day: "Day 1, Tue Oct 13 2026"
@@ -13,7 +13,6 @@ heat: 4
 word_count: 68
 gated: false
 needs_verification:
-  - "Speaker company 'Stringer Steps': taken from the slate. The session summary calls him an AI efficiency coach and former real estate COO and names no company; stringersteps.com exists and is his free guide, so confirm he wants that name on the lower-third."
   - "Whether Stringer framed the 91.5% as all agents (the AI summary) or as ranked, website-publishing producers (the Local Falcon study it matches). The script uses the study's narrower framing."
 ---
 
@@ -47,7 +46,7 @@ This week, write one. Answer the exact question buyers in your town type into Ch
 
 ## Production Notes
 
-- **Speaker lower-third:** Phil Stringer headshot + Stringer Steps logo on "At Zillow Unlock, Phil Stringer shared numbers" (about 0:05-0:08). Pull it before "Every one of them had a website." No other manual text; captions build from audio.
+- **Speaker lower-third:** Phil Stringer headshot + headshot only (no AI Academy logo found yet) on "At Zillow Unlock, Phil Stringer shared numbers" (about 0:05-0:08). Pull it before "Every one of them had a website." No other manual text; captions build from audio.
 - **One Prop:** the phone, showing a real ChatGPT answer that lists agent names (blur any real agent names). Lower it on "Not you."
 - **Why "top-selling agents" and not "agents":** the AI-written session summary says "91.5% of real estate agents never get named." The study the number matches (Local Falcon, below) measured only agents and teams ranked by production who publish a website. Saying "agents" would upgrade the claim. The narrower version is also the sharper turn: selling a lot did not get them named.
 - **Cut on purpose:** "top producers only show up about 1 in 5 times." The public study puts it at 21.2% of the highest-volume individual agents with websites. True, but a second number in a 30-second script, and it says the same thing as the 91.5%.

@@ -3,7 +3,7 @@ id: UNLOCK-25
 title: "Rushing rental calls costs you future buyers"
 series: unlock-insights
 speaker: "Joe Cicero"
-speaker_company: ""
+speaker_company: "The Gelzinis Group"
 session_title: "The Long Game: proven playbooks for converting buyers, renters, and sellers already in your pipeline"
 session_url: "https://www.unlockconference.com/session-insights/the-long-game-proven-playbooks-for-converting-buyers-renters-and-sellers-already-in-your-pipeline/"
 session_day: "Day 1, Tue Oct 13 2026"
@@ -12,8 +12,7 @@ pattern_interrupt: "The Stop"
 heat: 4
 word_count: 68
 gated: false
-needs_verification:
-  - "speaker_company: no company is given for Joe Cicero in the slate or the session summary; confirm before adding a logo"
+needs_verification: []
 ---
 
 # Rushing rental calls costs you future buyers
@@ -46,7 +45,7 @@ Do this today. Call back your last rental lead. Give them the full ten minutes.
 
 ## Production Notes
 
-- **Speaker on screen:** Joe Cicero headshot lower-third on "At Zillow Unlock, Joe Cicero said give every renter ten minutes" (about 0:06.5-0:10). Add a company logo only once confirmed (see needs_verification). No other manual text; captions build from audio.
+- **Speaker on screen:** Joe Cicero headshot lower-third on "At Zillow Unlock, Joe Cicero said give every renter ten minutes" (about 0:06.5-0:10). Add The Gelzinis Group logo (Director of Sales and Operations, The Gelzinis Group). No other manual text; captions build from audio.
 - **The Stop** lands on "costs you." Sacred Cow plus motion-to-freeze, per the cheat sheet.
 - **The three "Ask" lines are the script's one Rule-of-Three.** They map one-to-one to the session's "timeline, fears, and needs." Say them at an even pace, one finger per line if he wants.
 - **"Ten minutes" is from the session.** Don't say "five" or "a few."
@@ -57,7 +56,7 @@ Do this today. Call back your last rental lead. Give them the full ten minutes.
 ## Data Source
 
 - **Claim:** "Joe Cicero said give every renter ten minutes." / the timeline, fears, needs questions / "That's how renters become future buyers and referrals."
-  - Speaker: Joe Cicero
+  - Speaker: Joe Cicero, Director of Sales and Operations, The Gelzinis Group
   - Session: "The Long Game: proven playbooks for converting buyers, renters, and sellers already in your pipeline," Zillow Unlock 2026, Day 1, Tue Oct 13 2026, Fontainebleau Las Vegas
   - Session insights: https://www.unlockconference.com/session-insights/the-long-game-proven-playbooks-for-converting-buyers-renters-and-sellers-already-in-your-pipeline/
   - Exact wording in the session summary: "Don't dismiss rental leads: spending just 10 minutes qualifying a renter can uncover their real timeline, fears, and needs, often leading to future buyer conversions and referrals." Also: "Joe Cicero followed with a case for never dismissing rental leads, arguing that a 10-minute qualifying conversation can build trust and generate future buyers and referrals."
