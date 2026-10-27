@@ -279,6 +279,21 @@ Where candidates come from:
 
 ---
 
+## The Unlock Insights lane (one-off batch, 2026-10-27)
+
+**Unlock Insights** is a Lane option added on 2026-10-27 for the 39 finished reels in
+`scripts/unlock-insights/` (one insight per Zillow Unlock 2026 session, speaker credited
+on camera). D.J. approved all 39; they were posted Open with their v3 bodies and the
+standard footer.
+
+It is deliberately **not** in `TARGETS`, `REFILL_TRIGGER`, `SOURCES` or `WEEKLY` in
+`scripts/content_board.py`. The batch is finite, so there is nothing to refill or
+research, and `build_plan` ignores lanes it does not know (rows still get the expiry
+and empty-body checks). Do not add research for it. In the weekly mix these reels play
+the realtor-tip role. Several carry a `HOLD:` note in Angle; read it before filming.
+
+---
+
 ## The mirror lanes: Agent Spotlight, KIRP Episode, and (since 2026-09-08) Broker Problems
 
 These lanes are **not researched here**, and adding research for them would
