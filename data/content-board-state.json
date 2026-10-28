@@ -1344,7 +1344,202 @@
    "has_body": true,
    "lane": "Agent Spotlight",
    "ref": "scripts/chicago-agent-spotlight/mark-raffaelli-2026-10-26.md"
+  },
+  "https://app.notion.com/p/406313fa289281018930f869a8432378": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-14-reminder-text-real-detail.md"
+  },
+  "https://app.notion.com/p/406313fa28928105842bd2c9e7941c49": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-34-no-price-at-the-first-listing-meeting.md"
+  },
+  "https://app.notion.com/p/406313fa2892810ca080caf0c5a1799f": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-26-save-your-contact-live.md"
+  },
+  "https://app.notion.com/p/406313fa2892810f8b34e19dac98794a": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-03-your-seller-already-got-a-price-from-ai.md"
+  },
+  "https://app.notion.com/p/406313fa28928111bf5ece7a41516c9c": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-12-ai-one-job.md"
+  },
+  "https://app.notion.com/p/406313fa28928121a4d8f982e9cd9075": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-22-photo-plan-loses-listings.md"
+  },
+  "https://app.notion.com/p/406313fa28928125ac0bddd43e12b9ef": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-13-priciest-leads-never-called.md"
+  },
+  "https://app.notion.com/p/406313fa2892812eb88cf3695afc6581": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-25-rental-leads-future-buyers.md"
+  },
+  "https://app.notion.com/p/406313fa289281319938f515fd9d9a89": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-28-launch-on-the-quiet-day.md"
+  },
+  "https://app.notion.com/p/406313fa2892813983b0fcb0b817b0f9": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-38-hidden-listings-who-it-helps.md"
+  },
+  "https://app.notion.com/p/406313fa2892813d8678e5cb8da22fc3": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-29-short-open-houses.md"
+  },
+  "https://app.notion.com/p/406313fa2892814383ebffae3f6d7625": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-07-stop-ending-calls-with-let-me-know.md"
+  },
+  "https://app.notion.com/p/406313fa2892814cbab7fa2e2b122a11": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-32-not-great-service.md"
+  },
+  "https://app.notion.com/p/406313fa2892815caa51d395d615bf8d": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-18-yearly-tech-contracts.md"
+  },
+  "https://app.notion.com/p/406313fa28928164ae07e71e7e38738e": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-31-seven-four-three.md"
+  },
+  "https://app.notion.com/p/406313fa289281748f2ae109077e6eb2": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-10-hardest-client-costs-best-one.md"
+  },
+  "https://app.notion.com/p/406313fa2892817c9bfcde44a6619850": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-30-old-leads-no-human.md"
+  },
+  "https://app.notion.com/p/406313fa2892817dafdec69d6cbeb783": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-15-saved-home-signal.md"
+  },
+  "https://app.notion.com/p/406313fa2892817f8791d1f233aea38d": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-21-rent-vs-buy-gap.md"
+  },
+  "https://app.notion.com/p/406313fa28928182854bd4ef476a0109": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-11-inbox-is-not-a-to-do-list.md"
+  },
+  "https://app.notion.com/p/406313fa2892818cbbbadfaeb4591812": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-08-chatgpt-names-six-agents.md"
+  },
+  "https://app.notion.com/p/406313fa2892818eba23c00f84f5d0ac": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-05-slow-replies-to-new-leads-cost-you-buyers.md"
+  },
+  "https://app.notion.com/p/406313fa28928199b588fd762500a33a": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-27-waiting-for-rates-is-not-free.md"
+  },
+  "https://app.notion.com/p/406313fa28928199bff0e9c3c1905179": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-09-no-reviews-invisible-to-ai.md"
+  },
+  "https://app.notion.com/p/406313fa2892819a95a8f4962f27d33b": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-23-database-hiding-sellers.md"
+  },
+  "https://app.notion.com/p/406313fa289281a1abe4d0ed453136f6": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-02-cutting-your-fee-wont-win-the-listing.md"
+  },
+  "https://app.notion.com/p/406313fa289281a39126e5dd7563f3e2": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-17-fix-the-rule-not-the-answer.md"
+  },
+  "https://app.notion.com/p/406313fa289281abb2a0f10338847095": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-39-everyone-else-resists-change.md"
+  },
+  "https://app.notion.com/p/406313fa289281ac8284e60d8587eb72": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-06-asking-more-wont-fix-a-weak-ask.md"
+  },
+  "https://app.notion.com/p/406313fa289281bd983ce783132f3f49": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-16-busy-season-slow-season.md"
+  },
+  "https://app.notion.com/p/406313fa289281c09981e95cb2131a0d": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-37-referrals-best-source-worst-system.md"
+  },
+  "https://app.notion.com/p/406313fa289281c9bc95e91d8c29ed9e": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-35-bring-proof-not-a-slide-deck.md"
+  },
+  "https://app.notion.com/p/406313fa289281d482fbcc8fbec3e2b2": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-19-tell-leads-its-ai.md"
+  },
+  "https://app.notion.com/p/406313fa289281da954ee4fc374a1fd2": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-36-four-tenths-of-a-second.md"
+  },
+  "https://app.notion.com/p/406313fa289281de9c36fcebdb5ffcad": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-33-dont-slow-down.md"
+  },
+  "https://app.notion.com/p/406313fa289281e093f7df745b42d5ad": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-01-clients-pick-you-before-they-call.md"
+  },
+  "https://app.notion.com/p/406313fa289281e2832ae1466d83e67e": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-04-past-clients-wont-hire-you-again.md"
+  },
+  "https://app.notion.com/p/406313fa289281f089ebca0d1d38d05e": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-24-whats-not-working-question.md"
+  },
+  "https://app.notion.com/p/406313fa289281f580c1e6730abf3db4": {
+   "has_body": true,
+   "lane": "Unlock Insights",
+   "ref": "scripts/unlock-insights/UNLOCK-20-renters-waiting-on-rates.md"
   }
  },
- "updated": "2026-10-27"
+ "updated": "2026-10-28"
 }
