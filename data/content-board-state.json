@@ -1539,7 +1539,17 @@
    "has_body": true,
    "lane": "Unlock Insights",
    "ref": "scripts/unlock-insights/UNLOCK-20-renters-waiting-on-rates.md"
+  },
+  "https://app.notion.com/p/409313fa289281349743c9b0ed41dc6b": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-10-30.md top-stories: Inman stigmatized listings + 225 ILCS 454/15-20"
+  },
+  "https://app.notion.com/p/409313fa28928166aa9afa2e25d06768": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-10-30.md top-stories: HousingWire Coldwell Banker 2026 American Dream Report, down payment gift funds"
   }
  },
- "updated": "2026-10-29"
+ "updated": "2026-10-30"
 }
