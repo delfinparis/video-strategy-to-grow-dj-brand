@@ -1549,7 +1549,22 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-10-30.md top-stories: HousingWire Coldwell Banker 2026 American Dream Report, down payment gift funds"
+  },
+  "https://app.notion.com/p/40b313fa289281f09731c427bafdda34": {
+   "has_body": true,
+   "lane": "KIRP Episode",
+   "ref": "scripts/podcast-promos/kir-mischa-fisher-2026-10-30.md"
+  },
+  "https://app.notion.com/p/40c313fa28928130acd5d44a55b823cc": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-02.md stat tip: mortgage lock-in + FHFA WP 24-03"
+  },
+  "https://app.notion.com/p/40c313fa289281f7a738c3c06c130861": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-02.md top-stories: Inman rate lock-in + Zillow dual-shopper"
   }
  },
- "updated": "2026-11-01"
+ "updated": "2026-11-02"
 }
