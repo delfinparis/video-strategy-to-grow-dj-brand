@@ -644,8 +644,7 @@ Every take is a walk-and-talk and must end with an `## AI Music Prompt` section 
   like a rant, and it should not sound like a coaching pep talk either.
 - **Heat 4 (Wednesday):** drop to ~96 BPM and go more controlled, not more aggressive. Urgency in
   the music on top of friction in the script reads as anger.
-- **300-character hard cap.** `[no vocals]` at the start, `no melodic hook, no vocal chops, no
-  risers, no whooshes`, `unobtrusive background for voiceover`, `loopable`, BPM as a number.
+- **300-character hard cap.** Start from the Take preset. `Instrumental only.` first, BPM as a number, the runtime, instruments chosen by register, `Sparse midrange, leaves room for a speaking voice.`, and the arc (`Full energy from the first beat, subtle lift at ..., clean ending.`). No `no X` exclusions or `loopable` by default (v2, 2026-11-03; see [`../ai-music-prompts.md`](../ai-music-prompts.md)).
 
 ---
 

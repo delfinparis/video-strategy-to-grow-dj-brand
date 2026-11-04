@@ -209,19 +209,22 @@ D.J. calls these "walk-and-talks." They get cut in CapCut and need a music bed a
 > [calibrated CapCut prompt, <=300 chars — start from the matching preset in docs/ai-music-prompts.md, then tune BPM/energy/key descriptors to the actual script content]
 ```
 
-**Where to pull the templates from:** [`docs/ai-music-prompts.md`](docs/ai-music-prompts.md) has CapCut presets for each sub-type (NF default, NF big-number, IS, IA, Playbook, AI Tip of the Week, podcast promo) plus the master template and the troubleshooting table.
+**Where to pull the templates from:** [`docs/ai-music-prompts.md`](docs/ai-music-prompts.md) has CapCut presets for each lane (NF default, NF big-number, IS, IA, Playbook/tactical, Take, AI Tip of the Week, podcast promo, Stupid Things, Broker Problems, Chicago Agent Spotlight) plus the master template, the instrument-register table, and the troubleshooting table.
 
 **Don't just paste the preset verbatim.** Tune it:
 - **BPM:** 90 for sober/legal news, 95 default NF, 100 for big-number / scoreboard moments, 105-108 for tactical/upbeat, 90 for reflective synthesis.
 - **Energy descriptor:** Match the script's emotional register. A $52M settlement is "urgent but controlled." A "five brokerages in three months" scoreboard is "confident with forward momentum." A reflective IS about top producers is "warm and authoritative."
 - **Key feel:** Default minor-key-but-hopeful. Major-leaning for Playbook/AI Tip/Podcast Promo. Avoid pure-dark minor unless the news genuinely warrants it (it almost never does).
 
-**Non-negotiables in every prompt** (these are what make tracks voiceover-safe):
-- `[no vocals]` or `instrumental only` at the **start** of the style prompt
-- `no melodic hook, no vocal chops, no risers, no whooshes`
-- `unobtrusive background for voiceover` or `doesn't compete with speech`
-- `loopable`
-- Specify BPM as a number
+**Non-negotiables in every prompt** (v2, 2026-11-03; these are what make tracks voiceover-safe):
+- `Instrumental only.` as the **first words**
+- BPM as a number and the script's real runtime (`30s`; Stupid Things `40s`)
+- Instruments chosen by register: a low pad or sub bass plus one high, airy element. Piano, electric piano, guitar and plucked synth sit in the band speech needs and are never the lead sound
+- `Sparse midrange, leaves room for a speaking voice.`
+- The arc, not a loop: `Full energy from the first beat, subtle lift at {7s or 15s}, clean ending.`
+- **Describe, don't exclude.** No `no X` phrases by default and never `loopable`. At most one exclusion, added only to fix a problem heard in a generated track (e.g. `No vocals.` at the end after a vocal leak)
+
+Why: the 2026-11-03 audit found ~3 "no X" phrases per prompt and piano/guitar leads blurring D.J.'s voice; the side-by-side test is in [`docs/audits/2026-11-03-capcut-music-v2-test.md`](docs/audits/2026-11-03-capcut-music-v2-test.md).
 
 **When in doubt:** Use the NF default preset from [`docs/ai-music-prompts.md`](docs/ai-music-prompts.md) and tune from there.
 
@@ -271,14 +274,14 @@ If a sentence in a social caption needs a pause that an em dash would normally c
 
 **What a CapCut prompt must include in 300 chars:**
 
-1. Style / genre (e.g., "modern documentary editorial score")
-2. BPM (e.g., "95 BPM")
-3. Mood, 2-4 words (e.g., "authoritative, confident, verdict-in")
-4. 3-4 instruments max (e.g., "muted piano, pulsing synth bass, soft percussion")
-5. The "no vocals" constraint (always)
-6. Runtime hint (e.g., "30-35s")
+1. `Instrumental only.` (always first)
+2. Style / genre + mood, 2-4 words (e.g., "modern news-explainer underscore, urgent but controlled")
+3. BPM as a number and runtime (e.g., "95 BPM, 30s")
+4. 3-4 instruments chosen by register (e.g., "pulsing low synth pad, deep sub bass, tight kick, soft ticking hi-hat")
+5. `Sparse midrange, leaves room for a speaking voice.`
+6. The arc (e.g., "Full energy from the first beat, subtle lift at 7s, clean ending.")
 
-The CapCut prompt is the only music prompt (no Suno/Udio). If a descriptor won't fit, drop the least-important exclusion (`no risers`, `no reverb tails`) rather than ship an over-cap prompt that gets truncated. If a prompt would be meaningfully better at 350-400 chars, flag it and ask whether to split into two CapCut generations.
+The CapCut prompt is the only music prompt (no Suno/Udio). If it won't fit, shorten the style words before touching items 1, 5 or 6, rather than ship an over-cap prompt that gets truncated. If a prompt would be meaningfully better at 350-400 chars, flag it and ask whether to split into two CapCut generations.
 
 ---
 

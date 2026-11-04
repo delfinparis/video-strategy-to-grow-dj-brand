@@ -75,7 +75,7 @@ Every promo is a single `.md` in [`../../scripts/podcast-promos/`](../../scripts
 3. **`## Spoken Script (D.J. — to camera, walking)`** — the five beats as natural spoken paragraphs. Contractions everywhere. No stage directions inside the spoken lines.
 4. **`## B-Roll Cues (for the editor)`** — a beat-by-beat table. For KIR, cue the episode's video / guest clip if assets exist; otherwise D.J. talking-head + episode cover. Music ducks under any clip audio.
 5. **`## Data Source`** — every field pulled, with the analysis-JSON path and timestamps so claims are auditable (editorial source-rigor rule).
-6. **`## AI Music Prompt`** — Podcast promo preset from [`../ai-music-prompts.md`](../ai-music-prompts.md), tuned to the episode's energy (warm/major for an upbeat guest; a touch more grounded for a heavy topic). Single CapCut prompt (D.J. edits only in CapCut, no Suno/Udio), `no vocals` first, BPM as a number, ≤300 chars.
+6. **`## AI Music Prompt`** — Podcast promo preset from [`../ai-music-prompts.md`](../ai-music-prompts.md), tuned to the episode's energy (warm/major for an upbeat guest; a touch more grounded for a heavy topic). Single CapCut prompt (D.J. edits only in CapCut, no Suno/Udio), `Instrumental only.` first, BPM as a number, ≤300 chars, no `no X` exclusions or `loopable` by default (v2).
 7. **`## Social Descriptions`** — IG, TikTok, YouTube Shorts, Facebook, LinkedIn, each one sentence, 1-2 hashtags on TikTok and YouTube Shorts only (Rules 0-1 of [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md)). Link delivery is unchanged: IG/TikTok = link in bio, YT = pinned comment, FB/LinkedIn = link in post.
 
    **The YouTube Shorts block needs a `**Title:**` line**, and until 2026-08-20 this lane was the worst offender: **not one** of the 24 `kir-*.md` promos had one. Lead the title with the guest's name where it fits — it is the searchable term for a podcast clip, and it is the reason someone finds the episode a year later. See [`../caption-and-hashtag-strategy.md`](../caption-and-hashtag-strategy.md#youtube-shorts-is-two-fields-not-one).
@@ -107,5 +107,5 @@ For Coffee Talk, this stacks on top of the existing stat registry — the stat d
 - [ ] Hook and tip checked against `promo-registry.md`, and a new row added.
 - [ ] Zero em dashes / en dashes. Straight quotes. Contractions in every spoken line.
 - [ ] Every number/claim traces to the episode (KIR analysis JSON or aired Coffee Talk script). No new stats.
-- [ ] AI Music Prompt block present, tuned, `[no vocals]` first.
+- [ ] AI Music Prompt block present, tuned, `Instrumental only.` first, ≤300 chars.
 - [ ] All five social descriptions present with correct link-delivery per platform.

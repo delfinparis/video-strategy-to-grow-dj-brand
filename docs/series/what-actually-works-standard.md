@@ -202,11 +202,8 @@ section beneath `## Data Source`**, per [`CLAUDE.md`](../../CLAUDE.md) and
   - Motivating / habit / fix-it-today → coaching, 105 BPM, light forward energy.
   - Warm / human / relationship → blend coaching + documentary, ~100 BPM, warm and encouraging.
   - Composure-under-heat / de-escalation → coaching, ~96 BPM, calm and controlled.
-- **CapCut prompt: 300-character hard cap** (per CLAUDE.md). Keep style, BPM, mood, 3-4 instruments,
-  the no-vocals constraint, and a runtime hint.
-- **Non-negotiables in every prompt:** `[no vocals]` / `instrumental only` at the start;
-  `no melodic hook, no vocal chops, no risers, no whooshes`; `unobtrusive background for voiceover`;
-  `loopable`; BPM as a number.
+- **CapCut prompt: 300-character hard cap** (per CLAUDE.md).
+- **Non-negotiables in every prompt:** `Instrumental only.` first, BPM as a number, the runtime, instruments chosen by register, `Sparse midrange, leaves room for a speaking voice.`, and the arc (`Full energy from the first beat, subtle lift at ..., clean ending.`). No `no X` exclusions or `loopable` by default (v2, 2026-11-03; see [`../ai-music-prompts.md`](../ai-music-prompts.md)).
 
 ---
 

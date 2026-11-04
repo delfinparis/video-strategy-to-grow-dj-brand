@@ -72,7 +72,7 @@ STANDARDS_FILES = [
     ("AI-TELLS FIELD GUIDE (scrub against this)", DOCS / "ai-tells-field-guide.md", 14000),
     ("VOICE INSTRUCTIONS (write so it reads as D.J.)", DOCS / "ai-voice-custom-instructions.md", 12000),
     ("CAPTION + HASHTAG STRATEGY (2026 -- hashtag caps + caption SEO)", DOCS / "caption-and-hashtag-strategy.md", 8000),
-    ("AI MUSIC PROMPT PRESETS", DOCS / "ai-music-prompts.md", 9000),
+    ("AI MUSIC PROMPT PRESETS", DOCS / "ai-music-prompts.md", 12000),
 ]
 # One gold-standard NF as a format exemplar.
 EXEMPLAR = REPO_ROOT / "scripts" / "inside-the-industry" / "NF-046-thirteen-million-frozen-by-1997-tax-rule.md"
@@ -131,7 +131,7 @@ Source the brief actually fetched (this is your ONLY factual ground):
 5. VOICE + AI-TELLS. Write so it reads as D.J., not as AI. Obey the field guide: no banned vocabulary, at most one "It's not X, it's Y", at most one Rule-of-Three, no self-answered rhetorical questions, no motivational-poster close.
 6. NO EM DASHES anywhere in social captions. Use periods or commas.
 7. SOCIAL COPY. Write all five captions (LinkedIn primary, Instagram Reels, TikTok, YouTube Shorts with title+description, Facebook), following Rule 0 of the CAPTION + HASHTAG STRATEGY doc above: every caption is ONE SENTENCE (under about 150 characters, a reaction or point of view written the way D.J. would type it on a phone, no stats or source names) on every platform including LinkedIn. Hashtags: 1-2 topical keyword tags on TikTok and YouTube Shorts only; ZERO on LinkedIn, Instagram, and Facebook; no brand tag, no #shorts, no #fyp. Put the tags at the end of the caption sentence on the same line, with NO "Hashtags:" label (D.J. copies caption and tags in one paste). Do not copy caption length or hashtags from the example. Do NOT write an X/Twitter caption -- D.J. does not use X. Put one real in-app-search keyword (the plain phrase an agent would actually search, e.g. "real estate commission settlement", "Chicago real estate") inside the sentence. Optimize for the send (would one agent DM this to another) and for dwell, never an engagement ask.
-8. AI MUSIC PROMPT. Include the section per the presets: Vibe and a single CapCut AI Music prompt (<=300 chars, starts with the no-vocals constraint, includes BPM as a number). D.J. edits only in CapCut, so there is no Suno/Udio prompt. Tune BPM/energy to this story.
+8. AI MUSIC PROMPT. Include the section per the presets: Vibe and a single CapCut AI Music prompt (<=300 chars, starts with "Instrumental only.", BPM as a number, instruments chosen by register so the midrange stays clear for the voice, ends with the arc "Full energy from the first beat, subtle lift at 7s, clean ending."; no "no X" exclusions and never "loopable"). D.J. edits only in CapCut, so there is no Suno/Udio prompt. Tune BPM/energy to this story.
 9. FRONTMATTER. Fill the required Inside the Industry frontmatter (series, type: reactive, script_number: "NF-DRAFT", title, avatar, content_pillar, primary_platform, post_date: "TBD", status: needs-verification, plus heat, stat_anchored, loop_back, share_trigger). Include the WOW line and Shareable Moment.
 
 Output ONLY the finished markdown script package, starting with the frontmatter block. No preamble, no explanation."""

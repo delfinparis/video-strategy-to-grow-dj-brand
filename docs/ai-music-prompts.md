@@ -1,214 +1,143 @@
-# CapCut AI Music Prompts for Walk-and-Talk Reels
+# CapCut AI Music Prompts
 
-How to generate background music for D.J.'s walk-and-talk reels (Inside the Industry NF/IS/IA, The Playbook, AI Tip of the Week, podcast promos — anything that's 30s of D.J. talking to camera).
+> **v2, live since 2026-11-03.** Rebuilt from an audit of 310 shipped prompts and a side-by-side CapCut test ([`audits/2026-11-03-capcut-music-v2-test.md`](audits/2026-11-03-capcut-music-v2-test.md)): v2 scored 40/45 against the old engine's 38/45, tied on 30s scripts and won on the longer one, where the old instrument choices blurred D.J.'s voice on 2 of 3 tracks. Adding `No vocals.` did not reliably help (one vocal leak in 9 tracks either way), so it is a troubleshooting fix, not a default.
 
-**Runtime changed 2026-08-25** (Rule 7: 30s target written to 30, 35s hard cap). Two things follow for the music. **Put the runtime hint in every CapCut prompt as "30s"**, not the old 25-30s and never the 55-60s before that, or the generator builds an arrangement with a development section the video never reaches. And **ask for a bed that is already at full energy on the first beat** -- at 30 seconds there is still no room for an intro ramp, so add `starts at full energy, no intro build` to the prompt and drop a less important exclusion to stay inside the 300-character cap. One addition at the new runtime: a bed that holds one texture for 30 seconds reads as flat, so `subtle lift at the halfway mark` is worth the characters when the script's THE POINT beat carries a number or a turn.
+Background music for D.J.'s walk-and-talks. D.J. edits only in CapCut, so there is one CapCut prompt per script and no Suno/Udio. Music sits under the voice at 10-15% volume ([`capcut-editing-playbook.md`](capcut-editing-playbook.md) Part 6).
 
-**D.J. edits only in CapCut.** Every prompt in this doc is written for CapCut's AI Music generator. There is no Suno/Udio prompt anymore. Copy the preset, tune 2-3 variables, paste into CapCut AI Music. Music goes **under** the voice at 10-15% volume max (per [`capcut-editing-playbook.md`](capcut-editing-playbook.md) Part 6) — its only job is to keep the viewer's nervous system engaged, never to compete with what D.J. is saying.
+## What changed from v1 (pre-2026-11-03 prompts), and why
 
----
+| v1 habit | v2 rule | Why |
+|---|---|---|
+| ~3 "no X" phrases per prompt | Describe what you want. One exclusion max, only to fix a problem you heard | Text-to-music models read words as things to include. "No vocal chops" spends characters naming vocal chops |
+| Piano, electric piano, guitar, plucks as the lead sounds | Pick instruments by register: low pad or sub bass plus one high, airy element | Those instruments sit in 1-4 kHz, the band speech needs for clarity. That's why beds "muddy under D.J." |
+| `loopable` in 99% of prompts | Describe the arc: full energy, a lift, a clean ending | A 30s track never loops. Asking for a loop asks for the flat, unchanging bed we don't want |
+| `starts at full energy` + `no intro build` | `Full energy from the first beat` | Same instruction twice |
+| Copy the preset, change nothing | Change mood, lift time, and one instrument per script | 40% of shipped prompts were 80%+ identical to a preset |
 
 ## The One Rule
 
-**Music never out-talks D.J.** Every prompt in this doc is calibrated to produce subtle, non-melodic, voice-friendly beds. If a generated track has a hook line you start humming, it's wrong for the reel. Regenerate.
+**Music never out-talks D.J.** If you catch yourself humming the track, it's wrong. Regenerate.
 
----
+## Prompt anatomy (in this order, 300 characters max)
 
-## The 300-character hard cap
+1. `Instrumental only.` Always first.
+2. Style + mood (2-4 words) + BPM as a number + the script's real runtime (`30s`; Stupid Things `40s`).
+3. Three or four instruments chosen by register (table below).
+4. `Sparse midrange, leaves room for a speaking voice.`
+5. The arc: `Full energy from the first beat, subtle lift at {L}, clean ending.` Set `{L}` to where THE POINT starts (about 7s when the point is a number) or the halfway mark (15s).
 
-CapCut's AI Music input truncates silently past **300 characters** (spaces and punctuation included). Every prompt below fits. If you tune one and it grows past 300, cut a descriptor rather than let CapCut work from a partial input. What a good CapCut prompt fits in 300 chars:
+CapCut truncates silently past 300 characters, spaces included. Count every prompt. If it runs over, shorten the style words before touching steps 1, 4 or 5.
 
-1. Style / genre (e.g., "modern documentary editorial score")
-2. BPM as a number (e.g., "95 BPM")
-3. Mood, 2-4 words (e.g., "authoritative, confident, verdict-in")
-4. 3-4 instruments max (e.g., "muted piano, pulsing synth bass, soft percussion")
-5. The "no vocals" constraint (always, at the start)
-6. Runtime / voiceover hint (e.g., "30s, subtle bed for voiceover, loopable")
+## Choosing instruments by register
 
----
+| Use freely (stays out of the voice) | Use sparingly, low or as single notes | Avoid as the main sound |
+|---|---|---|
+| low synth pad, sub bass, upright bass, held low strings, kick, brushed kit, shaker, hi-hat, tambourine, high synth shimmer, high harmonics | felt piano ("a few low notes"), Rhodes ("low chords"), arpeggiated synth ("low") | lead synth, electric piano chords, strummed or plucked guitar, plucked synth, strings melody, brass |
 
-## What makes a good CapCut prompt (the short version)
-
-1. **Describe, don't command.** "Upbeat lo-fi instrumental, 95 BPM" beats "make me an upbeat song." Front-load the genre and mood.
-2. **Put `Instrumental` / `no vocals` at the start.** CapCut sometimes adds vocals if you don't lead with the constraint.
-3. **4-7 descriptors is the sweet spot.** Fewer = generic. More = the model gets confused and the 300-char cap bites.
-4. **Name 2-3 specific instruments, not categories.** "Warm Rhodes, soft kick, subtle pad" beats "electronic."
-5. **Specify intent for voiceover.** `subtle bed for voiceover`, `unobtrusive`, `doesn't compete with speech`, `loopable`, `clean low-end`.
-6. **Specify what NOT to include.** `no melodic hook`, `no risers`, `no vocal chops` — exclusions matter as much as inclusions for VO beds. Trim these first if you hit the cap.
-7. **BPM matters more than you think.** Walk-and-talks land best in the **90-110 BPM** range. Slower feels funereal under D.J.'s pacing; faster fights his cadence.
-8. **Avoid artist names.** Use era + genre instead ("late-90s trip-hop," "modern corporate-cinematic").
-
----
-
-## D.J.'s house sound (start here every time)
-
-The default vibe for an NF (news-reactive) walk-and-talk. Modern, slightly tense, authoritative — the audio equivalent of "I have inside information and you should listen."
-
-**Genre lane:** Modern corporate-cinematic, light electronic underscore, neutral-but-confident.
-**BPM:** 95-105 (90 for sober/legal news, 105-110 for high-energy market wins).
-**Key feel:** Minor key, but not dark. Think Bloomberg explainer, not true crime.
-**Instrumentation:** Soft pulsing synth pad, muted plucked synth or Rhodes, light kick, subtle hi-hat shuffle, occasional restrained string layer.
-**What to avoid:** Lead melodies, vocal chops, big drops, risers, "epic trailer" brass, lo-fi vinyl crackle (too casual for industry news), tropical house anything.
-
----
-
-## Master template (use this 80% of the time)
+## Master template
 
 ```
-Instrumental modern corporate-cinematic underscore, {ENERGY}, {BPM} BPM,
-soft synth pad and muted plucked synth, light kick, no vocals,
-subtle background for voiceover, no melodic hook, loopable
+Instrumental only. Minimal modern documentary underscore, confident and steady, 98 BPM, 30s. Warm low synth pad, soft sub bass, light kick, airy shaker. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
 ```
 
-**Variables to fill in:**
-- `{ENERGY}` — pick one: `subtle energy` / `confident and steady` / `urgent but controlled` / `reflective` / `building tension`
-- `{BPM}` — 90 / 95 / 100 / 105 / 110
+Swap: mood (`confident and steady` / `urgent but controlled` / `reflective` / `warm and inviting`), BPM (90-110; slower is funereal under D.J., faster fights his pace), lift time.
 
-Keep it to 1-2 sentences. This is the same DNA as every preset below, just neutral.
+## Presets by lane
 
----
+Each fits under 300. Start here, then tune to the script.
 
-## Calibrated presets by script type
-
-Match the music to what the script is doing. The prompt changes; the "no vocals / voiceover-friendly" frame stays constant. Each fits under 300 chars.
-
-### NF — News (the default walk-and-talk)
-
-**Use when:** Settlement news, lawsuit update, regulatory move, market shift, breaking industry headline. The hook is a number or a fact.
-
-**Vibe target:** Bloomberg / WSJ explainer. Sober, modern, slightly tense, authoritative.
-
+**NF news (default).** Bloomberg-explainer tension. Lift at 7s, where the number lands.
 ```
-Instrumental news-explainer underscore, urgent but controlled, 95 BPM,
-pulsing minor synth pad, muted plucks, tight kick, no vocals,
-subtle bed for voiceover, loopable
+Instrumental only. Modern news-explainer underscore, urgent but controlled, minor key, 95 BPM, 30s. Pulsing low synth pad, deep sub bass, tight kick, soft ticking hi-hat. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 7s, clean ending.
 ```
 
-### NF — Big number / scoreboard moment
-
-**Use when:** The hook is a dollar figure ($52M, $89M, $418M), a count ("five brokerages in three months"), or a deadline ("July 28").
-
-**Vibe target:** Slightly more momentum than default NF. Confident, ticking, "the clock is moving."
-
+**NF big number / deadline.** The clock is moving.
 ```
-Instrumental financial-news underscore, confident and ticking, 100 BPM,
-arpeggiated synth, Rhodes stabs, steady kick, no vocals,
-unobtrusive bed for voiceover, loopable
+Instrumental only. Financial-news underscore, confident and ticking, 100 BPM, 30s. Low arpeggiated synth, deep sub bass, steady kick, crisp clock-like hi-hat. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 7s, clean ending.
 ```
 
-### IS — Synthesis (pattern across 700 interviews)
-
-**Use when:** "I've interviewed 700 agents and here's what the top producers all do." More reflective and authoritative than NF. The viewer is being let in on a pattern.
-
-**Vibe target:** Thoughtful, slightly warmer than NF. A documentary mid-segment under a wise narrator.
-
+**IS synthesis (patterns across 700 interviews).** Warmer, documentary narrator.
 ```
-Instrumental documentary underscore, warm and reflective, 90 BPM,
-felt piano, ambient pad, sparse kick, no vocals,
-quiet bed for voiceover, loopable
+Instrumental only. Documentary underscore, warm and reflective, 90 BPM, 30s. Soft ambient pad, a few low felt piano notes, sparse kick, airy texture. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
 ```
 
-### IA — Access (D.J. was in the room)
-
-**Use when:** "I just spent two days with NAR's executive team." The credential and the access ARE the scroll-stopper. Music should feel insider, slightly elevated.
-
-**Vibe target:** Boardroom-modern. Slightly more polished and "high-stakes" than NF.
-
+**IA access (D.J. was in the room).** Polished, high-stakes.
 ```
-Instrumental modern boardroom underscore, confident insider feel, 98 BPM,
-smooth pad, plucked melody, soft kick, no vocals,
-quiet bed for voiceover, loopable
+Instrumental only. Modern boardroom underscore, polished insider feel, 98 BPM, 30s. Smooth low pad, deep sub bass, soft kick, shimmering high synth. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
 ```
 
-### The Playbook — Scenario / tactical
-
-**Use when:** D.J. walks through a specific tactical scenario ("the white duvet trick," objection handling, listing presentation moves). Practical, slightly upbeat.
-
-**Vibe target:** Modern productivity / coaching. Light forward energy, no drama.
-
+**The Playbook / Unlock Insights / What Actually Works (tactical).** Light forward energy. Firmer and less cheerful for hard-conversation scripts.
 ```
-Instrumental modern coaching underscore, light forward energy, 105 BPM,
-plucked synth, electric piano, tight kick, no vocals,
-upbeat-but-quiet bed for voiceover, loopable
+Instrumental only. Modern coaching underscore, light forward energy, 104 BPM, 30s. Warm low synth pad, bouncy sub bass, tight kick, airy shaker. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
 ```
 
-### AI Tip of the Week — Utility / Friday slot
-
-**Use when:** Fri tapthis.co utility post. The CTA is the point. Music should feel modern-tech, slightly more energetic than NF.
-
-**Vibe target:** Modern SaaS demo / product walkthrough. Clean, forward, optimistic.
-
+**Take.** Confident, not a rant. At heat 4, drop to ~96 BPM and go more controlled, never more aggressive.
 ```
-Instrumental modern tech-product underscore, clean and forward, 108 BPM,
-arpeggiated synth, muted lead, tight kick, no vocals,
-optimistic bed for voiceover, loopable
+Instrumental only. Modern editorial underscore, confident, unhurried, slightly pointed, 100 BPM, 30s. Low synth pad, round sub bass, tight kick, soft hi-hat. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
 ```
 
-### Podcast promo (Mon KIR slot)
-
-**Use when:** "New KIR episode this week with [guest]." Warm, conversational, lifts the guest's credibility.
-
-**Vibe target:** Modern interview-show theme. Warm, inviting, slightly elevated.
-
+**AI Tip of the Week.** Clean SaaS-demo optimism.
 ```
-Instrumental modern interview-show theme, warm and inviting, 95 BPM,
-electric piano, mellow guitar, brushed kick, no vocals,
-warm bed for voiceover, loopable
+Instrumental only. Modern tech-product underscore, clean and optimistic, 108 BPM, 30s. Low arpeggiated synth, deep sub bass, tight kick, bright high sparkle. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
 ```
 
----
+**Podcast promo (KIR / Coffee Talk).** Warm interview-show feel.
+```
+Instrumental only. Modern interview-show underscore, warm and inviting, 95 BPM, 30s. Soft low synth pad, warm sub bass, brushed kick, airy tambourine. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
+```
 
-## How to use a generated track in CapCut
+**Stupid Things (40s lane).** Calm, sensible, level.
+```
+Instrumental only. Calm walking underscore, sensible and level, 94 BPM, 40s. Warm low pad, muted sub bass, soft kick, brushed hi-hat. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 20s, clean ending.
+```
 
-1. **Generate 3-4 takes.** AI music is non-deterministic. The first take is rarely the best.
-2. **Listen with your eyes closed.** Your ear catches "this would distract from D.J.'s voice" faster than your eye.
-3. **Reject anything with a hook line.** If you find yourself humming it, it's competing with the script.
-4. **Drop it on the timeline below the voice track.**
-5. **Volume: 10-15% max.** Per [`capcut-editing-playbook.md`](capcut-editing-playbook.md) Part 6 mistakes table. If you can hear the music clearly over D.J., it's too loud.
-6. **Fade in 0.3s at the start, fade out 0.5s at the end.** Avoids the jarring music-just-started feel.
-7. **Trim to script length + 1s.** Music shouldn't outlast the close.
-8. **Optional: duck under the hook.** If D.J.'s hook is a hard number ("$52 million"), drop the music to 5% for the hook line, ramp to 12% under CONTEXT.
+**Broker Problems.** Patient, uneasy, unresolved.
+```
+Instrumental only. Sparse ambient documentary underscore, patient and uneasy, minor key, 90 BPM, 30s. Held low strings, low sustained bass, soft brushed percussion. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
+```
 
----
+**Chicago Agent Spotlight.** Sincere, major-key tribute.
+```
+Instrumental only. Warm acoustic underscore, sincere and uplifting, major key, 92 BPM, 30s. Low upright bass, soft brushed kick, gentle high acoustic harmonics. Sparse midrange, leaves room for a speaking voice. Full energy from the first beat, subtle lift at 15s, clean ending.
+```
 
-## Quick troubleshooting
+## Tuning to the script
 
-| Problem | Fix |
-|---|---|
-| Track has a melody you keep humming | Add `no melodic hook, no lead synth melody`, regenerate |
-| Track feels too "epic trailer" | Add `no orchestral brass, no big build`, lower BPM by 5 |
-| Track has accidental vocals or vocal chops | Move `Instrumental / no vocals` to the very start, add `no vocal chops` |
-| Track sounds dated / 2010s EDM | Add `modern production, no four-on-the-floor, no big-room synths` |
-| Track muddies under D.J.'s voice | Add `clean low end, sparse mid-range` |
-| Track has dramatic risers | Add `no risers, no whooshes` |
-| Track ends abruptly / won't loop | Add `seamless loop, no fade` |
+Before writing the prompt, write the **Vibe** line from the script's key moment, not its series. A sober settlement update and a market-up tip are both NF and need different beds. Then change at least three things from the preset: mood words, lift time, and one instrument. If THE POINT turns on a number, lift at 7s. If it builds to a turn in PAYOFF, lift at 15s.
 
-Note: with the 300-char cap, you often can't stack every fix in one prompt. Add the one that targets the specific problem, drop a less-important descriptor to make room, and regenerate.
+## In CapCut
 
----
+1. Audio > AI music > paste the prompt > Generate. Make 3-4 takes; the first is rarely the best.
+2. Listen under D.J.'s real voice track at 12%, eyes closed. Reject anything with a hook you'd hum or anything that blurs his consonants.
+3. Volume 10-15%. Fade in 0.3s, fade out 0.5s, trim to script length + 1s.
+4. Optional: dip to 5% under a hard-number hook, back to 12% after. Use Auto Ducking if your CapCut version has it; otherwise keyframe.
 
-## What this looks like in a script
+## Troubleshooting (one fix at a time, then regenerate)
 
-Every walk-and-talk script (NF, IS, IA, Playbook, AI Tip of the Week, podcast promo) should end with an **AI Music Prompt** block beneath the Data Source section:
+| Problem | Try first (positive) | Then, if still wrong (one exclusion) |
+|---|---|---|
+| Vocals or vocal chops appear | Make sure `Instrumental only.` is first | Add `No vocals.` at the end |
+| A melody you keep humming | Add `minimal, textural` to the style words | `no lead melody` |
+| Blurs D.J.'s voice | Swap the mid instrument for a pad or high shimmer | `no piano` / `no guitar` |
+| Too epic or trailer-like | Lower BPM 5, add `understated` | `no brass` |
+| Big swells or whooshes | `steady, even dynamics` | `no risers` |
+| Feels flat by second 20 | Move the lift earlier, add `gentle build in the last third` | -- |
+| Sounds dated (2010s EDM) | `modern minimal production` | `no four-on-the-floor` |
+
+## Script block format
 
 ```markdown
 ## AI Music Prompt
 
-**Vibe:** [one-line description of the energy this track should carry]
+**Vibe:** [one line, from the script's key moment]
 
 **CapCut AI Music:**
-> [calibrated CapCut prompt from the preset above, <=300 chars, tuned for this specific script]
+> [prompt, <=300 characters, `Instrumental only.` first]
 ```
-
-Claude generates the CapCut prompt and tunes the energy / BPM to the specific script. A sober settlement update is not the same energy as a market-up tip — even though both are NF.
-
----
 
 ## Sources
 
-Research that informed this guide:
-
-- [CapCut AI Music Generator (CapCut docs)](https://www.capcut.com/tools/ai-music-generator) — how the in-app generator parses prompts; talking-head guidance to keep tracks subtle
-- [Top AI Music Generators for YouTube Beginners (CapCut)](https://www.capcut.com/resource/top-5-ai-music-generators-for-youtube-beginners) — short-prompt format for the CapCut generator specifically
-- [AI Music Generation Prompts: Best Practices (MusicSmith)](https://musicsmith.ai/blog/ai-music-generation-prompts-best-practices) — describe-don't-command rule, exclusion lists, loopable-track guidance
-- [Real Estate Background Music Guide (Soundstripe)](https://www.soundstripe.com/blogs/music-for-real-estate-videos) — genre/mood selection logic for real-estate-creator content
+- [CapCut AI Music Generator](https://www.capcut.com/tools/ai-music-generator): the single "Describe your music" box, takes, fades, copyright check
+- [CapCut audio ducking guide](https://www.capcut.com/create/audio-ducking-for-clear-dialogue-in-video): Auto Ducking on supported versions, keyframes otherwise
+- [Stable Audio Open model card](https://huggingface.co/audo/stable-audio-open-1.0/raw/main/README.md) and [MusicGen negative-prompt discussion](https://huggingface.co/spaces/facebook/MusicGen/discussions/30): exclusions belong in a separate negative field, which CapCut doesn't have
+- [USPTO 8538749](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8538749): speech intelligibility concentrates in 1-4 kHz, peaking near 2 kHz

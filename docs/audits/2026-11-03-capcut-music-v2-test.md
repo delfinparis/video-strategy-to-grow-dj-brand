@@ -1,6 +1,6 @@
 # CapCut Music v2: Side-by-Side Test (2026-11-03)
 
-Tests [`../ai-music-prompts-v2.md`](../ai-music-prompts-v2.md) against the live engine on three real scripts before v2 replaces [`../ai-music-prompts.md`](../ai-music-prompts.md).
+Tested v2 against the old engine on three real scripts. **Result: v2 adopted 2026-11-03** and now lives in [`../ai-music-prompts.md`](../ai-music-prompts.md). Totals: A 38/45, B 40/45, C 37/45 (NF-112 C1 row reads 0s with a 5 total; the 0s are counted).
 
 ## What we're testing
 
