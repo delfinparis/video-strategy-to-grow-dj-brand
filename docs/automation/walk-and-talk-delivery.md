@@ -300,7 +300,7 @@ the repo file so the video can still be made.
 project, not a fragment: the sender/alarm, the trigger installer, the reply
 watcher, the script generator, and the voice spec.
 
-1. Open the Apps Script project attached to `delfinparis@gmail.com`.
+1. Open the Apps Script project **"Walk & Talk Auto-Send"** in `delfinparis@gmail.com` (script.google.com).
 2. Select all, paste the file over it, save.
 3. Run `installTriggers` once from the editor.
 
