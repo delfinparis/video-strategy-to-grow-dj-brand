@@ -1564,7 +1564,27 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-11-02.md top-stories: Inman rate lock-in + Zillow dual-shopper"
+  },
+  "https://app.notion.com/p/411313fa2892815db000cb846557af61": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-07.md story list: NAR 2026 Profile of Home Buyers and Sellers"
+  },
+  "https://app.notion.com/p/411313fa289281a386bddaccf916f936": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-07.md story list: SmartMLS Ownership Verification + ALTA Seller Impersonation Fraud Study 2026"
+  },
+  "https://app.notion.com/p/414313fa2892815db30ae6d456a0a1a8": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-10.md story list: New NAR Policies Allow MLS Data-Feed Restrictions, Photo Copyright"
+  },
+  "https://app.notion.com/p/414313fa289281e88f3fdf38afbefacf": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-10.md story list: Redfin condo report, fall 2026"
   }
  },
- "updated": "2026-11-06"
+ "updated": "2026-11-12"
 }
