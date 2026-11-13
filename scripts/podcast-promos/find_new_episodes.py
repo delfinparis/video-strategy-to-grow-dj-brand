@@ -35,18 +35,25 @@ def load_state():
     return {"promoed_guids": []}
 
 
-def find_analysis(analysis_dir: Path, pub_date: str, item_id: int, guest_name: str) -> Path | None:
-    """Return the analysis JSON path if one exists for this episode."""
-    # Filename pattern: YYYY-MM-DD_itemN_Guest-Name_analysis.json
-    prefix = f"{pub_date}_item{item_id}_"
-    candidates = list(analysis_dir.glob(f"{prefix}*_analysis.json"))
-    if candidates:
-        return candidates[0]
-    # Fallback: search by guest name slug
-    slug = guest_name.replace(" ", "-").replace(".", "")
-    candidates = list(analysis_dir.glob(f"*_{slug}_analysis.json"))
-    if candidates:
-        return candidates[0]
+def find_analysis(analysis_dir: Path, ep: dict) -> Path | None:
+    """Return the analysis JSON path if one exists for this episode.
+
+    episodes.json carries each episode's exact filename (stable since 2026-11-13:
+    YYYY-MM-DD_item<WordPress post ID>_Guest-Name), so look that up directly.
+    Fallback is same-date + guest only: a guest-only match would grab an OLD
+    episode for recurring guests (Sarah Maslowski, Paul Salter, Kim Rittberg).
+    """
+    stem = Path(ep.get("filename", "")).stem
+    if stem:
+        exact = analysis_dir / f"{stem}_analysis.json"
+        if exact.exists():
+            return exact
+    pub_date = ep.get("publish_date", "")
+    slug = (ep.get("guest_name") or "").replace(" ", "-")
+    if pub_date and slug:
+        candidates = sorted(analysis_dir.glob(f"{pub_date}_item*_{slug}_analysis.json"))
+        if candidates:
+            return candidates[-1]
     return None
 
 
@@ -91,8 +98,7 @@ def main():
         if str(guid) in promoed:
             continue
 
-        item_id = ep.get("id", 1)
-        analysis_path = find_analysis(analysis_dir, pub_date_str, item_id, guest)
+        analysis_path = find_analysis(analysis_dir, ep)
         if not analysis_path:
             continue  # no analysis yet, skip
 
