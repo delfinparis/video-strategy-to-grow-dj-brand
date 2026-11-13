@@ -248,5 +248,14 @@
     "facebook": null,
     "youtube": null,
     "notes": "LinkedIn verified 2026-10-31 via the hyperlink on his name in the Keeping It Real episode show notes (keeping-it-real-content-system/webapp/src/data/episodes.json, episode id 1, Chief Economist at Zillow, published 2026-10-30). No Instagram, TikTok, Facebook, or YouTube link appears in the episode description, the transcript, or any site reached from it, so those platforms are unverified and left untagged per the never-guess-a-handle rule."
+  },
+  "justin-helmus": {
+    "instagram": null,
+    "tiktok": null,
+    "linkedin": null,
+    "facebook": null,
+    "youtube": null,
+    "website": "https://www.meridianreside.com/justin-helmus",
+    "notes": "Searched Instagram, TikTok, LinkedIn November 2026. No verified handles found across multiple searches (justinhelmus, justin.helmus, helmus.real.estate). Website from episode description: https://www.meridianreside.com/justin-helmus. Handles omitted per rule -- only include verified accounts."
   }
 }
