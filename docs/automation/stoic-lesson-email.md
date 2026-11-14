@@ -2,8 +2,13 @@
 
 Personal, not content work. Every morning at about 8am Central, one Stoic
 quote, a short lesson on it, and one exercise you can finish in 5 minutes
-land in delfinparis@gmail.com. Built as a twin of the
+land in your own Gmail inbox. Built as a twin of the
 [DBT skill email](dbt-skill-email.md).
+
+The address is not in the repo. The script sets `to` from the `DAILY_EMAIL_TO`
+environment variable; when it is unset, `to` is null and the routine sends to
+the Gmail connector's own account. (A hardcoded address tripped the privacy
+hook and stopped the 2026-11-14 send.)
 
 ## How it works
 
