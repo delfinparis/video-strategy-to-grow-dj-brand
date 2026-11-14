@@ -5,7 +5,7 @@ Deterministic, no state, no network, no API key. The skill for a date is
 (date - START) % len(skills) over data/dbt-skills.json, so every run on the
 same day picks the same skill and the list cycles forever.
 
-    python3 scripts/dbt_skill.py today            # JSON: to, subject, body, htmlBody
+    python3 scripts/dbt_skill.py today            # JSON: to (null unless DAILY_EMAIL_TO), subject, body, htmlBody
     python3 scripts/dbt_skill.py today --date 2026-10-05
     python3 scripts/dbt_skill.py preview          # plain text only, for eyeballing
     python3 scripts/dbt_skill.py list             # the rotation, numbered
@@ -17,13 +17,16 @@ import argparse
 import datetime as dt
 import html
 import json
+import os
 import sys
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 LIBRARY = ROOT / "data" / "dbt-skills.json"
-TO = "delfinparis@gmail.com"
+# Recipient comes from the environment so the address never sits in the repo.
+# Unset: "to" is null and the routine sends to the Gmail connector's own account.
+TO = os.environ.get("DAILY_EMAIL_TO") or None
 TZ = ZoneInfo("America/Chicago")
 START = dt.date(2026, 10, 1)  # day 1 of the rotation = skill #1
 

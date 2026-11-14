@@ -2,7 +2,9 @@
 
 Personal, not content work. Every morning at about 8am Central, one DBT skill
 and one exercise you can finish in 5 minutes anywhere lands in
-delfinparis@gmail.com.
+your own Gmail inbox. The address is not in the repo: the script sets `to` from
+the `DAILY_EMAIL_TO` environment variable, and when it is unset `to` is null
+and the routine sends to the Gmail connector's own account.
 
 ## How it works
 

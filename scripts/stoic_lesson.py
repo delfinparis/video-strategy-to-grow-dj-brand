@@ -5,7 +5,7 @@ Deterministic, no state, no network, no API key. The lesson for a date is
 (date - START) % len(lessons) over data/stoic-lessons.json, so every run on
 the same day picks the same lesson and the list cycles forever.
 
-    python3 scripts/stoic_lesson.py today            # JSON: to, subject, body, htmlBody
+    python3 scripts/stoic_lesson.py today            # JSON: to (null unless DAILY_EMAIL_TO), subject, body, htmlBody
     python3 scripts/stoic_lesson.py today --date 2026-10-05
     python3 scripts/stoic_lesson.py preview          # plain text only, for eyeballing
     python3 scripts/stoic_lesson.py list             # the rotation, numbered
@@ -18,6 +18,7 @@ import argparse
 import datetime as dt
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -27,7 +28,9 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 LIBRARY = ROOT / "data" / "stoic-lessons.json"
-TO = "delfinparis@gmail.com"
+# Recipient comes from the environment so the address never sits in the repo.
+# Unset: "to" is null and the routine sends to the Gmail connector's own account.
+TO = os.environ.get("DAILY_EMAIL_TO") or None
 TZ = ZoneInfo("America/Chicago")
 START = dt.date(2026, 10, 1)  # day 1 of the rotation = lesson #1
 
