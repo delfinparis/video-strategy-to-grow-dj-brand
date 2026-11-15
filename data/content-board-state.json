@@ -1584,7 +1584,32 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-11-10.md story list: Redfin condo report, fall 2026"
+  },
+  "https://app.notion.com/p/419313fa28928112a751c95c92ab2a6c": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-031-nobodys-reading-it.md"
+  },
+  "https://app.notion.com/p/419313fa2892814f849cf01abbdaa4fc": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-15.md #1 (Compass v. 15 MLSs)"
+  },
+  "https://app.notion.com/p/419313fa28928159b17ffed99ff7cc4f": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-032-who-your-cap-is-for.md"
+  },
+  "https://app.notion.com/p/419313fa28928199ae1dc4622cb6dd45": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-030-you-were-the-client.md"
+  },
+  "https://app.notion.com/p/419313fa2892819e9543e9572cd5db5e": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-15.md full-story-list: HousingWire weekly inventory 2026-11-14"
   }
  },
- "updated": "2026-11-14"
+ "updated": "2026-11-15"
 }
