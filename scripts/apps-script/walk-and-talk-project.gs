@@ -37,7 +37,12 @@ const STATE_TTL_DAYS        = 7;                   // must exceed the 4-day sear
 const STATE_PREFIX          = 'wt:';
 
 /* ---------- 1. Send the morning brief, or raise the alarm ---------- */
+/** Trigger entry point. Reports each run to the control panel, then runs autoSendWalkAndTalkBriefs_(). */
 function autoSendWalkAndTalkBriefs() {
+  return panelWatch_('walk-and-talk-sender', autoSendWalkAndTalkBriefs_);
+}
+
+function autoSendWalkAndTalkBriefs_() {
   const TZ = 'America/Chicago';
   const REPO_BRIEFS =
     'https://github.com/delfinparis/video-strategy-to-grow-dj-brand/blob/main/data/news-briefs/';
@@ -154,7 +159,12 @@ function autoSendWalkAndTalkBriefs() {
 // and train him to ignore it. The case this cannot see, a watchdog that never
 // ran at all, is covered from outside Google entirely by the Carousel heartbeat
 // GitHub Action (scripts/check_heartbeat.py). Two alarms, no overlap.
+/** Trigger entry point. Reports each run to the control panel, then runs sendCarouselAlerts_(). */
 function sendCarouselAlerts() {
+  return panelWatch_('carousel-alerts', sendCarouselAlerts_);
+}
+
+function sendCarouselAlerts_() {
   const TZ = 'America/Chicago';
   const today = Utilities.formatDate(new Date(), TZ, 'yyyy-MM-dd');
 
@@ -238,7 +248,12 @@ function installTriggers() {
 // call, not three), the attempt counter is written BEFORE the call (so a
 // killed execution still counts and retries are bounded), and a script lock
 // stops two overlapping runs from both answering the same thread.
+/** Trigger entry point. Reports each run to the control panel, then runs processWalkAndTalkReplies_(). */
 function processWalkAndTalkReplies() {
+  return panelWatch_('walk-and-talk-replies', processWalkAndTalkReplies_);
+}
+
+function processWalkAndTalkReplies_() {
   const lock = LockService.getScriptLock();
   // Google does not guarantee that two executions of the same trigger never
   // overlap, and a 5-minute trigger running a job that can approach 6 minutes
