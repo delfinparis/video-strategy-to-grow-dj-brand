@@ -1609,7 +1609,67 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-11-15.md full-story-list: HousingWire weekly inventory 2026-11-14"
+  },
+  "https://app.notion.com/p/41b313fa289281248312d4257b8930e4": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-08-stop-saying-i-think.md"
+  },
+  "https://app.notion.com/p/41b313fa2892812dab3effac3fdb8eaf": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-09-when-a-client-yells-get-quieter.md"
+  },
+  "https://app.notion.com/p/41b313fa28928138a617c36cebaeec68": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-05-fair-housing-complaints-are-about-disability.md"
+  },
+  "https://app.notion.com/p/41b313fa28928149bc04d15b815cf790": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-10-nobody-knows-where-you-are.md"
+  },
+  "https://app.notion.com/p/41b313fa2892815d9680e3e5d5868873": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-04-fraud-took-275-million.md"
+  },
+  "https://app.notion.com/p/41b313fa28928166ae3fc9623fdaa110": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-01-sellers-still-hire-agents.md"
+  },
+  "https://app.notion.com/p/41b313fa28928182a744de48033dec89": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-02-first-time-buyer-is-forty.md"
+  },
+  "https://app.notion.com/p/41b313fa289281abaa5dc14242988dfb": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-03-seller-hasnt-moved-in-twelve-years.md"
+  },
+  "https://app.notion.com/p/41b313fa289281b6abd1f1e6391a767b": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-06-realtor-sold-a-house-for-a-scammer.md"
+  },
+  "https://app.notion.com/p/41b313fa289281bfbae6ddc283d4daf8": {
+   "has_body": true,
+   "lane": "NAR NXT Insights",
+   "ref": "scripts/nar-nxt-insights/NXT-07-buyer-love-letters-can-get-you-sued.md"
+  },
+  "https://app.notion.com/p/41c313fa289281b88280e7d693aa9fd6": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-18.md Realtor.com October 2026 Rent Report"
+  },
+  "https://app.notion.com/p/41c313fa289281e89a7adba9dac78334": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-18.md Realtor.com new-construction rate buydowns"
   }
  },
- "updated": "2026-11-17"
+ "updated": "2026-11-18"
 }
