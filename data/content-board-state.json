@@ -1669,7 +1669,22 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-11-18.md Realtor.com new-construction rate buydowns"
+  },
+  "https://app.notion.com/p/420313fa28928129ac12dac4683254fd": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-034-when-nothing-was-wrong.md"
+  },
+  "https://app.notion.com/p/420313fa289281ada707eceebb61da5a": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-033-nobody-breaks-out-the-bill.md"
+  },
+  "https://app.notion.com/p/420313fa289281d9965df5d26cb34e9d": {
+   "has_body": true,
+   "lane": "Broker Problems",
+   "ref": "scripts/broker-problems/BP-035-available-to-who.md"
   }
  },
- "updated": "2026-11-21"
+ "updated": "2026-11-22"
 }
