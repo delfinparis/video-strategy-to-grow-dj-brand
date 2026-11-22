@@ -664,6 +664,9 @@ carousel on the same entry count as **one** use, not two. Rows are written by
 | 2026-11-17 | F1 | The Brand Tax | 2 | scripts/broker-problems/BP-030-you-were-the-client.md | video |
 | 2026-11-19 | C4 | The Silence | 2 | scripts/broker-problems/BP-031-nobodys-reading-it.md | video |
 | 2026-11-20 | A2 | The Slow Leak | 2 | scripts/broker-problems/BP-032-who-your-cap-is-for.md | video |
+| 2026-11-24 | F2 | The Brand Tax | 2 | scripts/broker-problems/BP-033-nobody-breaks-out-the-bill.md | video |
+| 2026-11-26 | C1 | The Silence | 1 | scripts/broker-problems/BP-034-when-nothing-was-wrong.md | video |
+| 2026-11-27 | B6 | The Thing That Doesn't Make Sense | 2 | scripts/broker-problems/BP-035-available-to-who.md | video |
 
 ## Rejected
 
