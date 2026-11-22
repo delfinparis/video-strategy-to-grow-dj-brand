@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "status": "ok",
   "checked": {"repo": true, "drive": true},
   "missing": [],
-  "note": "All items (2 KIRP decks, 2 KR decks, 2 GBP images, 2 GBP captions) verified present with full 5-slide counts in both the repo and Google Drive."
+  "note": "All KIRP, KR, and GBP items present in both the repo and Drive for today."
 }
