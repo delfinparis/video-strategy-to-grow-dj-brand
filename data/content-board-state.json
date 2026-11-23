@@ -1684,7 +1684,17 @@
    "has_body": true,
    "lane": "Broker Problems",
    "ref": "scripts/broker-problems/BP-035-available-to-who.md"
+  },
+  "https://app.notion.com/p/421313fa2892814e8ecbec8f63bfc1f9": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-23.md (NAR Pending Home Sales, October 2026)"
+  },
+  "https://app.notion.com/p/421313fa289281adaa0fe2d895043b08": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-23.md stat tip (NAR 2026 Member Profile)"
   }
  },
- "updated": "2026-11-22"
+ "updated": "2026-11-23"
 }
