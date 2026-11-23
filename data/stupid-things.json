@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-01",
+  "updated": "2026-11-23",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -1002,8 +1002,10 @@
           "angle": "A saved template with three blanks turns a 40-second job into a habit",
           "swap": "Answer every feedback request within 24 hours, even a no. Save a template with three blanks: overall, dealbreaker, price reaction. 'Showed beautifully but the second bedroom was smaller than they need. Price felt fair for the finishes.'",
           "hook": "A dozen showings, zero feedback, and a seller losing their mind over what's wrong with their house. Be the agent who hits reply.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-11-23",
+          "script": "scripts/carousels/KR-2026-11-23-showing-feedback-ghost-carousel.md"
         }
       ],
       "status": "banked",
@@ -3513,6 +3515,12 @@
       "id": "ST-0010",
       "angle": "The question that finds the thing the seller wasn't going to mention",
       "script": "board: https://app.notion.com/p/3ec313fa2892819c95e9fd4aa242a3ce"
+    },
+    {
+      "date": "2026-11-23",
+      "id": "ST-0020",
+      "angle": "A saved template with three blanks turns a 40-second job into a habit",
+      "script": "scripts/carousels/KR-2026-11-23-showing-feedback-ghost-carousel.md"
     }
   ],
   "rejected": [
