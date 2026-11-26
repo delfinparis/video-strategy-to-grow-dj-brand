@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-26",
   "config": {
     "target_size": 20,
     "refill_trigger": 5,
@@ -1054,8 +1054,10 @@
           "angle": "Text to schedule, phone to negotiate, then recap in writing",
           "swap": "Say this instead of typing a counter. 'Got your counter, calling you in five so we can talk it through.' Then recap in writing: 'To confirm, 585 if you cover the survey, close the fifteenth.'",
           "hook": "You're negotiating a six hundred thousand dollar deal by thumb-typing. Tone doesn't survive text, and neither will this deal.",
-          "status": "open",
-          "banked": "2026-08-13"
+          "status": "used",
+          "banked": "2026-08-13",
+          "used_date": "2026-11-26",
+          "script": "scripts/carousels/KR-2026-11-26-the-call-you-wont-make-carousel.md"
         }
       ],
       "status": "banked",
@@ -3521,6 +3523,12 @@
       "id": "ST-0020",
       "angle": "A saved template with three blanks turns a 40-second job into a habit",
       "script": "scripts/carousels/KR-2026-11-23-showing-feedback-ghost-carousel.md"
+    },
+    {
+      "date": "2026-11-26",
+      "id": "ST-0022",
+      "angle": "Text to schedule, phone to negotiate, then recap in writing",
+      "script": "scripts/carousels/KR-2026-11-26-the-call-you-wont-make-carousel.md"
     }
   ],
   "rejected": [
