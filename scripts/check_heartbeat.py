@@ -30,6 +30,7 @@ import datetime
 import json
 import os
 import sys
+from zoneinfo import ZoneInfo
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HEARTBEAT = os.path.join(BASE_DIR, "data", "carousel-heartbeat.json")
@@ -77,7 +78,10 @@ def main():
     ap.add_argument("--today", help="override today's date, for testing")
     args = ap.parse_args()
 
-    today = args.today or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    # Chicago date, not UTC: GitHub often starts scheduled runs hours late, and
+    # a run that slips past midnight UTC (6-7pm CT) would otherwise demand
+    # tomorrow's heartbeat and cry wolf (2026-11-23 through 11-25).
+    today = args.today or datetime.datetime.now(ZoneInfo("America/Chicago")).date().isoformat()
 
     beat, err = load()
     if err:
