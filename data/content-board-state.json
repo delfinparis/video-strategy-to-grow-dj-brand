@@ -1694,7 +1694,17 @@
    "has_body": true,
    "lane": "Agent Tip",
    "ref": "news-briefs/2026-11-23.md stat tip (NAR 2026 Member Profile)"
+  },
+  "https://app.notion.com/p/424313fa2892816e8791d0a627c9dd51": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-25.md mortgage-rates story (Freddie Mac PMMS 2026-11-25)"
+  },
+  "https://app.notion.com/p/424313fa289281d7a661d6abbe434448": {
+   "has_body": true,
+   "lane": "Agent Tip",
+   "ref": "news-briefs/2026-11-25.md (FHFA 2027 conforming loan limit)"
   }
  },
- "updated": "2026-11-25"
+ "updated": "2026-11-26"
 }
